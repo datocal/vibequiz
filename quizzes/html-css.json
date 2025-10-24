@@ -1,0 +1,118 @@
+{
+  "title": "HTML & CSS Fundamentals",
+  "description": "Master the building blocks of web development with questions on HTML structure and CSS styling.",
+  "category": "html",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Which HTML5 semantic element should be used for the main navigation menu?",
+      "options": [
+        "<menu>",
+        "<nav>",
+        "<navigation>",
+        "<navbar>"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The <nav> element is the correct HTML5 semantic element for navigation menus. It helps with accessibility and SEO."
+    },
+    {
+      "question": "What is the CSS Box Model order from inside to outside?",
+      "options": [
+        "margin → border → padding → content",
+        "content → padding → border → margin",
+        "padding → content → border → margin",
+        "content → border → padding → margin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The CSS Box Model order from inside to outside is: content → padding → border → margin."
+    },
+    {
+      "question": "Which CSS property is used to create flexible layouts?",
+      "options": [
+        "display: block;",
+        "display: inline;",
+        "display: flexbox;",
+        "display: flex;"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The display: flex; property enables flexbox layout, which is designed for creating flexible and responsive layouts."
+    },
+    {
+      "question": "What does the 'alt' attribute in an <img> tag provide?",
+      "options": [
+        "Alternative styling",
+        "Alternative image source",
+        "Alternative text description",
+        "Alternative dimensions"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 'alt' attribute provides alternative text that describes the image, important for accessibility and when images fail to load."
+    },
+    {
+      "question": "Which CSS unit is relative to the font size of the root element?",
+      "options": [
+        "em",
+        "px",
+        "rem",
+        "%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "rem (root em) is relative to the root element's font size. em is relative to the parent element's font size."
+    },
+    {
+      "question": "What is the purpose of the <meta charset='UTF-8'> tag?",
+      "options": [
+        "Sets the page title",
+        "Defines character encoding",
+        "Links to external CSS",
+        "Creates a metadata section"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The charset meta tag defines the character encoding for the HTML document, ensuring proper display of all characters."
+    },
+    {
+      "question": "Which CSS selector has the highest specificity?",
+      "options": [
+        "Class selector (.class)",
+        "ID selector (#id)",
+        "Element selector (div)",
+        "Attribute selector ([type='text'])"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ID selectors have the highest specificity among these options. Inline styles have even higher specificity, and !important overrides all."
+    },
+    {
+      "question": "What does the CSS property 'position: absolute;' do?",
+      "options": [
+        "Positions element relative to its normal position",
+        "Positions element relative to viewport",
+        "Positions element relative to nearest positioned ancestor",
+        "Removes element from document flow completely"
+      ],
+      "correctAnswer": 2,
+      "explanation": "position: absolute; positions the element relative to its nearest positioned (non-static) ancestor, or the document if none exists."
+    },
+    {
+      "question": "Which HTML attribute is used to open a link in a new tab?",
+      "options": [
+        "target='_blank'",
+        "newtab='true'",
+        "window='new'",
+        "open='tab'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The target='_blank' attribute opens the link in a new browser tab or window. For security, it's recommended to also use rel='noopener'."
+    },
+    {
+      "question": "What does the CSS 'z-index' property control?",
+      "options": [
+        "Zoom level",
+        "Stacking order of elements",
+        "Font size",
+        "Element width"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The z-index property controls the stacking order of positioned elements, determining which elements appear on top of others."
+    }
+  ]
+}

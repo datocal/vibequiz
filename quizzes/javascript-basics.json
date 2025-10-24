@@ -1,0 +1,118 @@
+{
+  "title": "JavaScript Basics",
+  "description": "Test your knowledge of fundamental JavaScript concepts including variables, functions, and data types.",
+  "category": "javascript",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What is the correct way to declare a variable in JavaScript that cannot be reassigned?",
+      "options": [
+        "var myVariable = 10;",
+        "let myVariable = 10;",
+        "const myVariable = 10;",
+        "variable myVariable = 10;"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 'const' keyword is used to declare variables that cannot be reassigned. 'let' allows reassignment, and 'var' is the older way of declaring variables."
+    },
+    {
+      "question": "Which of the following is NOT a primitive data type in JavaScript?",
+      "options": [
+        "String",
+        "Number",
+        "Array",
+        "Boolean"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Array is not a primitive data type in JavaScript. It's an object. Primitive types include String, Number, Boolean, null, undefined, Symbol, and BigInt."
+    },
+    {
+      "question": "What does the '===' operator do in JavaScript?",
+      "options": [
+        "Assigns a value to a variable",
+        "Compares values without type checking",
+        "Compares values and types (strict equality)",
+        "Checks if a variable is defined"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The '===' operator performs strict equality comparison, checking both value and type. The '==' operator only compares values (with type coercion)."
+    },
+    {
+      "question": "Which method is used to add an element to the end of an array?",
+      "options": [
+        "array.shift()",
+        "array.push()",
+        "array.unshift()",
+        "array.pop()"
+      ],
+      "correctAnswer": 1,
+      "explanation": "push() adds elements to the end of an array. pop() removes from the end, shift() removes from the beginning, and unshift() adds to the beginning."
+    },
+    {
+      "question": "What is the output of: typeof null?",
+      "options": [
+        "'null'",
+        "'undefined'",
+        "'object'",
+        "'number'"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is actually a long-standing bug in JavaScript. typeof null returns 'object', even though null is a primitive value."
+    },
+    {
+      "question": "How do you write a single-line comment in JavaScript?",
+      "options": [
+        "/* This is a comment */",
+        "// This is a comment",
+        "# This is a comment",
+        "<!-- This is a comment -->"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Single-line comments in JavaScript start with //. Multi-line comments use /* */."
+    },
+    {
+      "question": "What is the correct way to write an arrow function that takes two parameters and returns their sum?",
+      "options": [
+        "const sum = (a, b) => a + b;",
+        "const sum = (a, b) -> a + b;",
+        "const sum = function(a, b) => a + b;",
+        "const sum => (a, b) { return a + b; }"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Arrow functions use the => syntax. For simple expressions, you can omit the curly braces and return keyword."
+    },
+    {
+      "question": "Which method converts a JSON string into a JavaScript object?",
+      "options": [
+        "JSON.stringify()",
+        "JSON.parse()",
+        "JSON.convert()",
+        "JSON.toObject()"
+      ],
+      "correctAnswer": 1,
+      "explanation": "JSON.parse() converts a JSON string to a JavaScript object. JSON.stringify() does the opposite - converts an object to a JSON string."
+    },
+    {
+      "question": "What is the result of: Boolean('false')?",
+      "options": [
+        "false",
+        "true",
+        "undefined",
+        "null"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Any non-empty string is truthy in JavaScript, including the string 'false'. Only empty strings are falsy."
+    },
+    {
+      "question": "Which loop is guaranteed to execute at least once?",
+      "options": [
+        "for loop",
+        "while loop",
+        "do...while loop",
+        "for...in loop"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A do...while loop executes the code block once before checking the condition, guaranteeing at least one execution."
+    }
+  ]
+}

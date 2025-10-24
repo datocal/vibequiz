@@ -1,0 +1,8 @@
+{
+  "quizzes": [
+    "javascript-basics.json",
+    "html-css.json",
+    "web-security.json",
+    "lomloe.json"
+  ]
+}

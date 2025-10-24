@@ -1,0 +1,118 @@
+{
+  "title": "Web Security Essentials",
+  "description": "Learn about common web vulnerabilities and security best practices to protect your applications.",
+  "category": "security",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What does XSS stand for in web security?",
+      "options": [
+        "Extra Security System",
+        "Cross-Site Scripting",
+        "Extended Style Sheets",
+        "External Server Security"
+      ],
+      "correctAnswer": 1,
+      "explanation": "XSS stands for Cross-Site Scripting, a vulnerability that allows attackers to inject malicious scripts into web pages viewed by other users."
+    },
+    {
+      "question": "Which HTTP header helps prevent clickjacking attacks?",
+      "options": [
+        "Content-Security-Policy",
+        "X-Frame-Options",
+        "X-XSS-Protection",
+        "Strict-Transport-Security"
+      ],
+      "correctAnswer": 1,
+      "explanation": "X-Frame-Options prevents clickjacking by controlling whether a page can be displayed in a frame or iframe. Options include DENY or SAMEORIGIN."
+    },
+    {
+      "question": "What is the primary purpose of HTTPS?",
+      "options": [
+        "Faster page loading",
+        "Better SEO ranking",
+        "Encrypting data in transit",
+        "Compressing images"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HTTPS uses SSL/TLS to encrypt data transmitted between the client and server, protecting sensitive information from eavesdropping and tampering."
+    },
+    {
+      "question": "Which of the following is the best way to store passwords?",
+      "options": [
+        "Plain text in database",
+        "Encrypted with AES",
+        "Hashed with bcrypt or Argon2",
+        "Base64 encoded"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Passwords should be hashed using strong algorithms like bcrypt or Argon2, which include salt and are designed to be slow to resist brute-force attacks."
+    },
+    {
+      "question": "What does CSRF stand for?",
+      "options": [
+        "Client-Side Request Forgery",
+        "Cross-Site Request Forgery",
+        "Cached Session Request Failure",
+        "Certified Secure Request Format"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CSRF (Cross-Site Request Forgery) is an attack that tricks a user into executing unwanted actions on a web application where they're authenticated."
+    },
+    {
+      "question": "Which security header instructs browsers to only access the site over HTTPS?",
+      "options": [
+        "Content-Security-Policy",
+        "X-Content-Type-Options",
+        "Strict-Transport-Security",
+        "X-Frame-Options"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Strict-Transport-Security (HSTS) tells browsers to only connect to the site over HTTPS, preventing protocol downgrade attacks."
+    },
+    {
+      "question": "What is SQL injection?",
+      "options": [
+        "A method to speed up database queries",
+        "A technique to backup databases",
+        "An attack that inserts malicious SQL into queries",
+        "A way to optimize SQL performance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SQL injection is an attack where malicious SQL code is inserted into queries, potentially allowing attackers to access or modify database data."
+    },
+    {
+      "question": "Which authentication method is most secure?",
+      "options": [
+        "Password only",
+        "Password with security questions",
+        "Two-Factor Authentication (2FA)",
+        "Social media login"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Two-Factor Authentication (2FA) requires two different forms of verification, significantly improving security over password-only authentication."
+    },
+    {
+      "question": "What is the purpose of Content Security Policy (CSP)?",
+      "options": [
+        "Encrypt website content",
+        "Prevent unauthorized content loading",
+        "Speed up content delivery",
+        "Compress CSS and JavaScript"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CSP is a security header that specifies which sources of content are allowed to load, helping prevent XSS and data injection attacks."
+    },
+    {
+      "question": "What is a security risk of using 'eval()' in JavaScript?",
+      "options": [
+        "It's too slow",
+        "It can execute arbitrary code from untrusted sources",
+        "It only works in older browsers",
+        "It consumes too much memory"
+      ],
+      "correctAnswer": 1,
+      "explanation": "eval() executes strings as code, which can be extremely dangerous if the input comes from untrusted sources, potentially allowing code injection attacks."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/quiz-schema.json",
+  "title": "Quiz Schema",
+  "description": "Schema for quiz JSON files in the Fast Quiz application",
+  "type": "object",
+  "required": ["title", "description", "category", "difficulty", "questions"],
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "The title of the quiz",
+      "minLength": 1,
+      "maxLength": 100,
+      "examples": ["JavaScript Basics", "HTML & CSS Fundamentals"]
+    },
+    "description": {
+      "type": "string",
+      "description": "A brief description of what the quiz covers",
+      "minLength": 10,
+      "maxLength": 500,
+      "examples": [
+        "Test your knowledge of fundamental JavaScript concepts including variables, functions, and data types."
+      ]
+    },
+    "category": {
+      "type": "string",
+      "description": "The category of the quiz (used for icon display)",
+      "minLength": 1,
+      "maxLength": 50,
+      "examples": ["javascript", "html", "css", "security", "frontend", "backend", "database", "general"],
+      "pattern": "^[a-z-]+$"
+    },
+    "difficulty": {
+      "type": "string",
+      "description": "The difficulty level of the quiz",
+      "enum": ["easy", "medium", "hard"]
+    },
+    "questions": {
+      "type": "array",
+      "description": "Array of question objects",
+      "minItems": 1,
+      "maxItems": 50,
+      "items": {
+        "$ref": "#/definitions/question"
+      }
+    }
+  },
+  "definitions": {
+    "question": {
+      "type": "object",
+      "required": ["question", "options", "correctAnswer"],
+      "properties": {
+        "question": {
+          "type": "string",
+          "description": "The question text",
+          "minLength": 5,
+          "maxLength": 500,
+          "examples": [
+            "What is the correct way to declare a variable in JavaScript that cannot be reassigned?"
+          ]
+        },
+        "options": {
+          "type": "array",
+          "description": "Array of possible answers",
+          "minItems": 2,
+          "maxItems": 6,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 500
+          },
+          "uniqueItems": true
+        },
+        "correctAnswer": {
+          "type": "integer",
+          "description": "Zero-based index of the correct answer in the options array",
+          "minimum": 0,
+          "examples": [0, 1, 2, 3]
+        },
+        "explanation": {
+          "type": "string",
+          "description": "Optional explanation shown after answering (highly recommended)",
+          "minLength": 10,
+          "maxLength": 1000,
+          "examples": [
+            "The 'const' keyword is used to declare variables that cannot be reassigned."
+          ]
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
