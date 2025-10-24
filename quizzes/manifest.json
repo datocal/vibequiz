@@ -1,8 +1,15 @@
 {
   "quizzes": [
-    "javascript-basics.json",
-    "html-css.json",
-    "web-security.json",
-    "lomloe.json"
+    "lomloe.json",
+    "orden-26-mayo-2023-decreto-155.json",
+    "orden-26-mayo-2023-avanzado.json",
+    "calendario-escolar-galicia.json",
+    "resolucion-2025.json",
+    "decreto-374-1996.json",
+    "orden-22-julio-1997.json",
+    "decreto-79-2010.json",
+    "decreto-79-2010-facil.json",
+    "decreto-229-2011.json",
+    "decreto-229-2011-basico.json"
   ]
 }

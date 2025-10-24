@@ -1,0 +1,229 @@
+{
+  "title": "DECRETO 79/2010 - Nivel Basico",
+  "description": "Evalua tus conocimientos basicos sobre el Decreto 79/2010 para el plurilinguismo en la ensenanza no universitaria de Galicia y la Orden que regula las exenciones de lengua gallega.",
+  "category": "educacion",
+  "icon": "⚖️",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "Que fecha fue aprobado el Decreto 79/2010?",
+      "options": [
+        "20 de mayo de 2010",
+        "15 de junio de 1983",
+        "28 de junio de 2007",
+        "10 de febrero de 2014"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 79/2010 para el plurilinguismo en la ensenanza no universitaria de Galicia fue aprobado el 20 de mayo de 2010."
+    },
+    {
+      "question": "Cual es el ambito de aplicacion del Decreto 79/2010?",
+      "options": [
+        "Solo centros publicos",
+        "Solo centros privados",
+        "Todos los centros docentes sostenidos con fondos publicos y los privados que imparten ensenanzas reguladas por la LOE",
+        "Solo centros de educacion primaria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El articulo 2 establece que el decreto es de aplicacion en todos los centros docentes sostenidos con fondos publicos, asi como en los privados que imparten las ensenanzas reguladas en la Ley organica 2/2006."
+    },
+    {
+      "question": "En educacion infantil, que lengua debe usar el profesorado en el aula?",
+      "options": [
+        "Siempre gallego",
+        "Siempre castellano",
+        "La lengua materna predominante entre el alumnado",
+        "Ingles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Segun el articulo 5, en educacion infantil el profesorado usara en el aula la lengua materna predominante entre el alumnado, procurando que adquieran conocimiento de la otra lengua oficial."
+    },
+    {
+      "question": "Como se determina la lengua materna predominante del alumnado en educacion infantil?",
+      "options": [
+        "Por el propio centro educativo sin consultar",
+        "Por una pregunta a los padres, madres o tutores legales",
+        "Por el lugar de residencia",
+        "Por sorteo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El articulo 5.2 establece que la lengua materna predominante sera determinada por el centro educativo de acuerdo con el resultado de una pregunta que se efectuara a los padres, madres o tutores legales."
+    },
+    {
+      "question": "En educacion primaria, en que lengua se imparte la asignatura de Matematicas?",
+      "options": [
+        "Gallego",
+        "Castellano",
+        "Ingles",
+        "La que decida cada familia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El articulo 6.3 establece que en educacion primaria se impartira en castellano la asignatura de Matematicas."
+    },
+    {
+      "question": "En educacion primaria, en que lengua se imparte Conocimiento del medio natural, social y cultural?",
+      "options": [
+        "Castellano",
+        "Gallego",
+        "Ingles",
+        "Depende del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Segun el articulo 6.3, se impartira en gallego la asignatura de Conocimiento del medio natural, social y cultural."
+    },
+    {
+      "question": "Cada cuantos cursos escolares debe elaborarse el proyecto linguistico de centro?",
+      "options": [
+        "Cada ano",
+        "Cada dos cursos",
+        "Cada cuatro cursos escolares",
+        "Cada cinco cursos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El articulo 14.1 establece que cada centro elaborara su proyecto linguistico cada cuatro cursos escolares."
+    },
+    {
+      "question": "Que principio fundamental establece el decreto respecto a las competencias linguisticas?",
+      "options": [
+        "Priorizar el gallego sobre el castellano",
+        "Garantia de la adquisicion de una competencia en igualdad en las dos lenguas oficiales de Galicia",
+        "Priorizar el castellano sobre el gallego",
+        "Solo ensenar lenguas extranjeras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El articulo 4.1 establece como primer principio la garantia de la adquisicion de una competencia en igualdad en las dos lenguas oficiales de Galicia."
+    },
+    {
+      "question": "En educacion secundaria obligatoria, en que lengua se imparte la asignatura de Fisica y quimica?",
+      "options": [
+        "Gallego",
+        "Castellano",
+        "Ingles",
+        "A eleccion del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El articulo 7.3 establece que en educacion secundaria obligatoria se impartiran en castellano las asignaturas de Matematicas, Tecnologias y Fisica y quimica."
+    },
+    {
+      "question": "Que asignatura de educacion secundaria obligatoria se imparte en gallego segun el decreto?",
+      "options": [
+        "Matematicas",
+        "Fisica y quimica",
+        "Ciencias sociales, geografia e historia",
+        "Tecnologias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El articulo 7.3 indica que se impartiran en gallego las asignaturas de Ciencias sociales, geografia e historia, Ciencias de la naturaleza y Biologia y geologia."
+    },
+    {
+      "question": "Que organo se constituye para potenciar el uso de la lengua gallega en los centros?",
+      "options": [
+        "Comite de Lenguas",
+        "Equipo de dinamizacion de la lengua gallega",
+        "Departamento de Gallego",
+        "Consejo de Normalizacion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El articulo 15 establece la constitucion de un equipo de dinamizacion de la lengua gallega en cada centro sostenido con fondos publicos."
+    },
+    {
+      "question": "Hasta que porcentaje del horario lectivo semanal pueden llegar a impartirse asignaturas en lenguas extranjeras?",
+      "options": [
+        "Un cuarto del horario",
+        "Un tercio del horario",
+        "La mitad del horario",
+        "Todo el horario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El articulo 21.1 establece que los centros pueden llegar a ofrecer hasta un maximo de un tercio de su horario lectivo semanal en lengua(s) extranjera(s)."
+    },
+    {
+      "question": "Cual es la duracion maxima de la exencion temporal de la calificacion de lengua gallega?",
+      "options": [
+        "Un curso escolar",
+        "Dos cursos escolares consecutivos",
+        "Tres cursos escolares",
+        "Toda la etapa educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El articulo 18.1 y el articulo 3 de la Orden de 2014 establecen que la exencion temporal puede ser de un maximo de dos cursos escolares consecutivos."
+    },
+    {
+      "question": "Que alumnado puede solicitar la exencion temporal de lengua gallega?",
+      "options": [
+        "Cualquier alumno que lo desee",
+        "Solo alumnos de bachillerato",
+        "Alumnado que se incorpore desde otras comunidades o pais extranjero en 3er ciclo de primaria, ESO o bachillerato",
+        "Solo alumnos extranjeros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El articulo 18.1 del decreto y el articulo 3 de la Orden establecen que pueden solicitar exencion los que se incorporen al sistema educativo de Galicia en 3er ciclo de primaria, ESO o bachillerato, procedentes de otras comunidades o del extranjero."
+    },
+    {
+      "question": "Que debe hacer el alumnado exento de calificacion de lengua gallega?",
+      "options": [
+        "No tiene que asistir a las clases de lengua gallega",
+        "Debe asistir a las clases como medio de integracion linguistica",
+        "Puede elegir si asiste o no",
+        "Solo debe asistir el primer mes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El articulo 18.3 del decreto y el articulo 4.2 de la Orden establecen que el alumnado tendra que asistir a las clases como medio de integracion linguistica."
+    },
+    {
+      "question": "Cual es el plazo de presentacion de la solicitud de exencion para alumnado de educacion primaria y ESO?",
+      "options": [
+        "Del 1 de septiembre al 5 de octubre",
+        "Del 1 de septiembre al 20 de octubre",
+        "Todo el curso escolar",
+        "Solo en septiembre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El articulo 6.1 de la Orden de 2014 establece que para el alumnado de educacion primaria y secundaria obligatoria el plazo es del 1 de septiembre al 5 de octubre de cada ano."
+    },
+    {
+      "question": "Que ocurre si el alumno exento incumple la obligacion de asistir a las clases de lengua gallega?",
+      "options": [
+        "No pasa nada",
+        "Se le revoca la exencion",
+        "Pierde el curso",
+        "Debe cambiar de centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El articulo 18.4 del decreto y el articulo 4.3 de la Orden establecen que el incumplimiento determinara la revocacion de la exencion."
+    },
+    {
+      "question": "Que ley de normalizacion linguistica desarrolla el Decreto 79/2010?",
+      "options": [
+        "Ley 1/1983",
+        "Ley 2/2006",
+        "Ley 3/1983, de 15 de junio",
+        "Ley 30/1992"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El articulo 1 del decreto establece que desarrolla la Ley 3/1983, de 15 de junio, de normalizacion linguistica, en lo relativo al uso del gallego en la ensenanza."
+    },
+    {
+      "question": "Tiene derecho a exencion un alumno que haya estudiado en Galicia, curse tres anos fuera y vuelva?",
+      "options": [
+        "Si, tiene derecho a exencion",
+        "No, se considera reincorporacion, no incorporacion ex novo",
+        "Solo si son cuatro anos fuera",
+        "Depende del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El articulo 2.2 de la Orden de 2014 establece que no tendra derecho a exencion el alumnado que haya realizado estudios en Galicia y curse fuera de la Comunidad Autonoma tres cursos completos o menos y se reincorpore."
+    },
+    {
+      "question": "En que plazo debe resolver el centro la solicitud de exencion de lengua gallega?",
+      "options": [
+        "Cinco dias habiles",
+        "Diez dias habiles",
+        "Quince dias habiles",
+        "Un mes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El articulo 19.2 del decreto y el articulo 7.1 de la Orden establecen que los centros docentes publicos resolveran sobre la concesion o denegacion en el plazo maximo de diez dias habiles a partir de la presentacion de la documentacion completa."
+    }
+  ]
+}

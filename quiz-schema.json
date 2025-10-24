@@ -30,6 +30,13 @@
       "examples": ["javascript", "html", "css", "security", "frontend", "backend", "database", "general"],
       "pattern": "^[a-z-]+$"
     },
+    "icon": {
+      "type": "string",
+      "description": "Optional emoji icon for the quiz (overrides category-based icon)",
+      "minLength": 1,
+      "maxLength": 10,
+      "examples": ["🎓", "📚", "📋", "📅", "⚖️", "✍️"]
+    },
     "difficulty": {
       "type": "string",
       "description": "The difficulty level of the quiz",

@@ -1,0 +1,229 @@
+{
+  "title": "DECRETO 229/2011 - Conceptos Básicos",
+  "description": "Test básico sobre conceptos fundamentales del Decreto 229/2011 de atención a la diversidad del alumnado en Galicia.",
+  "category": "educacion",
+  "icon": "📚",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "¿En qué año se publicó el Decreto que regula la atención a la diversidad en Galicia?",
+      "options": [
+        "2009",
+        "2011",
+        "2013",
+        "2015"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 229/2011 fue publicado el 7 de diciembre de 2011. Es la norma principal que regula la atención a la diversidad del alumnado en Galicia."
+    },
+    {
+      "question": "¿A qué alumnado se refiere la 'atención a la diversidad' según el decreto?",
+      "options": [
+        "Solo al alumnado con discapacidad",
+        "A todo el alumnado",
+        "Solo al alumnado extranjero",
+        "Solo al alumnado de educación especial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La atención a la diversidad abarca a la totalidad del alumnado, no solo a grupos específicos. Todos los alumnos y alumnas tienen características diferentes que deben ser atendidas."
+    },
+    {
+      "question": "¿Qué principio fundamental debe priorizar la escolarización del alumnado?",
+      "options": [
+        "La segregación por capacidades",
+        "La normalización e inclusión",
+        "La agrupación por edades",
+        "La separación por niveles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El decreto establece los principios de normalización e inclusión como fundamentales, priorizando la escolarización en centros ordinarios frente a centros especiales."
+    },
+    {
+      "question": "¿Qué documento debe elaborar cada centro para articular la atención a la diversidad?",
+      "options": [
+        "Plan General de Atención a la Diversidad",
+        "Programación de Aula",
+        "Memoria Final de Curso",
+        "Reglamento de Régimen Interior"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan General de Atención a la Diversidad es el documento que articula todas las medidas y actuaciones de atención a la diversidad en cada centro educativo."
+    },
+    {
+      "question": "¿Qué departamento es responsable de elaborar la propuesta del Plan de Atención a la Diversidad?",
+      "options": [
+        "Departamento de Lengua",
+        "Departamento de Orientación",
+        "Departamento de Matemáticas",
+        "Departamento de Actividades Complementarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los departamentos de orientación son los responsables de elaborar la propuesta del Plan General de Atención a la Diversidad en cada centro."
+    },
+    {
+      "question": "¿Qué tipo de medidas deben aplicarse primero para atender a la diversidad?",
+      "options": [
+        "Las medidas extraordinarias",
+        "Las adaptaciones curriculares significativas",
+        "Las medidas ordinarias",
+        "La flexibilización de la escolarización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El decreto establece que se priorizarán las medidas de carácter ordinario. Las extraordinarias solo se llevarán a cabo una vez agotadas las anteriores."
+    },
+    {
+      "question": "¿Cuál es la modalidad de escolarización prioritaria según el decreto?",
+      "options": [
+        "Centros de educación especial",
+        "Unidades de educación especial",
+        "Centros ordinarios",
+        "Escolarización combinada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los centros ordinarios constituyen el referente básico a efectos de escolarización, priorizándose siempre frente a centros o unidades de educación especial."
+    },
+    {
+      "question": "¿Qué profesional es competente para realizar la evaluación psicopedagógica?",
+      "options": [
+        "El tutor o tutora",
+        "El director o directora",
+        "La jefatura del Departamento de Orientación",
+        "El profesorado de pedagogía terapéutica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La evaluación psicopedagógica es competencia y responsabilidad de la jefatura del Departamento de Orientación, pudiendo contar con colaboración del EOE."
+    },
+    {
+      "question": "¿Qué documento recoge las conclusiones de la evaluación psicopedagógica?",
+      "options": [
+        "El boletín de notas",
+        "El informe psicopedagógico",
+        "La programación didáctica",
+        "El expediente académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El informe psicopedagógico es el documento donde se recogen los resultados y conclusiones de la evaluación psicopedagógica realizada al alumnado."
+    },
+    {
+      "question": "¿Las madres y padres tienen derecho a ser informados sobre las medidas de atención a la diversidad?",
+      "options": [
+        "No, es información confidencial",
+        "Sí, deben recibir información individualizada",
+        "Solo si lo solicitan por escrito",
+        "Solo al final del curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El decreto establece que las familias recibirán información individualizada sobre las características y necesidades del alumnado, así como de las medidas a adoptar."
+    },
+    {
+      "question": "¿Qué se debe priorizar en la respuesta educativa a la diversidad?",
+      "options": [
+        "La separación del alumnado diferente",
+        "Las acciones preventivas y la detección temprana",
+        "Las medidas correctivas al final del curso",
+        "La derivación a centros especiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El decreto establece que las acciones preventivas y la detección temprana tendrán carácter prioritario en los centros docentes."
+    },
+    {
+      "question": "¿Qué es una medida ordinaria de atención a la diversidad?",
+      "options": [
+        "Una medida que no altera significativamente los objetivos del currículo",
+        "Una medida solo para alumnado con NEE",
+        "Una medida que cambia la modalidad de escolarización",
+        "Una medida que requiere autorización de la consellería"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las medidas ordinarias facilitan la adecuación del currículo sin alteración significativa de sus objetivos, contenidos y criterios de evaluación."
+    },
+    {
+      "question": "¿Cuál de estas es una medida ordinaria?",
+      "options": [
+        "Adaptación curricular significativa",
+        "Refuerzo educativo",
+        "Flexibilización del período de escolarización",
+        "Escolarización en centro de educación especial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El refuerzo educativo es una medida ordinaria. Las adaptaciones curriculares significativas, la flexibilización y los centros especiales son medidas extraordinarias."
+    },
+    {
+      "question": "¿Quién aprueba el Plan General de Atención a la Diversidad?",
+      "options": [
+        "El director o directora",
+        "El claustro de profesorado",
+        "El consejo escolar",
+        "La inspección educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Plan General de Atención a la Diversidad será aprobado por el consejo escolar, a propuesta del claustro del profesorado."
+    },
+    {
+      "question": "¿Qué significa el principio de 'normalización' en educación?",
+      "options": [
+        "Que todo el alumnado debe ser igual",
+        "Que el alumnado debe escolarizarse en entornos lo más normalizados posible",
+        "Que solo se atiende al alumnado normal",
+        "Que se deben seguir las normas del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La normalización implica que el alumnado debe escolarizarse y educarse en los entornos más normalizados posibles, evitando la segregación innecesaria."
+    },
+    {
+      "question": "¿El decreto se aplica solo a centros públicos?",
+      "options": [
+        "Sí, solo a centros públicos",
+        "No, a todos los centros dependientes de la consellería de educación",
+        "Solo a centros concertados",
+        "Solo a centros de educación especial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 2 establece que el decreto será de aplicación en todos los centros docentes dependientes de la consellería con competencias en educación."
+    },
+    {
+      "question": "¿Qué es el 'alumnado con necesidad específica de apoyo educativo'?",
+      "options": [
+        "Solo el alumnado con discapacidad",
+        "El que requiere una atención educativa diferente a la ordinaria",
+        "Solo el alumnado extranjero",
+        "El que suspende asignaturas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alumnado NEAE es aquél que requiere una atención educativa diferente a la ordinaria, por diversas causas: NEE, dificultades de aprendizaje, altas capacidades, etc."
+    },
+    {
+      "question": "¿Las metodologías cooperativas son medidas ordinarias o extraordinarias?",
+      "options": [
+        "Extraordinarias",
+        "Ordinarias",
+        "Ni ordinarias ni extraordinarias",
+        "Solo para educación especial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las metodologías basadas en el trabajo colaborativo en grupos heterogéneos son medidas ordinarias de atención a la diversidad según el artículo 8."
+    },
+    {
+      "question": "¿Quién supervisa la elaboración y desarrollo del Plan General de Atención a la Diversidad?",
+      "options": [
+        "El equipo directivo del centro",
+        "El departamento de orientación",
+        "Los servicios de Inspección Educativa",
+        "Las familias del alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Corresponde a los servicios de Inspección Educativa supervisar la elaboración, desarrollo y evaluación del Plan General de Atención a la Diversidad."
+    },
+    {
+      "question": "¿Cuál es uno de los objetivos principales del decreto?",
+      "options": [
+        "Segregar al alumnado según sus capacidades",
+        "Facilitar el desarrollo personal y social de cada alumno/a",
+        "Reducir el número de alumnado en los centros",
+        "Eliminar la atención individualizada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El decreto tiene como finalidad facilitar el desarrollo personal y social de cada alumna y alumno, facilitándoles la adquisición de competencias y objetivos."
+    }
+  ]
+}

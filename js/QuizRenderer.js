@@ -52,7 +52,7 @@ export class QuizRenderer {
     renderQuizCard(quiz) {
         return `
             <a href="quiz.html?quiz=${encodeURIComponent(quiz.filename)}" class="quiz-card">
-                <div class="quiz-card__icon">${this.getIconForCategory(quiz.category)}</div>
+                <div class="quiz-card__icon">${this.getIconForQuiz(quiz)}</div>
                 <h2 class="quiz-card__title">${this.escapeHtml(quiz.title)}</h2>
                 <p class="quiz-card__description">${this.escapeHtml(quiz.description)}</p>
                 <div class="quiz-card__meta">
@@ -226,7 +226,23 @@ export class QuizRenderer {
     }
 
     /**
-     * Gets an icon emoji for a quiz category
+     * Gets an icon emoji for a quiz
+     * If the quiz has a custom icon property, use it. Otherwise, fall back to category-based icon.
+     * @param {Object} quiz - Quiz object with optional icon property
+     * @returns {string} Emoji icon
+     */
+    getIconForQuiz(quiz) {
+        // If quiz has a custom icon, use it
+        if (quiz.icon) {
+            return quiz.icon;
+        }
+
+        // Otherwise, fall back to category-based icons
+        return this.getIconForCategory(quiz.category);
+    }
+
+    /**
+     * Gets an icon emoji for a quiz category (fallback method)
      * @param {string} category - Quiz category
      * @returns {string} Emoji icon
      */
@@ -246,7 +262,8 @@ export class QuizRenderer {
             'security': '🔒',
             'frontend': '🖥️',
             'backend': '⚙️',
-            'database': '🗄️'
+            'database': '🗄️',
+            'educacion': '🎓'
         };
 
         return icons[category?.toLowerCase()] || '📝';

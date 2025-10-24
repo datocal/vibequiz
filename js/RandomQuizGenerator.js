@@ -116,7 +116,7 @@ export class RandomQuizGenerator {
      */
     static createRandomQuiz(quizzes, options = {}) {
         const {
-            count = 10,
+            count = 20,
             title = 'Random Party Quiz',
             description = 'A random selection of questions from all available quizzes'
         } = options;

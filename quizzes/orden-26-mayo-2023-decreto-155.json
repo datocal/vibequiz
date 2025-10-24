@@ -1,0 +1,174 @@
+{
+  "title": "ORDEN de 26 de mayo de 2023 - Decreto 155/2022",
+  "description": "Evaluación del conocimiento sobre la orden que desarrolla el Decreto 155/2022 sobre educación primaria en Galicia.",
+  "category": "educacion",
+  "icon": "📋",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿Qué etapa educativa regula la ORDEN de 26 de mayo de 2023?",
+      "options": [
+        "Educación infantil",
+        "Educación primaria",
+        "Educación secundaria obligatoria",
+        "Bachillerato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ORDEN de 26 de mayo de 2023 desarrolla el Decreto 155/2022 que establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿Cuál es el ámbito de aplicación de esta orden?",
+      "options": [
+        "Todos los centros de España",
+        "Centros privados de Galicia exclusivamente",
+        "Centros del ámbito de gestión de la Comunidad Autónoma de Galicia que impartan educación primaria",
+        "Solo centros públicos de Galicia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 2, esta orden será de aplicación en los centros docentes correspondientes al ámbito de gestión de la Comunidad Autónoma de Galicia que impartan las enseñanzas de educación primaria."
+    },
+    {
+      "question": "¿En qué curso se añade el área de Educación en Valores Cívicos y Éticos?",
+      "options": [
+        "Primer curso",
+        "Tercer curso",
+        "Quinto curso",
+        "Sexto curso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Según el artículo 3, el área de Educación en Valores Cívicos y Éticos se añade específicamente en el sexto curso de educación primaria."
+    },
+    {
+      "question": "¿Cuántas horas semanales mínimas deben desarrollarse las actividades escolares en educación primaria?",
+      "options": [
+        "20 horas",
+        "22 horas",
+        "25 horas",
+        "30 horas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 3.3, las actividades escolares en la etapa de educación primaria se desarrollarán, como mínimo, a lo largo de veinticinco horas semanales."
+    },
+    {
+      "question": "¿Entre qué tiempos debe estar comprendido el recreo diario?",
+      "options": [
+        "10 y 20 minutos",
+        "15 y 25 minutos",
+        "20 y 30 minutos",
+        "25 y 35 minutos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 3.3.c establece que el tiempo de recreo diario estará comprendido entre 20 y 30 minutos."
+    },
+    {
+      "question": "¿Qué nombre recibe el ámbito resultante de agrupar Ciencias de la Naturaleza y Ciencias Sociales?",
+      "options": [
+        "Ciencias Integradas",
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Ciencias Experimentales y Sociales",
+        "Área de Ciencias Conjuntas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 4.4, la agrupación de las áreas de Ciencias de la Naturaleza y de Ciencias Sociales recibe el nombre de Conocimiento del Medio Natural, Social y Cultural."
+    },
+    {
+      "question": "¿Con qué carácter general se mantendrá la misma persona tutora para cada grupo de alumnado?",
+      "options": [
+        "A lo largo de cada curso escolar",
+        "A lo largo de cada uno de los ciclos",
+        "Durante toda la etapa de primaria",
+        "Durante dos cursos consecutivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 5.2 establece que, con carácter general, se mantendrá la misma persona tutora para cada grupo de alumnado a lo largo de cada uno de los ciclos."
+    },
+    {
+      "question": "¿Cuántas sesiones de evaluación parcial se realizarán como mínimo a lo largo del curso?",
+      "options": [
+        "Dos sesiones",
+        "Tres sesiones",
+        "Cuatro sesiones",
+        "Cinco sesiones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 19.3, a lo largo del curso se realizarán una sesión de evaluación inicial, como mínimo, tres sesiones de evaluación parcial y una sesión de evaluación final."
+    },
+    {
+      "question": "¿Qué carácter tiene la evaluación en educación primaria según esta orden?",
+      "options": [
+        "Global, continua y sumativa",
+        "Global, continua y formativa",
+        "Individual, puntual y formativa",
+        "Específica, continua y normativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 17.2 establece que la evaluación en la educación primaria será global, continua y formativa, explicando el significado de cada característica."
+    },
+    {
+      "question": "¿Al finalizar qué cursos se adopta la decisión sobre la promoción del alumnado?",
+      "options": [
+        "Primero, tercero y quinto",
+        "Segundo, tercero y sexto",
+        "Segundo, cuarto y sexto",
+        "Todos los cursos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 24.1, al finalizar los cursos segundo, cuarto y sexto de la etapa, y a consecuencia del proceso de evaluación, el equipo docente adoptará la decisión sobre la promoción. La promoción en el resto de cursos es automática."
+    },
+    {
+      "question": "¿Cuántas veces puede adoptarse la decisión de permanencia en el mismo curso durante la etapa de primaria?",
+      "options": [
+        "Ninguna vez",
+        "Una vez",
+        "Dos veces",
+        "Sin límite"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 24.2 establece claramente que la decisión de permanencia en el mismo curso solo podrá adoptarse una vez durante toda la etapa de educación primaria."
+    },
+    {
+      "question": "¿En qué curso se realiza la evaluación de diagnóstico de las competencias clave?",
+      "options": [
+        "Segundo curso",
+        "Tercer curso",
+        "Cuarto curso",
+        "Sexto curso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 25, en el cuarto curso de educación primaria todos los centros docentes realizarán una evaluación de diagnóstico de las competencias clave adquiridas por su alumnado."
+    },
+    {
+      "question": "¿Qué calificación numérica corresponde a la calificación cualitativa de 'Notable'?",
+      "options": [
+        "6",
+        "7 u 8",
+        "8 o 9",
+        "9 o 10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 23.1, la calificación de Notable (NT) corresponde a una calificación numérica de 7 u 8 en la escala de uno a diez."
+    },
+    {
+      "question": "¿Cuántos días hábiles tienen las familias para solicitar revisión de calificaciones tras su comunicación?",
+      "options": [
+        "Un día hábil",
+        "Dos días hábiles",
+        "Tres días hábiles",
+        "Cinco días hábiles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 31.2 establece que las familias podrán solicitar por escrito la revisión en el plazo de dos días hábiles contados a partir del día siguiente a aquel en que se produjo la comunicación."
+    },
+    {
+      "question": "¿Cuándo entra en vigor esta orden?",
+      "options": [
+        "Inmediatamente tras su publicación",
+        "A los diez días de su publicación",
+        "A los veinte días de su publicación",
+        "Al inicio del siguiente curso escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La disposición final tercera establece que esta orden entrará en vigor a los veinte días de su publicación en el Diario Oficial de Galicia, aplicándose a partir del curso escolar 2023/24."
+    }
+  ]
+}

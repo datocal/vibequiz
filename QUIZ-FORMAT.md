@@ -13,6 +13,7 @@ A formal JSON Schema is available in [quiz-schema.json](quiz-schema.json) that c
   "title": "string",
   "description": "string",
   "category": "string",
+  "icon": "emoji (optional)",
   "difficulty": "easy|medium|hard",
   "questions": [
     {
@@ -69,8 +70,23 @@ A formal JSON Schema is available in [quiz-schema.json](quiz-schema.json) that c
 - `frontend` → 🖥️
 - `backend` → ⚙️
 - `database` → 🗄️
+- `educacion` → 🎓
 
 **Note**: You can use any category name. If no matching icon is defined, it will default to 📝
+
+### `icon` (optional)
+- **Type**: `string`
+- **Min Length**: 1
+- **Max Length**: 10
+- **Description**: Optional custom emoji icon for the quiz. If provided, this overrides the category-based icon.
+- **Examples**: `"🎓"`, `"📚"`, `"📋"`, `"📅"`, `"⚖️"`, `"✍️"`
+- **When to use**: Use this field when you want a specific emoji that doesn't match your category or when you want a more specific icon for your quiz theme.
+
+**Tips**:
+- Use single emojis only (no text or multiple emojis)
+- Choose emojis that clearly represent your quiz topic
+- Emojis will be displayed at the same size regardless of platform
+- If not provided, the system will use the category-based icon
 
 ### `difficulty` (required)
 - **Type**: `string`
@@ -164,6 +180,7 @@ A formal JSON Schema is available in [quiz-schema.json](quiz-schema.json) that c
   "title": "European Capitals",
   "description": "Test your knowledge of European capital cities and their countries.",
   "category": "geography",
+  "icon": "🌍",
   "difficulty": "easy",
   "questions": [
     {
@@ -199,6 +216,7 @@ A formal JSON Schema is available in [quiz-schema.json](quiz-schema.json) that c
   "title": "Classical Composers",
   "description": "Explore the life and works of famous classical composers from Bach to Beethoven.",
   "category": "music",
+  "icon": "🎵",
   "difficulty": "medium",
   "questions": [
     {
@@ -223,6 +241,7 @@ A formal JSON Schema is available in [quiz-schema.json](quiz-schema.json) that c
   "title": "JavaScript Basics",
   "description": "Master fundamental programming concepts and modern JavaScript syntax.",
   "category": "javascript",
+  "icon": "💻",
   "difficulty": "easy",
   "questions": [
     {
