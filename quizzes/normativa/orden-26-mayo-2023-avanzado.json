@@ -1,0 +1,174 @@
+{
+  "title": "ORDEN 26/05/2023 - Nivel Avanzado",
+  "description": "Evaluación avanzada sobre aspectos técnicos y procedimentales de la orden que desarrolla el Decreto 155/2022 de educación primaria en Galicia.",
+  "category": "educacion",
+  "icon": "📚",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué autorización se requiere para que un centro pueda agrupar áreas en ámbitos?",
+      "options": [
+        "Autorización del claustro de profesores",
+        "Autorización de la dirección del centro",
+        "Autorización expresa del Servicio Territorial de Inspección Educativa",
+        "No se requiere autorización, es decisión autónoma del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 4.6, la constitución de agrupaciones de áreas en ámbitos requerirá autorización expresa del Servicio Territorial de Inspección Educativa. Esta medida debe adoptarse en todos los grupos del nivel."
+    },
+    {
+      "question": "Cuando varias áreas se cursan integradas en un ámbito, ¿qué debe constar en el historial académico?",
+      "options": [
+        "Solo la calificación del ámbito",
+        "La calificación obtenida en cada área, que será la misma que figure en el expediente para el ámbito",
+        "La media aritmética de las áreas componentes",
+        "Calificaciones diferenciadas para cada área del ámbito"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 23.3 establece que, para garantizar la movilidad del alumnado, cuando varias áreas fueran cursadas integradas en un ámbito, se hará constar en el historial académico la calificación obtenida en cada área, que será la misma que figure en el expediente académico para el ámbito correspondiente."
+    },
+    {
+      "question": "¿Qué profesorado asiste a las sesiones de evaluación con voz pero sin voto?",
+      "options": [
+        "Todo el profesorado de apoyo sin distinción",
+        "El profesorado especialista en pedagogía terapéutica, en audición y lenguaje, y otro profesorado de apoyo",
+        "La jefatura del departamento de orientación",
+        "El equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 19.4, el profesorado especialista en pedagogía terapéutica, en audición y lenguaje, así como otro profesorado que realice funciones de apoyo, asistirá a las sesiones de evaluación del alumnado que atiende, con voz y sin voto."
+    },
+    {
+      "question": "Si tras un proceso de reclamación se debe modificar una calificación, ¿puede resolverse con una calificación menor a la inicialmente obtenida?",
+      "options": [
+        "Sí, si el análisis determina que la calificación inicial fue excesiva",
+        "No, el ejercicio del derecho a revisión y reclamación no puede resolverse con una calificación menor",
+        "Sí, pero solo con autorización de la jefatura territorial",
+        "Depende del criterio del equipo docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 34.6 establece claramente que, de conformidad con el artículo 119.3 de la Ley 39/2015, el ejercicio del derecho a la revisión y reclamación de calificaciones no puede resolverse con una calificación menor de la inicialmente obtenida."
+    },
+    {
+      "question": "¿Qué aplicación informática deben utilizar los centros sostenidos con fondos públicos para la elaboración de programaciones?",
+      "options": [
+        "Cualquier aplicación que cumpla los requisitos técnicos",
+        "La aplicación de gestión académica GADE",
+        "La aplicación informática de programaciones que pone a disposición la consellería",
+        "Microsoft Excel o Google Sheets"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según los artículos 8.4 y 9.6, los centros docentes sostenidos con fondos públicos utilizarán la aplicación informática de programaciones que pone a disposición la consellería con competencias en materia de educación, tanto para la elaboración de la concreción curricular como de las programaciones didácticas."
+    },
+    {
+      "question": "En la revisión de calificaciones finales en el centro, ¿en cuántos días hábiles desde la finalización del plazo de solicitud debe reunirse el equipo docente?",
+      "options": [
+        "Un día hábil",
+        "Dos días hábiles",
+        "Tres días hábiles",
+        "Cinco días hábiles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 32.2 establece que en un máximo de dos días hábiles desde la finalización del plazo de solicitud de revisión, el equipo docente se reunirá en sesión extraordinaria para revisar la calificación final o la decisión adoptada sobre la promoción."
+    },
+    {
+      "question": "¿Con qué frecuencia mínima debe el equipo de ciclo valorar y analizar el seguimiento de las programaciones didácticas?",
+      "options": [
+        "Semanal",
+        "Quincenal",
+        "Mensual",
+        "Trimestral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 9.5, la información sobre el seguimiento de las programaciones será valorada y analizada por el equipo de ciclo con una frecuencia mínima mensual, dejando constancia en las correspondientes actas de reunión."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un aspecto sobre el que deben establecerse indicadores de logro para evaluar el proceso de enseñanza?",
+      "options": [
+        "El clima de trabajo en el aula",
+        "La metodología empleada",
+        "El rendimiento individual del alumnado",
+        "La coordinación con el resto del equipo docente y con las familias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 26.2 enumera los aspectos mínimos sobre los que versarán los indicadores de logro: adecuación de la programación, metodología empleada, organización del aula, medidas de atención a la diversidad, clima de trabajo y coordinación. El rendimiento individual del alumnado no es parte de la evaluación de la práctica docente."
+    },
+    {
+      "question": "¿Qué documento puede sustituir al informe final del tercer ciclo?",
+      "options": [
+        "El acta de evaluación final",
+        "El informe final de etapa",
+        "El historial académico",
+        "El expediente académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 22.4, el informe final del tercer ciclo podrá ser sustituido por el informe final de etapa, ya que ambos se elaboran al finalizar sexto curso y la etapa de educación primaria."
+    },
+    {
+      "question": "¿Cuál es el plazo para que la jefatura territorial emita resolución tras recibir un expediente de reclamación?",
+      "options": [
+        "Cinco días hábiles",
+        "Diez días hábiles",
+        "Quince días hábiles",
+        "Veinte días hábiles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 34.4 establece que en el plazo de quince días hábiles a partir de la recepción del expediente, la jefatura territorial emitirá resolución motivada considerando la propuesta incluida en el informe del Servicio Territorial de Inspección Educativa."
+    },
+    {
+      "question": "Según la orden, ¿las lenguas oficiales deben utilizarse como medio de instrucción principal en el aprendizaje de lengua extranjera?",
+      "options": [
+        "Sí, deben ser el medio principal de instrucción",
+        "No, solo como apoyo, priorizando la comprensión, expresión e interacción oral en la lengua extranjera",
+        "Sí, en al menos el 50% del tiempo lectivo",
+        "Depende del nivel del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 10.5 establece que las lenguas oficiales se utilizarán solo como apoyo en el proceso de aprendizaje de la lengua extranjera. En dicho proceso se priorizará la comprensión, la expresión y la interacción oral."
+    },
+    {
+      "question": "¿Qué debe incluir obligatoriamente cada uno de los planes educativos (lectura, biblioteca, digital, actividades físicas)?",
+      "options": [
+        "Presupuesto detallado y cronograma",
+        "Introducción, análisis del contexto, objetivos con indicadores, y procedimiento de seguimiento",
+        "Actividades específicas para cada curso",
+        "Evaluación externa e interna"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los artículos 12, 13, 14 y 15 establecen que todos los planes educativos deben incluir, como mínimo: introducción con contextualización, análisis del contexto de partida, objetivos de los que se especificarán indicadores, y procedimiento de seguimiento, evaluación y modificación del plan."
+    },
+    {
+      "question": "¿Cuándo una alumna o alumno permanece un año más en el mismo curso, qué debe elaborarse?",
+      "options": [
+        "Un nuevo expediente académico separado",
+        "Un plan específico de refuerzo coordinado por el profesorado tutor",
+        "Una adaptación curricular significativa automática",
+        "Un informe psicopedagógico obligatorio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 24.4, cuando se decide la permanencia, el equipo docente elaborará, bajo la coordinación del profesorado tutor, un plan específico de refuerzo para que durante ese curso la alumna o el alumno pueda alcanzar el grado de adquisición de las competencias clave correspondientes."
+    },
+    {
+      "question": "¿A qué normativa debe remitirse la evaluación inicial en educación primaria según esta orden?",
+      "options": [
+        "Al propio Decreto 155/2022",
+        "A la Orden de 8 de septiembre de 2021 sobre atención a la diversidad",
+        "Al Real Decreto 157/2022",
+        "A la Ley Orgánica 2/2006 de Educación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 20.1 establece que la evaluación inicial en la etapa de educación primaria se realizará en consonancia con lo establecido en el artículo 12 de la Orden de 8 de septiembre de 2021, por la que se desarrolla el Decreto 229/2011 de atención a la diversidad del alumnado."
+    },
+    {
+      "question": "¿Qué principios de buena regulación se mencionan específicamente en la orden como cumplidos?",
+      "options": [
+        "Necesidad, proporcionalidad y legalidad",
+        "Necesidad, eficacia, proporcionalidad, seguridad jurídica, eficiencia, transparencia y accesibilidad",
+        "Legalidad, jerarquía normativa y publicidad",
+        "Transparencia, participación y rendición de cuentas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el preámbulo, la orden declara expresamente que se adecúa a los principios de buena regulación del artículo 129 de la Ley 39/2015: necesidad, eficacia, proporcionalidad, seguridad jurídica, eficiencia, transparencia y accesibilidad, explicando cómo cumple cada uno."
+    }
+  ]
+}

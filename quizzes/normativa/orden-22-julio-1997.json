@@ -1,0 +1,174 @@
+{
+  "title": "ORDEN de 22 de julio de 1997",
+  "description": "Evaluación de conocimientos sobre la normativa que regula la organización y funcionamiento de escuelas de educación infantil y colegios de educación primaria en Galicia.",
+  "category": "educacion",
+  "icon": "📚",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿Qué decreto aprueba el Reglamento orgánico de las escuelas de educación infantil y de los colegios de educación primaria que autoriza esta orden?",
+      "options": [
+        "Decreto 374/1996, de 17 de octubre",
+        "Decreto 426/1991, de 12 de diciembre",
+        "Decreto 245/1992, de 30 de julio",
+        "Decreto 235/1995, de 20 de julio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 374/1996, de 17 de octubre, aprueba el Reglamento orgánico de las escuelas de educación infantil y de los colegios de educación primaria, y autoriza a la Consellería de Educación y Ordenación Universitaria para dictar las disposiciones necesarias para su desarrollo y ejecución."
+    },
+    {
+      "question": "¿Cuándo debe presentarse al consejo escolar la propuesta de programación general anual del centro para su aprobación?",
+      "options": [
+        "Antes del 15 de octubre",
+        "Antes del 15 de septiembre",
+        "Antes del 30 de septiembre",
+        "Antes del 1 de noviembre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el punto 3.7 de la orden, la propuesta de programación general del centro deberá presentarse al consejo escolar antes del 15 de octubre para su aprobación, si procede."
+    },
+    {
+      "question": "¿Cuál es el número de días de antelación mínima que debe tener un miembro del consejo escolar para consultar la propuesta de programación general antes de su sesión de aprobación?",
+      "options": [
+        "7 días",
+        "5 días",
+        "10 días",
+        "15 días"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El punto 3.8 establece que el presidente del consejo escolar pondrá a disposición de los miembros un número suficiente de ejemplares en la secretaría del centro para su consulta, con una antelación mínima de 7 días antes de la sesión."
+    },
+    {
+      "question": "¿Cuántas horas semanales constituyen la jornada laboral del profesorado según esta orden?",
+      "options": [
+        "37,5 horas",
+        "30 horas",
+        "25 horas",
+        "40 horas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el punto 2.1.2 del Capítulo V, de las treinta y siete horas y media (37,5 horas) que constituyen la jornada laboral, el profesorado dedicará 30 horas semanales a las actividades del centro, de las cuales 25 tendrán carácter lectivo."
+    },
+    {
+      "question": "¿Qué porcentaje máximo de faltas injustificadas de asistencia puede implicar la aplicación de sistemas extraordinarios de evaluación?",
+      "options": [
+        "15% del total de horas lectivas",
+        "10% del total de horas lectivas",
+        "20% del total de horas lectivas",
+        "25% del total de horas lectivas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El punto 5.4 del Capítulo IV sobre Alumnado establece que en el Reglamento de régimen interior se determinará el número máximo de faltas injustificadas que puedan implicar la aplicación de sistemas extraordinarios de evaluación, siempre que superen el 15% del total de horas lectivas."
+    },
+    {
+      "question": "¿Durante cuántos años mínimos deben usarse los libros de texto antes de poder ser sustituidos?",
+      "options": [
+        "4 años",
+        "3 años",
+        "5 años",
+        "2 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El punto 4.2 del Capítulo III indica que los libros de texto que se utilicen en los centros escolares no podrán ser sustituidos antes de transcurrir un mínimo de cuatro años, salvo circunstancias excepcionales con autorización."
+    },
+    {
+      "question": "¿Qué órgano debe aprobar el proyecto educativo de centro?",
+      "options": [
+        "El consejo escolar",
+        "El claustro de profesores",
+        "El equipo directivo",
+        "La comisión de coordinación pedagógica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el punto 1.3 del Capítulo I, el proyecto educativo de centro, así como las progresivas modificaciones que se hagan de él, será aprobado y evaluado por el consejo escolar."
+    },
+    {
+      "question": "¿Cuál es la duración recomendada de los períodos de recreo en los centros educativos?",
+      "options": [
+        "Entre 20 y 30 minutos",
+        "Entre 15 y 25 minutos",
+        "Entre 25 y 35 minutos",
+        "Entre 30 y 40 minutos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El punto 4.5 del Capítulo IV establece que el tiempo destinado a períodos de recreo estará comprendido entre 20 y 30 minutos, fijándose atendiendo a razones pedagógicas y de acuerdo con las instalaciones del centro."
+    },
+    {
+      "question": "¿Cuántas horas semanales tienen carácter lectivo de las 30 horas que el profesorado dedica a las actividades del centro?",
+      "options": [
+        "25 horas",
+        "20 horas",
+        "27 horas",
+        "22 horas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El punto 2.1.2 del Capítulo V sobre Profesorado indica que de las 30 horas semanales a las actividades del centro, 25 tendrán carácter lectivo, a razón de cinco horas diarias, de lunes a viernes."
+    },
+    {
+      "question": "¿En qué fecha límite debe remitirse la memoria final del curso a la inspección educativa?",
+      "options": [
+        "Antes del 10 de julio",
+        "Antes del 30 de junio",
+        "Antes del 15 de julio",
+        "Antes del 31 de julio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el punto 5.8 del Capítulo I, una vez informada por el claustro y el consejo escolar, y en todo caso antes del 10 de julio, la dirección del centro le remitirá una copia de la memoria final a la inspección educativa."
+    },
+    {
+      "question": "¿Qué porcentaje mínimo del valor de una compra debe invertirse en el año de adquisición para poder comprometer fondos del año siguiente?",
+      "options": [
+        "60%",
+        "50%",
+        "70%",
+        "55%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El punto 4.3 del Capítulo I sobre régimen económico establece que los centros podrán comprometer fondos del año siguiente en una cuantía que no supere el 5% del total del ejercicio, siempre que en el año de compra inviertan como mínimo el 60% de su valor."
+    },
+    {
+      "question": "¿Cuántas sesiones de evaluación mínimas deben celebrarse durante el curso escolar?",
+      "options": [
+        "3 sesiones (antes de Navidad, Semana Santa y final de curso)",
+        "2 sesiones (a mitad de curso y final)",
+        "4 sesiones (una por trimestre más final)",
+        "5 sesiones (una por bimestre más final)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El punto 10.7 del Capítulo IV establece que cada tutor coordinará las sesiones de evaluación del equipo de maestros que imparte clases a su grupo de alumnos. Las sesiones deberán celebrarse antes de Navidad, Semana Santa y final de curso."
+    },
+    {
+      "question": "¿En qué área debe impartirse obligatoriamente en gallego en el segundo y tercer ciclo de educación primaria?",
+      "options": [
+        "Conocimiento del medio natural, social y cultural",
+        "Matemáticas",
+        "Educación artística",
+        "Educación física"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el punto 7.2 del Capítulo IV, en el segundo y tercer ciclo de educación primaria se impartirá en gallego, por lo menos, dos áreas de conocimientos, una de las cuales será conocimiento del medio natural, social y cultural."
+    },
+    {
+      "question": "¿Cuántas horas máximas puede justificar el director por causas como imprevistos o indisposiciones leves durante el curso escolar?",
+      "options": [
+        "30 horas",
+        "20 horas",
+        "40 horas",
+        "25 horas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El punto 3.5, apartado c) del Capítulo V indica que en el caso de imprevistos, indisposiciones o enfermedades leves no superiores a tres días, el director podrá aceptar las justificaciones del profesorado hasta un máximo de 30 horas durante el curso escolar."
+    },
+    {
+      "question": "¿Cuál es el plazo para presentar una reclamación contra las calificaciones otorgadas al finalizar un ciclo educativo?",
+      "options": [
+        "5 días",
+        "7 días",
+        "10 días",
+        "3 días"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el punto 11.2 del Capítulo IV sobre tramitación de reclamaciones, los padres que no estén de acuerdo con la calificación asignada a su hijo al final de un ciclo podrán presentar en el plazo de cinco días una reclamación por escrito ante el director."
+    }
+  ]
+}

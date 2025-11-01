@@ -1,0 +1,229 @@
+{
+  "title": "DECRETO 229/2011 - Atención a la Diversidad",
+  "description": "Test de conocimientos sobre el Decreto 229/2011 por el que se regula la atención a la diversidad del alumnado y su orden de desarrollo.",
+  "category": "educacion",
+  "icon": "⚖️",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿Cuál es el objeto principal del Decreto 229/2011?",
+      "options": [
+        "Regular la atención a la diversidad del alumnado para facilitar su desarrollo personal y social",
+        "Establecer el currículo de educación especial en Galicia",
+        "Determinar las competencias del profesorado de pedagogía terapéutica",
+        "Regular exclusivamente la escolarización en centros de educación especial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 1, el decreto tiene por objeto regular la atención a la diversidad del alumnado, con la finalidad de facilitar el desarrollo personal y social de cada alumno/a y su potencial de aprendizaje."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un principio general de actuación en la atención a la diversidad según el Decreto 229/2011?",
+      "options": [
+        "Normalización e inclusión",
+        "Flexibilidad y accesibilidad",
+        "Segregación por niveles de aprendizaje",
+        "Interculturalidad y promoción de la convivencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 4 establece principios como normalización, inclusión, equidad, flexibilidad, accesibilidad e interculturalidad. La segregación contradice estos principios fundamentales."
+    },
+    {
+      "question": "¿Qué se entiende por 'atención a la diversidad' según el Decreto 229/2011?",
+      "options": [
+        "Únicamente las medidas para alumnado con necesidades educativas especiales",
+        "El conjunto de medidas para adecuar la respuesta educativa a las características de todo el alumnado",
+        "Los programas específicos para alumnado extranjero",
+        "Las adaptaciones curriculares exclusivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 3 define la atención a la diversidad como el conjunto de medidas y acciones que tienen como finalidad adecuar la respuesta educativa a las diferentes características de todo el alumnado."
+    },
+    {
+      "question": "¿Qué tipos de medidas de atención a la diversidad se distinguen en el decreto?",
+      "options": [
+        "Medidas preventivas y correctivas",
+        "Medidas ordinarias y extraordinarias",
+        "Medidas individuales y grupales",
+        "Medidas curriculares y organizativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 7 establece que las medidas de atención a la diversidad se clasifican en medidas ordinarias (artículo 8) y medidas extraordinarias (artículo 9)."
+    },
+    {
+      "question": "¿Cuándo se aplicarán las medidas extraordinarias de atención a la diversidad?",
+      "options": [
+        "Desde el inicio del curso escolar",
+        "Cuando lo soliciten las familias",
+        "Una vez agotadas las medidas ordinarias o por resultar éstas insuficientes",
+        "Exclusivamente en centros de educación especial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 9.1 establece que las medidas extraordinarias se aplicarán una vez agotadas las de carácter ordinario o por resultar éstas insuficientes."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una medida ordinaria de atención a la diversidad?",
+      "options": [
+        "Adaptaciones curriculares significativas",
+        "Flexibilización de la duración del período de escolarización",
+        "Metodologías basadas en el trabajo colaborativo en grupos heterogéneos",
+        "Escolarización en centros de educación especial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 8.2, entre las medidas ordinarias se incluyen metodologías basadas en el trabajo colaborativo, mientras que las demás opciones son medidas extraordinarias."
+    },
+    {
+      "question": "¿Qué documento articula la atención a la diversidad en cada centro educativo?",
+      "options": [
+        "La Programación General Anual",
+        "El Plan General de Atención a la Diversidad",
+        "El Proyecto Curricular de Centro",
+        "Las Normas de Organización y Funcionamiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 10 establece que el Plan General de Atención a la Diversidad es el documento en el que se articula la atención a la diversidad en cada centro educativo."
+    },
+    {
+      "question": "¿Quién es responsable de elaborar la propuesta del Plan General de Atención a la Diversidad?",
+      "options": [
+        "El equipo directivo del centro",
+        "La Comisión de Coordinación Pedagógica",
+        "Los departamentos de orientación",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 11.1, los departamentos de orientación son los responsables de elaborar la propuesta del Plan General de Atención a la Diversidad, de acuerdo con las directrices de la CCP."
+    },
+    {
+      "question": "En educación primaria, ¿hasta qué edad máxima se puede permanecer excepcionalmente en centros ordinarios?",
+      "options": [
+        "Hasta el año natural en que se cumplan los 13 años",
+        "Hasta el año natural en que se cumplan los 14 años",
+        "Hasta el año natural en que se cumplan los 15 años",
+        "Hasta el año natural en que se cumplan los 16 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 17.4 establece que en educación primaria no se podrá permanecer más allá del año natural en el que se cumplan los 15 años de edad."
+    },
+    {
+      "question": "¿Qué se entiende por 'absentismo escolar' según el Decreto 229/2011?",
+      "options": [
+        "Ausencia al centro sin causa justificada que suponga, cuando menos, un 5% del horario lectivo mensual",
+        "Ausencia al centro sin causa justificada que suponga, cuando menos, un 10% del horario lectivo mensual",
+        "Ausencia al centro sin causa justificada que suponga, cuando menos, un 15% del horario lectivo mensual",
+        "Cualquier ausencia no justificada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 22.1 define el absentismo como la ausencia al centro escolar sin causa justificada que suponga, cuando menos, un 10% del horario lectivo mensual."
+    },
+    {
+      "question": "¿Qué tipo de alumnado es destinatario de atención educativa hospitalaria de larga hospitalización?",
+      "options": [
+        "El que permanezca ingresado más de 15 días",
+        "El que permanezca ingresado más de 20 días",
+        "El que permanezca ingresado más de 30 días",
+        "El que permanezca ingresado más de 45 días"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 25.2, la larga hospitalización se refiere a un período superior a 30 días, mientras que la media hospitalización es entre 15 y 30 días."
+    },
+    {
+      "question": "¿Qué se entiende por 'alumnado con necesidad específica de apoyo educativo' según la orden de desarrollo?",
+      "options": [
+        "Únicamente el alumnado con discapacidad",
+        "El que requiera apoyos educativos diferentes a los ordinarios de forma temporal o permanente",
+        "Exclusivamente el alumnado con altas capacidades",
+        "Solo el alumnado de incorporación tardía al sistema educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 de la orden define al alumnado NEAE como aquél que requiera una atención educativa diferente a la ordinaria, temporal o permanentemente, por diversas causas."
+    },
+    {
+      "question": "Según la orden de desarrollo, ¿qué cociente intelectual mínimo se considera para el alumnado con alta capacidad intelectual?",
+      "options": [
+        "120",
+        "125",
+        "130",
+        "135"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 9.2 de la orden establece que se considera alumnado con alta capacidad intelectual el que presenta una capacidad intelectual igual o superior a 130 de cociente intelectual."
+    },
+    {
+      "question": "¿Qué profesional es competente y responsable de la evaluación psicopedagógica?",
+      "options": [
+        "El profesorado tutor",
+        "El equipo directivo",
+        "La jefatura del Departamento de Orientación",
+        "El profesorado de pedagogía terapéutica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 14 de la orden, la evaluación psicopedagógica es competencia y responsabilidad de la jefatura del departamento de orientación, con colaboración del EOE si es necesario."
+    },
+    {
+      "question": "¿Qué modalidades de escolarización se contemplan en el decreto?",
+      "options": [
+        "Solo escolarización en centros ordinarios y especiales",
+        "Ordinaria, en centros de escolarización preferente, en unidades de EE, en centros de EE y combinada",
+        "Únicamente ordinaria y en centros de educación especial",
+        "Ordinaria, adaptada y especializada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16 establece cinco modalidades: centros ordinarios (incluidos preferentes), unidades de EE en centros ordinarios, centros de EE, y escolarización combinada."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una medida extraordinaria de atención a la diversidad?",
+      "options": [
+        "Programas de refuerzo en áreas instrumentales",
+        "Desdoblamientos de grupos",
+        "Adaptaciones curriculares",
+        "Metodologías de aprendizaje cooperativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 9.3 del decreto incluye las adaptaciones curriculares como medida extraordinaria, mientras que las demás opciones son medidas ordinarias según el artículo 8."
+    },
+    {
+      "question": "¿Hasta qué edad puede prolongarse la escolarización en centros de educación especial?",
+      "options": [
+        "Hasta los 18 años",
+        "Hasta los 19 años",
+        "Hasta los 21 años",
+        "Hasta los 23 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 20.4 establece que el alumnado puede permanecer en centros de educación especial hasta los 21 años de edad, cumplidos en el año natural en que finaliza el curso escolar."
+    },
+    {
+      "question": "¿Qué porcentaje mínimo de ausencias mensuales sin justificar se considera absentismo escolar según el decreto?",
+      "options": [
+        "5% del horario lectivo mensual",
+        "10% del horario lectivo mensual",
+        "15% del horario lectivo mensual",
+        "20% del horario lectivo mensual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 22.1 define claramente que el absentismo supone, cuando menos, un 10% del horario lectivo mensual de ausencias sin causa justificada."
+    },
+    {
+      "question": "¿Qué documento recoge los resultados de la evaluación psicopedagógica?",
+      "options": [
+        "El dictamen de escolarización",
+        "El informe psicopedagógico",
+        "El plan de atención individualizada",
+        "La adaptación curricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 20 de la orden establece que el informe psicopedagógico es el documento donde se recogen los resultados y conclusiones de la evaluación psicopedagógica."
+    },
+    {
+      "question": "Según la orden, ¿cuándo se debe revisar como mínimo el informe psicopedagógico?",
+      "options": [
+        "Cada curso escolar",
+        "Al comienzo de cada etapa educativa",
+        "Cada dos años",
+        "Solo cuando cambie de centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 22 de la orden establece que el informe psicopedagógico se revisará, como mínimo, al comienzo de cada etapa educativa, además de cuando se produzcan modificaciones significativas."
+    }
+  ]
+}

@@ -1,15 +1,51 @@
 {
-  "quizzes": [
-    "lomloe.json",
-    "orden-26-mayo-2023-decreto-155.json",
-    "orden-26-mayo-2023-avanzado.json",
-    "calendario-escolar-galicia.json",
-    "resolucion-2025.json",
-    "decreto-374-1996.json",
-    "orden-22-julio-1997.json",
-    "decreto-79-2010.json",
-    "decreto-79-2010-facil.json",
-    "decreto-229-2011.json",
-    "decreto-229-2011-basico.json"
+  "categories": [
+    {
+      "id": "lomloe",
+      "name": "LOMLOE",
+      "description": "Ley Orgánica de Modificación de la LOE - Principios fundamentales del sistema educativo español",
+      "icon": "📖",
+      "quizzes": [
+        "lomloe.json"
+      ]
+    },
+    {
+      "id": "normativa",
+      "name": "Normativa Educativa",
+      "description": "Decretos, órdenes y resoluciones sobre educación en Galicia",
+      "icon": "🎓",
+      "quizzes": [
+        "decreto-374-1996.json",
+        "orden-22-julio-1997.json",
+        "decreto-79-2010.json",
+        "decreto-79-2010-facil.json",
+        "decreto-229-2011.json",
+        "decreto-229-2011-basico.json",
+        "orden-26-mayo-2023-decreto-155.json",
+        "orden-26-mayo-2023-avanzado.json",
+        "calendario-escolar-galicia.json",
+        "resolucion-2025.json"
+      ]
+    },
+    {
+      "id": "protocolos",
+      "name": "Protocolos",
+      "description": "Protocolos sobre educación en Galicia",
+      "icon": "🛡️",
+      "quizzes": [
+        "protocolo-discapacidad-auditiva.json"
+      ]
+    },
+    {
+      "id": "temas",
+      "name": "Temas",
+      "description": "Temas para la oposición de maestros en Galicia",
+      "icon": "📝",
+      "quizzes": [
+        "tema1-completo.json",
+        "tema2-completo.json",
+        "tema3-completo.json"
+      ]
+    }
   ]
 }

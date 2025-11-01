@@ -24,12 +24,14 @@ class QuizController {
             const urlParams = new URLSearchParams(window.location.search);
             const quizFile = urlParams.get('quiz');
             const mode = urlParams.get('mode');
+            const category = urlParams.get('category');
+            const sample = urlParams.get('sample') === 'true';
 
             // Check if random mode
             if (mode === 'random') {
-                await this.initRandomQuiz(container);
+                await this.initRandomQuiz(container, category);
             } else if (quizFile) {
-                await this.initRegularQuiz(container, quizFile);
+                await this.initRegularQuiz(container, quizFile, sample);
             } else {
                 this.renderer.showError(container, 'No quiz selected. Please return to the home page.');
                 return;
@@ -48,10 +50,14 @@ class QuizController {
      * Initializes a regular quiz from a file
      * @param {HTMLElement} container - Container element
      * @param {string} quizFile - Quiz filename
+     * @param {boolean} sampleMode - If true, creates a 10-question sample
      */
-    async initRegularQuiz(container, quizFile) {
+    async initRegularQuiz(container, quizFile, sampleMode = false) {
+        this.isSampleMode = sampleMode;
+        this.quizFile = quizFile; // Store for retry functionality
+
         this.renderer.showLoading(container, 'Loading quiz...');
-        await this.quizManager.loadQuiz(quizFile);
+        await this.quizManager.loadQuiz(quizFile, sampleMode);
 
         const metadata = this.quizManager.getQuizMetadata();
         this.renderer.updateQuizTitle(metadata.title);
@@ -62,23 +68,30 @@ class QuizController {
     /**
      * Initializes a random quiz from all available quizzes
      * @param {HTMLElement} container - Container element
+     * @param {string} categoryId - Optional category ID for category-specific random quiz
      */
-    async initRandomQuiz(container) {
+    async initRandomQuiz(container, categoryId = null) {
         this.isRandomMode = true;
+        this.randomCategoryId = categoryId; // Store for retry functionality
         this.renderer.showLoading(container, 'Creating your random quiz...');
 
-        // Load all quizzes
-        const allQuizzes = await this.quizManager.loadAllQuizzes();
+        // Load quizzes (all or from specific category)
+        const allQuizzes = await this.quizManager.loadAllQuizzes(categoryId);
 
         if (allQuizzes.length === 0) {
             throw new Error('No quizzes available to create random quiz');
         }
 
-        // Generate random quiz
+        // Generate random quiz with appropriate title
+        const title = categoryId ? 'Random Party Quiz' : 'Random Party Quiz';
+        const description = categoryId
+            ? 'A random selection of questions from this category'
+            : 'A random selection of questions from all available quizzes';
+
         const randomQuiz = RandomQuizGenerator.createRandomQuiz(allQuizzes, {
             count: 10,
-            title: 'Random Party Quiz',
-            description: 'A random selection of questions from all available quizzes'
+            title,
+            description
         });
 
         // Initialize the quiz manager with the random quiz
@@ -213,10 +226,18 @@ class QuizController {
         // If random mode, generate a NEW random quiz
         if (this.isRandomMode) {
             try {
-                await this.initRandomQuiz(quizContainer);
+                await this.initRandomQuiz(quizContainer, this.randomCategoryId);
             } catch (error) {
                 console.error('Error retrying random quiz:', error);
                 this.renderer.showError(quizContainer, 'Failed to generate new random quiz');
+            }
+        } else if (this.isSampleMode) {
+            // If sample mode, generate a NEW sample quiz
+            try {
+                await this.initRegularQuiz(quizContainer, this.quizFile, true);
+            } catch (error) {
+                console.error('Error retrying sample quiz:', error);
+                this.renderer.showError(quizContainer, 'Failed to generate new sample quiz');
             }
         } else {
             // For regular quizzes, just reset

@@ -120,6 +120,7 @@ body {
     font-weight: var(--font-weight-normal);
 }
 
+.header__back-link,
 .back-link {
     position: absolute;
     top: var(--spacing-lg);
@@ -131,6 +132,7 @@ body {
     transition: opacity var(--transition-fast);
 }
 
+.header__back-link:hover,
 .back-link:hover {
     opacity: 0.8;
 }
@@ -191,6 +193,29 @@ body {
     transform: translateY(-4px);
     box-shadow: var(--shadow-lg);
     border-color: var(--color-primary);
+}
+
+/* Cards with Quick Quiz actions */
+.quiz-card--with-actions {
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.quiz-card--with-actions:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--color-primary);
+}
+
+.quiz-card__main {
+    padding: var(--spacing-lg);
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    flex: 1;
+    display: block;
 }
 
 .quiz-card__icon {
@@ -287,6 +312,51 @@ body {
     to {
         transform: rotate(360deg);
     }
+}
+
+/* Quick Quiz Section and Button */
+.quiz-card__actions {
+    border-top: 1px solid var(--color-neutral-200);
+    padding: var(--spacing-md);
+    background-color: var(--color-neutral-100);
+}
+
+.quick-quiz-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--spacing-sm);
+    width: 100%;
+    padding: var(--spacing-sm) var(--spacing-md);
+    background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+    color: var(--color-white);
+    text-decoration: none;
+    border-radius: var(--radius-md);
+    font-weight: var(--font-weight-semibold);
+    transition: all var(--transition-fast);
+    border: none;
+    cursor: pointer;
+}
+
+.quick-quiz-btn:hover {
+    background: linear-gradient(135deg, #d97706 0%, #b45309 100%);
+    transform: scale(1.02);
+    box-shadow: 0 2px 8px rgba(217, 119, 6, 0.3);
+}
+
+.quick-quiz-btn__icon {
+    font-size: var(--font-size-lg);
+    line-height: 1;
+}
+
+.quick-quiz-btn__text {
+    font-size: var(--font-size-base);
+}
+
+.quick-quiz-btn__detail {
+    font-size: var(--font-size-xs);
+    opacity: 0.9;
+    font-weight: var(--font-weight-normal);
 }
 
 /* ===================================
@@ -636,6 +706,17 @@ body {
 
     .btn {
         width: 100%;
+    }
+
+    /* Quick Quiz button on mobile */
+    .quick-quiz-btn {
+        flex-direction: column;
+        gap: var(--spacing-xs);
+        padding: var(--spacing-sm) var(--spacing-md);
+    }
+
+    .quick-quiz-btn__detail {
+        font-size: 0.7rem;
     }
 }
 

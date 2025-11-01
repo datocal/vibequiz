@@ -4,10 +4,12 @@ A modern, lightweight quiz application built with vanilla HTML, CSS, and JavaScr
 
 ## Features
 
-- **Random Party Mode**: Generate a quiz with 10 random questions from all available quizzes
+- **Category Organization**: Browse quizzes organized by category for easy navigation
+- **Global Random Party Mode**: Generate a quiz with 10 random questions from ALL available quizzes
+- **Category Random Party Mode**: Generate a quiz with 10 random questions from a specific category
 - **Question & Answer Shuffling**: Questions and answer options are automatically shuffled for variety
-- **Multiple Quiz Selection**: Browse and select from various quizzes
-- **Dynamic Quiz Loading**: Quizzes are loaded dynamically from a manifest file
+- **Multiple Quiz Selection**: Browse and select from various quizzes within each category
+- **Dynamic Quiz Loading**: Categories and quizzes are loaded dynamically from a manifest file
 - **Interactive Quiz Taking**: Answer questions with immediate visual feedback
 - **Real-time Scoring**: Track your progress with a live progress bar
 - **Detailed Feedback**: Get explanations for correct and incorrect answers
@@ -20,24 +22,29 @@ A modern, lightweight quiz application built with vanilla HTML, CSS, and JavaScr
 
 ```
 .
-├── index.html             # Quiz selection page
-├── quiz.html              # Quiz taking page
-├── quiz-schema.json       # JSON Schema for quiz validation
-├── QUIZ-FORMAT.md         # Quiz format documentation
-├── README.md              # Main documentation
+├── index.html              # Category selection page
+├── category.html           # Quiz selection page (within category)
+├── quiz.html               # Quiz taking page
+├── quiz-schema.json        # JSON Schema for quiz validation
+├── QUIZ-FORMAT.md          # Quiz format documentation
+├── README.md               # Main documentation
 ├── css/
-│   └── styles.css         # All styles with CSS custom properties
+│   └── styles.css          # All styles with CSS custom properties
 ├── js/
-│   ├── QuizManager.js          # Business logic and state management
-│   ├── QuizRenderer.js         # DOM manipulation and rendering
-│   ├── RandomQuizGenerator.js  # Random quiz generation utility
-│   ├── index.js                # Entry point for index page
-│   └── quiz.js                 # Entry point for quiz page
-└── quizzes/                    # Quiz data in JSON format
-    ├── manifest.json           # List of available quizzes
-    ├── javascript-basics.json
-    ├── html-css.json
-    └── web-security.json
+│   ├── QuizManager.js           # Business logic and state management
+│   ├── QuizRenderer.js          # DOM manipulation and rendering
+│   ├── RandomQuizGenerator.js   # Random quiz generation utility
+│   ├── index.js                 # Entry point for index page (categories)
+│   ├── category.js              # Entry point for category page (quizzes)
+│   └── quiz.js                  # Entry point for quiz page
+└── quizzes/                     # Quiz data organized by category
+    ├── manifest.json            # Category and quiz definitions
+    ├── lomloe/                  # LOMLOE category
+    │   └── lomloe.json
+    └── educacion/               # Normativa Educativa category
+        ├── decreto-374-1996.json
+        ├── orden-22-julio-1997.json
+        └── ...
 ```
 
 ## Getting Started
@@ -81,21 +88,22 @@ Install the "Live Server" extension and click "Go Live"
 
 ## Creating New Quizzes
 
-Quizzes are stored as JSON files in the `quizzes/` directory.
+Quizzes are organized by category in subfolders within the `quizzes/` directory.
 
 **For detailed documentation on the quiz format, see [QUIZ-FORMAT.md](QUIZ-FORMAT.md)**
 
 Quick steps:
 
-1. Create a new JSON file in the `quizzes/` directory
-2. Add the filename to the `quizzes` array in [quizzes/manifest.json](quizzes/manifest.json)
+1. Create a new JSON file in the appropriate category subfolder (e.g., `quizzes/lomloe/` or `quizzes/educacion/`)
+2. Add the filename to the category's `quizzes` array in [quizzes/manifest.json](quizzes/manifest.json)
 3. Follow this structure:
 
 ```json
 {
   "title": "Your Quiz Title",
   "description": "A brief description of your quiz",
-  "category": "javascript",
+  "category": "lomloe",
+  "icon": "📖",
   "difficulty": "easy",
   "questions": [
     {
@@ -108,6 +116,27 @@ Quick steps:
       ],
       "correctAnswer": 0,
       "explanation": "Optional explanation for the answer"
+    }
+  ]
+}
+```
+
+### Manifest Structure
+
+The manifest file organizes quizzes by category:
+
+```json
+{
+  "categories": [
+    {
+      "id": "lomloe",
+      "name": "LOMLOE",
+      "description": "Ley Orgánica de Modificación de la LOE",
+      "icon": "📖",
+      "quizzes": [
+        "lomloe.json",
+        "your-new-quiz.json"
+      ]
     }
   ]
 }
@@ -225,18 +254,34 @@ Simply add or remove question objects in your quiz JSON files.
 
 Modify the `getProgress()` method in [js/QuizManager.js:139](js/QuizManager.js#L139).
 
+## Navigation Flow
+
+1. **Index Page** (`index.html`): Browse quiz categories
+   - Each category shows the number of available quizzes
+   - Global Random Party card generates quiz from all categories
+
+2. **Category Page** (`category.html?category=categoryId`): Browse quizzes within a category
+   - Shows all quizzes for the selected category
+   - Category Random Party card generates quiz from current category only
+   - Back button returns to category selection
+
+3. **Quiz Page** (`quiz.html`): Take the selected quiz
+   - Real-time progress tracking
+   - Immediate feedback on answers
+   - Final results with retry option
+
 ## Future Enhancements
 
 Potential features to add:
 
 - Timer for timed quizzes
-- Quiz categories and filtering
 - User statistics and history
 - Social sharing
 - Print-friendly results
 - Multi-language support
 - Dark mode toggle
-- Quiz search functionality
+- Quiz search functionality within categories
+- Category filtering and sorting
 
 ## License
 

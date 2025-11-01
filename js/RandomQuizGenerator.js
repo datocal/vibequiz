@@ -226,6 +226,38 @@ export class RandomQuizGenerator {
     }
 
     /**
+     * Creates a sample quiz with random questions from a single quiz
+     * Used for large quizzes (>30 questions) to create a quick 10-question version
+     * @param {Object} quiz - Source quiz object
+     * @param {number} count - Number of questions to select (default: 10)
+     * @returns {Object} A new quiz object with random questions from the source
+     */
+    static createSampleQuiz(quiz, count = 10) {
+        if (!this.isValidQuiz(quiz)) {
+            throw new Error('Invalid quiz object');
+        }
+
+        if (quiz.questions.length <= count) {
+            // If quiz has fewer questions than requested, return the original
+            return quiz;
+        }
+
+        // Select random questions
+        const selectedQuestions = this.selectRandom(quiz.questions, count);
+
+        // Create the sample quiz object
+        return {
+            ...quiz,
+            title: `${quiz.title} - Quick Quiz`,
+            description: `${count} preguntas aleatorias de: ${quiz.description}`,
+            questions: selectedQuestions,
+            isSampleQuiz: true,
+            sourceQuiz: quiz.title,
+            originalQuestionCount: quiz.questions.length
+        };
+    }
+
+    /**
      * Validates if a quiz object is valid
      * @param {Object} quiz - Quiz object to validate
      * @returns {boolean} True if valid

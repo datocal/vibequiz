@@ -9,37 +9,46 @@ Static HTML/CSS/JS quiz application with no frameworks or build tools. Uses ES6 
 ### File Structure
 ```
 .
-├── index.html              # Quiz selection page
-├── quiz.html              # Quiz taking page
-├── quiz-schema.json       # JSON Schema for validation
-├── QUIZ-FORMAT.md         # Quiz format documentation
-├── README.md              # Main documentation
+├── index.html              # Category selection page
+├── category.html           # Quiz selection page (within category)
+├── quiz.html               # Quiz taking page
+├── quiz-schema.json        # JSON Schema for validation
+├── QUIZ-FORMAT.md          # Quiz format documentation
+├── README.md               # Main documentation
 ├── css/
-│   └── styles.css         # All styles with CSS custom properties
+│   └── styles.css          # All styles with CSS custom properties
 ├── js/
-│   ├── QuizManager.js          # Business logic and state management
-│   ├── QuizRenderer.js         # DOM manipulation and rendering
-│   ├── RandomQuizGenerator.js  # Random quiz generation and shuffling
-│   ├── index.js                # Entry point for index page
-│   └── quiz.js                 # Entry point for quiz page
-└── quizzes/                    # Quiz data in JSON format
-    ├── manifest.json           # List of available quizzes
-    ├── javascript-basics.json
-    ├── html-css.json
-    └── web-security.json
+│   ├── QuizManager.js           # Business logic and state management
+│   ├── QuizRenderer.js          # DOM manipulation and rendering
+│   ├── RandomQuizGenerator.js   # Random quiz generation and shuffling
+│   ├── index.js                 # Entry point for index page (categories)
+│   ├── category.js              # Entry point for category page (quizzes)
+│   └── quiz.js                  # Entry point for quiz page
+└── quizzes/                     # Quiz data organized by category
+    ├── manifest.json            # Category and quiz definitions
+    ├── lomloe/                  # LOMLOE category
+    │   └── lomloe.json
+    └── educacion/               # Normativa Educativa category
+        ├── decreto-374-1996.json
+        ├── orden-22-julio-1997.json
+        └── ...
 ```
 
 ### Key Modules
 
 **QuizManager.js**
-- Loads quizzes from manifest.json dynamically
+- Loads categories and quizzes from manifest.json dynamically
+- `loadCategories()` - Loads all categories
+- `loadCategoryQuizzes(categoryId)` - Loads quizzes for specific category
+- `loadAllQuizzes(categoryId)` - Loads all quizzes (optionally filtered by category)
 - Manages quiz state (current question, score, answers)
 - Validates quiz structure
 - Applies shuffling on load
 
 **QuizRenderer.js**
 - All DOM manipulation and UI updates
-- Renders quiz list with Random Party card first
+- `renderCategoryList()` - Renders category cards on index page
+- `renderQuizList()` - Renders quiz cards with Random Party card first
 - Shows feedback, progress, and results
 - HTML escaping for XSS protection
 
@@ -52,16 +61,32 @@ Static HTML/CSS/JS quiz application with no frameworks or build tools. Uses ES6 
 
 ## Data Flow
 
-### Quiz Loading
-1. Load manifest.json to get quiz list
-2. Fetch quiz JSON files in parallel
-3. Validate structure
-4. Shuffle questions and options (always)
-5. Initialize QuizManager state
+### Navigation Flow
+1. **Index page** → Display categories from manifest.json
+2. **Category page** → Display quizzes for selected category
+3. **Quiz page** → Take quiz with shuffle and feedback
+
+### Category Loading (Index Page)
+1. Load manifest.json to get categories
+2. Render category cards with metadata
+3. Include Random Party card (global - all quizzes)
+
+### Quiz Loading (Category Page)
+1. Get category ID from URL parameter
+2. Load manifest.json and find category
+3. Fetch quiz JSON files for category in parallel
+4. Render quiz cards with metadata
+5. Include Random Party card (category-specific)
+
+### Quiz Taking
+1. Load specific quiz from category subfolder
+2. Validate structure
+3. Shuffle questions and options (always)
+4. Initialize QuizManager state
 
 ### Random Party Mode
-1. URL param: `?mode=random`
-2. Load ALL quizzes from manifest
+1. URL param: `?mode=random` (global) or `?mode=random&category=categoryId` (category-specific)
+2. Load ALL quizzes (or quizzes from specific category)
 3. Extract all questions with metadata
 4. Select 10 random questions
 5. Create new quiz object with mixed difficulty/category
@@ -89,20 +114,47 @@ Static HTML/CSS/JS quiz application with no frameworks or build tools. Uses ES6 
 **Required fields**: title, description, category, difficulty, questions
 **Validation**: See quiz-schema.json for constraints
 
+## Manifest JSON Format
+
+```json
+{
+  "categories": [
+    {
+      "id": "category-id",
+      "name": "Category Name",
+      "description": "Category description",
+      "icon": "📖",
+      "quizzes": ["quiz1.json", "quiz2.json"]
+    }
+  ]
+}
+```
+
+**Category fields**: id, name, description, icon (optional), quizzes (array)
+
 ## Adding New Quizzes
 
-1. Create JSON file in `quizzes/`
-2. Add filename to `quizzes/manifest.json` array
+1. Create JSON file in `quizzes/{category-id}/` subfolder
+2. Add filename to the category's `quizzes` array in `quizzes/manifest.json`
 3. Validate against quiz-schema.json
+
+## Adding New Categories
+
+1. Create subfolder in `quizzes/` with category ID
+2. Add category object to `categories` array in `quizzes/manifest.json`
+3. Add quiz files to category subfolder
 
 ## Key Features
 
+- **Category Organization**: Quizzes organized by category for better navigation
 - **Shuffling**: Questions and options shuffled automatically on every load
-- **Random Party**: 10 questions from all quizzes, generates NEW quiz on retry
-- **Dynamic Loading**: All quizzes loaded from manifest.json
+- **Global Random Party**: 10 questions from all quizzes across all categories
+- **Category Random Party**: 10 questions from specific category only
+- **Dynamic Loading**: Categories and quizzes loaded from manifest.json
 - **Progress Tracking**: Live progress bar and question counter
 - **Immediate Feedback**: Shows correct answer with explanation
 - **Responsive**: Mobile-first design with CSS Grid
+- **Back Navigation**: Easy navigation from category page to index
 
 ## Design Patterns
 
@@ -129,16 +181,21 @@ Static HTML/CSS/JS quiz application with no frameworks or build tools. Uses ES6 
 
 ## URL Parameters
 
-- `quiz.html?quiz=filename.json` - Load specific quiz
-- `quiz.html?mode=random` - Load Random Party mode
+- `index.html` - Show all categories
+- `category.html?category=categoryId` - Show quizzes for specific category
+- `quiz.html?quiz=categoryId/filename.json` - Load specific quiz from category
+- `quiz.html?mode=random` - Global Random Party (all quizzes)
+- `quiz.html?mode=random&category=categoryId` - Category Random Party
 
 ## Important Implementation Details
 
-1. **Shuffling**: Always enabled, no configuration needed
-2. **correctAnswer**: Must be updated when options shuffle (handled automatically)
-3. **Manifest**: Single source of truth for available quizzes
-4. **Retry**: Regular quizzes reset, Random Party generates NEW random quiz
-5. **ES6 Modules**: Requires local web server (not file://)
+1. **Category Structure**: Quizzes must be in category subfolders (e.g., `quizzes/lomloe/`)
+2. **Shuffling**: Always enabled, no configuration needed
+3. **correctAnswer**: Must be updated when options shuffle (handled automatically)
+4. **Manifest**: Single source of truth for categories and available quizzes
+5. **Retry**: Regular quizzes reset, Random Party generates NEW random quiz
+6. **ES6 Modules**: Requires local web server (not file://)
+7. **Random Party Context**: Can be global (all categories) or category-specific
 
 ## External Documentation
 

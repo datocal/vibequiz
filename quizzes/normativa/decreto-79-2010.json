@@ -1,0 +1,229 @@
+{
+  "title": "DECRETO 79/2010 - Plurilingüismo en la Enseñanza",
+  "description": "Evalúa tus conocimientos sobre el Decreto 79/2010 para el plurilingüismo en la enseñanza no universitaria de Galicia y la Orden de 10 de febrero de 2014 sobre exenciones.",
+  "category": "educacion",
+  "icon": "⚖️",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué artículo del Estatuto de Autonomía de Galicia define el gallego como lengua propia de Galicia?",
+      "options": [
+        "Artículo 3",
+        "Artículo 5",
+        "Artículo 14",
+        "Artículo 27"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 5 del Estatuto de Autonomía de Galicia define el gallego como lengua propia de Galicia y dispone que los idiomas gallego y castellano son oficiales en Galicia."
+    },
+    {
+      "question": "Según el Decreto 79/2010, ¿cuál es el objetivo principal en relación con las lenguas oficiales?",
+      "options": [
+        "Garantizar el dominio del gallego sobre el castellano",
+        "Garantizar la competencia plena y en igualdad en las dos lenguas oficiales",
+        "Priorizar el aprendizaje de lenguas extranjeras",
+        "Mantener el castellano como lengua vehicular principal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El decreto tiene como objetivo garantizar la competencia plena y en igualdad en las dos lenguas oficiales de Galicia y conseguir la adquisición de un conocimiento efectivo en lengua(s) extranjera(s)."
+    },
+    {
+      "question": "En educación infantil, ¿qué criterio se utiliza para determinar la lengua vehicular en el aula?",
+      "options": [
+        "La decisión del centro educativo",
+        "Siempre el gallego",
+        "La lengua materna predominante entre el alumnado",
+        "Alternancia obligatoria entre gallego y castellano"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En educación infantil, el profesorado usará en el aula la lengua materna predominante entre el alumnado, que será determinada mediante una pregunta a los padres, madres o tutores legales."
+    },
+    {
+      "question": "¿Qué asignatura se imparte obligatoriamente en gallego en educación primaria según el decreto?",
+      "options": [
+        "Matemáticas",
+        "Lengua gallega",
+        "Conocimiento del medio natural, social y cultural",
+        "Educación física"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El decreto establece que en educación primaria se impartirá en gallego la asignatura de Conocimiento del medio natural, social y cultural, mientras que Matemáticas se imparte en castellano."
+    },
+    {
+      "question": "¿Qué asignaturas se imparten obligatoriamente en castellano en la ESO?",
+      "options": [
+        "Matemáticas, Tecnologías y Física y química",
+        "Matemáticas, Ciencias sociales y Tecnologías",
+        "Lengua castellana, Matemáticas y Física",
+        "Tecnologías, Educación física y Matemáticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En educación secundaria obligatoria, se imparten en castellano las asignaturas de Matemáticas, Tecnologías y Física y química, mientras que otras como Ciencias sociales y Biología se imparten en gallego."
+    },
+    {
+      "question": "¿Cada cuántos cursos escolares se revisa el proyecto lingüístico de centro?",
+      "options": [
+        "Cada año",
+        "Cada dos cursos escolares",
+        "Cada cuatro cursos escolares",
+        "Cada cinco cursos escolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cada centro educativo elaborará su proyecto lingüístico cada cuatro cursos escolares, aunque anualmente se elabora una addenda para reflejar cambios y actualizaciones."
+    },
+    {
+      "question": "¿Qué porcentaje máximo de horario lectivo semanal en lengua(s) extranjera(s) pueden ofrecer los centros?",
+      "options": [
+        "Un cuarto (25%)",
+        "Un tercio (33%)",
+        "La mitad (50%)",
+        "Dos tercios (66%)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Administración educativa fomenta que los centros puedan llegar a ofrecer hasta un máximo de un tercio de su horario lectivo semanal en lengua(s) extranjera(s), principalmente en inglés."
+    },
+    {
+      "question": "Según la Orden de 10 de febrero de 2014, ¿quién puede solicitar la exención de la materia de lengua gallega?",
+      "options": [
+        "Cualquier alumno que lo solicite",
+        "Alumnado procedente de otras comunidades o países que se incorpore en 3er ciclo de primaria, ESO o bachillerato",
+        "Solo alumnado extranjero",
+        "Alumnado que curse menos de 4 asignaturas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Solo puede solicitar exención el alumnado procedente de otras comunidades autónomas o de un país extranjero que se incorpore al sistema educativo de Galicia en el 3er ciclo de educación primaria, en ESO o en bachillerato."
+    },
+    {
+      "question": "¿Cuál es la duración máxima de la exención temporal de la materia de lengua gallega?",
+      "options": [
+        "Un curso escolar",
+        "Dos cursos escolares consecutivos",
+        "Tres cursos escolares",
+        "Hasta finalizar la etapa educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La exención temporal de la calificación de las pruebas de evaluación de la materia de lengua gallega tiene una duración máxima de dos cursos escolares consecutivos."
+    },
+    {
+      "question": "¿Qué debe hacer el alumnado que tiene la exención de lengua gallega?",
+      "options": [
+        "No asistir a las clases de lengua gallega",
+        "Asistir a las clases como medio de integración lingüística",
+        "Solo hacer exámenes finales",
+        "Sustituir la asignatura por otra optativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alumnado exento debe asistir a las clases de lengua gallega como medio de integración lingüística, con materiales específicos y ayuda continua del profesorado para alcanzar el dominio adecuado."
+    },
+    {
+      "question": "¿Qué órgano debe aprobar el proyecto lingüístico del centro educativo?",
+      "options": [
+        "El claustro de profesores",
+        "El equipo directivo",
+        "El consejo escolar del centro",
+        "La inspección educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El proyecto lingüístico es redactado por una comisión del profesorado, pero debe ser aprobado y evaluado por el consejo escolar del centro educativo."
+    },
+    {
+      "question": "¿Cómo se llama el órgano creado para potenciar el uso del gallego en los centros?",
+      "options": [
+        "Comisión de normalización lingüística",
+        "Equipo de dinamización de la lengua gallega",
+        "Departamento de lengua gallega",
+        "Consejo lingüístico del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se constituirá un equipo de dinamización de la lengua gallega en cada centro, formado por su coordinador/a, profesorado, representantes del alumnado y personal no docente."
+    },
+    {
+      "question": "¿Qué derechos administrativos y económicos tiene el coordinador del equipo de dinamización de la lengua gallega?",
+      "options": [
+        "Los mismos que los tutores de grupo",
+        "Los mismos que las jefaturas de los departamentos didácticos",
+        "Los mismos que el secretario del centro",
+        "No tiene derechos específicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La disposición adicional cuarta establece que el coordinador o coordinadora del equipo de dinamización de la lengua gallega tendrá los mismos derechos administrativos y económicos que las jefaturas de los departamentos didácticos."
+    },
+    {
+      "question": "Según la Orden de 2014, ¿tiene derecho a exención el alumnado que haya cursado en Galicia y estudie fuera tres cursos o menos?",
+      "options": [
+        "Sí, automáticamente",
+        "Sí, si lo solicita en el plazo establecido",
+        "No, porque no es una incorporación ex novo",
+        "Sí, pero solo por un curso escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "No tiene derecho a exención el alumnado que haya realizado estudios en Galicia y curse fuera tres cursos completos o menos, ya que su vuelta se considera reincorporación, no incorporación ex novo."
+    },
+    {
+      "question": "¿Qué sucede si el alumnado exento no asiste a las clases de lengua gallega?",
+      "options": [
+        "No pasa nada, es optativo",
+        "Se le prorroga la exención un curso más",
+        "Se revoca la exención y debe ser calificado",
+        "Se sustituye por actividades extraescolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El incumplimiento del deber de asistir a las clases determinará la revocación de la exención, tras los informes pertinentes, obligando al alumnado a ser calificado en las evaluaciones."
+    },
+    {
+      "question": "¿Cuál es el plazo de presentación de solicitud de exención para alumnado de primaria y ESO?",
+      "options": [
+        "Del 1 de julio al 31 de agosto",
+        "Del 1 de septiembre al 5 de octubre",
+        "Del 15 de septiembre al 30 de octubre",
+        "Durante todo el primer trimestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para alumnado de educación primaria y secundaria obligatoria, el plazo es del 1 de septiembre al 5 de octubre de cada año. Para bachillerato se extiende hasta el 20 de octubre."
+    },
+    {
+      "question": "¿Qué principio garantiza el decreto respecto a las horas semanales en las dos lenguas oficiales?",
+      "options": [
+        "El gallego debe tener más horas que el castellano",
+        "El castellano debe tener más horas que el gallego",
+        "El máximo equilibrio posible entre ambas lenguas",
+        "Depende de la decisión de cada familia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Uno de los principios del decreto es la garantía del máximo equilibrio posible en las horas semanales y en las asignaturas impartidas en las dos lenguas oficiales, asegurando la competencia en igualdad."
+    },
+    {
+      "question": "¿Qué documento debe acompañar a la solicitud de exención si los progenitores no consienten la verificación de datos de identidad?",
+      "options": [
+        "Certificado de empadronamiento",
+        "Copia del libro de familia",
+        "Copia del documento de identidad",
+        "Certificado de estudios previos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según la Orden de 2014, si no se presta consentimiento para la comprobación de datos de identidad en el sistema de verificación, deberá adjuntarse la copia del documento de identidad correspondiente."
+    },
+    {
+      "question": "¿En qué lengua se redactarán las programaciones de las asignaturas de lengua?",
+      "options": [
+        "Siempre en gallego",
+        "Siempre en castellano",
+        "En la lengua respectiva de cada asignatura",
+        "En ambas lenguas simultáneamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 3.2 del decreto establece que las programaciones y otros documentos didácticos de las asignaturas de lengua se redactarán, con carácter general, en la lengua respectiva."
+    },
+    {
+      "question": "¿Qué ley desarrolla el Decreto 79/2010 en lo relativo al uso del gallego en la enseñanza?",
+      "options": [
+        "Ley orgánica 2/2006, de educación",
+        "Ley 3/1983, de normalización lingüística",
+        "Constitución española de 1978",
+        "Estatuto de autonomía de Galicia de 1981"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 79/2010 desarrolla la Ley 3/1983, de 15 de junio, de normalización lingüística, en lo relativo al uso del gallego en la enseñanza en los niveles no universitarios."
+    }
+  ]
+}

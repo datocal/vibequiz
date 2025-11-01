@@ -3,15 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Vibe Quiz - Pon a prueba tus conocimientos con cuestionarios interactivos">
+    <meta name="description" content="Fast Quiz Application - Browse quizzes by category">
     <title>Vibe Quiz</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <div class="container">
         <header class="header">
-            <h1 class="header__title">Vibe Quiz</h1>
-            <p class="header__subtitle">Pon a prueba tus conocimientos con cuestionarios interactivos</p>
+            <a href="index.html" class="header__back-link">← Volver a categorías</a>
+            <h1 class="header__title" id="categoryTitle">Categoría</h1>
+            <p class="header__subtitle" id="categoryDescription">Selecciona un cuestionario para comenzar</p>
         </header>
 
         <main class="main">
@@ -21,10 +22,10 @@
         </main>
 
         <footer class="footer">
-            <p>&copy; 2025 Vibe Quiz. Built with vanilla JavaScript.</p>
+            <p>&copy; 2025 Fast Quiz. Built with vanilla JavaScript.</p>
         </footer>
     </div>
 
-    <script type="module" src="js/index.js"></script>
+    <script type="module" src="js/category.js"></script>
 </body>
 </html>

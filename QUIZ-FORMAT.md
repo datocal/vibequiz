@@ -313,21 +313,44 @@ You can validate your quiz JSON files using:
 
 After creating your quiz JSON file:
 
-1. Save it in the `/quizzes` directory
-2. Add the filename to the `quizzes` array in `quizzes/manifest.json`:
+1. Save it in the appropriate category subfolder in `/quizzes/{category-id}/`
+   - Example: `/quizzes/lomloe/your-new-quiz.json` or `/quizzes/educacion/your-new-quiz.json`
+
+2. Add the filename to the appropriate category's `quizzes` array in `quizzes/manifest.json`:
 
 ```json
 {
-  "quizzes": [
-    "javascript-basics.json",
-    "html-css.json",
-    "web-security.json",
-    "your-new-quiz.json"
+  "categories": [
+    {
+      "id": "lomloe",
+      "name": "LOMLOE",
+      "description": "Ley Orgánica de Modificación de la LOE",
+      "icon": "📖",
+      "quizzes": [
+        "lomloe.json",
+        "your-new-quiz.json"
+      ]
+    },
+    {
+      "id": "educacion",
+      "name": "Normativa Educativa",
+      "description": "Decretos y órdenes sobre educación",
+      "icon": "🎓",
+      "quizzes": [
+        "decreto-374-1996.json",
+        "orden-22-julio-1997.json"
+      ]
+    }
   ]
 }
 ```
 
-3. Test your quiz by opening the application in a browser
+3. If you need to create a new category:
+   - Create a new subfolder in `/quizzes/` with your category ID
+   - Add a new category object to the `categories` array with all required fields
+   - Place your quiz file in the new category folder
+
+4. Test your quiz by opening the application in a browser
 
 ## Troubleshooting
 
@@ -342,9 +365,10 @@ After creating your quiz JSON file:
 - Verify the index is within the options array bounds
 
 **Quiz doesn't appear in the list**
-- Check filename is added to `quizzes` array in `quizzes/manifest.json`
-- Verify file is in the `/quizzes` directory
+- Check filename is added to category's `quizzes` array in `quizzes/manifest.json`
+- Verify file is in the correct category subfolder (e.g., `/quizzes/lomloe/`)
 - Check file extension is `.json`
+- Verify the category exists in the manifest and has a valid `id`
 
 **XSS/Security concerns**
 - All user content is automatically escaped

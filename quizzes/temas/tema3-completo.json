@@ -1,0 +1,2121 @@
+{
+  "title": "Tema 3: La Tutoría en Educación Primaria - Completo",
+  "description": "Test completo de 200 preguntas sobre la tutoría en EP: bases legales, acción tutorial, apoyo y orientación, colaboración con familias, funciones del tutor, PAT y propuestas de acción tutorial.",
+  "category": "temas",
+  "icon": "📝",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿Qué artículo de la LOMLOE establece que la orientación y la acción tutorial deben acompañar el proceso educativo individual y colectivo del alumnado?",
+      "options": [
+        "Artículo 18",
+        "Artículo 13",
+        "Artículo 19",
+        "Artículo 91"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18 de la LOMLOE establece que, a lo largo de toda la etapa, la orientación y la acción tutorial deben acompañar el proceso educativo individual y colectivo del alumnado."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 se dedica específicamente a la acción tutorial y la orientación?",
+      "options": [
+        "Artículo 15",
+        "Artículo 17",
+        "Artículo 19",
+        "Artículo 21"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 19 del Decreto 155/2022 dedica un espacio específico a la acción tutorial y a la orientación, estableciendo que deben acompañar el proceso educativo individual y colectivo del alumnado."
+    },
+    {
+      "question": "Según el Decreto 155/2022, ¿qué debe fomentarse especialmente desde la acción tutorial?",
+      "options": [
+        "El respeto mutuo y la cooperación entre iguales, con especial atención a la igualdad de género",
+        "La competencia académica y el rendimiento individual",
+        "El uso de tecnologías educativas",
+        "La participación en actividades deportivas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19 del Decreto 155/2022 establece la importancia de fomentar desde la acción tutorial el respeto mutuo y la cooperación entre iguales, con especial atención a la igualdad de género."
+    },
+    {
+      "question": "¿Con qué periodicidad mínima debe el tutor informar a las familias sobre el proceso educativo de sus hijos según el Decreto 155/2022?",
+      "options": [
+        "Mensualmente",
+        "Bimestralmente",
+        "Trimestralmente",
+        "Semestralmente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 155/2022 establece que desde la tutoría se debe informar regularmente a las familias sobre el proceso educativo de sus hijos mediante la recogida de calificaciones de cada área con una periodicidad mínima trimestral."
+    },
+    {
+      "question": "¿Qué establece el artículo 5 de la Orden de 26 de mayo de 2023 respecto a la continuidad del tutor?",
+      "options": [
+        "Debe cambiar anualmente para ofrecer perspectivas variadas",
+        "Debe mantenerse el mismo tutor a lo largo de toda la etapa",
+        "Debe mantenerse el mismo tutor para cada grupo a lo largo de cada ciclo, siempre que sea posible",
+        "Debe rotar entre los miembros del equipo docente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden de 26 de mayo de 2023, en su artículo 5, establece que siempre que sea posible, se mantendrá la misma persona tutora para cada grupo a lo largo de cada uno de los ciclos."
+    },
+    {
+      "question": "¿En qué artículo de la LOMLOE se recoge la acción tutorial como función clave del profesorado?",
+      "options": [
+        "Artículo 87",
+        "Artículo 89",
+        "Artículo 91",
+        "Artículo 93"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 91 de la LOMLOE recoge la acción tutorial como una función clave del profesorado que aborda la tutoría de los alumnos, la dirección y la orientación de su aprendizaje y el apoyo en su proceso educativo, en colaboración con las familias."
+    },
+    {
+      "question": "Según González et al. (2018), ¿qué es la acción tutorial?",
+      "options": [
+        "Un proceso ocasional llevado a cabo por el equipo directivo",
+        "Un proceso intencional de acompañamiento continuo y personalizado por el tutor",
+        "Una serie de reuniones informativas con las familias",
+        "Un conjunto de evaluaciones académicas periódicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "González et al. (2018) define la acción tutorial como un proceso intencional llevada a cabo especialmente por el tutor que realiza una labor de acompañamiento continuo y personalizado a lo largo de toda la formación del alumno."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la Educación Primaria establecida en el artículo 4 del Decreto 155/2022?",
+      "options": [
+        "Preparar al alumnado exclusivamente para la educación secundaria",
+        "Facilitar aprendizajes para una formación integral y preparar para cursar con aprovechamiento la ESO",
+        "Desarrollar únicamente competencias académicas básicas",
+        "Garantizar el dominio de las materias instrumentales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece como finalidad de la EP 'facilitar al alumnado los aprendizajes para garantizar una formación integral que contribuya al pleno desarrollo de su personalidad, y de prepararlo para cursar con aprovechamiento la educación secundaria obligatoria'."
+    },
+    {
+      "question": "¿Cómo define Bisquerra (2012) la orientación?",
+      "options": [
+        "Como un proceso puntual de asesoramiento académico",
+        "Como un proceso de ayuda continuo y sistemático para el desarrollo integral",
+        "Como una función exclusiva del departamento de orientación",
+        "Como un conjunto de técnicas de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bisquerra (2012) define la orientación como un proceso de ayuda continuo y sistemático destinado a favorecer el desarrollo integral y potencialidades de cada persona, implicando la colaboración entre diversos agentes educativos."
+    },
+    {
+      "question": "¿Qué objetivo principal persiguen la acción tutorial y la orientación según el tema?",
+      "options": [
+        "Aumentar el rendimiento académico exclusivamente",
+        "Contribuir al bienestar emocional y al éxito académico del alumnado",
+        "Facilitar la comunicación entre el centro y las familias",
+        "Organizar las actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La acción tutorial y la orientación contribuyen al bienestar emocional y al éxito académico del alumnado a través de la orientación de sus intereses, necesidades, toma de decisiones y metas personales."
+    },
+    {
+      "question": "¿Cómo define la UNESCO (2023) los apoyos educativos?",
+      "options": [
+        "Las clases de refuerzo impartidas fuera del horario escolar",
+        "Las acciones, adaptaciones, estrategias y recursos que permiten la accesibilidad a los procesos de enseñanza-aprendizaje",
+        "Los profesionales especializados que trabajan con alumnos con necesidades específicas",
+        "Los materiales didácticos complementarios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La UNESCO (2023) define los apoyos educativos como las acciones, adaptaciones, estrategias, apoyos, recursos o modificaciones que permiten la accesibilidad a los procesos de enseñanza-aprendizaje."
+    },
+    {
+      "question": "¿Qué incluye el apoyo académico en el aula?",
+      "options": [
+        "Servicios de psicología y terapia ocupacional",
+        "Estrategias de modificación del comportamiento",
+        "Tutorías individualizadas, refuerzos y adaptaciones curriculares",
+        "Programas de actividades extraescolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El apoyo académico se centra en atender las necesidades académicas específicas de los estudiantes e incluye tutorías individualizadas, refuerzos encaminados a superar dificultades de aprendizaje o adaptaciones curriculares."
+    },
+    {
+      "question": "¿En qué consiste el apoyo social y emocional?",
+      "options": [
+        "En adaptaciones curriculares para alumnos con dificultades",
+        "En programas destinados a fomentar un clima positivo y seguro para el desarrollo emocional",
+        "En intervenciones orientadas a mejorar la convivencia",
+        "En refuerzos académicos individualizados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El apoyo social y emocional engloba programas y estrategias destinadas a fomentar un clima positivo y seguro para el desarrollo emocional y social de los alumnos mediante servicios de psicología, terapia ocupacional o consejeros escolares."
+    },
+    {
+      "question": "¿Qué tipo de apoyo se centra en mejorar la convivencia y la gestión de conductas problemáticas?",
+      "options": [
+        "Apoyo académico",
+        "Apoyo social y emocional",
+        "Apoyo conductual",
+        "Apoyo psicopedagógico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El apoyo conductual consiste en intervenciones orientadas a mejorar la convivencia y la gestión de conductas problemáticas en el aula a través de estrategias de modificación del comportamiento y el uso de apoyos positivos."
+    },
+    {
+      "question": "¿Qué decreto regula la orientación educativa y profesional en la Comunidad Autónoma de Galicia?",
+      "options": [
+        "Decreto 120/1998, de 23 de abril",
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 374/1996, de 17 de octubre",
+        "Decreto 229/2011, de 7 de diciembre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 120/1998, de 23 de abril, regula la orientación educativa y profesional en la Comunidad Autónoma de Galicia y menciona los tres grandes campos que abarca la orientación: personal, profesional y académico."
+    },
+    {
+      "question": "¿Cuáles son los tres grandes campos que abarca la orientación según el Decreto 120/1998?",
+      "options": [
+        "Académico, social y deportivo",
+        "Personal, profesional y académico",
+        "Individual, grupal y familiar",
+        "Cognitivo, emocional y conductual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 120/1998 menciona los tres grandes campos que abarca la orientación: personal, profesional y académico."
+    },
+    {
+      "question": "¿En qué consiste la orientación individualizada o psicopedagógica?",
+      "options": [
+        "En ayudar al alumnado a tomar decisiones sobre su trayectoria educativa",
+        "En identificar y desarrollar habilidades y fortalezas ofreciendo orientación personalizada",
+        "En explorar diferentes profesiones y ámbitos de interés",
+        "En fomentar actitudes de educación para la salud"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La orientación individualizada o psicopedagógica se centra en identificar y desarrollar habilidades y fortalezas ayudando a comprender intereses con el fin de ofrecer orientación personalizada para el desarrollo académico y personal."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la orientación académica?",
+      "options": [
+        "Explorar diferentes profesiones y ámbitos laborales",
+        "Ayudar al alumnado a tomar decisiones informadas sobre su trayectoria educativa",
+        "Fomentar el desarrollo de habilidades sociales",
+        "Prevenir conductas de riesgo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La orientación académica tiene por finalidad ayudar al alumnado a tomar decisiones informadas sobre su trayectoria educativa, estableciendo metas educativas claras y diseñando estrategias adecuadas para alcanzarlas."
+    },
+    {
+      "question": "¿Por qué es importante introducir la orientación profesional en Educación Primaria aunque de forma básica?",
+      "options": [
+        "Para preparar al alumnado para el mercado laboral inmediato",
+        "Para que empiecen a explorar profesiones y desarrollen una visión positiva del esfuerzo y aprendizaje para el futuro",
+        "Para determinar su vocación profesional definitiva",
+        "Para cumplir con los requisitos curriculares establecidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque es menos frecuente en EP, resulta importante introducir la orientación profesional de forma básica para que los niños empiecen a explorar las diferentes profesiones y ámbitos de interés, favoreciendo una visión positiva del esfuerzo y del aprendizaje para el futuro."
+    },
+    {
+      "question": "¿Qué modalidad de orientación añade Bisquerra (2012) además de las tres tradicionales?",
+      "options": [
+        "Orientación tecnológica",
+        "Orientación deportiva",
+        "Orientación para la prevención y desarrollo humano",
+        "Orientación comunitaria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bisquerra (2012) amplía las modalidades de orientación añadiendo la orientación para la prevención y desarrollo humano, enfocada en fomentar actitudes de educación para la salud y habilidades sociales y emocionales."
+    },
+    {
+      "question": "¿Qué nivel de contacto constituye la tutoría según el tema?",
+      "options": [
+        "El nivel avanzado de coordinación institucional",
+        "El nivel básico de contacto y comunicación personal profesor-alumno y profesor-familia",
+        "El nivel intermedio de gestión administrativa",
+        "El nivel superior de dirección pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tutoría constituye el nivel básico de contacto y comunicación personal profesor-alumno y profesor-familia."
+    },
+    {
+      "question": "¿Qué decreto aprueba el Reglamento orgánico de las escuelas de educación infantil y de los colegios de educación primaria?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 374/1996, de 17 de octubre",
+        "Decreto 120/1998, de 23 de abril",
+        "Decreto 229/2011, de 7 de diciembre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 374/1996, de 17 de octubre, aprueba el Reglamento orgánico de las escuelas de educación infantil y de los colegios de educación primaria y en su artículo 81 recoge las funciones del tutor."
+    },
+    {
+      "question": "¿Qué debe informar el tutor a las familias al principio de curso según el artículo 81 del Decreto 374/1996?",
+      "options": [
+        "Solo el calendario escolar y los horarios",
+        "Únicamente los criterios de evaluación",
+        "Calendario escolar, horarios, horas de tutoría, actividades extraescolares, programas escolares y criterios de evaluación",
+        "Exclusivamente las actividades complementarias previstas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 81 del Decreto 374/1996 establece que el tutor debe informar a las familias al principio de curso sobre calendario escolar, horarios, horas de tutoría, actividades extraescolares y complementarias previstas, programas escolares y criterios de evaluación del grupo."
+    },
+    {
+      "question": "¿Qué derecho de las familias recoge la Ley 4/2011, de 30 de junio?",
+      "options": [
+        "El derecho a elegir al tutor de sus hijos",
+        "El derecho a participar activamente en la educación de sus hijos",
+        "El derecho a asistir a todas las clases",
+        "El derecho a decidir sobre el currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La colaboración tutor-familias responde al derecho de las familias a participar activamente en la educación de sus hijos en consonancia con lo recogido en el artículo 6 de la Ley 4/2011, de 30 de junio, de convivencia y participación de la comunidad educativa."
+    },
+    {
+      "question": "¿Qué establece el artículo 121 de la LOMLOE sobre los compromisos educativos?",
+      "options": [
+        "Que son obligatorios solo para las familias",
+        "Que deben consignarse las actividades que familias, docentes y alumnos se comprometen a desarrollar para mejorar el rendimiento académico",
+        "Que son opcionales y dependen de la decisión del centro",
+        "Que solo afectan al equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 121 de la LOMLOE establece que los centros deben promover compromisos educativos entre familias o tutores legales y el centro en los que se consignen las actividades que familias, docentes y alumnos se comprometen a desarrollar para mejorar el rendimiento académico del alumnado."
+    },
+    {
+      "question": "¿Dónde deben recogerse las líneas de actuación prioritarias para potenciar la participación de las familias?",
+      "options": [
+        "En la Programación General Anual (PGA)",
+        "En el Plan de Acción Tutorial (PAT)",
+        "En el Proyecto Educativo (PE) del centro",
+        "En las Normas de Organización y Funcionamiento (NOF)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las líneas de actuación prioritarias para potenciar la participación de las familias deben recogerse en el Proyecto Educativo (PE) del centro para su posterior concreción en el PAT."
+    },
+    {
+      "question": "¿Qué tipo de actividades conjuntas escuela-familia menciona el tema como ejemplos de colaboración?",
+      "options": [
+        "Solo reuniones trimestrales informativas",
+        "Visitas, charlas, coloquios, conferencias o escuelas de familias",
+        "Únicamente actividades deportivas",
+        "Exclusivamente talleres de fin de semana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT especifica acciones concretas con las familias como realizar entrevistas, preparar actividades conjuntas como visitas, charlas, coloquios, conferencias o escuelas de familias, e intercambiar notas informativas."
+    },
+    {
+      "question": "¿Por qué es importante la implicación de las familias según el tema?",
+      "options": [
+        "Porque son los primeros agentes responsables de la educación de sus hijos",
+        "Porque deben sustituir al profesorado en ciertas tareas",
+        "Porque así se reduce el trabajo del tutor",
+        "Porque es un requisito administrativo obligatorio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La importancia de las familias reside en que son los primeros agentes responsables de la educación de sus hijos, constituyendo el núcleo donde el niño pasa la mayor parte del tiempo."
+    },
+    {
+      "question": "¿Qué beneficio tiene la comunicación fluida entre tutor y familia?",
+      "options": [
+        "Reduce el tiempo de trabajo del tutor",
+        "Permite obtener datos del contexto y ajustar la respuesta educativa a las necesidades individuales",
+        "Facilita la gestión administrativa del centro",
+        "Disminuye el número de reuniones necesarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La comunicación fluida y las entrevistas personales entre tutor-familia permiten obtener datos del contexto, realidad y comportamiento de los alumnos, lo que permite ajustar la respuesta educativa a las características personales y necesidades de cada uno."
+    },
+    {
+      "question": "¿Quién es el tutor según la definición del tema?",
+      "options": [
+        "El director del centro educativo",
+        "La persona responsable de la atención, seguimiento personalizado, orientación y apoyo del alumnado",
+        "El jefe de estudios",
+        "El orientador del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor es la persona responsable de la atención, del seguimiento personalizado, de la orientación y del apoyo del alumnado durante su proceso educativo."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 374/1996 se recogen las funciones del tutor?",
+      "options": [
+        "Artículo 79",
+        "Artículo 80",
+        "Artículo 81",
+        "Artículo 82"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las funciones del tutor están recogidas en el artículo 81 del Decreto 374/1996."
+    },
+    {
+      "question": "Entre las funciones del tutor a nivel de grupo y alumnos, ¿cuál de estas NO está incluida?",
+      "options": [
+        "Conocer las características personales de cada discente",
+        "Efectuar un seguimiento global de los procesos de enseñanza-aprendizaje",
+        "Elaborar el Proyecto Educativo del centro",
+        "Facilitar la inclusión del alumnado en el grupo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Elaborar el Proyecto Educativo del centro no es una función del tutor a nivel de grupo y alumnos. Sus funciones incluyen conocer características personales, efectuar seguimiento, facilitar inclusión, orientar directamente, atender en tiempos de ocio y controlar asistencia."
+    },
+    {
+      "question": "¿Qué debe hacer el tutor al principio de curso respecto a la información a las familias?",
+      "options": [
+        "Enviar un correo electrónico con los datos básicos",
+        "Proporcionar información documental sobre calendario, horarios, tutorías, actividades y criterios de evaluación",
+        "Esperar a la primera reunión trimestral",
+        "Publicar la información en el tablón del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A nivel familiar, el tutor debe proporcionar a principios de curso la información documental sobre calendario escolar, horarios, horas de tutoría, actividades complementarias y extraescolares, programas escolares y criterios de evaluación del grupo."
+    },
+    {
+      "question": "Entre las funciones del tutor a nivel de centro, ¿cuál de estas es correcta?",
+      "options": [
+        "Elaborar el presupuesto anual del centro",
+        "Llevar a cabo las funciones del PAT y coordinar las sesiones de evaluación",
+        "Contratar al personal docente",
+        "Diseñar el horario general del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A nivel de centro, las funciones del tutor incluyen llevar a cabo las funciones del PAT, coordinar, organizar y presidir las sesiones de evaluación, tomar decisiones de promoción, cubrir documentos oficiales, coordinar adaptaciones curriculares e informar al resto del profesorado."
+    },
+    {
+      "question": "¿Quién es el encargado de coordinar el trabajo de los tutores del centro según el Decreto 374/1996?",
+      "options": [
+        "El director",
+        "El jefe de estudios",
+        "El secretario",
+        "El coordinador de ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 80 del Decreto 374/1996, el jefe de estudios es el encargado de coordinar el trabajo de los tutores del centro."
+    },
+    {
+      "question": "¿Quiénes forman el equipo directivo en los centros de ocho o más unidades?",
+      "options": [
+        "Director, jefe de estudios, secretario y coordinador de ciclo",
+        "Director, jefe de estudios y secretario",
+        "Director, subdirector y jefe de estudios",
+        "Director, secretario y orientador"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El equipo directivo en los centros de ocho o más unidades está formado por el director, el jefe de estudios y el secretario, actuando como órgano ejecutivo de gobierno."
+    },
+    {
+      "question": "¿Qué es el claustro de profesores según la definición del tema?",
+      "options": [
+        "El conjunto de tutores del centro",
+        "El órgano de planificación y toma de decisiones pedagógica integrado por todos los docentes del centro",
+        "El equipo directivo ampliado",
+        "Los coordinadores de ciclo y el equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El claustro de profesores es el órgano de planificación y de toma de decisiones pedagógica integrado por todos los docentes del centro presididos por el director."
+    },
+    {
+      "question": "¿Qué competencia del claustro menciona el artículo 129 de la LOMLOE en relación con la tutoría?",
+      "options": [
+        "Aprobar el presupuesto del PAT",
+        "Fijar los criterios referentes a la tutoría de los alumnos y formular propuestas para mejorar la convivencia",
+        "Elegir a los tutores de cada grupo",
+        "Evaluar al tutor al final del curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 129 de la LOMLOE establece entre las competencias del claustro fijar los criterios referentes a la tutoría de los alumnos y formular propuestas al equipo directivo y al consejo escolar para mejorar la convivencia y la acción tutorial."
+    },
+    {
+      "question": "¿Qué son los equipos de ciclo?",
+      "options": [
+        "Los profesores que imparten la misma materia",
+        "Los órganos de coordinación docente conformados por todos los docentes que imparten docencia en un mismo grupo",
+        "Los tutores de un mismo nivel educativo",
+        "El equipo directivo y los coordinadores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los equipos de ciclo son órganos de coordinación docente conformados por todos los docentes que imparten docencia en un mismo grupo."
+    },
+    {
+      "question": "¿Para qué debe coordinarse el tutor con los equipos de ciclo?",
+      "options": [
+        "Para distribuir las tareas administrativas",
+        "Para unificar criterios sobre métodos didácticos, terminología y sistema de evaluación",
+        "Para organizar las actividades extraescolares",
+        "Para elaborar el horario del grupo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor debe coordinarse con los equipos de ciclo para unificar los criterios sobre métodos didácticos, terminología empleada y sistema de evaluación y promoción, asegurando la continuidad y coherencia en la acción educativa."
+    },
+    {
+      "question": "¿Qué función tiene la Comisión de Coordinación Pedagógica (CCP) respecto al PAT según el artículo 62 del Decreto 374/1996?",
+      "options": [
+        "Evaluar al tutor en su desempeño",
+        "Establecer directrices para la elaboración del PAT y velar para que se ajuste a los criterios del Claustro",
+        "Aprobar el presupuesto del PAT",
+        "Supervisar las entrevistas con las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 62 del Decreto 374/1996 recoge como función de la CCP establecer directrices para la elaboración del PAT y velar para que se ajuste a los criterios establecidos por el Claustro."
+    },
+    {
+      "question": "¿Qué elemento es fundamental para el correcto desarrollo de la acción tutorial según el tema?",
+      "options": [
+        "La disponibilidad de recursos económicos",
+        "La comunicación, colaboración y coordinación entre todos los agentes del centro",
+        "El uso de tecnologías avanzadas",
+        "La formación específica del tutor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La comunicación, colaboración y coordinación entre todos los agentes del centro resultan fundamentales para el correcto desarrollo de la acción tutorial."
+    },
+    {
+      "question": "¿Qué es el PAT según la definición del tema?",
+      "options": [
+        "El documento que recoge la normativa de convivencia del centro",
+        "El documento que recoge la organización, funciones y acciones de la tutoría",
+        "El plan de formación del profesorado",
+        "El proyecto educativo del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT se define como el documento que recoge la organización, las funciones y todas las acciones que se llevan a cabo desde la tutoría con la finalidad de guiar, acompañar y orientar al alumnado a lo largo de su proceso educativo."
+    },
+    {
+      "question": "Según Bisquerra (2012), ¿a qué contribuye el PAT?",
+      "options": [
+        "Al desarrollo de las competencias académicas exclusivamente",
+        "Al desarrollo integral del alumnado, atendiendo a sus necesidades educativas y personales",
+        "A la organización administrativa del centro",
+        "A la formación del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Bisquerra (2012), el PAT contribuye al desarrollo integral del alumnado, atendiendo a sus necesidades educativas y personales para que alcancen el éxito académico, personal y social."
+    },
+    {
+      "question": "¿Dónde deben recogerse las medidas relativas a la acción tutorial según el artículo 121 de la LOMLOE?",
+      "options": [
+        "En la Programación General Anual",
+        "En el Proyecto Educativo del centro",
+        "En las Normas de Organización y Funcionamiento",
+        "En el Reglamento de Régimen Interior"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 121 de la LOMLOE establece que las medidas relativas a la acción tutorial deben recogerse en el PE del centro, para después concretarse en el PAT."
+    },
+    {
+      "question": "¿Dónde se plasman las concreciones anuales del PAT?",
+      "options": [
+        "En el Proyecto Educativo",
+        "En las Normas de Organización y Funcionamiento",
+        "En la Programación General Anual (PGA) del centro",
+        "En el Documento de Organización del Centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las concreciones anuales del PAT se plasman en la PGA del centro para cada curso."
+    },
+    {
+      "question": "¿El PAT se limita solo a abordar cuestiones académicas?",
+      "options": [
+        "Sí, exclusivamente al rendimiento académico",
+        "No, también busca contribuir al desarrollo personal y profesional",
+        "Sí, solo trata aspectos curriculares",
+        "No, solo se centra en aspectos sociales y emocionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT no se limita a abordar cuestiones académicas para la mejora del rendimiento escolar, sino que también busca contribuir a nivel personal en el desarrollo individual y a nivel profesional con la formación de destrezas para un futuro en el mercado laboral."
+    },
+    {
+      "question": "¿Qué característica del PAT implica que debe partir de un análisis de la realidad educativa?",
+      "options": [
+        "Que sea dinámico",
+        "Que sea práctico y funcional",
+        "Que sea flexible",
+        "Que sea evaluable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las características del PAT destaca que debe ser práctico y funcional partiendo de un análisis de la realidad educativa en la que se inserta y global para que esté destinado a toda la comunidad educativa."
+    },
+    {
+      "question": "¿Por qué el PAT debe ser dinámico y flexible?",
+      "options": [
+        "Para facilitar su elaboración",
+        "Para estar abierto a la revisión constante y adaptarse a los cambios",
+        "Para reducir el trabajo administrativo",
+        "Para cumplir con los requisitos legales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT debe ser dinámico, flexible y abierto a la revisión constante para adaptarse a los cambios que puedan surgir."
+    },
+    {
+      "question": "¿Quién elabora el PAT según el tema?",
+      "options": [
+        "El tutor de forma individual",
+        "El Departamento de Orientación, de acuerdo con las directrices de la CCP y los criterios del claustro",
+        "El equipo directivo del centro",
+        "La Comisión de Coordinación Pedagógica exclusivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT es elaborado por el DO, de acuerdo con las directrices establecidas por la CCP y los criterios establecidos por el claustro, para posteriormente ser desarrollado por los tutores adaptándolo a las particularidades del grupo."
+    },
+    {
+      "question": "¿Qué elementos mínimos debe incluir un PAT según la guía de UNIR (2020)?",
+      "options": [
+        "Solo objetivos y actividades",
+        "Introducción, objetivos, actividades, responsabilidades, temporalización y aprobación",
+        "Únicamente las funciones del tutor",
+        "Exclusivamente el calendario de reuniones con familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la guía de UNIR (2020), el PAT debe incluir: introducción y justificación, objetivos, actividades planificadas, definición de responsabilidades, temporalización y aprobación y divulgación."
+    },
+    {
+      "question": "¿Con qué deben estar alineados los objetivos del PAT?",
+      "options": [
+        "Con los intereses personales del tutor",
+        "Con el Proyecto Educativo del centro",
+        "Con las recomendaciones de las familias",
+        "Con las directrices del Ministerio de Educación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos del PAT deben estar alineados con el PE del centro y relacionados con la atención personalizada al alumnado, el desarrollo integral de sus capacidades o la promoción del trabajo cooperativo y colaborativo."
+    },
+    {
+      "question": "¿Qué debe incluir la temporalización del PAT?",
+      "options": [
+        "Solo el inicio y fin del curso escolar",
+        "Un calendario detallado con las actividades previstas y las evaluaciones periódicas",
+        "Únicamente las fechas de las reuniones con familias",
+        "Exclusivamente el horario de tutoría semanal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La temporalización debe incluir un calendario detallado que recoja las actividades previstas así como las evaluaciones periódicas necesarias para ajustar las acciones según las necesidades del alumnado."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del PAT y la acción tutorial?",
+      "options": [
+        "Aumentar las calificaciones del alumnado",
+        "Que los tutores orienten, acompañen y apoyen a los discentes en su proceso educativo",
+        "Facilitar la gestión administrativa del centro",
+        "Reducir el número de conflictos en el aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT y la acción tutorial tienen por objetivo que los tutores orienten, acompañen y apoyen a los discentes en su proceso educativo, implementando diversas técnicas y propuestas."
+    },
+    {
+      "question": "¿Cuántas técnicas fundamentales de acción tutorial enumera Ramírez (2019)?",
+      "options": [
+        "Ocho técnicas",
+        "Diez técnicas",
+        "Doce técnicas",
+        "Quince técnicas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tomando como referente a Ramírez (2019) se enumeran doce técnicas fundamentales de acción tutorial englobadas en dos grandes bloques."
+    },
+    {
+      "question": "¿Cuáles son los dos grandes bloques en los que se engloban las técnicas de acción tutorial según Ramírez (2019)?",
+      "options": [
+        "Técnicas individuales y técnicas grupales",
+        "Técnicas de interacción directa y técnicas de asesoramiento y seguimiento",
+        "Técnicas académicas y técnicas personales",
+        "Técnicas preventivas y técnicas correctivas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las doce técnicas se engloban en dos bloques: el primero centrado en la interacción directa y el segundo enfocado en el asesoramiento y seguimiento del progreso del alumnado."
+    },
+    {
+      "question": "¿Qué permite la entrevista individual como técnica de acción tutorial?",
+      "options": [
+        "Evaluar el rendimiento académico únicamente",
+        "Conocer las preocupaciones, intereses y progresos de cada alumno facilitando intervenciones individualizadas",
+        "Informar a las familias sobre el comportamiento",
+        "Organizar las actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La entrevista individual permite conocer las preocupaciones, intereses y progresos de cada alumno facilitando la planificación de intervenciones individualizadas."
+    },
+    {
+      "question": "¿Qué favorece la tutoría grupal como técnica?",
+      "options": [
+        "La evaluación individual de cada estudiante",
+        "La cooperación y el apoyo entre alumnado creando un espacio para discutir temas comunes",
+        "La comunicación exclusiva con las familias",
+        "La organización administrativa del aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tutoría grupal favorece la cooperación y el apoyo entre alumnado creando un espacio para discutir temas comunes y realizar actividades cooperativas."
+    },
+    {
+      "question": "¿Para qué sirve la observación directa como técnica de acción tutorial?",
+      "options": [
+        "Para evaluar el rendimiento académico exclusivamente",
+        "Para obtener una visión integral del comportamiento y necesidades de los estudiantes facilitando intervenciones precisas",
+        "Para controlar la disciplina en el aula",
+        "Para elaborar informes administrativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La observación directa por parte del tutor permite obtener una visión integral del comportamiento y necesidades de los estudiantes facilitando intervenciones más precisas."
+    },
+    {
+      "question": "¿Qué información pueden recopilar los cuestionarios y encuestas?",
+      "options": [
+        "Solo datos académicos y calificaciones",
+        "Información sobre intereses, opiniones y necesidades de cada estudiante",
+        "Únicamente datos de contacto de las familias",
+        "Exclusivamente información médica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con los cuestionarios y encuestas el tutor puede complementar la información de cada estudiante recopilando información sobre intereses, opiniones y necesidades."
+    },
+    {
+      "question": "¿En qué consiste el análisis de casos como técnica de acción tutorial?",
+      "options": [
+        "En revisar las calificaciones trimestrales",
+        "En el estudio detallado de situaciones específicas para desarrollar estrategias de intervención personalizadas",
+        "En analizar el comportamiento general del grupo",
+        "En evaluar el funcionamiento del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El análisis de casos consiste en el estudio detallado de situaciones específicas para desarrollar estrategias de intervención personalizadas y efectivas con el fin de abordar problemas concretos de los estudiantes."
+    },
+    {
+      "question": "¿Cuál es el propósito de las dinámicas de grupo?",
+      "options": [
+        "Evaluar el rendimiento académico individual",
+        "Mejorar la cohesión de grupo, fomentar habilidades sociales y resolver conflictos de manera constructiva",
+        "Organizar las tareas administrativas",
+        "Preparar las pruebas de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las dinámicas de grupo están destinadas a mejorar la cohesión de grupo, fomentar habilidades sociales y resolver conflictos de manera constructiva promoviendo un ambiente positivo en el aula."
+    },
+    {
+      "question": "¿Qué caracteriza a las técnicas de asesoramiento y seguimiento?",
+      "options": [
+        "Se enfocan en la comunicación entre estudiantes",
+        "Se enfocan en la planificación, evaluación y seguimiento del progreso del alumnado",
+        "Se centran exclusivamente en la relación con las familias",
+        "Se dedican únicamente a la evaluación académica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El segundo bloque incluye técnicas de asesoramiento y seguimiento enfocadas en la planificación, evaluación y seguimiento del progreso del alumnado."
+    },
+    {
+      "question": "¿Para qué sirve la planificación y seguimiento de metas como técnica?",
+      "options": [
+        "Para establecer el horario del centro",
+        "Para ayudar a los estudiantes a establecer y perseguir objetivos claros con seguimiento regular",
+        "Para organizar las actividades extraescolares",
+        "Para preparar las reuniones con familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La planificación y seguimiento de metas ayuda a los estudiantes a establecer y perseguir objetivos claros con un seguimiento regular para evaluar su progreso y realizar ajustes."
+    },
+    {
+      "question": "¿Qué ofrece el asesoramiento personalizado como técnica de acción tutorial?",
+      "options": [
+        "Únicamente apoyo en aspectos académicos",
+        "Orientación y apoyo en aspectos personales y emocionales para manejar el estrés y otros problemas",
+        "Solo información sobre el currículo",
+        "Exclusivamente asesoramiento profesional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El asesoramiento personalizado ofrece orientación y apoyo en aspectos personales y emocionales ayudando a los discentes a manejar el estrés y otros problemas emocionales."
+    },
+    {
+      "question": "¿Para qué se implementan las Tecnologías Educativas como técnica de acción tutorial?",
+      "options": [
+        "Para sustituir al tutor en sus funciones",
+        "Para facilitar el seguimiento del progreso académico y mejorar la comunicación y acceso a recursos",
+        "Para reducir el tiempo de trabajo del tutor",
+        "Para eliminar las reuniones presenciales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Tecnologías Educativas se enfocan en facilitar el seguimiento del progreso académico y mejorar la comunicación y el acceso a recursos educativos."
+    },
+    {
+      "question": "¿Qué buscan las reuniones con familias como técnica de acción tutorial?",
+      "options": [
+        "Informar únicamente de las calificaciones",
+        "La colaboración estrecha garantizando un enfoque educativo coherente e integral",
+        "Reducir el número de conflictos con las familias",
+        "Cumplir con requisitos administrativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las reuniones con familias buscan la colaboración estrecha garantizando un enfoque educativo coherente e integral."
+    },
+    {
+      "question": "¿Qué proporcionan los programas de mentoría como técnica?",
+      "options": [
+        "Apoyo económico a los estudiantes",
+        "Apoyo adicional y orientación entre estudiantes de diferentes niveles",
+        "Formación al profesorado",
+        "Recursos materiales para el aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los programas de mentoría son técnicas que proporcionan apoyo adicional y orientación entre estudiantes de diferentes niveles."
+    },
+    {
+      "question": "¿Cuál es el propósito de las actividades extracurriculares como técnica de acción tutorial?",
+      "options": [
+        "Aumentar la carga lectiva del alumnado",
+        "Fomentar el interés por otras áreas más allá del currículo académico",
+        "Sustituir las clases ordinarias",
+        "Ocupar el tiempo libre sin objetivo específico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actividades extracurriculares se enfocan en organizar talleres, clubes o actividades fuera del horario escolar para fomentar el interés por otras áreas más allá del currículo académico."
+    },
+    {
+      "question": "¿Qué son las propuestas de acción tutorial según el tema?",
+      "options": [
+        "Los documentos administrativos del centro",
+        "Planes y actividades estructuradas que buscan mejorar el ambiente escolar y apoyar el bienestar del alumnado",
+        "Las reuniones periódicas del claustro",
+        "Los informes de evaluación trimestral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las propuestas de acción tutorial son planes y actividades estructuradas que buscan mejorar el ambiente escolar, fomentar la cohesión del grupo y apoyar el bienestar emocional y académico de los estudiantes."
+    },
+    {
+      "question": "¿Cuántas propuestas comunes para incluir en los PAT se destacan en el tema?",
+      "options": [
+        "Cuatro propuestas",
+        "Cinco propuestas",
+        "Seis propuestas",
+        "Ocho propuestas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tema destaca seis propuestas comunes para incluir en los PAT: acogida e interacción, organización y funcionamiento, hábitos de trabajo, desarrollo personal, colaboración familiar y seguimiento académico."
+    },
+    {
+      "question": "¿En qué consiste la propuesta de acogida e interacción?",
+      "options": [
+        "En evaluar el nivel académico del alumnado nuevo",
+        "En facilitar la adaptación de nuevos alumnos al centro mediante actividades que promuevan confianza y respeto",
+        "En organizar las actividades extraescolares",
+        "En establecer las normas de convivencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La acogida e interacción consiste en facilitar la adaptación de nuevos alumnos al centro y al grupo mediante actividades que promuevan un clima de confianza y respeto, como las presentaciones entre el grupo de alumnos o el conocimiento del centro."
+    },
+    {
+      "question": "¿Qué incluye la propuesta de organización y funcionamiento del grupo-clase?",
+      "options": [
+        "Solo el establecimiento del horario de clases",
+        "La recopilación de información de los alumnos y el establecimiento de normas de convivencia y agrupamientos",
+        "Únicamente la asignación de pupitres",
+        "Exclusivamente la distribución de materiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La organización y funcionamiento del grupo-clase incluye la recopilación de información de los alumnos (datos personales, dificultades, necesidades educativas) y el establecimiento de normas de convivencia o agrupamientos en el aula que garantice un ambiente ordenado y participativo."
+    },
+    {
+      "question": "¿En qué se enfoca la propuesta de adquisición y mejora de los hábitos de trabajo?",
+      "options": [
+        "Solo en aumentar las horas de estudio",
+        "En la adquisición de hábitos de relajación, orden, autonomía, gestión del tiempo y técnicas motivacionales",
+        "Únicamente en la realización de deberes",
+        "Exclusivamente en mejorar las calificaciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La adquisición y mejora de los hábitos de trabajo se enfoca en la adquisición de hábitos básicos de relajación, orden, autonomía y gestión del tiempo, así como en la aplicación de técnicas motivacionales de planificación y responsabilidad de la tarea y de participación activa."
+    },
+    {
+      "question": "¿Qué objetivo tiene la propuesta de desarrollo personal y adaptación escolar?",
+      "options": [
+        "Aumentar el rendimiento académico exclusivamente",
+        "Reforzar la autoconfianza, el respeto mutuo, la gestión emocional y la convivencia",
+        "Organizar las actividades deportivas",
+        "Preparar para las pruebas de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El desarrollo personal y adaptación escolar tiene por objetivo reforzar la autoconfianza, el respeto mutuo, la gestión emocional y la convivencia orientada a la resolución pacífica de conflictos, la mediación y el fomento de valores de tolerancia y respeto."
+    },
+    {
+      "question": "¿Qué busca la propuesta de colaboración de las familias en el PAT?",
+      "options": [
+        "Que las familias sustituyan al profesorado",
+        "Una mayor implicación en el proceso educativo realizando reuniones y actividades conjuntas",
+        "Reducir el trabajo del tutor",
+        "Que las familias gestionen el centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La propuesta de colaboración de las familias busca una mayor implicación en el proceso educativo realizando reuniones y actividades conjuntas que fortalezcan esta relación centro-familias."
+    },
+    {
+      "question": "¿Qué incluye la propuesta de seguimiento académico y apoyo individualizado?",
+      "options": [
+        "Solo las calificaciones trimestrales",
+        "Estrategias de seguimiento personalizado del rendimiento y apoyo a las dificultades",
+        "Únicamente las pruebas de evaluación",
+        "Exclusivamente la revisión de deberes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El seguimiento académico y apoyo individualizado incluye estrategias que favorezcan el desarrollo de un seguimiento personalizado del rendimiento académico (evaluación individual, observación, revisión de expedientes) y proporcionando apoyo a sus dificultades."
+    },
+    {
+      "question": "¿Es la acción tutorial una función exclusiva del tutor?",
+      "options": [
+        "Sí, solo el tutor debe realizarla",
+        "No, es fundamental la colaboración de todo el profesorado y los agentes de la comunidad educativa",
+        "Sí, pero puede delegar en el equipo directivo",
+        "No, solo deben participar el tutor y las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque la acción tutorial es una de las funciones propias del tutor, es fundamental que el resto de profesores y los agentes de la comunidad educativa colaboren activamente en el diseño y desarrollo de todas las estrategias y propuestas."
+    },
+    {
+      "question": "¿A qué se refiere el tema cuando habla de hacer la educación más personalizada?",
+      "options": [
+        "A reducir el número de alumnos por aula",
+        "A ofrecer ayuda y apoyo en la atención a la diversidad desde una perspectiva grupal e individual",
+        "A realizar evaluaciones individuales constantes",
+        "A separar a los alumnos según su nivel académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La acción tutorial tiene como finalidad hacer la educación más personalizada ofreciendo ayuda y apoyo en la atención a la diversidad desde una perspectiva grupal e individual, con el propósito de lograr la plena inclusión de la persona en la sociedad."
+    },
+    {
+      "question": "¿En qué debe basarse la organización de las prácticas docentes según el tema?",
+      "options": [
+        "En las preferencias personales del tutor",
+        "En las pautas establecidas en el PEC y el PAT adaptando los programas a cada grupo-clase",
+        "En las recomendaciones generales del Ministerio",
+        "En las decisiones del equipo directivo exclusivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Resulta esencial organizar las prácticas docentes y las estrategias pedagógicas basándose en las pautas establecidas en el PEC y el PAT y adaptando los programas de intervención a las características de cada grupo-clase, responsabilidad del tutor."
+    },
+    {
+      "question": "¿A quién debe prestar atención el tutor según las conclusiones del tema?",
+      "options": [
+        "Solo al alumnado de su grupo",
+        "Al alumnado, al conjunto de órganos del centro y a las familias",
+        "Únicamente a los órganos de coordinación docente",
+        "Exclusivamente a las familias y al equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor ha de prestar atención, no solo al alumnado, sino también al conjunto de órganos del centro y a las familias, construyendo una línea de cohesión y coordinación para una mejor atención a la diversidad."
+    },
+    {
+      "question": "¿Cuándo se verá efectiva la implicación de las familias según el tema?",
+      "options": [
+        "Cuando se les obligue mediante normativa",
+        "Cuando se las conciencia de la importancia de asumir un papel activo y participativo",
+        "Cuando se les remunere por su participación",
+        "Cuando el centro lo exija como requisito"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En relación con las familias, su implicación solo se verá efectiva si se las conciencia de la importancia de asumir un papel activo y participativo en la educación de sus hijos, siendo el tutor el principal canal de comunicación."
+    },
+    {
+      "question": "¿En qué consiste fundamentalmente la tutoría según las conclusiones?",
+      "options": [
+        "En evaluar el rendimiento académico del alumnado",
+        "En acompañar al alumnado a lo largo de su proceso educativo favoreciendo su desarrollo integral",
+        "En gestionar los documentos administrativos",
+        "En organizar las actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tutoría consiste en acompañar al alumnado a lo largo de su proceso educativo favoreciendo su desarrollo integral."
+    },
+    {
+      "question": "¿Cuáles son los cuatro pilares de la educación permanente propuestos por Jacques Delors que se mencionan en el tema?",
+      "options": [
+        "Aprender a leer, escribir, calcular y pensar",
+        "Aprender a conocer, aprender a ser, aprender a hacer y aprender a vivir juntos",
+        "Aprender a estudiar, trabajar, convivir y desarrollarse",
+        "Aprender a observar, experimentar, reflexionar y actuar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La acción tutorial y toda intervención educativa debe inspirarse en los cuatro pilares de la educación permanente propuesto por Jacques Delors: 'aprender a conocer', 'aprender a ser', 'aprender a hacer' y 'aprender a vivir juntos'."
+    },
+    {
+      "question": "¿Qué tipo de educación sitúan en primer plano la acción tutorial y la orientación?",
+      "options": [
+        "Una educación estandarizada y homogénea",
+        "Una educación personalizada e individualizada capaz de responder a la diversidad",
+        "Una educación centrada exclusivamente en lo académico",
+        "Una educación competitiva y selectiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Estas funciones sitúan en primer plano una educación personalizada e individualizada capaz de responder a la diversidad del grupo y atender a las características individuales."
+    },
+    {
+      "question": "¿Qué hora semanal debe fijarse en la PGA para las entrevistas con las familias?",
+      "options": [
+        "No es necesario fijar una hora específica",
+        "Una hora semanal para entrevistas con familias",
+        "Dos horas semanales",
+        "Solo cuando las familias lo soliciten"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT especifica acciones concretas con las familias como realizar entrevistas grupales e individuales fijándose en la PGA del centro una hora semanal para ello."
+    },
+    {
+      "question": "¿Qué permite establecer la comunicación entre familia y escuela según el tema?",
+      "options": [
+        "Solo el intercambio de información académica",
+        "Modelos de conducta homogéneos entre familia y escuela",
+        "Únicamente el seguimiento de las tareas escolares",
+        "Exclusivamente la organización de actividades conjuntas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La comunicación fluida y las entrevistas personales entre tutor-familia permiten ajustar la respuesta educativa, así como establecer modelos de conducta homogéneos entre familia y escuela."
+    },
+    {
+      "question": "¿Qué establecimiento mínimo de información a las familias recoge el artículo 19 del Decreto 155/2022?",
+      "options": [
+        "Informar mensualmente de forma oral",
+        "Informar por escrito trimestralmente de la evolución académica",
+        "Informar solo cuando haya problemas de conducta",
+        "Informar anualmente mediante un informe completo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En consonancia con el artículo 19 del Decreto 155/2022, se debe informar, como mínimo, por escrito trimestralmente de la evolución académica del alumno."
+    },
+    {
+      "question": "¿Quién debe adaptarPT el PAT a las particularidades del grupo?",
+      "options": [
+        "El Departamento de Orientación",
+        "Los tutores",
+        "La Comisión de Coordinación Pedagógica",
+        "El equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT es elaborado por el DO, de acuerdo con las directrices de la CCP y los criterios del claustro, para posteriormente ser desarrollado por los tutores adaptándolo a las particularidades del grupo que tutoriza."
+    },
+    {
+      "question": "¿Qué característica del PAT implica que debe destinarse a toda la comunidad educativa?",
+      "options": [
+        "Que sea evaluable",
+        "Que sea global",
+        "Que sea coherente",
+        "Que sea dinámico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT debe ser práctico y funcional partiendo de un análisis de la realidad educativa y global para que esté destinado a toda la comunidad educativa."
+    },
+    {
+      "question": "¿Por qué el PAT debe ser evaluable?",
+      "options": [
+        "Para cumplir con requisitos administrativos",
+        "Para obtener información e integrar elementos y propuestas de mejora",
+        "Para comparar resultados con otros centros",
+        "Para justificar el trabajo del tutor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT debe ser evaluable con el fin de poder obtener información para integrar elementos y propuestas de mejora."
+    },
+    {
+      "question": "¿Qué exige el PAT de todos los agentes educativos?",
+      "options": [
+        "Solo su conocimiento del documento",
+        "La colaboración, el compromiso y trabajo de todos",
+        "Únicamente su aprobación formal",
+        "Exclusivamente su revisión anual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT exige la colaboración, el compromiso y trabajo de todos los agentes educativos."
+    },
+    {
+      "question": "¿Qué tipo de actividades menciona el PAT para trabajar la orientación académica?",
+      "options": [
+        "Solo exámenes y pruebas de evaluación",
+        "Técnicas de estudio o selección de cursos adecuados",
+        "Únicamente debates grupales",
+        "Exclusivamente trabajos de investigación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La orientación académica se puede trabajar mediante técnicas de estudio o de selección de cursos adecuados."
+    },
+    {
+      "question": "¿Qué tipo de actividades se pueden realizar para trabajar la orientación individualizada?",
+      "options": [
+        "Solo entrevistas con las familias",
+        "Actividades de planificación de carrera o de desarrollo de habilidades sociales",
+        "Únicamente pruebas psicométricas",
+        "Exclusivamente sesiones de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La orientación individualizada se puede trabajar con actividades de planificación de carrera o de desarrollo de habilidades sociales."
+    },
+    {
+      "question": "¿Qué debe asegurar el PAT en toda la etapa educativa?",
+      "options": [
+        "Solo el cumplimiento de los objetivos curriculares",
+        "La coherencia y continuidad en las diferentes etapas, ciclos y cursos",
+        "Únicamente el seguimiento de las calificaciones",
+        "Exclusivamente la participación de las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT recoge todas las acciones que se llevan a cabo desde la tutoría con la finalidad de guiar, acompañar y orientar al alumnado asegurando la coherencia y continuidad en las diferentes etapas, ciclos y cursos."
+    },
+    {
+      "question": "¿Qué debe incluir la introducción y justificación del PAT según UNIR (2020)?",
+      "options": [
+        "Solo el nombre del centro educativo",
+        "El nombre del centro, una descripción del contexto y el curso y año lectivo",
+        "Únicamente los datos del tutor responsable",
+        "Exclusivamente los objetivos generales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La introducción y justificación debe incluir el nombre del centro educativo, una descripción del contexto y el curso y año lectivo en el que se implementará."
+    },
+    {
+      "question": "¿Qué debe indicar el apartado de aprobación y divulgación del PAT?",
+      "options": [
+        "Solo la fecha de aprobación",
+        "El proceso de aprobación por los órganos correspondientes y las medidas para difundirlo en la comunidad educativa",
+        "Únicamente el nombre de quien lo aprueba",
+        "Exclusivamente el lugar donde se archivará"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La aprobación y divulgación debe indicar el proceso de aprobación por los órganos del centro correspondientes y las medidas para difundirlo entre todos los miembros de la comunidad educativa."
+    },
+    {
+      "question": "¿Qué artículos del Real Decreto 157/2022 y del Decreto 155/2022 establecen respectivamente la importancia de la tutoría y orientación?",
+      "options": [
+        "Artículo 12 del RD 157/2022 y artículo 18 del Decreto 155/2022",
+        "Artículo 13 del RD 157/2022 y artículo 19 del Decreto 155/2022",
+        "Artículo 14 del RD 157/2022 y artículo 20 del Decreto 155/2022",
+        "Artículo 15 del RD 157/2022 y artículo 21 del Decreto 155/2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 13 del Real Decreto 157/2022 y el artículo 19 del Decreto 155/2022 establecen que la tutoría y la orientación deben acompañar el proceso educativo individual y colectivo del alumnado."
+    },
+    {
+      "question": "¿Qué orden desarrolla el Decreto 155/2022 y regula específicamente la evaluación en Educación Primaria en Galicia?",
+      "options": [
+        "Orden de 22 de julio de 1997",
+        "Orden de 26 de mayo de 2023",
+        "Orden de 26 de junio de 2022",
+        "Orden de 15 de septiembre de 2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022 y regula la evaluación en la etapa de Educación Primaria en la Comunidad Autónoma de Galicia, complementando información sobre la tutoría en su artículo 5."
+    },
+    {
+      "question": "Según González et al. (2018), ¿cuáles son los cuatro ámbitos del desarrollo integral que busca garantizar la acción tutorial?",
+      "options": [
+        "Académico, social, emocional y deportivo",
+        "Académico, social, personal y profesional",
+        "Cognitivo, afectivo, motor y social",
+        "Intelectual, moral, físico y artístico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "González et al. (2018) establece que la acción tutorial busca garantizar el desarrollo integral en todos los ámbitos: académico, social, personal y profesional."
+    },
+    {
+      "question": "¿En qué año se publicó el Decreto que regula la orientación educativa y profesional en la Comunidad Autónoma de Galicia?",
+      "options": [
+        "1996",
+        "1997",
+        "1998",
+        "2010"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 120/1998, de 23 de abril, regula la orientación educativa y profesional en la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿Qué tipo de apoyo incluye específicamente servicios de psicología, terapia ocupacional o consejeros escolares?",
+      "options": [
+        "Apoyo académico",
+        "Apoyo conductual",
+        "Apoyo social y emocional",
+        "Apoyo psicopedagógico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El apoyo social y emocional engloba programas y estrategias destinadas a fomentar un clima positivo mediante servicios de psicología, terapia ocupacional o consejeros escolares."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 374/1996 establece las funciones de informar a las familias al principio de curso?",
+      "options": [
+        "Artículo 79",
+        "Artículo 80",
+        "Artículo 81",
+        "Artículo 82"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 81 del Decreto 374/1996 recoge entre las funciones del tutor informar a las familias al principio de curso sobre todos los aspectos relevantes del curso escolar."
+    },
+    {
+      "question": "¿Qué ley de 30 de junio de 2011 reconoce el derecho de las familias a participar activamente en la educación de sus hijos?",
+      "options": [
+        "Ley 3/2011, de participación educativa",
+        "Ley 4/2011, de convivencia y participación de la comunidad educativa",
+        "Ley 5/2011, de derechos educativos",
+        "Ley 6/2011, de organización escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Ley 4/2011, de 30 de junio, de convivencia y participación de la comunidad educativa, recoge en su artículo 6 el derecho de las familias a participar activamente en la educación de sus hijos."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE establece que los centros deben promover compromisos educativos entre familias y el centro?",
+      "options": [
+        "Artículo 119",
+        "Artículo 120",
+        "Artículo 121",
+        "Artículo 122"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 121 de la LOMLOE establece que los centros deben promover compromisos educativos entre familias o tutores legales y el centro."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 374/1996 especifica que el jefe de estudios coordina el trabajo de los tutores?",
+      "options": [
+        "Artículo 78",
+        "Artículo 79",
+        "Artículo 80",
+        "Artículo 81"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 80 del Decreto 374/1996, el jefe de estudios es el encargado de coordinar el trabajo de los tutores del centro."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE enumera entre las competencias del claustro fijar los criterios referentes a la tutoría?",
+      "options": [
+        "Artículo 127",
+        "Artículo 128",
+        "Artículo 129",
+        "Artículo 130"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 129 de la LOMLOE establece entre las competencias del claustro fijar los criterios referentes a la tutoría de los alumnos y formular propuestas para mejorar la convivencia y la acción tutorial."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 374/1996 recoge como función de la CCP establecer directrices para la elaboración del PAT?",
+      "options": [
+        "Artículo 60",
+        "Artículo 61",
+        "Artículo 62",
+        "Artículo 63"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 62 del Decreto 374/1996 recoge como función de la CCP establecer directrices para la elaboración del PAT y velar para que se ajuste a los criterios establecidos por el Claustro."
+    },
+    {
+      "question": "Según el artículo 34 del Decreto 374/1996, ¿qué competencia específica tiene el jefe de estudios respecto a los tutores?",
+      "options": [
+        "Evaluar su desempeño anualmente",
+        "Coordinar y orientar la acción de los tutores de acuerdo con el PAT",
+        "Designar a los tutores de cada grupo",
+        "Supervisar las entrevistas con las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 34 del Decreto 374/1996 menciona que es competencia del jefe de estudios coordinar y orientar la acción de los tutores de acuerdo con el PAT."
+    },
+    {
+      "question": "¿Cuántos miembros componen el equipo directivo en los centros de ocho o más unidades según el Decreto 374/1996?",
+      "options": [
+        "Dos miembros",
+        "Tres miembros",
+        "Cuatro miembros",
+        "Cinco miembros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El equipo directivo en los centros de ocho o más unidades está formado por tres miembros: el director, el jefe de estudios y el secretario."
+    },
+    {
+      "question": "¿Cuál de estas NO es una característica del PAT mencionada explícitamente en el tema?",
+      "options": [
+        "Debe ser práctico y funcional",
+        "Debe ser innovador y tecnológico",
+        "Debe ser dinámico y flexible",
+        "Debe ser evaluable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las características del PAT mencionadas son: práctico y funcional, global, dinámico y flexible, coherente y adecuado, colaborativo y evaluable. 'Innovador y tecnológico' no se menciona como característica específica."
+    },
+    {
+      "question": "Según Bisquerra (2012), ¿qué tipo de orientación NO se menciona entre las modalidades tradicionales pero sí como ampliación?",
+      "options": [
+        "Orientación académica",
+        "Orientación profesional",
+        "Orientación para la prevención y desarrollo humano",
+        "Orientación psicopedagógica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bisquerra (2012) amplía las tres modalidades tradicionales (personal/psicopedagógica, académica y profesional) añadiendo la orientación para la prevención y desarrollo humano."
+    },
+    {
+      "question": "¿Cuántas técnicas de acción tutorial se incluyen en el primer bloque de 'interacción directa' según Ramírez (2019)?",
+      "options": [
+        "Cuatro técnicas",
+        "Cinco técnicas",
+        "Seis técnicas",
+        "Siete técnicas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El primer bloque centrado en la interacción directa incluye seis técnicas: entrevista individual, tutoría grupal, observación directa, cuestionarios y encuestas, análisis de casos, y dinámicas de grupo."
+    },
+    {
+      "question": "¿Cuántas técnicas de acción tutorial se incluyen en el segundo bloque de 'asesoramiento y seguimiento' según Ramírez (2019)?",
+      "options": [
+        "Cuatro técnicas",
+        "Cinco técnicas",
+        "Seis técnicas",
+        "Siete técnicas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El segundo bloque de asesoramiento y seguimiento incluye seis técnicas: planificación y seguimiento de metas, asesoramiento personalizado, tecnologías educativas, reuniones con familias, programas de mentoría y actividades extracurriculares."
+    },
+    {
+      "question": "¿Qué referente bibliográfico se cita para las doce técnicas fundamentales de acción tutorial?",
+      "options": [
+        "Bisquerra (2012)",
+        "González et al. (2018)",
+        "Ramírez (2019)",
+        "Moreno (2023)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ramírez (2019) es el referente citado que enumera las doce técnicas fundamentales de acción tutorial englobadas en dos grandes bloques."
+    },
+    {
+      "question": "¿Qué referente bibliográfico se menciona para la definición del PAT y su contribución al desarrollo integral del alumnado?",
+      "options": [
+        "González et al. (2018)",
+        "Bisquerra (2012)",
+        "Ramírez (2019)",
+        "UNIR (2020)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bisquerra (2012) es el referente citado para la definición del PAT como marco de actuación que contribuye al desarrollo integral del alumnado."
+    },
+    {
+      "question": "¿Qué guía de referencia se menciona para los elementos mínimos que debe incluir un PAT?",
+      "options": [
+        "Guía del Ministerio de Educación (2019)",
+        "Guía de la Xunta de Galicia (2020)",
+        "Guía de UNIR (2020)",
+        "Guía de Bisquerra (2012)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La guía de UNIR (2020) se toma como referencia para describir los elementos mínimos que todo PAT debería incluir."
+    },
+    {
+      "question": "¿Cuál de estas técnicas NO pertenece al bloque de interacción directa según Ramírez (2019)?",
+      "options": [
+        "Análisis de casos",
+        "Dinámicas de grupo",
+        "Asesoramiento personalizado",
+        "Observación directa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El asesoramiento personalizado pertenece al segundo bloque de asesoramiento y seguimiento, no al bloque de interacción directa."
+    },
+    {
+      "question": "¿Cuál de estas técnicas NO pertenece al bloque de asesoramiento y seguimiento según Ramírez (2019)?",
+      "options": [
+        "Planificación y seguimiento de metas",
+        "Tecnologías educativas",
+        "Entrevista individual",
+        "Programas de mentoría"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La entrevista individual pertenece al primer bloque de interacción directa, no al bloque de asesoramiento y seguimiento."
+    },
+    {
+      "question": "¿Qué organismo internacional se menciona como referencia para la definición de apoyos educativos en 2023?",
+      "options": [
+        "OCDE",
+        "UNESCO",
+        "UNICEF",
+        "OEI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La UNESCO (2023) se menciona como referencia que define los apoyos educativos como las acciones, adaptaciones, estrategias y recursos que permiten la accesibilidad a los procesos de enseñanza-aprendizaje."
+    },
+    {
+      "question": "¿En qué fecha exacta se publicó el Decreto 374/1996 que aprueba el Reglamento orgánico de las escuelas de educación infantil y colegios de educación primaria?",
+      "options": [
+        "15 de octubre de 1996",
+        "17 de octubre de 1996",
+        "22 de octubre de 1996",
+        "31 de octubre de 1996"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 374/1996, de 17 de octubre, aprueba el Reglamento orgánico de las escuelas de educación infantil y de los colegios de educación primaria."
+    },
+    {
+      "question": "¿En qué fecha exacta se publicó el Decreto 155/2022 que establece la ordenación y el currículo de la educación primaria en Galicia?",
+      "options": [
+        "1 de septiembre de 2022",
+        "15 de septiembre de 2022",
+        "30 de septiembre de 2022",
+        "15 de octubre de 2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿En qué fecha exacta se publicó el Real Decreto 157/2022 que establece las enseñanzas mínimas de la Educación Primaria?",
+      "options": [
+        "1 de febrero de 2022",
+        "1 de marzo de 2022",
+        "15 de marzo de 2022",
+        "1 de abril de 2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal."
+    },
+    {
+      "question": "¿Qué número de Ley Orgánica corresponde a la LOMLOE?",
+      "options": [
+        "Ley Orgánica 2/2020",
+        "Ley Orgánica 3/2020",
+        "Ley Orgánica 4/2020",
+        "Ley Orgánica 5/2020"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE es la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación."
+    },
+    {
+      "question": "¿En qué fecha exacta se publicó la LOMLOE?",
+      "options": [
+        "20 de diciembre de 2020",
+        "29 de diciembre de 2020",
+        "31 de diciembre de 2020",
+        "1 de enero de 2021"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE se publicó el 29 de diciembre de 2020 (Ley Orgánica 3/2020, de 29 de diciembre)."
+    },
+    {
+      "question": "¿Qué artículo específico del Decreto 155/2022 establece la finalidad de la Educación Primaria mencionada en el tema?",
+      "options": [
+        "Artículo 2",
+        "Artículo 3",
+        "Artículo 4",
+        "Artículo 5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece la finalidad de la EP: 'facilitar al alumnado los aprendizajes para garantizar una formación integral que contribuya al pleno desarrollo de su personalidad, y de prepararlo para cursar con aprovechamiento la educación secundaria obligatoria'."
+    },
+    {
+      "question": "Según el tema, ¿qué debe situar en primer plano una educación inclusiva y de calidad?",
+      "options": [
+        "Los resultados académicos medibles",
+        "Una educación personalizada e individualizada capaz de responder a la diversidad",
+        "El uso de metodologías innovadoras",
+        "La participación de las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los apoyos en el aula y en el centro son cruciales para una educación efectiva, inclusiva y de calidad que adapte las estrategias educativas a las necesidades de cada estudiante, situando en primer plano una educación personalizada e individualizada capaz de responder a la diversidad."
+    },
+    {
+      "question": "¿Qué aspectos específicos menciona el tema que el tutor debe conocer de cada discente?",
+      "options": [
+        "Solo el rendimiento académico",
+        "Las características personales y los aspectos de la situación familiar y escolar que pueden repercutir en el rendimiento",
+        "Únicamente las dificultades de aprendizaje",
+        "Exclusivamente los intereses profesionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las funciones del tutor está conocer las características personales de cada discente y los aspectos de la situación familiar y escolar que pueden repercutir en el rendimiento académico."
+    },
+    {
+      "question": "¿Qué debe efectuar el tutor para detectar dificultades y necesidades según las funciones recogidas en el Decreto 374/1996?",
+      "options": [
+        "Un seguimiento trimestral de las calificaciones",
+        "Un seguimiento global de los procesos de enseñanza-aprendizaje",
+        "Una evaluación estandarizada periódica",
+        "Un control de asistencia diario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor debe efectuar un seguimiento global de los procesos de enseñanza-aprendizaje para detectar dificultades y necesidades, dando una respuesta educativa temprana."
+    },
+    {
+      "question": "¿Qué documentos debe cubrir el tutor según sus funciones a nivel de centro?",
+      "options": [
+        "Solo el expediente académico del alumnado",
+        "Los documentos oficiales vinculados de su grupo",
+        "Únicamente las actas de evaluación",
+        "Exclusivamente los informes de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las funciones del tutor a nivel de centro está cubrir los documentos oficiales vinculados de su grupo."
+    },
+    {
+      "question": "¿Quién debe tomar las decisiones de promoción del alumnado según el Decreto 374/1996?",
+      "options": [
+        "El equipo directivo",
+        "El tutor",
+        "El claustro de profesores",
+        "La Comisión de Coordinación Pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las funciones del tutor a nivel de centro está tomar las decisiones de promoción de su alumnado."
+    },
+    {
+      "question": "¿Quién debe presidir las sesiones de evaluación según las funciones del tutor?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "El tutor del grupo",
+        "El coordinador de ciclo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tutor debe coordinar, organizar y presidir las sesiones de evaluación y levantar el acta correspondiente."
+    },
+    {
+      "question": "¿Qué debe coordinar el tutor junto con el resto de profesores según sus funciones?",
+      "options": [
+        "Las actividades extraescolares",
+        "Las adaptaciones curriculares",
+        "El horario del grupo",
+        "Los recursos materiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las funciones del tutor está coordinar las adaptaciones curriculares necesarias para el alumnado."
+    },
+    {
+      "question": "¿Con qué órgano debe coordinarse el tutor para desarrollar actividades conjuntas que mejoren el aprendizaje?",
+      "options": [
+        "Solo con el equipo directivo",
+        "Con el claustro de profesores",
+        "Únicamente con el Departamento de Orientación",
+        "Exclusivamente con los equipos de ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor debe coordinarse con el claustro para desarrollar actividades conjuntas que mejoren el aprendizaje del alumnado."
+    },
+    {
+      "question": "¿Qué deben unificar los tutores con los equipos de ciclo?",
+      "options": [
+        "Solo el horario de clases",
+        "Los criterios sobre métodos didácticos, terminología empleada y sistema de evaluación y promoción",
+        "Únicamente los materiales didácticos",
+        "Exclusivamente las actividades complementarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor debe coordinarse con los equipos de ciclo para unificar los criterios sobre métodos didácticos, terminología empleada y sistema de evaluación y promoción de los alumnos."
+    },
+    {
+      "question": "¿Qué debe asegurar la coordinación del tutor con los equipos de ciclo?",
+      "options": [
+        "El uso de los mismos libros de texto",
+        "La continuidad y coherencia en la acción educativa en el grupo de un mismo nivel, ciclo y durante toda la etapa",
+        "La organización de las actividades extraescolares",
+        "La distribución de los espacios del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La coordinación con los equipos de ciclo busca asegurar la continuidad y coherencia en la acción educativa en el grupo de un mismo nivel, ciclo y durante toda la etapa."
+    },
+    {
+      "question": "¿Qué tipo de actividades de información a las familias menciona el tema que pueden prepararse conjuntamente?",
+      "options": [
+        "Solo reuniones trimestrales obligatorias",
+        "Visitas, charlas, coloquios, conferencias o escuelas de familias",
+        "Únicamente entrevistas individuales",
+        "Exclusivamente notas informativas escritas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT especifica acciones como preparar actividades conjuntas escuela-familia como visitas, charlas, coloquios, conferencias o escuelas de familias."
+    },
+    {
+      "question": "¿Qué información permite obtener la comunicación fluida entre tutor y familia según el tema?",
+      "options": [
+        "Solo las calificaciones académicas",
+        "Datos del contexto, realidad y comportamiento de los alumnos",
+        "Únicamente los problemas de conducta",
+        "Exclusivamente las dificultades de aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La comunicación fluida y las entrevistas personales entre tutor-familia son herramientas fundamentales para obtener datos del contexto, realidad y comportamiento de los alumnos."
+    },
+    {
+      "question": "¿Qué permite establecer compartir intereses e implicar a las familias en tareas de la vida escolar?",
+      "options": [
+        "Mejorar las calificaciones del alumnado",
+        "Fortalecer las relaciones entre los miembros de la comunidad",
+        "Reducir el trabajo del profesorado",
+        "Aumentar la disciplina en el aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Compartir intereses e implicar a las familias en tareas de la vida escolar resulta beneficioso para fortalecer las relaciones entre los miembros de la comunidad."
+    },
+    {
+      "question": "¿Qué criterios debe fijar el claustro según sus competencias relacionadas con la tutoría?",
+      "options": [
+        "Los horarios de tutoría",
+        "Los criterios referentes a la tutoría de los alumnos",
+        "Los tutores de cada grupo",
+        "El presupuesto del PAT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las competencias del claustro se encuentra fijar los criterios referentes a la tutoría de los alumnos y formular propuestas al equipo directivo y al consejo escolar para mejorar la convivencia y la acción tutorial."
+    },
+    {
+      "question": "¿Qué tipo de respuesta educativa debe dar el tutor al detectar dificultades según sus funciones?",
+      "options": [
+        "Una respuesta estandarizada según el protocolo",
+        "Una respuesta educativa temprana",
+        "Una respuesta que implique a las familias siempre",
+        "Una respuesta basada en adaptaciones curriculares significativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor debe efectuar un seguimiento global de los procesos de enseñanza-aprendizaje para detectar dificultades y necesidades, dando una respuesta educativa temprana."
+    },
+    {
+      "question": "¿Qué información específica del aula debe controlar el tutor según el artículo 81 del Decreto 374/1996?",
+      "options": [
+        "El uso de materiales y recursos",
+        "La falta de asistencia o puntualidad",
+        "El rendimiento académico diario",
+        "La participación en actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las funciones del tutor está controlar la falta de asistencia o puntualidad y mantener informadas a las familias de las mismas."
+    },
+    {
+      "question": "¿Qué debe atender el tutor junto con el resto de profesorado según sus funciones?",
+      "options": [
+        "Las reuniones de coordinación",
+        "El alumnado en los tiempos de ocio del centro",
+        "Las actividades extraescolares",
+        "Los documentos administrativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor debe atender al alumnado, junto con el resto de profesorado, en los tiempos de ocio del centro."
+    },
+    {
+      "question": "¿Qué debe orientar el tutor de manera directa e inmediata según sus funciones?",
+      "options": [
+        "Al equipo docente en su práctica",
+        "Al grupo en su proceso formativo",
+        "A las familias en sus decisiones",
+        "Al centro en su organización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor debe orientar al grupo de una manera directa e inmediata en su proceso formativo."
+    },
+    {
+      "question": "¿Qué autor propone los cuatro pilares de la educación permanente mencionados en las conclusiones del tema?",
+      "options": [
+        "Jean Piaget",
+        "Jacques Delors",
+        "Lev Vygotsky",
+        "Howard Gardner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La acción tutorial y toda intervención educativa debe inspirarse en los cuatro pilares de la educación permanente propuesto por Jacques Delors: 'aprender a conocer', 'aprender a ser', 'aprender a hacer' y 'aprender a vivir juntos'."
+    },
+    {
+      "question": "¿Qué debe construir el tutor al prestar atención al alumnado, órganos del centro y familias?",
+      "options": [
+        "Un sistema de evaluación continua",
+        "Una línea de cohesión y coordinación para una mejor atención a la diversidad",
+        "Un protocolo de actuación estandarizado",
+        "Una red de comunicación digital"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor ha de prestar atención, no solo al alumnado, sino también al conjunto de órganos del centro y a las familias, construyendo una línea de cohesión y coordinación para una mejor atención a la diversidad."
+    },
+    {
+      "question": "¿Qué relación normativa existe entre el Real Decreto 157/2022 y el Decreto 155/2022 respecto a la tutoría?",
+      "options": [
+        "Son normas independientes sin conexión directa",
+        "El Decreto 155/2022 desarrolla para Galicia lo establecido en el RD 157/2022, ambos basados en la LOMLOE",
+        "El RD 157/2022 desarrolla el Decreto 155/2022",
+        "Son normas contradictorias que deben armonizarse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 se fundamenta en lo dispuesto a nivel estatal en el Real Decreto 157/2022 y en consonancia con la LOMLOE, desarrollando para Galicia lo establecido a nivel estatal."
+    },
+    {
+      "question": "¿Qué implicación práctica tiene que el artículo 19 del Decreto 155/2022 establezca que se debe fomentar la coordinación entre el profesorado que incida sobre el mismo grupo?",
+      "options": [
+        "Que solo el tutor debe conocer al alumnado",
+        "Que todos los docentes del grupo deben trabajar coordinadamente con el tutor",
+        "Que el tutor debe informar trimestralmente al resto del profesorado",
+        "Que solo los especialistas deben coordinarse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 19 del Decreto 155/2022 establece la importancia de promover la coordinación entre el profesorado que incida sobre el mismo grupo de alumnos, lo que implica un trabajo coordinado de todos los docentes con el tutor."
+    },
+    {
+      "question": "Si un tutor debe mantener la misma asignación durante todo el ciclo según la Orden de 26 de mayo de 2023, ¿cuántos años como máximo tutorizaría al mismo grupo en Educación Primaria?",
+      "options": [
+        "1 año",
+        "2 años",
+        "3 años",
+        "6 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Educación Primaria se organiza en tres ciclos de dos años cada uno. Si se mantiene el mismo tutor a lo largo de cada ciclo, sería un máximo de 2 años con el mismo grupo."
+    },
+    {
+      "question": "¿Qué relación existe entre el artículo 91 de la LOMLOE y el artículo 81 del Decreto 374/1996?",
+      "options": [
+        "Son artículos que regulan aspectos diferentes sin conexión",
+        "El art. 91 LOMLOE establece la tutoría como función docente y el art. 81 Dec. 374/1996 desarrolla las funciones específicas del tutor",
+        "Son artículos que se contradicen entre sí",
+        "El art. 81 del Decreto 374/1996 deroga lo establecido en el art. 91 LOMLOE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 91 de la LOMLOE establece la tutoría como función clave del profesorado de forma general, mientras que el artículo 81 del Decreto 374/1996 desarrolla detalladamente las funciones específicas del tutor."
+    },
+    {
+      "question": "¿Qué coherencia existe entre la definición de orientación de Bisquerra (2012) y la acción tutorial según González et al. (2018)?",
+      "options": [
+        "Son conceptos opuestos y contradictorios",
+        "Ambas coinciden en el proceso continuo, sistemático y colaborativo para el desarrollo integral",
+        "La orientación excluye la acción tutorial",
+        "Son procesos independientes sin relación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tanto Bisquerra (orientación como proceso de ayuda continuo y sistemático para el desarrollo integral con colaboración) como González et al. (acción tutorial como proceso intencional y continuo para el desarrollo integral) coinciden en la naturaleza continua, sistemática y orientada al desarrollo integral."
+    },
+    {
+      "question": "¿Cómo se relacionan los tres tipos de apoyo educativo mencionados en el tema con las modalidades de orientación?",
+      "options": [
+        "No existe relación entre ambos conceptos",
+        "Los apoyos son medidas concretas mientras que la orientación es el marco conceptual más amplio que los engloba",
+        "Las modalidades de orientación sustituyen a los apoyos educativos",
+        "Los apoyos educativos son superiores jerárquicamente a la orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los apoyos educativos (académico, social-emocional y conductual) son acciones concretas y estrategias específicas, mientras que la orientación (personal, académica, profesional) es un concepto más amplio y sistemático que engloba y fundamenta estos apoyos."
+    },
+    {
+      "question": "Si un tutor detecta que un alumno necesita apoyo académico, social-emocional y conductual simultáneamente, ¿qué modalidad de orientación sería más adecuada inicialmente?",
+      "options": [
+        "Orientación académica exclusivamente",
+        "Orientación individualizada o psicopedagógica para identificar las necesidades integrales",
+        "Orientación profesional",
+        "Solo orientación para la prevención"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La orientación individualizada o psicopedagógica se centra en identificar y desarrollar habilidades y fortalezas de forma personalizada, siendo la más adecuada para abordar inicialmente necesidades múltiples y complejas."
+    },
+    {
+      "question": "¿Qué implica que el Decreto 120/1998 mencione tres campos de orientación (personal, profesional, académico) y Bisquerra (2012) añada un cuarto?",
+      "options": [
+        "Que Bisquerra contradice la normativa vigente",
+        "Que la orientación ha evolucionado incorporando la prevención y desarrollo humano como aspectos fundamentales",
+        "Que el Decreto 120/1998 está obsoleto completamente",
+        "Que solo se deben aplicar los tres campos normativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ampliación de Bisquerra (2012) añadiendo la orientación para la prevención y desarrollo humano refleja la evolución del concepto de orientación, incorporando aspectos fundamentales como la educación para la salud y habilidades socioemocionales sin contradecir la normativa."
+    },
+    {
+      "question": "¿Qué coherencia existe entre el artículo 6 de la Ley 4/2011 y el artículo 121 de la LOMLOE respecto a las familias?",
+      "options": [
+        "Son artículos contradictorios",
+        "Ambos reconocen el derecho de participación de las familias, y el 121 LOMLOE lo concreta en compromisos educativos",
+        "El art. 121 LOMLOE deroga el art. 6 de la Ley 4/2011",
+        "Solo uno de ellos es aplicable en Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 de la Ley 4/2011 reconoce el derecho de las familias a participar activamente en la educación, mientras que el artículo 121 de la LOMLOE concreta este derecho estableciendo los compromisos educativos como mecanismo de participación."
+    },
+    {
+      "question": "¿Qué relación jerárquica existe entre PE, PAT y PGA respecto a la acción tutorial?",
+      "options": [
+        "Son documentos independientes sin relación jerárquica",
+        "Las medidas de acción tutorial se recogen en el PE, se concretan en el PAT y se anualizan en la PGA",
+        "La PGA determina el PE y este el PAT",
+        "El PAT es el único documento vinculante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 121 de la LOMLOE, las medidas de acción tutorial se recogen en el PE, se concretan en el PAT, y las concreciones anuales del PAT se plasman en la PGA de cada curso."
+    },
+    {
+      "question": "Si el jefe de estudios coordina a los tutores (art. 80 Dec. 374/1996) y la CCP establece directrices para el PAT (art. 62 Dec. 374/1996), ¿qué coordinación debe existir entre ambos?",
+      "options": [
+        "No necesitan coordinarse, actúan independientemente",
+        "El jefe de estudios debe coordinar con la CCP para asegurar coherencia entre directrices del PAT y coordinación de tutores",
+        "La CCP sustituye al jefe de estudios en la coordinación",
+        "Solo el director coordina ambos órganos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para asegurar la coherencia en la acción tutorial, el jefe de estudios (que coordina tutores según art. 80) debe coordinarse con la CCP (que establece directrices del PAT según art. 62) garantizando que las directrices se implementen adecuadamente."
+    },
+    {
+      "question": "¿Qué implica que el tutor deba 'facilitar la inclusión del alumnado en el grupo' como función?",
+      "options": [
+        "Solo que debe presentar a los nuevos alumnos",
+        "Que debe implementar estrategias activas y continuas de integración social, académica y emocional",
+        "Que solo debe vigilar que no haya conflictos",
+        "Que es una función exclusivamente del primer trimestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Facilitar la inclusión implica implementar estrategias activas y continuas (no solo iniciales) que promuevan la integración social, académica y emocional de todos los alumnos, especialmente de aquellos con mayor riesgo de exclusión."
+    },
+    {
+      "question": "Si un tutor debe 'coordinar las adaptaciones curriculares', ¿qué relación tiene esto con el Departamento de Orientación?",
+      "options": [
+        "El tutor hace las adaptaciones sin consultar al DO",
+        "El tutor coordina su implementación, pero el diseño requiere la colaboración del DO y especialistas",
+        "Solo el DO puede hacer adaptaciones curriculares",
+        "No existe relación entre ambas funciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor coordina las adaptaciones curriculares, pero su diseño e implementación requiere la colaboración del DO, especialistas y el resto del equipo docente, siendo el tutor el responsable de coordinar este proceso colaborativo."
+    },
+    {
+      "question": "¿Por qué es importante que el tutor 'presida las sesiones de evaluación' y no solo asista?",
+      "options": [
+        "Por razones meramente protocolarias",
+        "Porque garantiza su papel central en la coordinación docente y toma de decisiones sobre su grupo",
+        "Para reducir el trabajo del jefe de estudios",
+        "Solo para cumplir con requisitos administrativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Presidir las sesiones de evaluación (no solo asistir) garantiza el papel central del tutor en la coordinación docente, la recogida de información integral del alumnado y la toma de decisiones fundamentadas sobre promoción y necesidades educativas."
+    },
+    {
+      "question": "¿Qué coherencia debe existir entre los 'criterios de evaluación' que el tutor informa a las familias y las 'decisiones de promoción' que toma?",
+      "options": [
+        "No necesitan ser coherentes, son procesos independientes",
+        "Las decisiones de promoción deben basarse en los criterios de evaluación previamente comunicados a las familias",
+        "Los criterios de evaluación son solo informativos sin vinculación",
+        "Las decisiones de promoción se toman solo por el equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La coherencia es fundamental: las decisiones de promoción que toma el tutor deben basarse en los criterios de evaluación que previamente ha comunicado a las familias, garantizando transparencia, objetividad y seguridad jurídica."
+    },
+    {
+      "question": "Si el claustro 'fija criterios' sobre tutoría y la CCP 'establece directrices' para el PAT, ¿qué debe hacer el DO al elaborar el PAT?",
+      "options": [
+        "Elaborar el PAT ignorando ambos órganos",
+        "Integrar los criterios del claustro y las directrices de la CCP en la elaboración del PAT",
+        "Solo seguir las directrices de la CCP",
+        "Solo aplicar los criterios del claustro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El DO debe elaborar el PAT integrando tanto los criterios establecidos por el claustro como las directrices de la CCP, asegurando la coherencia entre ambos niveles de planificación institucional."
+    },
+    {
+      "question": "¿Qué diferencia funcional existe entre 'equipos de ciclo' y 'Comisión de Coordinación Pedagógica' respecto a la tutoría?",
+      "options": [
+        "No existe diferencia, son el mismo órgano",
+        "Los equipos de ciclo coordinan la práctica tutorial directa del mismo nivel, la CCP establece directrices generales para todo el centro",
+        "Los equipos de ciclo solo organizan actividades extraescolares",
+        "La CCP solo evalúa al tutor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los equipos de ciclo (todos los docentes de un grupo) coordinan la práctica tutorial directa unificando criterios metodológicos y de evaluación del mismo nivel, mientras que la CCP establece directrices generales del PAT para todo el centro."
+    },
+    {
+      "question": "¿Cómo se relacionan las 'técnicas de interacción directa' de Ramírez (2019) con las funciones del tutor del Decreto 374/1996?",
+      "options": [
+        "Son conceptos independientes sin relación",
+        "Las técnicas son herramientas metodológicas para implementar las funciones legales del tutor",
+        "Las técnicas sustituyen a las funciones del tutor",
+        "Solo las técnicas son obligatorias, no las funciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las técnicas de interacción directa (entrevista, observación, dinámicas, etc.) son herramientas metodológicas concretas que permiten al tutor implementar eficazmente sus funciones legales establecidas en el Decreto 374/1996."
+    },
+    {
+      "question": "Si la 'entrevista individual' y las 'reuniones con familias' son técnicas diferentes según Ramírez (2019), ¿qué diferencia esencial existe entre ambas?",
+      "options": [
+        "No existe diferencia real entre ellas",
+        "La entrevista individual se centra en el alumno (bloque interacción), las reuniones con familias en la colaboración familia-centro (bloque asesoramiento)",
+        "Una es obligatoria y la otra opcional",
+        "Solo difieren en la duración"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La entrevista individual (bloque interacción directa) se centra en conocer al alumno individual, mientras que las reuniones con familias (bloque asesoramiento y seguimiento) buscan la colaboración estrecha para un enfoque educativo coherente entre familia y centro."
+    },
+    {
+      "question": "¿Qué relación existe entre la propuesta de 'organización y funcionamiento del grupo-clase' y la función del tutor de 'establecer normas'?",
+      "options": [
+        "Son procesos independientes y contradictorios",
+        "La propuesta es el marco de actuación planificado en el PAT, la función es la responsabilidad legal del tutor",
+        "La propuesta sustituye a la función del tutor",
+        "Solo la función es obligatoria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La propuesta de organización y funcionamiento del grupo-clase es el marco de actuación planificado en el PAT que desarrolla sistemáticamente la función legal del tutor de establecer normas de convivencia y organizar el grupo."
+    },
+    {
+      "question": "¿Cómo se complementan las técnicas de 'cuestionarios y encuestas' con la 'observación directa'?",
+      "options": [
+        "Son técnicas que se excluyen mutuamente",
+        "Los cuestionarios aportan información explícita del alumno, la observación aporta datos implícitos del comportamiento",
+        "Solo se debe usar una de las dos técnicas",
+        "Los cuestionarios son más importantes que la observación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los cuestionarios y encuestas aportan información explícita y consciente que el alumno proporciona sobre sí mismo (intereses, opiniones), mientras que la observación directa aporta datos implícitos sobre comportamiento y necesidades que el alumno puede no expresar verbalmente."
+    },
+    {
+      "question": "¿Qué implica que el PAT deba ser 'coherente y adecuado a los agentes educativos, destinatarios y documentos del centro'?",
+      "options": [
+        "Que solo debe coincidir con el PE",
+        "Que debe alinearse con PE, realidad del alumnado y familias, capacidades del profesorado y recursos del centro",
+        "Que solo debe ser coherente internamente",
+        "Que la coherencia es opcional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La coherencia y adecuación implica que el PAT debe alinearse con el PE, adaptarse a la realidad y necesidades del alumnado y familias, considerar las capacidades y formación del profesorado, y ser viable con los recursos disponibles en el centro."
+    },
+    {
+      "question": "Si el PAT debe ser 'global' y 'dinámico' simultáneamente, ¿qué equilibrio debe alcanzar?",
+      "options": [
+        "Estas características son contradictorias",
+        "Debe dirigirse a toda la comunidad educativa manteniendo flexibilidad para adaptarse a cambios y necesidades emergentes",
+        "Solo una característica puede cumplirse a la vez",
+        "No es necesario alcanzar ningún equilibrio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT debe ser global (dirigido a toda la comunidad educativa con visión integral) y dinámico (flexible y abierto a revisión) simultáneamente, equilibrando la planificación comprehensiva con la capacidad de adaptación a cambios y necesidades emergentes."
+    },
+    {
+      "question": "¿Cómo se relaciona la 'temporalización' del PAT con su característica de ser 'evaluable'?",
+      "options": [
+        "No existe relación entre ambos aspectos",
+        "La temporalización establece momentos de evaluación periódica que permiten valorar el cumplimiento y ajustar acciones",
+        "La evaluación sustituye a la temporalización",
+        "Solo la temporalización es importante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La temporalización del PAT debe incluir evaluaciones periódicas que permitan valorar el cumplimiento de objetivos, identificar dificultades y realizar ajustes, conectando directamente con la característica de ser evaluable para la mejora continua."
+    },
+    {
+      "question": "¿Qué diferencia existe entre la propuesta de 'acogida e interacción' y la de 'desarrollo personal y adaptación escolar'?",
+      "options": [
+        "Son la misma propuesta con nombres diferentes",
+        "La acogida es puntual al inicio, el desarrollo personal es continuo durante todo el curso",
+        "Solo la acogida es obligatoria",
+        "No existe diferencia significativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La acogida e interacción es una propuesta puntual centrada en facilitar la adaptación inicial al centro y grupo, mientras que el desarrollo personal y adaptación escolar es un proceso continuo durante todo el curso enfocado en autoconfianza, gestión emocional y convivencia."
+    },
+    {
+      "question": "¿Cómo se relaciona la propuesta de 'adquisición de hábitos de trabajo' con la técnica de 'planificación y seguimiento de metas'?",
+      "options": [
+        "Son conceptos opuestos sin relación",
+        "La propuesta establece el objetivo general del PAT, la técnica es la herramienta específica para alcanzarlo",
+        "La técnica sustituye a la propuesta",
+        "No necesitan relacionarse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La propuesta de adquisición de hábitos de trabajo establece el objetivo general en el PAT (desarrollar hábitos de orden, autonomía, gestión del tiempo), mientras que la técnica de planificación y seguimiento de metas es una herramienta específica para alcanzar este objetivo con cada alumno."
+    },
+    {
+      "question": "Si un tutor aplica 'dinámicas de grupo' para mejorar la cohesión, ¿qué propuesta del PAT estaría implementando principalmente?",
+      "options": [
+        "Seguimiento académico exclusivamente",
+        "Desarrollo personal y adaptación escolar, y organización y funcionamiento del grupo-clase",
+        "Colaboración con familias",
+        "Solo acogida e interacción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las dinámicas de grupo para mejorar cohesión implementan principalmente las propuestas de desarrollo personal y adaptación escolar (convivencia, respeto mutuo) y organización y funcionamiento del grupo-clase (crear un ambiente participativo)."
+    },
+    {
+      "question": "¿Qué implica que 'la acción tutorial es función del tutor pero requiere colaboración de todos' según las conclusiones?",
+      "options": [
+        "Que el tutor puede delegar todas sus funciones",
+        "Que el tutor coordina y lidera la acción tutorial con participación activa de todo el profesorado y comunidad educativa",
+        "Que todos son responsables por igual sin coordinación",
+        "Que la colaboración es opcional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Implica un modelo de liderazgo distribuido donde el tutor coordina y lidera la acción tutorial manteniendo su responsabilidad principal, pero requiere la participación activa y colaboración del resto del profesorado y comunidad educativa para ser efectiva."
+    },
+    {
+      "question": "¿Cómo se relacionan los 'cuatro pilares de Delors' con los 'cuatro ámbitos de desarrollo integral' mencionados por González et al. (2018)?",
+      "options": [
+        "Son conceptos completamente diferentes sin relación",
+        "Los pilares de Delors fundamentan filosóficamente el desarrollo integral en los ámbitos que describe González",
+        "Los ámbitos de González sustituyen a los pilares de Delors",
+        "Solo se debe aplicar uno de los dos marcos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los cuatro pilares de Delors (aprender a conocer, ser, hacer, vivir juntos) fundamentan filosóficamente el desarrollo integral que se concreta en los cuatro ámbitos prácticos que describe González et al. (académico, social, personal, profesional)."
+    },
+    {
+      "question": "Si un centro tiene dificultades de convivencia, ¿qué coordinación PAT debería establecerse entre propuestas, técnicas y funciones del tutor?",
+      "options": [
+        "Solo aplicar técnicas de control conductual",
+        "Integrar propuesta de desarrollo personal, técnicas de dinámicas de grupo y mediación, con función del tutor de facilitar inclusión",
+        "Únicamente sancionar conductas inadecuadas",
+        "Derivar todo al Departamento de Orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un enfoque integral requiere coordinar: propuestas PAT (desarrollo personal y adaptación escolar), técnicas específicas (dinámicas de grupo, mediación), funciones del tutor (facilitar inclusión, orientar convivencia) y colaboración de toda la comunidad educativa."
+    },
+    {
+      "question": "¿Qué relación existe entre 'información trimestral obligatoria a familias' (Decreto 155/2022) y 'hora semanal de tutoría' (PAT)?",
+      "options": [
+        "Son obligaciones independientes sin relación",
+        "La hora semanal permite comunicación continua que fundamenta y complementa la información trimestral obligatoria",
+        "Solo la información trimestral es obligatoria",
+        "La hora semanal sustituye a la información trimestral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hora semanal de tutoría con familias (establecida en PGA) permite una comunicación continua y fluida que fundamenta, enriquece y complementa la información trimestral mínima obligatoria establecida en el Decreto 155/2022."
+    },
+    {
+      "question": "Si el tutor detecta mediante 'observación directa' necesidades que el alumno no expresa en 'entrevistas individuales', ¿qué acción tutorial sería más apropiada?",
+      "options": [
+        "Ignorar la información de la observación",
+        "Utilizar 'asesoramiento personalizado' para abordar las necesidades detectadas creando un espacio seguro de expresión",
+        "Solo confiar en lo que el alumno expresa verbalmente",
+        "Informar inmediatamente a la familia sin más intervención"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando la observación detecta necesidades no expresadas verbalmente, el asesoramiento personalizado es la técnica apropiada para crear un espacio seguro donde el alumno pueda expresar gradualmente sus necesidades emocionales o personales."
+    },
+    {
+      "question": "¿Qué coordinación debe existir entre 'análisis de casos' (técnica) y 'adaptaciones curriculares' (función del tutor)?",
+      "options": [
+        "Son procesos independientes sin coordinación",
+        "El análisis de casos fundamenta y justifica las adaptaciones curriculares que el tutor coordina",
+        "Las adaptaciones curriculares sustituyen al análisis de casos",
+        "Solo el análisis de casos es necesario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El análisis de casos (estudio detallado de situaciones específicas) fundamenta y justifica las decisiones sobre adaptaciones curriculares, proporcionando información que permite al tutor coordinar adaptaciones personalizadas y efectivas."
+    },
+    {
+      "question": "¿Cómo debe el tutor equilibrar su función de 'controlar asistencia' con la propuesta de 'colaboración con familias'?",
+      "options": [
+        "Son funciones contradictorias que no pueden equilibrarse",
+        "El control de asistencia debe comunicarse a familias como oportunidad de colaboración para identificar y resolver causas",
+        "Solo se debe controlar sin informar a las familias",
+        "La colaboración con familias elimina la necesidad de control"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El control de asistencia debe comunicarse a las familias no como mera función administrativa, sino como oportunidad de colaboración para identificar causas (problemas de salud, desmotivación, dificultades familiares) y buscar soluciones conjuntas."
+    },
+    {
+      "question": "¿Qué implica que el PAT deba 'exigir colaboración, compromiso y trabajo de todos los agentes' siendo elaborado por el DO?",
+      "options": [
+        "Que el DO trabaja de forma aislada",
+        "Que aunque el DO lo elabore, su implementación requiere compromiso activo y corresponsable de toda la comunidad educativa",
+        "Que el DO puede imponer el PAT sin consenso",
+        "Que solo el DO es responsable del PAT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque el DO elabora el PAT siguiendo directrices de CCP y criterios del claustro, su implementación efectiva requiere el compromiso activo y corresponsable de toda la comunidad educativa (tutores, profesorado, familias, alumnado)."
+    },
+    {
+      "question": "¿Cómo se relaciona la 'respuesta educativa temprana' (función del tutor) con la 'evaluación periódica' (temporalización del PAT)?",
+      "options": [
+        "Son conceptos sin relación práctica",
+        "La evaluación periódica del PAT permite detectar dificultades para dar respuestas educativas tempranas y preventivas",
+        "La respuesta temprana elimina la necesidad de evaluación",
+        "Solo la respuesta temprana es importante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación periódica establecida en la temporalización del PAT permite al tutor detectar dificultades y necesidades de forma sistemática, posibilitando respuestas educativas tempranas y preventivas antes de que los problemas se agraven."
+    },
+    {
+      "question": "Si el claustro establece como criterio 'priorizar la educación emocional', ¿cómo debería reflejarse esto en el PAT?",
+      "options": [
+        "Solo mencionarlo en la introducción del PAT",
+        "Integrar objetivos específicos, propuestas de desarrollo personal, técnicas de asesoramiento emocional y actividades concretas",
+        "Delegar toda la educación emocional al DO",
+        "No es necesario reflejarlo en el PAT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El criterio del claustro debe integrarse transversalmente en el PAT mediante: objetivos específicos de educación emocional, propuestas de desarrollo personal y adaptación escolar, técnicas de asesoramiento personalizado y actividades concretas en la temporalización."
+    },
+    {
+      "question": "¿Qué diferencia existe entre 'orientar al grupo de manera directa e inmediata' y 'coordinar con el equipo docente'?",
+      "options": [
+        "Son la misma función expresada de forma diferente",
+        "La primera es intervención directa del tutor con alumnos, la segunda es coordinación entre profesionales",
+        "Solo la coordinación con el equipo docente es importante",
+        "No existe diferencia relevante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Orientar al grupo de manera directa e inmediata implica la intervención directa del tutor con los alumnos en tiempo real, mientras que coordinar con el equipo docente es gestionar la coherencia entre todos los profesionales que intervienen con el grupo."
+    },
+    {
+      "question": "¿Cómo debe el tutor integrar las 'Tecnologías Educativas' en las diferentes propuestas del PAT?",
+      "options": [
+        "Usar tecnología solo para tareas administrativas",
+        "Como herramienta transversal para seguimiento académico, comunicación con familias y acceso a recursos en todas las propuestas",
+        "Crear una propuesta específica separada solo para tecnología",
+        "La tecnología no debe incluirse en el PAT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Tecnologías Educativas deben integrarse como herramienta transversal en todas las propuestas: seguimiento académico (plataformas de evaluación), comunicación con familias (apps, correo), acceso a recursos (materiales digitales), facilitando la implementación efectiva del PAT."
+    },
+    {
+      "question": "¿Qué implica que la acción tutorial deba 'situar en primer plano una educación personalizada' en un sistema con ratios de 25 alumnos por aula?",
+      "options": [
+        "Que es imposible personalizar en esas condiciones",
+        "Que requiere combinar atención individual, grupal, metodologías diversificadas y colaboración del equipo docente",
+        "Que solo se puede personalizar en grupos pequeños",
+        "Que la personalización es solo teórica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La personalización en grupos numerosos requiere combinar estrategias: momentos de atención individual (entrevistas), trabajo grupal adaptado (agrupamientos flexibles), metodologías diversificadas (multinivel) y colaboración del equipo docente para atender la diversidad efectivamente."
+    },
+    {
+      "question": "¿Cómo se relaciona la función del tutor de 'levantar el acta de evaluación' con la transparencia y participación de las familias?",
+      "options": [
+        "El acta es un documento interno sin relación con las familias",
+        "El acta documenta decisiones y acuerdos que deben comunicarse a familias garantizando transparencia en el proceso evaluativo",
+        "Las familias deben asistir a las sesiones de evaluación",
+        "El acta solo tiene función administrativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El acta de evaluación documenta decisiones, acuerdos y medidas adoptadas sobre cada alumno que deben comunicarse a las familias, garantizando la transparencia del proceso evaluativo y fundamentando la información que se les proporciona."
+    },
+    {
+      "question": "Si un centro implementa 'programas de mentoría' entre alumnado de diferentes niveles, ¿qué coordinación tutorial requiere?",
+      "options": [
+        "Solo coordinación entre los tutores de los niveles implicados",
+        "Coordinación entre tutores de ambos niveles, seguimiento del programa, formación de mentores y evaluación de resultados",
+        "No requiere coordinación tutorial específica",
+        "Solo el jefe de estudios debe coordinar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los programas de mentoría requieren coordinación tutorial integral: entre tutores de ambos niveles para seleccionar mentores y mentorizados, seguimiento del programa, formación de alumnos mentores en habilidades de ayuda y evaluación del impacto."
+    },
+    {
+      "question": "¿Qué relación existe entre 'facilitar la inclusión del alumnado' y 'establecer normas de convivencia'?",
+      "options": [
+        "Son funciones contradictorias del tutor",
+        "Las normas de convivencia consensuadas y justas son herramienta fundamental para facilitar la inclusión de todos",
+        "La inclusión elimina la necesidad de normas",
+        "Solo las normas son importantes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las normas de convivencia consensuadas, justas y conocidas por todos son una herramienta fundamental para facilitar la inclusión, ya que crean un marco predecible y seguro donde todos los alumnos conocen expectativas y límites claros."
+    },
+    {
+      "question": "¿Cómo debe equilibrar el tutor la 'atención personalizada' con la 'promoción del trabajo cooperativo' mencionados como objetivos del PAT?",
+      "options": [
+        "Son objetivos incompatibles que no pueden equilibrarse",
+        "El trabajo cooperativo bien diseñado permite atención personalizada mediante roles diferenciados y apoyo entre iguales",
+        "Solo se debe priorizar la atención personalizada",
+        "El trabajo cooperativo sustituye la atención personalizada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El trabajo cooperativo bien estructurado (con roles diferenciados, agrupamientos flexibles y tareas multinivel) permite atención personalizada al adaptar las contribuciones individuales y aprovechar el apoyo entre iguales, equilibrando ambos objetivos."
+    },
+    {
+      "question": "¿Qué implica que la orientación sea 'un proceso de ayuda continuo' para la organización temporal de la acción tutorial?",
+      "options": [
+        "Que solo se requieren acciones puntuales",
+        "Que la acción tutorial debe planificarse como proceso sostenido durante todo el curso con momentos sistemáticos de intervención",
+        "Que la continuidad es solo teórica",
+        "Que basta con reuniones trimestrales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Definir la orientación como proceso continuo implica que la acción tutorial debe planificarse temporalmente como un proceso sostenido durante todo el curso (no solo acciones puntuales), con momentos sistemáticos y periódicos de intervención y seguimiento."
+    },
+    {
+      "question": "¿Cómo se relaciona 'aprender a vivir juntos' (Delors) con las propuestas de 'desarrollo personal' y 'organización del grupo-clase'?",
+      "options": [
+        "Son conceptos sin relación práctica",
+        "Aprender a vivir juntos es el objetivo filosófico que se concreta en propuestas de convivencia, respeto y organización grupal",
+        "Solo las propuestas son relevantes",
+        "El pilar de Delors sustituye las propuestas del PAT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Aprender a vivir juntos' es el objetivo filosófico fundamental que se concreta prácticamente en las propuestas de desarrollo personal (convivencia, respeto mutuo, gestión de conflictos) y organización del grupo-clase (normas consensuadas, agrupamientos inclusivos)."
+    }
+  ]
+}

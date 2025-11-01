@@ -1,0 +1,2143 @@
+{
+  "title": "Tema 1: Desarrollo Psicoevolutivo (6-12 años) - Completo",
+  "description": "Quiz completo con 200 preguntas sobre características básicas del desarrollo psico-evolutivo de los niños y niñas de los seis a los doce años. Aspectos cognitivos, motrices, afectivos y sociales.",
+  "category": "temas",
+  "icon": "📝",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué artículo de la LOMLOE establece la necesidad de que las Administraciones educativas dispongan de los medios necesarios para que todo el alumnado alcance el máximo desarrollo personal, intelectual, social y emocional?",
+      "options": [
+        "Artículo 71",
+        "Artículo 16",
+        "Artículo 4",
+        "Artículo 6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 71 de la LOMLOE, dentro del principio de la equidad, establece la necesidad de que las Administraciones educativas dispongan de los medios necesarios para que todo el alumnado alcance el máximo desarrollo personal, intelectual, social y emocional."
+    },
+    {
+      "question": "Según Swith y Cowie (1991), ¿cómo definen el desarrollo?",
+      "options": [
+        "Un proceso de cambios biológicos internos",
+        "Un proceso por el cual el organismo crece y cambia a través del tiempo de una manera ordenada",
+        "Un conjunto de habilidades cognitivas adquiridas",
+        "Un proceso de maduración del sistema nervioso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Swith y Cowie (1991) definen el desarrollo como 'un proceso por el cual el organismo crece y cambia a través del tiempo de una manera ordenada'."
+    },
+    {
+      "question": "Según Pinillos (1991), ¿cuáles son los tres elementos principales que deben conectarse para hablar de desarrollo?",
+      "options": [
+        "Crecimiento, aprendizaje y desarrollo",
+        "Crecimiento, maduración y aprendizaje",
+        "Maduración, socialización y conocimiento",
+        "Aprendizaje, conocimiento y experiencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pinillos (1991) señala que para poder hablar de desarrollo es necesario conectarlo con tres elementos principales: crecimiento, maduración y aprendizaje."
+    },
+    {
+      "question": "¿Qué característica del desarrollo se refiere a que sigue un patrón progresivo y organizado avanzando de lo simple a lo complejo?",
+      "options": [
+        "Proceso integrativo",
+        "Proceso direccional",
+        "Diversificación de capacidades",
+        "Proceso individual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El desarrollo es un proceso direccional y evoluciona hacia la especialización; es decir, sigue un patrón progresivo y organizado avanzando de lo simple a lo complejo, de lo general a lo específico."
+    },
+    {
+      "question": "Según Pinillos (2002), ¿cuáles son los dos tipos de factores que intervienen en el desarrollo evolutivo?",
+      "options": [
+        "Factores cognitivos y emocionales",
+        "Factores externos o ambientales e internos o hereditarios",
+        "Factores sociales y biológicos",
+        "Factores educativos y familiares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pinillos (2002) señala dos tipos de factores que intervienen en el desarrollo evolutivo: los externos o ambientales y los internos o hereditarios."
+    },
+    {
+      "question": "¿Qué autor señala que un factor puede ser más determinante que el otro según el momento evolutivo de la persona?",
+      "options": [
+        "Pinillos (2002)",
+        "Álvarez (2020)",
+        "Baltes (1980)",
+        "Erikson"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Baltes (1980) señala que un factor puede ser más determinante que el otro según el momento evolutivo de la persona. Por ejemplo, durante la pubertad predominan los factores biológicos frente a los ambientales."
+    },
+    {
+      "question": "¿Qué debate del desarrollo analiza si prevalece la experiencia o los factores biológicos?",
+      "options": [
+        "Debate Actividad-Pasividad",
+        "Debate Continuidad-Discontinuidad",
+        "Debate Herencia-Ambiente",
+        "Debate Estabilidad-Inestabilidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El debate Herencia-Ambiente analiza si prevalece la experiencia o los factores biológicos en el desarrollo del individuo."
+    },
+    {
+      "question": "¿Qué teoría sostiene que el desarrollo está determinado por factores biológicos y genéticos, de manera que las capacidades y conductas son innatas y maduran con el tiempo?",
+      "options": [
+        "Teoría psicosocial",
+        "Teoría innatista-genetista",
+        "Teoría psicoanalítica",
+        "Teoría ambientalista-sociocultural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La teoría Innatista-genetista sostiene que el desarrollo está determinado por factores biológicos y genéticos, de manera que las capacidades y conductas son innatas y maduran con el tiempo."
+    },
+    {
+      "question": "En la teoría psicosocial de Erikson, ¿en qué etapa se encuentra el alumnado de Educación Primaria?",
+      "options": [
+        "Confianza vs Desconfianza",
+        "Autonomía vs Vergüenza",
+        "Laboriosidad vs Inferioridad",
+        "Identidad vs Confusión de roles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la Educación Primaria, el alumnado se encuentra en la etapa de Laboriosidad vs Inferioridad según la teoría psicosocial de Erikson, donde el niño busca demostrar su competencia y valía."
+    },
+    {
+      "question": "Según Freud, ¿qué instancia mental representa la parte racional y consciente de la mente?",
+      "options": [
+        "Ello",
+        "Yo",
+        "Superyó",
+        "Ego"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Freud divide la mente en tres instancias: Ello (guiado por los deseos), Yo (la parte racional y consciente de la mente) y el Superyó (la internalización de las normas sociales)."
+    },
+    {
+      "question": "¿Qué concepto introdujo Vygotsky que se refiere a la brecha entre lo que el niño puede hacer por sí mismo y lo que puede lograr con ayuda?",
+      "options": [
+        "Aprendizaje significativo",
+        "Zona de Desarrollo Próximo (ZDP)",
+        "Modelo ecológico",
+        "Andamiaje educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vygotsky introdujo el concepto de Zona de Desarrollo Próximo (ZDP) que es la brecha entre lo que el niño puede hacer por sí mismo y lo que puede lograr con la ayuda de otra persona que le guíe."
+    },
+    {
+      "question": "Según Piaget, ¿cómo se forma el aprendizaje?",
+      "options": [
+        "A través de la transmisión directa de conocimientos",
+        "Mediante la observación de modelos",
+        "A través de un proceso de asimilación-acomodación",
+        "Por medio de la repetición y memorización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Piaget subraya que el aprendizaje se forma a través de un proceso de asimilación-acomodación; el individuo asimila e integra el nuevo conocimiento a los existentes y los modifica en un proceso de acomodación."
+    },
+    {
+      "question": "¿Qué período de la teoría de Piaget es predominante en el alumnado de Educación Primaria?",
+      "options": [
+        "Período sensoriomotor",
+        "Período preoperacional",
+        "Período de operaciones concretas",
+        "Período de operaciones formales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El período de operaciones concretas (7 a 11 años) es el predominante en el alumnado de la Educación Primaria."
+    },
+    {
+      "question": "Durante el período de operaciones concretas, ¿qué tipo de pensamiento adquieren los niños?",
+      "options": [
+        "Pensamiento abstracto e hipotético",
+        "Pensamiento lógico y racional aplicado en problemas concretos",
+        "Pensamiento intuitivo y egocéntrico",
+        "Pensamiento simbólico y animista"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el período de operaciones concretas, los niños adquieren un pensamiento lógico y racional aplicándolo en problemas concretos y/o reales sin aplicar el razonamiento abstracto."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una operación lógica según Piaget?",
+      "options": [
+        "Clasificación",
+        "Conservación",
+        "Seriación",
+        "Operaciones espaciales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las operaciones lógicas comprenden clasificación, conservación, seriación y concepto de número. Las operaciones espaciales pertenecen a las operaciones infralógicas."
+    },
+    {
+      "question": "En el primer ciclo de Educación Primaria (6 a 8 años), ¿qué característica cognitiva sigue presente?",
+      "options": [
+        "Pensamiento abstracto",
+        "Reversibilidad",
+        "Restos del egocentrismo",
+        "Pensamiento hipotético-deductivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el primer ciclo de EP (6 a 8 años), se mantienen restos del egocentrismo de la etapa anterior."
+    },
+    {
+      "question": "¿En qué ciclo de Educación Primaria aparece la capacidad de reversibilidad?",
+      "options": [
+        "Primer ciclo (6 a 8 años)",
+        "Segundo ciclo (8 a 10 años)",
+        "Tercer ciclo (10 a 12 años)",
+        "Aparece antes de los 6 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo (8 a 10 años) aparece la capacidad de reversibilidad, y aumenta la curiosidad y la memoria permite retener más información."
+    },
+    {
+      "question": "¿En qué ciclo desaparece el animismo y el egocentrismo?",
+      "options": [
+        "Primer ciclo (6 a 8 años)",
+        "Segundo ciclo (8 a 10 años)",
+        "Tercer ciclo (10 a 12 años)",
+        "No desaparece en Educación Primaria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el tercer ciclo (10 a 12 años) el pensamiento se vuelve más sistemático, ordenado y flexible y desaparece el animismo y el egocentrismo."
+    },
+    {
+      "question": "Según Paul Osterrieth (1974), ¿a través de qué medio el niño encuentra situaciones que le causan alegría?",
+      "options": [
+        "A través de la lectura y la escritura",
+        "A través de las habilidades físicas y las sensaciones mediante acciones de saltar, correr, rodar o empujar",
+        "A través del juego simbólico",
+        "A través de la interacción social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Paul Osterrieth (1974) menciona que las habilidades físicas y las sensaciones son el medio a través del cual el niño encuentra situaciones que le causan alegría mediante acciones de saltar, correr, rodar o empujar."
+    },
+    {
+      "question": "Según Álvarez (2020), ¿qué es el esquema corporal?",
+      "options": [
+        "El desarrollo de las habilidades motoras finas",
+        "El conocimiento que tiene el individuo sobre su propio cuerpo en relación con sus diferentes partes y con el espacio y objetos que le rodean",
+        "La preferencia del uso de una parte del cuerpo",
+        "El control de la postura y el equilibrio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Álvarez (2020) define el esquema corporal como el conocimiento que tiene el individuo sobre su propio cuerpo en relación con sus diferentes partes y con el espacio y objetos que le rodean."
+    },
+    {
+      "question": "¿Qué establece la ley Cefalocaudal?",
+      "options": [
+        "El movimiento se adquiere desde el eje central del cuerpo hacia las extremidades",
+        "El dominio motor progresa desde la cabeza hasta los pies",
+        "El desarrollo depende de la maduración del sistema nervioso",
+        "La lateralidad se define de arriba hacia abajo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ley Cefalocaudal establece que el dominio motor progresa desde la cabeza hasta los pies."
+    },
+    {
+      "question": "¿Qué ley establece que el movimiento se adquiere desde el eje central del cuerpo hacia las extremidades?",
+      "options": [
+        "Ley Cefalocaudal",
+        "Ley Próximo-Distal",
+        "Ley de la maduración",
+        "Ley del desarrollo motor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ley Próximo-Distal establece que el movimiento se adquiere desde el eje central del cuerpo (el tronco) hacia las extremidades desde las manos."
+    },
+    {
+      "question": "¿Qué elemento del esquema corporal se define como la preferencia del uso de una parte de un lado del cuerpo frente a otra?",
+      "options": [
+        "Tono muscular",
+        "Equilibrio",
+        "Coordinación",
+        "Lateralidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La lateralidad es la preferencia del uso de una parte de un lado del cuerpo frente a otra. Debe trabajarse y consolidarse desde los primeros cursos de la EP."
+    },
+    {
+      "question": "En el primer ciclo de Educación Primaria (6 a 8 años), ¿qué aspecto del desarrollo motor se inicia?",
+      "options": [
+        "La consolidación completa del esquema corporal",
+        "La construcción del esquema corporal con la creación de una imagen corporal propia",
+        "El desarrollo de habilidades abstractas motrices",
+        "La maduración completa de la psicomotricidad fina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo (6 a 8 años) se inicia la construcción del esquema corporal con la creación de una imagen corporal propia."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece la educación emocional como un tema transversal?",
+      "options": [
+        "Artículo 4",
+        "Artículo 9",
+        "Artículo 16",
+        "Artículo 17"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El artículo 17 del Decreto 155/2022 considera la educación emocional como un tema transversal."
+    },
+    {
+      "question": "¿Cuáles son los tres tipos de procesos que sustentan el desarrollo afectivo y social según el enfoque psicológico?",
+      "options": [
+        "Procesos cognitivos, emocionales y sociales",
+        "Procesos mentales, afectivos y conductuales",
+        "Procesos físicos, psicológicos y sociales",
+        "Procesos biológicos, ambientales y educativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Desde un enfoque psicológico, el desarrollo afectivo y social se sustenta en tres tipos de procesos: los procesos mentales, los procesos afectivos y los procesos conductuales."
+    },
+    {
+      "question": "¿Qué se entiende por autoconcepto?",
+      "options": [
+        "La valoración u opinión que uno hace de sí mismo",
+        "El conocimiento y percepción de uno mismo",
+        "La identidad y tipificación sexual",
+        "La capacidad de regular las emociones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El autoconcepto se entiende como el conocimiento y percepción de uno mismo."
+    },
+    {
+      "question": "¿Qué es la autoestima?",
+      "options": [
+        "El conocimiento de uno mismo",
+        "La percepción de las propias habilidades",
+        "La valoración u opinión que uno hace del autoconcepto",
+        "La capacidad de relacionarse con los demás"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La autoestima es la valoración u opinión que uno hace del autoconcepto."
+    },
+    {
+      "question": "En el primer ciclo de Educación Primaria, ¿qué característica sigue presente en el desarrollo afectivo-social?",
+      "options": [
+        "Autonomía completa de la familia",
+        "Egocentrismo",
+        "Pensamiento crítico hacia los adultos",
+        "Competitividad elevada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo de EP, comienzan a asumir reglas de juego y el egocentrismo sigue presente."
+    },
+    {
+      "question": "¿En qué ciclo de Educación Primaria los iguales se convierten en figuras de apego?",
+      "options": [
+        "Primer ciclo (6 a 8 años)",
+        "Segundo ciclo (8 a 10 años)",
+        "Tercer ciclo (10 a 12 años)",
+        "En todos los ciclos por igual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo los iguales se convierten en figuras de apego, aumenta la capacidad para trabajar en equipo aunque surge cierta competitividad."
+    },
+    {
+      "question": "¿Qué cambios marcan el tercer ciclo de Educación Primaria (10 a 12 años)?",
+      "options": [
+        "Mayor dependencia de los padres",
+        "Cambios relacionados con la pubertad y la adolescencia",
+        "Disminución de la autonomía",
+        "Desaparición de los intereses sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el tercer ciclo, comienzan los cambios relacionados con la pubertad y la adolescencia, aparecen intereses sexuales y una mayor necesidad de autonomía."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece la finalidad de la Educación Primaria?",
+      "options": [
+        "Artículo 2",
+        "Artículo 4",
+        "Artículo 6",
+        "Artículo 9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece la finalidad de la Educación Primaria: facilitar al alumnado una serie de aprendizajes para garantizar una formación integral."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece como principio pedagógico la intervención educativa orientada a desarrollar las Competencias Clave considerando el proceso madurativo individual?",
+      "options": [
+        "Artículo 4",
+        "Artículo 9",
+        "Artículo 16",
+        "Artículo 71"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 16 del Decreto 155/2022 establece como Principio Pedagógico la intervención educativa orientada a desarrollar y consolidar progresivamente las bases que faciliten la adquisición de las Competencias Clave considerando el proceso madurativo individual."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE y del Decreto 155/2022 define el currículo?",
+      "options": [
+        "Artículo 4",
+        "Artículo 5",
+        "Artículo 6",
+        "Artículo 16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 6 de la LOMLOE y del Decreto 155/2022 define el currículo como el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación."
+    },
+    {
+      "question": "¿Qué modelo propuso Urie Bronfenbrenner para explicar cómo el entorno afecta al desarrollo?",
+      "options": [
+        "Modelo conductista",
+        "Modelo cognitivo",
+        "Modelo ecológico",
+        "Modelo psicoanalítico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Urie Bronfenbrenner propuso un modelo ecológico que explica cómo diferentes niveles del entorno (escuela, familia, comunidad y cultura) afectan al desarrollo."
+    },
+    {
+      "question": "¿Qué autor formuló la teoría del desarrollo cognitivo que describe cómo los niños construyen activamente su conocimiento?",
+      "options": [
+        "Vygotsky",
+        "Erikson",
+        "Piaget",
+        "Freud"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jean Piaget formuló la teoría del desarrollo cognitivo, que describe cómo los niños construyen activamente su conocimiento a través de la interacción con el entorno."
+    },
+    {
+      "question": "¿Cuántas etapas o estadios evolutivos propone Piaget en su teoría del desarrollo cognitivo?",
+      "options": [
+        "3 estadios",
+        "4 estadios",
+        "5 estadios",
+        "6 estadios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Piaget propone 4 estadios evolutivos: sensoriomotor (0-2 años), preoperacional (2-7 años), operaciones concretas (7-11 años) y operaciones formales (11 años en adelante)."
+    },
+    {
+      "question": "Durante el período de operaciones concretas, ¿qué característica NO adquieren los niños?",
+      "options": [
+        "Capacidad de conservación",
+        "Pensamiento reversible",
+        "Razonamiento abstracto",
+        "Seriación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Durante el período de operaciones concretas, los niños adquieren un pensamiento lógico y racional pero NO aplican el razonamiento abstracto ni cadenas largas de deducción."
+    },
+    {
+      "question": "¿Qué operación lógica se refiere a la capacidad para organizar elementos en función de sus semejanzas y diferencias?",
+      "options": [
+        "Seriación",
+        "Conservación",
+        "Clasificación",
+        "Concepto de número"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La clasificación es la capacidad para organizar elementos en función de sus semejanzas y diferencias."
+    },
+    {
+      "question": "¿Qué operación lógica se refiere a la comprensión de que ciertas propiedades de los objetos permanecen constantes a pesar de los cambios en su forma o apariencia?",
+      "options": [
+        "Clasificación",
+        "Seriación",
+        "Conservación",
+        "Reversibilidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La conservación es la comprensión de que ciertas propiedades de los objetos permanecen constantes a pesar de los cambios en su forma o apariencia."
+    },
+    {
+      "question": "¿Qué tipo de operaciones permiten razonar sobre el espacio y tiempo según Piaget?",
+      "options": [
+        "Operaciones lógicas",
+        "Operaciones concretas",
+        "Operaciones infralógicas",
+        "Operaciones formales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las operaciones infralógicas permiten razonar sobre el espacio y tiempo e incluyen operaciones de medidas, operaciones espaciales y conceptos de tiempo y velocidad."
+    },
+    {
+      "question": "En el segundo ciclo de Educación Primaria (8 a 10 años), ¿qué capacidad cognitiva aparece?",
+      "options": [
+        "Pensamiento abstracto",
+        "Reversibilidad",
+        "Animismo",
+        "Egocentrismo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo (8 a 10 años) aparece la capacidad de reversibilidad, aumenta la curiosidad y la memoria permite retener más información."
+    },
+    {
+      "question": "¿Entre qué edades el alumnado se encuentra en transición hacia la etapa de operaciones formales?",
+      "options": [
+        "6-8 años",
+        "8-10 años",
+        "9-11 años",
+        "11-12 años"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Al finalizar la etapa, entre los 11-12 años, el alumnado se encuentra en transición hacia la etapa de operaciones formales, en la que comienza a pensar de forma abstracta, lógica e hipotética."
+    },
+    {
+      "question": "¿Cuántas etapas psicosociales plantea Erikson en su teoría?",
+      "options": [
+        "6 etapas",
+        "7 etapas",
+        "8 etapas",
+        "10 etapas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Erikson plantea ocho etapas psicosociales, que van desde la infancia hasta la vejez, donde la persona entra en una crisis o conflicto que debe resolver."
+    },
+    {
+      "question": "Según Freud, ¿qué instancia mental representa la internalización de las normas sociales?",
+      "options": [
+        "Ello",
+        "Yo",
+        "Superyó",
+        "Ego"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Freud divide la mente en tres instancias: Ello (guiado por los deseos), Yo (la parte racional y consciente) y el Superyó (la internalización de las normas sociales)."
+    },
+    {
+      "question": "¿Qué autor considera que el sujeto conoce los objetos interactuando activamente con ellos?",
+      "options": [
+        "Vygotsky",
+        "Erikson",
+        "Piaget",
+        "Chomsky"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Piaget considera que el sujeto conoce los objetos interactuando activamente con ellos, y que el aprendizaje se forma a través de un proceso de asimilación-acomodación."
+    },
+    {
+      "question": "¿Qué herramienta propone el Diseño Universal para el Aprendizaje (DUA) para facilitar el acceso al currículo?",
+      "options": [
+        "Múltiples medios de representación, de acción y de expresión",
+        "Métodos únicos de enseñanza estandarizados",
+        "Evaluación única y global",
+        "Agrupación homogénea del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Diseño Universal para el Aprendizaje (DUA) propone facilitar el acceso al currículo proporcionando múltiples medios de representación, de acción y de expresión."
+    },
+    {
+      "question": "¿Qué autor propuso la teoría de las inteligencias múltiples?",
+      "options": [
+        "Piaget",
+        "Gardner",
+        "Vygotsky",
+        "Erikson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Howard Gardner propuso la teoría de las inteligencias múltiples como base para diseñar actividades diversas que atiendan a los diferentes tipos de inteligencia."
+    },
+    {
+      "question": "¿Qué efecto explica cómo las expectativas que una persona tiene sobre otra pueden influir en su rendimiento y comportamiento?",
+      "options": [
+        "Efecto Hawthorne",
+        "Efecto Pigmalión",
+        "Efecto halo",
+        "Efecto placebo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El efecto Pigmalión explica cómo las expectativas que una persona tiene sobre otra pueden influir en su rendimiento y comportamiento. Por eso el docente debe potenciar la confianza de los estudiantes en sus propias capacidades."
+    },
+    {
+      "question": "Según el texto, ¿qué debe hacer el maestro con el error en el proceso de aprendizaje?",
+      "options": [
+        "Sancionarlo para evitar que se repita",
+        "Ignorarlo para no desmotivar al alumno",
+        "Mostrarlo como una oportunidad de aprendizaje",
+        "Corregirlo de forma privada sin comentarios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El maestro debe mostrar el error como una oportunidad de aprendizaje y no como una sanción, utilizando feedback positivo para potenciar la confianza."
+    },
+    {
+      "question": "¿Qué edad marca el inicio del período de operaciones concretas según Piaget?",
+      "options": [
+        "5 años",
+        "6 años",
+        "7 años",
+        "8 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El período de operaciones concretas según Piaget abarca de los 7 a los 11 años, siendo el predominante en el alumnado de Educación Primaria."
+    },
+    {
+      "question": "¿Hasta qué edad se extiende el período de operaciones concretas de Piaget?",
+      "options": [
+        "10 años",
+        "11 años",
+        "12 años",
+        "13 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El período de operaciones concretas se extiende de los 7 a los 11 años, después comienza la transición hacia el período de operaciones formales."
+    },
+    {
+      "question": "¿Qué característica supera el niño al finalizar el período de operaciones concretas?",
+      "options": [
+        "El pensamiento concreto",
+        "El egocentrismo característico del periodo preoperacional",
+        "La capacidad de conservación",
+        "El pensamiento lógico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Durante el período de operaciones concretas, el niño supera el egocentrismo característico del periodo preoperacional, desarrollando la capacidad de considerar perspectivas ajenas."
+    },
+    {
+      "question": "Según el texto, ¿qué autor define el desarrollo como 'un proceso humano que dura toda la vida'?",
+      "options": [
+        "Pinillos (1991)",
+        "Álvarez (2020)",
+        "Swith y Cowie (1991)",
+        "Baltes (1980)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Álvarez (2020) define el desarrollo humano como 'un proceso humano que dura toda la vida'."
+    },
+    {
+      "question": "¿Qué se refiere a los cambios físicos del organismo según Pinillos (1991)?",
+      "options": [
+        "Maduración",
+        "Aprendizaje",
+        "Crecimiento",
+        "Desarrollo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El crecimiento se refiere a los cambios físicos del organismo, mientras que la maduración se refiere a cambios biológicos internos y el aprendizaje potencia las habilidades."
+    },
+    {
+      "question": "¿Qué se refiere a los cambios biológicos internos que posibilitan la aparición de nuevas habilidades?",
+      "options": [
+        "Crecimiento",
+        "Maduración",
+        "Aprendizaje",
+        "Desarrollo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La maduración se refiere a los cambios biológicos internos que posibilitan la aparición de nuevas habilidades emocionales, intelectuales o físicas."
+    },
+    {
+      "question": "Según Pinillo (2002), ¿qué característica del desarrollo indica que los cambios no son aislados sino que dependen unos de otros?",
+      "options": [
+        "Proceso direccional",
+        "Proceso integrativo",
+        "Proceso individual",
+        "Diversificación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El desarrollo es un proceso integrativo, en el que los cambios no son aislados, sino que dependen unos de otros."
+    },
+    {
+      "question": "¿Cuál de estos NO es un factor externo o ambiental que interviene en el desarrollo evolutivo?",
+      "options": [
+        "Nutrición y alimentación",
+        "Hábitos sociales",
+        "Carga hereditaria",
+        "Familia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La carga hereditaria es un factor interno o hereditario, no externo. Los factores externos incluyen nutrición, hábitos sociales, familia y práctica."
+    },
+    {
+      "question": "¿Qué debate del desarrollo considera si el niño es agente activo o receptor pasivo?",
+      "options": [
+        "Debate Herencia-Ambiente",
+        "Debate Actividad-Pasividad",
+        "Debate Continuidad-Discontinuidad",
+        "Debate Estabilidad-Inestabilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El debate Actividad-Pasividad considera al niño como agente activo de su desarrollo o como receptor pasivo al que le afectan solo factores internos."
+    },
+    {
+      "question": "¿Qué debate analiza si el desarrollo es un continuo de cambios graduales o una serie de cambios segmentados?",
+      "options": [
+        "Debate Herencia-Ambiente",
+        "Debate Actividad-Pasividad",
+        "Debate Continuidad-Discontinuidad",
+        "Debate Estabilidad-Inestabilidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El debate Continuidad-Discontinuidad observa el desarrollo como un continuo de cambios graduales o como una serie de cambios segmentados y distintos."
+    },
+    {
+      "question": "¿Qué autor sostiene que los seres humanos nacemos con una capacidad innata para adquirir el lenguaje?",
+      "options": [
+        "Piaget",
+        "Vygotsky",
+        "Chomsky",
+        "Erikson"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chomsky sostiene que los seres humanos nacemos con una capacidad innata para adquirir el lenguaje, dentro de la teoría Innatista-genetista."
+    },
+    {
+      "question": "¿Cuántas etapas psicosociales plantea la teoría de Erikson?",
+      "options": [
+        "6 etapas",
+        "7 etapas",
+        "8 etapas",
+        "10 etapas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Erikson plantea ocho etapas psicosociales, que van desde la infancia hasta la vejez, donde la persona entra en una crisis o conflicto que debe resolver."
+    },
+    {
+      "question": "En la teoría de Erikson, ¿qué crisis debe resolver el alumnado de Educación Primaria?",
+      "options": [
+        "Autonomía vs Vergüenza",
+        "Iniciativa vs Culpa",
+        "Laboriosidad vs Inferioridad",
+        "Identidad vs Confusión de roles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la etapa de Laboriosidad vs Inferioridad, el niño de EP busca demostrar su competencia y valía en la escuela, pudiendo enfrentarse a fracasos o críticas."
+    },
+    {
+      "question": "Según Freud, ¿qué instancia mental está guiada por los deseos?",
+      "options": [
+        "Ello",
+        "Yo",
+        "Superyó",
+        "Ego"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Ello es la instancia mental guiada por los deseos, mientras que el Yo es la parte racional y el Superyó internaliza las normas sociales."
+    },
+    {
+      "question": "¿Qué autor propuso un modelo ecológico del desarrollo que explica cómo diferentes niveles del entorno afectan al desarrollo?",
+      "options": [
+        "Vygotsky",
+        "Bronfenbrenner",
+        "Piaget",
+        "Erikson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Urie Bronfenbrenner propuso un modelo ecológico que explica cómo diferentes niveles del entorno (escuela, familia, comunidad y cultura) afectan al desarrollo."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una etapa del desarrollo cognitivo de Piaget?",
+      "options": [
+        "Período sensoriomotor",
+        "Período preoperacional",
+        "Período de laboriosidad",
+        "Período de operaciones formales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El período de laboriosidad pertenece a la teoría de Erikson, no a Piaget. Las etapas de Piaget son: sensoriomotor, preoperacional, operaciones concretas y operaciones formales."
+    },
+    {
+      "question": "¿A qué edades corresponde el período preoperacional de Piaget?",
+      "options": [
+        "0 a 2 años",
+        "2 a 7 años",
+        "7 a 11 años",
+        "11 años en adelante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El período preoperacional abarca de los 2 a los 7 años, siendo la etapa del pensamiento, del juego simbólico y el desarrollo del lenguaje."
+    },
+    {
+      "question": "¿Qué operación lógica se refiere a la ordenación de elementos según criterios cuantificables?",
+      "options": [
+        "Clasificación",
+        "Conservación",
+        "Seriación",
+        "Reversibilidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La seriación es la ordenación de elementos según criterios cuantificables, una de las operaciones lógicas del período de operaciones concretas."
+    },
+    {
+      "question": "Según Piaget, ¿qué se alcanza tras dominar la clasificación, conservación y seriación?",
+      "options": [
+        "Pensamiento abstracto",
+        "Concepto de número",
+        "Reversibilidad",
+        "Operaciones infralógicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El concepto de número se alcanza tras dominar las tres nociones previas: clasificación, conservación y seriación."
+    },
+    {
+      "question": "En el primer ciclo de EP (6 a 8 años), ¿qué tipo de pensamiento predomina?",
+      "options": [
+        "Pensamiento abstracto",
+        "Pensamiento intuitivo y concreto",
+        "Pensamiento formal",
+        "Pensamiento hipotético-deductivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo (6 a 8 años) el pensamiento es intuitivo, concreto y los niños perciben los objetos y la realidad globalmente."
+    },
+    {
+      "question": "En el segundo ciclo de EP (8 a 10 años), ¿qué permite retener más información?",
+      "options": [
+        "La atención",
+        "La percepción",
+        "La memoria",
+        "La motivación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el segundo ciclo, la memoria permite retener más información, por lo que es conveniente el uso de situaciones de experimentación y manipulación."
+    },
+    {
+      "question": "En el tercer ciclo de EP (10 a 12 años), ¿qué característica desaparece completamente?",
+      "options": [
+        "El pensamiento concreto",
+        "La capacidad de reversibilidad",
+        "El animismo y el egocentrismo",
+        "El pensamiento lógico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el tercer ciclo (10 a 12 años) desaparece el animismo y el egocentrismo, y el pensamiento se vuelve más sistemático, ordenado y flexible."
+    },
+    {
+      "question": "¿Qué autor destacó la importancia de promover un aprendizaje que implique movimiento físico?",
+      "options": [
+        "Piaget",
+        "Vygotsky",
+        "Paul Osterrieth (1974)",
+        "Erikson"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Paul Osterrieth (1974) destacó la importancia de promover un aprendizaje que implique movimiento físico y favorezca el desarrollo motor."
+    },
+    {
+      "question": "¿Qué ley establece que el dominio motor progresa desde la cabeza hasta los pies?",
+      "options": [
+        "Ley Próximo-Distal",
+        "Ley Cefalocaudal",
+        "Ley de la maduración",
+        "Ley del desarrollo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ley Cefalocaudal establece que el dominio motor progresa desde la cabeza hasta los pies."
+    },
+    {
+      "question": "¿Qué elemento del esquema corporal controla el equilibrio, la posición y la postura?",
+      "options": [
+        "Coordinación",
+        "Lateralidad",
+        "Tono muscular y relajación",
+        "Control respiratorio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tono muscular y la relajación controlan el equilibrio, la posición y la postura del cuerpo."
+    },
+    {
+      "question": "¿Qué elemento del esquema corporal favorece la relajación, la atención y el control emocional?",
+      "options": [
+        "Tono muscular",
+        "Control respiratorio",
+        "Postura y equilibrio",
+        "Coordinación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El control respiratorio favorece la relajación, la atención y el control emocional."
+    },
+    {
+      "question": "¿Qué elemento del esquema corporal facilita la ejecución de acciones que implican varios grupos musculares u órganos?",
+      "options": [
+        "Lateralidad",
+        "Tono muscular",
+        "Coordinación",
+        "Equilibrio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La coordinación facilita la ejecución de acciones que implican varios grupos musculares u órganos."
+    },
+    {
+      "question": "En el primer ciclo de EP (6 a 8 años), ¿qué aspecto motor se reafirma?",
+      "options": [
+        "La psicomotricidad gruesa",
+        "La lateralidad",
+        "El equilibrio",
+        "La coordinación fina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo (6 a 8 años) se reafirma la lateralidad y se organiza y estructura el espacio y el tiempo."
+    },
+    {
+      "question": "En el segundo ciclo de EP (8 a 10 años), ¿qué permite realizar lanzamientos o saltos de precisión?",
+      "options": [
+        "Mayor fuerza muscular",
+        "Mayor equilibrio",
+        "Mayor velocidad",
+        "Mayor flexibilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo se alcanza un mayor equilibrio que permite realizar lanzamientos o saltos de precisión."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 considera la educación emocional como un principio pedagógico?",
+      "options": [
+        "Artículo 4",
+        "Artículo 16",
+        "Artículo 17",
+        "Artículo 19"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16 del Decreto 155/2022 establece como principio pedagógico que la acción educativa debe atender al desarrollo emocional."
+    },
+    {
+      "question": "¿Qué proceso del desarrollo afectivo y social implica la adquisición de conocimientos y normas para integrarse en el entorno?",
+      "options": [
+        "Procesos afectivos",
+        "Procesos conductuales",
+        "Procesos mentales",
+        "Procesos sociales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los procesos mentales implican la adquisición de los conocimientos y normas para poder integrarse en el entorno."
+    },
+    {
+      "question": "¿Qué proceso del desarrollo afectivo y social está relacionado con la formación de vínculos con las personas del entorno?",
+      "options": [
+        "Procesos mentales",
+        "Procesos afectivos",
+        "Procesos conductuales",
+        "Procesos cognitivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los procesos afectivos están relacionados con la formación de vínculos con las personas del entorno."
+    },
+    {
+      "question": "¿Qué proceso del desarrollo afectivo y social se refiere a la adquisición de comportamientos socialmente aceptados?",
+      "options": [
+        "Procesos mentales",
+        "Procesos afectivos",
+        "Procesos conductuales",
+        "Procesos emocionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los procesos conductuales se refieren a la adquisición de los comportamientos socialmente aceptados."
+    },
+    {
+      "question": "En el primer ciclo de EP, ¿qué figuras comienzan a cobrar más relevancia sobre la familia?",
+      "options": [
+        "Los maestros",
+        "Los compañeros",
+        "Los hermanos mayores",
+        "Los orientadores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo de EP los compañeros comienzan a cobrar más relevancia sobre la familia o los maestros."
+    },
+    {
+      "question": "En el segundo ciclo de EP, ¿qué se convierte en figuras de apego?",
+      "options": [
+        "Los maestros",
+        "La familia",
+        "Los iguales",
+        "Los tutores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el segundo ciclo los iguales se convierten en figuras de apego y aumenta la capacidad para trabajar en equipo."
+    },
+    {
+      "question": "En el segundo ciclo de EP, ¿qué valoran especialmente los niños?",
+      "options": [
+        "La competitividad",
+        "La autonomía",
+        "La justicia",
+        "El esfuerzo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el segundo ciclo, los niños valoran la justicia que prevalece sobre la mentira o las trampas."
+    },
+    {
+      "question": "En el tercer ciclo de EP, ¿qué tipo de intereses aparecen?",
+      "options": [
+        "Intereses deportivos",
+        "Intereses sexuales",
+        "Intereses artísticos",
+        "Intereses académicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el tercer ciclo, comienzan los cambios relacionados con la pubertad y aparecen intereses sexuales y una mayor necesidad de autonomía."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 indica que la acción educativa debe procurar la integración de las experiencias del alumnado?",
+      "options": [
+        "Artículo 4",
+        "Artículo 5",
+        "Artículo 6",
+        "Artículo 16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 5 del Decreto 155/2022 indica que la acción educativa debe procurar la integración de las distintas experiencias y aprendizajes del alumnado desde una perspectiva global."
+    },
+    {
+      "question": "Según el artículo 9 del Decreto 155/2022, ¿cuál NO es una de las áreas de Educación Primaria?",
+      "options": [
+        "Ciencias de la Naturaleza",
+        "Valores Sociales y Cívicos",
+        "Educación Física",
+        "Proyecto Competencial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las áreas incluyen Ciencias de la Naturaleza y Sociales, Matemáticas, Lenguas, Educación Artística, Educación Física, Proyecto Competencial y en 6º Valores Cívicos y Éticos. Valores Sociales y Cívicos no está en EP."
+    },
+    {
+      "question": "¿Qué debe conocer el docente mediante una evaluación inicial según el texto?",
+      "options": [
+        "Las motivaciones del alumnado",
+        "El nivel de conocimientos del alumnado",
+        "Las relaciones familiares",
+        "Los intereses personales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es esencial que el docente conozca el nivel de conocimientos del alumnado mediante una evaluación inicial para determinar en qué estadio cognitivo se encuentra."
+    },
+    {
+      "question": "¿Qué proporciona el DUA (Diseño Universal para el Aprendizaje) para facilitar el acceso al currículo?",
+      "options": [
+        "Un único método de enseñanza efectivo",
+        "Múltiples medios de representación, de acción y de expresión",
+        "Evaluación estandarizada para todos",
+        "Contenidos simplificados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El DUA facilita el acceso al currículo proporcionando múltiples medios de representación, de acción y de expresión para atender a la diversidad."
+    },
+    {
+      "question": "¿Qué herramienta útil menciona el texto para potenciar la Competencia Digital?",
+      "options": [
+        "Los libros de texto digitales",
+        "Las pizarras digitales",
+        "Las Tecnologías de la Información y la Comunicación (TIC)",
+        "Las tablets educativas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las TIC son una herramienta útil que permite aprender, comprender o crear fomentando la Competencia Digital."
+    },
+    {
+      "question": "¿Qué concepto de Vygotsky permite desarrollar prácticas educativas apoyadas en adultos e iguales?",
+      "options": [
+        "Aprendizaje significativo",
+        "Zona de Desarrollo Próximo (ZDP)",
+        "Andamiaje",
+        "Construcción social del conocimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Zona de Desarrollo Próximo de Vygotsky permite desarrollar prácticas educativas en las que los nuevos aprendizajes se apoyen en la intervención con adultos y con los iguales."
+    },
+    {
+      "question": "Según el texto, ¿qué debe enseñar el maestro para el desarrollo cognitivo?",
+      "options": [
+        "Contenidos específicos de cada área",
+        "A pensar y a conocerse",
+        "Técnicas de memorización",
+        "Resolución de problemas matemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para el desarrollo cognitivo es esencial que el maestro enseñe a pensar y a conocerse, convirtiendo el aula en un espacio de experiencias metacognitivas."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del desarrollo motor según el texto?",
+      "options": [
+        "Mejorar la fuerza física",
+        "Lograr el control del propio cuerpo",
+        "Aumentar la velocidad de movimientos",
+        "Desarrollar habilidades deportivas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo principal del desarrollo motor es lograr el control del propio cuerpo para realizar todas las posibilidades de acción y expresión."
+    },
+    {
+      "question": "¿Qué deben crear los maestros para fomentar el desarrollo motor?",
+      "options": [
+        "Clases de educación física diarias",
+        "Situaciones de aprendizaje basadas en el juego y la actividad física",
+        "Ejercicios de memorización motriz",
+        "Rutinas de entrenamiento deportivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los maestros deben crear situaciones de aprendizaje basadas en el juego y en la actividad física que fomenten las habilidades motoras y la conciencia corporal."
+    },
+    {
+      "question": "Según el texto, ¿qué es la base del desarrollo integral del niño?",
+      "options": [
+        "El rendimiento académico",
+        "La autoestima",
+        "Las habilidades sociales",
+        "El conocimiento de contenidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La autoestima es la base del desarrollo integral, influyendo en el bienestar emocional, rendimiento académico, convivencia escolar y motivación."
+    },
+    {
+      "question": "¿Qué efecto describe cómo las expectativas del docente pueden influir en el rendimiento del alumnado?",
+      "options": [
+        "Efecto halo",
+        "Efecto Hawthorne",
+        "Efecto Pigmalión",
+        "Efecto placebo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El efecto Pigmalión describe cómo las expectativas que una persona tiene sobre otra pueden influir en su rendimiento y comportamiento."
+    },
+    {
+      "question": "Según el efecto Pigmalión, ¿qué debe hacer el docente?",
+      "options": [
+        "Establecer expectativas muy altas para todos",
+        "Potenciar la confianza en las propias capacidades del alumnado",
+        "Comparar constantemente el rendimiento del alumnado",
+        "Centrarse en los errores para corregirlos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La función del docente es potenciar la confianza de los discentes en sus propias capacidades, estableciendo expectativas realistas y utilizando feedback positivo."
+    },
+    {
+      "question": "¿Qué Real Decreto establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal?",
+      "options": [
+        "Real Decreto 126/2014",
+        "Real Decreto 157/2022",
+        "Real Decreto 155/2022",
+        "Real Decreto 374/1996"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal."
+    },
+    {
+      "question": "¿Qué Decreto establece la ordenación y el currículo de la Educación Primaria en Galicia?",
+      "options": [
+        "Decreto 155/2022",
+        "Decreto 157/2022",
+        "Decreto 374/1996",
+        "Decreto 229/2011"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "Según Álvarez (2020), ¿por qué es fundamental conocer las características evolutivas del alumnado?",
+      "options": [
+        "Para diseñar exámenes adecuados",
+        "Para diseñar procesos de enseñanza-aprendizaje acordes a su desarrollo madurativo",
+        "Para clasificar al alumnado por niveles",
+        "Para establecer grupos homogéneos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conocer las características evolutivas del alumnado es fundamental para diseñar procesos de enseñanza-aprendizaje acordes a su desarrollo madurativo y favorecer un aprendizaje significativo."
+    },
+    {
+      "question": "¿En qué ámbitos influye el desarrollo evolutivo del ser humano según Pinillo (2002)?",
+      "options": [
+        "Motor, cognitivo y emocional",
+        "Motor, cognitivo, social y afectivo",
+        "Físico, mental y social",
+        "Biológico, psicológico y social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El desarrollo evolutivo influye en cuatro ámbitos del ser humano: motor, cognitivo, social y afectivo."
+    },
+    {
+      "question": "¿Qué característica del desarrollo indica que cada persona posee características únicas y un ritmo propio?",
+      "options": [
+        "Proceso integrativo",
+        "Proceso direccional",
+        "Proceso individual",
+        "Diversificación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El desarrollo es individual, ya que cada uno posee unas características únicas y un ritmo propio de desarrollo, lo que crea diferencias entre los individuos."
+    },
+    {
+      "question": "¿Qué factores incluyen la nutrición, los hábitos sociales y la familia?",
+      "options": [
+        "Factores internos",
+        "Factores hereditarios",
+        "Factores externos o ambientales",
+        "Factores biológicos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los factores externos o ambientales incluyen la nutrición, los hábitos sociales, la familia y la práctica o entrenamiento de habilidades."
+    },
+    {
+      "question": "¿Qué factores incluyen la carga hereditaria y la maduración del sistema nervioso?",
+      "options": [
+        "Factores externos",
+        "Factores ambientales",
+        "Factores internos o hereditarios",
+        "Factores sociales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los factores internos o hereditarios incluyen la carga hereditaria, la maduración del sistema nervioso, las capacidades físicas innatas y las necesidades psicológicas."
+    },
+    {
+      "question": "Según Bascuñan (2004), ¿cuántos debates principales identifican las diferencias en el desarrollo?",
+      "options": [
+        "3 debates",
+        "4 debates",
+        "5 debates",
+        "6 debates"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bascuñan (2004) identifica 5 debates principales: Herencia-Ambiente, Actividad-Pasividad, Continuidad-Discontinuidad, Estabilidad-Inestabilidad y las metas del desarrollo."
+    },
+    {
+      "question": "¿Qué teoría sostiene que el desarrollo es un proceso influido por factores sociales y culturales?",
+      "options": [
+        "Teoría innatista-genetista",
+        "Teoría psicoanalítica",
+        "Teoría psicosocial",
+        "Teoría conductista"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La teoría psicosocial de Erikson considera el desarrollo como un proceso que dura toda la vida influido por factores sociales y culturales."
+    },
+    {
+      "question": "¿Qué sistema educativo promueve una perspectiva constructivista del aprendizaje?",
+      "options": [
+        "El sistema educativo tradicional",
+        "El sistema educativo conductista",
+        "El sistema educativo actual en España",
+        "El sistema educativo memorístico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nuestro sistema educativo actual promueve una perspectiva constructivista en la que el alumnado es visto como protagonista de su aprendizaje."
+    },
+    {
+      "question": "¿Qué proceso describe Piaget como la integración del nuevo conocimiento a los existentes?",
+      "options": [
+        "Acomodación",
+        "Asimilación",
+        "Equilibración",
+        "Adaptación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La asimilación es el proceso por el cual el individuo integra el nuevo conocimiento a los esquemas existentes."
+    },
+    {
+      "question": "¿Qué proceso describe Piaget como la modificación de esquemas para integrar el nuevo conocimiento?",
+      "options": [
+        "Asimilación",
+        "Acomodación",
+        "Equilibración",
+        "Integración"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La acomodación es el proceso por el cual el individuo modifica sus esquemas existentes para integrar el nuevo conocimiento."
+    },
+    {
+      "question": "¿A qué edad comienza el período de operaciones formales según Piaget?",
+      "options": [
+        "9 años",
+        "10 años",
+        "11 años",
+        "12 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El período de operaciones formales comienza a los 11 años en adelante y se caracteriza por el pensamiento abstracto."
+    },
+    {
+      "question": "¿Qué caracteriza el período de operaciones formales?",
+      "options": [
+        "Pensamiento concreto",
+        "Pensamiento intuitivo",
+        "Pensamiento abstracto",
+        "Pensamiento egocéntrico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El período de operaciones formales se caracteriza por el pensamiento abstracto, lógico e hipotético-deductivo."
+    },
+    {
+      "question": "Durante el período de operaciones concretas, ¿qué interiorizan los niños?",
+      "options": [
+        "Valores morales",
+        "Símbolos, signos y códigos",
+        "Normas sociales",
+        "Emociones complejas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Durante el período de operaciones concretas, los niños interiorizan símbolos, signos y códigos que permiten el desarrollo del lenguaje, la lectoescritura y el aprendizaje de las matemáticas."
+    },
+    {
+      "question": "¿Qué capacidad adquieren los niños que les permite comprender que las propiedades no cambian con la apariencia?",
+      "options": [
+        "Reversibilidad",
+        "Conservación",
+        "Seriación",
+        "Clasificación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La capacidad de conservación permite comprender que ciertas propiedades de los objetos permanecen constantes a pesar de los cambios en su forma o apariencia."
+    },
+    {
+      "question": "¿Qué capacidad permite al niño revertir mentalmente una acción?",
+      "options": [
+        "Conservación",
+        "Reversibilidad",
+        "Clasificación",
+        "Seriación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El pensamiento reversible permite al niño revertir mentalmente una acción o proceso, una característica clave del período de operaciones concretas."
+    },
+    {
+      "question": "¿Qué permite establecer relaciones jerárquicas atendiendo a más de una cualidad?",
+      "options": [
+        "Conservación",
+        "Seriación",
+        "Clasificación",
+        "Reversibilidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La clasificación permite establecer relaciones jerárquicas para clasificar atendiendo a más de una cualidad."
+    },
+    {
+      "question": "¿Qué facilita la comprensión de nociones de cantidad, peso, masa o tiempo?",
+      "options": [
+        "La memoria",
+        "La atención",
+        "La capacidad de análisis",
+        "La percepción"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La capacidad de análisis facilita la comprensión de nociones de cantidad, peso, masa o tiempo durante el período de operaciones concretas."
+    },
+    {
+      "question": "En el primer ciclo de EP, ¿existe la capacidad de reversibilidad?",
+      "options": [
+        "Sí, está completamente desarrollada",
+        "Sí, pero de forma limitada",
+        "No existe la reversibilidad",
+        "Depende de cada niño"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el primer ciclo (6 a 8 años) no existe la reversibilidad todavía. Esta capacidad aparece en el segundo ciclo."
+    },
+    {
+      "question": "En el segundo ciclo de EP, ¿qué tipo de aprendizajes se desarrollan con mayor soltura?",
+      "options": [
+        "Aprendizajes memorísticos",
+        "Aprendizajes más abstractos",
+        "Aprendizajes motores",
+        "Aprendizajes emocionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo se avanza hacia aprendizajes más abstractos manejando con mayor soltura los símbolos y alcanzando procesos de análisis-síntesis."
+    },
+    {
+      "question": "En el tercer ciclo de EP, ¿qué permite generalizar los aprendizajes adquiridos?",
+      "options": [
+        "La memoria",
+        "La capacidad de manejar conceptos sin relacionarlos directamente con la experiencia",
+        "La atención",
+        "La motivación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el tercer ciclo se avanza hacia el manejo de conceptos sin necesidad de relacionarlos directamente con la experiencia, lo que permite generalizar los aprendizajes adquiridos."
+    },
+    {
+      "question": "¿Cuándo se inicia la construcción del esquema corporal en EP?",
+      "options": [
+        "Antes de los 6 años",
+        "En el primer ciclo (6 a 8 años)",
+        "En el segundo ciclo (8 a 10 años)",
+        "En el tercer ciclo (10 a 12 años)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo (6 a 8 años) se inicia la construcción del esquema corporal con la creación de una imagen corporal propia."
+    },
+    {
+      "question": "¿Cuándo debe trabajarse y consolidarse la lateralidad?",
+      "options": [
+        "En Educación Infantil",
+        "Desde los primeros cursos de EP",
+        "En el tercer ciclo de EP",
+        "En Educación Secundaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La lateralidad debe trabajarse y consolidarse desde los primeros cursos de la Educación Primaria."
+    },
+    {
+      "question": "¿Qué se perfecciona en el primer ciclo de EP a nivel motor?",
+      "options": [
+        "La fuerza muscular",
+        "La psicomotricidad gruesa y la fina",
+        "La velocidad de reacción",
+        "La resistencia física"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo se perfeccionan la psicomotricidad gruesa y la fina, además de reafirmarse la lateralidad."
+    },
+    {
+      "question": "En el segundo ciclo de EP, ¿qué influye en el crecimiento físico?",
+      "options": [
+        "Solo factores genéticos",
+        "Factores genéticos, nivel de ejercicio y alimentación",
+        "Solo el nivel de ejercicio",
+        "Solo la alimentación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo continúa el crecimiento físico influido por factores genéticos u otros como el nivel de ejercicio o la alimentación."
+    },
+    {
+      "question": "¿Qué cambios marcan primero el tercer ciclo de EP?",
+      "options": [
+        "Cambios hormonales primero en los niños",
+        "Cambios hormonales primero en las niñas",
+        "Cambios iguales en niños y niñas",
+        "Cambios solo cognitivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tercer ciclo está marcado por cambios hormonales, primero en las niñas y después en los niños."
+    },
+    {
+      "question": "En el tercer ciclo de EP, ¿en qué debe poner el foco el maestro?",
+      "options": [
+        "En el rendimiento académico",
+        "En la disciplina",
+        "En aumentar y reforzar la autoestima",
+        "En la competitividad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es crucial que el maestro ponga el foco en aumentar y reforzar la autoestima, ya que pueden aparecer problemas de inseguridad o falta de aceptación."
+    },
+    {
+      "question": "¿Qué implica el desarrollo emocional según el texto?",
+      "options": [
+        "Solo la expresión de emociones",
+        "La comprensión emocional con procesos cognitivos y experienciales",
+        "Solo el control de emociones",
+        "La identificación de emociones básicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El desarrollo emocional comienza con la comprensión emocional, marcada por procesos cognitivos (toma de conciencia) y experienciales (vivir las emociones en contexto social)."
+    },
+    {
+      "question": "En el primer ciclo de EP, ¿qué característica presenta el egocentrismo?",
+      "options": [
+        "Ha desaparecido completamente",
+        "Sigue presente",
+        "Aparece por primera vez",
+        "No es relevante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo de EP comienzan a consolidarse las relaciones interpersonales y el egocentrismo sigue presente."
+    },
+    {
+      "question": "En el segundo ciclo de EP, ¿qué característica social surge?",
+      "options": [
+        "Mayor dependencia de los padres",
+        "Cierta competitividad",
+        "Aislamiento social",
+        "Rechazo al trabajo en grupo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo aumenta la capacidad para trabajar en equipo aunque surge cierta competitividad."
+    },
+    {
+      "question": "En el segundo ciclo de EP, ¿por qué son más sensibles a las críticas?",
+      "options": [
+        "Por cambios hormonales",
+        "Por el desarrollo cognitivo",
+        "Por características de la edad",
+        "Por presión académica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A estas edades del segundo ciclo, son más sensibles a las críticas, por lo que resulta esencial trabajarlo en el aula con feedback positivo."
+    },
+    {
+      "question": "En el tercer ciclo de EP, ¿cómo comienzan a juzgar a familias y maestros?",
+      "options": [
+        "Con admiración",
+        "Con indiferencia",
+        "Críticamente",
+        "Con dependencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el tercer ciclo, familias y maestros comienzan a ser juzgados críticamente por el alumnado."
+    },
+    {
+      "question": "¿Qué permite al docente adaptar su didáctica según el texto?",
+      "options": [
+        "La experiencia profesional",
+        "Conocer los aspectos cognitivos, motrices, emocionales, afectivos y sociales",
+        "Los recursos disponibles",
+        "El tamaño del grupo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conocer todos los aspectos cognitivos, motrices, emocionales, afectivos y sociales de la evolución permite al docente adaptar su didáctica y detectar dificultades tempranamente."
+    },
+    {
+      "question": "¿Qué busca garantizar la personalización del aprendizaje?",
+      "options": [
+        "Contenidos uniformes para todos",
+        "La participación y aprendizaje de todos",
+        "Mayor rendimiento académico",
+        "Menos trabajo para el docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La personalización del aprendizaje dentro de un modelo de escuela inclusiva busca garantizar la participación y aprendizaje de todos."
+    },
+    {
+      "question": "¿Qué tipo de evaluación debe ser para considerar las diferencias evolutivas?",
+      "options": [
+        "Solo sumativa",
+        "Solo formativa",
+        "Auténtica y diversa",
+        "Estandarizada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La evaluación debe ser auténtica y diversa incorporando diferentes tipos como autoevaluación, coevaluación, heteroevaluación, formativa, global o diagnóstica."
+    },
+    {
+      "question": "¿Qué teoría propuso Howard Gardner como base para diseñar actividades diversas?",
+      "options": [
+        "Teoría del desarrollo cognitivo",
+        "Teoría de las inteligencias múltiples",
+        "Teoría del aprendizaje significativo",
+        "Teoría sociocultural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Howard Gardner propuso la teoría de las inteligencias múltiples como base para diseñar actividades diversas que atiendan a los diferentes tipos de inteligencia."
+    },
+    {
+      "question": "¿Qué debe actuar el docente en el proceso de aprendizaje constructivista?",
+      "options": [
+        "Como transmisor de conocimientos",
+        "Como evaluador",
+        "Como mediador",
+        "Como supervisor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El docente debe actuar como mediador, creando situaciones en las que la adquisición de nuevas experiencias se sustente en hábitos de esfuerzo y responsabilidad."
+    },
+    {
+      "question": "¿Qué debe convertirse el aula según la psicología evolutiva?",
+      "options": [
+        "Un espacio de transmisión de contenidos",
+        "Un espacio de experiencias metacognitivas y reflexiones conscientes",
+        "Un lugar de evaluación continua",
+        "Un espacio de memorización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aula debe convertirse en un espacio de experiencias metacognitivas y reflexiones conscientes que permita al alumnado gestionar y regular sus propios conocimientos."
+    },
+    {
+      "question": "¿Qué no maduran al mismo tiempo según el texto?",
+      "options": [
+        "Los conocimientos",
+        "Los niños",
+        "Las habilidades cognitivas",
+        "Las competencias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El docente debe conocer que los niños no maduran al mismo tiempo, ya que influyen factores como la genética, el sexo, la alimentación o el nivel de actividad."
+    },
+    {
+      "question": "¿Qué debe favorecer el desarrollo motor?",
+      "options": [
+        "Solo habilidades deportivas",
+        "La toma de conciencia de las propias capacidades motrices",
+        "La competición física",
+        "El rendimiento atlético"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El desarrollo motor debe favorecer la toma de conciencia de las propias capacidades motrices, aumentando la autonomía y la seguridad para moverse por el espacio."
+    },
+    {
+      "question": "¿Dónde establece el niño relaciones significativas con sus iguales?",
+      "options": [
+        "En la familia",
+        "En la escuela",
+        "En el barrio",
+        "En actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La escuela es el lugar socializador por excelencia donde el niño establece relaciones significativas con sus iguales y los maestros."
+    },
+    {
+      "question": "Durante la EP, ¿qué se va construyendo que influye en el bienestar emocional?",
+      "options": [
+        "Conocimientos académicos",
+        "Identidad, autoconcepto y autoestima",
+        "Habilidades sociales",
+        "Competencias digitales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Durante la EP se va construyendo la identidad, autoconcepto y autoestima, aspectos que influyen directamente en el bienestar emocional y rendimiento académico."
+    },
+    {
+      "question": "¿Cómo debe mostrar el docente el error?",
+      "options": [
+        "Como algo que debe evitarse",
+        "Como una falta grave",
+        "Como una oportunidad de aprendizaje",
+        "Como una debilidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El maestro debe mostrar el error como una oportunidad de aprendizaje y no como una sanción, utilizando feedback positivo."
+    },
+    {
+      "question": "¿Qué deben establecer los docentes según las expectativas del efecto Pigmalión?",
+      "options": [
+        "Expectativas muy bajas",
+        "Expectativas muy altas",
+        "Expectativas realistas",
+        "Expectativas variables"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los docentes deben establecer expectativas realistas, utilizando feedback positivo para potenciar la confianza en las capacidades del alumnado."
+    },
+    {
+      "question": "¿Qué debe ayudar el maestro a desarrollar en los estudiantes?",
+      "options": [
+        "Solo conocimientos",
+        "Conciencia de sus posibilidades y limitaciones",
+        "Solo habilidades técnicas",
+        "Solo competencias académicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El maestro debe ayudar a los estudiantes a tomar conciencia de sus posibilidades y limitaciones, manejando el estrés y otros problemas emocionales."
+    },
+    {
+      "question": "¿Qué permite al alumnado gestionar su propio conocimiento?",
+      "options": [
+        "Las TIC",
+        "El DUA",
+        "Las experiencias metacognitivas",
+        "Los trabajos en grupo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las experiencias metacognitivas y reflexiones conscientes permiten al alumnado gestionar y regular sus propios conocimientos."
+    },
+    {
+      "question": "¿Qué debe promover la acción educativa según el artículo 16 del Decreto 155/2022?",
+      "options": [
+        "Solo el aprendizaje académico",
+        "La competitividad",
+        "El desarrollo emocional",
+        "La memorización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 16 del Decreto 155/2022 establece como principio pedagógico que la acción educativa debe atender al desarrollo emocional del alumnado."
+    },
+    {
+      "question": "¿Cuál es el objetivo último de conocer el desarrollo evolutivo según el texto?",
+      "options": [
+        "Clasificar al alumnado por niveles",
+        "Promover una adecuada prevención educativa que favorezca el desarrollo integral",
+        "Facilitar la evaluación del rendimiento",
+        "Organizar grupos homogéneos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo último es promover una adecuada prevención educativa que favorezca el desarrollo integral de los individuos, respaldado por la legislación vigente."
+    },
+    {
+      "question": "¿Qué Ley Orgánica modifica la LOE y establece el marco actual de educación?",
+      "options": [
+        "Ley Orgánica 2/2006 (LOE)",
+        "Ley Orgánica 8/2013 (LOMCE)",
+        "Ley Orgánica 3/2020 (LOMLOE)",
+        "Ley Orgánica 1/1990 (LOGSE)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE), por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece el marco actual."
+    },
+    {
+      "question": "¿Qué debe garantizar la formación en Educación Primaria según el artículo 4 del Decreto 155/2022?",
+      "options": [
+        "El dominio de contenidos académicos",
+        "Una formación integral que contribuya al pleno desarrollo de la personalidad",
+        "La preparación para el mundo laboral",
+        "El desarrollo de habilidades técnicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4 establece que la EP debe facilitar aprendizajes para garantizar una formación integral que contribuya al pleno desarrollo de la personalidad."
+    },
+    {
+      "question": "¿Qué contempla la intervención educativa según el artículo 16 del Decreto 155/2022?",
+      "options": [
+        "Solo el desarrollo cognitivo",
+        "El proceso madurativo individual y los niveles de desempeño esperados",
+        "Solo los contenidos curriculares",
+        "La evaluación continua"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16 establece que la intervención educativa debe considerar el proceso madurativo individual y los niveles de desempeño esperados para la etapa."
+    },
+    {
+      "question": "¿Qué entrelaza y configura el desarrollo según el texto?",
+      "options": [
+        "Solo el aprendizaje",
+        "Crecimiento, maduración y aprendizaje",
+        "Solo la maduración biológica",
+        "La genética y el ambiente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El crecimiento, la maduración y el aprendizaje se entrelazan y configuran el desarrollo, entendido como la evolución continua y dinámica del ser humano."
+    },
+    {
+      "question": "¿Qué ejemplo de desarrollo direccional menciona el texto?",
+      "options": [
+        "El desarrollo físico",
+        "El desarrollo del lenguaje desde balbuceos hasta el uso de símbolos",
+        "El desarrollo motor",
+        "El desarrollo social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto ejemplifica el desarrollo direccional con el lenguaje, que evoluciona desde balbuceos hasta el uso de un sistema de símbolos para expresar pensamientos."
+    },
+    {
+      "question": "Según Baltes (1980), ¿cuándo predominan los factores biológicos sobre los ambientales?",
+      "options": [
+        "Durante la infancia temprana",
+        "Durante la pubertad",
+        "Durante la adolescencia",
+        "Durante toda la vida por igual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Baltes (1980) señala que durante la pubertad predominan los factores biológicos frente a los ambientales."
+    },
+    {
+      "question": "¿Qué debate estudia si las características personales permanecen estables o cambian?",
+      "options": [
+        "Debate Herencia-Ambiente",
+        "Debate Continuidad-Discontinuidad",
+        "Debate Estabilidad-Inestabilidad",
+        "Debate Actividad-Pasividad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El debate Estabilidad-Inestabilidad estudia si las características personales permanecen estables por la biología o cambian debido a la influencia del ambiente."
+    },
+    {
+      "question": "¿Qué teoría NO plantea el desarrollo con un fin predeterminado según el texto?",
+      "options": [
+        "Teoría de Piaget",
+        "Teoría del Aprendizaje Significativo de Ausubel",
+        "Teoría de Erikson",
+        "Teoría de Vygotsky"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Teoría del Aprendizaje Significativo de Ausubel no plantea el desarrollo con un fin predeterminado, sino que se centra en el proceso de aprendizaje y organización del conocimiento."
+    },
+    {
+      "question": "¿Qué edad marca el límite superior del período sensoriomotor de Piaget?",
+      "options": [
+        "1 año",
+        "2 años",
+        "3 años",
+        "4 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El período sensoriomotor abarca de 0 a 2 años, donde la conducta del niño es esencialmente motora."
+    },
+    {
+      "question": "¿Qué caracteriza al período preoperacional de Piaget?",
+      "options": [
+        "Pensamiento lógico",
+        "Pensamiento, juego simbólico y desarrollo del lenguaje",
+        "Pensamiento abstracto",
+        "Conducta motora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El período preoperacional (2 a 7 años) es la etapa del pensamiento, del juego simbólico y el desarrollo del lenguaje."
+    },
+    {
+      "question": "Durante las operaciones concretas, ¿sobre qué tipo de problemas aplican los niños el pensamiento lógico?",
+      "options": [
+        "Problemas abstractos",
+        "Problemas hipotéticos",
+        "Problemas concretos y/o reales",
+        "Problemas teóricos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Durante el período de operaciones concretas, los niños aplican el pensamiento lógico y racional en problemas concretos y/o reales, no abstractos."
+    },
+    {
+      "question": "¿Qué permite al niño comprender y usar nociones de cantidad, peso, masa o tiempo?",
+      "options": [
+        "La clasificación",
+        "La seriación",
+        "La capacidad de análisis",
+        "La conservación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El niño desarrolla la capacidad de análisis, que facilita la comprensión de nociones de cantidad, peso, masa o tiempo."
+    },
+    {
+      "question": "¿A través de qué el niño construye esquemas mentales según Piaget?",
+      "options": [
+        "La memorización",
+        "La interacción con el entorno",
+        "La enseñanza directa",
+        "La observación pasiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El niño construye esquemas mentales a través de la interacción con el entorno, característica fundamental del constructivismo piagetiano."
+    },
+    {
+      "question": "¿Qué tipo de operaciones incluyen clasificación, conservación y seriación?",
+      "options": [
+        "Operaciones formales",
+        "Operaciones infralógicas",
+        "Operaciones lógicas",
+        "Operaciones concretas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las operaciones lógicas comprenden aspectos lógico-matemáticos como clasificación, conservación, seriación y concepto de número."
+    },
+    {
+      "question": "¿Qué tipo de operaciones incluyen las operaciones de medidas y espaciales?",
+      "options": [
+        "Operaciones lógicas",
+        "Operaciones formales",
+        "Operaciones infralógicas",
+        "Operaciones abstractas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las operaciones infralógicas permiten razonar sobre el espacio y tiempo e incluyen operaciones de medidas, espaciales y conceptos de tiempo y velocidad."
+    },
+    {
+      "question": "En el primer ciclo de EP, ¿cómo perciben los niños los objetos y la realidad?",
+      "options": [
+        "De forma analítica",
+        "Globalmente",
+        "Detalladamente",
+        "Abstractamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo (6 a 8 años) los niños perciben los objetos y la realidad globalmente, con pensamiento intuitivo y concreto."
+    },
+    {
+      "question": "En el primer ciclo de EP, ¿qué dificultades presentan los niños?",
+      "options": [
+        "Para trabajar en grupo",
+        "Para pensar en ausencia de objetos",
+        "Para seguir instrucciones",
+        "Para memorizar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo presentan dificultades para pensar en ausencia de objetos, necesitando la manipulación concreta."
+    },
+    {
+      "question": "En el segundo ciclo de EP, ¿qué es conveniente usar para formar nuevos esquemas mentales?",
+      "options": [
+        "Explicaciones teóricas",
+        "Situaciones de experimentación y manipulación",
+        "Ejercicios de memorización",
+        "Lectura de textos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo es conveniente el uso de situaciones de experimentación y manipulación para formar nuevos esquemas mentales y conocimientos."
+    },
+    {
+      "question": "En el tercer ciclo de EP, ¿qué características adquiere el pensamiento?",
+      "options": [
+        "Más intuitivo y concreto",
+        "Más sistemático, ordenado y flexible",
+        "Más dependiente de objetos",
+        "Más egocéntrico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el tercer ciclo el pensamiento se vuelve más sistemático, ordenado y flexible, preparándose para el pensamiento formal."
+    },
+    {
+      "question": "¿Qué afirma Paul Osterrieth sobre las habilidades físicas?",
+      "options": [
+        "Son secundarias en el aprendizaje",
+        "Son el medio para descubrir el mundo y encontrar alegría",
+        "Solo desarrollan la fuerza",
+        "Son solo para la educación física"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Osterrieth menciona que las habilidades físicas y sensaciones son el medio por el cual el niño encuentra situaciones de alegría y descubre el mundo."
+    },
+    {
+      "question": "¿Qué ley explica que el movimiento se controla desde el tronco hacia las extremidades?",
+      "options": [
+        "Ley Cefalocaudal",
+        "Ley Próximo-Distal",
+        "Ley de la maduración",
+        "Ley del desarrollo motor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ley Próximo-Distal establece que el movimiento se adquiere desde el eje central del cuerpo (tronco) hacia las extremidades."
+    },
+    {
+      "question": "¿Qué posibilitan la postura y el equilibrio?",
+      "options": [
+        "La relajación",
+        "La realización de la mayoría de movimientos",
+        "El control respiratorio",
+        "La lateralidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La postura y el equilibrio posibilitan la realización de la mayoría de movimientos del cuerpo."
+    },
+    {
+      "question": "En el primer ciclo de EP, ¿qué se organiza y estructura a nivel motor?",
+      "options": [
+        "La fuerza y la velocidad",
+        "El espacio y el tiempo",
+        "La resistencia y la flexibilidad",
+        "La coordinación compleja"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo se organiza y estructura el espacio y el tiempo como parte del desarrollo motor."
+    },
+    {
+      "question": "En el segundo ciclo de EP, ¿qué se sigue perfeccionando?",
+      "options": [
+        "Solo la psicomotricidad gruesa",
+        "Solo la psicomotricidad fina",
+        "La psicomotricidad gruesa y la fina",
+        "Solo el equilibrio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el segundo ciclo se sigue perfeccionando tanto la psicomotricidad gruesa como la fina."
+    },
+    {
+      "question": "¿Por qué el tercer ciclo de EP es un período crítico?",
+      "options": [
+        "Por la dificultad de los contenidos",
+        "Porque pueden aparecer problemas de inseguridad o falta de aceptación",
+        "Por el cambio de centro educativo",
+        "Por la evaluación final"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tercer ciclo es un período crítico ya que pueden aparecer problemas de inseguridad o falta de aceptación debido a los cambios de la pubertad."
+    },
+    {
+      "question": "¿Qué proceso es más cognitivo en el desarrollo emocional?",
+      "options": [
+        "Vivir las emociones en contexto social",
+        "Tomar conciencia de la ambivalencia emocional",
+        "Expresar emociones",
+        "Regular emociones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proceso más cognitivo permite al niño tomar conciencia de la existencia de la ambivalencia emocional."
+    },
+    {
+      "question": "¿Qué proceso es más experiencial en el desarrollo emocional?",
+      "options": [
+        "Comprender conceptos emocionales",
+        "Vivir las emociones en el contexto social",
+        "Identificar emociones en otros",
+        "Clasificar emociones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proceso más experiencial implica vivir las emociones en el contexto social y observar las de los demás."
+    },
+    {
+      "question": "¿Qué incluyen los procesos afectivos del desarrollo afectivo y social?",
+      "options": [
+        "La adquisición de normas",
+        "La formación de vínculos con personas del entorno",
+        "Los comportamientos aceptados",
+        "Los conocimientos sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los procesos afectivos están relacionados con la formación de vínculos con las personas del entorno."
+    },
+    {
+      "question": "¿Qué es el autoconcepto?",
+      "options": [
+        "La valoración de uno mismo",
+        "El conocimiento y percepción de uno mismo",
+        "La identidad sexual",
+        "La opinión de los demás"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El autoconcepto se entiende como el conocimiento y percepción de uno mismo."
+    },
+    {
+      "question": "En el primer ciclo de EP, ¿qué comienzan a asumir los niños?",
+      "options": [
+        "Responsabilidades adultas",
+        "Reglas de juego",
+        "Valores morales complejos",
+        "Decisiones autónomas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el primer ciclo comienzan a asumir reglas de juego aunque el egocentrismo sigue presente."
+    },
+    {
+      "question": "En el segundo ciclo de EP, ¿qué prevalece sobre la mentira o las trampas?",
+      "options": [
+        "La competitividad",
+        "La justicia",
+        "El compañerismo",
+        "La lealtad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo los niños valoran la justicia que prevalece sobre la mentira o las trampas."
+    },
+    {
+      "question": "¿Por qué es esencial el feedback positivo en el segundo ciclo?",
+      "options": [
+        "Para mejorar el rendimiento",
+        "Porque son más sensibles a las críticas",
+        "Para aumentar la competitividad",
+        "Para reforzar contenidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo son más sensibles a las críticas, por lo que resulta esencial trabajar con feedback positivo."
+    },
+    {
+      "question": "En el tercer ciclo de EP, ¿qué necesidad aumenta?",
+      "options": [
+        "Necesidad de supervisión",
+        "Necesidad de autonomía",
+        "Necesidad de estructura",
+        "Necesidad de dependencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el tercer ciclo aparece una mayor necesidad de autonomía junto con los cambios de la pubertad."
+    },
+    {
+      "question": "¿Para qué es fundamental conocer el desarrollo evolutivo según el artículo 4 del Decreto 155/2022?",
+      "options": [
+        "Para evaluar al alumnado",
+        "Para garantizar el desarrollo integral del alumnado",
+        "Para organizar los grupos",
+        "Para planificar horarios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conocer el desarrollo evolutivo es fundamental para conseguir el fin de la EP: garantizar el desarrollo integral de todo el alumnado."
+    },
+    {
+      "question": "¿Cómo debe adaptarse la acción educativa según el artículo 5 del Decreto 155/2022?",
+      "options": [
+        "Al nivel del grupo",
+        "A los diferentes ritmos de trabajo",
+        "Al currículo oficial",
+        "A los recursos disponibles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 5 indica que la acción educativa debe adaptarse a los diferentes ritmos de trabajo del alumnado."
+    },
+    {
+      "question": "¿En base a qué se fijan los elementos del currículo según el Decreto 155/2022?",
+      "options": [
+        "En los recursos disponibles",
+        "En lo que el alumnado puede hacer según su desarrollo evolutivo",
+        "En las demandas sociales",
+        "En tradiciones pedagógicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 fija los elementos del currículo en base a lo que el alumnado puede hacer según su edad y desarrollo evolutivo."
+    },
+    {
+      "question": "¿Qué permite planificar y desarrollar el currículo según el texto?",
+      "options": [
+        "Solo los objetivos generales",
+        "El conocimiento del desarrollo evolutivo",
+        "Los recursos tecnológicos",
+        "Las metodologías activas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El conocimiento del desarrollo evolutivo en las diferentes edades permite planificar y desarrollar el currículo en función de qué, cuándo, cómo y a quién enseñar y evaluar."
+    },
+    {
+      "question": "¿Qué debe garantizar la personalización del aprendizaje dentro del modelo de escuela inclusiva?",
+      "options": [
+        "Contenidos iguales para todos",
+        "La participación y aprendizaje de todos",
+        "Evaluaciones estandarizadas",
+        "Agrupamientos homogéneos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La personalización del aprendizaje dentro de un modelo de escuela inclusiva debe garantizar la participación y aprendizaje de todos."
+    },
+    {
+      "question": "¿Qué tiene como responsabilidad el docente conociendo el nivel del alumnado?",
+      "options": [
+        "Clasificar por capacidades",
+        "Fomentar su desarrollo y estimular nuevas competencias",
+        "Mantener grupos homogéneos",
+        "Simplificar contenidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El docente tiene como responsabilidad fomentar el desarrollo del alumnado y estimular la adquisición de nuevas competencias, adaptando su intervención."
+    },
+    {
+      "question": "¿Qué debe incorporar la evaluación para ser diversa?",
+      "options": [
+        "Solo pruebas escritas",
+        "Diferentes tipos como autoevaluación, coevaluación y heteroevaluación",
+        "Solo evaluación final",
+        "Criterios únicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser auténtica y diversa incorporando diferentes tipos como autoevaluación, coevaluación, heteroevaluación, formativa, global o diagnóstica."
+    },
+    {
+      "question": "¿Qué proporcionan las aportaciones de Vygotsky sobre la ZDP?",
+      "options": [
+        "Métodos de evaluación",
+        "Prácticas educativas apoyadas en adultos e iguales",
+        "Contenidos curriculares",
+        "Técnicas de memorización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las aportaciones de Vygotsky sobre la ZDP permiten desarrollar prácticas educativas en las que los nuevos aprendizajes se apoyen en la intervención con adultos y con los iguales."
+    },
+    {
+      "question": "¿En qué debe convertirse el niño según la psicología evolutiva?",
+      "options": [
+        "En receptor de conocimientos",
+        "En protagonista de su propio aprendizaje",
+        "En seguidor de instrucciones",
+        "En memorizador de contenidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La psicología evolutiva enfatiza que el niño debe ser protagonista de su propio aprendizaje, mientras el docente actúa como mediador."
+    },
+    {
+      "question": "¿Qué debe crear el maestro para favorecer el aprendizaje significativo?",
+      "options": [
+        "Rutinas estrictas",
+        "Situaciones de experiencia sustentadas en esfuerzo y responsabilidad",
+        "Competición entre alumnos",
+        "Evaluaciones frecuentes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El docente debe crear situaciones en las que la adquisición de nuevas experiencias se sustente en hábitos de esfuerzo y responsabilidad y en actitudes de interés por aprender."
+    },
+    {
+      "question": "¿Con qué fin debe enseñar el maestro a pensar y conocerse?",
+      "options": [
+        "Para mejorar las calificaciones",
+        "Para gestionar y regular los propios conocimientos",
+        "Para memorizar mejor",
+        "Para seguir instrucciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El maestro debe enseñar a pensar y a conocerse para que el alumnado pueda gestionar y regular sus propios conocimientos a través de experiencias metacognitivas."
+    },
+    {
+      "question": "¿Qué deben potenciar las situaciones de aprendizaje motor?",
+      "options": [
+        "Solo la fuerza",
+        "Habilidades motoras y la conciencia corporal",
+        "Solo la velocidad",
+        "La competición deportiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las situaciones de aprendizaje basadas en el juego y la actividad física deben fomentar tanto las habilidades motoras como la conciencia corporal y el cuidado del cuerpo."
+    },
+    {
+      "question": "¿En qué influyen directamente el autoconcepto y la autoestima?",
+      "options": [
+        "Solo en el rendimiento académico",
+        "En el bienestar emocional, rendimiento académico, convivencia y motivación",
+        "Solo en las relaciones sociales",
+        "Solo en la conducta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El autoconcepto y la autoestima influyen directamente en el bienestar emocional, rendimiento académico, convivencia escolar, motivación y perseverancia."
+    }
+  ]
+}

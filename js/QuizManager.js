@@ -14,6 +14,83 @@ export class QuizManager {
     }
 
     /**
+     * Loads all categories from the manifest file
+     * @returns {Promise<Array>} Array of category objects
+     */
+    async loadCategories() {
+        try {
+            const manifestResponse = await fetch('quizzes/manifest.json');
+            if (!manifestResponse.ok) {
+                throw new Error('Failed to load quiz manifest');
+            }
+
+            const manifest = await manifestResponse.json();
+            const categories = manifest.categories || [];
+
+            if (categories.length === 0) {
+                console.warn('No categories found in manifest');
+                return [];
+            }
+
+            return categories;
+        } catch (error) {
+            console.error('Error loading categories:', error);
+            throw new Error('Failed to load categories');
+        }
+    }
+
+    /**
+     * Loads quizzes for a specific category
+     * @param {string} categoryId - The category ID
+     * @returns {Promise<Object>} Object with category info and quizzes
+     */
+    async loadCategoryQuizzes(categoryId) {
+        try {
+            const manifestResponse = await fetch('quizzes/manifest.json');
+            if (!manifestResponse.ok) {
+                throw new Error('Failed to load quiz manifest');
+            }
+
+            const manifest = await manifestResponse.json();
+            const category = manifest.categories.find(cat => cat.id === categoryId);
+
+            if (!category) {
+                throw new Error(`Category ${categoryId} not found`);
+            }
+
+            // Load all quiz metadata for this category in parallel
+            const quizzes = await Promise.all(
+                category.quizzes.map(async (filename) => {
+                    try {
+                        const response = await fetch(`quizzes/${categoryId}/${filename}`);
+                        if (!response.ok) {
+                            console.warn(`Failed to load ${filename}`);
+                            return null;
+                        }
+                        const quiz = await response.json();
+                        return {
+                            ...quiz,
+                            filename,
+                            categoryId
+                        };
+                    } catch (error) {
+                        console.error(`Error loading ${filename}:`, error);
+                        return null;
+                    }
+                })
+            );
+
+            return {
+                category,
+                quizzes: quizzes.filter(quiz => quiz !== null)
+            };
+        } catch (error) {
+            console.error('Error loading category quizzes:', error);
+            throw new Error('Failed to load category quizzes');
+        }
+    }
+
+    /**
      * Loads all available quizzes dynamically from the manifest file
      * @returns {Promise<Array>} Array of quiz metadata
      */
@@ -26,35 +103,40 @@ export class QuizManager {
             }
 
             const manifest = await manifestResponse.json();
-            const quizFiles = manifest.quizzes || [];
+            const categories = manifest.categories || [];
 
-            if (quizFiles.length === 0) {
-                console.warn('No quizzes found in manifest');
+            if (categories.length === 0) {
+                console.warn('No categories found in manifest');
                 return [];
             }
 
-            // Load all quiz metadata in parallel
-            const quizzes = await Promise.all(
-                quizFiles.map(async (filename) => {
-                    try {
-                        const response = await fetch(`quizzes/${filename}`);
-                        if (!response.ok) {
-                            console.warn(`Failed to load ${filename}`);
+            // Load all quizzes from all categories in parallel
+            const allQuizzes = [];
+            for (const category of categories) {
+                const quizzes = await Promise.all(
+                    category.quizzes.map(async (filename) => {
+                        try {
+                            const response = await fetch(`quizzes/${category.id}/${filename}`);
+                            if (!response.ok) {
+                                console.warn(`Failed to load ${filename}`);
+                                return null;
+                            }
+                            const quiz = await response.json();
+                            return {
+                                ...quiz,
+                                filename,
+                                categoryId: category.id
+                            };
+                        } catch (error) {
+                            console.error(`Error loading ${filename}:`, error);
                             return null;
                         }
-                        const quiz = await response.json();
-                        return {
-                            ...quiz,
-                            filename
-                        };
-                    } catch (error) {
-                        console.error(`Error loading ${filename}:`, error);
-                        return null;
-                    }
-                })
-            );
+                    })
+                );
+                allQuizzes.push(...quizzes.filter(quiz => quiz !== null));
+            }
 
-            return quizzes.filter(quiz => quiz !== null);
+            return allQuizzes;
         } catch (error) {
             console.error('Error loading quiz list:', error);
             throw new Error('Failed to load quiz list');
@@ -62,20 +144,32 @@ export class QuizManager {
     }
 
     /**
-     * Loads a specific quiz by filename
-     * @param {string} filename - The quiz filename
+     * Loads a specific quiz by filename (with category path support)
+     * @param {string} filename - The quiz filename (can include category path like "lomloe/lomloe.json")
+     * @param {boolean} sampleMode - If true, creates a 10-question sample from quizzes with >30 questions
      * @returns {Promise<Object>} The quiz data
      */
-    async loadQuiz(filename) {
+    async loadQuiz(filename, sampleMode = false) {
         try {
-            const response = await fetch(`quizzes/${filename}`);
+            // Support both old format (filename.json) and new format (category/filename.json)
+            const quizPath = filename.includes('/') ? `quizzes/${filename}` : `quizzes/${filename}`;
+            console.log('Loading quiz from:', quizPath, 'sampleMode:', sampleMode);
+            const response = await fetch(quizPath);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
             let quiz = await response.json();
+            console.log('Quiz loaded, questions:', quiz.questions?.length);
 
             // Validate quiz structure
             this.validateQuiz(quiz);
+
+            // If sample mode is requested and quiz has more than 30 questions, create a sample
+            if (sampleMode && quiz.questions.length > 30) {
+                console.log('Creating sample quiz...');
+                quiz = RandomQuizGenerator.createSampleQuiz(quiz, 10);
+                console.log('Sample quiz created, questions:', quiz.questions?.length);
+            }
 
             // Shuffle questions and options for variety
             quiz = RandomQuizGenerator.shuffleQuiz(quiz);
@@ -87,16 +181,17 @@ export class QuizManager {
 
             return quiz;
         } catch (error) {
-            console.error('Error loading quiz:', error);
-            throw new Error('Failed to load quiz. Please try again.');
+            console.error('Error loading quiz (detailed):', error);
+            throw error; // Re-throw original error instead of generic message
         }
     }
 
     /**
      * Loads all quizzes and returns them (for random quiz generation)
+     * @param {string} categoryId - Optional category ID to load quizzes only from that category
      * @returns {Promise<Array>} Array of all quiz objects
      */
-    async loadAllQuizzes() {
+    async loadAllQuizzes(categoryId = null) {
         try {
             const manifestResponse = await fetch('quizzes/manifest.json');
             if (!manifestResponse.ok) {
@@ -104,26 +199,40 @@ export class QuizManager {
             }
 
             const manifest = await manifestResponse.json();
-            const quizFiles = manifest.quizzes || [];
+            const categories = manifest.categories || [];
 
-            // Load all quizzes in parallel
-            const quizzes = await Promise.all(
-                quizFiles.map(async (filename) => {
-                    try {
-                        const response = await fetch(`quizzes/${filename}`);
-                        if (!response.ok) {
-                            console.warn(`Failed to load ${filename}`);
+            // Filter categories if categoryId is provided
+            const categoriesToLoad = categoryId
+                ? categories.filter(cat => cat.id === categoryId)
+                : categories;
+
+            if (categoriesToLoad.length === 0) {
+                console.warn('No categories found to load');
+                return [];
+            }
+
+            // Load all quizzes from selected categories
+            const allQuizzes = [];
+            for (const category of categoriesToLoad) {
+                const quizzes = await Promise.all(
+                    category.quizzes.map(async (filename) => {
+                        try {
+                            const response = await fetch(`quizzes/${category.id}/${filename}`);
+                            if (!response.ok) {
+                                console.warn(`Failed to load ${filename}`);
+                                return null;
+                            }
+                            return await response.json();
+                        } catch (error) {
+                            console.error(`Error loading ${filename}:`, error);
                             return null;
                         }
-                        return await response.json();
-                    } catch (error) {
-                        console.error(`Error loading ${filename}:`, error);
-                        return null;
-                    }
-                })
-            );
+                    })
+                );
+                allQuizzes.push(...quizzes.filter(quiz => quiz !== null));
+            }
 
-            return quizzes.filter(quiz => quiz !== null);
+            return allQuizzes;
         } catch (error) {
             console.error('Error loading all quizzes:', error);
             throw new Error('Failed to load quizzes');

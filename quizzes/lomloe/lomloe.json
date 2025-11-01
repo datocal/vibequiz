@@ -1,0 +1,119 @@
+{
+  "title": "LOMLOE - Ley de Educación",
+  "description": "Conoce los principios fundamentales de la LOMLOE, la ley que modifica el sistema educativo español.",
+  "category": "lomloe",
+  "icon": "📖",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "¿Qué edad tienen los niños y niñas que atiende la educación infantil?",
+      "options": [
+        "Desde el nacimiento hasta los seis años",
+        "Desde los tres hasta los seis años",
+        "Desde el nacimiento hasta los tres años",
+        "Desde los dos hasta los ocho años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 12 de la LOMLOE, la educación infantil es la etapa educativa que atiende a niñas y niños desde el nacimiento hasta los seis años de edad."
+    },
+    {
+      "question": "¿Cuántos años de escolaridad comprende la enseñanza básica?",
+      "options": [
+        "Ocho años",
+        "Nueve años",
+        "Diez años",
+        "Doce años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 4 establece que la enseñanza básica comprende diez años de escolaridad y se desarrolla, de forma regular, entre los seis y los dieciséis años de edad."
+    },
+    {
+      "question": "¿Qué principio fundamental se adopta para atender a la diversidad del alumnado según la LOMLOE?",
+      "options": [
+        "La educación compensatoria",
+        "La educación inclusiva",
+        "La educación especial",
+        "La educación diferenciada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 4.3, se adoptará la educación inclusiva como principio fundamental para atender a la diversidad de las necesidades de todo el alumnado."
+    },
+    {
+      "question": "¿Qué etapas constituyen la educación básica obligatoria?",
+      "options": [
+        "Educación infantil y educación primaria",
+        "Educación primaria y educación secundaria",
+        "Educación primaria, educación secundaria obligatoria y ciclos formativos de grado básico",
+        "Educación primaria, educación secundaria y bachillerato"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 3.3 establece que la educación primaria, la educación secundaria obligatoria y los ciclos formativos de grado básico constituyen la educación básica."
+    },
+    {
+      "question": "¿Entre qué edades se desarrolla de forma regular la enseñanza básica?",
+      "options": [
+        "Entre los cinco y los quince años",
+        "Entre los seis y los dieciséis años",
+        "Entre los siete y los diecisiete años",
+        "Entre los seis y los dieciocho años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 4.2, la enseñanza básica se desarrolla, de forma regular, entre los seis y los dieciséis años de edad."
+    },
+    {
+      "question": "¿Qué porcentaje de los horarios escolares requieren las enseñanzas mínimas para comunidades SIN lengua cooficial?",
+      "options": [
+        "40 por ciento",
+        "50 por ciento",
+        "60 por ciento",
+        "70 por ciento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 6.4 establece que las enseñanzas mínimas requerirán el 60 por ciento de los horarios escolares para las Comunidades Autónomas que no tengan lengua cooficial."
+    },
+    {
+      "question": "¿Cuál de estos elementos NO forma parte del currículo según la LOMLOE?",
+      "options": [
+        "Objetivos y competencias",
+        "Contenidos y métodos pedagógicos",
+        "Criterios de evaluación",
+        "Recursos económicos del centro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Según el artículo 6.1, el currículo está compuesto por objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación. Los recursos económicos no forman parte del currículo."
+    },
+    {
+      "question": "¿Qué carácter tiene la educación infantil?",
+      "options": [
+        "Obligatorio y gratuito",
+        "Voluntario y gratuito el segundo ciclo",
+        "Obligatorio solo el segundo ciclo",
+        "Voluntario y de pago"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 12.3 establece que la educación infantil tiene carácter voluntario, y el artículo 15.2 indica que el segundo ciclo será gratuito."
+    },
+    {
+      "question": "¿Qué debe orientar el currículo según la LOMLOE?",
+      "options": [
+        "Exclusivamente la preparación para el mercado laboral",
+        "Solo el desarrollo de competencias académicas",
+        "El desarrollo educativo del alumnado y su formación integral",
+        "Únicamente la memorización de contenidos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 6.2 establece que el currículo irá orientado a facilitar el desarrollo educativo de los alumnos y alumnas, garantizando su formación integral y contribuyendo al pleno desarrollo de su personalidad."
+    },
+    {
+      "question": "¿Qué nuevo objetivo educativo se añade en el artículo 1 relacionado con el medio ambiente?",
+      "options": [
+        "La educación medioambiental básica",
+        "La educación para el reciclaje",
+        "La educación para la transición ecológica con criterios de justicia social",
+        "La educación sobre el cambio climático"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El nuevo apartado r) del artículo 1 añade 'La educación para la transición ecológica con criterios de justicia social como contribución a la sostenibilidad ambiental, social y económica.'"
+    }
+  ]
+}

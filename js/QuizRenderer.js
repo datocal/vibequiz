@@ -5,18 +5,56 @@
 
 export class QuizRenderer {
     /**
-     * Renders the quiz list on the index page with Random Party option
-     * @param {Array} quizzes - Array of quiz objects
+     * Renders the category list on the index page with Random Party option
+     * @param {Array} categories - Array of category objects
      * @param {HTMLElement} container - Container element to render into
      */
-    renderQuizList(quizzes, container) {
-        if (!quizzes || quizzes.length === 0) {
-            container.innerHTML = '<div class="error">No quizzes available. Please add quiz files to the /quizzes directory.</div>';
+    renderCategoryList(categories, container) {
+        if (!categories || categories.length === 0) {
+            container.innerHTML = '<div class="error">No categories available. Please check the manifest file.</div>';
             return;
         }
 
-        // Render Random Party card first, then all regular quizzes
+        // Render Random Party card first, then all category cards
         const randomPartyCard = this.renderRandomPartyCard();
+        const categoryCards = categories.map(category => this.renderCategoryCard(category)).join('');
+
+        container.innerHTML = randomPartyCard + categoryCards;
+    }
+
+    /**
+     * Renders a single category card
+     * @param {Object} category - Category object
+     * @returns {string} HTML string for category card
+     */
+    renderCategoryCard(category) {
+        const quizCount = category.quizzes ? category.quizzes.length : 0;
+        return `
+            <a href="category.html?category=${encodeURIComponent(category.id)}" class="quiz-card">
+                <div class="quiz-card__icon">${category.icon || this.getIconForCategory(category.id)}</div>
+                <h2 class="quiz-card__title">${this.escapeHtml(category.name)}</h2>
+                <p class="quiz-card__description">${this.escapeHtml(category.description)}</p>
+                <div class="quiz-card__meta">
+                    <span>${quizCount} ${quizCount === 1 ? 'Quiz' : 'Quizzes'}</span>
+                </div>
+            </a>
+        `;
+    }
+
+    /**
+     * Renders the quiz list on a category page with Random Party option
+     * @param {Array} quizzes - Array of quiz objects
+     * @param {HTMLElement} container - Container element to render into
+     * @param {string} categoryId - The category ID for category-specific random quiz
+     */
+    renderQuizList(quizzes, container, categoryId = null) {
+        if (!quizzes || quizzes.length === 0) {
+            container.innerHTML = '<div class="error">No quizzes available in this category.</div>';
+            return;
+        }
+
+        // Render Random Party card first (with category context if provided), then all regular quizzes
+        const randomPartyCard = this.renderRandomPartyCard(categoryId);
         const quizCards = quizzes.map(quiz => this.renderQuizCard(quiz)).join('');
 
         container.innerHTML = randomPartyCard + quizCards;
@@ -24,15 +62,24 @@ export class QuizRenderer {
 
     /**
      * Renders the special Random Party quiz card
+     * @param {string} categoryId - Optional category ID for category-specific random quiz
      * @returns {string} HTML string for Random Party card
      */
-    renderRandomPartyCard() {
+    renderRandomPartyCard(categoryId = null) {
+        const url = categoryId
+            ? `quiz.html?mode=random&category=${encodeURIComponent(categoryId)}`
+            : 'quiz.html?mode=random';
+
+        const description = categoryId
+            ? '¡10 preguntas aleatorias de esta categoría!'
+            : '¡Desafíate a ti mismo con 10 preguntas aleatorias de todos los cuestionarios disponibles!';
+
         return `
-            <a href="quiz.html?mode=random" class="quiz-card quiz-card--random">
+            <a href="${url}" class="quiz-card quiz-card--random">
                 <div class="quiz-card__icon">🎉</div>
                 <h2 class="quiz-card__title">Random Party</h2>
                 <p class="quiz-card__description">
-                    Challenge yourself with 10 random questions from all available quizzes!
+                    ${description}
                 </p>
                 <div class="quiz-card__meta">
                     <span class="quiz-card__difficulty quiz-card__difficulty--medium">
@@ -50,8 +97,43 @@ export class QuizRenderer {
      * @returns {string} HTML string for quiz card
      */
     renderQuizCard(quiz) {
+        // Build quiz path with category if available
+        const quizPath = quiz.categoryId
+            ? `${quiz.categoryId}/${quiz.filename}`
+            : quiz.filename;
+
+        // Check if quiz has more than 30 questions to offer Quick Quiz option
+        const hasQuickQuiz = quiz.questions.length > 30;
+
+        // For quizzes with Quick Quiz option, use a different structure
+        if (hasQuickQuiz) {
+            return `
+                <div class="quiz-card quiz-card--with-actions">
+                    <a href="quiz.html?quiz=${encodeURIComponent(quizPath)}" class="quiz-card__main">
+                        <div class="quiz-card__icon">${this.getIconForQuiz(quiz)}</div>
+                        <h2 class="quiz-card__title">${this.escapeHtml(quiz.title)}</h2>
+                        <p class="quiz-card__description">${this.escapeHtml(quiz.description)}</p>
+                        <div class="quiz-card__meta">
+                            <span class="quiz-card__difficulty quiz-card__difficulty--${quiz.difficulty}">
+                                ${this.capitalizeFirst(quiz.difficulty)}
+                            </span>
+                            <span>${quiz.questions.length} Questions</span>
+                        </div>
+                    </a>
+                    <div class="quiz-card__actions">
+                        <a href="quiz.html?quiz=${encodeURIComponent(quizPath)}&sample=true" class="quick-quiz-btn">
+                            <span class="quick-quiz-btn__icon">⚡</span>
+                            <span class="quick-quiz-btn__text">Quick Quiz</span>
+                            <span class="quick-quiz-btn__detail">10 preguntas aleatorias</span>
+                        </a>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Regular quiz card without Quick Quiz option
         return `
-            <a href="quiz.html?quiz=${encodeURIComponent(quiz.filename)}" class="quiz-card">
+            <a href="quiz.html?quiz=${encodeURIComponent(quizPath)}" class="quiz-card">
                 <div class="quiz-card__icon">${this.getIconForQuiz(quiz)}</div>
                 <h2 class="quiz-card__title">${this.escapeHtml(quiz.title)}</h2>
                 <p class="quiz-card__description">${this.escapeHtml(quiz.description)}</p>

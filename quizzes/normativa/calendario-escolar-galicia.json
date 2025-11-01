@@ -1,0 +1,174 @@
+{
+  "title": "Calendario Escolar Galicia 2025/26",
+  "description": "Pon a prueba tu conocimiento sobre el calendario escolar para centros educativos de Galicia del curso 2025/26.",
+  "category": "educacion",
+  "icon": "📅",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿Cuántos días lectivos mínimos establece la Ley Orgánica 2/2006 para la enseñanza obligatoria?",
+      "options": [
+        "160 días lectivos",
+        "170 días lectivos",
+        "175 días lectivos",
+        "180 días lectivos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Ley Orgánica 2/2006, de 3 de mayo, de educación, determina en la disposición adicional quinta que el calendario escolar comprenderá un mínimo de 175 días lectivos para la enseñanza obligatoria."
+    },
+    {
+      "question": "¿Cuándo comienzan las actividades lectivas en educación infantil, primaria, ESO y bachillerato para el curso 2025/26?",
+      "options": [
+        "1 de septiembre de 2025",
+        "5 de septiembre de 2025",
+        "8 de septiembre de 2025",
+        "15 de septiembre de 2025"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las actividades lectivas en educación infantil, primaria, ESO, bachillerato y primeros cursos de formación profesional se realizarán desde el día 8 de septiembre de 2025 hasta el 19 de junio de 2026."
+    },
+    {
+      "question": "¿Hasta qué fecha pueden prolongarse la incorporación gradual del alumnado de educación infantil?",
+      "options": [
+        "5 de septiembre de 2025",
+        "8 de septiembre de 2025",
+        "12 de septiembre de 2025",
+        "30 de septiembre de 2025"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La incorporación gradual del alumnado en el cuarto curso de educación infantil no se prolongará más allá del 12 de septiembre de 2025, según establece el artículo 4 que hace referencia a la Orden de 30 de mayo de 2023."
+    },
+    {
+      "question": "¿Qué días corresponden a las vacaciones de Carnaval en el curso 2025/26?",
+      "options": [
+        "15, 16 y 17 de febrero de 2026",
+        "16, 17 y 18 de febrero de 2026",
+        "17, 18 y 19 de febrero de 2026",
+        "23, 24 y 25 de febrero de 2026"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los días de vacaciones escolares de Carnaval son el 16, 17 y 18 de febrero de 2026, según se especifica en el artículo 6 sobre vacaciones escolares."
+    },
+    {
+      "question": "¿Cuándo se celebra el Día de la Enseñanza en el curso 2025/26?",
+      "options": [
+        "31 de octubre de 2025",
+        "3 de noviembre de 2025",
+        "1 de noviembre de 2025",
+        "12 de octubre de 2025"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Día de la Enseñanza, que tiene la consideración de día no lectivo, se celebrará el 31 de octubre de 2025, según establece el artículo 7."
+    },
+    {
+      "question": "¿Cuál es la fecha límite para realizar la sesión de evaluación inicial?",
+      "options": [
+        "30 de septiembre de 2025",
+        "10 de octubre de 2025",
+        "17 de octubre de 2025",
+        "31 de octubre de 2025"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La fecha límite para la realización de la sesión de evaluación inicial será el 17 de octubre de 2025, según el artículo 9."
+    },
+    {
+      "question": "¿Entre qué fechas se realizarán las pruebas de evaluación de diagnóstico en educación secundaria obligatoria?",
+      "options": [
+        "13 y 17 de abril de 2026",
+        "20 y 24 de abril de 2026",
+        "6 y 10 de abril de 2026",
+        "27 de abril y 1 de mayo de 2026"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las pruebas de evaluación de diagnóstico de segundo curso de educación secundaria obligatoria se realizarán entre el 13 y el 17 de abril de 2026, según el artículo 11."
+    },
+    {
+      "question": "¿A partir de qué fecha debe realizarse la sesión de evaluación final ordinaria del primer curso de bachillerato?",
+      "options": [
+        "19 de junio de 2026",
+        "15 de junio de 2026",
+        "12 de mayo de 2026",
+        "8 de junio de 2026"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La sesión de evaluación final ordinaria del primer curso de bachillerato deberá realizarse a partir del 8 de junio de 2026, según establece el artículo 13."
+    },
+    {
+      "question": "¿Cuándo finalizan las actividades lectivas en los segundos cursos de los ciclos formativos de grado básico, medio y superior?",
+      "options": [
+        "12 de junio de 2026",
+        "15 de junio de 2026",
+        "19 de junio de 2026",
+        "22 de junio de 2026"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En los segundos cursos de los ciclos formativos de grado básico, grado medio y grado superior, las actividades lectivas se realizarán desde el 8 de septiembre de 2025 hasta el 15 de junio de 2026."
+    },
+    {
+      "question": "¿Qué período está destinado a que el profesorado elabore actas de evaluación, informes y memorias finales?",
+      "options": [
+        "Del 15 al 30 de junio de 2026",
+        "Del 19 al 30 de junio de 2026",
+        "Del 22 al 30 de junio de 2026",
+        "Del 1 al 15 de julio de 2026"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El período comprendido entre el 22 de junio y el 30 de junio de 2026 será dedicado por el profesorado a elaborar actas de evaluación, informes, memorias finales y otros documentos, según el artículo 15."
+    },
+    {
+      "question": "¿Desde cuándo hasta cuándo se extiende el período de vacaciones de Navidad en el curso 2025/26?",
+      "options": [
+        "Del 20 de diciembre de 2025 al 6 de enero de 2026",
+        "Del 22 de diciembre de 2025 al 7 de enero de 2026",
+        "Del 23 de diciembre de 2025 al 6 de enero de 2026",
+        "Del 24 de diciembre de 2025 al 8 de enero de 2026"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las vacaciones de Navidad se extienden desde el día 22 de diciembre de 2025 hasta el día 7 de enero de 2026, ambos inclusive, según el artículo 6."
+    },
+    {
+      "question": "¿Cuándo deben las direcciones de los centros enviar la memoria anual al Servicio Territorial de Inspección Educativa?",
+      "options": [
+        "Antes del 30 de junio de 2026",
+        "Antes del 10 de julio de 2026",
+        "Antes del 15 de julio de 2026",
+        "Antes del 31 de julio de 2026"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las direcciones de los centros educativos enviarán al Servicio Territorial de Inspección Educativa la memoria anual del centro antes del 10 de julio de 2026, según establece el artículo 18."
+    },
+    {
+      "question": "¿Entre qué fechas se deben realizar las pruebas de evaluación de diagnóstico en educación primaria?",
+      "options": [
+        "Entre el 6 y el 10 de abril de 2026",
+        "Entre el 13 y el 17 de abril de 2026",
+        "Entre el 20 y el 24 de abril de 2026",
+        "Entre el 27 de abril y el 1 de mayo de 2026"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las pruebas de evaluación de diagnóstico de cuarto curso de educación primaria se realizarán entre el 20 y el 24 de abril de 2026, según el artículo 11."
+    },
+    {
+      "question": "¿Cuándo se realizan las sesiones de evaluación final del segundo curso de los ciclos formativos?",
+      "options": [
+        "Los días 12 y 13 de junio de 2026",
+        "Los días 15 y 16 de junio de 2026",
+        "Los días 17 y 18 de junio de 2026",
+        "El día 19 de junio de 2026"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La sesión de evaluación final del segundo curso de los ciclos formativos de grado básico, grado medio y grado superior deberá realizarse los días 15 y 16 de junio de 2026, según el artículo 13."
+    },
+    {
+      "question": "¿A partir de qué fecha deben realizarse las sesiones de evaluación final ordinaria y extraordinaria del segundo curso de bachillerato?",
+      "options": [
+        "Ordinaria: 5 de mayo, Extraordinaria: 8 de junio",
+        "Ordinaria: 8 de mayo, Extraordinaria: 12 de junio",
+        "Ordinaria: 12 de mayo, Extraordinaria: 10 de junio",
+        "Ordinaria: 15 de mayo, Extraordinaria: 15 de junio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las sesiones de evaluación final ordinaria y extraordinaria de segundo curso de bachillerato deberán realizarse, respectivamente, a partir de 12 de mayo de 2026 y a partir de 10 de junio de 2026, según el artículo 13."
+    }
+  ]
+}

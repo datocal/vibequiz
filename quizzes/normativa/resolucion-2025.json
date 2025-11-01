@@ -1,0 +1,119 @@
+{
+  "title": "Resolución 5 de junio 2025",
+  "description": "Evalúa tu conocimiento sobre las instrucciones para el desarrollo de las enseñanzas en el curso 2025/26 en Galicia",
+  "category": "educacion",
+  "icon": "✍️",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿Qué artículo de la Ley 4/2011 reconoce al profesorado como autoridad pública?",
+      "options": [
+        "Artículo 7",
+        "Artículo 11",
+        "Artículo 6",
+        "Artículo 18"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 11 de la Ley 4/2011, de 30 de junio, de convivencia y participación de la comunidad educativa, reconoce expresamente al profesorado como autoridad pública y como garantía de un clima de respeto y aprendizaje."
+    },
+    {
+      "question": "¿Hasta cuándo deben los centros remitir la solicitud de autorización para impartir materias optativas con menor número de alumnado en ESO y Bachillerato?",
+      "options": [
+        "30 de junio de 2025",
+        "1 de septiembre de 2025",
+        "15 de julio de 2025",
+        "15 de octubre de 2025"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según los ordinales decimocuarto y vigesimoprimero, los centros docentes deben remitir a la dirección territorial correspondiente, antes del 15 de julio de 2025, la solicitud de autorización excepcional para impartir con un número menor de alumnado las materias optativas."
+    },
+    {
+      "question": "¿Cuál es la duración recomendada del período de recreo en educación primaria?",
+      "options": [
+        "15 a 20 minutos",
+        "20 a 30 minutos",
+        "25 a 35 minutos",
+        "30 a 40 minutos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el ordinal decimoprimero, el período de recreo tendrá una duración comprendida entre 20 y 30 minutos en educación primaria."
+    },
+    {
+      "question": "¿Cuántos períodos lectivos semanales como máximo puede recibir un alumno de atención fuera del aula ordinaria por parte de especialistas en PT y AL?",
+      "options": [
+        "6 períodos lectivos",
+        "10 períodos lectivos",
+        "8 períodos lectivos",
+        "12 períodos lectivos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el ordinal trigésimo quinto, la atención fuera del aula no podrá exceder de la tercera parte de los períodos lectivos semanales del horario del alumnado, es decir, la suma total será como máximo de 8 períodos lectivos semanales."
+    },
+    {
+      "question": "¿Qué alumnado puede solicitar la exención de cursar la materia Segunda Lengua Extranjera en 1º y 2º de ESO?",
+      "options": [
+        "Todo el alumnado que lo solicite voluntariamente",
+        "Alumnado que presente dificultades continuadas en el proceso de aprendizaje, en particular en las materias lingüísticas",
+        "Únicamente alumnado con necesidades educativas especiales",
+        "Alumnado procedente de otros países"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el ordinal decimosexto, el alumnado de primer y segundo curso que presente dificultades continuadas en el proceso de aprendizaje, en particular en las materias lingüísticas, podrá quedar exento de cursar la materia de Segunda Lengua Extranjera."
+    },
+    {
+      "question": "¿Cuántos cursos académicos máximo permite la exención temporal de calificación en Lengua Gallega para alumnado procedente de otras comunidades?",
+      "options": [
+        "Un curso escolar",
+        "Tres cursos escolares",
+        "Dos cursos escolares consecutivos",
+        "Todo el tiempo que permanezca en el centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La disposición adicional primera establece que el alumnado procedente de otras comunidades autónomas o del extranjero podrá obtener una exención temporal durante un máximo de dos cursos escolares consecutivos."
+    },
+    {
+      "question": "¿Qué aplicación informática deben utilizar los centros para la elaboración de programaciones didácticas y adaptaciones curriculares?",
+      "options": [
+        "XADE",
+        "Educalidade",
+        "Proens",
+        "Falemos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el ordinal trigésimo, los centros docentes sostenidos con fondos públicos utilizarán la aplicación informática Proens para la elaboración y modificación de la concreción curricular, así como para las programaciones didácticas."
+    },
+    {
+      "question": "En un pequeño grupo de atención educativa fuera del aula ordinaria por especialistas PT/AL, ¿cuántos alumnos pueden atenderse de forma simultánea como máximo?",
+      "options": [
+        "Tres alumnos",
+        "Cuatro alumnos",
+        "Cinco alumnos",
+        "Seis alumnos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el ordinal trigésimo quinto, en los casos de atención educativa fuera del aula ordinaria se primará la atención en pequeño grupo de hasta cinco alumnas o alumnos de forma simultánea, que podrá estar conformado por alumnado de diferentes niveles."
+    },
+    {
+      "question": "¿Cuántas horas lectivas debe completar el profesorado según la normativa de horarios?",
+      "options": [
+        "20 horas lectivas",
+        "23 horas lectivas",
+        "25 horas lectivas",
+        "22 horas lectivas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los ordinales octavo y decimosegundo mencionan que la dirección del centro podrá asignar tareas al profesorado que no complete las 23 horas lectivas, lo que indica que este es el número de horas lectivas estándar."
+    },
+    {
+      "question": "¿Qué materias NO computarán en el cálculo de la media para la mención de matrícula de honor en ESO?",
+      "options": [
+        "Las materias optativas y Segunda Lengua Extranjera",
+        "Las enseñanzas de religión y la materia Proyecto Competencial",
+        "Educación Física y Educación Plástica",
+        "Ninguna, todas computan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el ordinal decimonoveno, con el fin de garantizar el principio de igualdad, las calificaciones obtenidas en la evaluación final de las enseñanzas de religión y en la materia Proyecto Competencial no computarán en el cálculo de la media a efectos de la mención de matrícula de honor."
+    }
+  ]
+}

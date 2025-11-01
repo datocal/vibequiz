@@ -1,0 +1,1207 @@
+{
+  "title": "Protocolo Discapacidad Auditiva",
+  "description": "Evaluación exhaustiva sobre la atención educativa al alumnado con discapacidad auditiva en Galicia. Incluye conceptos, clasificaciones, ayudas técnicas, sistemas de comunicación, detección, necesidades educativas y medidas de intervención.",
+  "category": "protocolos",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Entre qué rangos de decibelios se sitúa la mayoría de las conversaciones según el protocolo?",
+      "options": [
+        "Entre 25-45 dB",
+        "Entre 35-50 dB",
+        "Entre 40-60 dB",
+        "Entre 20-40 dB"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el protocolo, la mayoría de conversaciones se sitúan entre los 35-50 dB. Por tanto, una pérdida moderada (41-70 dB) precisa de ayudas técnicas para amplificar el sonido."
+    },
+    {
+      "question": "¿Qué tipo de hipoacusia afecta por igual a la vía ósea y a la vía aérea?",
+      "options": [
+        "Hipoacusia conductiva",
+        "Hipoacusia mixta",
+        "Hipoacusia neurosensorial",
+        "Hipoacusia de transmisión"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La hipoacusia neurosensorial o de percepción afecta por igual a la vía ósea y la vía aérea, ya que las lesiones están en el oído interno. En cambio, la conductiva conserva intacta la vía ósea."
+    },
+    {
+      "question": "¿Cuál es el decibelio que marca la pérdida auditiva total según el protocolo?",
+      "options": [
+        "100 dB",
+        "110 dB",
+        "120 dB",
+        "90 dB"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La cofosis o pérdida auditiva total se sitúa en 120 dB, donde no existe ningún tipo de audición."
+    },
+    {
+      "question": "¿Cuál de los siguientes audífonos es el más utilizado en niños?",
+      "options": [
+        "Audífono intracanal",
+        "Audífono de inserción profunda",
+        "Audífono retroauricular",
+        "Audífono intrauricular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los audífonos retroauriculares son los más usados en niños. Se colocan detrás de la oreja y se utilizan para pérdidas desde leve hasta profunda."
+    },
+    {
+      "question": "En un implante coclear, ¿qué componente selecciona y codifica los sonidos más útiles para el lenguaje?",
+      "options": [
+        "El transmisor",
+        "El micrófono",
+        "El procesador",
+        "El receptor-estimulador"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El procesador es la parte del implante coclear que selecciona y codifica los sonidos más útiles para el lenguaje, mientras que el micrófono recoge los sonidos y el transmisor los envía."
+    },
+    {
+      "question": "¿Qué característica distingue a la lengua de signos de la comunicación bimodal?",
+      "options": [
+        "La lengua de signos usa el canal auditivo",
+        "La comunicación bimodal es una lengua completa",
+        "La lengua de signos tiene reglas propias y no es una traducción gestual del idioma oral",
+        "Ambas tienen la misma estructura sintáctica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La lengua de signos es una lengua completa con sus propias reglas gramaticales y estructura, no es una traducción gestual. La comunicación bimodal es un SAAC donde la lengua oral marca la sintaxis."
+    },
+    {
+      "question": "En la comunicación bimodal, ¿qué determina el orden de la frase y la sintaxis?",
+      "options": [
+        "La lengua de signos",
+        "El alfabeto dactilológico",
+        "La lengua oral",
+        "Ambas lenguas en igual medida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la comunicación bimodal, la lengua oral es la que marca el orden de la frase y determina la sintaxis de las producciones, aunque se empleen signos simultáneamente."
+    },
+    {
+      "question": "¿Cuál es la unidad mínima con significado en la lengua de signos?",
+      "options": [
+        "El gesto",
+        "La seña",
+        "El signo",
+        "El dactilema"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la lengua de signos, el signo es la palabra o unidad mínima con significado, equivalente a la palabra en las lenguas orales."
+    },
+    {
+      "question": "¿Qué función tienen las señas en la palabra complementada?",
+      "options": [
+        "Tienen significado lingüístico propio",
+        "Sustituyen a la lectura labial",
+        "Complementan la palabra y carecen de significado lingüístico",
+        "Representan el alfabeto dactilológico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las señas en la palabra complementada carecen de significado lingüístico y su función es complementar la palabra mediante el posicionamiento de la mano cerca de la boca."
+    },
+    {
+      "question": "Entre 0 y 3 meses, ¿cuál de estos comportamientos NO es indicador de pérdida auditiva?",
+      "options": [
+        "No se aprecian respuestas reflejas ante un sonido",
+        "Emite sonidos monocordes",
+        "No reacciona ante sonidos de campanilla",
+        "Balbucea espontáneamente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Balbucear espontáneamente es un comportamiento normal. Los indicadores de pérdida auditiva incluyen no tener respuestas reflejas ante sonidos, emitir sonidos monocordes o no reaccionar ante campanillas."
+    },
+    {
+      "question": "Entre 6 y 9 meses, ¿qué comportamiento sugiere posible pérdida auditiva?",
+      "options": [
+        "Golpea objetos para producir sonidos mediante vibración",
+        "Emite sílabas como 'ba', 'da'",
+        "Se orienta hacia sonidos fuertes",
+        "Responde cuando le llaman por su nombre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Golpear objetos para producir sonidos mediante vibración (en vez de hacer vocalizaciones para llamar la atención) es un indicador de posible pérdida auditiva entre 6 y 9 meses."
+    },
+    {
+      "question": "¿Qué rango de edad corresponde al indicador 'no emplea las partículas interrogativas en las conversaciones'?",
+      "options": [
+        "18-24 meses",
+        "24-36 meses",
+        "3-4 años",
+        "12-18 meses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No ser capaz de emplear las partículas interrogativas (¿quién? ¿cómo?) en las conversaciones es un indicador de pérdida auditiva entre 24 y 36 meses."
+    },
+    {
+      "question": "Entre 3 y 4 años, ¿qué indica posible pérdida auditiva?",
+      "options": [
+        "No mantiene conversaciones complejas",
+        "No es capaz de contar lo que le pasa",
+        "No comprende textos largos",
+        "No articula todos los fonemas perfectamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre 3 y 4 años, no ser capaz de contar lo que le pasa es un indicador específico de pérdida auditiva, además de que no se le entiendan las palabras o no contestar a preguntas sencillas."
+    },
+    {
+      "question": "¿A qué edad es indicador de pérdida auditiva 'no articula correctamente la mayor parte de los fonemas'?",
+      "options": [
+        "3-4 años",
+        "4-5 años",
+        "5-6 años",
+        "24-36 meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Entre 5 y 6 años es cuando no articular correctamente la mayor parte de los fonemas se considera indicador de pérdida auditiva, junto con no comprender ideas fundamentales de un entorno."
+    },
+    {
+      "question": "Según el protocolo, ¿cuándo debe el tutor compartir la sospecha de pérdida auditiva con la familia?",
+      "options": [
+        "Después de confirmarlo con el departamento de orientación",
+        "Al finalizar el trimestre",
+        "Cuando hay indicadores de sospecha",
+        "Tras realizar una evaluación psicopedagógica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cuando hay indicadores de sospecha de pérdida auditiva, el tutor debe compartir inmediatamente la sospecha con la familia para valoración de servicios sanitarios y ponerlo en conocimiento del departamento de orientación."
+    },
+    {
+      "question": "¿Qué sistema de comunicación se recomienda cuando hay pérdida profunda (más de 90 dB)?",
+      "options": [
+        "Sistema de comunicación oral con lectura labial",
+        "Sistema de comunicación viso-gestual",
+        "Sistema de comunicación bimodal",
+        "Palabra complementada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con pérdida profunda (más de 90 dB), no se percibe el habla a través del oído, resultando de gran importancia adquirir un sistema de comunicación viso-gestual."
+    },
+    {
+      "question": "¿Qué tipo de pérdida auditiva conserva intacta la vía ósea?",
+      "options": [
+        "Neurosensorial",
+        "Mixta",
+        "Conductiva",
+        "Profunda"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La hipoacusia conductiva o de transmisión conserva intacta la vía ósea, ya que la lesión se localiza en el oído externo o medio."
+    },
+    {
+      "question": "¿Para qué tipo de pérdidas auditivas está indicado el implante osteointegrado?",
+      "options": [
+        "Pérdidas neurosensoriales profundas",
+        "Pérdidas del oído medio y externo",
+        "Pérdidas bilaterales severas",
+        "Pérdidas de percepción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El implante osteointegrado está indicado para pérdidas auditivas producidas en el oído medio y en el oído externo, constando de un implante de titanio en el hueso y un procesador de sonido."
+    },
+    {
+      "question": "¿Qué material específico menciona el protocolo para el desarrollo de la morfosintaxis, basado en pictogramas?",
+      "options": [
+        "Organigrama de Perdoncini",
+        "Tren de Palabras de M. Monfort",
+        "Organifrase de Delgado",
+        "Sistema de comunicación aumentativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Tren de Palabras de M. Monfort está basado en una representación de pictogramas que preceden y se combinan con el uso posterior del lenguaje escrito."
+    },
+    {
+      "question": "¿Qué metodología recomienda el protocolo para la intervención en lectura con alumnado con discapacidad auditiva?",
+      "options": [
+        "Métodos analíticos exclusivamente",
+        "Métodos sintéticos exclusivamente",
+        "Combinar la ruta visual (métodos analíticos) y la ruta fonológica (métodos sintéticos)",
+        "Métodos globales con apoyo visual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Debido a la dificultad en la 'codificación fonológica', la metodología debe combinar la ruta visual (métodos analíticos) y la ruta fonológica (métodos sintéticos)."
+    },
+    {
+      "question": "¿Qué debe verificarse en un audífono para evitar el acoplamiento?",
+      "options": [
+        "Que la batería esté cargada",
+        "Que no produzca pitido con otro medio técnico",
+        "Que esté bien ajustado al oído",
+        "Que el volumen sea adecuado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe asegurar que no se produzca acoplamiento (pitido) con otro medio técnico, además de verificar el correcto funcionamiento y carga del audífono."
+    },
+    {
+      "question": "¿Qué componente del implante coclear es interno?",
+      "options": [
+        "El procesador",
+        "El micrófono",
+        "El receptor-estimulador",
+        "El transmisor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El receptor-estimulador y los electrodos son las partes internas del implante coclear. El micrófono, procesador y transmisor son partes externas."
+    },
+    {
+      "question": "En relación a las ayudas técnicas, ¿qué precisa la interpretación de estímulos con implante coclear?",
+      "options": [
+        "Adaptación inmediata",
+        "Tiempo de aprendizaje",
+        "Ajustes mensuales",
+        "Rehabilitación intensiva previa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La interpretación y comprensión de los estímulos sonoros con implante coclear precisa de un tiempo de aprendizaje, no es inmediata tras la implantación."
+    },
+    {
+      "question": "¿Qué sistema permite enviar señales acústicas directamente al audífono mediante un cable de inducción instalado por el perímetro de la estancia?",
+      "options": [
+        "Emisora FM",
+        "Sistema de amplificación directa",
+        "Bucle magnético",
+        "Transmisor de radiofrecuencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El bucle magnético cuenta con un amplificador y un cable de inducción por el perímetro de la estancia que envían las señales acústicas directamente al audífono o implante coclear."
+    },
+    {
+      "question": "¿Qué componente lleva la persona que habla en un sistema de emisora FM?",
+      "options": [
+        "Un amplificador y un receptor",
+        "Un micrófono y un transmisor",
+        "Un procesador y un codificador",
+        "Un audífono y un bucle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la emisora FM, la persona que habla lleva un micrófono que recoge los sonidos y un transmisor que los envía al receptor sincronizado con el audífono o implante del alumno."
+    },
+    {
+      "question": "Según el protocolo, ¿qué déficits son frecuentes en el alumnado con discapacidad auditiva respecto al lenguaje escrito?",
+      "options": [
+        "Déficit motor en la escritura",
+        "Déficit visual para la lectura",
+        "Déficit a nivel de vocabulario y estructuración de la frase",
+        "Déficit de comprensión lectora exclusivamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Suelen presentar déficit a nivel de vocabulario y de estructuración de la frase. El acompañamiento en escritura debe ser una prioridad y constante en todas las materias."
+    },
+    {
+      "question": "¿Qué dificultad específica menciona el protocolo respecto al desarrollo de la lectura?",
+      "options": [
+        "Dificultad en la comprensión semántica",
+        "Dificultad en la codificación fonológica",
+        "Dificultad en el reconocimiento visual",
+        "Dificultad en la velocidad lectora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alumnado con discapacidad auditiva suele presentar dificultad en la 'codificación fonológica', por lo que se recomienda combinar métodos analíticos y sintéticos."
+    },
+    {
+      "question": "¿En qué aula debe ubicarse al alumno con discapacidad auditiva según el protocolo?",
+      "options": [
+        "En el aula más cercana al departamento de orientación",
+        "En el aula del centro que cuente con las mejores condiciones acústicas y visuales",
+        "En el aula de la planta baja",
+        "En el aula con menos alumnos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro debe ubicar al alumno en el aula que cuente con las mejores condiciones acústicas y visuales, independientemente de su ubicación física en el edificio."
+    },
+    {
+      "question": "¿Qué debe facilitar el centro respecto a las sesiones con intérprete de lengua de signos?",
+      "options": [
+        "Transcripciones escritas",
+        "Resúmenes de las sesiones",
+        "La grabación de las sesiones para consulta del alumno",
+        "Fotografías de los signos utilizados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El centro debe facilitar la grabación de la persona intérprete de lengua de signos en las sesiones de aula para que el alumno pueda utilizarlo como recurso de consulta."
+    },
+    {
+      "question": "¿Cómo debe orientarse la luz natural en el aula para el alumnado con discapacidad auditiva?",
+      "options": [
+        "De frente al alumno",
+        "De lado al alumno",
+        "De espaldas al alumno",
+        "Desde arriba"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La luz natural debe darle de espaldas al alumno para que pueda ver bien a la persona que habla sin deslumbrarse, facilitando así la lectura labial."
+    },
+    {
+      "question": "¿Qué debe evitar el profesor al hablar para no obstaculizar la labiolectura?",
+      "options": [
+        "Hablar demasiado despacio",
+        "Hablar con rapidez",
+        "Bloquear la visión de la boca",
+        "Utilizar vocabulario complejo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El profesor debe evitar bloquear la visión de la boca (con las manos, objetos, etc.) porque la lectura labial es esencial para que el alumno comprenda el mensaje."
+    },
+    {
+      "question": "¿Qué debe hacerse antes de dar una explicación para asegurar la comprensión?",
+      "options": [
+        "Entregar material escrito",
+        "Asegurar la atención del alumno",
+        "Apagar dispositivos electrónicos",
+        "Cerrar puertas y ventanas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Antes de dar un mensaje o una explicación, se debe asegurar la atención del alumno y procurar el máximo silencio posible antes de iniciar."
+    },
+    {
+      "question": "¿Qué se recomienda escribir en la pizarra durante las explicaciones?",
+      "options": [
+        "Todo el contenido de la explicación",
+        "Resúmenes al finalizar",
+        "Las palabras más específicas y un esquema",
+        "Definiciones completas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe escribir en la pizarra las palabras más específicas que se van a utilizar en la explicación y un esquema para facilitar el seguimiento."
+    },
+    {
+      "question": "Para asegurar el seguimiento de conversaciones de grupo, ¿qué debe evitarse?",
+      "options": [
+        "Las preguntas directas",
+        "El solapamiento de intervenciones",
+        "Las pausas largas",
+        "El contacto visual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe evitar el solapamiento de intervenciones, controlar que el ritmo sea pausado, respetar el turno de palabra y repetir de forma comprensible las aportaciones interesantes."
+    },
+    {
+      "question": "¿Qué herramienta visual menciona el protocolo para representar la secuencia de actividades del día?",
+      "options": [
+        "Horario visual",
+        "Calendario de anticipación",
+        "Agenda pictográfica",
+        "Panel de rutinas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El protocolo menciona el 'calendario de anticipación' como herramienta en la que se representa la secuencia de la actividad del día."
+    },
+    {
+      "question": "Antes de iniciar un nuevo aprendizaje, ¿qué recomienda el protocolo hacer con las actividades complejas?",
+      "options": [
+        "Simplificarlas completamente",
+        "Escalonarlas en pasos más cortos",
+        "Eliminarlas",
+        "Posponerlas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se recomienda escalonar en pasos más cortos aquellas actividades que resulten más complejas para el alumnado, además de usar materiales visuales y realizar más demostraciones."
+    },
+    {
+      "question": "¿Qué debe promoverse respecto al uso del audífono según el protocolo?",
+      "options": [
+        "Que el tutor se encargue de su mantenimiento",
+        "Que el alumno adquiera autonomía en su uso y cuidado",
+        "Que los padres revisen diariamente su funcionamiento",
+        "Que el orientador supervise su uso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe promover que el alumno adquiera autonomía en el uso y cuidado de la ayuda técnica, evitando humedad, golpes, falta de limpieza, volumen inadecuado o agotamiento de baterías."
+    },
+    {
+      "question": "¿Qué debe cuidarse especialmente en el implante coclear para evitar daños?",
+      "options": [
+        "Evitar ruidos fuertes",
+        "Que no se humedezca la parte externa y prevenir golpes y tracciones",
+        "Ajustar el volumen diariamente",
+        "Limpiarlo con productos específicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe cuidarse que no se humedezca la parte externa y prevenir los golpes y tracciones que pueden romper los cables de la bobina de inducción."
+    },
+    {
+      "question": "Cuando hay intérprete de lengua de signos, ¿cómo debe dirigirse el profesorado al alumno?",
+      "options": [
+        "A través del intérprete",
+        "Directamente al alumno",
+        "Alternando entre alumno e intérprete",
+        "Mirando al intérprete pero hablando al alumno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El profesorado debe dirigirse directamente al alumno como si estuviera hablando con él, no a través de la persona intérprete."
+    },
+    {
+      "question": "¿Qué debe tenerse en cuenta al hablar cuando hay intérprete de lengua de signos?",
+      "options": [
+        "Hablar más despacio de lo normal",
+        "Hacer pausas para que el intérprete pueda seguir el ritmo",
+        "Hablar más alto",
+        "Repetir cada frase dos veces"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe hablarse con claridad, sin prisas, a ritmo normal y teniendo en cuenta las pausas para que el intérprete pueda seguir el ritmo de interpretación."
+    },
+    {
+      "question": "Según el protocolo, ¿qué tipo de expresiones no tienen interpretación directa en lengua de signos?",
+      "options": [
+        "Preguntas indirectas",
+        "Tiempos verbales compuestos",
+        "Refranes o frases hechas",
+        "Oraciones subordinadas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El protocolo señala que los refranes o frases hechas no tienen interpretación en lengua de signos, por lo que deben explicarse de otra manera."
+    },
+    {
+      "question": "¿Qué rol debe tener la familia según el protocolo respecto al código de comunicación elegido?",
+      "options": [
+        "Observadora pasiva",
+        "Agente activo y competente",
+        "Apoyo ocasional",
+        "Supervisora del aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La familia debe ser agente activo y competente en el código de comunicación que se elija (oral, gestual, bilingüe), implicándose directamente en su uso."
+    },
+    {
+      "question": "¿Qué aspecto debe evitar la familia según las orientaciones del protocolo?",
+      "options": [
+        "La estimulación temprana",
+        "La sobreprotección",
+        "La comunicación gestual",
+        "El refuerzo de logros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La familia debe evitar la sobreprotección, exigiendo un comportamiento adecuado y estimulando las capacidades del hijo, reforzando y alabando sus logros."
+    },
+    {
+      "question": "¿Qué debe hacer el centro respecto a las situaciones de conversación familiar?",
+      "options": [
+        "Supervisarlas mediante visitas",
+        "Dar orientaciones sobre cómo gestionarlas",
+        "Grabarlas para análisis",
+        "Planificarlas semanalmente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro debe dar orientaciones sobre las situaciones de conversación, como indicar cuándo es el turno del hijo, guiar su intervención con preguntas sencillas e introducir pausas."
+    },
+    {
+      "question": "¿Qué debe tenerse en cuenta primero para la intervención según el sistema de comunicación?",
+      "options": [
+        "La edad del alumno y el curso escolar",
+        "El tipo de pérdida auditiva y su gravedad",
+        "Las preferencias de la familia",
+        "Los recursos disponibles en el centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe tenerse en cuenta primero el tipo de pérdida auditiva y su gravedad, y después el sistema de comunicación elegido, para planificar la intervención adecuada."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de la intervención en comunicación gestual según el protocolo?",
+      "options": [
+        "Complementar el lenguaje oral",
+        "Aprendizaje de la lengua signada por familia y centro",
+        "Facilitar la integración social",
+        "Desarrollar la expresión corporal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo de toda intervención en comunicación gestual es el aprendizaje de la lengua signada por familia y centro, aunque se empleen ayudas técnicas."
+    },
+    {
+      "question": "¿Para qué sirve principalmente la intervención en educación auditiva?",
+      "options": [
+        "Para mejorar la memoria auditiva",
+        "Para aprovechar los restos sonoros del alumno",
+        "Para desarrollar el oído musical",
+        "Para prevenir el deterioro auditivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La educación auditiva sirve para aprovechar los restos sonoros del alumno, ayudando a desarrollar su oralidad, escritura y manejo en entornos sonoros, además de gestionar la adaptación de prótesis."
+    },
+    {
+      "question": "¿Qué elementos considera la intervención en lectura labial además de los labios?",
+      "options": [
+        "Volumen y tono de voz",
+        "Gestos, postura corporal y contexto",
+        "Iluminación y distancia",
+        "Velocidad y claridad del habla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La lectura labial tiene en cuenta la información de labios, gestos, postura corporal y contexto, requiriendo interlocutor cercano, luz adecuada, estar de frente y hablar pausadamente."
+    },
+    {
+      "question": "¿Cuál es el primer paso en la intervención para el desarrollo del lenguaje oral según el protocolo?",
+      "options": [
+        "Desarrollo semántico",
+        "Desarrollo morfosintáctico",
+        "Adquisición de la oralidad",
+        "Desarrollo fonológico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El primer paso es la adquisición de la oralidad, procurando la articulación de sílabas, palabras y frases mediante juegos vocálicos y estimulación de primeras palabras."
+    },
+    {
+      "question": "¿Qué prácticas menciona el protocolo para la adquisición de la oralidad?",
+      "options": [
+        "Ejercicios de respiración y vocalización",
+        "Juegos vocálicos y estimulación de primeras palabras",
+        "Imitación de sonidos y repetición de frases",
+        "Lectura labial y palabra complementada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la adquisición de la oralidad, el protocolo menciona específicamente juegos vocálicos y estimulación de las primeras palabras como prácticas fundamentales."
+    },
+    {
+      "question": "¿Qué material específico basado en pictogramas menciona el protocolo para la morfosintaxis?",
+      "options": [
+        "Sistema SPC",
+        "Tren de Palabras de M. Monfort",
+        "Tableros de comunicación",
+        "PECS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El protocolo menciona específicamente el Tren de Palabras de M. Monfort, basado en pictogramas que preceden y se combinan con el lenguaje escrito."
+    },
+    {
+      "question": "¿Qué otros materiales menciona el protocolo para el desarrollo morfosintáctico además del Tren de Palabras?",
+      "options": [
+        "Tarjetas de vocabulario y fichas gramaticales",
+        "Organigrama de Perdoncini y organifrase de Delgado",
+        "Cuadernos de ejercicios y libros de texto adaptados",
+        "Software educativo y aplicaciones móviles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Además del Tren de Palabras, el protocolo menciona el organigrama de Perdoncini, el organifrase de Delgado, programas informáticos y láminas de secuenciación temporal."
+    },
+    {
+      "question": "¿Cómo debe adaptarse la evaluación al nivel lingüístico del alumno según el protocolo?",
+      "options": [
+        "Simplificando todos los contenidos",
+        "Empleando el léxico trabajado en el aula y formulando preguntas de manera directa",
+        "Realizando evaluaciones exclusivamente orales",
+        "Reduciendo el número de preguntas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe adaptarse empleando el léxico trabajado en el aula, formulando preguntas de manera directa, acompañando con imágenes, gráficos o esquemas, y descomponiendo enunciados."
+    },
+    {
+      "question": "¿Qué se debe proporcionar en la evaluación según el protocolo?",
+      "options": [
+        "Más tiempo para realizar las pruebas",
+        "Información por escrito y con apoyo visual",
+        "Pruebas adaptadas de menor dificultad",
+        "Evaluación continua en lugar de exámenes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Puede ser de utilidad proporcionar la información por escrito y con apoyo visual, adaptar al nivel lingüístico y asegurarse de que comprende lo que se quiere valorar."
+    },
+    {
+      "question": "¿Qué profesionales pueden colaborar en la evaluación según el protocolo?",
+      "options": [
+        "El orientador y el tutor",
+        "El intérprete de lengua de signos o el PT",
+        "El AL y el médico",
+        "Los servicios sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El protocolo menciona que se puede contar con la colaboración del intérprete de lengua de signos o del PT durante las evaluaciones."
+    },
+    {
+      "question": "Durante las sesiones de evaluación trimestrales, ¿qué debe valorarse respecto a las condiciones del aula?",
+      "options": [
+        "La temperatura y ventilación",
+        "Las condiciones acústicas y lumínicas",
+        "El mobiliario y la decoración",
+        "El tamaño y la capacidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe valorarse trimestralmente la adecuación de las condiciones acústicas y lumínicas del aula, entre otros aspectos como las medidas de atención, sistema de comunicación y organización de apoyos."
+    },
+    {
+      "question": "¿Qué aspectos organizativos deben valorarse en las sesiones de evaluación trimestrales?",
+      "options": [
+        "Horarios y calendario escolar",
+        "Organización de apoyos e idoneidad de recursos técnicos y humanos",
+        "Actividades extraescolares y complementarias",
+        "Agrupamientos y distribución de espacios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe valorarse la organización de apoyos, la idoneidad de los recursos técnicos y humanos, y el nivel de coordinación de los profesionales que intervienen."
+    },
+    {
+      "question": "¿Qué medida ordinaria menciona el protocolo respecto a la organización del centro?",
+      "options": [
+        "Reducción de ratio",
+        "Adecuación de horarios, agrupamientos y espacios",
+        "Aumento de profesorado de apoyo",
+        "Creación de aulas específicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como medida ordinaria se menciona la adecuación de la estructura organizativa del centro (horarios, agrupamientos, espacios) a las características del alumnado."
+    },
+    {
+      "question": "¿Qué tipo de metodologías se proponen como medidas ordinarias?",
+      "options": [
+        "Metodologías tradicionales con apoyo individual",
+        "Metodologías basadas en trabajo colaborativo en grupos heterogéneos y aprendizaje por proyectos",
+        "Metodologías específicas para discapacidad auditiva",
+        "Metodologías de enseñanza directa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se proponen metodologías basadas en el trabajo colaborativo en grupos heterogéneos, tutoría entre iguales, aprendizaje por proyectos y otras que promuevan la inclusión."
+    },
+    {
+      "question": "¿Qué puede adaptarse como medida ordinaria en la evaluación?",
+      "options": [
+        "Los contenidos evaluados",
+        "Los criterios de calificación",
+        "Los tiempos e instrumentos o procedimientos",
+        "Los objetivos de aprendizaje"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Como medida ordinaria se puede realizar la adaptación de los tiempos e instrumentos o procedimientos de evaluación, sin modificar objetivos ni contenidos."
+    },
+    {
+      "question": "¿Cuáles son las medidas extraordinarias más frecuentes en discapacidad auditiva según el protocolo?",
+      "options": [
+        "Programas específicos y aulas de apoyo",
+        "Adaptaciones curriculares y apoyo del profesorado especialista en PT o AL",
+        "Flexibilización de la escolarización y cambio de modalidad",
+        "Atención educativa domiciliaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las medidas extraordinarias más frecuentes en discapacidad auditiva son las adaptaciones curriculares y el apoyo del profesorado especialista en PT o AL."
+    },
+    {
+      "question": "¿Cuándo se aplican las medidas extraordinarias según el protocolo?",
+      "options": [
+        "Desde el diagnóstico de la discapacidad",
+        "Una vez agotadas las de carácter ordinario",
+        "Al inicio de cada etapa educativa",
+        "Cuando lo solicite la familia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las medidas extraordinarias se aplican una vez agotadas las de carácter ordinario, siendo un proceso secuencial de intensificación de apoyos."
+    },
+    {
+      "question": "¿Qué debe analizar el centro respecto a sus dependencias?",
+      "options": [
+        "La accesibilidad física",
+        "Las condiciones acústicas y visuales",
+        "La seguridad estructural",
+        "El aprovechamiento de espacios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro debe analizar las condiciones acústicas y visuales de las dependencias e identificar las adaptaciones que requieren los medios de comunicación audio-visual."
+    },
+    {
+      "question": "¿Qué recursos específicos menciona el protocolo para reducir barreras comunicativas en el centro?",
+      "options": [
+        "Pictogramas y señalización visual",
+        "Avisos luminosos, FM, bucles magnéticos, señalizaciones y megafonía de calidad",
+        "Tablets y ordenadores adaptados",
+        "Material didáctico específico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se mencionan avisos luminosos, sistemas FM, bucles magnéticos, señalizaciones, megafonía de calidad, videoportero y conocimiento de la lengua de signos."
+    },
+    {
+      "question": "¿Qué recursos personales especializados debe optimizar el centro?",
+      "options": [
+        "Tutores, orientadores y profesorado de apoyo",
+        "Profesorado de AL, PT, intérprete de lengua de signos y orientador",
+        "Educadores sociales, mediadores y logopedas",
+        "Auxiliares educativos, enfermeros y trabajadores sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro debe optimizar: profesorado de AL (Audición y Lenguaje), PT (Pedagogía Terapéutica), intérprete de lengua de signos y orientador."
+    },
+    {
+      "question": "¿Qué debe organizar el centro respecto a su profesorado?",
+      "options": [
+        "Reuniones de coordinación",
+        "Formación del profesorado",
+        "Distribución de tutorías",
+        "Evaluación del desempeño"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro debe organizar la formación del profesorado en aspectos relacionados con la discapacidad auditiva y las estrategias de intervención."
+    },
+    {
+      "question": "En centros con alumnado signante, ¿qué debe promoverse además de material visual?",
+      "options": [
+        "Actividades de sensibilización",
+        "Cursos de formación en lengua de signos para profesorado y personal no docente",
+        "Intercambios con otros centros",
+        "Jornadas de puertas abiertas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe promoverse la formación mediante cursos de lengua de signos para el profesorado y personal no docente, y desarrollar sesiones de enseñanza con compañeros."
+    },
+    {
+      "question": "¿Qué puede implementarse como materia de libre configuración según el protocolo?",
+      "options": [
+        "Tecnología de apoyo",
+        "Lengua de signos",
+        "Comunicación aumentativa",
+        "Habilidades sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El protocolo menciona que se puede implementar como materia de libre configuración la lengua de signos, favoreciendo la comunicación inclusiva."
+    },
+    {
+      "question": "¿Con qué entidades debe colaborar el centro educativo?",
+      "options": [
+        "Con servicios sanitarios y sociales",
+        "Con familias, entidades, asociaciones y otras organizaciones",
+        "Con otros centros educativos",
+        "Con la administración educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro debe colaborar con las familias, con las entidades, con las asociaciones y con otras organizaciones relacionadas con la discapacidad auditiva."
+    },
+    {
+      "question": "¿Qué debe hacer el centro respecto a las actividades complementarias?",
+      "options": [
+        "Adaptarlas o eliminarlas",
+        "Emplear medios técnicos oportunos y hacer una adecuada planificación",
+        "Realizarlas sin modificaciones",
+        "Contar siempre con apoyo especializado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro debe emplear los medios técnicos oportunos en las actividades complementarias (salidas, visitas, excursiones) para lo cual debe hacerse una adecuada planificación."
+    },
+    {
+      "question": "¿Cuándo debe informarse a las familias sobre fiestas y salidas?",
+      "options": [
+        "Con una semana de antelación",
+        "Por adelantado",
+        "El día anterior",
+        "En la reunión trimestral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro debe informar por adelantado al alumnado y a la familia de las actividades que se van a realizar en las fiestas y salidas."
+    },
+    {
+      "question": "¿Qué debe valorarse respecto a profesionales especializados según el protocolo?",
+      "options": [
+        "Su titulación y experiencia",
+        "La necesidad de intervención de mediadores, intérpretes que colaboren con el profesorado",
+        "Su disponibilidad horaria",
+        "Su formación continua"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro debe valorar la necesidad de intervención de profesionales especializados (mediadores, intérprete de lengua de signos) que colaboren con el profesorado."
+    },
+    {
+      "question": "¿Qué debe facilitarse al centro respecto a la coordinación y preparación de material?",
+      "options": [
+        "Recursos económicos",
+        "Tiempos de coordinación y de preparación de material",
+        "Espacios adecuados",
+        "Personal de apoyo administrativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro debe facilitar los tiempos de coordinación y de preparación de material necesarios para la adecuada atención al alumnado con discapacidad auditiva."
+    },
+    {
+      "question": "En centros con alumnado signante, ¿qué tipo de carteles debe colocarse?",
+      "options": [
+        "Carteles con pictogramas",
+        "Carteles informativos en lengua escrita y en lengua de signos",
+        "Carteles con códigos QR",
+        "Carteles con imágenes explicativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deben colocarse carteles informativos en lengua escrita y en lengua de signos para facilitar el acceso a la información de todo el alumnado."
+    },
+    {
+      "question": "¿Qué se recomienda favorecer respecto al alumnado signante de diferentes centros?",
+      "options": [
+        "Competiciones deportivas",
+        "Relación e intercambio en la búsqueda de modelos y referentes",
+        "Actividades culturales conjuntas",
+        "Proyectos colaborativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se recomienda favorecer la relación e intercambio con otro alumnado signante de diferentes centros en la búsqueda de modelos y referentes para este alumnado."
+    },
+    {
+      "question": "¿Cómo debe dirigirse el profesor al alumnado para repetir instrucciones según el protocolo?",
+      "options": [
+        "A través del intérprete",
+        "Dirigirse al alumnado directamente",
+        "En voz más alta",
+        "Mediante gestos naturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El profesor debe dirigirse al alumnado para repetir o transmitir determinadas instrucciones o explicaciones individuales de manera directa."
+    },
+    {
+      "question": "¿Qué debe hacerse con las ideas durante las explicaciones?",
+      "options": [
+        "Exponerlas todas por igual",
+        "Incidir en las ideas principales",
+        "Desarrollarlas exhaustivamente",
+        "Dejar que el alumno las identifique"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Durante las explicaciones se debe incidir en las ideas principales para facilitar la comprensión y el seguimiento del contenido esencial."
+    },
+    {
+      "question": "¿Cómo se debe comprobar la comprensión del alumno según el protocolo?",
+      "options": [
+        "Mediante exámenes frecuentes",
+        "Con preguntas concretas sobre lo explicado",
+        "Observando su expresión facial",
+        "Pidiendo que tome apuntes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe comprobar lo que entendió con preguntas concretas sobre el mismo, asegurando así que ha comprendido el mensaje o explicación."
+    },
+    {
+      "question": "¿Qué debe relacionarse para favorecer la comprensión según el protocolo?",
+      "options": [
+        "Los contenidos con la vida real",
+        "Los contenidos de las diferentes áreas del currículo",
+        "Los contenidos con evaluaciones previas",
+        "Los contenidos teóricos con prácticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe relacionarse los contenidos de las diferentes áreas del currículo para favorecer la comprensión, organización de los contenidos y la aplicación de los mismos."
+    },
+    {
+      "question": "¿Qué debe facilitarse al alumno respecto a los materiales según el protocolo?",
+      "options": [
+        "Materiales adaptados de menor nivel",
+        "Materiales en diversos formatos",
+        "Más materiales que al resto",
+        "Materiales específicos comerciales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe trabajar técnicas de estudio y facilitar materiales en diversos formatos para atender a las diferentes necesidades y formas de acceso a la información."
+    },
+    {
+      "question": "¿Qué orientación da el protocolo respecto a la voz y el habla del alumno?",
+      "options": [
+        "Corregir constantemente",
+        "Ayudarle a modular su voz y su habla",
+        "No intervenir para no cohibirle",
+        "Trabajarlo exclusivamente con el AL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe ayudarle a modular su voz y su habla, siendo esta una tarea continua que implica a todo el profesorado, no exclusivamente al especialista."
+    },
+    {
+      "question": "¿Qué debe hacerse respecto a la recepción en otras lenguas?",
+      "options": [
+        "Eximir al alumno de lenguas extranjeras",
+        "Facilitar la recepción, comprensión y expresión en otras lenguas",
+        "Limitarse a la lengua materna",
+        "Usar exclusivamente métodos visuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe facilitarse la recepción, comprensión y expresión en otras lenguas, adaptando las metodologías pero sin renunciar al aprendizaje de idiomas."
+    },
+    {
+      "question": "¿Qué debe hacerse con los materiales y contenidos que se trabajarán en clase?",
+      "options": [
+        "Entregarlos al finalizar la sesión",
+        "Proporcionarlos con antelación al alumno",
+        "Enviarlos por correo electrónico",
+        "Publicarlos en la plataforma educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe proporcionar con antelación al alumno los materiales y contenidos que se trabajarán en la clase para facilitar su preparación y seguimiento."
+    },
+    {
+      "question": "Cuando usa emisora FM, ¿dónde debe situarse el profesorado?",
+      "options": [
+        "En cualquier lugar del aula",
+        "En un lugar con buena visibilidad lo más cerca posible del alumno",
+        "Siempre de frente a la pizarra",
+        "Cerca de la puerta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe situarse en un lugar con buena visibilidad lo más cerca posible del alumno, para facilitar tanto la recepción auditiva como la visual."
+    },
+    {
+      "question": "¿Qué debe hacer la familia respecto a sentimientos negativos según el protocolo?",
+      "options": [
+        "Buscar apoyo psicológico externo",
+        "Superar sentimientos de culpa y de rechazo",
+        "Compartirlos en grupos de apoyo",
+        "Focalizarse en las capacidades del hijo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La familia necesita superar sentimientos de culpa y de rechazo, siendo este un proceso necesario para poder apoyar adecuadamente al hijo y colaborar con el centro."
+    },
+    {
+      "question": "¿Qué debe hacer la familia respecto a las capacidades del hijo?",
+      "options": [
+        "Compararlas con otros niños",
+        "Estimular y potenciar las capacidades reforzando y alabando sus logros",
+        "Focalizarse en las limitaciones",
+        "Establecer expectativas realistas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La familia debe estimular y potenciar las capacidades del hijo reforzando y alabando sus logros, fomentando así su autoestima y motivación."
+    },
+    {
+      "question": "¿Qué debe hacer el centro para ayudar a la familia a fomentar la autonomía?",
+      "options": [
+        "Enviar tareas específicas semanales",
+        "Dar orientaciones para implicar al hijo en la vida familiar y social",
+        "Organizar talleres de habilidades",
+        "Facilitar material de apoyo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro debe dar orientaciones para fomentar la autonomía y la interacción social, implicando al hijo en la vida familiar y social."
+    },
+    {
+      "question": "¿Qué implica la participación de la familia en el desarrollo del lenguaje oral?",
+      "options": [
+        "Asistir a las sesiones de logopedia",
+        "Participar activamente en la intervención",
+        "Practicar ejercicios en casa",
+        "Supervisar las tareas escolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La intervención para el desarrollo del lenguaje oral implica la participación activa de la familia, siendo agentes fundamentales en el proceso de adquisición del lenguaje."
+    },
+    {
+      "question": "¿Qué debe comprobar la familia según las orientaciones del centro?",
+      "options": [
+        "El funcionamiento de las ayudas técnicas",
+        "La comprensión del hijo",
+        "La realización de tareas",
+        "El comportamiento en casa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las orientaciones que debe dar el centro a las familias está cómo comprobar la comprensión del hijo durante las interacciones comunicativas."
+    },
+    {
+      "question": "Según el protocolo, ¿dónde debe ubicarse el alumno respecto al profesor?",
+      "options": [
+        "En las primeras filas",
+        "Con respecto al profesor para poder ver lo que dicen y participar",
+        "Cerca de la puerta",
+        "En el centro del aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ubicación debe ser idónea con respecto al profesor para que pueda enterarse de lo que dicen y participar de la conversación, además de tener la luz natural de espaldas."
+    },
+    {
+      "question": "¿Qué menciona el protocolo sobre actividades en pequeño grupo?",
+      "options": [
+        "Deben evitarse",
+        "Facilitar la participación activa en actividades en pequeño grupo y rincones de trabajo",
+        "Requieren siempre apoyo especializado",
+        "Son menos efectivas que las individuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe facilitar la participación activa del alumno en actividades en pequeño grupo y en rincones de trabajo, siendo estas metodologías especialmente beneficiosas."
+    },
+    {
+      "question": "¿Qué rango define una pérdida auditiva leve según el protocolo?",
+      "options": [
+        "15-30 dB",
+        "20-40 dB",
+        "25-45 dB",
+        "30-50 dB"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La pérdida auditiva leve se sitúa entre 20 y 40 dB, causando dificultades para percibir el habla en ambientes ruidosos."
+    },
+    {
+      "question": "¿En qué rango de decibelios se sitúa una pérdida auditiva severa?",
+      "options": [
+        "61-85 dB",
+        "65-90 dB",
+        "71-90 dB",
+        "75-95 dB"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La pérdida severa se sitúa entre 71-90 dB. Es imprescindible el uso de ayudas técnicas y el niño no adquirirá la lengua oral de manera espontánea."
+    },
+    {
+      "question": "¿Qué tipo de audífono se recomienda para pérdidas de leves a moderadas insertándose completamente en el canal auditivo?",
+      "options": [
+        "Audífono retroauricular",
+        "Audífono intrauricular",
+        "Audífono de inserción profunda",
+        "Audífono intracanal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los audífonos de inserción profunda son los más pequeños, van completamente alojados en el interior del canal auditivo y se emplean en pérdidas de leves a moderadas."
+    },
+    {
+      "question": "¿Para qué rango de pérdida auditiva se utilizan los audífonos intracanales?",
+      "options": [
+        "Leve a moderada",
+        "Leve a moderadamente severa",
+        "Moderada a severa",
+        "Severa a profunda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los audífonos intracanales se hacen a la medida del canal auditivo y se utilizan en casos de pérdida leve a moderadamente severa."
+    },
+    {
+      "question": "¿Qué tipo de pérdida auditiva normalmente requiere implante coclear?",
+      "options": [
+        "Pérdida conductiva severa",
+        "Pérdida mixta profunda",
+        "Pérdida neurosensorial profunda o total",
+        "Pérdida bilateral moderada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El implante coclear se emplea normalmente en personas con una pérdida auditiva neurosensorial profunda o total, donde los audífonos no son suficientes."
+    },
+    {
+      "question": "¿Qué órganos de articulación emplea la lengua de signos?",
+      "options": [
+        "Manos y brazos",
+        "Manos, brazos y rostro",
+        "Manos, brazos, tronco y rostro",
+        "Manos, brazos, rostro y cuello"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La lengua de signos emplea como órganos de articulación las manos, brazos, tronco y rostro, siendo un sistema de comunicación completo y complejo."
+    },
+    {
+      "question": "¿En qué situaciones se utiliza el alfabeto dactilológico según el protocolo?",
+      "options": [
+        "Para toda la comunicación básica",
+        "Para deletrear nombres propios o explicar cómo se escribe una palabra",
+        "Como sistema principal de comunicación",
+        "Para comunicarse con personas que no conocen la lengua de signos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alfabeto dactilológico se utiliza cuando deletreamos nombres propios, explicamos cómo se escribe una palabra, o como apoyo a la lengua oral para facilitar la adquisición de la escritura."
+    },
+    {
+      "question": "¿Qué razón explica por qué no reconocemos nuestra voz grabada según el protocolo?",
+      "options": [
+        "La calidad de la grabación",
+        "La vía ósea",
+        "La vía aérea",
+        "El procesamiento cerebral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La vía ósea es la principal razón por la que cuando escuchamos nuestra propia voz grabada no la reconocemos, ya que normalmente la escuchamos también por conducción ósea."
+    },
+    {
+      "question": "¿Qué indica el símbolo específico del bucle magnético?",
+      "options": [
+        "Que hay intérprete de lengua de signos disponible",
+        "Que el espacio cuenta con bucle magnético y es accesible",
+        "Que el espacio tiene ayudas visuales",
+        "Que el espacio está adaptado para sillas de ruedas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La instalación del bucle magnético se indica mediante un símbolo específico que sirve para reconocer qué espacios cuentan con él y por lo tanto son accesibles auditivamente."
+    },
+    {
+      "question": "Entre 9 y 12 meses, ¿qué indica posible pérdida auditiva respecto al lenguaje?",
+      "options": [
+        "No emite consonantes",
+        "No dice 'papá' y 'mamá' con contenido semántico",
+        "No balbucea",
+        "No imita sonidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre 9 y 12 meses, no decir 'papá' y 'mamá' con contenido semántico es un indicador de pérdida auditiva, junto con no reconocer palabras familiares o no entender la negación."
+    },
+    {
+      "question": "Entre 12 y 18 meses, ¿qué comportamiento sugiere pérdida auditiva?",
+      "options": [
+        "No camina sin ayuda",
+        "No localiza la fuente de sonido",
+        "No come solo",
+        "No juega con otros niños"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre 12 y 18 meses, no localizar la fuente de sonido, no señalar objetos familiares cuando se nombran o no entretenerse emitiendo y escuchando sonidos son indicadores de pérdida auditiva."
+    },
+    {
+      "question": "¿Qué aspecto de la comunicación NO le llama la atención a un niño con posible pérdida auditiva entre 18-24 meses?",
+      "options": [
+        "Los juguetes",
+        "Los cuentos",
+        "Los colores",
+        "Las texturas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre 18 y 24 meses, que no le llamen la atención los cuentos es un indicador de posible pérdida auditiva, junto con no conocer su nombre o no comprender órdenes sencillas sin gestos."
+    },
+    {
+      "question": "Entre 4 y 5 años, ¿qué aspecto del desarrollo lingüístico indica pérdida auditiva?",
+      "options": [
+        "No escribe su nombre",
+        "No se produce un aumento significativo de vocabulario",
+        "No lee palabras simples",
+        "No cuenta hasta 20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre 4 y 5 años, que no se produzca un aumento significativo de vocabulario es indicador de pérdida auditiva, junto con no mantener conversaciones sencillas o no articular la mayoría de los sonidos."
+    },
+    {
+      "question": "¿Qué debe hacerse tras confirmar la pérdida auditiva en un alumno?",
+      "options": [
+        "Cambiar al alumno de centro",
+        "Poner en marcha las medidas educativas oportunas",
+        "Esperar a la siguiente evaluación",
+        "Solicitar una plaza en educación especial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el caso de confirmarse la pérdida auditiva, el centro deberá poner en marcha las medidas educativas oportunas sin demora para garantizar la adecuada atención al alumnado."
+    },
+    {
+      "question": "¿Qué se debe considerar al analizar la funcionalidad de la audición para facilitar la adquisición de un sistema de comunicación?",
+      "options": [
+        "Solo la pérdida auditiva en decibelios",
+        "La funcionalidad auditiva, habilidad para labiolectura, competencia lingüística y problemas asociados",
+        "Únicamente la edad del alumno",
+        "Solo las ayudas técnicas disponibles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe analizar la funcionalidad de la audición, habilidad para labiolectura, competencia lingüística y presencia de problemas asociados para decidir el sistema de comunicación más adecuado."
+    },
+    {
+      "question": "¿Para qué son útiles los restos auditivos además de para la comunicación oral?",
+      "options": [
+        "Para la música exclusivamente",
+        "Para escuchar ruidos importantes como timbres y alarmas, lectura labiofacial y educación de la voz",
+        "Solo para detectar presencia de personas",
+        "Para la orientación espacial únicamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los restos auditivos son útiles para la comunicación oral, para escuchar ruidos importantes (timbres, alarmas), para la lectura labiofacial y para la educación de la voz."
+    },
+    {
+      "question": "¿Por qué es el lenguaje escrito un medio importante para el alumnado con discapacidad auditiva?",
+      "options": [
+        "Porque es más fácil que el oral",
+        "Porque es un medio visual que representa los códigos del lenguaje oral",
+        "Porque no requiere ayudas técnicas",
+        "Porque sustituye a la lengua de signos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El lenguaje escrito es un medio visual de comunicación que representa los diferentes códigos del lenguaje oral (fonológico, sintáctico y semántico), siendo fundamental aunque no sea la comunicación natural para muchas personas con déficit auditivo."
+    },
+    {
+      "question": "¿Qué debe incluir el PEC respecto a la diversidad?",
+      "options": [
+        "Un anexo sobre discapacidad",
+        "La diversidad mediante el PAT",
+        "Protocolos médicos",
+        "Listados de alumnado ACNEAE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Proyecto Educativo del Centro (PEC) debe incluir la diversidad mediante el Plan de Atención a la Diversidad (PAT), contemplando las necesidades específicas del alumnado."
+    }
+  ]
+}

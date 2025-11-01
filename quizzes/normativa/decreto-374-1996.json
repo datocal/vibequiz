@@ -1,0 +1,174 @@
+{
+  "title": "DECRETO 374/1996",
+  "description": "Test sobre el Reglamento orgánico de las escuelas de educación infantil y colegios de educación primaria de Galicia.",
+  "category": "educacion",
+  "icon": "⚖️",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿Cuál es el mandato de los órganos unipersonales de gobierno en un centro educativo?",
+      "options": [
+        "Tres años, excepto en centros de nueva creación que será de dos años",
+        "Cuatro años, excepto en centros de nueva creación que será de tres años",
+        "Cinco años en todos los centros",
+        "Dos años renovables automáticamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 13º, el mandato de los órganos unipersonales de gobierno será de cuatro años, contados a partir de su nombramiento y correspondiente toma de posesión, excepto en los centros de nueva creación, que será de tres años."
+    },
+    {
+      "question": "En un centro con 7 unidades, ¿qué órganos unipersonales de gobierno debe tener?",
+      "options": [
+        "Director, jefe de estudios y secretario",
+        "Director y secretario solamente",
+        "Solo director",
+        "Director, dos secretarios y jefe de estudios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 14º, en los centros con seis o siete unidades habrá director y secretario. El director asumirá las funciones del jefe de estudios."
+    },
+    {
+      "question": "¿Cuál es la antigüedad mínima en el cuerpo de maestros que se requiere para optar al cargo de director?",
+      "options": [
+        "Tres años",
+        "Cuatro años",
+        "Cinco años",
+        "Seis años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 16º.1.a), para optar al cargo de director se debe tener, al menos, una antigüedad de cinco años en el cuerpo de maestros."
+    },
+    {
+      "question": "¿Qué mayoría se requiere en el consejo escolar para proponer la revocación del nombramiento del director?",
+      "options": [
+        "Mayoría simple",
+        "Mayoría absoluta",
+        "Mayoría de dos tercios",
+        "Unanimidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 23º.1.c), el cese del director puede producirse por propuesta de revocación acordada por mayoría de dos tercios del consejo escolar."
+    },
+    {
+      "question": "¿Qué es un colegio rural agrupado?",
+      "options": [
+        "Una escuela situada únicamente en zona rural",
+        "Un grupo de escuelas de menos de seis unidades que se agrupan para constituir un solo colegio público",
+        "Un colegio con más de doce unidades en zona rural",
+        "Una asociación de padres de alumnos de zonas rurales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 2º, las escuelas de educación infantil y colegios de educación primaria de menos de seis unidades situados en ámbitos rurales pueden agruparse para constituir un solo colegio público denominado colegio rural agrupado."
+    },
+    {
+      "question": "En un centro de 8 o más unidades, ¿cuántos maestros elegidos por el claustro forman parte del consejo escolar?",
+      "options": [
+        "Tres maestros",
+        "Cuatro maestros",
+        "Cinco maestros",
+        "Seis maestros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 37º.1.e), en centros de ocho o más unidades, el consejo escolar incluye cinco maestros elegidos por el claustro."
+    },
+    {
+      "question": "¿Cada cuánto tiempo debe renovarse parcialmente el consejo escolar?",
+      "options": [
+        "Cada año",
+        "Cada dos años",
+        "Cada tres años",
+        "Cada cuatro años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 41º, dos años después de que se constituya el consejo escolar con todos los miembros, se llevará a cabo la primera renovación parcial del mismo, y posteriormente cada dos años."
+    },
+    {
+      "question": "¿Quién preside el claustro de profesores?",
+      "options": [
+        "El jefe de estudios",
+        "El secretario del centro",
+        "El director del centro",
+        "El coordinador de ciclo más antiguo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 46º.2, el claustro estará integrado por la totalidad de los profesores que presten servicio en el mismo y será presidido por el director del centro."
+    },
+    {
+      "question": "¿Cuál es la duración del mandato de los coordinadores de ciclo?",
+      "options": [
+        "Un año renovable",
+        "Dos cursos académicos",
+        "Tres años",
+        "Cuatro años como los órganos unipersonales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 55º.2, los coordinadores de ciclo desempeñarán su cargo durante dos cursos académicos y serán designados por el director, oído el equipo de ciclo."
+    },
+    {
+      "question": "¿Quién designa al jefe de estudios y al secretario en un centro?",
+      "options": [
+        "El consejo escolar mediante votación",
+        "El claustro de profesores",
+        "El director entre los maestros con destino definitivo",
+        "El delegado provincial directamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 28º.1, el jefe de estudios y el secretario serán designados por el director entre los maestros con destino definitivo en el centro, previa comunicación al consejo escolar."
+    },
+    {
+      "question": "¿Qué órgano elabora el proyecto educativo del centro?",
+      "options": [
+        "El claustro de profesores",
+        "El consejo escolar",
+        "El equipo directivo",
+        "La comisión de coordinación pedagógica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 86º.1, el equipo directivo elaborará el proyecto educativo del centro de acuerdo con los criterios establecidos por el consejo escolar y las propuestas realizadas por el claustro."
+    },
+    {
+      "question": "En centros con menos de seis unidades, ¿quién asume las funciones de la comisión de coordinación pedagógica?",
+      "options": [
+        "El director en solitario",
+        "El equipo directivo",
+        "El claustro",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 53º.2, en los centros con menos de seis unidades las funciones de la comisión de coordinación pedagógica serán asumidas por el claustro."
+    },
+    {
+      "question": "¿Cuál es el objetivo fundamental de un colegio rural agrupado?",
+      "options": [
+        "Reducir costes administrativos",
+        "Elevar la calidad de la enseñanza de las comunidades rurales y contribuir a su revitalización socioeconómica y cultural",
+        "Facilitar el transporte escolar",
+        "Unificar el profesorado de la zona"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 2º.4, el colegio rural agrupado tendrá como objetivo fundamental elevar la calidad de la enseñanza de las comunidades rurales, así como contribuir a la revitalización socioeconómica y cultural de las mismas."
+    },
+    {
+      "question": "¿Quién aprueba el Reglamento de régimen interior del centro?",
+      "options": [
+        "El claustro de profesores",
+        "El equipo directivo",
+        "El consejo escolar",
+        "El delegado provincial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 43º.e), es atribución del consejo escolar aprobar y modificar el Reglamento de régimen interior del centro."
+    },
+    {
+      "question": "¿Cuántos profesores deben acompañar a los alumnos en actividades complementarias y extraescolares fuera de la localidad?",
+      "options": [
+        "Un profesor por cada 15 alumnos",
+        "Un profesor por cada 20 alumnos",
+        "Un profesor por cada 25 alumnos",
+        "Un profesor por cada 30 alumnos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 76º.c), los alumnos y alumnas serán acompañados por el profesorado correspondiente en la proporción de un profesor o profesora por cada veinte alumnos en actividades que se realicen fuera de la localidad donde está ubicado el centro."
+    }
+  ]
+}

@@ -1,0 +1,1956 @@
+{
+  "title": "Tema 2: Concreción Curricular, Programación y Coordinación Docente",
+  "description": "Test completo sobre la concreción de currículos en el marco del PEC, programación docente, principios pedagógicos y coordinación docente. Incluye 177 preguntas de todos los aspectos del tema 2.",
+  "category": "temas",
+  "icon": "📝",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué define Sacristán (1988) sobre el currículo?",
+      "options": [
+        "Es la expresión de la función socializadora de la escuela y el instrumento que recoge los contenidos para llevar a cabo la práctica pedagógica",
+        "Es un conjunto de normas administrativas que regulan la organización escolar",
+        "Es el documento oficial que establece la evaluación del profesorado",
+        "Es la planificación temporal de las actividades extraescolares del centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Sacristán (1988), el currículo es la expresión de la función socializadora de la escuela y el instrumento que recoge los contenidos para llevar a cabo la práctica pedagógica, reflejando la cultura y los procesos de socialización de la sociedad."
+    },
+    {
+      "question": "Según el artículo 6 de la LOMLOE, ¿qué elementos conforman el currículo?",
+      "options": [
+        "Objetivos, contenidos, metodología y recursos económicos",
+        "Objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación",
+        "Competencias, objetivos de etapa, programaciones y actividades extraescolares",
+        "Contenidos, criterios de promoción, horarios y calendario escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 de la LOMLOE define el currículo como el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas reguladas en la Ley."
+    },
+    {
+      "question": "¿Cuántos elementos integra el currículo según el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Cinco elementos",
+        "Seis elementos",
+        "Siete elementos",
+        "Ocho elementos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 155/2022, en su artículo 6, desarrolla los siete elementos que integra el currículo: objetivos de etapa, competencias clave, perfil de salida, objetivos de área, contenidos, criterios de evaluación y orientaciones pedagógicas."
+    },
+    {
+      "question": "¿Qué porcentaje de los horarios escolares requerirán las enseñanzas mínimas en CC.AA con lengua cooficial?",
+      "options": [
+        "40% de los horarios escolares",
+        "45% de los horarios escolares",
+        "50% de los horarios escolares",
+        "60% de los horarios escolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las enseñanzas mínimas requerirán el 50% de los horarios escolares para las CC.AA que tengan lengua cooficial y el 60% para aquellas que no la tengan."
+    },
+    {
+      "question": "¿En qué documento se integran las concreciones curriculares según el artículo 121 de la LOMLOE?",
+      "options": [
+        "En la Programación General Anual (PGA)",
+        "En el Proyecto Educativo (PE)",
+        "En las Programaciones Didácticas (PD)",
+        "En la Memoria Anual del Centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 121 de la LOMLOE, las concreciones curriculares se integran en el Proyecto Educativo (PE), que es el documento que recoge los valores, fines y prioridades de actuación del centro."
+    },
+    {
+      "question": "¿Qué órgano establece el Claustro para orientar el desarrollo del currículo según el artículo 14 del Decreto 155/2022?",
+      "options": [
+        "Las Programaciones Didácticas",
+        "La Programación General Anual",
+        "La concreción curricular",
+        "El Plan de Acción Tutorial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La concreción curricular es el marco que establece el Claustro de profesores con los criterios y decisiones para orientar el desarrollo del currículo por parte del profesorado y la coordinación interdisciplinaria."
+    },
+    {
+      "question": "¿Cuál de estos elementos NO debe incluirse en la concreción curricular según el artículo 14 del Decreto 155/2022?",
+      "options": [
+        "Los criterios para desarrollar los principios pedagógicos e incorporar los elementos transversales",
+        "Los criterios de carácter general sobre la metodología y los materiales",
+        "La distribución horaria de las áreas y las actividades de aula",
+        "Los criterios para la evaluación, la promoción y la elaboración de las Programaciones Didácticas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La distribución horaria de las áreas y las actividades de aula no forma parte de los elementos mínimos que debe incluir la concreción curricular según el artículo 14 del Decreto 155/2022. Sí deben incluirse aspectos como los criterios para desarrollar principios pedagógicos, metodología, evaluación y promoción."
+    },
+    {
+      "question": "¿Cuál es el tercer nivel de concreción curricular?",
+      "options": [
+        "El currículo oficial establecido por el Gobierno",
+        "Las concreciones curriculares del centro",
+        "Las programaciones de aula",
+        "Las adaptaciones curriculares individualizadas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tercer nivel de concreción curricular corresponde a las programaciones de aula, mediante las cuales el profesorado adapta el currículo a las necesidades del grupo de alumnos, personalizando el proceso de enseñanza-aprendizaje."
+    },
+    {
+      "question": "Según Cabrerizo y Rubio (2007) y Álvarez (2023), ¿qué constituye el cuarto nivel de concreción curricular?",
+      "options": [
+        "Las actividades complementarias y extraescolares",
+        "Los planes de mejora del centro",
+        "Las adaptaciones curriculares individualizadas",
+        "El Plan de Acción Tutorial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Algunos autores como Cabrerizo y Rubio (2007) o Álvarez (2023) mencionan la existencia de un cuarto nivel de concreción curricular referente a las adaptaciones curriculares individualizadas, que consisten en modificar los elementos del currículo para responder a las necesidades educativas especiales del alumnado."
+    },
+    {
+      "question": "¿Qué contenido mínimo debe incluir el Proyecto Educativo según el artículo 121 de la LOMLOE?",
+      "options": [
+        "Los horarios de cada área y el calendario de evaluaciones",
+        "La concreción de los currículos establecidos por la Administración educativa",
+        "Los contratos del personal docente y no docente",
+        "Los presupuestos anuales del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los contenidos mínimos que debe incluir el PE según el artículo 121 de la LOMLOE está la concreción de los currículos establecidos por la Administración educativa, además de otros elementos como principios pedagógicos, planes de convivencia, atención a la diversidad, etc."
+    },
+    {
+      "question": "¿Quién aprueba el Proyecto Educativo del centro?",
+      "options": [
+        "El Claustro de profesores",
+        "El equipo directivo",
+        "El Consejo Escolar",
+        "La Comisión de Coordinación Pedagógica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Proyecto Educativo es elaborado por el equipo directivo atendiendo a las propuestas del claustro de profesores y a las directrices del Consejo Escolar, quien lo evalúa y aprueba."
+    },
+    {
+      "question": "¿Qué documento recoge todos los aspectos relacionados con la organización y funcionamiento del centro según el artículo 125 de la LOMLOE?",
+      "options": [
+        "El Proyecto Educativo",
+        "La concreción curricular",
+        "La Programación General Anual (PGA)",
+        "Las Programaciones Didácticas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 125 de la LOMLOE establece que los centros deben elaborar una Programación General Anual (PGA) que recoja todos los aspectos relacionados con la organización y el funcionamiento del centro, incluyendo las concreciones curriculares anuales."
+    },
+    {
+      "question": "¿Cómo define el artículo 9 de la Orden de 26 de mayo de 2023 las programaciones didácticas?",
+      "options": [
+        "Como el documento que recoge la organización general del centro",
+        "Como el instrumento de planificación curricular específico para desarrollar el proceso de enseñanza y aprendizaje de manera coordinada",
+        "Como el conjunto de adaptaciones curriculares para alumnado con NEE",
+        "Como el plan de formación del profesorado del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 9 de la Orden de 26 de mayo de 2023 define las programaciones didácticas como el instrumento de planificación curricular específico y necesario para desarrollar el proceso de enseñanza y aprendizaje del alumnado de manera coordinada entre el profesorado integrante de los equipos docentes."
+    },
+    {
+      "question": "¿Para qué nivel se elaboran las Programaciones Didácticas?",
+      "options": [
+        "Para cada etapa educativa",
+        "Para cada ciclo educativo",
+        "Para cada nivel educativo",
+        "Para cada grupo de alumnos específico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las Programaciones Didácticas se elaboran para cada nivel educativo, siendo la misma en cada grupo de nivel. Sin embargo, corresponde a cada docente adecuarla a las características específicas de su alumnado."
+    },
+    {
+      "question": "¿Cuál de estos elementos NO es un contenido mínimo de las PD según el artículo 15 del Decreto 155/2022?",
+      "options": [
+        "Los objetivos del área y su contribución al desarrollo de las Competencias Clave",
+        "La relación de las unidades didácticas con su temporalización y secuenciación",
+        "El presupuesto económico para materiales y recursos",
+        "Las medidas de atención a la diversidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El presupuesto económico para materiales NO es un elemento mínimo de las PD según el artículo 15 del Decreto 155/2022. Sí deben incluirse elementos como objetivos, unidades didácticas, metodología, evaluación, atención a la diversidad, transversalidad y evaluación de la práctica docente."
+    },
+    {
+      "question": "¿Qué aplicación informática debe utilizar el profesorado para la elaboración y seguimiento de las PD?",
+      "options": [
+        "PROENS",
+        "XADE",
+        "ABALAR",
+        "SIXA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para la elaboración y seguimiento de las Programaciones Didácticas, el profesorado debe hacer uso de la aplicación informática facilitada por la Consellería en materia de educación llamada PROENS."
+    },
+    {
+      "question": "Según Antúnez et al. (2010), ¿qué característica NO debe reunir una Programación Didáctica?",
+      "options": [
+        "Adecuación al contexto del centro y del aula",
+        "Rigidez para mantener lo planificado sin cambios",
+        "Concreción especificando objetivos y contenidos",
+        "Viabilidad considerando espacios, tiempos y recursos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Antúnez et al. (2010), la programación NO debe ser rígida, sino que debe tener un carácter flexible, de forma que esté abierta a revisiones y modificaciones para adaptarse a las circunstancias cambiantes del aula y responder a las necesidades emergentes del alumnado."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se recogen los principios pedagógicos a considerar en la elaboración de las programaciones?",
+      "options": [
+        "Artículo 12 del Decreto 155/2022",
+        "Artículo 14 del Decreto 155/2022",
+        "Artículo 16 del Decreto 155/2022",
+        "Artículo 18 del Decreto 155/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los principios pedagógicos que deben considerarse en la elaboración de las programaciones se recogen en el artículo 16 del Decreto 155/2022, así como en la concepción constructivista del aprendizaje de Piaget y Vygotsky."
+    },
+    {
+      "question": "¿Qué autor propone el concepto de Zona de Desarrollo Próximo?",
+      "options": [
+        "Piaget",
+        "Ausubel",
+        "Vygotsky",
+        "Sacristán"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vygotsky propone el concepto de Zona de Desarrollo Próximo, que se refiere a partir desde lo que el alumnado ya sabe y lo que puede hacer con la guía de otra persona, construyendo así los nuevos aprendizajes."
+    },
+    {
+      "question": "¿Qué tipo de aprendizaje promueve que el estudiante relacione la nueva información con sus conocimientos previos?",
+      "options": [
+        "Aprendizaje memorístico",
+        "Aprendizaje mecánico",
+        "Aprendizaje significativo",
+        "Aprendizaje conductual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El aprendizaje significativo, según Ausubel, es aquel en el que el discente relaciona la nueva información con sus conocimientos previos, favoreciendo su asimilación y comprensión."
+    },
+    {
+      "question": "¿Qué principio pedagógico se refiere a promover que el alumnado 'aprenda a aprender'?",
+      "options": [
+        "La socialización",
+        "La globalización",
+        "La autonomía",
+        "La motivación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El principio de autonomía se refiere a fomentar que el alumnado 'aprenda a aprender', desarrollando estrategias de autorregulación y gestión del propio aprendizaje y valorando el esfuerzo personal como parte del proceso."
+    },
+    {
+      "question": "¿En qué anexo del Decreto 155/2022 se encuentra la disposición de contenidos por área y curso?",
+      "options": [
+        "Anexo I del Decreto 155/2022",
+        "Anexo II del Decreto 155/2022",
+        "Anexo III del Decreto 155/2022",
+        "Anexo IV del Decreto 155/2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La secuencia coherente de los contenidos y su disposición por área y curso se encuentra en el Anexo II del Decreto 155/2022, que también incluye los criterios de evaluación por área y curso."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece que los centros educativos deben establecer mecanismos de coordinación entre etapas?",
+      "options": [
+        "Artículo 14 del Decreto 155/2022",
+        "Artículo 16 del Decreto 155/2022",
+        "Artículo 18 del Decreto 155/2022",
+        "Artículo 19 del Decreto 155/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 18 del Decreto 155/2022 establece que tanto la Consellería con competencias en materia de educación como los centros educativos deben establecer mecanismos de coordinación entre etapas con el fin de coordinar la transición entre ellas."
+    },
+    {
+      "question": "¿Qué decreto regula el funcionamiento de las escuelas de educación infantil y colegios de educación primaria en Galicia?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 374/1996, de 17 de octubre",
+        "Decreto 79/2010, de 20 de mayo",
+        "Decreto 229/2011, de 7 de diciembre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 374/1996, de 17 de octubre, es el que aprueba el Reglamento orgánico de las escuelas de educación infantil y de los colegios de educación primaria, regulando los órganos de coordinación docente y sus competencias."
+    },
+    {
+      "question": "¿Qué órgano asume las funciones de la CCP en centros con menos de seis unidades?",
+      "options": [
+        "El equipo directivo",
+        "El Consejo Escolar",
+        "El Claustro de profesores",
+        "Los coordinadores de ciclo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En los centros de menos de seis unidades, las funciones de la Comisión de Coordinación Pedagógica (CCP), del equipo de dinamización de la lengua gallega y del equipo de actividades complementarias y extraescolares son asumidas por el Claustro de profesores."
+    },
+    {
+      "question": "¿Qué artículos del Decreto 374/1996 regulan los equipos de ciclo?",
+      "options": [
+        "Artículos 51 y 52",
+        "Artículos 53 y 54",
+        "Artículos 54 y 55",
+        "Artículos 61 y 62"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los equipos de ciclo están regulados en los artículos 54 y 55 del Decreto 374/1996, que establecen su composición, competencias y funcionamiento."
+    },
+    {
+      "question": "¿Cuánto tiempo desempeña sus funciones el coordinador de ciclo?",
+      "options": [
+        "Un curso académico",
+        "Dos cursos académicos",
+        "Tres cursos académicos",
+        "Cuatro cursos académicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El coordinador de ciclo desempeñará sus funciones durante dos cursos académicos, según establece la normativa sobre equipos de ciclo."
+    },
+    {
+      "question": "¿Con qué frecuencia mínima debe reunirse el equipo de ciclo?",
+      "options": [
+        "Una vez cada trimestre",
+        "Una vez al mes",
+        "Una vez cada dos meses",
+        "Dos veces al mes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El equipo de ciclo debe reunirse como mínimo una vez al mes con la asistencia obligatoria de todos sus miembros, y el coordinador levantará un acta con un resumen de los temas tratados."
+    },
+    {
+      "question": "¿Quién preside la Comisión de Coordinación Pedagógica (CCP)?",
+      "options": [
+        "El jefe de estudios",
+        "El director",
+        "El coordinador de ciclo más antiguo",
+        "El secretario del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Comisión de Coordinación Pedagógica (CCP) es el órgano presidido por el director del centro, según establecen los artículos 61 y 62 del Decreto 374/1996."
+    },
+    {
+      "question": "¿Quién actúa como secretario de la CCP?",
+      "options": [
+        "El jefe de estudios por defecto",
+        "El coordinador del equipo de biblioteca",
+        "Un miembro de la CCP designado por el director",
+        "El profesor de apoyo a la atención del alumnado con NEE"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Actuará como secretario de la CCP un miembro de esta designado por el director, según establece el Decreto 374/1996."
+    },
+    {
+      "question": "¿Cuál de estas NO es una competencia de la CCP?",
+      "options": [
+        "Establecer las directrices generales para la elaboración de las Programaciones Didácticas",
+        "Aprobar el presupuesto anual del centro",
+        "Vigilar que las programaciones se realicen conforme a los criterios establecidos por el claustro",
+        "Asegurar la coherencia entre el PE, la PGA y las Programaciones Didácticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aprobar el presupuesto anual del centro NO es una competencia de la CCP. Sus competencias se centran en aspectos pedagógicos como establecer directrices para las programaciones, vigilar su cumplimiento y asegurar la coherencia entre documentos educativos."
+    },
+    {
+      "question": "¿Cuántas sesiones extraordinarias debe realizar la CCP al año como mínimo?",
+      "options": [
+        "Una sesión extraordinaria al comienzo del curso",
+        "Una sesión extraordinaria al finalizar el curso",
+        "Dos sesiones extraordinarias: una al comienzo y otra al finalizar el curso",
+        "Tres sesiones extraordinarias durante el curso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La CCP se reunirá mensualmente realizando dos sesiones extraordinarias: una al comienzo del curso y otra al finalizarlo, además de cuantas otras se consideren necesarias."
+    },
+    {
+      "question": "¿Cuál es el período mínimo que debe desempeñar sus funciones el responsable de biblioteca?",
+      "options": [
+        "Un año",
+        "Dos años",
+        "Tres años",
+        "Cuatro años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El responsable de biblioteca desempeña sus funciones por un período mínimo de dos años y debe tener destino definitivo en el centro."
+    },
+    {
+      "question": "¿Qué decreto regula el Equipo de Dinamización de la Lengua Gallega?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 374/1996, de 17 de octubre",
+        "Decreto 79/2010, de 20 de mayo",
+        "Decreto 229/2011, de 7 de diciembre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 79/2010, de 20 de mayo, para el plurilingüismo en la enseñanza no universitaria de Galicia, en su artículo 15 menciona y regula el Equipo de Dinamización de la Lengua Gallega (EDLG)."
+    },
+    {
+      "question": "¿Quién nombra y supervisa el Equipo de Dinamización de la Lengua Gallega?",
+      "options": [
+        "El Claustro de profesores",
+        "El Consejo Escolar",
+        "La dirección del centro",
+        "La Comisión de Coordinación Pedagógica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Equipo de Dinamización de la Lengua Gallega (EDLG) es nombrado y supervisado por la dirección del centro, según establece el Decreto 79/2010."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 374/1996 regula el equipo de actividades complementarias y extraescolares?",
+      "options": [
+        "Artículo 61",
+        "Artículo 69",
+        "Artículo 71",
+        "Artículo 81"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El equipo de actividades complementarias y extraescolares está regulado en el artículo 71 del Decreto 374/1996, que establece su composición y funciones."
+    },
+    {
+      "question": "¿Qué son las actividades complementarias según el artículo 69 del Decreto 374/1996?",
+      "options": [
+        "Actividades voluntarias realizadas fuera del horario lectivo",
+        "Actividades en horario lectivo con carácter diferenciado por el momento, espacio y recursos",
+        "Actividades de refuerzo para alumnado con dificultades",
+        "Actividades de ampliación para alumnado con altas capacidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 69 define actividades complementarias como aquellas que se realizan en horario lectivo y que, formando parte de la programación, tienen carácter diferenciado por el momento, espacio y recursos que utilizan."
+    },
+    {
+      "question": "¿Qué característica tienen las actividades extraescolares según el artículo 70 del Decreto 374/1996?",
+      "options": [
+        "Son obligatorias y se realizan en horario lectivo",
+        "Son voluntarias y se realizan fuera del horario lectivo",
+        "Son obligatorias y se realizan fuera del horario lectivo",
+        "Son voluntarias y se realizan en horario lectivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el artículo 70 se definen las actividades extraescolares como todas aquellas que, siendo organizadas por el centro y figurando en la PGA, se realizan fuera del horario lectivo y son de participación voluntaria."
+    },
+    {
+      "question": "¿Cuánto tiempo desempeña su función el jefe del equipo de actividades complementarias y extraescolares?",
+      "options": [
+        "Un año",
+        "Dos años",
+        "Tres años",
+        "Cuatro años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El jefe del equipo de actividades complementarias y extraescolares desempeñará su función durante el periodo de dos años, según establece el Decreto 374/1996."
+    },
+    {
+      "question": "¿Con qué frecuencia se reúne el equipo de actividades complementarias y extraescolares?",
+      "options": [
+        "Una vez al mes",
+        "Una vez cada trimestre",
+        "Una vez cada dos meses",
+        "Dos veces por trimestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El equipo de actividades complementarias y extraescolares se reunirá cada trimestre y realizará una sesión extraordinaria al comienzo del curso y otra al finalizarlo, además de cuantas otras se consideren necesarias."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece que cada grupo debe contar con un maestro tutor?",
+      "options": [
+        "Artículo 15",
+        "Artículo 16",
+        "Artículo 18",
+        "Artículo 19"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El artículo 19 del Decreto 155/2022 establece que cada grupo de alumnos debe contar con un maestro tutor que, más allá de la enseñanza de contenidos, oriente al alumnado, garantice su bienestar y fomente la comunicación con las familias."
+    },
+    {
+      "question": "¿Dónde se recogen las funciones del tutor?",
+      "options": [
+        "Artículo 71 del Decreto 374/1996",
+        "Artículo 81 del Decreto 374/1996",
+        "Artículo 19 del Decreto 155/2022",
+        "Artículo 121 de la LOMLOE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las funciones del tutor se recogen en el artículo 81 del Decreto 374/1996, que incluye funciones a nivel de grupo y alumnos, a nivel familiar y a nivel de centro."
+    },
+    {
+      "question": "¿Cuándo debe fijar la PGA una hora semanal para atender a las familias?",
+      "options": [
+        "Al inicio de cada trimestre",
+        "Durante todo el curso académico",
+        "Solo durante el primer trimestre",
+        "En los periodos de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para facilitar la relación tutor-familias, en la PGA debe fijarse una hora semanal destinada a atender a las familias durante todo el curso académico."
+    },
+    {
+      "question": "¿Quién coordina el trabajo de los tutores del centro?",
+      "options": [
+        "El director",
+        "El jefe de estudios",
+        "La Comisión de Coordinación Pedagógica",
+        "El Departamento de Orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El jefe de estudios es el encargado de coordinar el trabajo de los tutores del centro, estableciendo todas las reuniones periódicas necesarias para el buen funcionamiento de la acción tutorial."
+    },
+    {
+      "question": "¿Qué decreto regula la orientación educativa y profesional en Galicia?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 374/1996, de 17 de octubre",
+        "Decreto 120/1998, de 23 de abril",
+        "Decreto 79/2010, de 20 de mayo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 120/1998, de 23 de abril, regula la orientación educativa y profesional en la Comunidad Autónoma de Galicia, estableciendo la organización y funcionamiento del Departamento de Orientación."
+    },
+    {
+      "question": "¿Cuántas unidades debe tener un centro de EP para disponer de un Departamento de Orientación propio?",
+      "options": [
+        "Ocho unidades o más",
+        "Diez unidades o más",
+        "Doce unidades o más",
+        "Quince unidades o más"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 2 de la Orden de 24 de julio de 1998, los centros de Educación Infantil y Primaria con doce unidades o más dispondrán de un Departamento de Orientación propio."
+    },
+    {
+      "question": "¿Qué profesionales componen el Departamento de Orientación según el artículo 4 del Decreto 120/1998?",
+      "options": [
+        "Un jefe de DO, un profesor de Pedagogía Terapéutica y un profesor de Audición y Lenguaje",
+        "Un director, un jefe de estudios y un coordinador de ciclo",
+        "Un psicólogo, un pedagogo y un trabajador social",
+        "Un tutor, un orientador y un profesor de apoyo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 4 del Decreto 120/1998, el Departamento de Orientación en Educación Primaria se compone por un jefe de DO, un profesor de Pedagogía Terapéutica (PT) y otro de Audición y Lenguaje (AL)."
+    },
+    {
+      "question": "¿Qué concepto define Schubert (1987) sobre el currículo?",
+      "options": [
+        "Como un documento administrativo de obligado cumplimiento",
+        "Como un instrumento multifacético que abarca contenidos, actividades, resultados de aprendizaje y valores culturales",
+        "Como una lista de objetivos a alcanzar por el alumnado",
+        "Como un conjunto de normas sobre evaluación y promoción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Schubert (1987) destaca la importancia de entender el currículo como un instrumento multifacético, que abarca los contenidos de las áreas, las actividades propuestas, los resultados de aprendizaje esperados, las experiencias educativas, los valores culturales y las transformaciones necesarias para mejorar la sociedad."
+    },
+    {
+      "question": "¿Qué define el perfil de salida según el Decreto 155/2022?",
+      "options": [
+        "Los objetivos generales de la etapa educativa",
+        "El nivel de competencia a desarrollar por el alumnado al pasar de una etapa a otra",
+        "Los criterios de evaluación de cada área",
+        "Las orientaciones metodológicas para el profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El perfil de salida se entiende como el nivel de competencia a desarrollar por el alumnado al pasar de una etapa a otra, según el artículo 6 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué son los contenidos según el Decreto 155/2022?",
+      "options": [
+        "Los objetivos que el alumnado debe alcanzar al finalizar la etapa",
+        "Los criterios que indican los niveles de desempeño esperados",
+        "Los conocimientos, destrezas y actitudes propios de un ámbito necesarios para el logro de objetivos de área",
+        "Las indicaciones destinadas a orientar al profesorado en el diseño de estrategias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los contenidos se definen como los conocimientos, destrezas y actitudes propios de un ámbito necesario para el logro de objetivos de área, según el artículo 6 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué característica NO menciona Cardona sobre el Proyecto Educativo?",
+      "options": [
+        "Debe ser un documento propio de cada centro",
+        "Debe ser elaborado de forma colegiada y consensuada",
+        "Debe ser rígido e inmutable una vez aprobado",
+        "Debe ser accesible y público para toda la comunidad educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cardona plantea que el PE NO debe ser rígido e inmutable, sino que ha de ser flexible y progresivo para adaptarse a la realidad del centro. Sí debe ser propio, colegiado, consensuado, accesible y público."
+    },
+    {
+      "question": "¿Qué ley educativa garantiza actualmente una educación común en España con un marco abierto y flexible?",
+      "options": [
+        "LOMLOE (Ley Orgánica 3/2020)",
+        "LOMCE (Ley Orgánica 8/2013)",
+        "LOE (Ley Orgánica 2/2006)",
+        "LOGSE (Ley Orgánica 1/1990)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE), es la que actualmente garantiza una educación común a todo el estado español, ofreciendo un marco abierto y flexible que reconoce la autonomía pedagógica de las comunidades autónomas y de los centros educativos."
+    },
+    {
+      "question": "¿Qué visión destaca Schubert (1987) sobre el currículo?",
+      "options": [
+        "El currículo es exclusivamente un listado de contenidos académicos",
+        "El currículo es un instrumento multifacético que incluye contenidos, actividades, resultados y valores culturales",
+        "El currículo es un documento administrativo sin aplicación práctica",
+        "El currículo es una guía orientativa sin carácter vinculante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Schubert (1987) destaca la importancia de entender el currículo como un instrumento multifacético, que abarca los contenidos de las áreas, las actividades propuestas, los resultados de aprendizaje esperados, las experiencias educativas, los valores culturales y las transformaciones necesarias para mejorar la sociedad."
+    },
+    {
+      "question": "¿Qué Real Decreto establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal?",
+      "options": [
+        "Real Decreto 126/2014",
+        "Real Decreto 157/2022",
+        "Real Decreto 1513/2006",
+        "Real Decreto 82/1996"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, es el que establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal, en consonancia con el cual se desarrolla el Decreto 155/2022 para Galicia."
+    },
+    {
+      "question": "¿Qué define como 'objetivos de etapa' el Decreto 155/2022?",
+      "options": [
+        "Las acciones o habilidades a demostrar al realizar actividades",
+        "Los logros que se espera que el alumnado alcance al finalizar la etapa",
+        "Los conocimientos, destrezas y actitudes propios de un ámbito",
+        "Los referentes que indican los niveles de desempeño esperados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el Decreto 155/2022, los objetivos de etapa se definen como los logros que se espera que el alumnado alcance al finalizar la etapa educativa."
+    },
+    {
+      "question": "¿Qué representan las Competencias Clave (CC) según el Decreto 155/2022?",
+      "options": [
+        "Los objetivos específicos de cada área curricular",
+        "Los desempeños imprescindibles para progresar con garantías de éxito en el itinerario formativo",
+        "Los criterios para evaluar el rendimiento del profesorado",
+        "Las orientaciones metodológicas para el diseño de actividades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Competencias Clave (CC) representan los desempeños imprescindibles para que los discentes puedan progresar con garantías de éxito en su itinerario formativo y afrontar los retos y desafíos globales y locales."
+    },
+    {
+      "question": "¿Qué son los 'objetivos de área' según el Decreto 155/2022?",
+      "options": [
+        "Los logros que se espera alcanzar al finalizar la etapa",
+        "Los conocimientos, destrezas y actitudes de un ámbito",
+        "Las acciones o habilidades a demostrar al realizar actividades que requieren de los aprendizajes de los contenidos",
+        "Los indicadores que orienten al profesorado en el diseño de estrategias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de área son las acciones o habilidades a demostrar al realizar actividades o resolver situaciones que requieren de los aprendizajes de los contenidos, según establece el Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué son las 'orientaciones pedagógicas' según el Decreto 155/2022?",
+      "options": [
+        "Los criterios de evaluación de cada área",
+        "El conjunto de indicaciones destinadas a orientar al profesorado en el diseño y planificación de estrategias",
+        "Los objetivos generales de la etapa educativa",
+        "Las competencias que debe desarrollar el alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las orientaciones pedagógicas constituyen el conjunto de indicaciones destinadas a orientar al profesorado en el diseño y planificación de estrategias y acciones docentes."
+    },
+    {
+      "question": "¿Qué capítulo y título de la LOMLOE recoge la autonomía de los centros?",
+      "options": [
+        "Capítulo I Título IV",
+        "Capítulo II Título V",
+        "Capítulo III Título II",
+        "Capítulo IV Título III"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La autonomía de los centros está recogida en el Capítulo II del Título V de la LOMLOE, que fundamenta el proceso de diseño y concreción del currículo como competencia compartida."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE establece la competencia del Gobierno para fijar las enseñanzas mínimas?",
+      "options": [
+        "Artículo 6 de la LOMLOE",
+        "Artículo 6 bis de la LOMLOE",
+        "Artículo 121 de la LOMLOE",
+        "Artículo 125 de la LOMLOE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 bis de la LOMLOE establece como competencia del Gobierno, en consulta con las Comunidades Autónomas, fijar las enseñanzas mínimas que se concretan a nivel estatal y autonómico."
+    },
+    {
+      "question": "¿Qué Orden desarrolla el Decreto 155/2022 y regula la evaluación en educación primaria en Galicia?",
+      "options": [
+        "Orden de 22 de julio de 1997",
+        "Orden de 24 de julio de 1998",
+        "Orden de 26 de mayo de 2023",
+        "Orden de 17 de octubre de 1996"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden de 26 de mayo de 2023 es la que desarrolla el Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación y el currículo de la educación primaria en Galicia y se regula la evaluación en esa etapa educativa."
+    },
+    {
+      "question": "¿Qué porcentaje de los horarios escolares requieren las enseñanzas mínimas en CC.AA sin lengua cooficial?",
+      "options": [
+        "50% de los horarios escolares",
+        "55% de los horarios escolares",
+        "60% de los horarios escolares",
+        "65% de los horarios escolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las enseñanzas mínimas requerirán el 60% de los horarios escolares para aquellas Comunidades Autónomas que no tengan lengua cooficial, mientras que será el 50% para las que sí la tienen."
+    },
+    {
+      "question": "¿Qué órgano del centro establece los criterios y decisiones en la concreción curricular?",
+      "options": [
+        "El Consejo Escolar",
+        "El equipo directivo",
+        "El Claustro de profesores",
+        "La Comisión de Coordinación Pedagógica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La concreción curricular es el marco que establece el Claustro de profesores con los criterios y decisiones para orientar el desarrollo del currículo por parte del profesorado y la coordinación interdisciplinaria."
+    },
+    {
+      "question": "¿Qué debe incluir la concreción curricular respecto a las Competencias Clave?",
+      "options": [
+        "La evaluación del profesorado en el desarrollo de las CC",
+        "La contribución a la adquisición de las CC",
+        "Los criterios de promoción basados en las CC",
+        "El calendario de desarrollo de las CC por trimestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 14 del Decreto 155/2022, la concreción curricular debe incluir como mínimo la contribución a la adquisición de las Competencias Clave."
+    },
+    {
+      "question": "¿Qué aspecto sobre refuerzo debe incluir la concreción curricular?",
+      "options": [
+        "Los criterios para el diseño de planes específicos de refuerzo para el alumnado que deba permanecer un año más en el mismo curso",
+        "El presupuesto destinado a actividades de refuerzo",
+        "El horario de las clases de refuerzo por área",
+        "Los profesores asignados a las actividades de refuerzo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La concreción curricular debe incluir los criterios para el diseño de los planes específicos de refuerzo para el alumnado que deba permanecer un año más en el mismo curso, según el artículo 14 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué debe incluir la concreción curricular sobre su propia revisión?",
+      "options": [
+        "El calendario anual de revisiones",
+        "El procedimiento para la revisión, evaluación y modificación de la concreción",
+        "Los responsables de realizar las modificaciones",
+        "El presupuesto para implementar cambios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La concreción curricular debe incluir el procedimiento para la revisión, evaluación y modificación de la misma, asegurando así su carácter dinámico y adaptable."
+    },
+    {
+      "question": "¿Qué autores mencionan un cuarto nivel de concreción curricular?",
+      "options": [
+        "Sacristán y Schubert",
+        "Antúnez y Cardona",
+        "Cabrerizo, Rubio y Álvarez",
+        "Piaget y Vygotsky"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Algunos autores, como Cabrerizo y Rubio (2007) o Álvarez (2023), mencionan la existencia de un cuarto nivel de concreción curricular referente a las adaptaciones curriculares individualizadas."
+    },
+    {
+      "question": "¿Cómo define Antúnez et al. (2010) el Proyecto Educativo?",
+      "options": [
+        "Como el documento que recoge exclusivamente los aspectos administrativos del centro",
+        "Como el instrumento que recoge y comunica las intenciones educativas para dirigir coherentemente los procesos de intervención educativa",
+        "Como la programación anual de actividades del centro",
+        "Como el reglamento interno de organización y funcionamiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Antúnez et al. (2010) definen el PE como el instrumento que recoge y comunica todas las intenciones educativas y actuaciones de la comunidad escolar para dirigir y orientar coherentemente los procesos de intervención educativa."
+    },
+    {
+      "question": "¿Qué aspecto del PE destaca Antúnez al mencionar 'identidad propia'?",
+      "options": [
+        "El nombre y logotipo del centro",
+        "Los valores y principios a adoptar por la comunidad escolar",
+        "La ubicación geográfica del centro",
+        "El número de alumnos matriculados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PE dota de identidad propia al centro y refleja los valores y principios a adoptar por la comunidad escolar, según destaca Antúnez et al. (2010)."
+    },
+    {
+      "question": "¿Qué temas transversales debe recoger el PE según el artículo 121 de la LOMLOE?",
+      "options": [
+        "Tecnología, innovación y emprendimiento",
+        "Desarrollo sostenible, igualdad entre hombres y mujeres y prevención de violencia",
+        "Arte, música y educación física",
+        "Matemáticas, lengua y ciencias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 121 de la LOMLOE establece que el PE debe recoger las prioridades de actuación en temas transversales como el desarrollo sostenible, la igualdad entre hombres y mujeres o la prevención de violencia."
+    },
+    {
+      "question": "¿Qué debe incluir el PE según la LOMLOE respecto a la tecnología?",
+      "options": [
+        "El presupuesto para equipamiento informático",
+        "La estrategia digital de centro",
+        "Los cursos de formación en TIC para profesores",
+        "El inventario de dispositivos tecnológicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los contenidos mínimos del PE según el artículo 121 de la LOMLOE se incluye la estrategia digital de centro."
+    },
+    {
+      "question": "¿Qué planes específicos debe incluir el PE según la LOMLOE?",
+      "options": [
+        "Plan de gestión económica y plan de mantenimiento",
+        "Plan de convivencia y plan de lectura",
+        "Plan de evacuación y plan de emergencias",
+        "Plan de actividades deportivas y plan cultural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PE debe incluir los planes de convivencia y de lectura, según establece el artículo 121 de la LOMLOE."
+    },
+    {
+      "question": "¿Qué aspecto tutorial debe recoger el PE?",
+      "options": [
+        "El horario de tutorías individuales",
+        "Las medidas de acción tutorial",
+        "La asignación de tutores a cada grupo",
+        "El número de reuniones con familias por trimestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PE debe incluir las medidas de acción tutorial como uno de sus contenidos mínimos, según el artículo 121 de la LOMLOE."
+    },
+    {
+      "question": "¿Qué debe recoger el PE sobre competencia lingüística?",
+      "options": [
+        "Los libros de texto utilizados en lengua castellana y gallega",
+        "Las medidas destinadas a compensar las carencias en Competencia Lingüística de la lengua castellana o la lengua cooficial",
+        "El número de horas semanales dedicadas a lenguas",
+        "Los niveles de competencia lingüística del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PE debe incluir las medidas destinadas a compensar las carencias en Competencia Lingüística de la lengua castellana o la lengua cooficial, según establece la LOMLOE."
+    },
+    {
+      "question": "¿Qué debe incluir el PE respecto a los resultados educativos?",
+      "options": [
+        "Las estadísticas de resultados de los últimos cinco años",
+        "El plan de mejora de los resultados educativos del centro",
+        "Los premios y reconocimientos obtenidos por el alumnado",
+        "La comparativa con otros centros del entorno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PE debe incluir el plan de mejora de los resultados educativos del centro como uno de sus contenidos mínimos."
+    },
+    {
+      "question": "¿Qué aspecto de coordinación con secundaria debe incluir el PE?",
+      "options": [
+        "El calendario de reuniones con el centro de secundaria",
+        "Los mecanismos de coordinación con el centro de secundaria adscrito",
+        "El número de alumnos que pasarán a secundaria",
+        "Los criterios de selección del centro de secundaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PE debe incluir los mecanismos de coordinación con el centro de secundaria adscrito para facilitar la transición del alumnado."
+    },
+    {
+      "question": "¿Qué característica menciona Cardona que debe tener el PE respecto a su elaboración?",
+      "options": [
+        "Debe ser elaborado exclusivamente por el equipo directivo",
+        "Debe ser elaborado de forma colegiada y consensuada",
+        "Debe ser elaborado por una comisión externa",
+        "Debe ser elaborado siguiendo un modelo único establecido"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cardona plantea que el PE ha de ser un documento elaborado de forma colegiada y consensuada, además de ser propio de cada centro, accesible y público para toda la comunidad educativa."
+    },
+    {
+      "question": "¿Qué características menciona Cardona sobre la adaptabilidad del PE?",
+      "options": [
+        "Debe ser permanente e invariable",
+        "Debe ser flexible y progresivo para adaptarse a la realidad del centro",
+        "Debe ser rígido una vez aprobado por el Consejo Escolar",
+        "Debe mantenerse sin cambios durante al menos cinco años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cardona destaca que el PE ha de ser flexible y progresivo para adaptarse a la realidad del centro, permitiendo ajustes según las necesidades cambiantes de la comunidad educativa."
+    },
+    {
+      "question": "¿Quién elabora el Proyecto Educativo del centro?",
+      "options": [
+        "El Claustro de profesores de forma exclusiva",
+        "El Consejo Escolar con el apoyo del director",
+        "El equipo directivo atendiendo a las propuestas del claustro y las directrices del consejo escolar",
+        "Una comisión mixta de profesores y familias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Proyecto Educativo es elaborado por el equipo directivo atendiendo a las propuestas del claustro de profesores y a las directrices del Consejo Escolar, quien posteriormente lo evalúa y aprueba."
+    },
+    {
+      "question": "¿Qué órgano evalúa y aprueba el Proyecto Educativo?",
+      "options": [
+        "El Claustro de profesores",
+        "La Comisión de Coordinación Pedagógica",
+        "El Consejo Escolar",
+        "La Inspección Educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Consejo Escolar es el órgano encargado de evaluar y aprobar el Proyecto Educativo del centro, tras su elaboración por el equipo directivo."
+    },
+    {
+      "question": "¿Cómo debe ser el acceso al Proyecto Educativo según Cardona?",
+      "options": [
+        "Restringido al personal docente",
+        "Accesible solo para familias previa solicitud",
+        "Accesible y público para toda la comunidad educativa",
+        "Confidencial y solo disponible para el equipo directivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cardona plantea que el PE ha de ser accesible y público para toda la comunidad educativa, asegurando la transparencia y participación de todos los sectores."
+    },
+    {
+      "question": "¿En qué nivel de concreción curricular se fija el currículo oficial?",
+      "options": [
+        "Primer nivel de concreción",
+        "Segundo nivel de concreción",
+        "Tercer nivel de concreción",
+        "Cuarto nivel de concreción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer nivel de concreción, el gobierno en consulta con las Comunidades Autónomas fija los aspectos básicos del currículo oficial, estableciendo las enseñanzas mínimas."
+    },
+    {
+      "question": "¿Qué realizan los centros educativos en el segundo nivel de concreción?",
+      "options": [
+        "Aplican directamente el currículo oficial sin modificaciones",
+        "Adaptan el currículo oficial a su realidad mediante las concreciones curriculares",
+        "Elaboran las programaciones de aula para cada grupo",
+        "Diseñan las adaptaciones curriculares individualizadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El segundo nivel de concreción corresponde a los centros educativos que adaptan el currículo oficial a su realidad mediante los documentos denominados 'concreciones curriculares', que se integran en el Proyecto Educativo."
+    },
+    {
+      "question": "¿Qué característica fundamental del currículo destaca Sacristán (1988)?",
+      "options": [
+        "Es un documento técnico exclusivo para profesores",
+        "Es la expresión de la función socializadora de la escuela",
+        "Es una lista cerrada de contenidos obligatorios",
+        "Es una herramienta de evaluación del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sacristán (1988) destaca que el currículo es la expresión de la función socializadora de la escuela, reflejando la cultura y los procesos de socialización propios de la sociedad en la que se elabora."
+    },
+    {
+      "question": "¿Qué garantiza el modelo curricular de la LOMLOE respecto a la autonomía?",
+      "options": [
+        "Solo autonomía a las Comunidades Autónomas",
+        "Solo autonomía a los centros educativos",
+        "Autonomía pedagógica tanto a las Comunidades Autónomas como a los centros educativos",
+        "Autonomía exclusivamente al profesorado individual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE ofrece un marco abierto y flexible que reconoce la autonomía pedagógica tanto de las Comunidades Autónomas como de los centros educativos para adaptar y contextualizar el currículo a su realidad."
+    },
+    {
+      "question": "¿Qué finalidad tiene establecer diferentes niveles de concreción curricular?",
+      "options": [
+        "Complicar el proceso de planificación educativa",
+        "Asegurar una formación común para todo el alumnado respetando la diversidad contextual",
+        "Permitir que cada centro enseñe contenidos completamente diferentes",
+        "Facilitar la evaluación del profesorado por la administración"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proceso de concreción curricular a través de diferentes niveles tiene como fin último asegurar una formación común para todo el alumnado, al tiempo que permite adaptar el currículo a las características específicas de cada contexto educativo."
+    },
+    {
+      "question": "¿Qué pregunta busca responder la programación docente según el tema?",
+      "options": [
+        "¿Cuándo evaluar?",
+        "¿Qué estamos haciendo?",
+        "¿Cómo organizar el aula?",
+        "¿Quién es responsable?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La programación docente busca orientar al docente y justificar la respuesta a la pregunta '¿qué estamos haciendo?', evitando así caer en la improvisación y dando coherencia a la práctica docente."
+    },
+    {
+      "question": "¿Qué evita principalmente la programación docente según se explica en el tema?",
+      "options": [
+        "Los conflictos entre el profesorado",
+        "La improvisación en la práctica docente",
+        "Las quejas de las familias",
+        "Los problemas de disciplina en el aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La programación docente es una herramienta de planificación que evita caer en la improvisación y da coherencia a la práctica docente."
+    },
+    {
+      "question": "¿Para qué nivel educativo se elabora cada Programación Didáctica?",
+      "options": [
+        "Para cada etapa educativa",
+        "Para cada ciclo educativo",
+        "Para cada nivel educativo",
+        "Para cada aula específica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las Programaciones Didácticas son elaboradas para cada nivel educativo siendo la misma en cada grupo de nivel. Sin embargo, corresponde a cada docente adecuarla a las características específicas de su alumnado."
+    },
+    {
+      "question": "¿Qué elementos mínimos debe incluir una PD según el artículo 15 del Decreto 155/2022 respecto a evaluación?",
+      "options": [
+        "Solo el procedimiento de evaluación inicial",
+        "El procedimiento de evaluación inicial, criterios de calificación con grado mínimo de consecución y criterios de recuperación",
+        "Únicamente los criterios de calificación finales",
+        "Solo los instrumentos de evaluación a utilizar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 15 del Decreto 155/2022, la evaluación debe incluir el procedimiento de evaluación inicial, los criterios de calificación con indicación del grado mínimo de consecución para superar el área y los criterios de recuperación."
+    },
+    {
+      "question": "¿Qué aspecto sobre la práctica docente debe incluir una PD según el Decreto 155/2022?",
+      "options": [
+        "El horario personal de cada docente",
+        "El procedimiento para evaluar el proceso de enseñanza y la práctica docente con sus indicadores de logro",
+        "La formación académica del profesorado",
+        "Los años de experiencia docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los elementos mínimos de una PD está la evaluación de la práctica docente, concretando el procedimiento para evaluar el proceso de enseñanza y la práctica docente con sus indicadores de logro."
+    },
+    {
+      "question": "¿Qué debe incluir una PD respecto al seguimiento de la propia programación?",
+      "options": [
+        "Solo el calendario de reuniones de ciclo",
+        "El procedimiento de seguimiento, evaluación y propuestas de mejora de la programación",
+        "Únicamente las fechas de revisión trimestral",
+        "Solo los responsables de la evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una PD debe incluir el procedimiento de seguimiento, evaluación y propuestas de mejora de la propia programación, asegurando su carácter reflexivo y dinámico."
+    },
+    {
+      "question": "¿Qué información de la memoria del curso anterior debe considerarse al diseñar las PD?",
+      "options": [
+        "Solo los resultados académicos finales",
+        "La información recogida en el seguimiento de la programación y en la memoria del curso anterior",
+        "Únicamente las sugerencias de las familias",
+        "Solo los cambios normativos producidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al diseñar y modificar las PD debe tenerse en cuenta la información recogida en el seguimiento de la programación y en la memoria del curso anterior, según el artículo 9 de la Orden de 26 de mayo."
+    },
+    {
+      "question": "¿Qué derecho del alumnado debe respetarse según los criterios para diseñar las PD?",
+      "options": [
+        "El derecho a elegir al tutor",
+        "El derecho a una evaluación objetiva",
+        "El derecho a no ser evaluado",
+        "El derecho a aprobar todas las áreas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los criterios para diseñar y modificar las PD se incluye el derecho del alumnado a una evaluación objetiva, según establece el artículo 9 de la Orden de 26 de mayo."
+    },
+    {
+      "question": "¿Qué característica de las PD implica ajustarse al contexto del centro y del aula según Antúnez et al. (2010)?",
+      "options": [
+        "La viabilidad",
+        "La adecuación",
+        "La flexibilidad",
+        "La concreción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La adecuación implica que la PD debe ajustarse al contexto del centro y del aula, teniendo en cuenta las características, ritmos de aprendizaje, necesidades educativas y motivaciones e intereses del alumnado."
+    },
+    {
+      "question": "¿Qué característica de las PD implica especificar objetivos y contenidos a trabajar?",
+      "options": [
+        "La adecuación",
+        "La viabilidad",
+        "La concreción",
+        "La flexibilidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La concreción implica especificar los objetivos y los contenidos a trabajar en el aula, así como las decisiones relativas a la organización de tiempos, espacios, recursos, agrupamientos y secuenciación de las unidades didácticas."
+    },
+    {
+      "question": "¿Qué característica permite que la programación esté abierta a revisiones y modificaciones?",
+      "options": [
+        "La concreción",
+        "La viabilidad",
+        "La flexibilidad",
+        "La adecuación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La flexibilidad implica que la programación debe estar abierta a revisiones y modificaciones para adaptarse a las circunstancias cambiantes del aula y responder a las necesidades emergentes del alumnado."
+    },
+    {
+      "question": "¿Qué característica implica considerar espacios, tiempos y recursos para que las actividades puedan llevarse a cabo?",
+      "options": [
+        "La flexibilidad",
+        "La viabilidad y realismo",
+        "La adecuación",
+        "La concreción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La viabilidad y el realismo implican considerar los espacios, tiempos y recursos para que las actividades planificadas puedan llevarse a cabo de manera efectiva."
+    },
+    {
+      "question": "¿Qué debe conocer el docente sobre el alumnado para partir del nivel de desarrollo psicoevolutivo?",
+      "options": [
+        "Solo su edad cronológica",
+        "Sus características evolutivas adaptando los contenidos a su desarrollo cognitivo, motriz y socioafectivo",
+        "Únicamente sus calificaciones previas",
+        "Solo su situación familiar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Resulta esencial partir del nivel de desarrollo psicoevolutivo del alumnado, conociendo sus características evolutivas de modo que los contenidos puedan adaptarse a su desarrollo cognitivo, motriz y socioafectivo."
+    },
+    {
+      "question": "¿Qué autor propone cuatro etapas de desarrollo que pueden servir para conocer el desarrollo psicoevolutivo?",
+      "options": [
+        "Vygotsky",
+        "Ausubel",
+        "Piaget",
+        "Sacristán"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tema menciona seguir las 4 etapas propuestas por Piaget para conocer las características evolutivas del alumnado y adaptar los contenidos a su desarrollo."
+    },
+    {
+      "question": "¿Qué permite conocer los conocimientos previos del alumnado según Vygotsky?",
+      "options": [
+        "Planificar la evaluación final",
+        "Planificar la actuación docente y avanzar dentro de la Zona de Desarrollo Próximo",
+        "Organizar los grupos de trabajo",
+        "Diseñar el horario escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe partirse del nivel de conocimiento de los estudiantes teniendo constancia de sus conocimientos previos para planificar la actuación docente y avanzar dentro de la Zona de Desarrollo Próximo de Vygotsky."
+    },
+    {
+      "question": "¿Qué concepto de Vygotsky se refiere a partir desde lo que el alumnado ya sabe y lo que puede hacer con guía?",
+      "options": [
+        "Aprendizaje significativo",
+        "Aprendizaje por descubrimiento",
+        "Zona de Desarrollo Próximo",
+        "Andamiaje cognitivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Zona de Desarrollo Próximo de Vygotsky se refiere a partir desde lo que el alumnado ya sabe y lo que puede hacer con la guía de otra persona, construyendo así los nuevos aprendizajes."
+    },
+    {
+      "question": "Según Ausubel, ¿cómo se produce el aprendizaje significativo?",
+      "options": [
+        "Memorizando información de forma repetitiva",
+        "Relacionando la nueva información con los conocimientos previos",
+        "Copiando modelos proporcionados por el profesor",
+        "Practicando ejercicios de forma mecánica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Ausubel, el aprendizaje significativo se produce cuando el discente relaciona la nueva información con sus conocimientos previos, favoreciendo su asimilación y comprensión."
+    },
+    {
+      "question": "¿Qué estrategia de autorregulación promueve el principio de 'aprender a aprender'?",
+      "options": [
+        "La memorización",
+        "La autonomía del alumnado",
+        "La dependencia del profesor",
+        "La repetición mecánica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es esencial fomentar la autonomía del alumnado para que 'aprenda a aprender', desarrollando estrategias de autorregulación y gestión del propio aprendizaje."
+    },
+    {
+      "question": "¿Qué debe promover la programación docente respecto a la participación del alumnado?",
+      "options": [
+        "La recepción pasiva de información",
+        "La actividad e interactividad potenciando su participación activa e implicación",
+        "La competitividad individual",
+        "La memorización de contenidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al elaborar una programación docente se debe promover la actividad e interactividad de los niños potenciando su participación activa e implicación en el proceso de aprendizaje."
+    },
+    {
+      "question": "¿Qué principio implica crear un clima de aula relajado y seguro?",
+      "options": [
+        "La socialización",
+        "La afectividad",
+        "La globalización",
+        "La individualización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al diseñar las PD el docente debe contemplar la afectividad, creando un clima de aula relajado y seguro que favorezca el aprendizaje."
+    },
+    {
+      "question": "¿Qué principio implica elaborar actividades de ampliación o refuerzo?",
+      "options": [
+        "La globalización",
+        "La individualización",
+        "La socialización",
+        "La motivación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La individualización implica partir de la diversidad del aula y elaborar actividades de ampliación o refuerzo según las necesidades de cada estudiante."
+    },
+    {
+      "question": "¿Qué principio promueve situaciones de aprendizaje de trabajo en grupo e interacción entre iguales?",
+      "options": [
+        "La individualización",
+        "La autonomía",
+        "La socialización",
+        "La motivación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La socialización se promueve a través de situaciones de aprendizaje de trabajo en grupo e interacción entre iguales."
+    },
+    {
+      "question": "¿Qué principio implica establecer conexiones entre contenidos y áreas?",
+      "options": [
+        "La concreción",
+        "La globalización",
+        "La individualización",
+        "La socialización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La globalización implica establecer conexiones entre contenidos y áreas, de manera que el conocimiento se entienda como un todo y no como compartimentos aislados."
+    },
+    {
+      "question": "¿Con qué deben estar alineadas las programaciones docentes según las estrategias de elaboración?",
+      "options": [
+        "Con los intereses personales del profesorado",
+        "Con el Proyecto Educativo reflejando las intenciones, fines y objetivos pedagógicos del centro",
+        "Con las directrices de la inspección educativa exclusivamente",
+        "Con los libros de texto seleccionados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las programaciones docentes deben estar alineadas con el Proyecto Educativo reflejando las intenciones, fines y objetivos pedagógicos que ahí se recojan, garantizando así la coherencia con las intenciones educativas del centro."
+    },
+    {
+      "question": "¿Qué característica debe tener la programación respecto a la reflexión sobre la práctica?",
+      "options": [
+        "Debe ser un documento estático una vez aprobado",
+        "Debe constituir un documento en continua revisión y análisis",
+        "Debe revisarse solo al final del curso",
+        "Debe mantenerse sin cambios durante todo el curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La programación debe promover la reflexión sobre la propia práctica docente, constituyendo un documento en continua revisión y análisis que se ajusta a las necesidades del alumnado, del contexto y a los resultados de las evaluaciones."
+    },
+    {
+      "question": "¿Dónde se encuentra la disposición de contenidos por área y curso para establecer una secuencia coherente?",
+      "options": [
+        "Anexo I del Decreto 155/2022",
+        "Anexo II del Decreto 155/2022",
+        "Anexo III del Decreto 155/2022",
+        "En la Orden de 22 de julio de 1997"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para establecer una secuencia coherente de los contenidos hay que asegurar la progresión del aprendizaje y su disposición por área y curso en el Anexo II del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué debe definirse mediante la planificación de estrategias que guiarán la práctica docente?",
+      "options": [
+        "El calendario escolar",
+        "La metodología",
+        "El presupuesto del área",
+        "El número de alumnos por grupo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es primordial definir la metodología mediante la planificación de las estrategias que guiarán la práctica docente y alineadas con los principios pedagógicos del centro."
+    },
+    {
+      "question": "¿Qué uso deben tener los espacios, tiempos y recursos según las estrategias de elaboración de PD?",
+      "options": [
+        "Un uso exclusivamente académico y formal",
+        "Un uso lúdico creando un clima de aula que favorezca una actitud positiva hacia el aprendizaje",
+        "Un uso restringido solo para evaluaciones",
+        "Un uso tradicional sin innovaciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se deben organizar los espacios, los tiempos y los recursos dándoles un uso lúdico y creando un clima de aula que favorezca una actitud positiva hacia el aprendizaje."
+    },
+    {
+      "question": "¿Qué referencia se toma para establecer los criterios de evaluación en las PD?",
+      "options": [
+        "Los criterios establecidos por cada docente individualmente",
+        "Los criterios de evaluación por área y curso del Anexo II del Decreto 155/2022",
+        "Los criterios de evaluación de años anteriores",
+        "Los criterios establecidos por las editoriales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para establecer los criterios y procedimientos de evaluación se toman como referencia los criterios de evaluación por área y curso del Anexo II del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué tipo de evaluación debe respetarse según las estrategias de elaboración de PD?",
+      "options": [
+        "Una evaluación exclusivamente sumativa y final",
+        "Una evaluación continua, formativa y global",
+        "Una evaluación únicamente inicial",
+        "Una evaluación basada solo en exámenes escritos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios y procedimientos de evaluación deben respetar el seguimiento de una evaluación continua, formativa y global que tenga en cuenta el desarrollo de las Competencias Clave en los estudiantes."
+    },
+    {
+      "question": "¿Qué debe contemplarse en toda programación respecto a las diferencias del alumnado?",
+      "options": [
+        "Ignorar las diferencias para tratar a todos por igual",
+        "La atención a la diversidad considerando intereses, motivaciones y características del alumnado",
+        "Separar al alumnado con dificultades del resto",
+        "Centrarse solo en el alumnado con mejores resultados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En toda programación hay que contemplar la atención a la diversidad, considerando intereses, motivaciones y características del alumnado, y adaptando los contenidos y las estrategias pedagógicas a las distintas necesidades de aula."
+    },
+    {
+      "question": "¿Qué elemento de las PD incluye la relación de unidades con su temporalización?",
+      "options": [
+        "La introducción del área",
+        "La relación de las unidades didácticas del área con su temporalización y secuenciación",
+        "Los criterios de calificación",
+        "La evaluación de la práctica docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los elementos mínimos de las PD según el artículo 15 del Decreto 155/2022 está la relación de las unidades didácticas del área con su temporalización y secuenciación."
+    },
+    {
+      "question": "¿Qué debe incluir una PD respecto a elementos transversales?",
+      "options": [
+        "Solo la educación en valores",
+        "La transversalidad con la concreción de los elementos transversales y las actividades complementarias",
+        "Únicamente las actividades extraescolares",
+        "Solo los proyectos de centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las PD deben incluir la transversalidad con la concreción de los elementos transversales y las actividades complementarias, según establece el artículo 15 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué característica debe tener la programación para asegurar transparencia según Antúnez?",
+      "options": [
+        "Debe ser confidencial",
+        "Debe ser pública a toda la comunidad escolar",
+        "Debe ser accesible solo al equipo directivo",
+        "Debe ser conocida únicamente por el profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Antúnez et al. (2010), la programación tiene que ser pública a toda la comunidad escolar, asegurando la transparencia en la planificación educativa."
+    },
+    {
+      "question": "¿Qué principio pedagógico valora el esfuerzo personal como parte del proceso?",
+      "options": [
+        "La socialización",
+        "La autonomía para 'aprender a aprender'",
+        "La globalización",
+        "La afectividad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de autonomía implica fomentar que el alumnado 'aprenda a aprender', desarrollando estrategias de autorregulación y gestión del propio aprendizaje y valorando el esfuerzo personal como parte del proceso."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece los mecanismos de coordinación entre etapas?",
+      "options": [
+        "Artículo 14 del Decreto 155/2022",
+        "Artículo 16 del Decreto 155/2022",
+        "Artículo 18 del Decreto 155/2022",
+        "Artículo 19 del Decreto 155/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 18 del Decreto 155/2022 establece que tanto la Consellería con competencias en materia de educación como los centros educativos deben establecer mecanismos de coordinación entre etapas con el fin de coordinar la transición entre ellas y garantizar la continuidad de la formación académica."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE establece que el funcionamiento de los órganos de coordinación está regulado por las Administraciones educativas?",
+      "options": [
+        "Artículo 121 de la LOMLOE",
+        "Artículo 125 de la LOMLOE",
+        "Artículo 130 de la LOMLOE",
+        "Artículo 135 de la LOMLOE"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 130 de la LOMLOE establece que el funcionamiento de los Órganos de Coordinación Docente está regulado por las Administraciones educativas."
+    },
+    {
+      "question": "¿Qué documentos regulan principalmente los Órganos de Coordinación Docente en Galicia?",
+      "options": [
+        "Decreto 155/2022 y Orden de 26 de mayo de 2023",
+        "Decreto 374/1996 y Orden de 22 de julio de 1997",
+        "Decreto 79/2010 y Orden de 24 de julio de 1998",
+        "Decreto 229/2011 y Orden de 15 de septiembre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 374/1996, de 17 de octubre, y la Orden de 22 de julio de 1997 son los documentos principales que regulan los Órganos de Coordinación Docente y sus competencias en Galicia."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 374/1996 enumera los Órganos de Coordinación Docente?",
+      "options": [
+        "Artículo 51 del Decreto 374/1996",
+        "Artículo 53 del Decreto 374/1996",
+        "Artículo 61 del Decreto 374/1996",
+        "Artículo 71 del Decreto 374/1996"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conforme el artículo 53 del Decreto 374/1996, en las escuelas de Educación Infantil y en los centros de EP con más de seis unidades, se establecen los Órganos de coordinación docente."
+    },
+    {
+      "question": "¿Cuántas unidades debe tener un centro para contar con los órganos de coordinación completos según el Decreto 374/1996?",
+      "options": [
+        "Más de cuatro unidades",
+        "Más de seis unidades",
+        "Más de ocho unidades",
+        "Más de doce unidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 53 del Decreto 374/1996, en los centros con más de seis unidades se constituyen los órganos de coordinación docente (equipos de ciclo, CCP, EDLG y equipo ACE). En centros de menos de seis unidades, estas funciones las asume el Claustro."
+    },
+    {
+      "question": "¿Qué órgano asume las funciones de los equipos de coordinación en centros de menos de seis unidades?",
+      "options": [
+        "El equipo directivo",
+        "El Consejo Escolar",
+        "El Claustro de profesores",
+        "La Inspección Educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En los centros de menos de seis unidades, las funciones de la CCP, EDLG y el equipo ACE son asumidas por el Claustro de profesores."
+    },
+    {
+      "question": "¿Quién supervisa el trabajo de los equipos de ciclo?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "La Comisión de Coordinación Pedagógica",
+        "El coordinador de ciclo más antiguo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los equipos de ciclo están conformados por todos los maestros que imparten docencia en el mismo ciclo, siendo los encargados de organizar y desarrollar las enseñanzas bajo la supervisión del jefe de estudios."
+    },
+    {
+      "question": "¿Sobre qué aspectos deben unificar criterios los equipos de ciclo?",
+      "options": [
+        "Solo sobre el sistema de evaluación",
+        "Sobre métodos didácticos, terminología empleada, sistema de evaluación y promoción",
+        "Únicamente sobre la terminología a emplear",
+        "Solo sobre las actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es fundamental que el equipo de ciclo unifique los criterios sobre métodos didácticos, terminología empleada, sistema de evaluación y promoción de los alumnos, con el fin de asegurar la continuidad y coherencia en la acción educativa."
+    },
+    {
+      "question": "¿Qué competencia tienen los equipos de ciclo respecto a las Programaciones Didácticas?",
+      "options": [
+        "Aprobarlas definitivamente",
+        "Elaborar la PD de las enseñanzas encomendadas siguiendo las directrices de la CCP",
+        "Evaluarlas al final del curso",
+        "Presentarlas al Consejo Escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las competencias de los equipos de ciclo está elaborar la Programación Didáctica de las enseñanzas encomendadas siguiendo las directrices de la Comisión de Coordinación Pedagógica."
+    },
+    {
+      "question": "¿Durante cuántos cursos académicos desempeña sus funciones el coordinador de ciclo?",
+      "options": [
+        "Un curso académico",
+        "Dos cursos académicos",
+        "Tres cursos académicos",
+        "Cuatro cursos académicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cada equipo de ciclo está dirigido por un coordinador que desempeñará sus funciones durante dos cursos académicos."
+    },
+    {
+      "question": "¿Con qué frecuencia mínima debe reunirse el equipo de ciclo?",
+      "options": [
+        "Una vez al trimestre",
+        "Una vez al mes",
+        "Una vez cada dos meses",
+        "Dos veces al mes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El equipo de ciclo debe reunirse como mínimo una vez al mes con la asistencia obligatoria de todos sus miembros, y el coordinador levantará un acta con un resumen de los temas tratados."
+    },
+    {
+      "question": "¿Es obligatoria la asistencia a las reuniones del equipo de ciclo?",
+      "options": [
+        "No, es voluntaria para todos los miembros",
+        "Sí, es obligatoria para todos sus miembros",
+        "Solo es obligatoria para el coordinador",
+        "Es obligatoria solo en el primer y último trimestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El equipo de ciclo debe reunirse como mínimo una vez al mes con la asistencia obligatoria de todos sus miembros."
+    },
+    {
+      "question": "¿Quién preside la Comisión de Coordinación Pedagógica?",
+      "options": [
+        "El jefe de estudios",
+        "El coordinador de ciclo más antiguo",
+        "El director",
+        "El coordinador del equipo de biblioteca"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Comisión de Coordinación Pedagógica es el órgano presidido por el director, según establecen los artículos 61 y 62 del Decreto 374/1996."
+    },
+    {
+      "question": "¿Qué miembros integran la CCP según el Decreto 374/1996?",
+      "options": [
+        "Director, secretario, coordinadores de ciclo y representantes de familias",
+        "Director, jefe de estudios, coordinadores de ciclo, un profesor de apoyo a NEE y coordinador del EDLG",
+        "Todos los tutores del centro y el equipo directivo",
+        "Director, jefe de estudios y todos los profesores con destino definitivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCP está integrada por el director (que la preside), el jefe de estudios, los coordinadores de ciclo, un profesor de apoyo a la atención del alumnado con NEE y el coordinador del EDLG. A esta composición se incorpora el coordinador del equipo de biblioteca."
+    },
+    {
+      "question": "¿Quién actúa como secretario de la CCP?",
+      "options": [
+        "El jefe de estudios por defecto",
+        "El secretario del centro automáticamente",
+        "Un miembro de la CCP designado por el director",
+        "El coordinador de ciclo más antiguo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Actuará como secretario de la CCP un miembro de esta designado por el director."
+    },
+    {
+      "question": "¿Qué competencia tiene la CCP respecto a las directrices para las Programaciones Didácticas?",
+      "options": [
+        "Aprobarlas directamente",
+        "Establecer las directrices generales para su elaboración, velando por su cumplimiento y evaluación",
+        "Elaborarlas personalmente",
+        "Presentarlas al Consejo Escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las competencias de la CCP está establecer las directrices generales para la elaboración de las Programaciones Didácticas, del Plan de Acción Tutorial y de las adaptaciones curriculares, velando por su cumplimiento y evaluación."
+    },
+    {
+      "question": "¿Qué debe vigilar la CCP respecto a las programaciones y el Plan de Acción Tutorial?",
+      "options": [
+        "Solo su presentación en fecha",
+        "Que se realicen conforme a los criterios establecidos por el claustro",
+        "Únicamente su formato y estructura",
+        "Solo los resultados finales de su aplicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCP debe vigilar que las Programaciones Didácticas, el Plan de Acción Tutorial y las concreciones curriculares se realicen conforme a los criterios establecidos por el claustro."
+    },
+    {
+      "question": "¿Qué coherencia debe asegurar la CCP entre documentos del centro?",
+      "options": [
+        "Entre el presupuesto y las actividades extraescolares",
+        "Entre el PE, la PGA y las Programaciones Didácticas",
+        "Entre el calendario escolar y las vacaciones",
+        "Entre los horarios del profesorado y del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCP debe asegurar la coherencia entre el Proyecto Educativo, la Programación General Anual y las Programaciones Didácticas."
+    },
+    {
+      "question": "¿Qué guía la CCP hacia la Formación Continuada?",
+      "options": [
+        "Los intereses personales del profesorado",
+        "Las necesidades de formación del profesorado",
+        "Las directrices de la editorial de libros de texto",
+        "Las modas pedagógicas del momento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las competencias de la CCP está guiar las necesidades de formación del profesorado hacia la Formación Continuada."
+    },
+    {
+      "question": "¿Qué propone la CCP al jefe de estudios?",
+      "options": [
+        "El calendario de evaluaciones",
+        "El responsable del equipo de actividades complementarias y extraescolares",
+        "Los horarios de cada grupo",
+        "El presupuesto del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCP realiza la propuesta al jefe de estudios sobre el responsable del equipo de actividades complementarias y extraescolares."
+    },
+    {
+      "question": "¿Dónde deben incluirse todas las actividades realizadas por la CCP?",
+      "options": [
+        "En la memoria final del curso",
+        "En la Programación General Anual",
+        "En las actas del Claustro",
+        "En el Proyecto Educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Todas las actividades realizadas por la CCP deben incluirse en la Programación General Anual."
+    },
+    {
+      "question": "¿Con qué frecuencia regular se reúne la CCP?",
+      "options": [
+        "Una vez al trimestre",
+        "Mensualmente",
+        "Una vez cada dos meses",
+        "Dos veces al mes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCP se reunirá mensualmente, además de realizar una sesión extraordinaria al comienzo del curso y otra al finalizarlo y cuantas otras se consideren necesarias."
+    },
+    {
+      "question": "¿Cuántas sesiones extraordinarias mínimas debe realizar la CCP al año?",
+      "options": [
+        "Una sesión extraordinaria",
+        "Dos sesiones extraordinarias",
+        "Tres sesiones extraordinarias",
+        "Cuatro sesiones extraordinarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCP realizará dos sesiones extraordinarias: una al comienzo del curso y otra al finalizarlo, además de las reuniones mensuales regulares."
+    },
+    {
+      "question": "¿Quién es el responsable del equipo de biblioteca?",
+      "options": [
+        "El jefe de estudios automáticamente",
+        "Un responsable que desempeña sus funciones por un período mínimo de dos años con destino definitivo",
+        "El coordinador del EDLG",
+        "Un miembro del equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El responsable de biblioteca desempeña sus funciones por un período mínimo de dos años y debe tener destino definitivo en el centro."
+    },
+    {
+      "question": "¿Cuál es la función principal del equipo de biblioteca?",
+      "options": [
+        "Controlar los préstamos de libros exclusivamente",
+        "Facilitar el acceso a la biblioteca y sus recursos fomentando la lectura, la información y el aprendizaje",
+        "Organizar actividades extraescolares",
+        "Gestionar el presupuesto de material didáctico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La función principal del equipo de biblioteca es facilitar el acceso a la biblioteca y a sus recursos fomentando la lectura, la información y el aprendizaje, así como seleccionar, organizar y mantener actualizados los recursos de la misma."
+    },
+    {
+      "question": "¿Qué decreto regula el Equipo de Dinamización de la Lengua Gallega?",
+      "options": [
+        "Decreto 374/1996, de 17 de octubre",
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 79/2010, de 20 de mayo",
+        "Decreto 229/2011, de 7 de diciembre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 79/2010, de 20 de mayo, para el plurilingüismo en la enseñanza no universitaria de Galicia, en su artículo 15 menciona y regula el Equipo de Dinamización de la Lengua Gallega."
+    },
+    {
+      "question": "¿Cuál es la función principal del EDLG?",
+      "options": [
+        "Organizar intercambios escolares con otros países",
+        "Potenciar el uso de la lengua gallega en los centros sostenidos con fondos públicos",
+        "Gestionar las bibliotecas escolares",
+        "Coordinar las actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El EDLG es el equipo encargado de potenciar el uso de la lengua gallega en los centros sostenidos con fondos públicos."
+    },
+    {
+      "question": "¿Quién nombra y supervisa el EDLG?",
+      "options": [
+        "El Claustro de profesores",
+        "La Comisión de Coordinación Pedagógica",
+        "La dirección del centro",
+        "El Consejo Escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El equipo de dinamización de la lengua gallega es nombrado y supervisado por la dirección del centro."
+    },
+    {
+      "question": "¿Qué profesionales componen el EDLG en Educación Primaria?",
+      "options": [
+        "Solo profesorado de lengua gallega",
+        "Un coordinador, profesorado y personal no docente",
+        "Únicamente el coordinador y el jefe de estudios",
+        "Solo personal no docente especializado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En Educación Primaria, el EDLG se compone por un coordinador, por profesorado y por personal no docente."
+    },
+    {
+      "question": "¿Qué diseña, desarrolla y revisa el EDLG?",
+      "options": [
+        "El Proyecto Educativo completo del centro",
+        "Programas de promoción lingüística destinados a mejorar la competencia lingüística",
+        "Las Programaciones Didácticas de todas las áreas",
+        "El calendario escolar del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las competencias del EDLG se basan en diseñar, desarrollar y revisar programas de promoción lingüística destinadas a mejorar la competencia lingüística de la comunidad educativa."
+    },
+    {
+      "question": "¿Con qué frecuencia se reúne el EDLG?",
+      "options": [
+        "Una vez al trimestre",
+        "Mensualmente",
+        "Una vez cada dos meses",
+        "Dos veces al mes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El EDLG se reunirá mensualmente y realizará una sesión extraordinaria al comienzo del curso y otra al finalizarlo y cuantas otras se consideren necesarias."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 374/1996 regula el equipo ACE?",
+      "options": [
+        "Artículo 61",
+        "Artículo 69",
+        "Artículo 71",
+        "Artículo 81"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El equipo de actividades complementarias y extraescolares está regulado en el artículo 71 del Decreto 374/1996."
+    },
+    {
+      "question": "¿Qué son actividades complementarias según el artículo 69 del Decreto 374/1996?",
+      "options": [
+        "Actividades voluntarias fuera del horario lectivo",
+        "Actividades en horario lectivo que forman parte de la programación con carácter diferenciado",
+        "Actividades de refuerzo para alumnado con dificultades",
+        "Actividades organizadas exclusivamente por las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 69 define actividades complementarias como aquellas que se realizan en horario lectivo y que, formando parte de la programación, tienen carácter diferenciado por el momento, espacio y recursos que utilizan. Ejemplos son las visitas, las conmemoraciones, los trabajos de campo o los viajes de estudio."
+    },
+    {
+      "question": "¿Qué característica tienen las actividades extraescolares respecto al horario?",
+      "options": [
+        "Se realizan en horario lectivo",
+        "Se realizan fuera del horario lectivo",
+        "Se realizan durante el recreo",
+        "Se realizan durante las tutorías"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actividades extraescolares son todas aquellas que, siendo organizadas por el centro y figurando en la PGA, se realizan fuera del horario lectivo y de participación voluntaria."
+    },
+    {
+      "question": "¿Quién designa al jefe del equipo ACE?",
+      "options": [
+        "El Claustro de profesores por votación",
+        "El director a propuesta del jefe de estudios y en consulta con la CCP",
+        "El Consejo Escolar directamente",
+        "La Comisión de Coordinación Pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El jefe del equipo ACE será designado por el director a propuesta del jefe de estudios y en consulta con la Comisión de Coordinación Pedagógica, entre el profesorado que tenga destino definitivo en el centro."
+    },
+    {
+      "question": "¿Qué requisito debe cumplir el jefe del equipo ACE respecto a su situación laboral?",
+      "options": [
+        "Ser interino con al menos dos años de experiencia",
+        "Tener destino definitivo en el centro",
+        "Ser funcionario de carrera sin importar el destino",
+        "Ser personal contratado a tiempo completo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El jefe del equipo ACE debe tener destino definitivo en el centro y desempeñará su función durante el periodo de dos años."
+    },
+    {
+      "question": "¿Cuánto tiempo desempeña su función el jefe del equipo ACE?",
+      "options": [
+        "Un año",
+        "Dos años",
+        "Tres años",
+        "Cuatro años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El jefe del equipo ACE desempeñará su función durante el periodo de dos años."
+    },
+    {
+      "question": "¿Qué debe elaborar el jefe del equipo ACE teniendo en cuenta las propuestas de otros órganos?",
+      "options": [
+        "El Proyecto Educativo",
+        "La programación anual de actividades",
+        "Las Programaciones Didácticas",
+        "El Plan de Convivencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las funciones del jefe de equipo ACE está elaborar la programación anual de actividades teniendo en cuenta las propuestas del equipo de ciclo, las familias y la CCP."
+    },
+    {
+      "question": "¿Qué debe incluir la programación de actividades del equipo ACE?",
+      "options": [
+        "Solo el listado de actividades y fechas",
+        "Objetivos, responsables, temporalización, lugar y recursos económicos",
+        "Únicamente los permisos de las familias",
+        "Solo el presupuesto y las empresas contratadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El jefe del equipo ACE debe programar las actividades con sus objetivos, responsables, la temporalización, el lugar y los recursos económicos."
+    },
+    {
+      "question": "¿Con qué frecuencia se reúne el equipo ACE?",
+      "options": [
+        "Mensualmente",
+        "Cada trimestre",
+        "Una vez cada dos meses",
+        "Dos veces por trimestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El equipo ACE se reunirá cada trimestre y realizará una sesión extraordinaria al comienzo del curso y otra al finalizarlo y cuantas otras se consideren necesarias."
+    },
+    {
+      "question": "¿Qué documento debe elaborar el jefe del equipo ACE al final del curso?",
+      "options": [
+        "Un informe económico de gastos",
+        "Una memoria final de curso con la evaluación de las actividades a incluir en la memoria de centro",
+        "Una propuesta de actividades para el curso siguiente",
+        "Un listado de participantes en las actividades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El jefe del equipo ACE debe elaborar una memoria final de curso con la evaluación de las actividades a incluir en la memoria de centro."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece que cada grupo debe contar con un maestro tutor?",
+      "options": [
+        "Artículo 15",
+        "Artículo 18",
+        "Artículo 19",
+        "Artículo 21"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 19 del Decreto 155/2022 establece que cada grupo de alumnos debe contar con un maestro tutor."
+    },
+    {
+      "question": "¿Qué debe garantizar el tutor más allá de la enseñanza de contenidos?",
+      "options": [
+        "Solo la disciplina en el aula",
+        "La orientación del alumnado, su bienestar y la comunicación con las familias",
+        "Únicamente la evaluación del rendimiento académico",
+        "Solo la organización de actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor, más allá de la enseñanza de contenidos, debe orientar al alumnado, garantizar su bienestar y fomentar la comunicación con las familias."
+    },
+    {
+      "question": "¿Qué debe fijar la PGA para facilitar la relación tutor-familias?",
+      "options": [
+        "Un horario mensual de reuniones grupales",
+        "Una hora semanal destinada a atender a las familias",
+        "Un calendario trimestral de entrevistas",
+        "Una plataforma digital de comunicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para facilitar la relación tutor-familias, en la PGA debe fijarse una hora semanal destinada a atender a las familias."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 374/1996 se recogen las funciones del tutor?",
+      "options": [
+        "Artículo 71",
+        "Artículo 81",
+        "Artículo 61",
+        "Artículo 54"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las funciones del tutor se recogen en el artículo 81 del Decreto 374/1996, que incluye funciones a nivel de grupo y alumnos, a nivel familiar y a nivel de centro."
+    },
+    {
+      "question": "¿Qué debe conocer el tutor sobre cada estudiante a nivel individual?",
+      "options": [
+        "Solo sus calificaciones académicas",
+        "Las características personales y aspectos de la situación familiar y escolar que pueden repercutir en el rendimiento",
+        "Únicamente su comportamiento en clase",
+        "Solo su participación en actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A nivel de grupo y alumnos, el tutor debe conocer las características personales de cada discente y los aspectos de la situación familiar y escolar que pueden repercutir en el rendimiento académico."
+    },
+    {
+      "question": "¿Qué debe hacer el tutor para detectar dificultades y necesidades del alumnado?",
+      "options": [
+        "Esperar a las evaluaciones finales",
+        "Efectuar un seguimiento global de los procesos de enseñanza-aprendizaje dando respuesta educativa temprana",
+        "Derivar todos los casos al Departamento de Orientación",
+        "Realizar solo pruebas estandarizadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor debe efectuar un seguimiento global de los procesos de enseñanza-aprendizaje para detectar dificultades y necesidades, dando una respuesta educativa temprana."
+    },
+    {
+      "question": "¿Qué debe controlar el tutor respecto a la asistencia del alumnado?",
+      "options": [
+        "Solo las ausencias justificadas",
+        "La falta de asistencia o puntualidad",
+        "Únicamente las ausencias en días de examen",
+        "Solo las ausencias superiores a una semana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las funciones del tutor está controlar la falta de asistencia o puntualidad del alumnado."
+    },
+    {
+      "question": "¿Qué información debe proporcionar el tutor a las familias a principios de curso?",
+      "options": [
+        "Solo el calendario de evaluaciones",
+        "Información documental sobre calendario escolar, horarios, tutorías, actividades, programas y criterios de evaluación",
+        "Únicamente los libros de texto necesarios",
+        "Solo las normas de convivencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor debe proporcionar a principios de curso la información documental sobre calendario escolar, horarios, horas de tutoría, actividades complementarias y extraescolares, programas escolares y criterios de evaluación del grupo."
+    },
+    {
+      "question": "¿Qué sesiones coordina, organiza y preside el tutor?",
+      "options": [
+        "Las reuniones del equipo de ciclo",
+        "Las reuniones de la CCP",
+        "Las sesiones de evaluación levantando el acta",
+        "Las reuniones del Claustro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Entre las funciones del tutor a nivel de centro está coordinar, organizar y presidir las sesiones de evaluación y levantar el acta."
+    },
+    {
+      "question": "¿Quién toma las decisiones de promoción del alumnado?",
+      "options": [
+        "El equipo directivo",
+        "El tutor",
+        "La Comisión de Coordinación Pedagógica",
+        "El Departamento de Orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tutor es quien toma las decisiones de promoción de su alumnado, entre sus funciones a nivel de centro."
+    },
+    {
+      "question": "¿Quién coordina el trabajo de los tutores del centro?",
+      "options": [
+        "El director",
+        "El jefe de estudios",
+        "La Comisión de Coordinación Pedagógica",
+        "El Departamento de Orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El jefe de estudios es el encargado de coordinar el trabajo de los tutores del centro. Por tanto, los tutores y el jefe de estudios establecerán todas las reuniones periódicas necesarias para el buen funcionamiento de la acción tutorial."
+    },
+    {
+      "question": "¿Qué documentos regulan el Departamento de Orientación en Galicia?",
+      "options": [
+        "Decreto 155/2022 y Orden de 26 de mayo de 2023",
+        "Decreto 374/1996 y Orden de 22 de julio de 1997",
+        "Decreto 120/1998 y Orden de 24 de julio de 1998",
+        "Decreto 79/2010 y Orden de 20 de mayo de 2010"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Departamento de Orientación está regulado por el Decreto 120/1998, de 23 de abril, y por la Orden de 24 de julio de 1998 que establece su organización y funcionamiento en Galicia."
+    },
+    {
+      "question": "¿Cuántas unidades debe tener un centro de EP para disponer de un DO propio?",
+      "options": [
+        "Ocho unidades o más",
+        "Diez unidades o más",
+        "Doce unidades o más",
+        "Quince unidades o más"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 2 de la Orden de 24 de julio de 1998, los centros de Educación Infantil y Primaria con doce unidades o más dispondrán de un Departamento de Orientación propio."
+    },
+    {
+      "question": "¿Pueden crear un DO los centros con menos de 12 unidades?",
+      "options": [
+        "No, en ningún caso",
+        "Sí, cuando las circunstancias de dispersión de la población lo aconsejen",
+        "Solo si lo aprueba la Inspección Educativa",
+        "Solo si lo solicita el 75% de las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros de menos de 12 unidades pueden crear un Departamento de Orientación cuando las circunstancias de dispersión de la población lo aconsejen, según la Orden de 24 de julio de 1998."
+    },
+    {
+      "question": "¿Qué profesionales componen el DO en EP según el artículo 4 del Decreto 120/1998?",
+      "options": [
+        "Un jefe de DO y un psicólogo escolar",
+        "Un jefe de DO, un profesor de Pedagogía Terapéutica y otro de Audición y Lenguaje",
+        "Un orientador, un trabajador social y un profesor de apoyo",
+        "Un jefe de DO, un médico escolar y un profesor de PT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 4 del Decreto 120/1998, el Departamento de Orientación en Educación Primaria se compone por un jefe de DO, un profesor de Pedagogía Terapéutica (PT) y otro de Audición y Lenguaje (AL)."
+    }
+  ]
+}
