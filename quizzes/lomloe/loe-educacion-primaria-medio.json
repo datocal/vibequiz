@@ -1,0 +1,548 @@
+{
+  "title": "LOE - Educación Primaria (Nivel Medio)",
+  "description": "Test de nivel intermedio sobre la Educación Primaria en la LOE. Requiere comprensión de los principios pedagógicos, evaluación y organización curricular.",
+  "category": "legislacion",
+  "icon": "📚",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿Qué facilitará la educación primaria relacionado con la adquisición de cultura?",
+      "options": [
+        "La adquisición de nociones básicas de la cultura",
+        "La especialización en cultura avanzada",
+        "El dominio completo de la cultura universal",
+        "La investigación en estudios culturales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.2 establece que la finalidad incluye la adquisición de nociones básicas de la cultura, junto con otros aprendizajes fundamentales."
+    },
+    {
+      "question": "¿Qué hábitos específicos menciona la LOE como finalidad de la educación primaria?",
+      "options": [
+        "El hábito de convivencia, estudio y trabajo",
+        "El hábito de memorización y repetición",
+        "El hábito de competición y liderazgo",
+        "El hábito de clasificación y ordenación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 16.2, la finalidad incluye el hábito de convivencia así como los de estudio y trabajo, junto con el sentido artístico y la creatividad."
+    },
+    {
+      "question": "¿Qué aspectos artísticos menciona la finalidad de la educación primaria?",
+      "options": [
+        "El sentido artístico, la creatividad y la afectividad",
+        "La técnica artística profesional",
+        "La historia del arte universal",
+        "La crítica artística especializada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.2 menciona el sentido artístico, la creatividad y la afectividad como elementos de la formación integral."
+    },
+    {
+      "question": "¿Qué procurará la acción educativa respecto a las experiencias del alumnado?",
+      "options": [
+        "La integración de las distintas experiencias y aprendizajes",
+        "La separación por niveles de las experiencias",
+        "La clasificación de experiencias por dificultad",
+        "La eliminación de experiencias irrelevantes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.3 establece que la acción educativa procurará la integración de las distintas experiencias y aprendizajes con una perspectiva global."
+    },
+    {
+      "question": "¿Qué deben permitir los objetivos respecto a la convivencia?",
+      "options": [
+        "Aprender a obrar de acuerdo con las normas de forma empática",
+        "Memorizar las normas de convivencia",
+        "Clasificar las normas por importancia",
+        "Analizar las normas de forma crítica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.a establece conocer y apreciar los valores y normas de convivencia, y aprender a obrar de acuerdo con ellas de forma empática."
+    },
+    {
+      "question": "¿Para qué deben prepararse los alumnos respecto a la ciudadanía?",
+      "options": [
+        "Para el ejercicio activo de la ciudadanía",
+        "Para el ejercicio pasivo de la ciudadanía",
+        "Para la observación de la ciudadanía",
+        "Para el estudio teórico de la ciudadanía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.a menciona prepararse para el ejercicio activo de la ciudadanía y respetar los derechos humanos."
+    },
+    {
+      "question": "¿Qué actitudes deben desarrollar junto al trabajo?",
+      "options": [
+        "Confianza en sí mismo, sentido crítico e iniciativa personal",
+        "Obediencia y disciplina estricta",
+        "Competitividad y liderazgo",
+        "Conformidad y aceptación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.b establece desarrollar actitudes de confianza en sí mismo, sentido crítico, iniciativa personal, curiosidad, interés y creatividad."
+    },
+    {
+      "question": "¿Qué espíritu se debe fomentar según los objetivos de primaria?",
+      "options": [
+        "Espíritu emprendedor",
+        "Espíritu competitivo",
+        "Espíritu conservador",
+        "Espíritu conformista"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.b menciona el desarrollo del espíritu emprendedor junto con otras actitudes como la creatividad y el interés en el aprendizaje."
+    },
+    {
+      "question": "¿En qué ámbitos deben desenvolverse con autonomía los alumnos?",
+      "options": [
+        "En el ámbito escolar y familiar, y en los grupos sociales",
+        "En el ámbito laboral profesional",
+        "En el ámbito político y administrativo",
+        "En el ámbito económico y comercial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.c establece que las habilidades para la resolución pacífica de conflictos les permitan desenvolverse con autonomía en el ámbito escolar, familiar y en los grupos sociales."
+    },
+    {
+      "question": "¿Qué aspectos de la igualdad deben respetar según los objetivos?",
+      "options": [
+        "La igualdad de derechos y oportunidades de hombres y mujeres",
+        "La igualdad de resultados académicos",
+        "La igualdad de capacidades intelectuales",
+        "La igualdad de rendimiento escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.d menciona específicamente la igualdad de derechos y oportunidades de hombres y mujeres como elemento a respetar."
+    },
+    {
+      "question": "¿Por qué motivos no se debe discriminar según los objetivos de primaria?",
+      "options": [
+        "Por etnia, orientación o identidad sexual, religión, creencias o discapacidad",
+        "Por rendimiento académico o deportivo",
+        "Por nivel socioeconómico o profesión",
+        "Por lugar de residencia o nacionalidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.d establece la no discriminación de personas por motivos de etnia, orientación o identidad sexual, religión o creencias, discapacidad u otras condiciones."
+    },
+    {
+      "question": "¿Qué deben desarrollar respecto a la lectura?",
+      "options": [
+        "Hábitos de lectura",
+        "Velocidad de lectura avanzada",
+        "Técnicas de lectura rápida",
+        "Análisis literario profesional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.e establece conocer y utilizar la lengua de manera apropiada y desarrollar hábitos de lectura."
+    },
+    {
+      "question": "¿Qué deben permitir las competencias en lengua extranjera?",
+      "options": [
+        "Expresar y comprender mensajes sencillos y desenvolverse en situaciones cotidianas",
+        "Realizar traducciones profesionales",
+        "Escribir literatura en lengua extranjera",
+        "Interpretar textos especializados complejos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.f establece que la competencia comunicativa básica debe permitir expresar y comprender mensajes sencillos y desenvolverse en situaciones cotidianas."
+    },
+    {
+      "question": "¿Qué tipo de operaciones matemáticas deben realizar?",
+      "options": [
+        "Operaciones elementales de cálculo, conocimientos geométricos y estimaciones",
+        "Operaciones matemáticas avanzadas y ecuaciones complejas",
+        "Cálculo diferencial e integral",
+        "Álgebra abstracta y teoría de conjuntos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.g menciona la realización de operaciones elementales de cálculo, conocimientos geométricos y estimaciones."
+    },
+    {
+      "question": "¿A qué situaciones deben aplicar las competencias matemáticas?",
+      "options": [
+        "A las situaciones de su vida cotidiana",
+        "A problemas matemáticos teóricos",
+        "A investigaciones científicas",
+        "A cálculos profesionales especializados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.g establece que deben ser capaces de aplicar las competencias matemáticas a las situaciones de su vida cotidiana."
+    },
+    {
+      "question": "¿Qué tipo de utilización de las competencias tecnológicas se menciona?",
+      "options": [
+        "Para el aprendizaje, desarrollando un espíritu crítico",
+        "Para el entretenimiento personal",
+        "Para la producción industrial",
+        "Para la programación avanzada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.i menciona iniciarse en la utilización de las competencias tecnológicas para el aprendizaje, desarrollando un espíritu crítico."
+    },
+    {
+      "question": "¿Qué deben hacer respecto a propuestas visuales y audiovisuales?",
+      "options": [
+        "Iniciarse en la construcción de propuestas visuales y audiovisuales",
+        "Consumir contenidos visuales de forma pasiva",
+        "Producir contenidos profesionales",
+        "Analizar de forma crítica los medios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.j establece utilizar diferentes representaciones y expresiones artísticas e iniciarse en la construcción de propuestas visuales y audiovisuales."
+    },
+    {
+      "question": "¿Qué deben aceptar respecto al cuerpo según los objetivos?",
+      "options": [
+        "El propio cuerpo y el de los otros, respetando las diferencias",
+        "Los estándares de belleza social",
+        "Las clasificaciones por capacidad física",
+        "Las jerarquías corporales establecidas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.k establece aceptar el propio cuerpo y el de los otros, respetar las diferencias y utilizar la educación física como medio de desarrollo."
+    },
+    {
+      "question": "¿Qué deben adoptar respecto a los animales?",
+      "options": [
+        "Modos de comportamiento que favorezcan la empatía y su cuidado",
+        "Técnicas de adiestramiento animal",
+        "Clasificaciones zoológicas científicas",
+        "Sistemas de explotación animal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.l establece conocer y valorar los animales más próximos al ser humano y adoptar modos de comportamiento que favorezcan la empatía y su cuidado."
+    },
+    {
+      "question": "¿Qué tipo de estereotipos deben rechazar?",
+      "options": [
+        "Los estereotipos sexistas",
+        "Los estereotipos geográficos",
+        "Los estereotipos artísticos",
+        "Los estereotipos lingüísticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.m menciona desarrollar una actitud contraria a la violencia, a los prejuicios de cualquier tipo y a los estereotipos sexistas."
+    },
+    {
+      "question": "¿Qué tipo de prevención se menciona respecto a la educación vial?",
+      "options": [
+        "La prevención de los accidentes de tráfico",
+        "La prevención del uso de vehículos",
+        "La prevención de la contaminación vehicular",
+        "La prevención de infracciones de tráfico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.n establece fomentar la educación vial y actitudes de respeto que incidan en la prevención de los accidentes de tráfico."
+    },
+    {
+      "question": "¿Hacia qué estarán orientadas las áreas de educación primaria?",
+      "options": [
+        "Hacia el desarrollo de las competencias del alumnado",
+        "Hacia la memorización de contenidos",
+        "Hacia la clasificación del alumnado",
+        "Hacia la especialización temprana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.1 establece que las áreas estarán orientadas al desarrollo de las competencias del alumnado."
+    },
+    {
+      "question": "¿Cómo pueden organizarse las áreas de primaria según la LOE?",
+      "options": [
+        "Podrán organizarse en ámbitos",
+        "Deben organizarse en asignaturas cerradas",
+        "Deben separarse estrictamente por disciplinas",
+        "Deben clasificarse por dificultad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.1 establece que las áreas tendrán un carácter global e integrador y podrán organizarse en ámbitos."
+    },
+    {
+      "question": "¿Qué tipo de contenidos incluye Educación en Valores cívicos y éticos?",
+      "options": [
+        "Contenidos sobre la Constitución, Derechos Humanos y desarrollo sostenible",
+        "Contenidos sobre filosofía clásica",
+        "Contenidos sobre teoría política",
+        "Contenidos sobre derecho administrativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.3 establece que incluirá contenidos sobre la Constitución, Derechos Humanos, Derechos de la Infancia, desarrollo sostenible y ciudadanía mundial."
+    },
+    {
+      "question": "¿Qué fomentará el área de Educación en Valores cívicos y éticos?",
+      "options": [
+        "El espíritu crítico y la cultura de paz y no violencia",
+        "La obediencia y el conformismo",
+        "La competitividad y el individualismo",
+        "La clasificación moral de conductas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.3 menciona fomentar el espíritu crítico y la cultura de paz y no violencia en esta área."
+    },
+    {
+      "question": "¿Qué pueden añadir las Administraciones educativas además de las áreas obligatorias?",
+      "options": [
+        "Una segunda lengua extranjera u otra lengua cooficial o una materia transversal",
+        "Asignaturas de especialización universitaria",
+        "Materias de formación profesional",
+        "Cursos de preparación para exámenes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.4 establece que las Administraciones educativas podrán añadir una segunda lengua extranjera u otra lengua cooficial o una materia de carácter transversal."
+    },
+    {
+      "question": "¿Qué consideración recibirán los aprendizajes instrumentales?",
+      "options": [
+        "Especial consideración",
+        "Consideración secundaria",
+        "Consideración opcional",
+        "Consideración complementaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.5 establece que los aprendizajes que tengan carácter instrumental para la adquisición de otras competencias recibirán especial consideración."
+    },
+    {
+      "question": "¿Qué se garantizará respecto a las lenguas oficiales en comunidades con lengua propia?",
+      "options": [
+        "El objetivo de competencia lingüística suficiente en ambas lenguas",
+        "El predominio de una lengua sobre la otra",
+        "La eliminación de una de las lenguas",
+        "La optatividad completa de ambas lenguas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.7 establece que se garantizará el objetivo de competencia lingüística suficiente en ambas lenguas oficiales."
+    },
+    {
+      "question": "¿Qué tipo de atención debe prestarse al alumnado?",
+      "options": [
+        "Atención personalizada a sus necesidades de aprendizaje, participación y convivencia",
+        "Atención grupal uniforme",
+        "Atención selectiva por capacidades",
+        "Atención clasificatoria por rendimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.1 establece la atención personalizada al alumnado y a sus necesidades de aprendizaje, participación y convivencia."
+    },
+    {
+      "question": "¿Cuándo deben aplicarse los mecanismos de refuerzo?",
+      "options": [
+        "Tan pronto como se detecten las dificultades de aprendizaje",
+        "Al final de cada curso académico",
+        "Después de repetir curso",
+        "Tras las evaluaciones finales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.1 establece la puesta en práctica de mecanismos de refuerzo tan pronto como se detecten dificultades de aprendizaje."
+    },
+    {
+      "question": "¿Qué elementos transversales incluye el artículo 19.2 además de la comprensión lectora?",
+      "options": [
+        "La comunicación audiovisual, competencia digital y fomento de la creatividad",
+        "Las matemáticas y las ciencias naturales",
+        "La educación física y artística",
+        "Los idiomas extranjeros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 menciona la comunicación audiovisual, la competencia digital, el fomento de la creatividad, del espíritu científico y del emprendimiento."
+    },
+    {
+      "question": "¿Qué tipo de educación para la salud se menciona específicamente?",
+      "options": [
+        "La educación para la salud, incluida la afectivo-sexual",
+        "La educación para la prevención de enfermedades",
+        "La educación para el deporte competitivo",
+        "La educación para la nutrición básica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 establece trabajar la educación para la salud, incluida la afectivo-sexual, en todas las áreas."
+    },
+    {
+      "question": "¿Qué tipo de aprendizaje se potenciará para el desarrollo de competencias transversales?",
+      "options": [
+        "El aprendizaje significativo",
+        "El aprendizaje memorístico",
+        "El aprendizaje competitivo",
+        "El aprendizaje selectivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 menciona la potenciación del aprendizaje significativo para el desarrollo de las competencias transversales."
+    },
+    {
+      "question": "¿Qué promoverán las Administraciones para facilitar la lectura?",
+      "options": [
+        "Planes de fomento de la lectura y alfabetización en diversos medios",
+        "Exámenes obligatorios de lectura",
+        "Concursos de velocidad lectora",
+        "Clasificaciones de rendimiento lector"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.3 establece que las Administraciones promoverán planes de fomento de la lectura y de alfabetización en diversos medios, tecnologías y lenguajes."
+    },
+    {
+      "question": "¿Con qué colaboración se contará para el fomento de la lectura?",
+      "options": [
+        "Con la colaboración de las familias y del voluntariado",
+        "Con empresas editoriales privadas",
+        "Con instituciones universitarias",
+        "Con organizaciones internacionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.3 menciona que se contará con la colaboración de las familias y del voluntariado para los planes de fomento de la lectura."
+    },
+    {
+      "question": "¿Qué se reforzará con los proyectos significativos?",
+      "options": [
+        "La autoestima, la autonomía, la reflexión y la responsabilidad",
+        "La competitividad y el liderazgo",
+        "La memorización y la repetición",
+        "La clasificación y la jerarquización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.4 establece que los proyectos significativos y la resolución colaborativa de problemas reforzarán la autoestima, autonomía, reflexión y responsabilidad."
+    },
+    {
+      "question": "¿Qué promoverán las Administraciones en cuanto a alternativas metodológicas?",
+      "options": [
+        "Alternativas metodológicas para personalizar y mejorar el aprendizaje",
+        "Métodos únicos estandarizados",
+        "Sistemas de clasificación estrictos",
+        "Procedimientos uniformes obligatorios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.5 establece que se promoverán alternativas metodológicas para personalizar y mejorar la capacidad de aprendizaje y los resultados."
+    },
+    {
+      "question": "¿Para qué tipo de alumnado se establecen medidas en lengua extranjera?",
+      "options": [
+        "Para aquel que presente dificultades en su comprensión y expresión",
+        "Para el alumnado de alto rendimiento",
+        "Para el alumnado bilingüe",
+        "Para el alumnado de intercambio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.6 especifica medidas de flexibilización para el alumnado con necesidad específica de apoyo educativo, en especial para aquel que presente dificultades en comprensión y expresión."
+    },
+    {
+      "question": "¿Cómo se utilizarán las lenguas oficiales en el aprendizaje de lengua extranjera?",
+      "options": [
+        "Solo como apoyo en el proceso de aprendizaje",
+        "Como lengua principal de instrucción",
+        "De forma intercalada con la lengua extranjera",
+        "Para traducir todos los contenidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.6 establece que las lenguas oficiales se utilizarán solo como apoyo en el proceso de aprendizaje de la lengua extranjera."
+    },
+    {
+      "question": "¿Qué tendrá en cuenta la evaluación continua y global?",
+      "options": [
+        "El progreso en el conjunto de los procesos de aprendizaje",
+        "Los resultados de exámenes finales",
+        "Las calificaciones numéricas exactas",
+        "Las comparaciones entre alumnos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.1 establece que la evaluación tendrá en cuenta el progreso del alumnado en el conjunto de los procesos de aprendizaje."
+    },
+    {
+      "question": "¿Qué tipo de planes pueden elaborar los centros según las orientaciones?",
+      "options": [
+        "Planes de refuerzo o de enriquecimiento curricular",
+        "Planes de clasificación de alumnado",
+        "Planes de selección temprana",
+        "Planes de especialización obligatoria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.2 establece que los centros podrán elaborar planes de refuerzo o de enriquecimiento curricular para mejorar el nivel competencial."
+    },
+    {
+      "question": "¿Qué emitirá el tutor al finalizar cada ciclo?",
+      "options": [
+        "Un informe sobre el grado de adquisición de las competencias",
+        "Una calificación numérica global",
+        "Un certificado de superación",
+        "Un diploma de aprovechamiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.3 establece que el tutor emitirá un informe sobre el grado de adquisición de las competencias, indicando las medidas de refuerzo necesarias."
+    },
+    {
+      "question": "¿Qué se organizará si un alumno debe permanecer un año más en el mismo curso?",
+      "options": [
+        "Un plan específico de refuerzo",
+        "Un programa de recuperación estándar",
+        "Una evaluación extraordinaria",
+        "Un curso de verano obligatorio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.3 establece que se organizará un plan específico de refuerzo para que durante ese curso pueda alcanzar el grado de competencias correspondientes."
+    },
+    {
+      "question": "¿Qué dispondrá cada alumno al finalizar la etapa de primaria?",
+      "options": [
+        "Un informe sobre su evolución y las competencias desarrolladas",
+        "Un certificado de estudios oficial",
+        "Un diploma de graduación",
+        "Un expediente académico sellado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.4 establece que cada alumno dispondrá al finalizar la etapa de un informe sobre su evolución y las competencias desarrolladas."
+    },
+    {
+      "question": "¿Qué establecerán las Administraciones para la continuidad educativa?",
+      "options": [
+        "Mecanismos de coordinación entre primaria y secundaria",
+        "Exámenes de acceso a secundaria",
+        "Pruebas de nivel obligatorias",
+        "Sistemas de selección de centros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.4 establece que las Administraciones educativas establecerán mecanismos de coordinación entre centros de educación primaria y secundaria obligatoria."
+    },
+    {
+      "question": "¿Cuáles serán los referentes de evaluación para alumnos con necesidades educativas especiales?",
+      "options": [
+        "Los incluidos en las correspondientes adaptaciones del currículo",
+        "Los estándares generales de la etapa",
+        "Los criterios mínimos reducidos",
+        "Los objetivos del curso anterior"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.5 establece que los referentes de la evaluación serán los incluidos en las correspondientes adaptaciones del currículo."
+    },
+    {
+      "question": "¿En qué se pondrá especial énfasis respecto al alumnado en entornos desfavorecidos?",
+      "options": [
+        "En diagnósticos precoces y mecanismos de apoyo para evitar la repetición",
+        "En programas de clasificación temprana",
+        "En sistemas de selección especial",
+        "En procedimientos de derivación a centros específicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20 bis establece especial énfasis en diagnósticos precoces y mecanismos de apoyo y refuerzo para evitar la repetición escolar en entornos desfavorecidos."
+    },
+    {
+      "question": "¿Qué ajustarán las Administraciones en entornos socialmente desfavorecidos?",
+      "options": [
+        "Las ratios alumno/unidad",
+        "Los contenidos curriculares",
+        "Los horarios escolares",
+        "Los calendarios académicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20 bis establece que las Administraciones procederán a un ajuste de las ratios alumno/unidad como elemento favorecedor de estrategias pedagógicas."
+    },
+    {
+      "question": "¿Qué responsabilidad tienen las Administraciones en la evaluación de diagnóstico?",
+      "options": [
+        "La evaluación será responsabilidad de las Administraciones educativas",
+        "La evaluación será responsabilidad de los centros",
+        "La evaluación será responsabilidad de organismos externos",
+        "La evaluación será responsabilidad de las familias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece que la evaluación de diagnóstico será responsabilidad de las Administraciones educativas."
+    }
+  ]
+}

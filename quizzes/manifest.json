@@ -4,9 +4,13 @@
       "id": "lomloe",
       "name": "LOMLOE",
       "description": "Ley Orgánica de Modificación de la LOE - Principios fundamentales del sistema educativo español",
-      "icon": "📖",
+      "icon": "⚖️",
       "quizzes": [
-        "lomloe.json"
+        "lomloe.json",
+        "loe-educacion-primaria-facil.json",
+        "loe-educacion-primaria-medio.json",
+        "loe-educacion-primaria-dificil-1.json",
+        "loe-educacion-primaria-dificil-2.json"
       ]
     },
     {
@@ -33,7 +37,9 @@
       "description": "Protocolos sobre educación en Galicia",
       "icon": "🛡️",
       "quizzes": [
-        "protocolo-discapacidad-auditiva.json"
+        "protocolo-discapacidad-auditiva.json",
+        "protocolo-proteccion-datos-completo.json",
+        "protocolo-urgencias-sanitarias-completo.json"
       ]
     },
     {

@@ -1,0 +1,2154 @@
+{
+  "title": "Protocolo de Urgencias Sanitarias - Completo",
+  "description": "Test exhaustivo sobre el protocolo de atención en urgencias sanitarias y atención educativa al alumnado con enfermedad crónica. Incluye 200 preguntas de diferentes niveles de dificultad.",
+  "category": "protocolos",
+  "difficulty": "hard",
+  "icon": "🚑",
+  "questions": [
+    {
+      "question": "¿Qué garantiza la atención educativa hospitalaria y domiciliaria?",
+      "options": [
+        "El retorno al centro educativo en condiciones de normalidad",
+        "La exención de evaluaciones durante el periodo de enfermedad",
+        "El cambio a un centro especializado en enfermedades crónicas",
+        "La reducción del número de asignaturas obligatorias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el protocolo, la atención educativa hospitalaria y domiciliaria garantiza el retorno al centro educativo en condiciones de normalidad tras la enfermedad o lesión."
+    },
+    {
+      "question": "¿Dónde se desarrolla principalmente la atención educativa hospitalaria?",
+      "options": [
+        "En centros educativos especiales",
+        "En el domicilio del alumno",
+        "En aulas ubicadas en departamentos de pediatría",
+        "En centros de día municipales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La atención educativa hospitalaria se desarrolla en aulas ubicadas en los departamentos de pediatría de los principales complejos hospitalarios gallegos."
+    },
+    {
+      "question": "¿A partir de cuántos días de hospitalización se considera larga y media hospitalización?",
+      "options": [
+        "A partir de 5 días",
+        "A partir de 10 días",
+        "A partir de 15 días",
+        "A partir de 30 días"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se considera larga y media hospitalización a partir de 15 días de hospitalización, recibiendo atención educativa en coordinación con el centro de origen."
+    },
+    {
+      "question": "¿Cuál es el requisito de tiempo para recibir atención educativa domiciliaria?",
+      "options": [
+        "Convaleciente por más de 15 días",
+        "Convaleciente por más de un mes",
+        "Convaleciente por más de dos meses",
+        "Convaleciente por más de una semana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La atención educativa domiciliaria está destinada al alumnado que permanezca convaleciente en el domicilio por más de un mes."
+    },
+    {
+      "question": "¿Qué se necesita presentar en el centro para justificar la atención domiciliaria?",
+      "options": [
+        "Un certificado del director del centro",
+        "Una solicitud de los padres",
+        "Un informe médico que justifique la convalecencia",
+        "Una autorización de la Consellería"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es necesario presentar en el centro un informe médico que justifique la convalecencia y la estimación del tiempo en el cual el alumnado no puede asistir a clase."
+    },
+    {
+      "question": "¿Desde qué año está activo el Programa Alerta Escolar?",
+      "options": [
+        "Desde el curso 2005/06",
+        "Desde el curso 2007/08",
+        "Desde el curso 2010/11",
+        "Desde el curso 2012/13"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Programa Alerta Escolar está activo desde el curso 2007/08, siendo una colaboración entre la Consellería de Educación y la Fundación 061."
+    },
+    {
+      "question": "¿A qué rango de edad está dirigido el Programa Alerta Escolar?",
+      "options": [
+        "Entre 0 y 12 años",
+        "Entre 3 y 16 años",
+        "Entre 0 y 16 años",
+        "Entre 6 y 18 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Programa Alerta Escolar está dirigido a todos los niños escolarizados entre los 0 y los 16 años que padecen patologías crónicas."
+    },
+    {
+      "question": "¿Cuál NO es una de las patologías crónicas cubiertas por el Programa Alerta Escolar?",
+      "options": [
+        "Crisis alérgicas (anafilaxia)",
+        "Crisis comiciales (epilepsia)",
+        "Crisis diabéticas (hipoglucemia)",
+        "Crisis asmáticas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las patologías crónicas cubiertas por Alerta Escolar son: crisis alérgicas (anafilaxia), crisis comiciales (epilepsia) y crisis diabéticas (hipoglucemia). Las crisis asmáticas tienen su propio protocolo de actuación pero no están específicamente en el Programa Alerta Escolar."
+    },
+    {
+      "question": "¿Qué implica el Programa Alerta Escolar para el profesorado?",
+      "options": [
+        "La obligación de administrar medicación sin supervisión",
+        "La coordinación con la Central 061 para recibir instrucciones médicas",
+        "La responsabilidad exclusiva del tratamiento médico",
+        "La derivación inmediata del alumno al hospital"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Programa Alerta Escolar permite que el profesorado tenga cobertura de personal médico, siendo dirigido por un médico desde la Central de Coordinación en la asistencia al alumnado afectado."
+    },
+    {
+      "question": "¿Qué son los primeros auxilios según el protocolo?",
+      "options": [
+        "Actuaciones médicas profesionales en el hospital",
+        "Gestos o medidas que se adoptan inicialmente con un accidentado en el lugar de los hechos",
+        "Técnicas quirúrgicas de emergencia",
+        "Tratamientos farmacológicos específicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los primeros auxilios son gestos o medidas que se adoptan inicialmente con un accidentado o enfermo repentino, en el mismo lugar de los hechos, hasta que se pueda obtener una asistencia especializada."
+    },
+    {
+      "question": "¿Cuál es el primer objetivo básico de los primeros auxilios?",
+      "options": [
+        "Aliviar el dolor",
+        "Evitar la muerte",
+        "Impedir que se agrave la lesión",
+        "Ayudar a la recuperación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El primer objetivo básico de los primeros auxilios es evitar la muerte, seguido de impedir que se agrave la lesión, aliviar el dolor, evitar infecciones o lesiones secundarias y ayudar o facilitar la recuperación."
+    },
+    {
+      "question": "¿Qué significa la P en la conducta PAS?",
+      "options": [
+        "Proteger",
+        "Prevenir",
+        "Procurar",
+        "Priorizar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La P en la conducta PAS significa Proteger el lugar de los hechos, protegiendo tanto al accidentado como a la persona que interviene."
+    },
+    {
+      "question": "¿Qué significa la A en la conducta PAS?",
+      "options": [
+        "Actuar",
+        "Avisar",
+        "Aislar",
+        "Atender"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La A en la conducta PAS significa Avisar a los servicios de socorro siempre que la urgencia no pueda ser solucionada en el centro."
+    },
+    {
+      "question": "¿Qué significa la S en la conducta PAS?",
+      "options": [
+        "Sanar",
+        "Supervisar",
+        "Socorrer",
+        "Solicitar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La S en la conducta PAS significa Socorrer, actuando siguiendo un orden de prioridades: salvar la vida, evitar que se agraven las lesiones y organizar."
+    },
+    {
+      "question": "¿Cuándo se debe llamar al 061 en lugar del 112?",
+      "options": [
+        "En todos los casos de emergencia",
+        "Cuando se trate de alumnado inscrito en Alerta Escolar o problemas exclusivamente sanitarios",
+        "Solo en casos de accidentes de tráfico",
+        "Cuando el centro educativo esté en una zona rural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe llamar al 061 cuando se trate de alumnado inscrito en el Programa Alerta Escolar o cuando la naturaleza del problema sea exclusivamente sanitaria."
+    },
+    {
+      "question": "¿Cuándo se debe llamar al 112?",
+      "options": [
+        "Solo para accidentes graves",
+        "En casos con dudas sobre si el problema necesita servicios no exclusivamente sanitarios",
+        "Exclusivamente para incendios",
+        "Solo cuando el 061 no responda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe llamar al 112 en casos en los que existan dudas de que la naturaleza del problema y su resolución puedan necesitar de la intervención de servicios no exclusivamente sanitarios."
+    },
+    {
+      "question": "¿Qué información NO es prioritaria facilitar a los servicios de urgencia?",
+      "options": [
+        "Lugar exacto del accidente",
+        "Tipo de accidente",
+        "Número de heridos",
+        "Historial médico completo de la familia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La información prioritaria a facilitar incluye: lugar exacto, tipo de accidente, número de heridos y situación, e identificación del llamante. El historial familiar completo no es prioritario en el momento inicial."
+    },
+    {
+      "question": "¿Qué se debe hacer antes de abandonar la comunicación con los servicios de urgencia?",
+      "options": [
+        "Colgar inmediatamente después de dar la información",
+        "Esperar a que la central indique que se puede cortar la comunicación",
+        "Colgar después de 5 minutos",
+        "Esperar confirmación de la ambulancia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No se debe cortar la comunicación hasta que la central lo indique, ya que pueden necesitar dar instrucciones adicionales o solicitar más información."
+    },
+    {
+      "question": "Si una víctima respira pero sigue inconsciente, ¿en qué posición se debe colocar?",
+      "options": [
+        "Boca arriba con las piernas elevadas",
+        "Sentada con la cabeza hacia adelante",
+        "Posición lateral de seguridad (PLS)",
+        "Boca abajo para facilitar la respiración"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Si la víctima respira pero sigue inconsciente, se debe colocar en posición lateral de seguridad (PLS) para prevenir el ahogamiento y la aspiración de vómitos."
+    },
+    {
+      "question": "¿Qué se debe hacer primero en caso de accidente por electricidad?",
+      "options": [
+        "Tocar al herido para verificar su estado",
+        "Llamar inmediatamente a emergencias",
+        "Cortar la corriente eléctrica",
+        "Administrar RCP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lo primero que se debe hacer en caso de accidente por electricidad es cortar la corriente eléctrica antes de tocar al herido."
+    },
+    {
+      "question": "Si un alumno tiene fiebre alta (40º o más), ¿qué se debe hacer?",
+      "options": [
+        "Abrigarlo para que sude",
+        "Darle un medicamento antipirético",
+        "Avisar a los servicios de emergencia y seguir sus indicaciones",
+        "Aplicar paños de agua helada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Si la temperatura es muy alta (40º o más) se debe avisar a los servicios de emergencia y seguir sus indicaciones."
+    },
+    {
+      "question": "En caso de amputación traumática, ¿cómo se debe conservar el miembro amputado?",
+      "options": [
+        "En agua fría directamente",
+        "En hielo puro",
+        "Envuelto en gasas estériles dentro de una bolsa, y esta en otra bolsa con hielo y agua",
+        "En alcohol o desinfectante"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El miembro amputado debe envolverse en gasas estériles, introducirse en una bolsa cerrada, y esta en otra bolsa que contenga hielo rebajado con un poco de agua."
+    },
+    {
+      "question": "¿Cuál es la primera actuación ante una crisis asmática?",
+      "options": [
+        "Llamar inmediatamente al 061",
+        "Tranquilizar al alumno y buscar un ambiente relajado",
+        "Administrar un broncodilatador",
+        "Llevarlo al hospital"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La primera actuación ante una crisis asmática es tranquilizar al alumno, buscarle un ambiente relajado y colocarlo en una postura cómoda para respirar, manteniéndolo en reposo sentado."
+    },
+    {
+      "question": "¿El alumnado con crisis comiciales está dado de alta en qué programa?",
+      "options": [
+        "Programa de Atención Hospitalaria",
+        "Programa Alerta Escolar",
+        "Programa de Emergencias Escolares",
+        "Programa de Salud Educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alumnado con crisis comiciales (convulsivas) está dado de alta en el programa de Alerta Escolar."
+    },
+    {
+      "question": "Durante una convulsión, ¿qué NO se debe hacer?",
+      "options": [
+        "Proteger la cabeza",
+        "Apartar objetos peligrosos",
+        "Sujetar a la víctima o intentar poner algo entre los dientes",
+        "Aflojar la ropa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Durante una convulsión NO se debe sujetar a la víctima ni taponar la boca o intentar ponerle algo entre los dientes."
+    },
+    {
+      "question": "¿Qué palabra NO se debe usar en las opciones de respuesta por hacer obvias las respuestas incorrectas?",
+      "options": [
+        "Frecuentemente",
+        "Nunca",
+        "Posiblemente",
+        "Generalmente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Palabras absolutas como 'nunca', 'siempre', 'solo', 'únicamente', 'nada', 'todo' hacen que las opciones incorrectas sean obvias y deben evitarse."
+    },
+    {
+      "question": "En caso de crisis psiquiátricas graves, ¿cuántas personas deben permanecer con el alumno?",
+      "options": [
+        "Una persona",
+        "Dos personas",
+        "Tres personas",
+        "Cuatro o más personas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En casos de crisis psiquiátricas se debe procurar que permanezcan dos personas con el alumno afectado."
+    },
+    {
+      "question": "¿Qué se debe aplicar en caso de contusiones, esguinces y luxaciones?",
+      "options": [
+        "Calor local",
+        "Frío local",
+        "Pomadas antiinflamatorias",
+        "Masajes en la zona"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En caso de contusiones, esguinces y luxaciones se debe aplicar frío local (hielo, paños de agua fría o bolsas de frío instantáneo)."
+    },
+    {
+      "question": "Si hay un cuerpo extraño en el ojo, ¿qué se debe hacer?",
+      "options": [
+        "Frotar el ojo para intentar expulsarlo",
+        "Usar objetos punzantes para extraerlo",
+        "Lavar abundantemente con suero fisiológico y cubrir con gasa estéril",
+        "Aplicar colirio antibiótico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Si hay un cuerpo extraño en el ojo se debe lavar abundantemente con suero fisiológico y cubrir el ojo con gasa estéril antes de enviar a un centro sanitario."
+    },
+    {
+      "question": "En caso de dolor de cabeza que no remite, ¿qué se debe hacer?",
+      "options": [
+        "Administrar un analgésico",
+        "Avisar a las personas progenitoras y vigilar constantes vitales",
+        "Enviar al alumno a casa",
+        "Aplicar compresas calientes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si el dolor de cabeza no remite, se debe avisar a las personas progenitoras y vigilar las constantes vitales y el nivel de consciencia para alertar al 061 si es necesario."
+    },
+    {
+      "question": "En caso de epistaxis (hemorragia nasal), ¿durante cuántos minutos se debe mantener la presión?",
+      "options": [
+        "5 minutos",
+        "10 minutos",
+        "15 minutos",
+        "20 minutos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En caso de epistaxis se debe efectuar presión directa sobre la ventana nasal sangrante, manteniendo dicha presión durante 10 minutos (de reloj)."
+    },
+    {
+      "question": "¿Con qué se debe desinfectar una herida abierta?",
+      "options": [
+        "Alcohol",
+        "Agua oxigenada",
+        "Antiséptico basado en clorhexidina",
+        "Yodo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe desinfectar con un antiséptico para heridas abiertas basado en clorhexidina. Nunca usar alcohol ni agua oxigenada."
+    },
+    {
+      "question": "En caso de fracturas, ¿cómo se debe inmovilizar el hueso?",
+      "options": [
+        "En la posición correcta anatómica",
+        "Siempre en la misma posición en la que se encontró",
+        "Con el hueso enderezado",
+        "Con presión para reducir la hinchazón"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe inmovilizar la fractura SIEMPRE en la misma posición en la que encontramos el hueso, así como las articulaciones próximas por encima y por debajo de la fractura."
+    },
+    {
+      "question": "¿Qué NO se debe hacer en caso de fracturas de cráneo o columna vertebral?",
+      "options": [
+        "Llamar a emergencias",
+        "Proteger a la víctima",
+        "Mover a la persona",
+        "Vigilar las constantes vitales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En fracturas de cráneo o columna vertebral, NO SE DEBE MOVER a la persona en absoluto."
+    },
+    {
+      "question": "¿Durante cuántos minutos se debe mantener la comprensión directa en caso de hemorragia?",
+      "options": [
+        "2-3 minutos",
+        "5-10 minutos",
+        "15-20 minutos",
+        "30 minutos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe mantener la comprensión directa en el punto sangrante entre 5 y 10 minutos sin retirar el apósito."
+    },
+    {
+      "question": "¿Cuándo está permitido hacer torniquetes en caso de hemorragia?",
+      "options": [
+        "Siempre que la hemorragia sea abundante",
+        "Nunca se deben hacer torniquetes",
+        "Solo por expresa indicación de los servicios de urgencias",
+        "Cuando la comprensión directa no funciona"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nunca se deben hacer torniquetes excepto por expresa indicación de los servicios de urgencias y siguiendo sus indicaciones."
+    },
+    {
+      "question": "En caso de insolación o golpe de calor, ¿qué se debe hacer con la víctima consciente?",
+      "options": [
+        "Darle bebidas calientes",
+        "Abrigarla",
+        "Dar de beber líquidos frescos poco a poco",
+        "Aplicar mantas térmicas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En caso de insolación o golpe de calor, si la víctima está consciente se debe dar de beber líquidos frescos poco a poco."
+    },
+    {
+      "question": "¿Qué se debe hacer NUNCA en caso de intoxicación por ingestión?",
+      "options": [
+        "Conocer el producto causante",
+        "Provocar el vómito",
+        "Derivar a atención médica urgente",
+        "Tener el producto a mano para los servicios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En caso de intoxicación por ingestión, NUNCA se debe provocar el vómito."
+    },
+    {
+      "question": "¿Durante cuántos minutos se debe lavar el ojo en caso de salpicadura con productos químicos?",
+      "options": [
+        "5 minutos",
+        "10 minutos",
+        "Al menos 20 minutos",
+        "30 minutos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En caso de salpicaduras en los ojos con productos químicos, se debe lavar el ojo con agua durante por lo menos 20 minutos."
+    },
+    {
+      "question": "¿Qué se debe hacer en caso de lipotimia o síncope?",
+      "options": [
+        "Sentar a la persona con la cabeza entre las piernas",
+        "Acostar con las piernas elevadas",
+        "Ponerla de pie apoyada en la pared",
+        "Darle un vaso de agua con azúcar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En caso de lipotimia o síncope se debe acostar a la persona con las piernas elevadas, aflojar la ropa y airear."
+    },
+    {
+      "question": "¿Cómo se llama la maniobra para obstrucción completa de la vía aérea?",
+      "options": [
+        "Maniobra de Sellick",
+        "Maniobra de Heimlich",
+        "Maniobra de Kristeller",
+        "Maniobra de Valsalva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La maniobra para obstrucción completa de la vía aérea es la maniobra de Heimlich."
+    },
+    {
+      "question": "En caso de picadura de serpiente, ¿qué NUNCA se debe hacer?",
+      "options": [
+        "Lavar la herida con agua y jabón",
+        "Aplicar frío moderado",
+        "Hacer incisiones en la piel o succionar la mordedura",
+        "Realizar vendaje compresivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En caso de picadura de serpiente, NUNCA se debe hacer incisiones en la piel ni succionar (chupar) de la mordedura."
+    },
+    {
+      "question": "¿Durante cuántos minutos se debe exponer una quemadura bajo el chorro de agua fría?",
+      "options": [
+        "5 minutos",
+        "10 minutos",
+        "15 minutos",
+        "20 minutos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En caso de quemaduras por calor o llamas, se debe exponer la zona quemada bajo el chorro de agua fría durante 10 minutos."
+    },
+    {
+      "question": "¿Qué NO se debe hacer en caso de quemaduras?",
+      "options": [
+        "Lavar con agua fría",
+        "Cubrir con gasas estériles",
+        "Romper ampollas o aplicar pomadas",
+        "Elevar la zona"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En caso de quemaduras, NUNCA se debe aplicar pomadas o remedios caseros, utilizar hielo o agua helada, romper ampollas, o usar antisépticos con colorante."
+    },
+    {
+      "question": "En caso de diente permanente fracturado, ¿en qué se debe conservar la pieza dental?",
+      "options": [
+        "En agua del grifo",
+        "En alcohol o desinfectante",
+        "En leche fría, suero fisiológico o saliva",
+        "En seco envuelta en papel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El diente o fragmento debe conservarse en leche fría, suero fisiológico o en la propia saliva (debajo de la lengua). Nunca transportarse en seco."
+    },
+    {
+      "question": "¿En cuántas horas se pueden reimplantar con éxito los dientes permanentes?",
+      "options": [
+        "En la primera hora",
+        "En las dos primeras horas",
+        "En las seis primeras horas",
+        "En las 24 horas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los dientes pueden reimplantarse con éxito en las dos primeras horas, sobre todo en la primera hora."
+    },
+    {
+      "question": "¿Cuál es el objetivo del enfoque multidisciplinario en atención a enfermedad crónica?",
+      "options": [
+        "Reducir el número de asignaturas",
+        "Promover la integración plena del niño en actividades sociales",
+        "Eximir de evaluaciones",
+        "Cambiar a un centro especializado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El enfoque multidisciplinario persigue promover la integración plena del niño en actividades sociales (colegios, campamentos, deportes...), responder a incidentes y potenciar la atención continuada."
+    },
+    {
+      "question": "¿Cuál es el número ideal de profesores en el equipo de apoyo al alumnado con enfermedad crónica?",
+      "options": [
+        "2 profesores",
+        "3 profesores",
+        "5 profesores",
+        "Todo el claustro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El número ideal es de 3 profesores, aunque se tendrá en cuenta las circunstancias particulares de cada centro."
+    },
+    {
+      "question": "¿Qué debe incluir el Plan de Atención Individualizado para alumnado con enfermedad crónica?",
+      "options": [
+        "Solo el informe médico",
+        "Solo las autorizaciones de la familia",
+        "Ficha con fotografía, protocolo de emergencia, autorizaciones, alta en Alerta Escolar e informe médico",
+        "Solo el alta en Alerta Escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Plan de Atención Individualizado debe incluir: ficha con fotografía y protocolo de emergencia, autorizaciones de la familia, alta en Alerta Escolar (si procede), informe médico y pautas, y formularios complementarios."
+    },
+    {
+      "question": "¿Qué facilita especialmente la conexión entre el ámbito escolar y hospitalario según el protocolo?",
+      "options": [
+        "Las reuniones presenciales semanales",
+        "Las TIC (Tecnologías de la Información y Comunicación)",
+        "Los informes médicos mensuales",
+        "Las videoconferencias quincenales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el protocolo, las TIC favorecen especialmente la conexión de ámbitos escolar y hospitalario, permitiendo la intercomunicación con el profesorado y con compañeros."
+    },
+    {
+      "question": "Para la atención domiciliaria, ¿cuántos días continuados al mes de faltas debe tener el alumno como mínimo en caso de enfermedad crónica?",
+      "options": [
+        "Cuatro o más días continuados al mes",
+        "Cinco o más días continuados al mes",
+        "Seis o más días continuados al mes",
+        "Siete o más días continuados al mes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para atención domiciliaria en caso de enfermedad crónica, se requieren seis o más días continuados al mes dentro de un período mínimo de seis meses."
+    },
+    {
+      "question": "¿Cuál es el nombre completo de la fundación que colabora con la Consellería en el Programa Alerta Escolar?",
+      "options": [
+        "Fundación Pública Urgencias Sanitarias de Galicia-061",
+        "Fundación 061",
+        "Fundación Galega de Urgencias",
+        "Fundación de Emergencias Sanitarias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El nombre completo es Fundación Pública Urgencias Sanitarias de Galicia-061, aunque comúnmente se refiere como Fundación 061."
+    },
+    {
+      "question": "¿Qué posibilita específicamente el Programa Alerta Escolar para el profesorado?",
+      "options": [
+        "Prescribir medicación específica",
+        "Tener cobertura de personal médico con conocimientos sobre patologías crónicas",
+        "Administrar cualquier tipo de medicación",
+        "Realizar diagnósticos médicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Programa Alerta Escolar posibilita que el profesorado tenga cobertura de personal médico con conocimientos sobre estas problemáticas específicas."
+    },
+    {
+      "question": "¿Dónde se conserva y custodia la medicación pautada en el Programa Alerta Escolar?",
+      "options": [
+        "En la mochila del alumno",
+        "En el botiquín de la enfermería",
+        "En el centro escolar",
+        "Con el tutor del alumno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La medicación pautada de antemano es conservada y custodiada en el centro escolar para poder ser administrada de manera precoz si es vital."
+    },
+    {
+      "question": "¿En qué circunstancia se solicita la colaboración de la Fundación 061 en simulacros?",
+      "options": [
+        "En todos los simulacros obligatorios",
+        "Cuando se incluya la simulación de actuaciones ante urgencias de salud",
+        "Solo en simulacros de incendio",
+        "En simulacros de evacuación general"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se solicitará la colaboración de la Fundación Pública Urgencias sanitarias de Galicia-061 cuando en los simulacros se incluya la simulación de actuaciones ante urgencias de salud."
+    },
+    {
+      "question": "En el decálogo de primeros auxilios, ¿qué punto específico menciona la actuación respecto al movimiento del accidentado?",
+      "options": [
+        "Mover al accidentado a un lugar seguro",
+        "No mover al accidentado sin saber lo que tiene",
+        "Mover al accidentado a una posición cómoda",
+        "Mover al accidentado solo si está consciente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto 4 del decálogo establece: 'No mover al accidentado sin saber lo que tiene: examinar sin tocar innecesariamente.'"
+    },
+    {
+      "question": "¿Qué se debe hacer con el accidentado según el punto 7 del decálogo?",
+      "options": [
+        "Enfriarlo",
+        "Abrigarlo",
+        "Ventilarlo",
+        "Hidratarlo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto 7 del decálogo de primeros auxilios establece: 'Abrigar al herido.'"
+    },
+    {
+      "question": "Según el decálogo, ¿qué NO se debe dar a un accidentado?",
+      "options": [
+        "Medicamentos",
+        "Bebida o comida",
+        "Aire fresco",
+        "Apoyo emocional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto 6 del decálogo establece: 'No dar de beber o comer a un accidentado.'"
+    },
+    {
+      "question": "En el decálogo, ¿qué debe hacer siempre la persona que interviene según el punto 10?",
+      "options": [
+        "Llamar a emergencias primero",
+        "Protegerse: asegurar su integridad, poner guantes, etc.",
+        "Tomar fotografías del accidente",
+        "Pedir ayuda a otros compañeros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto 10 establece: '¡ATENCIÓN! La persona que interviene debe protegerse siempre: asegurar su integridad, poner guantes, etc.'"
+    },
+    {
+      "question": "¿Qué protocolo se debe aplicar como conducta general en primeros auxilios?",
+      "options": [
+        "ABC (Airway, Breathing, Circulation)",
+        "PAS (Proteger, Avisar, Socorrer)",
+        "RCP (Reanimación Cardiopulmonar)",
+        "SVB (Soporte Vital Básico)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe aplicar una conducta PAS: Proteger el lugar de los hechos, Avisar a los servicios de socorro, y Socorrer."
+    },
+    {
+      "question": "¿Qué se debe hacer si para avisar a emergencias hay que alejarse de la víctima?",
+      "options": [
+        "Dejar a la víctima sola temporalmente",
+        "Gritar pidiendo ayuda sin alejarse",
+        "Asegurarse de que queda alguien a su cargo con capacidad de actuar",
+        "Esperar a que llegue alguien"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Si para avisar hay que alejarse, nos debemos asegurar de que queda alguien a su cargo con capacidad de actuar. Si no es posible, pediremos ayuda o intentaremos estabilizar a la víctima."
+    },
+    {
+      "question": "¿Cuál es el tercer orden de prioridad en la fase de Socorrer?",
+      "options": [
+        "Salvar la vida",
+        "Evitar que se agraven las lesiones",
+        "Organizar",
+        "Administrar medicación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tercer orden de prioridad en Socorrer es Organizar (alejar a los curiosos, transmitir instrucciones de la central y de los servicios de urgencia, etc.)."
+    },
+    {
+      "question": "¿Sobre qué superficie se debe acostar a la víctima para reanimación cardiopulmonar?",
+      "options": [
+        "Sobre una cama blanda",
+        "Sobre una superficie firme",
+        "Sobre un colchón",
+        "Sobre almohadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la reanimación cardiopulmonar, se debe acostar a la víctima boca arriba sobre una superficie firme."
+    },
+    {
+      "question": "¿Qué maniobra se debe desarrollar antes de comprobar la respiración en RCP?",
+      "options": [
+        "Maniobra de Heimlich",
+        "Maniobra frente-mentón",
+        "Maniobra de Sellick",
+        "Maniobra de elevación del tórax"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe desarrollar la maniobra frente-mentón y tras un tiempo comprobar la respiración."
+    },
+    {
+      "question": "¿Cuándo se detienen las maniobras de reanimación cardiopulmonar?",
+      "options": [
+        "Después de 10 minutos exactamente",
+        "Cuando llega cualquier persona",
+        "Si la víctima muestra señales de recuperación, llegan servicios de emergencias o el reanimador está cansado",
+        "Después de 30 compresiones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Solo se detienen la reanimación si la víctima muestra señales de recuperación, llegan los servicios de emergencias o el reanimador esté cansado."
+    },
+    {
+      "question": "En accidentes por electricidad, ¿con qué se debe apartar al herido de la corriente?",
+      "options": [
+        "Con las manos desnudas",
+        "Con la ayuda de materiales aislantes",
+        "Con toallas mojadas",
+        "Con objetos metálicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe apartar al herido de la corriente con la ayuda de materiales aislantes después de cortar la corriente eléctrica."
+    },
+    {
+      "question": "En caso de fiebre, ¿qué se debe hacer con el alumno respecto a la ropa?",
+      "options": [
+        "Abrigarlo bien",
+        "No abrigarlo",
+        "Ponerle mantas térmicas",
+        "Cambiarle la ropa mojada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si hay fiebre, no se debe abrigar al alumno."
+    },
+    {
+      "question": "En amputaciones traumáticas, ¿cómo se debe envolver el miembro amputado?",
+      "options": [
+        "En papel periódico",
+        "En gasas estériles",
+        "En plástico transparente",
+        "En vendas normales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El miembro amputado debe envolverse totalmente en gasas estériles antes de introducirlo en la primera bolsa."
+    },
+    {
+      "question": "¿Qué deben trasladarse juntos en caso de amputación traumática?",
+      "options": [
+        "El herido y el informe médico",
+        "El herido y los testigos",
+        "El herido y el miembro amputado",
+        "El herido y la familia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El herido y el miembro amputado deben trasladarse siempre juntos."
+    },
+    {
+      "question": "En crisis asmáticas, ¿en qué posición se debe mantener al alumno?",
+      "options": [
+        "Tumbado boca arriba",
+        "De pie",
+        "En reposo sentado",
+        "Tumbado de lado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe mantener al alumno en reposo en posición sentada para facilitar la respiración durante una crisis asmática."
+    },
+    {
+      "question": "¿Qué tipo de actuaciones debe recibir el alumnado asmático al llegar al centro?",
+      "options": [
+        "Actuaciones según el protocolo de Alerta Escolar",
+        "Actuaciones pautadas desde su llegada para atención a enfermedades crónicas",
+        "Actuaciones decididas por el tutor",
+        "Actuaciones decididas por la familia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al tratarse de un trastorno crónico, se pautará desde su llegada al centro la actuación en las crisis, según lo establecido para la atención a enfermedades crónicas."
+    },
+    {
+      "question": "Cuando finalice una convulsión, ¿en qué posición se debe colocar al afectado?",
+      "options": [
+        "Boca arriba con piernas elevadas",
+        "Sentado con cabeza entre las piernas",
+        "Posición lateral de seguridad",
+        "Boca abajo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cuando finalice la convulsión se debe colocar en posición lateral de seguridad y esperar asistencia sanitaria, reevaluando frecuentemente la respiración espontánea."
+    },
+    {
+      "question": "En crisis diabéticas, ¿con quién se debe contactar primero si surgen dudas sobre la gravedad?",
+      "options": [
+        "Con el 112",
+        "Con la familia inmediatamente",
+        "Con el director del centro",
+        "Con el pediatra del centro de salud"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando surjan dudas sobre la gravedad de una descompensación de glucosa se debe contactar con la familia inmediatamente y (de no ser posible) con los servicios de urgencia a través de la Alerta Escolar."
+    },
+    {
+      "question": "¿Cuántas personas como máximo deben permanecer con el alumno en crisis psiquiátricas leves?",
+      "options": [
+        "Una persona",
+        "Dos personas",
+        "Tres personas",
+        "Todo el personal disponible"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe procurar que permanezcan dos personas con el alumno en crisis psiquiátricas."
+    },
+    {
+      "question": "¿Qué tiene prioridad máxima en crisis psiquiátricas o afines?",
+      "options": [
+        "Llamar a la familia",
+        "Administrar medicación",
+        "Evitar que haga daño al resto del alumnado y a sí mismo",
+        "Trasladarlo a un centro especializado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La prioridad máxima es evitar que haga daño al resto del alumnado y a sí mismo."
+    },
+    {
+      "question": "En contusiones, esguinces y luxaciones, ¿con qué se puede inmovilizar la zona afectada?",
+      "options": [
+        "Con yeso",
+        "Con un vendaje o estribera",
+        "Con tablillas rígidas",
+        "Con cinta adhesiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe inmovilizar la zona afectada con un vendaje o estribera después de aplicar frío local."
+    },
+    {
+      "question": "¿Qué tipo de productos se debe usar para lavar el ojo cuando hay un cuerpo extraño?",
+      "options": [
+        "Agua del grifo",
+        "Suero fisiológico",
+        "Colirio antibiótico",
+        "Agua destilada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe lavar abundantemente con suero fisiológico cuando hay un cuerpo extraño en el ojo."
+    },
+    {
+      "question": "¿Con qué se debe cubrir el ojo después de lavar un cuerpo extraño?",
+      "options": [
+        "Con un parche opaco",
+        "Con gasa estéril",
+        "Con algodón",
+        "Con un pañuelo limpio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Después de lavar, se debe cubrir el ojo con gasa estéril antes de enviar a un centro sanitario."
+    },
+    {
+      "question": "En caso de cuerpo extraño en la nariz o en los oídos, ¿cuál es la actuación correcta?",
+      "options": [
+        "Intentar extraerlo con pinzas",
+        "Lavar con agua",
+        "No tocar y acudir a un centro sanitario",
+        "Aplicar gotas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En caso de cuerpo extraño en la nariz y en los oídos: no tocar y acudir a un centro sanitario."
+    },
+    {
+      "question": "En dolor de cabeza, ¿qué ambiente se debe buscar para el alumno?",
+      "options": [
+        "Ambiente iluminado y animado",
+        "Ambiente relajado y con luz tenue",
+        "Ambiente con música suave",
+        "Ambiente exterior al aire libre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe tranquilizar al alumno y buscarle un ambiente idóneo (relajado y con luz tenue) y colocarlo en una postura cómoda."
+    },
+    {
+      "question": "En caso de dolor abdominal, ¿cuándo se debe solicitar traslado urgente?",
+      "options": [
+        "Si el dolor dura más de una hora",
+        "Si el dolor es muy intenso o si el abdomen es duro",
+        "Si hay vómitos",
+        "Si hay fiebre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si el dolor es muy intenso o si el abdomen es duro, se debe solicitar el traslado urgente a un centro sanitario."
+    },
+    {
+      "question": "En epistaxis, ¿hacia dónde se debe inclinar la cabeza?",
+      "options": [
+        "Hacia atrás",
+        "Hacia adelante",
+        "Hacia el lado derecho",
+        "Hacia el lado izquierdo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe efectuar presión directa manteniendo dicha presión durante 10 min y siempre con la cabeza inclinada hacia delante."
+    },
+    {
+      "question": "Si la hemorragia nasal persiste después de 10 minutos de presión, ¿qué se debe hacer?",
+      "options": [
+        "Aplicar más presión",
+        "Introducir una gasa impregnada con agua oxigenada por la fosa sangrante",
+        "Llamar inmediatamente al 061",
+        "Inclinar la cabeza hacia atrás"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si pasados los 10 min la hemorragia no cesa, se introduce una gasa impregnada con un poco de agua oxigenada por la fosa sangrante."
+    },
+    {
+      "question": "En caso de epistaxis persistente, ¿qué se debe hacer con la gasa al acudir a centro sanitario?",
+      "options": [
+        "Retirarla antes de ir",
+        "No quitar la gasa",
+        "Cambiarla por una nueva",
+        "Humedecerla con más agua oxigenada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si la hemorragia persiste, se acude a un centro sanitario sin quitar la gasa."
+    },
+    {
+      "question": "¿Desde dónde hacia dónde se debe secar una herida?",
+      "options": [
+        "Desde los bordes hacia el centro",
+        "Desde el centro hacia la periferia",
+        "Desde arriba hacia abajo",
+        "Desde abajo hacia arriba"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe secar la herida con gasa desde el centro hacia la periferia, sin hacer fuerza."
+    },
+    {
+      "question": "¿En qué está basado el antiséptico que se debe usar en heridas abiertas?",
+      "options": [
+        "En alcohol",
+        "En agua oxigenada",
+        "En clorhexidina",
+        "En yodo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe desinfectar con un antiséptico para heridas abiertas basado en la clorhexidina (nunca usar alcohol ni agua oxigenada)."
+    },
+    {
+      "question": "Si la herida no es absolutamente superficial, ¿qué se debe hacer?",
+      "options": [
+        "Llevar al alumno al hospital",
+        "Notificar a la familia para que considere solicitar valoración sanitaria",
+        "Aplicar pomada antibiótica",
+        "Cerrarla con puntos de aproximación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si la herida no es absolutamente superficial, se debe notificar a la familia para que considere solicitar valoración sanitaria."
+    },
+    {
+      "question": "¿Qué se debe hacer si la fractura es abierta antes de inmovilizar?",
+      "options": [
+        "Limpiar la herida profundamente",
+        "Aplicar pomada antibiótica",
+        "Cubrir con un apósito la herida",
+        "Desinfectar con alcohol"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Si la fractura es abierta, se debe cubrir con un apósito la herida antes de inmovilizar."
+    },
+    {
+      "question": "¿Con qué se deben llenar los huecos entre la férula y la extremidad?",
+      "options": [
+        "Con vendas rígidas",
+        "Con materiales blandos (gasas, etc.)",
+        "Con algodón industrial",
+        "Con toallas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se deben llenar los huecos que queden entre la férula y la extremidad con materiales blandos (gasas, etc.)."
+    },
+    {
+      "question": "¿Qué se debe hacer si sigue sangrando después de comprimir durante 5-10 minutos?",
+      "options": [
+        "Retirar las gasas y poner nuevas",
+        "Añadir más gasas sin retirar las anteriores",
+        "Hacer un torniquete",
+        "Aplicar hielo directo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si sigue sangrando, se deben añadir más gasas sin retirar las anteriores y sujetarlas con vendajes compresivos."
+    },
+    {
+      "question": "¿Dónde se debe comprimir el miembro cuando la comprensión directa no es suficiente?",
+      "options": [
+        "Por debajo del punto de sangrado",
+        "Directamente en el punto de sangrado",
+        "Por encima del punto de sangrado",
+        "En varios puntos a la vez"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cuando la comprensión directa no es suficiente, se debe comprimir el miembro por encima del punto de sangrado."
+    },
+    {
+      "question": "En insolación y golpe de calor, ¿con qué tipo de luz debe estar el lugar fresco?",
+      "options": [
+        "Con luz brillante",
+        "Con luz natural",
+        "Con poca luz",
+        "A oscuras totalmente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe apartar a la víctima de la fuente de calor, situándola en un lugar fresco con poca luz."
+    },
+    {
+      "question": "En intoxicación por ingestión, ¿qué se debe hacer con el producto causante?",
+      "options": [
+        "Desecharlo inmediatamente",
+        "Conocer el producto y tenerlo a mano para los servicios de urgencia",
+        "Guardarlo en un lugar seguro lejos del accidentado",
+        "Diluirlo en agua"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe conocer el producto causante y tenerlo a mano para los servicios de urgencia."
+    },
+    {
+      "question": "En intoxicación por salpicadura, ¿qué se debe retirar además de la ropa?",
+      "options": [
+        "Solo la ropa mojada",
+        "La ropa y el calzado",
+        "Toda la ropa y las joyas",
+        "Solo las joyas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe retirar toda la ropa y las joyas antes de lavar exhaustivamente con agua."
+    },
+    {
+      "question": "En intoxicación por inhalación, ¿qué se debe hacer antes de actuar?",
+      "options": [
+        "Actuar inmediatamente sin precauciones",
+        "Protegerse y evitar actuar solo",
+        "Ventilar la zona durante 30 minutos",
+        "Llamar a los bomberos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe protegerse y evitar actuar solo, siguiendo los pasos de los servicios de urgencias."
+    },
+    {
+      "question": "¿Qué síntomas NO son característicos de la lipotimia?",
+      "options": [
+        "Mareo y sudoración",
+        "Abatimiento",
+        "Convulsiones prolongadas",
+        "Debilidad en las piernas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los síntomas de lipotimia son: mareo, sudoración, abatimiento, debilidad en las piernas y pérdida de conocimiento de forma breve. Las convulsiones prolongadas no son características de la lipotimia."
+    },
+    {
+      "question": "¿Qué se debe hacer con una víctima que pierde el conocimiento por lipotimia?",
+      "options": [
+        "Sentarla con la cabeza entre las piernas",
+        "Colocarla en posición lateral de seguridad",
+        "Ponerla de pie",
+        "Darle agua con azúcar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ante la pérdida de conocimiento, se debe solicitar ayuda de los servicios de urgencia y colocar en posición lateral de seguridad."
+    },
+    {
+      "question": "En obstrucción incompleta de vía aérea, ¿cuántas palmadas se deben dar como máximo entre los omóplatos?",
+      "options": [
+        "Hasta tres palmadas",
+        "Hasta cinco palmadas",
+        "Hasta diez palmadas",
+        "Palmadas continuas hasta que expulse el objeto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En obstrucción incompleta o parcial, se deben dar hasta cinco palmadas entre los omóplatos, con la persona ligeramente inclinada hacia delante."
+    },
+    {
+      "question": "¿Dónde se ubican específicamente las aulas hospitalarias según el protocolo?",
+      "options": [
+        "En los departamentos de urgencias",
+        "En los departamentos de pediatría",
+        "En las plantas de hospitalización general",
+        "En edificios anexos a los hospitales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las aulas hospitalarias están ubicadas en los departamentos de pediatría de los principales complejos hospitalarios gallegos."
+    },
+    {
+      "question": "¿Qué deben abordar los centros de manera integrada, transdisciplinaria y competencial?",
+      "options": [
+        "La atención a la diversidad y necesidades especiales",
+        "La educación para la salud y los estilos de vida saludables",
+        "La prevención de accidentes escolares",
+        "La formación en primeros auxilios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros (desde la acción tutorial y orientadora) deben abordar de manera integrada, transdisciplinaria y competencial la educación para la salud y los estilos de vida saludables."
+    },
+    {
+      "question": "¿Cuál es el objetivo de las aulas hospitalarias respecto a las necesidades del alumnado?",
+      "options": [
+        "Atender solo necesidades académicas",
+        "Atender necesidades psicológicas y sociales generadas por la hospitalización",
+        "Atender solo necesidades médicas",
+        "Proporcionar entretenimiento durante la estancia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo es atender a sus necesidades psicológicas y sociales generadas como consecuencia de la hospitalización y de la enfermedad que padece."
+    },
+    {
+      "question": "¿Qué tipo de actividades puede realizar el alumnado con corta hospitalización?",
+      "options": [
+        "Actividades del currículo oficial coordinadas con su centro",
+        "Actividades educativas de carácter general",
+        "Actividades de recuperación de asignaturas pendientes",
+        "Actividades terapéuticas exclusivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alumnado con corta hospitalización podrá realizar en el centro hospitalario actividades educativas de carácter general."
+    },
+    {
+      "question": "¿Cuál es el periodo mínimo dentro del cual deben producirse las faltas para atención domiciliaria en enfermedad crónica?",
+      "options": [
+        "Período mínimo de tres meses",
+        "Período mínimo de seis meses",
+        "Período mínimo de un año",
+        "Período mínimo de dos meses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las faltas de seis o más días continuados al mes deben producirse dentro de un período mínimo de seis meses."
+    },
+    {
+      "question": "¿Qué es lo más importante ofrecer en la atención domiciliaria según el protocolo?",
+      "options": [
+        "Horarios flexibles de estudio",
+        "Un ambiente lo más próximo posible a la normalidad",
+        "Reducción de contenidos curriculares",
+        "Evaluaciones adaptadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es importante ofrecer un ambiente lo más próximo posible a la normalidad, facilitando la continuidad para proporcionar la estabilidad emocional."
+    },
+    {
+      "question": "¿En qué ámbito se enmarca el Programa Alerta Escolar?",
+      "options": [
+        "Ámbito de prevención de accidentes",
+        "Ámbito de atención a urgencias de salud",
+        "Ámbito de educación especial",
+        "Ámbito de protección civil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Programa Alerta Escolar está enmarcado dentro del ámbito de atención a urgencias de salud."
+    },
+    {
+      "question": "¿Qué tipo de crisis alérgicas cubre el Programa Alerta Escolar?",
+      "options": [
+        "Crisis alérgicas respiratorias",
+        "Crisis alérgicas cutáneas",
+        "Crisis alérgicas (anafilaxia) por exposición a alérgenos",
+        "Crisis alérgicas estacionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El programa cubre crisis alérgicas (anafilaxia) por exposición a alérgenos, normalmente alimentarios."
+    },
+    {
+      "question": "¿Cómo identifica el sistema del 061 al alumno inscrito en Alerta Escolar?",
+      "options": [
+        "Por el nombre del centro educativo",
+        "Por el DNI del alumno",
+        "Tras recibir una alerta, se identifica en la base de datos del programa",
+        "Por el teléfono de los padres"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tras recibir una alerta se identifica al alumno inscrito en la base de datos del programa, dando a los facultativos acceso inmediato a su historial clínico."
+    },
+    {
+      "question": "¿Qué permite al profesorado el Programa Alerta Escolar respecto a la medicación?",
+      "options": [
+        "Prescribir medicación de emergencia",
+        "Administrar medicación pautada de manera precoz si es vital, bajo dirección médica",
+        "Almacenar cualquier tipo de medicación",
+        "Decidir qué medicación administrar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El profesorado puede, si es vital, administrar de manera precoz una medicación pautada de antemano, siendo dirigido por un médico desde la Central de Coordinación."
+    },
+    {
+      "question": "¿Con quién se solicita la colaboración para simulacros con urgencias de salud?",
+      "options": [
+        "Con el Servicio de Emergencias 112",
+        "Con la Cruz Roja",
+        "Con la Fundación Pública Urgencias sanitarias de Galicia-061",
+        "Con el centro de salud más próximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se solicitará la colaboración de la Fundación Pública Urgencias sanitarias de Galicia-061 en ejercicios y simulacros realizados por terceros cuando incluyan urgencias de salud."
+    },
+    {
+      "question": "¿Qué NO se precisa para realizar primeros auxilios según el protocolo?",
+      "options": [
+        "Conocimientos básicos",
+        "Equipos sofisticados",
+        "Tranquilidad",
+        "Rapidez"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los primeros auxilios son gestos o medidas iniciales que no precisan equipos sofisticados."
+    },
+    {
+      "question": "¿Cuál es el cuarto objetivo básico de los primeros auxilios?",
+      "options": [
+        "Evitar la muerte",
+        "Aliviar el dolor",
+        "Evitar infecciones o lesiones secundarias",
+        "Ayudar a la recuperación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos en orden son: evitar la muerte, impedir que se agrave la lesión, aliviar el dolor, evitar infecciones o lesiones secundarias, y ayudar o facilitar la recuperación."
+    },
+    {
+      "question": "¿Qué se debe observar antes de actuar según el decálogo?",
+      "options": [
+        "El estado del accidentado",
+        "La situación",
+        "Los testigos presentes",
+        "Los recursos disponibles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto 2 del decálogo establece: 'Observar la situación antes de actuar.'"
+    },
+    {
+      "question": "¿Cómo se debe examinar al accidentado según el decálogo?",
+      "options": [
+        "Tocando todas las zonas para detectar lesiones",
+        "Sin tocar innecesariamente",
+        "Solo con instrumental médico",
+        "Con ayuda de otra persona"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto 4 establece: 'No mover al accidentado sin saber lo que tiene: examinar sin tocar innecesariamente.'"
+    },
+    {
+      "question": "¿Qué actitud se debe transmitir al accidentado según el punto 8 del decálogo?",
+      "options": [
+        "Preocupación y atención",
+        "Seguridad en nuestra actuación",
+        "Urgencia y rapidez",
+        "Autoridad y control"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto 8 establece: 'Tranquilizar y animar al accidentado, transmitir seguridad en nuestra actuación.'"
+    },
+    {
+      "question": "¿Qué debe proteger en el primer paso de la conducta PAS?",
+      "options": [
+        "Solo al accidentado",
+        "Solo a sí mismo",
+        "Al accidentado y a la persona que interviene",
+        "Al accidentado y a los testigos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Proteger significa proteger el lugar de los hechos: Proteger al accidentado y a la persona que interviene."
+    },
+    {
+      "question": "¿Qué información personal se debe facilitar al llamar a servicios de urgencia?",
+      "options": [
+        "Nombre completo y DNI",
+        "Identificarse",
+        "Dirección completa",
+        "Teléfono de contacto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre la información a facilitar está: lugar exacto, tipo de accidente, número de heridos y situación, e identificarse."
+    },
+    {
+      "question": "¿Cuál es el primer orden de prioridad al Socorrer?",
+      "options": [
+        "Evitar que se agraven las lesiones",
+        "Salvar la vida",
+        "Organizar",
+        "Avisar a los servicios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El primer orden de prioridad al Socorrer es salvar la vida, seguido de evitar que se agraven las lesiones y organizar."
+    },
+    {
+      "question": "¿A qué altura se debe arrodillar para la RCP?",
+      "options": [
+        "A la altura de la cabeza",
+        "A la altura del pecho",
+        "A la altura del abdomen",
+        "A la altura de las piernas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe arrodillar a su lado a la altura del pecho para desarrollar la maniobra frente-mentón."
+    },
+    {
+      "question": "¿Qué acrónimo describe la formación específica del equipo de apoyo?",
+      "options": [
+        "RCP y DESA",
+        "SVB y DESA",
+        "ABC y SVB",
+        "PAS y RCP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El perfil del equipo de apoyo incluye formación específica en primeros auxilios, soporte vital básico (SVB) y desfibrilación externa semiautomática (DESA)."
+    },
+    {
+      "question": "¿Con quién se debe efectuar la coordinación según las labores de la persona coordinadora?",
+      "options": [
+        "Con la dirección del centro exclusivamente",
+        "Con el profesional sanitario de referencia, en colaboración con dirección y DO",
+        "Con la familia del alumno",
+        "Con los servicios sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La coordinación se realiza con el profesional sanitario de referencia, en colaboración con la dirección del centro y con el DO."
+    },
+    {
+      "question": "¿Qué elementos de control debe gestionar la persona coordinadora del equipo de apoyo?",
+      "options": [
+        "Solo medicación y fichas",
+        "Nevera, alimentos, contenedor de residuos biológicos, desinfectantes, algodón, fichas y protocolos",
+        "Solo botiquín y medicación",
+        "Solo protocolos y fichas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe controlar y gestionar: nevera, alimentos, contenedor de residuos biológicos, desinfectantes, algodón, fichas y protocolos, etc."
+    },
+    {
+      "question": "¿En qué tipo de actividades debe dar apoyo especial la persona coordinadora?",
+      "options": [
+        "En actividades deportivas",
+        "En actividades extraescolares y complementarias que requieran salida del centro",
+        "En actividades de evaluación",
+        "En actividades de comedor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe dar apoyo en la planificación de actividades extraescolares y complementarias en las que participe el alumno, especialmente cuando requieran salida del centro escolar, preparando el botiquín de urgencias auxiliar."
+    },
+    {
+      "question": "¿Qué debe incluir la ficha del Plan de Atención Individualizado?",
+      "options": [
+        "Solo fotografía y teléfonos",
+        "Fotografía, protocolo de emergencia y teléfonos de referencia",
+        "Solo el protocolo de emergencia",
+        "Fotografía e informe médico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ficha debe incluir: fotografía, protocolo de emergencia (señales de alarma y actuación) y teléfonos de referencia, visible y a disposición de toda la comunidad educativa."
+    },
+    {
+      "question": "Cuando la actuación del equipo de apoyo depende de sus deberes docentes, ¿quién lo sustituye?",
+      "options": [
+        "El director del centro",
+        "Un compañero de su equipo",
+        "El orientador",
+        "Personal sanitario externo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La sustitución la realiza un compañero de su equipo cuando sus deberes docentes no le permitan ejercer el apoyo o cuando no se encuentre en el centro."
+    },
+    {
+      "question": "Respecto al nivel de consciencia de la víctima en RCP, ¿qué se debe comprobar antes de decidir la actuación?",
+      "options": [
+        "El pulso carotídeo",
+        "La respiración tras la apertura de vía aérea",
+        "La temperatura corporal",
+        "La presión arterial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tras arrodillarse y desarrollar la maniobra frente-mentón, se debe comprobar la respiración para decidir la actuación."
+    },
+    {
+      "question": "¿Qué se debe hacer con la víctima después de avisar al 061 en RCP si no respira?",
+      "options": [
+        "Esperar instrucciones sin hacer nada",
+        "Darán instrucciones para la reanimación cardiopulmonar",
+        "Trasladarla al hospital",
+        "Ponerla en posición lateral de seguridad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al informar de que la víctima está inconsciente y no respira tras practicar la apertura de la vía aérea, darán instrucciones para la reanimación cardiopulmonar."
+    },
+    {
+      "question": "¿Qué problemas de salud se deben valorar en accidentes por electricidad?",
+      "options": [
+        "Solo quemaduras",
+        "Quemaduras, contusiones, etc.",
+        "Solo problemas cardíacos",
+        "Solo problemas respiratorios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe valorar otros problemas de salud que puedan estar asociados como quemaduras, contusiones, etc."
+    },
+    {
+      "question": "¿Qué factor desencadenante se debe evitar en crisis asmáticas junto con otros irritantes?",
+      "options": [
+        "El ejercicio físico",
+        "El factor desencadenante específico, humo de tabaco u olores fuertes",
+        "El aire frío",
+        "La humedad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe evitar, a ser posible, el factor desencadenante y otros irritantes como humo de tabaco u olores fuertes."
+    },
+    {
+      "question": "Durante una convulsión, ¿qué se debe hacer específicamente con la cabeza del afectado?",
+      "options": [
+        "Elevarla con una almohada",
+        "Proteger la cabeza",
+        "Mantenerla recta",
+        "Inclinarla hacia atrás"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Durante la convulsión se debe apartar los objetos peligrosos y proteger la cabeza."
+    },
+    {
+      "question": "Después de la convulsión, mientras se espera asistencia, ¿qué se debe reevaluar frecuentemente?",
+      "options": [
+        "El nivel de consciencia",
+        "Si la víctima mantiene la respiración espontánea",
+        "La temperatura corporal",
+        "El pulso cardíaco"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mientras no llega la ayuda, se debe reevaluar frecuentemente si la víctima mantiene la respiración espontánea."
+    },
+    {
+      "question": "¿Qué se debe mantener en reposo en picaduras de serpiente?",
+      "options": [
+        "Todo el cuerpo",
+        "La zona afectada para evitar que el veneno se extienda por la sangre",
+        "Solo el sistema circulatorio",
+        "El sistema nervioso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe mantener en reposo la zona afectada para evitar que el veneno se extienda por la sangre."
+    },
+    {
+      "question": "¿Dónde se debe hacer el vendaje compresivo en mordeduras de serpiente?",
+      "options": [
+        "Directamente en la mordedura",
+        "Por debajo de la mordedura",
+        "Por encima de la mordedura",
+        "En toda la extremidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe lavar las manos y poner guantes para realizar vendaje compresivo por encima de la mordedura."
+    },
+    {
+      "question": "¿Qué tipo de frío se debe aplicar en mordeduras de serpiente?",
+      "options": [
+        "Hielo directo",
+        "Frío intenso",
+        "Frío moderado en la zona con hielo",
+        "Compresas muy frías"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe aplicar frío moderado en la zona con hielo después de lavar la herida."
+    },
+    {
+      "question": "En quemaduras químicas, ¿durante cuánto tiempo se debe lavar con agua?",
+      "options": [
+        "Durante 10 minutos",
+        "Durante 15 minutos",
+        "Durante al menos 20 o 30 minutos",
+        "Durante 5 minutos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En quemaduras químicas se debe lavar con abundante agua durante al menos 20 o 30 minutos."
+    },
+    {
+      "question": "En congelaciones, ¿con qué tipo de agua se debe calentar?",
+      "options": [
+        "Con agua caliente",
+        "Con agua a temperatura ambiente",
+        "Con agua tibia",
+        "Con agua fría"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe calentar moderadamente con agua tibia y aflojar la ropa."
+    },
+    {
+      "question": "¿Qué se debe asegurar inmediatamente en caso de diarrea o vómito para minimizar contagio?",
+      "options": [
+        "La ventilación del aula",
+        "La limpieza inmediata e higienización de aseos y otras superficies",
+        "El aislamiento del alumno",
+        "La desinfección de las manos de todos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe asegurar la limpieza inmediata e higienización de los aseos y otras superficies para minimizar el riesgo de contagio en caso de proceso infeccioso."
+    },
+    {
+      "question": "¿Qué se debe evitar tocar al coger el diente en traumatismos bucodentales?",
+      "options": [
+        "La corona",
+        "El esmalte",
+        "La raíz",
+        "Los bordes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe coger el diente por la corona evitando tocar la raíz."
+    },
+    {
+      "question": "¿Dónde se puede conservar el diente o fragmento si no hay más remedio?",
+      "options": [
+        "En agua del grifo",
+        "En la propia saliva debajo de la lengua",
+        "En la mano",
+        "Envuelto en papel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se puede conservar en la propia saliva (debajo de la lengua) si no hay más remedio y la persona accidentada es mayor y no existe riesgo de que se atragante."
+    },
+    {
+      "question": "¿Qué se debe hacer con una pieza dental luxada (doblada o colgada)?",
+      "options": [
+        "Intentar enderezarla",
+        "No debe manipularse",
+        "Extraerla completamente",
+        "Limpiarla cuidadosamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La pieza luxada (doblada o colgada aún de la raíz) no debe manipularse."
+    },
+    {
+      "question": "¿En qué plazo pueden reimplantarse los dientes con mayor éxito?",
+      "options": [
+        "En la primera media hora",
+        "En la primera hora",
+        "En las dos primeras horas, sobre todo en la primera",
+        "En las primeras 24 horas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los dientes pueden reimplantarse con éxito en las dos primeras horas, sobre todo en la primera hora."
+    },
+    {
+      "question": "En urgencias vitales, ¿cuándo se debe informar a la familia?",
+      "options": [
+        "Después de que llegue la ambulancia",
+        "Después de estabilizar al alumno",
+        "Informar primero al 061 y paralelamente a la familia cuando sea posible",
+        "Solo después de llegar al hospital"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En urgencias vitales o de gravedad se debe informar primero a los servicios de urgencia y paralelamente (cuando sea posible) a la familia de manera telefónica."
+    },
+    {
+      "question": "¿Cuándo se debe avisar a la familia en urgencias menos graves?",
+      "options": [
+        "Después de 24 horas",
+        "Al finalizar la jornada escolar",
+        "Para que tome las medidas que estime oportunas",
+        "Solo si la situación empeora"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En urgencias menos graves se debe avisar a la familia para que tome las medidas que estime oportunas."
+    },
+    {
+      "question": "¿Qué tipo de enfoque persigue la atención educativa al alumnado con enfermedad crónica?",
+      "options": [
+        "Enfoque individual",
+        "Enfoque multidisciplinario de atención integral",
+        "Enfoque médico exclusivamente",
+        "Enfoque familiar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se persigue un enfoque multidisciplinario de atención integral al alumnado con enfermedad crónica."
+    },
+    {
+      "question": "¿Qué se debe potenciar según los objetivos del enfoque multidisciplinario?",
+      "options": [
+        "La atención hospitalaria exclusiva",
+        "La atención continuada del niño intra y entre niveles asistenciales",
+        "La medicación personalizada",
+        "El seguimiento familiar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe potenciar la atención continuada del niño intra y entre niveles asistenciales."
+    },
+    {
+      "question": "¿Qué se debe mantener según los principios básicos de intervención?",
+      "options": [
+        "Bajas las expectativas para evitar frustraciones",
+        "Altas las expectativas",
+        "Expectativas variables según el estado del alumno",
+        "Expectativas moderadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los principios básicos establecen: mantener altas las expectativas."
+    },
+    {
+      "question": "¿Qué se debe hacer con el alumnado con enfermedad crónica en cuanto a exigencia?",
+      "options": [
+        "No exigirle para evitar estrés",
+        "Exigirle menos que a los demás",
+        "Exigirle como a los demás siempre que sea posible",
+        "Exigirle solo en materias principales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los principios básicos establecen: exigirle como a los demás siempre que sea posible."
+    },
+    {
+      "question": "¿Qué se debe fomentar según los principios básicos?",
+      "options": [
+        "El aislamiento protector",
+        "El contacto personal con el resto de la comunidad educativa",
+        "La atención individualizada exclusiva",
+        "El apoyo familiar constante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los principios básicos establecen: fomentar el contacto personal con el resto de la comunidad educativa."
+    },
+    {
+      "question": "¿Qué dos entidades son responsables del Programa Alerta Escolar?",
+      "options": [
+        "Consellería de Sanidad y Fundación 061",
+        "Consellería de Educación Universidad y Formación Profesional y Fundación 061",
+        "Xunta de Galicia y Cruz Roja",
+        "Ministerio de Educación y Servicio Galego de Saúde"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Programa Alerta Escolar es de la Consellería de Educación Universidad y Formación Profesional en colaboración con la Fundación 061."
+    },
+    {
+      "question": "¿Qué acceso obtienen los facultativos al identificar a un alumno en Alerta Escolar?",
+      "options": [
+        "Acceso a su expediente académico",
+        "Acceso inmediato a su historial clínico",
+        "Acceso a los datos de sus tutores",
+        "Acceso al plan educativo individualizado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al identificar al alumno inscrito en la base de datos, se da a los facultativos acceso inmediato a su historial clínico."
+    },
+    {
+      "question": "¿Qué tipo de crisis diabéticas específicamente menciona el protocolo?",
+      "options": [
+        "Hiperglucemia",
+        "Cetoacidosis",
+        "Hipoglucemia",
+        "Coma diabético"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El protocolo menciona específicamente las crisis diabéticas de hipoglucemia dentro del Programa Alerta Escolar."
+    },
+    {
+      "question": "¿Qué objetivo NO es básico de los primeros auxilios?",
+      "options": [
+        "Evitar la muerte",
+        "Realizar un diagnóstico médico completo",
+        "Aliviar el dolor",
+        "Evitar infecciones o lesiones secundarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos básicos son: evitar la muerte, impedir que se agrave la lesión, aliviar el dolor, evitar infecciones o lesiones secundarias, y ayudar a la recuperación. No incluyen realizar diagnósticos médicos completos."
+    },
+    {
+      "question": "¿Con qué tipo de intervención se debe actuar según el punto 3 del decálogo?",
+      "options": [
+        "Intervención inmediata sin pensar",
+        "Intervención rápida pero serena evitando el pánico",
+        "Intervención lenta y meditada",
+        "Intervención colectiva con todos los presentes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto 3 establece: 'Actuar con tranquilidad y rapidez: intervención rápida pero serena evitando el pánico.'"
+    },
+    {
+      "question": "¿Cuánto se debe hacer según el punto 5 del decálogo?",
+      "options": [
+        "Todo lo posible",
+        "Lo indispensable",
+        "Lo que indiquen los testigos",
+        "Lo que pida el accidentado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto 5 del decálogo establece: 'No hacer más que lo indispensable.'"
+    },
+    {
+      "question": "Según el punto 9 del decálogo, ¿cómo debe ser tratado y trasladado el accidentado?",
+      "options": [
+        "Tratado con urgencia, no trasladado",
+        "Trasladado con urgencia, no tratado",
+        "Tratado y trasladado simultáneamente",
+        "Primero trasladado, luego tratado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El punto 9 establece: 'El accidentado deberá ser tratado, no trasladado, con urgencia.'"
+    },
+    {
+      "question": "¿Qué debe hacer la persona que interviene si no es posible conseguir ayuda inmediata?",
+      "options": [
+        "Esperar sin actuar",
+        "Intentar trasladar al accidentado",
+        "Intentar estabilizar a la víctima hasta poder conseguir ayuda",
+        "Abandonar temporalmente al accidentado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Si no es posible conseguir ayuda, se debe intentar estabilizar a la víctima hasta que se pueda conseguir ayuda."
+    },
+    {
+      "question": "Si el centro cuenta con personal formado en primeros auxilios y SVB, ¿qué se debe hacer?",
+      "options": [
+        "Esperar a que lleguen los servicios de emergencia",
+        "Solicitar su presencia inmediata",
+        "Continuar sin su ayuda",
+        "Llamar solo si la situación empeora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si el centro cuenta con personal formado en primeros auxilios y soporte vital básico y se encuentra en el centro, se deberá solicitar su presencia inmediata."
+    },
+    {
+      "question": "¿Qué se debe hacer cuando se está solo y necesita ayuda en RCP?",
+      "options": [
+        "Continuar con RCP sin parar",
+        "Abandonar a la víctima, pedir ayuda y volver tras pedirla",
+        "Gritar esperando que alguien escuche",
+        "Esperar a que llegue alguien"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si se está solo se debe abandonar a la víctima y pedir ayuda, volviendo tras pedir ayuda."
+    },
+    {
+      "question": "¿Qué se debe hacer si se está acompañado al iniciar RCP?",
+      "options": [
+        "Ambos comienzan RCP",
+        "Una persona ayuda y la otra comienza las maniobras de reanimación",
+        "Una persona llama y espera instrucciones",
+        "Ambos llaman a servicios diferentes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si se está acompañado, una persona ayuda y la otra comienza las maniobras de reanimación."
+    },
+    {
+      "question": "¿Qué se debe comprobar regularmente si la víctima respira pero sigue inconsciente en PLS?",
+      "options": [
+        "La temperatura",
+        "El pulso",
+        "Que mantiene la respiración",
+        "El nivel de consciencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Si la víctima respira pero sigue inconsciente, se coloca en PLS para prevenir ahogamiento y aspiración de vómitos, comprobando regularmente que mantiene la respiración."
+    },
+    {
+      "question": "¿Qué postura se debe buscar para el alumno en crisis asmática además de relajada?",
+      "options": [
+        "Tumbada",
+        "De pie",
+        "Cómoda para respirar",
+        "Ligeramente inclinada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe buscar un ambiente relajado y colocar al alumno en una postura cómoda para respirar, manteniéndolo en reposo sentado."
+    },
+    {
+      "question": "Cuando finaliza una convulsión, ¿de qué se debe prevenir con la posición lateral de seguridad?",
+      "options": [
+        "Las lesiones cervicales",
+        "El ahogamiento y la aspiración de vómitos",
+        "Las fracturas",
+        "La hipotermia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La posición lateral de seguridad previene el ahogamiento y la aspiración de vómitos."
+    },
+    {
+      "question": "¿A quién compete la tarea de atención educativa integrada según el protocolo?",
+      "options": [
+        "Solo al profesorado",
+        "Solo a la dirección",
+        "A toda la comunidad educativa",
+        "Solo a los servicios de orientación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La atención educativa integrada es una tarea que compete a toda la comunidad educativa (profesorado, familias, alumnado y personal de administración y servicios)."
+    },
+    {
+      "question": "¿Qué debe facilitar la familia según las tareas que le competen?",
+      "options": [
+        "Solo las autorizaciones",
+        "La información relevante de los informes médicos con firma de autorizaciones",
+        "Solo el historial médico",
+        "Un plan de actuación familiar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es tarea de la familia facilitar la información relevante de los informes médicos con la firma de las autorizaciones pertinentes."
+    },
+    {
+      "question": "¿Qué tipo de reunión se considera la convocada para informar sobre enfermedad crónica?",
+      "options": [
+        "Reunión extraordinaria",
+        "Reunión informativa",
+        "Reunión obligatoria de coordinación",
+        "Reunión ordinaria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La reunión convocada para abordar la enfermedad crónica se considera reunión obligatoria de coordinación."
+    },
+    {
+      "question": "¿Quién debe acudir a la reunión de coordinación sobre enfermedad crónica?",
+      "options": [
+        "Solo los tutores",
+        "Todo el profesorado, personal no docente y personal del comedor escolar",
+        "Solo la dirección y orientación",
+        "Solo los profesores del alumno afectado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe acudir todo el profesorado del centro, así como el personal no docente y el personal que atiende el comedor escolar."
+    },
+    {
+      "question": "¿Qué debe poner en conocimiento la reunión de coordinación?",
+      "options": [
+        "Solo el diagnóstico médico",
+        "Las características de la enfermedad, necesidades regulares, labores del profesorado y respaldo jurídico",
+        "Solo las actuaciones en caso de emergencia",
+        "El historial académico del alumno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe poner en conocimiento: características de la enfermedad crónica, necesidades regulares, labores del profesorado encargado, absoluta seguridad y facilidad de los procedimientos, y el respaldo jurídico y administrativo."
+    },
+    {
+      "question": "¿Quién es el encargado de explicar al grupo-clase la situación del compañero?",
+      "options": [
+        "El director del centro",
+        "El orientador",
+        "El tutor",
+        "Un profesional sanitario"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tutor es el encargado de explicar a su grupo-clase la situación de su compañero atendiendo a su edad y características."
+    },
+    {
+      "question": "¿Quién nombra el equipo de profesores voluntarios para apoyo al alumno con enfermedad crónica?",
+      "options": [
+        "El claustro",
+        "La dirección del centro",
+        "La inspección educativa",
+        "El departamento de orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dirección del centro nombrará un equipo de profesores voluntarios con un coordinador para el apoyo al alumnado con enfermedad crónica."
+    },
+    {
+      "question": "¿Por qué se debe guiar todas las actuaciones de apoyo?",
+      "options": [
+        "Por el protocolo del centro",
+        "Por el bienestar del menor y el control y mantenimiento de su salud",
+        "Por las indicaciones de la familia",
+        "Por el criterio del coordinador"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Todas las actuaciones de apoyo se deben guiar por el bienestar del menor y el control y mantenimiento de su salud."
+    },
+    {
+      "question": "¿Qué perfil se busca especialmente en la persona coordinadora del equipo?",
+      "options": [
+        "Que sea director o jefe de estudios",
+        "Que haya ejercido estas labores con anterioridad y cuente con experiencia",
+        "Que sea el tutor del alumno afectado",
+        "Que sea profesor de ciencias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se busca especialmente que haya ejercido estas labores con anterioridad y cuente con experiencia, sobre todo la persona coordinadora."
+    },
+    {
+      "question": "¿Qué profesorado se debe incluir prioritariamente en el equipo de apoyo?",
+      "options": [
+        "Profesorado con más antigüedad",
+        "Profesorado que imparta docencia directa en el grupo, especialmente tutor y EF",
+        "Profesorado de áreas instrumentales",
+        "Todo el profesorado por igual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe incluir profesorado que imparta docencia directa en el grupo, haciendo hincapié en la persona tutora y el de Educación Física."
+    },
+    {
+      "question": "¿Qué tipo de profesorado del comedor se debe incluir en el equipo?",
+      "options": [
+        "Todo el personal del comedor",
+        "Solo el encargado del comedor",
+        "Profesorado que ejerza labores de control, jefatura o dirección en el comedor",
+        "El personal de cocina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe incluir profesorado que ejerza labores (control, jefatura o dirección) en el comedor escolar."
+    },
+    {
+      "question": "¿Quién puede proporcionar formación específica al equipo de apoyo?",
+      "options": [
+        "Solo la Consellería de Educación",
+        "El profesional sanitario de referencia si existe, o servicios de salud",
+        "Solo la Fundación 061",
+        "Únicamente profesionales externos contratados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El equipo puede recibir formación específica por parte del profesional sanitario de referencia (si existe) o contactar con los servicios de salud para contar con el asesoramiento pertinente."
+    },
+    {
+      "question": "¿En qué actividades debe dar apoyo especialmente la persona coordinadora respecto al botiquín?",
+      "options": [
+        "En todas las actividades del centro",
+        "En actividades extraescolares y complementarias con salida del centro, preparando botiquín auxiliar",
+        "Solo en actividades deportivas",
+        "En actividades de comedor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe dar apoyo en la planificación de actividades extraescolares y complementarias que requieran salida del centro escolar en lo que respecta a la preparación del botiquín de urgencias auxiliar."
+    },
+    {
+      "question": "¿Dónde debe estar visible la ficha del Plan de Atención Individualizado?",
+      "options": [
+        "Solo en dirección",
+        "Solo en la clase del alumno",
+        "Visible, a disposición de toda la comunidad educativa",
+        "Solo en el departamento de orientación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La ficha con fotografía, protocolo de emergencia y teléfonos debe estar visible, a disposición de toda la comunidad educativa."
+    },
+    {
+      "question": "¿Qué debe incluir la ficha además de fotografía y teléfonos?",
+      "options": [
+        "El expediente académico",
+        "El protocolo de emergencia con señales de alarma y actuación",
+        "El historial médico completo",
+        "Las calificaciones del alumno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ficha debe incluir: fotografía, protocolo de emergencia (señales de alarma y actuación) y teléfonos de referencia."
+    },
+    {
+      "question": "Según el decálogo, ¿qué se debe poseer antes de actuar?",
+      "options": [
+        "Equipamiento médico",
+        "Conocimientos básicos",
+        "Autorización oficial",
+        "Experiencia previa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto 1 del decálogo establece: 'Poseer conocimientos básicos.'"
+    },
+    {
+      "question": "En caso de persona obesa o embarazada, ¿dónde está el punto de comprensión en la maniobra de Heimlich?",
+      "options": [
+        "En la boca del estómago",
+        "Un poco por encima del ombligo",
+        "Por debajo del esternón",
+        "A la altura del pecho"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En personas obesas y embarazadas, el punto de compresión es un poco por encima del ombligo."
+    },
+    {
+      "question": "En la maniobra de Heimlich para adultos conscientes, ¿cómo se deben colocar las manos?",
+      "options": [
+        "Con los dedos entrelazados",
+        "Sin entrelazar los dedos (a manera de puño)",
+        "Con las palmas abiertas",
+        "Con una mano sobre el puño de la otra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se rodea con los brazos y se cogen las manos sin entrelazar los dedos (a manera de puño), situándolas a la altura de la boca del estómago."
+    },
+    {
+      "question": "¿A qué altura se sitúan las manos en la maniobra de Heimlich para adultos conscientes?",
+      "options": [
+        "A la altura del esternón",
+        "A la altura de la boca del estómago",
+        "A la altura del ombligo",
+        "A la altura del pecho"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las manos se sitúan a la altura de la boca del estómago y se hace un movimiento firme de comprensión hacia atrás y arriba."
+    },
+    {
+      "question": "En adultos inconscientes con obstrucción, ¿cómo se ladea la cabeza?",
+      "options": [
+        "Hacia la derecha",
+        "Hacia la izquierda",
+        "Se ladea la cabeza (sin especificar lado)",
+        "No se ladea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se acuesta boca arriba, ladeándole la cabeza, y se sitúa de rodillas sobre la persona para aplicar la maniobra."
+    },
+    {
+      "question": "¿Entre qué dos puntos anatómicos se presiona en adultos inconscientes con obstrucción?",
+      "options": [
+        "Entre el esternón y el ombligo",
+        "Entre el ombligo y la boca del estómago",
+        "Entre las costillas",
+        "En el centro del pecho"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se apoyan las manos en la línea media ubicada entre el ombligo y la boca del estómago, presionando hacia dentro y hacia arriba."
+    },
+    {
+      "question": "En obstrucción incompleta, ¿cómo debe estar inclinada la persona al dar palmadas?",
+      "options": [
+        "Ligeramente inclinada hacia adelante",
+        "Completamente recta",
+        "Inclinada hacia atrás",
+        "Tumbada de lado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se dan hasta cinco palmadas entre los omóplatos, con la persona ligeramente inclinada hacia delante."
+    },
+    {
+      "question": "¿Qué se debe hacer antes de dar palmadas en obstrucción incompleta?",
+      "options": [
+        "Llamar al 061",
+        "Invitarlo a toser fuerte",
+        "Darle agua",
+        "Ponerlo tumbado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Primero se debe invitar a la persona a toser fuerte, y luego dar hasta cinco palmadas entre los omóplatos si es necesario."
+    },
+    {
+      "question": "¿Qué pueden estar asociadas a las quemaduras por electricidad?",
+      "options": [
+        "Solo lesiones superficiales",
+        "Quemaduras, contusiones, etc.",
+        "Solo problemas respiratorios",
+        "Solo problemas neurológicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe valorar otros problemas de salud que puedan estar asociados como quemaduras, contusiones, etc."
+    },
+    {
+      "question": "¿Qué se debe hacer con sortijas y relojes antes de inmovilizar fracturas?",
+      "options": [
+        "Dejarlos puestos",
+        "Quitarlos",
+        "Solo quitarlos si molestan",
+        "Cortarlos si no se pueden quitar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe quitar sortijas, relojes, etc. antes de inmovilizar con férulas."
+    },
+    {
+      "question": "¿Cómo se deben sujetar las férulas?",
+      "options": [
+        "Con presión fuerte",
+        "De manera firme pero sin hacer presión",
+        "Lo más apretadas posible",
+        "De manera flexible"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe sujetar las férulas con cintas o vendas, de manera firme pero sin hacer presión."
+    },
+    {
+      "question": "¿Qué se debe hacer si al aliviar la presión tras 10 minutos la hemorragia nasal continúa?",
+      "options": [
+        "Mantener la presión otros 10 minutos",
+        "Introducir una gasa impregnada con agua oxigenada",
+        "Llamar inmediatamente al 061",
+        "Inclinar la cabeza hacia atrás"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si tras 10 minutos la hemorragia no cesa al aliviar la presión, se introduce una gasa impregnada con un poco de agua oxigenada por la fosa sangrante."
+    },
+    {
+      "question": "¿Con qué se debe cubrir la herida una vez seca y desinfectada?",
+      "options": [
+        "Con algodón y esparadrapo",
+        "Con gasa y esparadrapo hipoalergénico o tirita",
+        "Con vendas elásticas",
+        "Con apósitos con pomada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe cubrir la herida con gasa y esparadrapo hipoalergénico o con una tirita."
+    },
+    {
+      "question": "¿Qué se debe hacer después de curar una herida con los guantes?",
+      "options": [
+        "Guardarlos para reutilizar",
+        "Retirar los guantes y lavar las manos",
+        "Desinfectar los guantes",
+        "Mantenerlos puestos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Después de curar la herida se debe retirar los guantes y lavar las manos."
+    },
+    {
+      "question": "¿Con qué NO se debe limpiar una herida?",
+      "options": [
+        "Con agua y jabón",
+        "Con las manos, trapos o paños sucios",
+        "Con suero fisiológico",
+        "Con gasas estériles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nunca se debe limpiar la herida con las manos, trapos o paños sucios."
+    },
+    {
+      "question": "En lipotimia, ¿qué se debe hacer respecto a los curiosos?",
+      "options": [
+        "Permitir que ayuden",
+        "Airear y evitar curiosos",
+        "Dejar que se acerquen",
+        "Pedir su colaboración"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe acostar con las piernas elevadas, aflojar la ropa y airear y evitar curiosos."
+    },
+    {
+      "question": "¿Qué se debe vigilar constantemente en la víctima con pérdida de conocimiento?",
+      "options": [
+        "La temperatura",
+        "La respiración o el pulso",
+        "El color de la piel",
+        "La posición"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe vigilar la respiración o el pulso del herido constantemente mientras se espera a los servicios sanitarios."
+    },
+    {
+      "question": "¿De qué se debe proteger a la víctima en lipotimia o shock?",
+      "options": [
+        "Del ruido",
+        "De la luz",
+        "Del frío y del calor",
+        "De los movimientos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se debe proteger a la víctima del frío y del calor mientras se espera a los servicios sanitarios."
+    },
+    {
+      "question": "¿Qué principio básico establece cómo se debe tratar al alumno con enfermedad crónica?",
+      "options": [
+        "Con cuidados especiales",
+        "Como a los demás",
+        "Con mayor atención",
+        "Con menor exigencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los principios básicos establecen: tratarlo como a los demás."
+    }
+  ]
+}

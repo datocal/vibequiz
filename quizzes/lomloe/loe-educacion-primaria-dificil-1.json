@@ -1,0 +1,515 @@
+{
+  "title": "LOE - Educación Primaria Avanzado I",
+  "description": "Test avanzado sobre Educación Primaria en la LOE. Requiere conocimiento detallado de artículos específicos, principios pedagógicos complejos y normativa precisa.",
+  "category": "legislacion",
+  "icon": "📚",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué artículo establece los principios generales de la educación primaria?",
+      "options": [
+        "Artículo 16",
+        "Artículo 15",
+        "Artículo 17",
+        "Artículo 18"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 de la LOE se titula 'Principios generales' y establece la duración, edades y finalidad de la educación primaria."
+    },
+    {
+      "question": "¿Qué artículo regula específicamente los objetivos de la educación primaria?",
+      "options": [
+        "Artículo 17",
+        "Artículo 16",
+        "Artículo 18",
+        "Artículo 19"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17 de la LOE se titula 'Objetivos de la educación primaria' y enumera las capacidades que deben desarrollar los niños y niñas."
+    },
+    {
+      "question": "¿Qué artículo regula la organización de la educación primaria?",
+      "options": [
+        "Artículo 18",
+        "Artículo 16",
+        "Artículo 17",
+        "Artículo 19"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18 de la LOE se titula 'Organización' y establece los ciclos, áreas y estructura de la etapa."
+    },
+    {
+      "question": "¿Qué artículo establece los principios pedagógicos de la educación primaria?",
+      "options": [
+        "Artículo 19",
+        "Artículo 18",
+        "Artículo 20",
+        "Artículo 17"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19 de la LOE se titula 'Principios pedagógicos' y establece los énfasis metodológicos y elementos transversales de la etapa."
+    },
+    {
+      "question": "¿Qué artículo regula la evaluación durante la etapa de primaria?",
+      "options": [
+        "Artículo 20",
+        "Artículo 19",
+        "Artículo 21",
+        "Artículo 18"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20 de la LOE se titula 'Evaluación durante la etapa' y establece el carácter, procedimientos y efectos de la evaluación."
+    },
+    {
+      "question": "¿Qué artículo regula la evaluación de diagnóstico en primaria?",
+      "options": [
+        "Artículo 21",
+        "Artículo 20",
+        "Artículo 22",
+        "Artículo 19"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 de la LOE se titula 'Evaluación de diagnóstico' y establece que se realizará en cuarto curso con carácter censal."
+    },
+    {
+      "question": "¿Qué artículo regula la atención a las diferencias individuales?",
+      "options": [
+        "Artículo 20 bis",
+        "Artículo 20",
+        "Artículo 21",
+        "Artículo 19"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20 bis se titula 'Atención a las diferencias individuales' y establece el énfasis en atención individualizada y diagnósticos precoces."
+    },
+    {
+      "question": "Según el artículo 16.2, ¿cuántos aprendizajes específicos menciona la finalidad de la educación primaria?",
+      "options": [
+        "Menciona expresión oral, comprensión oral, lectura, escritura, cálculo y nociones de cultura",
+        "Menciona solo lectura, escritura y cálculo",
+        "Menciona matemáticas, lengua y ciencias",
+        "Menciona competencias clave y objetivos generales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.2 enumera específicamente: expresión y comprensión oral, lectura, escritura, cálculo y adquisición de nociones básicas de la cultura como aprendizajes fundamentales."
+    },
+    {
+      "question": "¿Cuántos objetivos específicos enumera el artículo 17 para la educación primaria?",
+      "options": [
+        "Catorce objetivos (de la a a la n)",
+        "Doce objetivos",
+        "Diez objetivos",
+        "Dieciséis objetivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17 enumera 14 objetivos específicos, identificados con letras desde la 'a' hasta la 'n', que desarrollan las capacidades a alcanzar."
+    },
+    {
+      "question": "¿Cuántas áreas enumera el artículo 18.2 como estructura básica de primaria?",
+      "options": [
+        "Seis áreas",
+        "Cinco áreas",
+        "Siete áreas",
+        "Ocho áreas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.2 enumera seis áreas: Conocimiento del Medio, Educación Artística, Educación Física, Lengua Castellana y Literatura (y si la hubiere, Lengua propia), Lengua Extranjera y Matemáticas."
+    },
+    {
+      "question": "Según el artículo 18.3, ¿cuántos contenidos específicos se mencionan para Educación en Valores cívicos y éticos?",
+      "options": [
+        "Siete contenidos específicos",
+        "Cinco contenidos específicos",
+        "Seis contenidos específicos",
+        "Cuatro contenidos específicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo menciona: Constitución española, Derechos Humanos y de la Infancia, desarrollo sostenible y ciudadanía mundial, igualdad entre hombres y mujeres, respeto a la diversidad, valor social de los impuestos, y cultura de paz."
+    },
+    {
+      "question": "¿En qué apartado del artículo 18 se regula la orientación y acción tutorial?",
+      "options": [
+        "En el apartado 6",
+        "En el apartado 5",
+        "En el apartado 7",
+        "En el apartado 4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El apartado 6 del artículo 18 establece que la orientación y la acción tutorial acompañarán el proceso educativo, y se fomentará el respeto mutuo y cooperación."
+    },
+    {
+      "question": "¿En qué apartado del artículo 18 se regula el tratamiento de la lengua propia?",
+      "options": [
+        "En el apartado 7",
+        "En el apartado 6",
+        "En el apartado 5",
+        "En el apartado 4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El apartado 7 del artículo 18 establece las condiciones de exención y el tratamiento de la Lengua Propia y Literatura en comunidades con lengua oficial propia."
+    },
+    {
+      "question": "¿Cuántos apartados tiene el artículo 19 sobre principios pedagógicos?",
+      "options": [
+        "Seis apartados",
+        "Cinco apartados",
+        "Cuatro apartados",
+        "Siete apartados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19 consta de seis apartados numerados que desarrollan los principios pedagógicos de la educación primaria."
+    },
+    {
+      "question": "¿Cuántos apartados tiene el artículo 20 sobre evaluación durante la etapa?",
+      "options": [
+        "Seis apartados",
+        "Cinco apartados",
+        "Cuatro apartados",
+        "Siete apartados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20 consta de seis apartados numerados que regulan los diferentes aspectos de la evaluación en educación primaria."
+    },
+    {
+      "question": "Según el artículo 17.a, ¿qué tipo de preparación ciudadana se menciona específicamente?",
+      "options": [
+        "Prepararse para el ejercicio activo de la ciudadanía",
+        "Prepararse para el ejercicio responsable de la ciudadanía",
+        "Prepararse para el ejercicio democrático de la ciudadanía",
+        "Prepararse para el ejercicio libre de la ciudadanía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.a utiliza específicamente la expresión 'prepararse para el ejercicio activo de la ciudadanía', enfatizando el carácter participativo."
+    },
+    {
+      "question": "Según el artículo 17.b, ¿qué actitudes específicas se mencionan junto al sentido crítico?",
+      "options": [
+        "Iniciativa personal, curiosidad, interés y creatividad en el aprendizaje",
+        "Responsabilidad, disciplina y orden en el estudio",
+        "Competitividad, liderazgo y autonomía en el trabajo",
+        "Reflexión, análisis y síntesis en el aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.b enumera específicamente: confianza en sí mismo, sentido crítico, iniciativa personal, curiosidad, interés y creatividad en el aprendizaje, y espíritu emprendedor."
+    },
+    {
+      "question": "¿Qué tipo específico de habilidades menciona el artículo 17.c?",
+      "options": [
+        "Habilidades para la resolución pacífica de conflictos y prevención de la violencia",
+        "Habilidades para la mediación y el arbitraje",
+        "Habilidades para la negociación y el consenso",
+        "Habilidades para la comunicación y el diálogo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.c menciona específicamente 'habilidades para la resolución pacífica de conflictos y la prevención de la violencia'."
+    },
+    {
+      "question": "Según el artículo 17.d, ¿qué motivos de no discriminación se mencionan específicamente?",
+      "options": [
+        "Etnia, orientación o identidad sexual, religión o creencias, discapacidad u otras condiciones",
+        "Raza, género, edad, nacionalidad o situación socioeconómica",
+        "Origen, lengua, cultura, capacidad física o intelectual",
+        "Color, religión, opinión política, situación familiar o económica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.d enumera específicamente: etnia, orientación o identidad sexual, religión o creencias, discapacidad u otras condiciones."
+    },
+    {
+      "question": "¿Qué expresión específica utiliza el artículo 17.e respecto al uso de la lengua?",
+      "options": [
+        "Conocer y utilizar de manera apropiada",
+        "Dominar y aplicar correctamente",
+        "Comprender y expresar adecuadamente",
+        "Aprender y usar eficientemente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.e utiliza la expresión exacta 'conocer y utilizar de manera apropiada la lengua castellana'."
+    },
+    {
+      "question": "Según el artículo 17.f, ¿qué debe permitir la competencia comunicativa básica en lengua extranjera?",
+      "options": [
+        "Expresar y comprender mensajes sencillos y desenvolverse en situaciones cotidianas",
+        "Comunicarse con fluidez y precisión en contextos diversos",
+        "Mantener conversaciones complejas y redactar textos elaborados",
+        "Interpretar mensajes orales y producir textos escritos básicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.f establece que la competencia comunicativa básica debe permitir 'expresar y comprender mensajes sencillos y desenvolverse en situaciones cotidianas'."
+    },
+    {
+      "question": "¿Qué operaciones matemáticas específicas menciona el artículo 17.g?",
+      "options": [
+        "Operaciones elementales de cálculo, conocimientos geométricos y estimaciones",
+        "Operaciones aritméticas básicas, medidas y proporciones",
+        "Cálculos numéricos, formas geométricas y aproximaciones",
+        "Sumas, restas, multiplicaciones y divisiones básicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.g menciona específicamente 'operaciones elementales de cálculo, conocimientos geométricos y estimaciones'."
+    },
+    {
+      "question": "¿Qué áreas de conocimiento menciona específicamente el artículo 17.h?",
+      "options": [
+        "Ciencias de la Naturaleza, Ciencias Sociales, Geografía, Historia y Cultura",
+        "Ciencias Naturales, Ciencias Humanas y Ciencias Sociales",
+        "Biología, Física, Geografía, Historia y Sociología",
+        "Medio Natural, Medio Social y Medio Cultural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.h enumera específicamente: Ciencias de la Naturaleza, Ciencias Sociales, la Geografía, la Historia y la Cultura."
+    },
+    {
+      "question": "Según el artículo 17.i, ¿qué tipo de espíritu se debe desarrollar con las competencias tecnológicas?",
+      "options": [
+        "Un espíritu crítico ante su funcionamiento y los mensajes",
+        "Un espíritu innovador y creativo",
+        "Un espíritu emprendedor y práctico",
+        "Un espíritu analítico y reflexivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.i establece 'desarrollando un espíritu crítico ante su funcionamiento y los mensajes que reciben y elaboran'."
+    },
+    {
+      "question": "¿Qué tipo de propuestas menciona el artículo 17.j?",
+      "options": [
+        "Propuestas visuales y audiovisuales",
+        "Propuestas artísticas y creativas",
+        "Propuestas plásticas y musicales",
+        "Propuestas expresivas y comunicativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.j menciona específicamente 'iniciarse en la construcción de propuestas visuales y audiovisuales'."
+    },
+    {
+      "question": "Según el artículo 17.k, ¿qué tres elementos se mencionan como medios para el desarrollo personal?",
+      "options": [
+        "La educación física, el deporte y la alimentación",
+        "El ejercicio, la nutrición y el descanso",
+        "La actividad física, el juego y la dieta",
+        "El movimiento, la competición y la salud"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.k menciona específicamente 'utilizar la educación física, el deporte y la alimentación como medios para favorecer el desarrollo personal y social'."
+    },
+    {
+      "question": "¿Qué animales menciona específicamente el artículo 17.l?",
+      "options": [
+        "Los animales más próximos al ser humano",
+        "Los animales domésticos y de granja",
+        "Los animales salvajes y domésticos",
+        "Los animales de compañía y autóctonos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.l se refiere específicamente a 'conocer y valorar los animales más próximos al ser humano'."
+    },
+    {
+      "question": "Según el artículo 17.m, ¿en qué ámbitos se deben desarrollar las capacidades afectivas?",
+      "options": [
+        "En todos los ámbitos de la personalidad y en sus relaciones con los demás",
+        "En el ámbito familiar, escolar y social",
+        "En el ámbito personal, interpersonal y grupal",
+        "En el ámbito emocional, social y educativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.m establece 'desarrollar sus capacidades afectivas en todos los ámbitos de la personalidad y en sus relaciones con los demás'."
+    },
+    {
+      "question": "¿Qué tipo de movilidad menciona el artículo 17.n?",
+      "options": [
+        "Movilidad activa autónoma saludable",
+        "Movilidad sostenible y responsable",
+        "Movilidad segura y eficiente",
+        "Movilidad urbana y rural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.n utiliza la expresión específica 'hábitos cotidianos de movilidad activa autónoma saludable'."
+    },
+    {
+      "question": "¿Qué incidencia menciona el artículo 17.n respecto a la educación vial?",
+      "options": [
+        "Incidan en la prevención de los accidentes de tráfico",
+        "Incidan en el cumplimiento de las normas viales",
+        "Incidan en la reducción de la contaminación",
+        "Incidan en el uso del transporte público"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.n establece 'actitudes de respeto que incidan en la prevención de los accidentes de tráfico'."
+    },
+    {
+      "question": "Según el artículo 18.1, ¿hacia qué estarán orientadas las áreas?",
+      "options": [
+        "Al desarrollo de las competencias del alumnado",
+        "Al logro de los objetivos de la etapa",
+        "A la adquisición de conocimientos básicos",
+        "Al desarrollo integral del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.1 establece que las áreas 'estarán orientadas al desarrollo de las competencias del alumnado'."
+    },
+    {
+      "question": "¿En qué pueden organizarse las áreas según el artículo 18.1?",
+      "options": [
+        "Podrán organizarse en ámbitos",
+        "Podrán organizarse en bloques",
+        "Podrán organizarse en módulos",
+        "Podrán organizarse en proyectos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.1 establece que las áreas 'podrán organizarse en ámbitos', permitiendo flexibilidad organizativa."
+    },
+    {
+      "question": "¿En qué puede desdoblarse Educación Artística según el artículo 18.2?",
+      "options": [
+        "En Educación Plástica y Visual, y Música y Danza",
+        "En Artes Plásticas y Educación Musical",
+        "En Expresión Plástica y Expresión Musical",
+        "En Artes Visuales y Artes Escénicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.2 establece que Educación Artística 'se podrá desdoblar en Educación Plástica y Visual, por una parte, y Música y Danza, por otra'."
+    },
+    {
+      "question": "Según el artículo 18.3, ¿qué temas incluye Educación en Valores cívicos y éticos sobre impuestos?",
+      "options": [
+        "El valor social de los impuestos",
+        "El sistema tributario español",
+        "La obligación de pagar impuestos",
+        "La gestión de impuestos públicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.3 menciona específicamente 'el valor social de los impuestos' como uno de los contenidos del área."
+    },
+    {
+      "question": "¿Qué tipo de materia pueden añadir las Administraciones según el artículo 18.4?",
+      "options": [
+        "Una materia de carácter transversal",
+        "Una materia de refuerzo instrumental",
+        "Una materia de ampliación curricular",
+        "Una materia de carácter optativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.4 establece que pueden añadir 'una segunda lengua extranjera u otra lengua cooficial o una materia de carácter transversal'."
+    },
+    {
+      "question": "¿Qué tipo de aprendizajes recibirán especial consideración según el artículo 18.5?",
+      "options": [
+        "Los aprendizajes que tengan carácter instrumental",
+        "Los aprendizajes básicos de la etapa",
+        "Los aprendizajes de competencias clave",
+        "Los aprendizajes esenciales obligatorios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.5 establece que 'los aprendizajes que tengan carácter instrumental para la adquisición de otras competencias recibirán especial consideración'."
+    },
+    {
+      "question": "Según el artículo 18.6, ¿qué se fomentará con especial atención?",
+      "options": [
+        "El respeto mutuo y la cooperación entre iguales, con especial atención a la igualdad de género",
+        "El trabajo en equipo y la solidaridad grupal",
+        "La convivencia pacífica y el diálogo constructivo",
+        "La colaboración y el apoyo mutuo entre compañeros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.6 establece 'se fomentará en la etapa el respeto mutuo y la cooperación entre iguales, con especial atención a la igualdad de género'."
+    },
+    {
+      "question": "¿Qué condiciones prevé el artículo 18.7 para la lengua propia?",
+      "options": [
+        "Exenciones de cursar o de ser evaluados en las condiciones de la normativa autonómica",
+        "Optatividad completa según decisión familiar",
+        "Obligatoriedad para residentes en la comunidad",
+        "Evaluación diferenciada según nivel de competencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.7 establece que 'podrán establecerse exenciones de cursar o de ser evaluados de dicha área en las condiciones previstas en la normativa autonómica correspondiente'."
+    },
+    {
+      "question": "¿Qué tres aspectos menciona el artículo 19.1 respecto a la atención al alumnado?",
+      "options": [
+        "Necesidades de aprendizaje, participación y convivencia",
+        "Necesidades educativas, sociales y emocionales",
+        "Capacidades cognitivas, afectivas y sociales",
+        "Desarrollo intelectual, físico y emocional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.1 establece 'la atención personalizada al alumnado y a sus necesidades de aprendizaje, participación y convivencia'."
+    },
+    {
+      "question": "Según el artículo 19.1, ¿cuándo deben aplicarse los mecanismos de refuerzo?",
+      "options": [
+        "Tan pronto como se detecten las dificultades",
+        "Al finalizar cada evaluación trimestral",
+        "Después de aplicar las medidas ordinarias",
+        "Cuando se confirme la necesidad de apoyo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.1 establece 'la puesta en práctica de mecanismos de refuerzo y flexibilización... tan pronto como se detecten cualquiera de estas situaciones'."
+    },
+    {
+      "question": "¿Cuántos elementos transversales enumera el artículo 19.2?",
+      "options": [
+        "Enumera comprensión lectora, expresión oral y escrita, comunicación audiovisual, competencia digital, creatividad, espíritu científico y emprendimiento",
+        "Enumera cinco elementos transversales básicos",
+        "Enumera elementos relacionados con lengua, matemáticas y tecnología",
+        "Enumera competencias instrumentales y actitudinales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 enumera específicamente siete elementos que se trabajarán en todas las áreas: comprensión lectora, expresión oral y escrita, comunicación audiovisual, competencia digital, fomento de la creatividad, espíritu científico y emprendimiento."
+    },
+    {
+      "question": "¿Qué educaciones específicas menciona el artículo 19.2 que se trabajarán en todas las áreas?",
+      "options": [
+        "Igualdad de género, educación para la paz, consumo responsable, desarrollo sostenible y educación para la salud",
+        "Educación en valores, educación ambiental y educación para la ciudadanía",
+        "Educación moral, educación cívica y educación para la convivencia",
+        "Educación inclusiva, educación intercultural y educación democrática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 menciona específicamente: igualdad de género, educación para la paz, educación para el consumo responsable y desarrollo sostenible, y educación para la salud (incluida la afectivo-sexual)."
+    },
+    {
+      "question": "¿Qué menciona el artículo 19.2 respecto a la educación emocional?",
+      "options": [
+        "Se pondrá especial atención a la educación emocional y en valores",
+        "Se integrará la educación emocional en todas las áreas",
+        "Se desarrollará la educación emocional de forma transversal",
+        "Se incluirá la educación emocional como contenido específico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 establece textualmente 'se pondrá especial atención a la educación emocional y en valores'."
+    },
+    {
+      "question": "Según el artículo 19.2, ¿qué promoverán las competencias transversales?",
+      "options": [
+        "La autonomía y la reflexión",
+        "La creatividad y la innovación",
+        "El pensamiento crítico y la colaboración",
+        "El desarrollo integral y la madurez"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 establece 'la potenciación del aprendizaje significativo para el desarrollo de las competencias transversales que promuevan la autonomía y la reflexión'."
+    },
+    {
+      "question": "¿Qué establece el artículo 19.3 respecto al tiempo dedicado a la lectura?",
+      "options": [
+        "Todos los centros dedicarán un tiempo diario a la lectura",
+        "Los centros dedicarán un tiempo semanal a la lectura",
+        "Se establecerá un horario específico para la lectura",
+        "Cada área incluirá tiempo para la lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.3 establece 'todos los centros educativos dedicarán un tiempo diario a la misma' (a la lectura)."
+    },
+    {
+      "question": "Según el artículo 19.3, ¿qué promoverán las Administraciones para la alfabetización?",
+      "options": [
+        "Alfabetización en diversos medios, tecnologías y lenguajes",
+        "Alfabetización digital y mediática",
+        "Alfabetización informacional y comunicativa",
+        "Alfabetización múltiple y multimodal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.3 establece 'planes de fomento de la lectura y de alfabetización en diversos medios, tecnologías y lenguajes'."
+    }
+  ]
+}

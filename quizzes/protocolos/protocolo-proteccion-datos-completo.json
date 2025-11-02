@@ -1,0 +1,2121 @@
+{
+  "title": "Protocolo de Protección de Datos - Completo",
+  "description": "Quiz completo y exhaustivo sobre el protocolo de protección de datos personales en el ámbito educativo. Cubre fundamentos, normativa, comunicaciones, videovigilancia, seguridad y casos prácticos.",
+  "category": "protocolos",
+  "difficulty": "hard",
+  "icon": "🔐",
+  "questions": [
+    {
+      "question": "¿Qué regulamento europeo establece la protección de las personas físicas en el tratamiento de datos personales?",
+      "options": [
+        "Regulamento (UE) 2016/679 del 27 de abril de 2016",
+        "Regulamento (UE) 2015/678 del 26 de abril de 2015",
+        "Regulamento (UE) 2017/680 del 28 de abril de 2017",
+        "Regulamento (UE) 2018/681 del 29 de abril de 2018"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Regulamento (UE) 2016/679 del Parlamento Europeo y del Consejo, del 27 de abril de 2016, es el Regulamento General de Protección de Datos (RXPD) que establece las normas sobre protección de personas físicas en el tratamiento de datos personales."
+    },
+    {
+      "question": "¿Qué ley orgánica española regula la protección de datos personales y garantía de los derechos digitales?",
+      "options": [
+        "Lei orgánica 2/2018, do 4 de decembro",
+        "Lei orgánica 3/2018, do 5 de decembro",
+        "Lei orgánica 4/2018, do 6 de decembro",
+        "Lei orgánica 5/2018, do 7 de decembro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Lei orgánica 3/2018, do 5 de decembro, de protección de datos persoais e garantía dos dereitos dixitais (LOPDGDD) es la normativa española vigente que regula la protección de datos personales y los derechos digitales."
+    },
+    {
+      "question": "¿Qué real decreto regula el Esquema Nacional de Seguridad?",
+      "options": [
+        "Real decreto 310/2022, do 2 de maio",
+        "Real decreto 311/2022, do 3 de maio",
+        "Real decreto 312/2022, do 4 de maio",
+        "Real decreto 313/2022, do 5 de maio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real decreto 311/2022, do 3 de maio, es el que regula el Esquema Nacional de Seguridad, estableciendo los principios básicos y requisitos mínimos de seguridad en el tratamiento de la información."
+    },
+    {
+      "question": "¿Qué lei autonómica regula la administración digital de Galicia?",
+      "options": [
+        "Lei 3/2019, do 16 de xullo",
+        "Lei 4/2019, do 17 de xullo",
+        "Lei 5/2019, do 18 de xullo",
+        "Lei 6/2019, do 19 de xullo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Lei 4/2019, do 17 de xullo, de administración dixital de Galicia, es la normativa autonómica que regula la utilización de medios electrónicos en el sector público autonómico gallego."
+    },
+    {
+      "question": "Según el RXPD, ¿qué se considera dato personal?",
+      "options": [
+        "Solo información sobre una persona física mayor de edad identificable",
+        "Toda información sobre una persona física identificada o identificable",
+        "Solo información sobre una persona jurídica identificable",
+        "Toda información sobre personas físicas y jurídicas identificables"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El RXPD define dato personal como toda información sobre una persona física identificada o identificable (la persona interesada), sin restricción de edad y excluyendo a las personas jurídicas."
+    },
+    {
+      "question": "¿Cómo define el RXPD a una persona física identificable?",
+      "options": [
+        "Persona cuya identidad pueda determinarse solo mediante nombre y apellidos",
+        "Persona cuya identidad pueda determinarse solo mediante documento de identidad",
+        "Persona cuya identidad pueda determinarse directa o indirectamente mediante identificadores",
+        "Persona cuya identidad solo pueda determinarse mediante datos biométricos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El RXPD define persona física identificable como aquella cuya identidad pueda determinarse, directa o indirectamente, mediante identificadores como nombre, número de identificación, datos de localización, identificador en línea o elementos de su identidad física, fisiológica, genética, psíquica, económica, cultural o social."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO se considera dato personal del alumnado en el ámbito educativo?",
+      "options": [
+        "Número de teléfono y domicilio",
+        "Calificaciones académicas y ausencias",
+        "Fotografías y vídeos personales",
+        "Temperatura del aula donde estudia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La temperatura del aula es un dato ambiental que no identifica ni se relaciona con una persona específica. Sí son datos personales el teléfono, domicilio, calificaciones, ausencias, fotografías y vídeos del alumnado."
+    },
+    {
+      "question": "¿Cuál de las siguientes categorías especiales de datos está regulada en el artículo 9.1 del RXPD?",
+      "options": [
+        "Datos de calificaciones académicas",
+        "Datos que revelen el origen étnico o racial",
+        "Datos de contacto telefónico",
+        "Datos de domicilio habitual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 9.1 del RXPD establece como categorías especiales de datos (datos sensibles) aquellos que revelan origen étnico o racial, opiniones políticas, convicciones religiosas o filosóficas, afiliación sindical, datos genéticos, biométricos, de salud o relativos a la vida sexual u orientación sexual."
+    },
+    {
+      "question": "¿Cuál de los siguientes se considera categoría especial de datos según el RXPD?",
+      "options": [
+        "Datos de número de expediente académico",
+        "Datos relativos a las opiniones políticas",
+        "Datos de fecha de matriculación",
+        "Datos de curso académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los datos relativos a opiniones políticas son una categoría especial de datos según el artículo 9.1 del RXPD. Los demás son datos personales normales relacionados con la gestión académica."
+    },
+    {
+      "question": "¿Los datos relativos a la salud del alumnado se consideran categoría especial de datos?",
+      "options": [
+        "Sí, incluidos los relativos a discapacidad e informes psicopedagógicos",
+        "No, solo se consideran datos personales ordinarios",
+        "Sí, pero solo los relativos a enfermedades contagiosas",
+        "No, salvo que se trate de datos genéticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los datos relativos a la salud son categoría especial de datos según el artículo 9.1 del RXPD, incluyendo expresamente los relativos a la discapacidad y los que se incluyen en los informes psicopedagógicos del alumnado."
+    },
+    {
+      "question": "¿Qué artículo del RXPD prohíbe el tratamiento de categorías especiales de datos y establece excepciones?",
+      "options": [
+        "Artículo 8 RXPD",
+        "Artículo 9 RXPD",
+        "Artículo 10 RXPD",
+        "Artículo 11 RXPD"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 9 del RXPD es el que prohíbe el tratamiento de categorías especiales de datos pero establece excepciones en las que se permite su tratamiento por parte de la Administración educativa y centros públicos dependientes."
+    },
+    {
+      "question": "¿Cuál es una excepción que permite el tratamiento de categorías especiales de datos?",
+      "options": [
+        "Cuando es necesario para la gestión de actividades extraescolares",
+        "Cuando el consentimiento es implícito de la persona interesada",
+        "Cuando el tratamiento es necesario por razones de interés público esencial",
+        "Cuando el tratamiento es solicitado por las familias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 9 del RXPD permite el tratamiento de categorías especiales de datos cuando es necesario por razones de interés público esencial, entre otras excepciones como el consentimiento explícito, protección de intereses vitales o formulación de reclamaciones."
+    },
+    {
+      "question": "Según el RXPD, ¿qué se entiende por tratamiento de datos personales?",
+      "options": [
+        "Solo la recogida y registro de datos personales",
+        "Solo la consulta y utilización de datos personales",
+        "Cualquier operación realizada sobre datos personales",
+        "Solo la comunicación y difusión de datos personales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El RXPD define tratamiento como cualquier operación realizada sobre datos personales, ya sea por procedimientos automatizados o no, como recogida, registro, organización, conservación, modificación, extracción, consulta, utilización, comunicación, cotejo, limitación, supresión o destrucción."
+    },
+    {
+      "question": "¿Qué incluye el concepto de tratamiento de datos según el RXPD?",
+      "options": [
+        "Solo operaciones automatizadas sobre datos digitales",
+        "Operaciones automatizadas y no automatizadas sobre datos",
+        "Solo operaciones de almacenamiento en bases de datos",
+        "Solo operaciones de comunicación a terceros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tratamiento de datos incluye cualquier operación realizada sobre datos personales tanto por procedimientos automatizados como no automatizados, incluyendo recogida, registro, organización, consulta, utilización, comunicación y supresión, entre otras operaciones."
+    },
+    {
+      "question": "Según el RXPD, ¿qué es la persona responsable del tratamiento?",
+      "options": [
+        "La persona física o jurídica que determina los fines y medios del tratamiento",
+        "Solo la persona física que maneja los datos directamente",
+        "La persona que custodia los documentos en papel",
+        "El delegado de protección de datos del centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El RXPD define a la persona responsable del tratamiento como la persona física o jurídica, autoridad pública, servicio u otro organismo que, sola o junto con otras, determina los fines y los medios del tratamiento de datos personales."
+    },
+    {
+      "question": "En los centros públicos del sistema educativo galego, ¿quién es la persona responsable del tratamiento?",
+      "options": [
+        "El director o directora del centro educativo",
+        "El delegado de protección de datos del centro",
+        "La Secretaría Xeral Técnica da Consellería con competencias en materia de educación",
+        "El jefe o jefa de estudios del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En los centros públicos del sistema educativo galego, la persona responsable del tratamiento es la Secretaría Xeral Técnica da Consellería de Cultura, Educación, Formación Profesional e Universidades, no el propio centro."
+    },
+    {
+      "question": "En los centros concertados y privados, ¿quién es la persona responsable del tratamiento?",
+      "options": [
+        "La Consellería de Educación",
+        "El propio centro educativo",
+        "El delegado de protección de datos",
+        "La Secretaría Xeral Técnica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A diferencia de los centros públicos, en los centros concertados y privados la persona responsable del tratamiento de datos es el propio centro educativo, no la Administración educativa."
+    },
+    {
+      "question": "¿Qué es la persona encargada del tratamiento según el RXPD?",
+      "options": [
+        "La autoridad pública que determina los fines del tratamiento",
+        "La persona física o jurídica que trata datos por cuenta del responsable",
+        "El equipo directivo del centro educativo",
+        "El profesorado que accede a los datos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La persona encargada del tratamiento es la persona física o jurídica, autoridad pública, servicio u organismo que trate los datos personales por cuenta de la persona responsable. Son entidades ajenas a la organización contratadas o que colaboran con los centros."
+    },
+    {
+      "question": "¿Cuál de los siguientes se considera persona encargada del tratamiento?",
+      "options": [
+        "El equipo directivo del centro educativo",
+        "El profesorado que accede a los datos del alumnado",
+        "La empresa de comedor contratada por el centro",
+        "La Administración educativa autonómica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las empresas encargadas de comedor, transporte o actividades extraescolares son personas encargadas del tratamiento. No se consideran encargadas del tratamiento las personas físicas que tienen acceso a los datos dentro del centro (equipo directivo, profesorado)."
+    },
+    {
+      "question": "¿Cuál es la función principal del Delegado de Protección de Datos (DPD)?",
+      "options": [
+        "Gestionar directamente todos los datos del centro",
+        "Información, asesoramiento y supervisión del cumplimiento de la normativa",
+        "Sancionar las infracciones de protección de datos",
+        "Autorizar todas las comunicaciones de datos del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El DPD tiene funciones de información y asesoramiento al responsable del tratamiento y al personal en materia de protección de datos, y de supervisión del cumprimiento de la normativa vigente, incluida la concienciación y formación del personal."
+    },
+    {
+      "question": "¿A quién deben notificarse los casos de incidencias o reclamaciones de protección de datos en los centros?",
+      "options": [
+        "A la Agencia Española de Protección de Datos directamente",
+        "Al director o directora del centro únicamente",
+        "Al Delegado de Protección de Datos",
+        "Al Ministerio Fiscal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los casos de cualquier incidencia, queja o reclamación del alumnado, familias o personal del centro deben notificarse al Delegado de Protección de Datos para valorar los hechos y resolver las dudas sobre protección de datos personales."
+    },
+    {
+      "question": "¿Cuál es el principio de protección de datos que exige que el tratamiento se realice conforme a la ley?",
+      "options": [
+        "Principio de transparencia",
+        "Principio de licitude",
+        "Principio de minimización",
+        "Principio de exactitud"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de licitud establece que el tratamiento de datos personales solo podrá realizarse conforme a la ley en base a lo establecido en el artículo 6 del RXPD, que establece cuándo el tratamiento es lícito."
+    },
+    {
+      "question": "¿Qué exige la obligación de transparencia e información en el tratamiento de datos?",
+      "options": [
+        "Facilitar información a las personas interesadas en el momento de la recogida de datos",
+        "Publicar todos los datos recogidos en la web del centro",
+        "Comunicar los datos a todas las familias del centro",
+        "Informar solo cuando se produzca una violación de seguridad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La obligación de transparencia e información requiere facilitar a las personas interesadas, en el momento de la recogida de datos personales, información sobre la identidad del responsable, contacto del DPD, finalidad, base legitimadora, destinatarios, derechos y plazos de conservación."
+    },
+    {
+      "question": "¿Qué información debe facilitarse a las personas interesadas en el momento de recogida de datos?",
+      "options": [
+        "Solo la identidad del responsable del tratamiento",
+        "Solo la finalidad del tratamiento de datos",
+        "Identidad del responsable, contacto del DPD, finalidad, base legitimadora, destinatarios, derechos y plazos",
+        "Solo los derechos de las personas interesadas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Debe facilitarse información completa: identidad del responsable del tratamiento, datos de contacto del DPD, finalidad para la que se solicitan los datos, base legitimadora, personas destinatarias, derechos de las personas interesadas y dónde ejercitarlos, plazos de conservación y derecho a reclamar ante la AEPD."
+    },
+    {
+      "question": "¿Qué establece el principio de limitación de la finalidad?",
+      "options": [
+        "Los datos deben recogerse sin determinar su finalidad",
+        "Los datos deben recogerse con fines determinados, explícitos y legítimos",
+        "Los datos pueden utilizarse para cualquier finalidad posterior",
+        "Los datos solo pueden usarse una única vez"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de limitación de la finalidad establece que los datos personales deben ser recogidos con fines determinados, explícitos y legítimos, para una finalidad concreta que debe conocer la persona afectada."
+    },
+    {
+      "question": "¿Qué exige el principio de minimización de datos?",
+      "options": [
+        "Recadar todos los datos posibles de las personas",
+        "Recadar solo datos adecuados, pertinentes y limitados a lo necesario",
+        "Recadar el mínimo absoluto de datos sin considerar la finalidad",
+        "Minimizar el tiempo de conservación sin importar los datos recogidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de minimización establece que deben recabarse los datos personales que sean adecuados, pertinentes y limitados a lo necesario en relación con los fines para los que son tratados."
+    },
+    {
+      "question": "¿Qué requiere el principio de exactitud en el tratamiento de datos?",
+      "options": [
+        "Los datos deben ser aproximados pero no necesariamente exactos",
+        "Los datos deben ser exactos y actualizados",
+        "Los datos solo deben ser exactos en el momento inicial de recogida",
+        "Los datos deben actualizarse cada 5 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de exactitud establece que los datos deben ser exactos y, cuando sea necesario, actualizados, garantizando que la información tratada refleje correctamente la realidad."
+    },
+    {
+      "question": "¿Qué establece el principio de limitación del plazo de conservación?",
+      "options": [
+        "Los datos deben conservarse indefinidamente",
+        "Los datos deben conservarse durante no más tiempo del necesario para los fines del tratamiento",
+        "Los datos deben eliminarse inmediatamente después de su recogida",
+        "Los datos deben conservarse exactamente 10 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de limitación del plazo de conservación establece que los datos deben mantenerse de forma que se permita la identificación de las personas interesadas durante no más tiempo del necesario para los fines del tratamiento."
+    },
+    {
+      "question": "¿Qué garantiza el principio de integridad y confidencialidad?",
+      "options": [
+        "Solo la integridad física de los documentos en papel",
+        "Solo la confidencialidad de los datos más sensibles",
+        "Una seguridad adecuada del tratamiento de datos y deber de confidencialidad",
+        "La publicidad de todos los tratamientos de datos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El principio de integridad y confidencialidad garantiza una seguridad adecuada del tratamiento de datos. Las personas responsables, encargadas y todas las que intervengan en cualquier fase del tratamiento estarán sujetas al deber de confidencialidad."
+    },
+    {
+      "question": "¿Cuántas bases legitimadoras principales para el tratamiento de datos establece el protocolo?",
+      "options": [
+        "Tres bases legitimadoras",
+        "Cuatro bases legitimadoras",
+        "Cinco bases legitimadoras",
+        "Seis bases legitimadoras"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El protocolo establece cinco bases legitimadoras principales: 1) cumplimiento de una misión en interés público, 2) relación contractual, 3) cumplimiento de una obligación legal, 4) consentimiento, y 5) protección de intereses vitales."
+    },
+    {
+      "question": "¿Cuál es la base legitimadora para el tratamiento de datos necesarios para la función educativa?",
+      "options": [
+        "El consentimiento de los progenitores",
+        "El cumplimiento de una misión en interés público",
+        "La relación contractual con las familias",
+        "El cumplimiento de una obligación legal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la LOMLOE, la base legitimadora para el tratamiento de datos necesarios para el ejercicio de la función educativa (educación y orientación del alumnado) es el cumplimiento de una misión realizada en interés público, sin necesidad de consentimiento."
+    },
+    {
+      "question": "¿Qué disposición adicional de la LOMLOE regula los datos personales del alumnado?",
+      "options": [
+        "Disposición adicional vigésima",
+        "Disposición adicional vigésima primera",
+        "Disposición adicional vigésima segunda",
+        "Disposición adicional vigésima tercera"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La disposición adicional vigésima tercera de la LOMLOE, titulada 'Datos persoais dos alumnos', regula que los centros docentes pueden solicitar los datos personales necesarios para el ejercicio de su función educativa."
+    },
+    {
+      "question": "¿Están obligados los progenitores a colaborar en la obtención de información para la función educativa?",
+      "options": [
+        "No, la colaboración es completamente voluntaria",
+        "Sí, los progenitores están obligados por ley a colaborar",
+        "Solo si el centro lo solicita por escrito",
+        "Solo en casos de emergencia educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la LOMLOE, los padres o tutores y los propios alumnos deberán colaborar en la obtención de la información necesaria para la función educativa. Los progenitores están obligados por ley a colaborar."
+    },
+    {
+      "question": "¿Cuándo es necesario el consentimiento para el tratamiento de datos en relación contractual?",
+      "options": [
+        "Nunca, el contrato sustituye al consentimiento",
+        "Es necesario informar a las personas firmantes del contrato",
+        "Solo para contratos de más de 10.000 euros",
+        "Solo si el contrato es con entidades privadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando sea necesario realizar un contrato, será legal el tratamiento de datos personales de contratistas o representantes de entidades, pero siendo necesario informar a las personas firmantes sobre el tratamiento de sus datos."
+    },
+    {
+      "question": "¿Es necesario el consentimiento para publicar listas de admitidos o concesiones de ayudas?",
+      "options": [
+        "Sí, siempre es necesario el consentimiento previo",
+        "No, porque se basa en el cumplimiento de una obligación legal",
+        "Solo si las listas se publican en internet",
+        "Solo si afectan a menores de edad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No es preciso el consentimiento cuando el tratamiento (publicación de listas de admitidos o concesiones de ayudas) deriva del cumplimiento de una obligación legal aplicable al responsable del tratamiento."
+    },
+    {
+      "question": "¿Qué es el consentimiento según el artículo 4.11 del RXPD?",
+      "options": [
+        "Cualquier manifestación tácita de voluntad por parte del interesado",
+        "Toda manifestación de voluntad libre, específica, informada e inequívoca",
+        "La simple omisión de oposición al tratamiento de datos",
+        "El silencio administrativo positivo del interesado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El RXPD y la LOPDGDD definen el consentimiento como toda manifestación de voluntad libre, específica, informada e inequívoca por la que las personas aceptan, mediante una declaración o una clara acción afirmativa, el tratamiento de datos personales que les conciernen."
+    },
+    {
+      "question": "¿Qué implica que el consentimiento debe ser otorgado libremente?",
+      "options": [
+        "Puede existir cualquier tipo de presión sobre el interesado",
+        "No puede existir un desequilibrio de poder claro entre interesado y responsable",
+        "El responsable puede condicionar servicios al consentimiento",
+        "El interesado debe firmar sin leer la información"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Que el consentimiento sea libre significa que no puede existir un desequilibrio de poder claro entre la persona interesada y el responsable del tratamiento, o cuando la persona interesada no goce de libre elección y no pueda denegar el consentimiento sin perjuicio."
+    },
+    {
+      "question": "¿Puede retirarse el consentimiento una vez otorgado?",
+      "options": [
+        "No, el consentimiento es irrevocable una vez otorgado",
+        "Sí, el consentimiento podrá ser retirado en cualquier momento",
+        "Solo puede retirarse transcurridos 30 días",
+        "Solo puede retirarse con autorización judicial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El consentimiento podrá ser retirado en cualquier momento, siendo tan fácil retirar el consentimiento como darlo. La retirada no afectará a la licitud del tratamiento basado en el consentimiento previo a su retirada."
+    },
+    {
+      "question": "¿A partir de qué edad puede una persona solicitar el consentimiento para el tratamiento de sus datos sin asistencia de los titulares de la patria potestad?",
+      "options": [
+        "12 años",
+        "13 años",
+        "14 años",
+        "16 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las personas mayores de 14 años pueden solicitar el consentimiento para el tratamiento de datos (incluidas fotografías o vídeos), salvo en casos que la ley exija para su prestación la asistencia de los titulares de la patria potestad."
+    },
+    {
+      "question": "¿Quién debe otorgar el consentimiento para el tratamiento de datos de menores de 14 años?",
+      "options": [
+        "El propio menor sin restricciones",
+        "Los progenitores o titulares de la patria potestad",
+        "El tutor legal del centro educativo",
+        "El director del centro educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para personas menores de 14 años se requiere el consentimiento de las familias o tutores legales (titulares de la patria potestad) para el tratamiento de sus datos personales."
+    },
+    {
+      "question": "¿Puede recabarse información de menores sobre los miembros de la unidad familiar?",
+      "options": [
+        "Sí, en cualquier circunstancia preguntando al menor",
+        "No, los datos deben obtenerse mediante los progenitores",
+        "Sí, siempre que el menor tenga más de 12 años",
+        "No, estos datos nunca pueden recabarse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No pueden recabarse datos de los menores que permitan obtener información sobre miembros de la unidad familiar. Cuando sean necesarios en el ámbito educativo, deben obtenerse mediante los progenitores y no preguntando al menor, salvo los datos de identidad y dirección de los progenitores."
+    },
+    {
+      "question": "¿Cuál es la base legitimadora cuando el tratamiento de datos es necesario para proteger intereses vitales de la persona afectada?",
+      "options": [
+        "El consentimiento previo siempre es obligatorio",
+        "La protección de intereses vitales de la persona afectada",
+        "El cumplimiento de una obligación legal",
+        "El interés legítimo del centro educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando el tratamiento de datos es necesario para proteger intereses vitales de la persona interesada o de otra persona física, el tratamiento será legal sin necesidad de otras bases legitimadoras."
+    },
+    {
+      "question": "¿Qué principio debe seguirse en la simplificación administrativa de los centros?",
+      "options": [
+        "Solicitar los datos cada curso académico sin excepciones",
+        "Procurar la reutilización de los datos vigentes aportados al centro por las familias",
+        "Eliminar todos los datos al finalizar cada curso",
+        "Solicitar siempre nuevos datos aunque ya se dispongan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el marco de la simplificación administrativa, se procurará la reutilización de los datos vigentes aportados al centro por las familias, evitando solicitar datos que ya se posean y estén actualizados."
+    },
+    {
+      "question": "¿Qué principios del tratamiento de datos deben seguirse en las matrículas?",
+      "options": [
+        "Solo el principio de licitud",
+        "Solo los principios de transparencia y minimización",
+        "Todos los principios del tratamiento de datos",
+        "Solo el principio de consentimiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la recogida de datos personales durante las matrículas, los centros deben seguir todos los principios del tratamiento de datos: licitud, lealtad, transparencia, limitación de la finalidad, minimización, exactitud, limitación del plazo de conservación e integridad y confidencialidad."
+    },
+    {
+      "question": "¿Se considera comunicación de datos personales la transmisión entre departamentos de la Administración educativa?",
+      "options": [
+        "Sí, es comunicación y requiere consentimiento",
+        "No, no se considera comunicación de datos personales",
+        "Sí, pero no requiere consentimiento",
+        "Depende del tipo de datos que se transmitan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No es comunicación de datos personales la transmisión entre departamentos y unidades dependientes de la Administración educativa ni la realizada a empresas o entidades que tengan la consideración de encargadas del tratamiento."
+    },
+    {
+      "question": "¿Se considera cesión de datos el traslado de expediente por cambio de centro educativo entre centros públicos de la Consellería?",
+      "options": [
+        "Sí, es cesión y requiere consentimiento de las familias",
+        "No, no se entiende como cesión por tratarse de comunicación entre unidades del mismo responsable",
+        "Sí, es cesión pero no requiere consentimiento",
+        "Depende de si el traslado es entre la misma provincia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La comunicación de datos entre centros públicos dependientes de la Consellería no se entenderá como cesión de datos personales por tratarse de una comunicación entre unidades dependientes del mismo responsable del tratamiento."
+    },
+    {
+      "question": "¿Puede un centro público remitir el expediente a otro centro de destino por cambio de centro?",
+      "options": [
+        "No, necesita siempre consentimiento de las familias",
+        "Sí, puede remitirlo por petición expresa del centro de destino sin necesidad de consentimiento",
+        "Solo si el traslado es definitivo y no provisional",
+        "Solo con autorización de la Inspección Educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro de origen puede remitir el expediente al centro de destino por petición expresa de este último sin necesidad de recabar el consentimiento de las personas afectadas, al no considerarse cesión entre unidades del mismo responsable."
+    },
+    {
+      "question": "¿A quién corresponde la intermediación en la cesión de datos al Defensor del Pueblo o Valedor do Pobo?",
+      "options": [
+        "Al director del centro educativo directamente",
+        "A la Subdirección Xeral de Coordinación Administrativa e Réxime Xurídico da Consellería",
+        "Al Delegado de Protección de Datos",
+        "A la Inspección Educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La intermediación de datos en cesiones al Defensor del Pueblo o Valedor do Pobo corresponde a la Subdirección Xeral de Coordinación Administrativa e Réxime Xurídico da Consellería de Cultura, Educación, Formación Profesional e Universidades."
+    },
+    {
+      "question": "¿Es necesario el consentimiento para la cesión de datos a órganos judiciales?",
+      "options": [
+        "Sí, siempre es necesario el consentimiento de las familias",
+        "No, la remisión de expedientes requeridos por órganos judiciales no requiere consentimiento",
+        "Solo si se trata de datos de categorías especiales",
+        "Solo si el órgano judicial es de otra comunidad autónoma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es posible la remisión por parte de la administración pública de expedientes y documentos que sean requeridos por los órganos judiciales en el ejercicio de la función jurisdiccional sin necesidad de consentimiento."
+    },
+    {
+      "question": "¿A qué entidad pueden cederse datos para determinar situaciones de riesgo o desamparo de menores?",
+      "options": [
+        "A los servicios de menores de la Consellería con competencias en materia de Política Social",
+        "Solo al Ministerio Fiscal",
+        "Solo a las Fuerzas y Cuerpos de Seguridad",
+        "A cualquier servicio social municipal sin restricciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pueden comunicarse datos personales a los servicios de menores de la Consellería con competencias en materia de Política Social, que están habilitados para recabar y verificar los datos necesarios para garantir la protección de menores sin necesidad de consentimiento."
+    },
+    {
+      "question": "¿Es necesario el consentimiento para ceder datos a los servicios de menores de la Consellería de Política Social?",
+      "options": [
+        "Sí, siempre es obligatorio el consentimiento",
+        "No, estos servicios están habilitados para recabar datos sin consentimiento",
+        "Solo si se trata de menores de 14 años",
+        "Solo si los datos son de categorías especiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los servicios de menores están habilitados para recabar y verificar los datos que sean necesarios para garantir la protección de los menores, sin que sea necesario el consentimiento de las personas interesadas."
+    },
+    {
+      "question": "¿Cuándo pueden comunicarse datos personales a los servicios sociales municipales?",
+      "options": [
+        "En cualquier circunstancia sin restricciones",
+        "Cuando la finalidad sea la determinación o tratamiento de situación de riesgo o desamparo",
+        "Solo con consentimiento expreso de las familias",
+        "Solo si lo solicita el alcalde del municipio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Podrán comunicarse datos personales a los servicios sociales municipales cuando la finalidad sea la determinación o tratamiento de situación de riesgo o desamparo de menores."
+    },
+    {
+      "question": "¿Con qué finalidad pueden facilitarse datos personales a los servicios sanitarios?",
+      "options": [
+        "Solo para estudios epidemiológicos sin otras finalidades",
+        "Para diagnóstico médico, prestación de asistencia sanitaria o tratamientos médicos",
+        "En cualquier caso que lo solicite personal sanitario",
+        "Solo para urgencias médicas graves"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pueden facilitarse datos personales a los servicios sanitarios cuando la finalidad sea el diagnóstico médico, la prestación de asistencia sanitaria o de tratamientos médicos, o por razones de interés público en el ámbito de la salud pública."
+    },
+    {
+      "question": "¿Pueden facilitarse datos a servicios sanitarios por razones de salud pública?",
+      "options": [
+        "No, solo pueden facilitarse para tratamientos individuales",
+        "Sí, por razones de interés público en salud pública como controles o estudios epidemiológicos",
+        "Solo con autorización judicial",
+        "Solo si hay una pandemia declarada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "También podrán facilitarse datos personales a servicios sanitarios cuando resulte necesario por razones de interés público en el ámbito de la salud pública, como controles o estudios epidemiológicos."
+    },
+    {
+      "question": "¿Qué condición es obligatoria para la cesión de datos a las Fuerzas y Cuerpos de Seguridad?",
+      "options": [
+        "Que la solicitud y la respuesta se realicen de forma oral",
+        "Que la solicitud y la respuesta se realicen por escrito",
+        "Que lo autorice el director del centro",
+        "Que transcurran al menos 24 horas desde la solicitud"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una de las condiciones obligatorias es que la solicitud y la respuesta a las Fuerzas y Cuerpos de Seguridad se realicen por escrito, además de otras condiciones como la acreditación de necesidad y que sea una petición concreta y específica."
+    },
+    {
+      "question": "¿Qué debe acreditarse para que la cesión a Fuerzas y Cuerpos de Seguridad sea válida?",
+      "options": [
+        "Solo que exista una investigación policial abierta",
+        "Que la obtención de datos es necesaria para prevenir un peligro real y grave o represión de infracciones penales",
+        "Que lo solicite un agente con más de 5 años de antigüedad",
+        "Que afecte a más de tres personas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe quedar debidamente acreditado que la obtención de los datos resulta necesaria para la prevención de un peligro real y grave para la seguridad pública o para la represión de infracciones penales, y que los datos de categoría especial sean absolutamente necesarios."
+    },
+    {
+      "question": "¿Qué tipo de petición debe realizarse a un centro para la cesión de datos a Fuerzas y Cuerpos de Seguridad?",
+      "options": [
+        "Una petición genérica de todos los datos del centro",
+        "Una petición concreta y específica, debidamente motivada",
+        "Una petición oral en presencia del director",
+        "Una petición masiva de datos de todo el alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe tratarse de una petición concreta y específica, debidamente motivada, siendo incompatible con peticiones masivas y genéricas. La petición debe acreditar que se cumplen las exigencias legales."
+    },
+    {
+      "question": "¿Son compatibles las peticiones masivas y genéricas de datos por parte de Fuerzas y Cuerpos de Seguridad?",
+      "options": [
+        "Sí, si están debidamente motivadas",
+        "No, son incompatibles con los requisitos legales",
+        "Sí, en casos de terrorismo o delitos graves",
+        "Depende del rango del solicitante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las peticiones masivas y genéricas de datos son incompatibles con los requisitos legales. La solicitud debe ser concreta y específica para cada caso particular."
+    },
+    {
+      "question": "¿Cuándo es posible subministrar información a Fuerzas y Cuerpos de Seguridad fuera de los requisitos específicos?",
+      "options": [
+        "Nunca es posible fuera de los requisitos establecidos",
+        "Cuando la investigación deriva de expediente de órgano competente o actúan por orden judicial",
+        "Cuando lo solicita el comisario de policía",
+        "Cuando afecta a menores de edad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fuera de los requisitos específicos, sería posible cuando la investigación policial deriva de un expediente iniciado por un órgano con competencias legales que impliquen habilitación para recabar los datos (expedientes de protección de menores) o cuando la policía actúa por orden judicial."
+    },
+    {
+      "question": "¿Pueden los centros comunicar datos personales del alumnado a las ANPA sin consentimiento?",
+      "options": [
+        "Sí, las ANPA tienen acceso automático a los datos",
+        "No, no podrán comunicar datos sin consentimiento previo de las personas interesadas",
+        "Sí, si la ANPA lo solicita por escrito",
+        "Solo pueden comunicarse los nombres y apellidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros no podrán comunicar datos personales del alumnado ni de sus progenitores a las ANPA sin el consentimiento previo de las personas interesadas, salvo excepciones específicas."
+    },
+    {
+      "question": "¿En qué supuesto excepcional las ANPA pueden acceder a datos sin consentimiento?",
+      "options": [
+        "Cuando organizan actividades extraescolares gratuitas",
+        "Cuando son consideradas encargadas del tratamiento por prestar servicio al centro",
+        "Cuando lo aprueba la junta directiva de la ANPA",
+        "Cuando tienen más de 50 socios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La excepción se da en supostos en los que las ANPA puedan ser consideradas encargadas del tratamiento de los datos, es decir, en casos en los que son contratadas para prestar un servicio al centro educativo para el que tienen que tratar los referidos datos."
+    },
+    {
+      "question": "¿Qué deben contar los centros para colaborar con asociaciones o entidades privadas que traten datos?",
+      "options": [
+        "Solo una comunicación oral a las familias",
+        "Consentimiento explícito y por escrito con carácter previo del tratamiento de datos",
+        "Autorización del director del centro únicamente",
+        "Comunicación al Delegado de Protección de Datos sin consentimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En supostos de colaboración con asociación o entidades privadas, los centros deben contar con el consentimiento explícito y por escrito con carácter previo del tratamiento de datos para las comunicaciones de datos."
+    },
+    {
+      "question": "¿Qué ocurre con la patria potestad de los progenitores cuando el hijo o hija alcanza la mayoría de edad?",
+      "options": [
+        "Se mantiene hasta los 21 años",
+        "Se extingue la patria potestad de los progenitores",
+        "Se mantiene si el hijo vive con los padres",
+        "Se mantiene si el hijo está estudiando"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al alcanzar la mayoría de edad se extingue la patria potestad de los progenitores respecto a sus hijos, por lo que no podrá facilitarse información académica sin el consentimiento inequívoco de la persona titular de los datos."
+    },
+    {
+      "question": "¿Puede facilitarse información académica a progenitores de alumnado mayor de edad?",
+      "options": [
+        "Sí, los progenitores siempre tienen derecho a la información",
+        "No, no puede facilitarse sin consentimiento inequívoco del titular de los datos",
+        "Sí, si los progenitores pagan la matrícula",
+        "Sí, hasta que el alumno cumpla 21 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No podrá facilitarse información académica a los progenitores de alumnado mayor de edad sin el consentimiento inequívoco de la persona titular de los datos, ya que se ha extinguido la patria potestad."
+    },
+    {
+      "question": "¿Pueden proporcionarse a progenitores datos relativos a otro alumnado distinto de sus hijos?",
+      "options": [
+        "Sí, si son compañeros de clase",
+        "No, no pueden proporcionarse bajo ningún concepto sin consentimiento del titular",
+        "Sí, si los datos son relevantes para su hijo",
+        "Sí, si lo solicitan por escrito"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No pueden proporcionarse bajo ningún concepto datos relativos a otro alumnado distinto de sus hijos sin el consentimiento de la persona titular de los datos."
+    },
+    {
+      "question": "¿Cuándo es posible publicar datos personales en tableros o web sin consentimiento por cumplimiento de obligación legal?",
+      "options": [
+        "En cualquier tipo de publicación del centro",
+        "Cuando el tratamiento deriva de obligación impuesta en norma con rango de ley",
+        "Cuando lo decide el equipo directivo",
+        "Solo en el caso de fotografías de eventos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No será preciso el consentimiento cuando el tratamiento (publicación) de datos derive del cumplimiento de una obligación aplicable al responsable del tratamiento que venga impuesta en una norma con rango de ley."
+    },
+    {
+      "question": "¿Dónde deben publicarse las concesiones de subvenciones y ayudas públicas?",
+      "options": [
+        "En cualquier lugar sin restricciones",
+        "Evitando que terceras personas no interesadas puedan acceder a información",
+        "Solo en el Diario Oficial de Galicia",
+        "En la entrada principal del centro sin restricciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es obligatoria la publicación de concesiones de subvenciones y ayudas públicas, pero los centros deben evitar que terceras personas no interesadas puedan acceder a información indiscriminadamente."
+    },
+    {
+      "question": "¿Con qué base puede publicarse las listas de alumnado por clases, materias o actividades?",
+      "options": [
+        "Solo con consentimiento previo de todas las familias",
+        "Por cumplimiento de una misión en interés público para organizar la actividad docente",
+        "Solo con autorización de la Inspección Educativa",
+        "No pueden publicarse en ningún caso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para dar a conocer al alumnado y sus familias la organización de la actividad docente, pueden colocarse las listas de alumnado por clases, materias o actividades en tableros de anuncios o entrada de aulas, basándose en el cumplimiento de una misión en interés público, durante el tiempo razonable."
+    },
+    {
+      "question": "¿Dónde pueden colocarse las listas de alumnado por clases para organizar la actividad docente?",
+      "options": [
+        "En cualquier lugar público sin restricciones",
+        "En los tableros de anuncios o en la entrada de las aulas",
+        "Solo en la página web pública del centro",
+        "Solo pueden enviarse por correo electrónico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pueden colocarse las listas de alumnado por clases, materias o actividades en los tableros de anuncios o en la entrada de las aulas, durante el tiempo razonable para permitir este conocimiento por parte del alumnado y familias."
+    },
+    {
+      "question": "¿Cuánto tiempo deben mantenerse publicadas las listas de alumnado?",
+      "options": [
+        "Durante todo el curso escolar",
+        "El tiempo razonable para cumplir su finalidad y retirarse cuando dejen de ser necesarias",
+        "Permanentemente en el tablero del centro",
+        "Exactamente 30 días naturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las listas deben colocarse durante el tiempo razoable para permitir el conocimiento de la organización docente y deben retirarse una vez que dejen de resultar necesarias para cumplir su finalidad."
+    },
+    {
+      "question": "¿Pueden publicarse listas de calificaciones académicas sin consentimiento previo?",
+      "options": [
+        "Sí, porque son datos necesarios para la función educativa",
+        "No, no podrán realizarse salvo que esté previsto en normativa de pruebas específicas",
+        "Sí, si se publican en el interior del centro",
+        "Sí, si solo se publican las calificaciones positivas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La publicación de las listas de calificaciones académicas sin consentimiento previo de las personas afectadas no podrá realizarse, salvo que esté previsto en normativa reguladora de pruebas específicas."
+    },
+    {
+      "question": "¿Cuánto tiempo deben publicarse las listas en tableros según las reglas generales?",
+      "options": [
+        "Durante todo el curso académico sin retirarlas",
+        "El tiempo mínimo necesario para cumplir su finalidad",
+        "Exactamente 15 días naturales",
+        "Hasta que finalice el plazo de reclamaciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las listas deberán publicarse el tiempo mínimo necesario para cumplir su finalidad y deberán retirarse una vez que dejen de resultar necesarias."
+    },
+    {
+      "question": "¿Cómo deben identificarse las personas en publicaciones de actos administrativos con pluralidad de afectados?",
+      "options": [
+        "Mediante el DNI completo",
+        "Mediante nombre, apellidos y cuatro cifras numéricas del DNI o NIE",
+        "Solo mediante nombre y apellidos sin más datos",
+        "Mediante un código asignado por el centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la LOPDGDD, cuando sea necesaria la publicación de un acto administrativo con datos personales de una pluralidad de personas afectadas, estas serán identificadas mediante nombre, apellidos y cuatro cifras numéricas del DNI o NIE."
+    },
+    {
+      "question": "¿Cómo debe realizarse la publicación para no suponer acceso indiscriminado a la información?",
+      "options": [
+        "En la página web pública del centro accesible desde buscadores",
+        "En tableros internos del centro o en página web con acceso restringido",
+        "En las redes sociales del centro",
+        "En el Diario Oficial de Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La publicación deberá hacerse de forma que no suponga un acceso indiscriminado a la información, utilizando tableros internos del centro o una página web con acceso restringido a las personas solicitantes."
+    },
+    {
+      "question": "¿Qué ejemplos son contratos que implican tratamiento de datos por terceras personas?",
+      "options": [
+        "Contratación de profesorado sustituto",
+        "Instalación de cámaras de videovigilancia o control de presencia mediante huella digital",
+        "Compra de material escolar fungible",
+        "Contratación de obras de pintura en aulas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ejemplos de contratos que implican tratamiento de datos son: instalación de cámaras o sistemas de videovigilancia, instalación de acceso mediante huella digital o control de presencia, servicios de fotografía, gestión de actividades extraescolares, destrucción de documentación, etc."
+    },
+    {
+      "question": "¿Deben contratarse herramientas informáticas para finalidades que ya proporciona la Administración educativa?",
+      "options": [
+        "Sí, para tener opciones diversas",
+        "No, no se deberán contratar si la Administración ya las proporciona con iguales o similares funcionalidades",
+        "Sí, si son más modernas que las de la Administración",
+        "Solo si el claustro lo aprueba por mayoría"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No se deberán contratar herramientas informáticas para finalidades para las que la Administración educativa ya las proporciona con las mismas o similares funcionalidades."
+    },
+    {
+      "question": "¿Quién es el encargado del tratamiento de datos del alumnado y profesorado en centros públicos?",
+      "options": [
+        "El director del centro educativo",
+        "La Consellería de Cultura, Educación, Formación Profesional e Universidades",
+        "El Delegado de Protección de Datos",
+        "El secretario del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Consellería de Cultura, Educación, Formación Profesional e Universidades es el encargado del tratamiento de datos del alumnado y del profesorado en los centros públicos."
+    },
+    {
+      "question": "¿A quién debe comunicarse con antelación suficiente la previsión de cada contratación que implique tratamiento de datos?",
+      "options": [
+        "A la Inspección Educativa",
+        "Al Delegado de protección de datos mediante un formulario",
+        "Al Consello Escolar",
+        "A la Xefatura Territorial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La previsión de cada contratación deberá ser comunicada con antelación suficiente al Delegado de protección de datos de la Consellería mediante un formulario, para que pueda asesorar sobre la licitud del tratamiento y supervisar el cumplimiento de la normativa."
+    },
+    {
+      "question": "¿Qué debe hacer el centro tras el asesoramiento del DPD sobre una contratación directa de servicios?",
+      "options": [
+        "Firmar directamente el contrato con la empresa",
+        "Remitir el modelo de contrato con los datos de la empresa y naturaleza del tratamiento",
+        "Publicar la contratación en el tablero de anuncios",
+        "Solicitar autorización al Consello Escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tras el asesoramiento del DPD, en casos de contratación directa por el centro, este deberá remitir el modelo de contrato con: datos de la empresa contratista, objeto del contrato, naturaleza y finalidad del tratamiento, tipo de datos personales, categorías de personas interesadas e información sobre medidas de seguridad previstas."
+    },
+    {
+      "question": "¿Quién firma con la empresa contratista el contrato de encargo del tratamiento en centros públicos?",
+      "options": [
+        "El director del centro educativo",
+        "La Secretaría Xeral Técnica da Consellería",
+        "El Delegado de Protección de Datos",
+        "El secretario del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Secretaría Xeral Técnica da Consellería de Cultura, Educación, Formación Profesional e Universidades asinará con la empresa contratista el contrato de encargo del tratamiento."
+    },
+    {
+      "question": "¿Puede autorizarse el acceso de empresas a los ficheros o sistemas de datos titularidad de la Consellería?",
+      "options": [
+        "Sí, si firman un contrato de confidencialidad",
+        "No, en ningún caso debe autorizarse el acceso",
+        "Sí, si lo solicita el director del centro",
+        "Solo en casos excepcionales con autorización del DPD"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En ningún caso se debe autorizar el acceso de ninguna empresa o entidad a los ficheros o sistemas de datos titularidad de la Consellería. Se les comunicarán de modo seguro los datos estrictamente necesarios para la prestación del servicio."
+    },
+    {
+      "question": "¿Cómo deben comunicarse los datos a empresas contratistas?",
+      "options": [
+        "Dándoles acceso completo a las bases de datos del centro",
+        "Comunicándoles de modo seguro los datos estrictamente necesarios",
+        "Enviándoles copias de todos los expedientes",
+        "Mediante acceso remoto a los sistemas informáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No se debe autorizar el acceso a los ficheros o sistemas de datos. En su lugar, se comunicarán de modo seguro los datos estrictamente necesarios para la prestación del servicio contratado."
+    },
+    {
+      "question": "¿Cuándo debe estar prevista la posibilidad de subcontratación de servicios por parte de la empresa contratista?",
+      "options": [
+        "Puede decidirlo libremente la empresa contratista",
+        "Debe estar prevista en el contrato de encargo del tratamiento o ser autorizada individualmente",
+        "Solo si el servicio supera los 6 meses de duración",
+        "Solo con autorización del director del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La posibilidad de subcontratación de parte de la prestación de los servicios con terceras personas debe estar prevista en el propio contrato de encargo del tratamiento o ser autorizada de modo individual por la persona responsable."
+    },
+    {
+      "question": "¿Qué debe incluirse en contratos de servicios que no implican tratamiento pero sí acceso a instalaciones?",
+      "options": [
+        "Nada especial, son contratos ordinarios",
+        "Cláusula de prohibición de acceso a datos personales y obligación de secreto",
+        "Autorización para fotografiar las instalaciones",
+        "Solo las especificaciones técnicas del servicio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es conveniente incluir en el contrato una cláusula en la que se establezca expresamente la prohibición de acceder a los datos personales y la obligación de secreto que la empresa contratista pudiese conocer con motivo de la prestación del servicio (obras, mantenimientos, limpieza, etc.)."
+    },
+    {
+      "question": "¿En qué tipo de contratos debe incluirse cláusula de prohibición de acceso a datos?",
+      "options": [
+        "Solo en contratos de servicios informáticos",
+        "En contratos de obras, mantenimientos, limpieza, etc.",
+        "Solo en contratos superiores a 10.000 euros",
+        "En ningún caso, no es necesario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe incluirse cláusula de prohibición de acceso a datos personales y obligación de secreto en contratos de servicios como obras, mantenimientos, limpieza, etc., que suponen acceso a las instalaciones aunque no impliquen tratamiento directo de datos."
+    },
+    {
+      "question": "¿Qué uso de imágenes está legitimado sin consentimiento en centros públicos?",
+      "options": [
+        "Cualquier uso de imágenes del alumnado",
+        "Fotografías para identificación en expediente o para identificar material con fines educativos",
+        "Publicación en redes sociales del centro",
+        "Venta de fotografías a las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El uso de fotografías del alumnado para su identificación en relación con su expediente o para ayudarles a identificar su material, así como grabaciones con fines educativos (trabajos escolares o evaluaciones), son tratamientos legitimados sin necesidad de consentimiento."
+    },
+    {
+      "question": "¿Qué base legitimadora se requiere para uso de imágenes en páginas web, blogs o redes sociales?",
+      "options": [
+        "Cumplimiento de misión en interés público",
+        "El consentimiento (menores de 14 años de los padres, mayores de 14 del propio alumnado)",
+        "Relación contractual con las familias",
+        "No se requiere base legitimadora específica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La captación de imágenes que no obedecen a la función educativa o orientadora (festividades o eventos para difusión de actividades) requiere consentimiento: en menores de 14 años de los padres y en mayores de 14 años del propio alumnado."
+    },
+    {
+      "question": "¿Qué prima en la organización de actividades respecto al tratamiento de imágenes?",
+      "options": [
+        "El derecho a la intimidad sobre el derecho a participar",
+        "El derecho a participar en actividades sobre la difusión de imágenes",
+        "El derecho a publicar imágenes sobre el derecho a participar",
+        "Ambos derechos tienen la misma prioridad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prima el derecho a participar en las actividades organizadas por el centro sobre la difusión de las actividades en imágenes, por lo que no puede apartarse a menores que no autorizaron la difusión de su imagen."
+    },
+    {
+      "question": "¿Cómo deben manejarse las imágenes de menores que no autorizaron su difusión en eventos?",
+      "options": [
+        "No pueden participar en el evento",
+        "Evitar la captación de su imagen o editar la imagen antes de su publicación",
+        "Se les coloca en la última fila",
+        "Se publica con su rostro pixelado parcialmente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No puede apartarse a menores que no autorizaron la difusión de su imagen de las actividades. En estos casos debe evitarse la captación de la imagen de aquellas personas que no dispongan de autorización o editar la imagen antes de su publicación."
+    },
+    {
+      "question": "¿Se requiere consentimiento del personal no docente para el tratamiento de imágenes?",
+      "options": [
+        "No, están sujetos a la misma normativa que el alumnado",
+        "Sí, se requiere de su consentimiento para el tratamiento de imágenes",
+        "Solo si son mayores de 50 años",
+        "Solo si trabajan en contacto directo con el alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para el personal no docente se requiere de su consentimiento para el tratamiento de imágenes, a diferencia de las excepciones que se aplican para el alumnado en el ejercicio de la función educativa."
+    },
+    {
+      "question": "¿Qué se recomienda al captar imágenes para minimizar la identificación de personas?",
+      "options": [
+        "Usar siempre primeros planos de las personas",
+        "Usar imágenes en planos generales desde perspectivas que limiten la identificación",
+        "Enfocar siempre los rostros de las personas",
+        "Captar imágenes individuales de cada persona"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se recomienda usar imágenes en planos generales desde perspectivas que limiten la identificación de las personas físicas que aparecen en ellas, minimizando así el tratamiento de datos personales."
+    },
+    {
+      "question": "¿En qué lugares NO deben captarse imágenes para proteger la intimidad?",
+      "options": [
+        "En aulas y bibliotecas",
+        "En aseos, comedores, vestuarios o circunstancias que puedan comprometer la intimidad",
+        "En patios y zonas comunes",
+        "En actos académicos oficiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No deben captarse imágenes en lugares o circunstancias que puedan comprometer o resultar lesivas para la intimidad, dignidad, honor o buena imagen de las personas, como aseos, comedores o vestuarios. Al seleccionar imágenes debe evitarse este tipo."
+    },
+    {
+      "question": "¿Cuándo deben suprimirse las imágenes publicadas?",
+      "options": [
+        "Nunca, forman parte del archivo histórico del centro",
+        "Una vez que dejen de tener relevancia",
+        "A los 10 años de su publicación",
+        "Al finalizar el curso escolar en que fueron captadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se recomienda suprimir las imágenes una vez que dejen de tener relevancia, aplicando el principio de limitación del plazo de conservación a las imágenes publicadas."
+    },
+    {
+      "question": "¿Qué artículo de la LOPDGDD regula los tratamientos con fines de videovigilancia?",
+      "options": [
+        "Artículo 20",
+        "Artículo 21",
+        "Artículo 22",
+        "Artículo 23"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 22 de la Lei orgánica 3/2018, do 5 de decembro, de protección de datos persoais e garantía dos dereitos dixitais (LOPDGDD) regula los tratamientos con fines de videovigilancia."
+    },
+    {
+      "question": "¿Qué artículo de la LOPDGDD regula el derecho a la intimidad de los trabajadores frente al uso de videovigilancia?",
+      "options": [
+        "Artículo 87",
+        "Artículo 88",
+        "Artículo 89",
+        "Artículo 90"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 89 de la LOPDGDD regula como novedad el derecho a la intimidad de los trabajadores frente al uso de sistemas de videovigilancia en el ámbito laboral."
+    },
+    {
+      "question": "¿Qué finalidad concreta admite la Agencia Española de Protección de Datos para el uso de cámaras en centros educativos?",
+      "options": [
+        "Supervisar el comportamiento del alumnado en todo momento",
+        "Garantir la seguridad de personas e instalaciones",
+        "Grabar todas las clases para revisión posterior",
+        "Controlar el horario del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Agencia Española de Protección de Datos solo admite el uso de cámaras de videovigilancia para garantir la seguridad de personas e instalaciones en los centros educativos, siendo esta la finalidad concreta que legitima su uso."
+    },
+    {
+      "question": "¿Cuándo es proporcionada la instalación de cámaras de videovigilancia según los criterios de proporcionalidad?",
+      "options": [
+        "Siempre que el centro tenga presupuesto para ello",
+        "Cuando sea susceptible de conseguir el objetivo, no exista medida más moderada y sea equilibrada",
+        "Cuando lo solicite el 50% de las familias",
+        "Solo en centros con más de 500 alumnos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La medida es proporcionada cuando: 1) se trata de una medida susceptible de conseguir el objetivo propuesto, 2) no existe otra medida más moderada con igual eficacia, y 3) es equilibrada derivándose más beneficios que perjuicios."
+    },
+    {
+      "question": "¿Procede colocar una cámara en un aula conflictiva donde hay personal docente presente?",
+      "options": [
+        "Sí, siempre que se informe al alumnado",
+        "No, porque el personal docente está presente para supervisar",
+        "Sí, si lo aprueba el Consello Escolar",
+        "Solo si se producen más de 10 incidentes al mes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No procede colocar una cámara en un aula conflictiva si el personal docente está presente para supervisar, ya que existe una medida más moderada (la supervisión presencial) susceptible de conseguir el objetivo con igual eficacia."
+    },
+    {
+      "question": "¿Qué es obligatorio colocar en un lugar visible cuando se instalan cámaras de videovigilancia?",
+      "options": [
+        "El manual de instrucciones de las cámaras",
+        "Un distintivo indicativo",
+        "El contrato con la empresa instaladora",
+        "Las especificaciones técnicas de las cámaras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es obligatorio colocar un distintivo indicativo en un lugar visible que informe de la existencia de videovigilancia, cumpliendo con el principio de transparencia e información."
+    },
+    {
+      "question": "¿Pueden captarse imágenes de la vía pública con las cámaras del centro?",
+      "options": [
+        "No, nunca pueden captarse imágenes de la vía pública",
+        "Sí, en la medida en que resulte imprescindible o sea imposible evitarlo",
+        "Sí, sin ninguna restricción",
+        "Solo con autorización del ayuntamiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Solo pueden captarse imágenes de la vía pública en la medida en que resulte imprescindible para la seguridad del centro o sea imposible evitarlo, aplicando el principio de minimización."
+    },
+    {
+      "question": "¿En qué plazo deben eliminarse las imágenes gravadas por videovigilancia desde su captación?",
+      "options": [
+        "En el plazo de 15 días",
+        "En el plazo de un mes",
+        "En el plazo de 3 meses",
+        "En el plazo de 6 meses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las imágenes gravadas deben eliminarse en el plazo de un mes desde su captación. Es aconsejable que no se mantengan más de 10 días cuando se recojan con la finalidad de prevenir el maltrato físico, verbal o psicológico."
+    },
+    {
+      "question": "¿Cuánto tiempo es aconsejable mantener las imágenes cuando se recojan para prevenir maltrato?",
+      "options": [
+        "No más de 5 días",
+        "No más de 10 días",
+        "No más de 15 días",
+        "No más de 20 días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es aconsejable que las imágenes no se mantengan más de 10 días cuando se recojan con la finalidad de prevenir el maltrato físico, verbal o psicológico, aunque el plazo máximo legal sea de un mes."
+    },
+    {
+      "question": "¿En qué supuesto pueden conservarse las imágenes más allá del plazo de un mes?",
+      "options": [
+        "Cuando lo solicite el director del centro",
+        "Cuando sea necesario para acreditar actos que atenten contra la integridad de personas, bienes o instalaciones",
+        "Cuando las familias quieran una copia",
+        "Nunca pueden conservarse más de un mes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Únicamente pueden conservarse más allá del plazo de un mes en el suposto de que sea necesario para acreditar actos que atenten contra la integridad de personas, bienes o instalación."
+    },
+    {
+      "question": "¿En qué plazo máximo deben ponerse las imágenes conservadas a disposición de la autoridad competente?",
+      "options": [
+        "24 horas desde conocimiento de la grabación",
+        "48 horas desde conocimiento de la grabación",
+        "72 horas desde conocimiento de la grabación",
+        "7 días desde conocimiento de la grabación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las imágenes conservadas más allá del plazo normal deberán ser puestas a disposición de la autoridad competente en un plazo máximo de setenta y dos horas (72 horas) desde el conocimiento de la existencia de la grabación."
+    },
+    {
+      "question": "¿Pueden instalarse cámaras en las aulas o aseos?",
+      "options": [
+        "Sí, sin ninguna restricción",
+        "No, la colocación debe respetar los derechos de los usuarios y no instalarse donde desarrollan la personalidad",
+        "Sí, con consentimiento de las familias",
+        "Solo en aulas, no en aseos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La colocación de las cámaras debe respetar los derechos de las personas usuarias del centro. No pueden instalarse en aulas, aseos, vestuarios, gimnasios y resto de espacios donde estas desarrollan la personalidad."
+    },
+    {
+      "question": "¿En qué espacios NO pueden instalarse cámaras para respetar los derechos de los usuarios?",
+      "options": [
+        "Solo en aseos",
+        "En aulas, aseos, vestuarios, gimnasios y espacios donde se desarrolla la personalidad",
+        "Solo en vestuarios y gimnasios",
+        "En ningún espacio del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No pueden instalarse cámaras en aulas, aseos, vestuarios, gimnasios y resto de espacios en los que las personas usuarias desarrollan la personalidad, para respetar su intimidad y dignidad."
+    },
+    {
+      "question": "¿En qué circunstancias excepcionales pueden usarse videocámaras en espacios donde se desarrolla la personalidad del alumnado?",
+      "options": [
+        "Cuando lo apruebe el Consello Escolar",
+        "Cuando exista riesgo previsible para la seguridad del menor y no existan otras medidas",
+        "Cuando lo soliciten las familias mayoritariamente",
+        "Nunca, bajo ninguna circunstancia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En circunstancias excepcionales, justificadas por la presencia de un riesgo previsible para la seguridad del menor y sin poder existir otras medidas como el control presencial por personas adultas, pueden usarse videocámaras en espacios de juego, aulas y otros ámbitos donde se desarrolla la personalidad."
+    },
+    {
+      "question": "¿Qué medidas deben implementarse para proteger los componentes del sistema de videovigilancia?",
+      "options": [
+        "Solo medidas técnicas",
+        "Solo medidas organizativas",
+        "Medidas técnicas y organizativas para garantir funcionamiento y evitar acceso no autorizado",
+        "No se requieren medidas especiales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Deben protegerse adecuadamente todos los componentes del sistema de videovigilancia mediante medidas técnicas y organizativas a fin de garantir su correcto funcionamiento y de evitar el acceso no autorizado a las imágenes."
+    },
+    {
+      "question": "¿Quién debe ser designado para acceder al sistema de videovigilancia según las medidas mínimas?",
+      "options": [
+        "Todo el personal del centro sin restricciones",
+        "Una persona, preferiblemente de la dirección, que asumirá la responsabilidad de cumplir las medidas",
+        "Solo el personal de mantenimiento",
+        "Cualquier profesor con más de 5 años de antigüedad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe designarse a una persona, preferiblemente de la dirección, a la que se autorizará el acceso al sistema de videovigilancia y que asumirá la responsabilidad de cumplir las medidas, desempeñando el rol de persona de contacto."
+    },
+    {
+      "question": "¿Qué debe hacerse para restringir el acceso a las imágenes y equipos donde se almacenan?",
+      "options": [
+        "Colocar un letrero de 'Prohibido el paso'",
+        "Establecer medidas de seguridad para que solo acceda el personal autorizado",
+        "No es necesario restringir el acceso",
+        "Poner un candado en la puerta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deben establecerse medidas de seguridad para restringir el acceso a las imágenes y a los equipos en los que se almacenen únicamente al personal autorizado. Los lugares donde estén los monitores o centros de control deben permanecer cerrados y solo accesibles al personal autorizado."
+    },
+    {
+      "question": "¿Cómo deben estar los lugares donde están los monitores o centros de control de videovigilancia?",
+      "options": [
+        "Abiertos para facilitar la supervisión",
+        "Cerrados y solo accesibles al personal autorizado",
+        "Con llave que tenga todo el equipo directivo",
+        "En zona visible para el alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los lugares donde estén los monitores o los centros de control deben permanecer cerrados y solo accesibles al personal autorizado, garantizando la seguridad y confidencialidad de las imágenes."
+    },
+    {
+      "question": "¿Cómo deben protegerse las cámaras ante manipulaciones físicas?",
+      "options": [
+        "No es necesario protegerlas físicamente",
+        "Deben estar debidamente protegidas, no en puntos de fácil acceso ni al alcance de la mano",
+        "Solo con una cubierta de plástico",
+        "Colocándolas a menos de 2 metros de altura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las cámaras deben estar debidamente protegidas ante manipulaciones físicas, no instaladas en puntos de fácil acceso ni al alcance de la mano para evitar sabotajes o manipulaciones."
+    },
+    {
+      "question": "¿Qué debe registrarse en el sistema de registro de entrada y salida de documentación con imágenes?",
+      "options": [
+        "Solo la fecha de entrada",
+        "Tipo de documento, fecha y hora, emisor, número de documentos, tipo de información, forma de envío y destinatario",
+        "Solo el destinatario",
+        "Solo el número de documentos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe establecerse un sistema de registro de entrada y salida donde se recoja: tipo de documento o soporte, fecha y hora, emisor, número de documentos o soportes incluidos en el envío, tipo de información que contienen, forma de envío y destinatario."
+    },
+    {
+      "question": "¿Qué debe hacerse antes de pretender complementar la videovigilancia con reconocimiento facial o huella dactilar?",
+      "options": [
+        "Instalar directamente sin informar",
+        "Informar previamente al Delegado de protección de datos para su valoración",
+        "Solo informar al Consello Escolar",
+        "Solicitar autorización a las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En caso de que se pretenda complementar la videovigilancia con otros sistemas como reconocimiento facial o huella dactilar para el control de acceso a las instalaciones, debe informarse previamente al Delegado de protección de datos para su valoración."
+    },
+    {
+      "question": "¿Qué medidas de seguridad se requieren para el sistema de videovigilancia?",
+      "options": [
+        "Solo sistema de alimentación eléctrica ininterrumpida",
+        "Sistema de copias de seguridad y procedimiento de recuperación de datos",
+        "Solo procedimiento de recuperación de datos",
+        "No se requieren copias de seguridad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se requiere implementar un sistema de copias de seguridad y un procedimiento de recuperación de los datos para garantir la disponibilidad e integridad de las imágenes."
+    },
+    {
+      "question": "¿Pueden utilizarse sistemas que envíen imágenes fuera del centro a través de Internet?",
+      "options": [
+        "Sí, sin restricciones",
+        "No, salvo que estén debidamente protegidas",
+        "Sí, si se usa WiFi del centro",
+        "Solo si el receptor está en la Consellería"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No deben utilizarse sistemas que envíen imágenes fuera del centro a través de Internet. En caso contrario, las imágenes deben estar debidamente protegidas mediante cifrado u otras medidas de seguridad."
+    },
+    {
+      "question": "¿Qué debe hacerse con las credenciales predeterminadas de los dispositivos de videovigilancia?",
+      "options": [
+        "Mantenerlas tal como vienen de fábrica",
+        "Cambiarlas antes de poner los dispositivos en servicio",
+        "Cambiarlas solo si alguien accede sin autorización",
+        "No es necesario cambiarlas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deben cambiarse las credenciales predeterminadas antes de poner los dispositivos en servicio, estableciendo contraseñas robustas que deben cambiarse con una periodicidad determinada."
+    },
+    {
+      "question": "¿Qué características deben tener las contraseñas de acceso al sistema de videovigilancia?",
+      "options": [
+        "Al menos 4 caracteres numéricos",
+        "Mínimo de 8 caracteres con mayúsculas, minúsculas, números o caracteres especiales",
+        "Solo letras minúsculas de al menos 6 caracteres",
+        "No se requieren contraseñas específicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las contraseñas de acceso deben ser robustas, con un mínimo de 8 caracteres que incluyan mayúsculas, minúsculas, números o caracteres especiales, y deben cambiarse con una periodicidad determinada."
+    },
+    {
+      "question": "¿Cómo debe estar el almacenamiento donde se conservan las imágenes de videovigilancia?",
+      "options": [
+        "Sin protección especial",
+        "Cifrado",
+        "Solo con contraseña",
+        "En carpetas ocultas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El almacenamiento en el que se conservan las imágenes debe estar cifrado para garantir la confidencialidad e integridad de los datos ante posibles accesos no autorizados."
+    },
+    {
+      "question": "¿Pueden almacenarse las imágenes o copias de seguridad en herramientas de almacenamiento en nube personal?",
+      "options": [
+        "Sí, si se usan servicios de pago",
+        "No, no pueden almacenarse en Dropbox, Google Drive, etc.",
+        "Sí, con contraseña robusta",
+        "Solo en Google Drive corporativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No pueden almacenarse las imágenes o las copias de seguridad en herramientas de almacenamiento de nube personal como Dropbox, Google Drive u otros servicios similares, por motivos de seguridad y confidencialidad."
+    },
+    {
+      "question": "¿Qué debe hacerse con los dispositivos de videovigilancia respecto a las actualizaciones?",
+      "options": [
+        "Actualizar solo cuando fallen",
+        "Mantener actualizados y activar las actualizaciones de seguridad automáticas",
+        "Nunca actualizar para mantener estabilidad",
+        "Actualizar cada 5 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los dispositivos deben mantenerse actualizados y deben activarse las actualizaciones de seguridad automáticas para proteger el sistema contra vulnerabilidades conocidas."
+    },
+    {
+      "question": "¿Cuándo pueden utilizarse sistemas de grabación de sons en centros educativos?",
+      "options": [
+        "Siempre que se instalen cámaras",
+        "Únicamente cuando resulten relevantes los riesgos para la seguridad de las instalaciones y bienes",
+        "Con consentimiento de las familias",
+        "Nunca pueden usarse sistemas de grabación de sonidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los sistemas para la grabación de sons únicamente pueden utilizarse cuando resulten relevantes los riesgos para la seguridad de las instalaciones y bienes del centro educativo."
+    },
+    {
+      "question": "¿Qué normativa establece las condiciones especiales para el uso de redes sociales en el ámbito educativo?",
+      "options": [
+        "Real decreto 311/2022",
+        "Lei orgánica 3/2018 (LOPDGDD)",
+        "Lei 4/2019 de administración digital",
+        "Decreto 230/2008"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Lei orgánica 3/2018, do 5 de decembro, de protección de datos persoais e garantía dos dereitos dixitais (LOPDGDD) establece las condiciones específicas para el uso de redes sociales y protección de menores en el ámbito educativo."
+    },
+    {
+      "question": "¿Qué implica el uso de datos para finalidades no relacionadas con la función educativa?",
+      "options": [
+        "Se permite sin restricciones",
+        "No puede tratarse con fines diferentes del educativo sin consentimiento expreso",
+        "Se permite si lo aprueba el Consello Escolar",
+        "Solo requiere informar a las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la LOMLOE, la información estrictamente necesaria para la función docente y orientadora no puede tratarse con fines diferentes del educativo sin consentimiento expreso de los titulares de los datos."
+    },
+    {
+      "question": "¿Qué debe garantizarse en el tratamiento de datos del alumnado con necesidades educativas especiales?",
+      "options": [
+        "Publicidad de su diagnóstico",
+        "Protección especial como categoría especial de datos y acceso limitado al personal que lo necesite",
+        "Acceso de todo el claustro sin restricciones",
+        "Comunicación a todos los compañeros de clase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los datos relativos a la salud y discapacidad del alumnado son categorías especiales de datos que requieren protección especial, con acceso limitado al personal que necesite conocerlos para el ejercicio de la función educativa y orientadora."
+    },
+    {
+      "question": "¿Quién debe supervisar el cumprimiento de las medidas de seguridad en el tratamiento de datos?",
+      "options": [
+        "El director del centro exclusivamente",
+        "El Delegado de Protección de Datos",
+        "El secretario del centro",
+        "El Consello Escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Delegado de Protección de Datos es quien debe supervisar el cumprimiento de la normativa vigente, incluidas las medidas de seguridad en el tratamiento de datos personales."
+    },
+    {
+      "question": "¿Qué debe hacerse ante una brecha de seguridad o violación de datos personales?",
+      "options": [
+        "Ocultarlo para evitar sanciones",
+        "Notificarlo al Delegado de Protección de Datos de inmediato",
+        "Esperar a tener toda la información antes de notificar",
+        "Solo notificar si afecta a más de 100 personas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ante una brecha de seguridad o violación de datos personales debe notificarse de inmediato al Delegado de Protección de Datos, quien valorará las acciones a seguir y la obligación de comunicación a la autoridad de control y a los afectados."
+    },
+    {
+      "question": "¿En qué plazo debe notificarse una violación de seguridad a la autoridad de control?",
+      "options": [
+        "24 horas",
+        "72 horas",
+        "7 días",
+        "30 días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El RXPD establece que las violaciones de seguridad deben notificarse a la autoridad de control (Agencia Española de Protección de Datos) en un plazo de 72 horas desde que se tuvo conocimiento de ella, salvo que sea improbable que entrañe riesgo para los derechos de los afectados."
+    },
+    {
+      "question": "¿Qué derechos pueden ejercitar las personas sobre sus datos personales según el RXPD?",
+      "options": [
+        "Solo derecho de acceso y rectificación",
+        "Acceso, rectificación, supresión, limitación, portabilidad y oposición",
+        "Solo derecho de supresión",
+        "Solo derecho de oposición"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El RXPD reconoce varios derechos a las personas: derecho de acceso, rectificación, supresión (derecho al olvido), limitación del tratamiento, portabilidad de los datos y oposición al tratamiento."
+    },
+    {
+      "question": "¿A quién deben dirigirse las personas para ejercitar sus derechos sobre datos personales en centros públicos?",
+      "options": [
+        "Al director del centro directamente",
+        "Al responsable del tratamiento (Secretaría Xeral Técnica da Consellería) o al Delegado de Protección de Datos",
+        "A la Agencia Española de Protección de Datos",
+        "Al Ministerio de Educación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para ejercitar los derechos, las personas deben dirigirse al responsable del tratamiento (Secretaría Xeral Técnica da Consellería de Cultura, Educación, Formación Profesional e Universidades) o al Delegado de Protección de Datos."
+    },
+    {
+      "question": "¿En qué plazo debe responderse a una solicitud de ejercicio de derechos?",
+      "options": [
+        "15 días",
+        "1 mes, prorrogable otros 2 meses en casos complejos",
+        "3 meses en todos los casos",
+        "No hay plazo establecido"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El RXPD establece que debe responderse a las solicitudes de ejercicio de derechos en el plazo de un mes desde la recepción, prorrogable otros dos meses en caso necesario atendiendo a la complejidad y número de solicitudes."
+    },
+    {
+      "question": "¿Ante qué autoridad pueden las personas presentar reclamaciones por tratamiento indebido de datos?",
+      "options": [
+        "Ante el Valedor do Pobo únicamente",
+        "Ante la Agencia Española de Protección de Datos",
+        "Ante el Ministerio de Justicia",
+        "Ante los tribunales ordinarios directamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las personas tienen derecho a presentar una reclamación ante la autoridad de control, que en España es la Agencia Española de Protección de Datos (AEPD), cuando consideren que el tratamiento de sus datos vulnera el RXPD."
+    },
+    {
+      "question": "¿Qué es una evaluación de impacto en protección de datos (EIPD)?",
+      "options": [
+        "Un trámite administrativo sin contenido técnico",
+        "Análisis de riesgos para derechos y libertades cuando un tratamiento pueda entrañar alto riesgo",
+        "Una auditoría económica del centro",
+        "Un informe sobre el uso de dispositivos electrónicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación de impacto en protección de datos es un análisis de los riesgos que un tratamiento puede entrañar para los derechos y libertades de las personas cuando pueda implicar un alto riesgo, debiendo realizarse con carácter previo al tratamiento."
+    },
+    {
+      "question": "¿Cuándo es obligatorio realizar una evaluación de impacto en protección de datos?",
+      "options": [
+        "Para cualquier tratamiento de datos",
+        "Cuando el tratamiento pueda entrañar un alto riesgo para los derechos y libertades",
+        "Solo en centros con más de 1000 alumnos",
+        "Nunca es obligatorio en el ámbito educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es obligatorio realizar una evaluación de impacto cuando el tratamiento, especialmente por uso de nuevas tecnologías, pueda entrañar un alto riesgo para los derechos y libertades de las personas físicas."
+    },
+    {
+      "question": "¿Qué debe incluirse en la información sobre identidad digital del alumnado?",
+      "options": [
+        "Solo información sobre redes sociales",
+        "Concienciación sobre autoprotección de datos propios y uso en nuevas tecnologías",
+        "Solo normativa legal",
+        "Información sobre sanciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La información sobre identidad digital debe incluir concienciación sobre la necesidad de autoprotección de los propios datos, especialmente en lo relativo al uso que se hace de ellos en las nuevas tecnologías y la gestión de la identidad digital."
+    },
+    {
+      "question": "¿Qué doble vertiente debe afrontarse según el protocolo?",
+      "options": [
+        "Protección de datos y ahorro económico",
+        "Autoprotección de datos propios y protección de datos ajenos a los que se tenga acceso",
+        "Seguridad física y seguridad informática",
+        "Educación y sanción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe afrontarse desde una doble vertiente: 1) la concienciación de la necesidad de autoprotección de los propios datos (especialmente en nuevas tecnologías e identidad digital), y 2) la necesaria protección por parte de todos los miembros de la comunidad de los datos personales a los que tengan acceso."
+    },
+    {
+      "question": "¿Qué ley orgánica protege integralmente a la infancia y adolescencia frente a la violencia?",
+      "options": [
+        "Lei orgánica 7/2021, do 3 de xuño",
+        "Lei orgánica 8/2021, do 4 de xuño",
+        "Lei orgánica 9/2021, do 5 de xuño",
+        "Lei orgánica 10/2021, do 6 de xuño"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Lei orgánica 8/2021, do 4 de xuño, de protección integral á infancia e a adolescencia fronte á violencia, es la normativa que establece medidas de protección integral para menores frente a cualquier forma de violencia."
+    },
+    {
+      "question": "¿Qué real decreto regula la actuación del sector público por medios electrónicos?",
+      "options": [
+        "Real decreto 202/2021, do 29 de marzo",
+        "Real decreto 203/2021, do 30 de marzo",
+        "Real decreto 204/2021, do 31 de marzo",
+        "Real decreto 205/2021, do 1 de abril"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real decreto 203/2021, do 30 de marzo, aprueba el regulamento de actuación y funcionamiento del sector público por medios electrónicos, estableciendo las normas para la administración digital."
+    },
+    {
+      "question": "¿Qué decreto establece las normas de buenas prácticas en el uso de sistemas de información de la Administración gallega?",
+      "options": [
+        "Decreto 229/2008, do 17 de setembro",
+        "Decreto 230/2008, do 18 de setembro",
+        "Decreto 231/2008, do 19 de setembro",
+        "Decreto 232/2008, do 20 de setembro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 230/2008, do 18 de setembro, establece las normas de buenas prácticas en la utilización de los sistemas de información de la Administración de la Comunidade Autónoma de Galicia."
+    },
+    {
+      "question": "¿Qué debe incluirse en las cláusulas informativas para contratistas?",
+      "options": [
+        "Solo el nombre de la empresa",
+        "Información sobre el tratamiento de datos personales que se realizará",
+        "Solo la duración del contrato",
+        "Solo el importe del contrato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las cláusulas informativas para personas firmantes de contratos deben incluir información completa sobre el tratamiento de datos personales que se realizará: identidad del responsable, finalidad, base legitimadora, destinatarios de los datos, plazos de conservación y derechos que pueden ejercitar."
+    },
+    {
+      "question": "¿Qué debe hacerse cuando una empresa contratista necesita acceder a datos de los que es responsable la Administración educativa?",
+      "options": [
+        "Permitir acceso libre a todas las bases de datos",
+        "Subscribir un contrato de tratamiento de datos por cuenta de terceras personas",
+        "Solo firmar un acuerdo de confidencialidad verbal",
+        "No es necesario ningún trámite adicional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando la empresa contratista tenga acceso a datos personales de los que es responsable la Administración educativa, deberá subscribirse entre ambas partes un contrato de tratamiento de datos por cuenta de terceras personas (contrato de encargo del tratamiento)."
+    },
+    {
+      "question": "¿Qué formación debe proporcionarse al personal que trata datos personales?",
+      "options": [
+        "No es necesaria formación específica",
+        "Formación y concienciación en materia de protección de datos",
+        "Solo formación técnica en informática",
+        "Solo información sobre sanciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Delegado de Protección de Datos tiene entre sus funciones la concienciación y formación del personal que participa en las operaciones de tratamiento de datos, siendo esencial que todo el personal que trate datos reciba formación adecuada en protección de datos."
+    },
+    {
+      "question": "¿Qué obligación tienen todas las personas que intervienen en cualquier fase del tratamiento de datos?",
+      "options": [
+        "Obligación de comunicar todos los datos a la dirección",
+        "Deber de confidencialidad respecto a los datos tratados",
+        "Obligación de hacer copias de seguridad diarias",
+        "Deber de publicar estadísticas anuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de integridad y confidencialidad establece que las personas responsables y encargadas del tratamiento de datos y todas las que intervengan en cualquier fase del tratamiento estarán sujetas al deber de confidencialidad."
+    },
+    {
+      "question": "¿Cuándo finaliza el deber de confidencialidad sobre los datos tratados?",
+      "options": [
+        "Al finalizar la relación laboral o contractual",
+        "El deber de confidencialidad permanece incluso después de finalizar la relación",
+        "A los 5 años de finalizar la relación",
+        "No existe deber de confidencialidad en el ámbito público"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El deber de confidencialidad respecto a los datos tratados permanece incluso después de finalizar la relación laboral o contractual con el responsable o encargado del tratamiento, siendo una obligación permanente."
+    },
+    {
+      "question": "¿En qué fecha fue aprobado el Regulamento General de Protección de Datos (RXPD)?",
+      "options": [
+        "26 de abril de 2016",
+        "27 de abril de 2016",
+        "28 de abril de 2016",
+        "29 de abril de 2016"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Regulamento (UE) 2016/679 del Parlamento Europeo y del Consello fue aprobado el 27 de abril de 2016. Esta fecha específica es importante para efectos de aplicación temporal de la normativa."
+    },
+    {
+      "question": "¿En qué fecha fue aprobada la LOPDGDD española?",
+      "options": [
+        "4 de decembro de 2018",
+        "5 de decembro de 2018",
+        "6 de decembro de 2018",
+        "7 de decembro de 2018"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Lei orgánica 3/2018, de protección de datos persoais e garantía dos dereitos dixitais, fue aprobada el 5 de decembro de 2018, adaptando el ordenamiento español al RXPD."
+    },
+    {
+      "question": "¿Qué real decreto aprobó el Regulamento de desarrollo de la LOPD de 1999?",
+      "options": [
+        "Real decreto 1719/2007, do 20 de decembro",
+        "Real decreto 1720/2007, do 21 de decembro",
+        "Real decreto 1721/2007, do 22 de decembro",
+        "Real decreto 1722/2007, do 23 de decembro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real decreto 1720/2007, do 21 de decembro, aprobó el Regulamento de desenvolvemento da Lei orgánica 15/1999, do 13 de decembro, de protección de datos de carácter personal (LOPD), normativa anterior al RXPD que aún se menciona de manera transversal."
+    },
+    {
+      "question": "¿Qué ley orgánica modificó la LOE en 2020?",
+      "options": [
+        "Lei Orgánica 2/2020, de 28 de diciembre",
+        "Lei Orgánica 3/2020, de 29 de diciembre",
+        "Lei Orgánica 4/2020, de 30 de diciembre",
+        "Lei Orgánica 5/2020, de 31 de diciembre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Lei Orgánica 3/2020, de 29 de diciembre, modificó la Lei Orgánica 2/2006, de 3 de maio de Educación (LOMLOE), introduciendo cambios relevantes en materia educativa y tratamiento de datos del alumnado."
+    },
+    {
+      "question": "¿En qué fecha se aprobó la resolución que da publicidad a la modificación de la política de seguridad de la información de Galicia?",
+      "options": [
+        "3 de maio de 2018",
+        "4 de maio de 2018",
+        "5 de maio de 2018",
+        "6 de maio de 2018"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Resolución del 4 de maio de 2018 le da publicidad a la modificación de la política de seguridad de la información de la Administración xeral e do sector público autonómico de Galicia."
+    },
+    {
+      "question": "Un profesor quiere publicar las notas del último examen en el tablero del pasillo. ¿Puede hacerlo sin consentimiento?",
+      "options": [
+        "Sí, porque es parte de la función educativa",
+        "No, no puede hacerlo salvo que esté previsto en normativa de pruebas específicas",
+        "Sí, si usa solo las iniciales de los nombres",
+        "Sí, si el tablero está en el interior del edificio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La publicación de las listas de calificaciones académicas sin consentimiento previo de las personas afectadas no podrá realizarse, salvo que esté previsto en normativa reguladora de pruebas específicas. La función educativa no legitima esta publicación."
+    },
+    {
+      "question": "Una familia solicita datos de otro alumno que tuvo una discusión con su hijo. ¿Puede facilitarse la información?",
+      "options": [
+        "Sí, si la discusión fue grave",
+        "No, bajo ningún concepto sin consentimiento del titular de los datos",
+        "Sí, si lo solicitan por escrito",
+        "Sí, si el director lo autoriza"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No pueden proporcionarse bajo ningún concepto datos relativos a otro alumnado distinto de sus hijos sin el consentimiento de la persona titular de los datos, independientemente de las circunstancias."
+    },
+    {
+      "question": "Un alumno cumple 18 años en octubre. Sus padres solicitan sus notas en noviembre. ¿Puede facilitarse?",
+      "options": [
+        "Sí, porque siguen siendo sus padres",
+        "No, sin consentimiento inequívoco del alumno mayor de edad",
+        "Sí, si el alumno vive con ellos",
+        "Sí, si los padres pagan la matrícula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al alcanzar la mayoría de edad se extingue la patria potestad. No podrá facilitarse información académica a los progenitores sin el consentimiento inequívoco de la persona titular de los datos (el alumno mayor de edad)."
+    },
+    {
+      "question": "La policía local solicita verbalmente los datos de un alumno. ¿Puede facilitarse?",
+      "options": [
+        "Sí, porque es una autoridad",
+        "No, la solicitud y respuesta deben realizarse por escrito y cumplir otros requisitos",
+        "Sí, si está presente un agente uniformado",
+        "Sí, si es urgente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para cesión a Fuerzas y Cuerpos de Seguridad es obligatorio que la solicitud y la respuesta se realicen por escrito, además de cumplir otros requisitos: acreditación de necesidad, petición concreta y específica, y estar debidamente motivada."
+    },
+    {
+      "question": "El centro quiere contratar un sistema de reconocimiento facial para control de acceso. ¿Qué debe hacer primero?",
+      "options": [
+        "Instalarlo directamente si tiene presupuesto",
+        "Informar previamente al Delegado de protección de datos para su valoración",
+        "Consultar al Consello Escolar",
+        "Solicitar permiso a las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si se pretende complementar la videovigilancia con sistemas como reconocimiento facial o huella dactilar para control de acceso, debe informarse previamente al Delegado de protección de datos para su valoración, ya que implica tratamiento de datos biométricos."
+    },
+    {
+      "question": "Una alumna de 15 años quiere que no se publiquen fotos suyas en la web del centro. Sus padres han dado consentimiento. ¿Qué prevalece?",
+      "options": [
+        "El consentimiento de los padres siempre prevalece",
+        "La decisión de la alumna, pues puede consentir y retirar consentimiento con 14 años o más",
+        "Depende de si las fotos son de actividades curriculares",
+        "Debe decidirlo el director del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las personas mayores de 14 años pueden dar y retirar su consentimiento para el tratamiento de sus datos, incluidas fotografías. Aunque los padres dieron consentimiento, la alumna de 15 años puede retirarlo en cualquier momento y debe respetarse su decisión."
+    },
+    {
+      "question": "El ANPA solicita los correos electrónicos de todas las familias para informar de actividades. ¿Puede facilitarse?",
+      "options": [
+        "Sí, porque el ANPA colabora con el centro",
+        "No, sin consentimiento previo de las personas interesadas",
+        "Sí, si el ANPA lo solicita por escrito",
+        "Sí, si las actividades son educativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros no podrán comunicar datos personales del alumnado ni de sus progenitores a las ANPA sin el consentimiento previo de las personas interesadas, salvo que el ANPA sea considerada encargada del tratamiento por prestar un servicio específico contratado."
+    },
+    {
+      "question": "Se graban imágenes de videovigilancia de un robo. ¿Cuánto tiempo pueden conservarse como máximo?",
+      "options": [
+        "10 días en todos los casos",
+        "1 mes, salvo que sean necesarias para acreditar actos contra la integridad",
+        "3 meses",
+        "Indefinidamente por ser prueba de delito"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las imágenes deben eliminarse en el plazo de un mes desde su captación. Únicamente pueden conservarse más tiempo si es necesario para acreditar actos que atenten contra la integridad de personas, bienes o instalaciones, debiéndose poner a disposición de la autoridad en 72 horas."
+    },
+    {
+      "question": "¿En cuánto tiempo deben ponerse las imágenes conservadas de un incidente a disposición de la autoridad competente?",
+      "options": [
+        "24 horas desde conocimiento",
+        "48 horas desde conocimiento",
+        "72 horas desde conocimiento",
+        "1 semana desde conocimiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las imágenes conservadas más allá del plazo normal por ser necesarias para acreditar actos contra la integridad deberán ser puestas a disposición de la autoridad competente en un plazo máximo de 72 horas desde el conocimiento de la existencia de la grabación."
+    },
+    {
+      "question": "Un centro quiere instalar cámaras en los vestuarios del gimnasio por robos. ¿Es correcto?",
+      "options": [
+        "Sí, si hay consentimiento de las familias",
+        "No, no pueden instalarse en vestuarios donde se desarrolla la personalidad",
+        "Sí, si las cámaras no graban, solo están simuladas",
+        "Sí, si se apaga la grabación durante el uso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No pueden instalarse cámaras en aseos, vestuarios, gimnasios y resto de espacios donde las personas usuarias desarrollan la personalidad, independientemente de la finalidad o del consentimiento, para respetar la intimidad y dignidad."
+    },
+    {
+      "question": "¿Cuál es el número mínimo de caracteres recomendado para las contraseñas del sistema de videovigilancia?",
+      "options": [
+        "6 caracteres",
+        "8 caracteres",
+        "10 caracteres",
+        "12 caracteres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las contraseñas de acceso deben ser robustas con un mínimo de 8 caracteres que incluyan mayúsculas, minúsculas, números o caracteres especiales, y deben cambiarse con periodicidad determinada."
+    },
+    {
+      "question": "El centro de origen necesita enviar el expediente del alumno al centro de destino por traslado. ¿Necesita consentimiento?",
+      "options": [
+        "Sí, de las familias o del alumno mayor de edad",
+        "No, puede remitirlo por petición expresa del centro de destino",
+        "Sí, salvo que sea traslado dentro de la misma provincia",
+        "Solo si el expediente contiene datos de salud"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro de origen puede remitir el expediente al centro de destino por petición expresa de este último sin necesidad de recabar el consentimiento, ya que no se considera cesión entre centros públicos dependientes del mismo responsable del tratamiento."
+    },
+    {
+      "question": "Los servicios sociales municipales solicitan información de un menor por posible situación de riesgo. ¿Puede facilitarse?",
+      "options": [
+        "No, necesitan consentimiento de la familia",
+        "Sí, cuando la finalidad sea determinación o tratamiento de situación de riesgo o desamparo",
+        "Solo con orden judicial",
+        "Solo si el menor tiene menos de 12 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Podrán comunicarse datos personales a los servicios sociales municipales cuando la finalidad sea la determinación o tratamiento de situación de riesgo o desamparo, sin necesidad de consentimiento."
+    },
+    {
+      "question": "Un menor de 13 años quiere participar en una actividad que requiere autorización de imagen. ¿Quién debe consentir?",
+      "options": [
+        "El propio menor puede decidir",
+        "Los progenitores o titulares de la patria potestad",
+        "El tutor docente",
+        "El director del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para personas menores de 14 años se requiere el consentimiento de las familias o tutores legales (titulares de la patria potestad) para el tratamiento de datos, incluida la captación de su imagen."
+    },
+    {
+      "question": "Se detecta que un alumno menor pregunta por datos de domicilio de sus padres. ¿Puede proporcionarse a través del menor?",
+      "options": [
+        "Sí, si el menor tiene más de 10 años",
+        "Sí, pero solo los datos de identidad y dirección de los progenitores pueden obtenerse a través del menor",
+        "No, nunca puede preguntarse al menor",
+        "Sí, cualquier dato puede preguntarse al menor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No pueden recabarse datos de los menores que permitan obtener información sobre miembros de la unidad familiar. Cuando sean necesarios deben obtenerse mediante los progenitores, salvo los datos de identidad y dirección de los progenitores que sí pueden obtenerse a través del menor."
+    },
+    {
+      "question": "Una empresa de comedor necesita datos de alergias del alumnado. ¿Qué debe firmarse?",
+      "options": [
+        "Solo factura por el servicio",
+        "Un contrato de encargo del tratamiento entre la Consellería y la empresa",
+        "Autorización de las familias únicamente",
+        "No hace falta nada, es un servicio ordinario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando la empresa contratista (comedor) tenga acceso a datos personales de los que es responsable la Administración educativa, deberá subscribirse un contrato de tratamiento de datos por cuenta de terceras personas (contrato de encargo del tratamiento) firmado por la Secretaría Xeral Técnica da Consellería."
+    },
+    {
+      "question": "¿Pueden publicarse las listas de admitidos en la web pública del centro con DNI completo?",
+      "options": [
+        "Sí, porque es obligación legal publicarlas",
+        "No, deben identificarse con nombre, apellidos y cuatro cifras del DNI/NIE, evitando acceso indiscriminado",
+        "Sí, si se avisa con antelación",
+        "No, no pueden publicarse en ningún formato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando sea necesaria la publicación de actos administrativos con pluralidad de afectados, las personas se identificarán mediante nombre, apellidos y cuatro cifras del DNI/NIE. La publicación debe hacerse evitando que terceras personas no interesadas puedan acceder indiscriminadamente."
+    },
+    {
+      "question": "El centro quiere usar Dropbox para almacenar copias de las imágenes de videovigilancia. ¿Es correcto?",
+      "options": [
+        "Sí, si la cuenta es de pago",
+        "No, no pueden almacenarse en herramientas de nube personal",
+        "Sí, si se cifran previamente",
+        "Sí, si solo accede el director"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No pueden almacenarse las imágenes o las copias de seguridad en herramientas de almacenamiento de nube personal como Dropbox, Google Drive u otros servicios similares, independientemente del cifrado o tipo de cuenta."
+    },
+    {
+      "question": "¿Qué debe hacerse antes de contratar una empresa que instalará cámaras de videovigilancia?",
+      "options": [
+        "Contratar directamente y notificar después",
+        "Comunicar la previsión al DPD con antelación suficiente mediante formulario",
+        "Solo informar al Consello Escolar",
+        "Publicar licitación y adjudicar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La previsión de cada contratación que implique tratamiento de datos deberá ser comunicada con antelación suficiente al Delegado de protección de datos mediante un formulario, para que pueda asesorar sobre la licitud del tratamiento y supervisar el cumplimiento de la normativa."
+    },
+    {
+      "question": "Una persona ejerce su derecho de acceso a sus datos. ¿En qué plazo debe responderse?",
+      "options": [
+        "15 días",
+        "1 mes, prorrogable otros 2 meses",
+        "2 meses en todos los casos",
+        "No hay plazo específico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe responderse a las solicitudes de ejercicio de derechos en el plazo de 1 mes desde la recepción, prorrogable otros 2 meses en caso necesario atendiendo a la complejidad y número de solicitudes."
+    },
+    {
+      "question": "¿Pueden instalarse cámaras en un aula de infantil con niños de 3 años por riesgo para su seguridad?",
+      "options": [
+        "No, nunca pueden instalarse en aulas",
+        "Sí, en circunstancias excepcionales con riesgo previsible y sin otras medidas posibles",
+        "Sí, siempre que lo autoricen todas las familias",
+        "Solo si el personal docente está presente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En circunstancias excepcionales, justificadas por la presencia de un riesgo previsible para la seguridad del menor y sin poder existir otras medidas como el control presencial por personas adultas, pueden usarse videocámaras en espacios donde se desarrolla la personalidad."
+    },
+    {
+      "question": "Una policía solicita masivamente datos de todo el alumnado para una campaña de prevención. ¿Procede facilitarlos?",
+      "options": [
+        "Sí, porque es una campaña educativa",
+        "No, las peticiones masivas y genéricas son incompatibles con los requisitos legales",
+        "Sí, con autorización del director",
+        "Sí, si la campaña es de la DGT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las peticiones masivas y genéricas de datos son incompatibles con los requisitos legales. La solicitud a Fuerzas y Cuerpos de Seguridad debe ser concreta y específica para cada caso particular, debidamente motivada."
+    },
+    {
+      "question": "El centro recibe una petición de datos de un juzgado. ¿Necesita consentimiento de las personas afectadas?",
+      "options": [
+        "Sí, siempre necesita consentimiento",
+        "No, la remisión de expedientes requeridos por órganos judiciales no requiere consentimiento",
+        "Solo si son datos de categorías especiales",
+        "Depende del tipo de procedimiento judicial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es posible la remisión por parte de la administración pública de expedientes y documentos que sean requeridos por los órganos judiciales en el ejercicio de la función jurisdiccional sin necesidad de consentimiento."
+    },
+    {
+      "question": "¿Qué debe incluir el registro de entrada y salida de documentación con imágenes de videovigilancia?",
+      "options": [
+        "Solo fecha y destinatario",
+        "Tipo, fecha y hora, emisor, número, información, forma de envío y destinatario",
+        "Solo el número de documentos",
+        "No es obligatorio llevar registro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sistema de registro debe recoger: tipo de documento o soporte, fecha y hora, emisor, número de documentos o soportes incluidos en el envío, tipo de información que contienen, forma de envío y destinatario."
+    },
+    {
+      "question": "Una alumna de 16 años solicita que se eliminen sus datos del expediente. ¿Procede?",
+      "options": [
+        "Sí, debe eliminarse todo inmediatamente",
+        "No, el derecho de supresión tiene limitaciones cuando es necesario para el cumplimiento de una obligación legal",
+        "Sí, si sus padres también lo solicitan",
+        "Depende de sus calificaciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El derecho de supresión no es absoluto y tiene limitaciones. No procede cuando el tratamiento es necesario para el cumplimiento de una obligación legal (como la conservación de expedientes académicos) o para el cumplimiento de una misión en interés público."
+    },
+    {
+      "question": "¿Dónde deben estar los monitores del sistema de videovigilancia?",
+      "options": [
+        "En cualquier lugar visible del centro",
+        "En lugares cerrados y solo accesibles al personal autorizado",
+        "En la sala de profesores",
+        "En secretaría visible para todos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los lugares donde estén los monitores o los centros de control deben permanecer cerrados y solo accesibles al personal autorizado, para garantizar la confidencialidad de las imágenes."
+    },
+    {
+      "question": "Un padre solicita ver las imágenes de videovigilancia donde aparece su hijo menor. ¿Puede acceder?",
+      "options": [
+        "Sí, automáticamente por ser el padre",
+        "Puede ejercitar el derecho de acceso, pero está sujeto a ponderación con derechos de otros que aparezcan",
+        "No, nunca puede acceder a las imágenes",
+        "Solo si hay una denuncia presentada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los progenitores pueden ejercitar los derechos en nombre de sus hijos menores, incluido el derecho de acceso a las imágenes. Sin embargo, debe ponderarse con los derechos de otras personas que puedan aparecer en las imágenes, pudiendo ser necesario editar las imágenes antes de facilitarlas."
+    },
+    {
+      "question": "¿Pueden las cámaras estar instaladas al alcance de la mano en un pasillo?",
+      "options": [
+        "Sí, si están bien sujetas",
+        "No, deben estar protegidas ante manipulaciones, no en puntos de fácil acceso ni al alcance",
+        "Sí, si hay también un cartel informativo",
+        "Depende de la altura del pasillo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las cámaras deben estar debidamente protegidas ante manipulaciones físicas, no instaladas en puntos de fácil acceso ni al alcance de la mano para evitar sabotajes o manipulaciones."
+    },
+    {
+      "question": "El centro quiere grabar el audio además del vídeo para seguridad. ¿Cuándo es posible?",
+      "options": [
+        "Siempre que se grabe vídeo puede grabarse audio",
+        "Únicamente cuando resulten relevantes los riesgos para la seguridad de las instalaciones y bienes",
+        "Nunca puede grabarse audio",
+        "Solo en horario nocturno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los sistemas para la grabación de sons únicamente pueden utilizarse cuando resulten relevantes los riesgos para la seguridad de las instalaciones y bienes del centro educativo, siendo una medida más intrusiva que requiere justificación adicional."
+    },
+    {
+      "question": "¿Qué debe hacerse con las credenciales predeterminadas (usuario: admin, contraseña: admin) de las cámaras nuevas?",
+      "options": [
+        "Mantenerlas porque son seguras",
+        "Cambiarlas antes de poner los dispositivos en servicio",
+        "Solo cambiarlas si alguien las descubre",
+        "Cambiarlas después de 6 meses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deben cambiarse las credenciales predeterminadas antes de poner los dispositivos en servicio, estableciendo contraseñas robustas (mínimo 8 caracteres con mayúsculas, minúsculas, números o caracteres especiales)."
+    },
+    {
+      "question": "Una fotografía tomada en el festival del centro será usada en un cartel publicitario de actividades. ¿Qué base legitimadora se requiere?",
+      "options": [
+        "Cumplimiento de misión en interés público",
+        "Consentimiento de los afectados (menores 14 años: padres; mayores 14: propio alumnado)",
+        "Relación contractual",
+        "No se requiere base legitimadora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La captación de imágenes que no obedecen a la función educativa o orientadora (festividades para difusión de actividades) requiere consentimiento: en menores de 14 años de los padres y en mayores de 14 años del propio alumnado."
+    },
+    {
+      "question": "El centro tiene fotografías de una graduación del curso pasado en la web. ¿Debe hacer algo?",
+      "options": [
+        "Mantenerlas indefinidamente como archivo histórico",
+        "Suprimir las imágenes una vez que dejen de tener relevancia",
+        "Mantenerlas exactamente 5 años",
+        "Solo eliminarlas si alguien lo solicita"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se recomienda suprimir las imágenes una vez que dejen de tener relevancia, aplicando el principio de limitación del plazo de conservación. Las imágenes de eventos pasados que ya no tienen relevancia actual deberían eliminarse."
+    },
+    {
+      "question": "¿En qué lugares NO deben captarse imágenes aunque haya consentimiento?",
+      "options": [
+        "En ningún lugar hay restricciones si hay consentimiento",
+        "En aseos, comedores, vestuarios o circunstancias que puedan comprometer la intimidad",
+        "Solo en aseos",
+        "Solo en lugares privados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No deben captarse imágenes en lugares o circunstancias que puedan comprometer o resultar lesivas para la intimidad, dignidad, honor o buena imagen de las personas, como aseos, comedores o vestuarios, independientemente del consentimiento."
+    },
+    {
+      "question": "Un profesor toma fotos del alumnado trabajando en clase para evaluar su trabajo. ¿Necesita consentimiento?",
+      "options": [
+        "Sí, siempre necesita consentimiento para fotografías",
+        "No, las grabaciones con fines educativos para trabajos escolares o evaluaciones están legitimadas",
+        "Solo necesita consentimiento si son menores de 14 años",
+        "Solo si publica las fotos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las fotografías del alumnado para su identificación en el expediente o para ayudarles a identificar su material, y las grabaciones con fines educativos (trabajos escolares o evaluaciones) son tratamientos legitimados sin necesidad de consentimiento."
+    },
+    {
+      "question": "¿Debe informarse al personal no docente (limpieza, conserjería) del deber de confidencialidad sobre datos?",
+      "options": [
+        "No, solo afecta al profesorado",
+        "Sí, todas las personas que intervengan en cualquier fase del tratamiento están sujetas al deber de confidencialidad",
+        "Solo si tienen acceso a ordenadores",
+        "Solo al personal fijo, no al temporal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de integridad y confidencialidad establece que las personas responsables, encargadas y todas las que intervengan en cualquier fase del tratamiento estarán sujetas al deber de confidencialidad, incluyendo personal no docente."
+    },
+    {
+      "question": "Una empresa contratada de mantenimiento necesita acceder al centro. ¿Qué debe incluirse en su contrato?",
+      "options": [
+        "Solo las especificaciones técnicas",
+        "Cláusula de prohibición de acceso a datos personales y obligación de secreto",
+        "Autorización para fotografiar",
+        "Nada especial sobre datos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En contratos de servicios que implican acceso a instalaciones aunque no traten datos directamente (obras, mantenimientos, limpieza), debe incluirse una cláusula de prohibición de acceder a datos personales y obligación de secreto sobre los que pudieran conocer."
+    },
+    {
+      "question": "¿Pueden autorizarse el acceso de la empresa contratista a los ficheros de la Consellería para facilitar su trabajo?",
+      "options": [
+        "Sí, si firman confidencialidad",
+        "No, en ningún caso; se les comunicarán de modo seguro los datos estrictamente necesarios",
+        "Sí, con acceso restringido",
+        "Solo en horario laboral del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En ningún caso se debe autorizar el acceso de ninguna empresa o entidad a los ficheros o sistemas de datos titularidad de la Consellería. En su lugar, se comunicarán de modo seguro los datos estrictamente necesarios para la prestación del servicio."
+    },
+    {
+      "question": "¿Qué ocurre con el deber de confidencialidad cuando una persona deja de trabajar en el centro?",
+      "options": [
+        "Finaliza al terminar la relación laboral",
+        "Permanece incluso después de finalizar la relación",
+        "Solo permanece 2 años más",
+        "Depende del tipo de contrato que tuviera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El deber de confidencialidad respecto a los datos tratados permanece incluso después de finalizar la relación laboral o contractual con el responsable o encargado del tratamiento, siendo una obligación permanente."
+    },
+    {
+      "question": "Se detecta una brecha de seguridad con acceso no autorizado a datos de 500 alumnos. ¿Qué plazo hay para notificar a la autoridad de control?",
+      "options": [
+        "24 horas",
+        "72 horas",
+        "7 días",
+        "No es obligatorio notificar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las violaciones de seguridad deben notificarse a la autoridad de control (AEPD) en un plazo de 72 horas desde que se tuvo conocimiento, salvo que sea improbable que entrañe riesgo para los derechos de los afectados. Debe notificarse primero al DPD."
+    },
+    {
+      "question": "El centro instala control de acceso por huella dactilar del profesorado. ¿Qué tipo de datos se tratan?",
+      "options": [
+        "Datos personales ordinarios",
+        "Datos biométricos, que son categoría especial de datos",
+        "Datos laborales sin protección especial",
+        "No son datos personales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los datos biométricos destinados a identificar de manera unívoca a una persona física son categoría especial de datos según el artículo 9.1 del RXPD, requiriendo una base legitimadora específica y protección especial."
+    },
+    {
+      "question": "¿Qué debe verificarse antes de que una empresa subcontrate parte del servicio de tratamiento de datos?",
+      "options": [
+        "Nada, puede subcontratar libremente",
+        "Debe estar previsto en el contrato de encargo o ser autorizado individualmente por el responsable",
+        "Solo necesita informar después de subcontratar",
+        "Solo si el subcontratista es extranjero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La posibilidad de subcontratación de parte de la prestación de los servicios con terceras personas debe estar prevista en el propio contrato de encargo del tratamiento o ser autorizada de modo individual por la persona responsable."
+    },
+    {
+      "question": "¿Pueden enviarse imágenes de videovigilancia por WhatsApp al director?",
+      "options": [
+        "Sí, si es urgente",
+        "No, no deben utilizarse sistemas que envíen imágenes fuera del centro por Internet sin protección adecuada",
+        "Sí, si se elimina después",
+        "Solo si es WhatsApp Business"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No deben utilizarse sistemas que envíen imágenes fuera del centro a través de Internet. En caso contrario, las imágenes deben estar debidamente protegidas mediante cifrado u otras medidas de seguridad, lo que no se cumple con aplicaciones como WhatsApp."
+    },
+    {
+      "question": "¿Qué debe hacer un centro público que quiere contratar una herramienta de gestión que ya proporciona la Consellería?",
+      "options": [
+        "Contratar la que prefiera",
+        "No debe contratarla si la Administración ya proporciona una con iguales o similares funcionalidades",
+        "Contratar si es más moderna",
+        "Puede contratar ambas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No se deberán contratar herramientas informáticas para finalidades para las que la Administración educativa ya las proporciona con las mismas o similares funcionalidades, evitando duplicidades y garantizando el uso de herramientas homologadas."
+    }
+  ]
+}

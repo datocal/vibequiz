@@ -3,6 +3,7 @@
   "description": "Evaluación exhaustiva sobre la atención educativa al alumnado con discapacidad auditiva en Galicia. Incluye conceptos, clasificaciones, ayudas técnicas, sistemas de comunicación, detección, necesidades educativas y medidas de intervención.",
   "category": "protocolos",
   "difficulty": "hard",
+  "icon": "👂",
   "questions": [
     {
       "question": "¿Entre qué rangos de decibelios se sitúa la mayoría de las conversaciones según el protocolo?",

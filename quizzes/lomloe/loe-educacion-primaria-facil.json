@@ -1,0 +1,548 @@
+{
+  "title": "LOE - Educación Primaria (Nivel Fácil)",
+  "description": "Test básico sobre la regulación de la Educación Primaria en la Ley Orgánica de Educación (LOE). Conceptos fundamentales y principios generales.",
+  "category": "legislacion",
+  "icon": "📚",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "¿Cuántos cursos académicos comprende la etapa de educación primaria?",
+      "options": [
+        "Seis cursos académicos",
+        "Cuatro cursos académicos",
+        "Cinco cursos académicos",
+        "Ocho cursos académicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 16.1 de la LOE, la educación primaria comprende seis cursos académicos."
+    },
+    {
+      "question": "¿Entre qué edades se cursa ordinariamente la educación primaria?",
+      "options": [
+        "Entre los seis y los doce años",
+        "Entre los cinco y los once años",
+        "Entre los siete y los trece años",
+        "Entre los seis y los once años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.1 establece que la educación primaria se cursa ordinariamente entre los seis y los doce años de edad."
+    },
+    {
+      "question": "¿Cuántos ciclos comprende la etapa de educación primaria?",
+      "options": [
+        "Tres ciclos de dos años cada uno",
+        "Dos ciclos de tres años cada uno",
+        "Cuatro ciclos de año y medio cada uno",
+        "Seis ciclos de un año cada uno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 18.1, la etapa de educación primaria comprende tres ciclos de dos años académicos cada uno."
+    },
+    {
+      "question": "¿Cómo se organiza la educación primaria?",
+      "options": [
+        "En áreas",
+        "En asignaturas",
+        "En módulos",
+        "En bloques"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.1 establece que la educación primaria se organiza en áreas, que tendrán un carácter global e integrador."
+    },
+    {
+      "question": "¿Qué carácter tienen las áreas de educación primaria?",
+      "options": [
+        "Global e integrador",
+        "Específico y diferenciado",
+        "Teórico y práctico",
+        "Obligatorio y optativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 18.1, las áreas tendrán un carácter global e integrador y estarán orientadas al desarrollo de las competencias del alumnado."
+    },
+    {
+      "question": "¿Cuál es una de las finalidades de la Educación Primaria relacionada con la lectura?",
+      "options": [
+        "Facilitar los aprendizajes de la lectura",
+        "Evaluar la velocidad lectora",
+        "Memorizar textos literarios",
+        "Clasificar géneros literarios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.2 establece que la finalidad incluye facilitar los aprendizajes de la lectura, junto con la escritura y expresión oral."
+    },
+    {
+      "question": "¿Qué área incluye contenidos sobre la Constitución española?",
+      "options": [
+        "Educación en Valores cívicos y éticos",
+        "Conocimiento del Medio",
+        "Lengua Castellana",
+        "Educación Física"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 18.3, en el área de Educación en Valores cívicos y éticos se incluyen contenidos referidos a la Constitución española."
+    },
+    {
+      "question": "¿En qué ciclo se añade la Educación en Valores cívicos y éticos?",
+      "options": [
+        "En alguno de los cursos del tercer ciclo",
+        "En el primer ciclo",
+        "En el segundo ciclo",
+        "En todos los ciclos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.3 establece que se añadirá en alguno de los cursos del tercer ciclo la Educación en Valores cívicos y éticos."
+    },
+    {
+      "question": "¿Qué tipo de evaluación se realiza en educación primaria?",
+      "options": [
+        "Continua y global",
+        "Final y específica",
+        "Trimestral y parcial",
+        "Mensual y detallada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.1 establece que la evaluación del alumnado será continua y global y tendrá en cuenta su progreso en el conjunto de los procesos de aprendizaje."
+    },
+    {
+      "question": "¿En qué curso se realiza la evaluación de diagnóstico en educación primaria?",
+      "options": [
+        "En el cuarto curso",
+        "En el primer curso",
+        "En el sexto curso",
+        "En el tercer curso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 21, en el cuarto curso de educación primaria todos los centros realizarán una evaluación de diagnóstico."
+    },
+    {
+      "question": "¿Qué carácter tiene la evaluación de diagnóstico?",
+      "options": [
+        "Informativo, formativo y orientador",
+        "Selectivo y clasificatorio",
+        "Obligatorio y vinculante",
+        "Competitivo y eliminatorio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece que la evaluación de diagnóstico tendrá carácter informativo, formativo y orientador para los centros, profesorado, alumnado y familias."
+    },
+    {
+      "question": "¿Cuál es una de las áreas de la educación primaria relacionada con el movimiento?",
+      "options": [
+        "Educación Física",
+        "Educación Deportiva",
+        "Actividad Motriz",
+        "Desarrollo Corporal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 18.2, Educación Física es una de las áreas que componen la etapa de educación primaria."
+    },
+    {
+      "question": "¿Qué área puede desdoblarse en Ciencias de la Naturaleza y Ciencias Sociales?",
+      "options": [
+        "Conocimiento del Medio natural, social y cultural",
+        "Educación Artística",
+        "Matemáticas",
+        "Lengua Extranjera"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.2 establece que el Conocimiento del Medio natural, social y cultural se podrá desdoblar en Ciencias de la Naturaleza y Ciencias Sociales."
+    },
+    {
+      "question": "¿Qué área puede desdoblarse en Educación Plástica y Visual, y Música y Danza?",
+      "options": [
+        "Educación Artística",
+        "Conocimiento del Medio",
+        "Educación Física",
+        "Lengua Castellana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 18.2, Educación Artística se podrá desdoblar en Educación Plástica y Visual, por una parte, y Música y Danza, por otra."
+    },
+    {
+      "question": "¿Cuál es una de las áreas obligatorias en educación primaria?",
+      "options": [
+        "Matemáticas",
+        "Informática",
+        "Filosofía",
+        "Tecnología"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.2 enumera las áreas de la etapa, entre las que se encuentra Matemáticas como área obligatoria."
+    },
+    {
+      "question": "¿Qué lengua se incluye como área en comunidades con lengua cooficial?",
+      "options": [
+        "Lengua propia y Literatura",
+        "Segunda Lengua Extranjera",
+        "Latín",
+        "Lenguaje de signos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.2 incluye Lengua Castellana y Literatura y, si la hubiere, Lengua propia y Literatura."
+    },
+    {
+      "question": "¿Cuántas veces puede un alumno permanecer un año más en el mismo curso durante la etapa de primaria?",
+      "options": [
+        "Una vez durante la etapa",
+        "Dos veces durante la etapa",
+        "Una vez por ciclo",
+        "Tres veces durante la etapa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.3 establece que esta decisión solo se podrá adoptar una vez durante la etapa y tendrá carácter excepcional."
+    },
+    {
+      "question": "¿Qué documento emite el tutor al finalizar cada ciclo?",
+      "options": [
+        "Un informe sobre el grado de adquisición de las competencias",
+        "Un certificado de estudios",
+        "Un boletín de calificaciones",
+        "Un diploma de aprovechamiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 20.3, al finalizar cada ciclo el tutor emitirá un informe sobre el grado de adquisición de las competencias de cada alumno."
+    },
+    {
+      "question": "¿Qué objetivo busca la educación primaria respecto al desarrollo del alumnado?",
+      "options": [
+        "Garantizar una formación integral",
+        "Especialización temprana",
+        "Selección de talento",
+        "Clasificación por capacidades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.2 establece que la finalidad es garantizar una formación integral que contribuya al pleno desarrollo de la personalidad de los alumnos."
+    },
+    {
+      "question": "¿Qué debe acompañar el proceso educativo en educación primaria?",
+      "options": [
+        "La orientación y la acción tutorial",
+        "Las pruebas estandarizadas",
+        "Los exámenes externos",
+        "Las evaluaciones internacionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 18.6, la orientación y la acción tutorial acompañarán el proceso educativo individual y colectivo del alumnado."
+    },
+    {
+      "question": "¿Qué se fomentará especialmente en la etapa de primaria?",
+      "options": [
+        "El respeto mutuo y la cooperación entre iguales",
+        "La competitividad individual",
+        "La memorización de contenidos",
+        "La clasificación por rendimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.6 establece que se fomentará el respeto mutuo y la cooperación entre iguales, con especial atención a la igualdad de género."
+    },
+    {
+      "question": "¿Qué prepara la educación primaria al alumnado?",
+      "options": [
+        "Para cursar con aprovechamiento la Educación Secundaria Obligatoria",
+        "Para incorporarse al mundo laboral",
+        "Para realizar estudios universitarios",
+        "Para acceder a formación profesional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.2 establece que la finalidad incluye prepararlos para cursar con aprovechamiento la Educación Secundaria Obligatoria."
+    },
+    {
+      "question": "¿Qué perspectiva debe tener la acción educativa en primaria?",
+      "options": [
+        "Una perspectiva global",
+        "Una perspectiva específica",
+        "Una perspectiva selectiva",
+        "Una perspectiva competitiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 16.3, la acción educativa procurará la integración de las distintas experiencias y aprendizajes con una perspectiva global."
+    },
+    {
+      "question": "¿A qué se adaptará la acción educativa en primaria?",
+      "options": [
+        "A los ritmos de trabajo del alumnado",
+        "A los horarios administrativos",
+        "A las evaluaciones externas",
+        "A los calendarios oficiales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.3 establece que la acción educativa se adaptará a los ritmos de trabajo del alumnado."
+    },
+    {
+      "question": "¿Qué debe desarrollar el alumnado según los objetivos de primaria relacionado con el trabajo?",
+      "options": [
+        "Hábitos de trabajo individual y de equipo",
+        "Técnicas de memorización",
+        "Capacidades físicas",
+        "Destrezas manuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.b establece que la educación primaria contribuirá a desarrollar hábitos de trabajo individual y de equipo, de esfuerzo y responsabilidad."
+    },
+    {
+      "question": "¿Qué tipo de habilidades deben adquirir los alumnos según los objetivos de primaria?",
+      "options": [
+        "Habilidades para la resolución pacífica de conflictos",
+        "Habilidades para la competición",
+        "Habilidades para el liderazgo",
+        "Habilidades para el debate formal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.c establece como objetivo adquirir habilidades para la resolución pacífica de conflictos y la prevención de la violencia."
+    },
+    {
+      "question": "¿Qué deben conocer y respetar los alumnos según los objetivos de primaria?",
+      "options": [
+        "Las diferentes culturas y las diferencias entre las personas",
+        "Las normas de protocolo",
+        "Las jerarquías sociales",
+        "Las clasificaciones académicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.d establece como objetivo conocer, comprender y respetar las diferentes culturas y las diferencias entre las personas."
+    },
+    {
+      "question": "¿Qué competencia deben adquirir en lengua extranjera?",
+      "options": [
+        "La competencia comunicativa básica",
+        "La competencia avanzada",
+        "La competencia profesional",
+        "La competencia académica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.f establece que deben adquirir en al menos una lengua extranjera la competencia comunicativa básica."
+    },
+    {
+      "question": "¿En cuántas lenguas extranjeras se debe adquirir competencia comunicativa según los objetivos básicos?",
+      "options": [
+        "Al menos una lengua extranjera",
+        "Dos lenguas extranjeras",
+        "Tres lenguas extranjeras",
+        "Ninguna es obligatoria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.f menciona que deben adquirir en al menos una lengua extranjera la competencia comunicativa básica."
+    },
+    {
+      "question": "¿Qué competencias matemáticas deben desarrollar?",
+      "options": [
+        "Competencias matemáticas básicas",
+        "Competencias matemáticas avanzadas",
+        "Competencias matemáticas profesionales",
+        "Competencias matemáticas universitarias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.g establece desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas."
+    },
+    {
+      "question": "¿Qué deben conocer los alumnos de las Ciencias?",
+      "options": [
+        "Los aspectos fundamentales",
+        "Los aspectos especializados",
+        "Los aspectos teóricos avanzados",
+        "Los aspectos experimentales complejos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.h establece conocer los aspectos fundamentales de las Ciencias de la Naturaleza, las Ciencias Sociales, la Geografía, la Historia y la Cultura."
+    },
+    {
+      "question": "¿Qué competencias tecnológicas deben desarrollar?",
+      "options": [
+        "Competencias tecnológicas básicas",
+        "Competencias tecnológicas avanzadas",
+        "Competencias tecnológicas profesionales",
+        "Competencias tecnológicas especializadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.i menciona desarrollar las competencias tecnológicas básicas e iniciarse en su utilización para el aprendizaje."
+    },
+    {
+      "question": "¿Qué deben utilizar los alumnos como medios para favorecer el desarrollo personal?",
+      "options": [
+        "La educación física, el deporte y la alimentación",
+        "Los videojuegos y la tecnología",
+        "Los libros y las bibliotecas",
+        "Las redes sociales y el internet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.k establece utilizar la educación física, el deporte y la alimentación como medios para favorecer el desarrollo personal y social."
+    },
+    {
+      "question": "¿Qué deben desarrollar en sus relaciones con los demás?",
+      "options": [
+        "Sus capacidades afectivas",
+        "Sus capacidades competitivas",
+        "Sus capacidades críticas",
+        "Sus capacidades analíticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.m establece desarrollar sus capacidades afectivas en todos los ámbitos de la personalidad y en sus relaciones con los demás."
+    },
+    {
+      "question": "¿Qué actitud se debe desarrollar respecto a la violencia?",
+      "options": [
+        "Una actitud contraria",
+        "Una actitud neutral",
+        "Una actitud de comprensión",
+        "Una actitud de análisis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.m establece desarrollar una actitud contraria a la violencia, a los prejuicios de cualquier tipo y a los estereotipos sexistas."
+    },
+    {
+      "question": "¿Qué hábitos cotidianos se deben desarrollar según los objetivos?",
+      "options": [
+        "Hábitos de movilidad activa autónoma saludable",
+        "Hábitos de estudio nocturno",
+        "Hábitos de lectura rápida",
+        "Hábitos de competición deportiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.n establece desarrollar hábitos cotidianos de movilidad activa autónoma saludable, fomentando la educación vial."
+    },
+    {
+      "question": "¿En qué se pondrá especial énfasis en la etapa de primaria?",
+      "options": [
+        "En garantizar la inclusión educativa",
+        "En la selección del alumnado",
+        "En la clasificación por niveles",
+        "En la competición académica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.1 establece que se pondrá especial énfasis en garantizar la inclusión educativa y la atención personalizada al alumnado."
+    },
+    {
+      "question": "¿Qué se debe prevenir según los principios pedagógicos?",
+      "options": [
+        "Las dificultades de aprendizaje",
+        "El absentismo escolar",
+        "La falta de material",
+        "Los problemas administrativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.1 menciona la prevención de las dificultades de aprendizaje como uno de los aspectos en los que se pondrá especial énfasis."
+    },
+    {
+      "question": "¿Qué se trabajará en todas las áreas de primaria?",
+      "options": [
+        "La comprensión lectora y la expresión oral y escrita",
+        "Las matemáticas avanzadas",
+        "La programación informática",
+        "Los idiomas extranjeros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 establece que la comprensión lectora, la expresión oral y escrita se trabajarán en todas las áreas."
+    },
+    {
+      "question": "¿Qué competencia se trabajará en todas las áreas además de la comprensión lectora?",
+      "options": [
+        "La competencia digital",
+        "La competencia deportiva",
+        "La competencia musical",
+        "La competencia administrativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 19.2, la competencia digital se trabajará en todas las áreas, junto con otros elementos transversales."
+    },
+    {
+      "question": "¿Qué educación se trabajará en todas las áreas relacionada con la igualdad?",
+      "options": [
+        "La igualdad de género",
+        "La igualdad económica",
+        "La igualdad académica",
+        "La igualdad regional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 establece que se trabajará la igualdad de género en todas las áreas de la etapa."
+    },
+    {
+      "question": "¿Qué educación para el consumo se trabajará en todas las áreas?",
+      "options": [
+        "Educación para el consumo responsable",
+        "Educación para el consumo máximo",
+        "Educación para el consumo competitivo",
+        "Educación para el consumo individual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 menciona la educación para el consumo responsable y el desarrollo sostenible como elementos transversales."
+    },
+    {
+      "question": "¿Qué tipo de educación emocional se potenciará?",
+      "options": [
+        "La educación emocional y en valores",
+        "La educación emocional competitiva",
+        "La educación emocional selectiva",
+        "La educación emocional individual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 establece que se pondrá especial atención a la educación emocional y en valores."
+    },
+    {
+      "question": "¿Qué deben dedicar los centros educativos diariamente?",
+      "options": [
+        "Un tiempo a la lectura",
+        "Un tiempo a los exámenes",
+        "Un tiempo a la educación física",
+        "Un tiempo a las tutorías"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 19.3, todos los centros educativos dedicarán un tiempo diario a la lectura, en los términos recogidos en su proyecto educativo."
+    },
+    {
+      "question": "¿Qué promoverán las Administraciones educativas para fomentar la lectura?",
+      "options": [
+        "Planes de fomento de la lectura",
+        "Exámenes de velocidad lectora",
+        "Concursos de memorización",
+        "Clasificaciones por rendimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.3 establece que las Administraciones educativas promoverán planes de fomento de la lectura y de alfabetización."
+    },
+    {
+      "question": "¿Qué se dedicará del horario lectivo para fomentar la integración de competencias?",
+      "options": [
+        "Un tiempo a proyectos significativos y resolución colaborativa de problemas",
+        "Un tiempo a evaluaciones continuas",
+        "Un tiempo a clases magistrales",
+        "Un tiempo a ejercicios individuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.4 establece dedicar un tiempo del horario lectivo a la realización de proyectos significativos y a la resolución colaborativa de problemas."
+    },
+    {
+      "question": "¿Qué impulsarán las Administraciones educativas en los centros?",
+      "options": [
+        "Medidas de flexibilización en la organización",
+        "Normas rígidas de evaluación",
+        "Sistemas de clasificación estrictos",
+        "Procedimientos uniformes obligatorios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 19.5, las Administraciones educativas impulsarán que los centros establezcan medidas de flexibilización en la organización de áreas, enseñanzas, espacios y tiempos."
+    },
+    {
+      "question": "¿Para quién se establecerán medidas de flexibilización en lengua extranjera?",
+      "options": [
+        "Para el alumnado con necesidad específica de apoyo educativo",
+        "Para el alumnado de alto rendimiento",
+        "Para el alumnado bilingüe",
+        "Para el alumnado de intercambio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.6 establece medidas de flexibilización y alternativas metodológicas en lengua extranjera para el alumnado con necesidad específica de apoyo educativo."
+    },
+    {
+      "question": "¿Qué pueden elaborar los centros docentes según las Administraciones educativas?",
+      "options": [
+        "Planes de refuerzo o de enriquecimiento curricular",
+        "Exámenes estandarizados obligatorios",
+        "Clasificaciones por capacidades",
+        "Sistemas de selección temprana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.2 establece que las Administraciones desarrollarán orientaciones para que los centros elaboren planes de refuerzo o de enriquecimiento curricular."
+    }
+  ]
+}

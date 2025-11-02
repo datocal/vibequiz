@@ -1,0 +1,537 @@
+{
+  "title": "LOE - Educación Primaria Avanzado II",
+  "description": "Test avanzado II sobre Educación Primaria en la LOE. Enfocado en evaluación, adaptaciones curriculares, medidas de apoyo y aspectos específicos de la normativa.",
+  "category": "legislacion",
+  "icon": "📚",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué colaboración menciona el artículo 19.3 para los planes de fomento de la lectura?",
+      "options": [
+        "La colaboración de las familias y del voluntariado",
+        "La colaboración de bibliotecas y editoriales",
+        "La colaboración de autores y libreros",
+        "La colaboración de instituciones culturales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.3 establece 'se contará, en su caso, con la colaboración de las familias y del voluntariado' para los planes de fomento de la lectura."
+    },
+    {
+      "question": "Según el artículo 19.3, ¿qué se menciona además de la colaboración?",
+      "options": [
+        "El intercambio de buenas prácticas",
+        "La evaluación de resultados",
+        "La formación del profesorado",
+        "La dotación de recursos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.3 menciona 'así como el intercambio de buenas prácticas' junto con la colaboración de familias y voluntariado."
+    },
+    {
+      "question": "¿Qué tipo de proyectos menciona el artículo 19.4?",
+      "options": [
+        "Proyectos significativos para el alumnado",
+        "Proyectos interdisciplinares",
+        "Proyectos de innovación educativa",
+        "Proyectos de investigación escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.4 establece 'se dedicará un tiempo del horario lectivo a la realización de proyectos significativos para el alumnado'."
+    },
+    {
+      "question": "Según el artículo 19.4, ¿qué tipo de resolución de problemas se menciona?",
+      "options": [
+        "Resolución colaborativa de problemas",
+        "Resolución individual de problemas",
+        "Resolución creativa de problemas",
+        "Resolución práctica de problemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.4 menciona específicamente 'la resolución colaborativa de problemas' como actividad del horario lectivo."
+    },
+    {
+      "question": "¿Qué aspectos reforzarán los proyectos según el artículo 19.4?",
+      "options": [
+        "La autoestima, la autonomía, la reflexión y la responsabilidad",
+        "La creatividad, la innovación y el emprendimiento",
+        "La colaboración, la comunicación y el trabajo en equipo",
+        "El pensamiento crítico, la resolución de problemas y la toma de decisiones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.4 establece que los proyectos y resolución colaborativa 'reforzando la autoestima, la autonomía, la reflexión y la responsabilidad'."
+    },
+    {
+      "question": "Según el artículo 19.5, ¿qué impulsarán las Administraciones en los centros?",
+      "options": [
+        "Medidas de flexibilización en áreas, enseñanzas, espacios y tiempos",
+        "Programas de innovación metodológica",
+        "Sistemas de evaluación formativa",
+        "Proyectos de mejora educativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.5 establece que 'impulsarán que los centros establezcan medidas de flexibilización en la organización de las áreas, las enseñanzas, los espacios y los tiempos'."
+    },
+    {
+      "question": "¿Con qué finalidad se establecen las medidas de flexibilización según el artículo 19.5?",
+      "options": [
+        "Para personalizar y mejorar la capacidad de aprendizaje y los resultados",
+        "Para adaptar la enseñanza a las necesidades del alumnado",
+        "Para optimizar los recursos y el tiempo escolar",
+        "Para diversificar las metodologías de enseñanza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.5 establece que las alternativas metodológicas son 'a fin de personalizar y mejorar la capacidad de aprendizaje y los resultados de todo el alumnado'."
+    },
+    {
+      "question": "Según el artículo 19.6, ¿para qué alumnado se establecen medidas en lengua extranjera?",
+      "options": [
+        "Para el alumnado con necesidad específica de apoyo educativo",
+        "Para el alumnado con dificultades de aprendizaje",
+        "Para el alumnado con discapacidad",
+        "Para el alumnado de incorporación tardía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.6 menciona 'para el alumnado con necesidad específica de apoyo educativo, en especial para aquel que presente dificultades en su comprensión y expresión'."
+    },
+    {
+      "question": "¿Cómo se utilizarán las lenguas oficiales en lengua extranjera según el artículo 19.6?",
+      "options": [
+        "Solo como apoyo en el proceso de aprendizaje",
+        "Como lengua vehicular principal",
+        "De forma alternativa con la lengua extranjera",
+        "Para explicar contenidos complejos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.6 establece claramente que 'las lenguas oficiales se utilizarán solo como apoyo en el proceso de aprendizaje de la lengua extranjera'."
+    },
+    {
+      "question": "¿Qué características tiene la evaluación según el artículo 20.1?",
+      "options": [
+        "Continua y global",
+        "Formativa y sumativa",
+        "Diagnóstica y criterial",
+        "Objetiva y sistemática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.1 establece que 'la evaluación del alumnado será continua y global'."
+    },
+    {
+      "question": "¿Qué tendrá en cuenta la evaluación según el artículo 20.1?",
+      "options": [
+        "Su progreso en el conjunto de los procesos de aprendizaje",
+        "Los resultados de las pruebas de evaluación",
+        "El grado de consecución de los objetivos",
+        "El nivel de adquisición de contenidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.1 establece que la evaluación 'tendrá en cuenta su progreso en el conjunto de los procesos de aprendizaje'."
+    },
+    {
+      "question": "¿Qué tipo de planes menciona el artículo 20.2?",
+      "options": [
+        "Planes de refuerzo o de enriquecimiento curricular",
+        "Planes de apoyo y recuperación",
+        "Planes individualizados de aprendizaje",
+        "Planes de mejora y ampliación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.2 establece que los centros elaborarán 'planes de refuerzo o de enriquecimiento curricular'."
+    },
+    {
+      "question": "¿Qué permitirán los planes del artículo 20.2?",
+      "options": [
+        "Mejorar el nivel competencial del alumnado que lo requiera",
+        "Alcanzar los objetivos mínimos de la etapa",
+        "Superar las dificultades de aprendizaje detectadas",
+        "Desarrollar las capacidades del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.2 establece que los planes 'permitan mejorar el nivel competencial del alumnado que lo requiera'."
+    },
+    {
+      "question": "¿Qué emitirá el tutor al finalizar cada ciclo según el artículo 20.3?",
+      "options": [
+        "Un informe sobre el grado de adquisición de las competencias",
+        "Un informe de evaluación del alumno",
+        "Un documento de progreso académico",
+        "Un certificado de superación del ciclo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.3 establece que 'el tutor o tutora emitirá un informe sobre el grado de adquisición de las competencias de cada alumno o alumna'."
+    },
+    {
+      "question": "¿Qué indicará el informe del tutor según el artículo 20.3?",
+      "options": [
+        "Las medidas de refuerzo que se deben contemplar en el ciclo o etapa siguiente",
+        "Los objetivos conseguidos y pendientes",
+        "Las áreas con dificultades detectadas",
+        "Las recomendaciones para la familia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.3 establece que el informe indicará 'en su caso las medidas de refuerzo que se deben contemplar en el ciclo o etapa siguiente'."
+    },
+    {
+      "question": "Según el artículo 20.3, ¿qué debe aplicarse antes de considerar la permanencia?",
+      "options": [
+        "Las medidas ordinarias suficientes, adecuadas y personalizadas",
+        "Los programas de refuerzo y apoyo",
+        "Las adaptaciones curriculares necesarias",
+        "Los planes individualizados de intervención"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.3 establece que debe considerarse 'tras haber aplicado las medidas ordinarias suficientes, adecuadas y personalizadas para atender el desfase curricular'."
+    },
+    {
+      "question": "¿Qué se organizará si un alumno permanece un año más según el artículo 20.3?",
+      "options": [
+        "Un plan específico de refuerzo",
+        "Un programa individualizado de apoyo",
+        "Una adaptación curricular significativa",
+        "Un itinerario educativo personalizado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.3 establece que 'se organizará un plan específico de refuerzo para que durante ese curso pueda alcanzar el grado de adquisición de las competencias correspondientes'."
+    },
+    {
+      "question": "Según el artículo 20.3, ¿cuántas veces puede adoptarse la decisión de permanencia?",
+      "options": [
+        "Una vez durante la etapa",
+        "Una vez por ciclo",
+        "Dos veces durante la etapa",
+        "En cada curso si es necesario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.3 establece claramente que 'esta decisión solo se podrá adoptar una vez durante la etapa'."
+    },
+    {
+      "question": "¿Qué carácter tiene la permanencia según el artículo 20.3?",
+      "options": [
+        "Carácter excepcional",
+        "Carácter extraordinario",
+        "Carácter temporal",
+        "Carácter opcional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.3 establece que la decisión de permanencia 'tendrá, en todo caso, carácter excepcional'."
+    },
+    {
+      "question": "¿Qué dispondrá cada alumno al finalizar la etapa según el artículo 20.4?",
+      "options": [
+        "Un informe sobre su evolución y las competencias desarrolladas",
+        "Un certificado de estudios de primaria",
+        "Un expediente académico completo",
+        "Un documento de evaluación final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.4 establece que 'cada alumno o alumna dispondrá al finalizar la etapa de un informe sobre su evolución y las competencias desarrolladas'."
+    },
+    {
+      "question": "¿Qué establecerán las Administraciones según el artículo 20.4?",
+      "options": [
+        "Mecanismos de coordinación entre primaria y secundaria obligatoria",
+        "Sistemas de evaluación final de etapa",
+        "Procedimientos de traslado de expedientes",
+        "Protocolos de información a las familias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.4 establece que 'las Administraciones educativas establecerán los pertinentes mecanismos de coordinación entre los centros de educación primaria y educación secundaria obligatoria'."
+    },
+    {
+      "question": "Según el artículo 20.5, ¿cuáles son los referentes de evaluación para alumnos con NEE?",
+      "options": [
+        "Los incluidos en las correspondientes adaptaciones del currículo",
+        "Los objetivos mínimos de la etapa",
+        "Los criterios de evaluación adaptados",
+        "Los estándares de aprendizaje modificados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.5 establece que 'los referentes de la evaluación... serán los incluidos en las correspondientes adaptaciones del currículo'."
+    },
+    {
+      "question": "¿Qué no impedirán los referentes de evaluación según el artículo 20.5?",
+      "options": [
+        "Promocionar de ciclo o etapa",
+        "Obtener el título de la etapa",
+        "Acceder a la siguiente etapa",
+        "Continuar con el grupo de referencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.5 establece que las adaptaciones 'sin que este hecho pueda impedirles promocionar de ciclo o etapa'."
+    },
+    {
+      "question": "¿Qué se establecerá para la evaluación del alumnado con NEAE según el artículo 20.5?",
+      "options": [
+        "Medidas para que las condiciones de evaluación se adapten a sus necesidades",
+        "Pruebas de evaluación adaptadas a su nivel",
+        "Criterios de evaluación diferenciados",
+        "Procedimientos simplificados de evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.5 establece 'se establecerán las medidas más adecuadas para que las condiciones de realización de los procesos asociados a la evaluación se adapten a las necesidades del alumnado con necesidad específica de apoyo educativo'."
+    },
+    {
+      "question": "Según el artículo 20.6, ¿de qué puede estar exento el alumnado en comunidades con lengua propia?",
+      "options": [
+        "De realizar la evaluación del área Lengua Propia y Literatura",
+        "De cursar el área de Lengua Propia",
+        "De obtener calificación en Lengua Propia",
+        "De asistir a las clases de Lengua Propia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20.6 establece que 'el alumnado podrá estar exento de realizar la evaluación del área Lengua Propia y Literatura según la normativa autonómica correspondiente'."
+    },
+    {
+      "question": "¿En qué se pondrá especial énfasis según el artículo 20 bis?",
+      "options": [
+        "En la atención individualizada a los alumnos",
+        "En la prevención del fracaso escolar",
+        "En la mejora de los resultados académicos",
+        "En el desarrollo de competencias básicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20 bis establece 'se pondrá especial énfasis en la atención individualizada a los alumnos'."
+    },
+    {
+      "question": "¿Qué tipo de diagnósticos menciona el artículo 20 bis?",
+      "options": [
+        "Diagnósticos precoces",
+        "Diagnósticos psicopedagógicos",
+        "Diagnósticos integrales",
+        "Diagnósticos especializados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20 bis menciona 'la realización de diagnósticos precoces' como uno de los énfasis de la etapa."
+    },
+    {
+      "question": "¿Qué se pretende evitar con las medidas del artículo 20 bis?",
+      "options": [
+        "La repetición escolar",
+        "El fracaso escolar",
+        "El abandono escolar",
+        "Las dificultades de aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20 bis establece 'el establecimiento de mecanismos de apoyo y refuerzo para evitar la repetición escolar'."
+    },
+    {
+      "question": "¿En qué entornos específicos se aplicarán las medidas del artículo 20 bis?",
+      "options": [
+        "En entornos socialmente desfavorecidos",
+        "En entornos rurales y aislados",
+        "En entornos urbanos marginales",
+        "En entornos de alta complejidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20 bis especifica 'particularmente en entornos socialmente desfavorecidos'."
+    },
+    {
+      "question": "¿Qué ajustarán las Administraciones como elemento favorecedor según el artículo 20 bis?",
+      "options": [
+        "Las ratios alumno/unidad",
+        "Los recursos materiales y personales",
+        "Los horarios y calendarios",
+        "Los programas y metodologías"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 20 bis establece 'las Administraciones procederán a un ajuste de las ratios alumno/unidad como elemento favorecedor de estas estrategias pedagógicas'."
+    },
+    {
+      "question": "¿En qué curso se realiza la evaluación de diagnóstico según el artículo 21?",
+      "options": [
+        "En el cuarto curso de educación primaria",
+        "En el tercer curso de educación primaria",
+        "En el quinto curso de educación primaria",
+        "En el sexto curso de educación primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece claramente 'en el cuarto curso de educación primaria todos los centros realizarán una evaluación de diagnóstico'."
+    },
+    {
+      "question": "¿Qué centros realizarán la evaluación de diagnóstico según el artículo 21?",
+      "options": [
+        "Todos los centros",
+        "Los centros públicos",
+        "Los centros seleccionados por la Administración",
+        "Los centros que lo soliciten"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece que 'todos los centros realizarán una evaluación de diagnóstico'."
+    },
+    {
+      "question": "¿De quién será responsabilidad la evaluación de diagnóstico según el artículo 21?",
+      "options": [
+        "De las Administraciones educativas",
+        "De los centros educativos",
+        "De los equipos docentes",
+        "De los servicios de inspección"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece que 'esta evaluación, que será responsabilidad de las Administraciones educativas'."
+    },
+    {
+      "question": "¿Qué carácter tiene la evaluación de diagnóstico según el artículo 21?",
+      "options": [
+        "Informativo, formativo y orientador",
+        "Diagnóstico, preventivo y correctivo",
+        "Descriptivo, analítico y valorativo",
+        "Objetivo, sistemático y riguroso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece que 'tendrá carácter informativo, formativo y orientador para los centros, para el profesorado, para el alumnado y sus familias y para el conjunto de la comunidad educativa'."
+    },
+    {
+      "question": "¿Para quiénes es orientadora la evaluación de diagnóstico según el artículo 21?",
+      "options": [
+        "Para los centros, el profesorado, el alumnado, las familias y la comunidad educativa",
+        "Para las Administraciones y los centros educativos",
+        "Para los equipos directivos y el profesorado",
+        "Para el alumnado y sus familias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 enumera específicamente que será orientadora 'para los centros, para el profesorado, para el alumnado y sus familias y para el conjunto de la comunidad educativa'."
+    },
+    {
+      "question": "¿Qué tipo de evaluaciones son las de diagnóstico según el artículo 21?",
+      "options": [
+        "De carácter censal",
+        "De carácter muestral",
+        "De carácter selectivo",
+        "De carácter voluntario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece que 'estas evaluaciones, de carácter censal', lo que significa que se aplican a todo el alumnado."
+    },
+    {
+      "question": "¿Qué marco de referencia tendrán las evaluaciones de diagnóstico según el artículo 21?",
+      "options": [
+        "El establecido en el artículo 144.1 de la Ley",
+        "El establecido por las Administraciones educativas",
+        "El marco europeo de competencias",
+        "El marco común de evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece que 'tendrán como marco de referencia el establecido en el artículo 144.1 de esta Ley'."
+    },
+    {
+      "question": "¿A partir de qué elaborarán los centros propuestas de actuación según el artículo 21?",
+      "options": [
+        "A partir del análisis de los resultados de la evaluación de diagnóstico",
+        "A partir de las orientaciones de la Administración",
+        "A partir de la autoevaluación del centro",
+        "A partir de las necesidades detectadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece 'a partir del análisis de los resultados de la evaluación de diagnóstico, las Administraciones educativas promoverán que los centros elaboren propuestas de actuación'."
+    },
+    {
+      "question": "¿A qué planes se refiere el artículo 21 para las propuestas de actuación?",
+      "options": [
+        "A los planes de mejora a los que se refiere el artículo 121",
+        "A los planes de centro",
+        "A los planes de formación del profesorado",
+        "A los planes estratégicos de la Administración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 menciona 'en el marco de los planes de mejora a los que se refiere el artículo 121'."
+    },
+    {
+      "question": "¿Qué contribuirán a lograr las propuestas de actuación según el artículo 21?",
+      "options": [
+        "Que el alumnado alcance las competencias establecidas",
+        "Que mejoren los resultados académicos",
+        "Que se reduzca el fracaso escolar",
+        "Que aumente la calidad educativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece que las propuestas 'contribuyan a que el alumnado alcance las competencias establecidas'."
+    },
+    {
+      "question": "¿Qué permitirán adoptar las propuestas según el artículo 21?",
+      "options": [
+        "Medidas de mejora de la calidad y la equidad de la educación",
+        "Programas de innovación educativa",
+        "Estrategias de atención a la diversidad",
+        "Planes de formación del profesorado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece que las propuestas 'permitan adoptar medidas de mejora de la calidad y la equidad de la educación'."
+    },
+    {
+      "question": "¿Qué orientarán las propuestas según el artículo 21?",
+      "options": [
+        "La práctica docente",
+        "La organización del centro",
+        "Las metodologías de enseñanza",
+        "Los procesos de evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 21 establece que las propuestas de actuación 'orienten la práctica docente'."
+    },
+    {
+      "question": "Según el conjunto de artículos sobre primaria, ¿cuántos años de duración tiene cada ciclo?",
+      "options": [
+        "Dos años académicos",
+        "Un año académico",
+        "Tres años académicos",
+        "Año y medio académico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 18.1 establece que la etapa 'comprende tres ciclos de dos años académicos cada uno'."
+    },
+    {
+      "question": "Según los artículos de primaria, ¿qué edad ordinaria corresponde al primer año?",
+      "options": [
+        "Seis años de edad",
+        "Cinco años de edad",
+        "Siete años de edad",
+        "Cuatro años de edad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.1 establece que se cursa 'ordinariamente entre los seis y los doce años de edad', comenzando por tanto a los seis años."
+    },
+    {
+      "question": "¿Qué relación establece la LOE entre educación primaria y secundaria?",
+      "options": [
+        "La primaria prepara para cursar con aprovechamiento la secundaria",
+        "La primaria es requisito para acceder a la secundaria",
+        "La primaria y secundaria forman la educación básica",
+        "La primaria da continuidad a la educación infantil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.2 establece como finalidad 'prepararlos para cursar con aprovechamiento la Educación Secundaria Obligatoria'."
+    },
+    {
+      "question": "¿Qué tipo de formación busca la educación primaria según su finalidad?",
+      "options": [
+        "Una formación integral que contribuya al pleno desarrollo de la personalidad",
+        "Una formación básica en competencias instrumentales",
+        "Una formación equilibrada en todas las áreas",
+        "Una formación que garantice el éxito educativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.2 establece 'con el fin de garantizar una formación integral que contribuya al pleno desarrollo de la personalidad de los alumnos y alumnas'."
+    },
+    {
+      "question": "¿Cómo define la LOE el objetivo relacionado con las normas de convivencia?",
+      "options": [
+        "Conocer y apreciar los valores y normas, y aprender a obrar de acuerdo con ellas de forma empática",
+        "Conocer y respetar las normas de convivencia del centro",
+        "Interiorizar y aplicar las normas sociales básicas",
+        "Comprender y cumplir las reglas de convivencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.a establece 'conocer y apreciar los valores y las normas de convivencia, aprender a obrar de acuerdo con ellas de forma empática'."
+    },
+    {
+      "question": "¿Qué tipo de educación para la salud se menciona específicamente en los principios pedagógicos?",
+      "options": [
+        "Educación para la salud, incluida la afectivo-sexual",
+        "Educación para la salud física y mental",
+        "Educación para hábitos saludables",
+        "Educación sanitaria básica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19.2 menciona específicamente 'la educación para la salud, incluida la afectivo-sexual' entre los elementos a trabajar en todas las áreas."
+    }
+  ]
+}
