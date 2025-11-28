@@ -1,0 +1,558 @@
+{
+  "title": "Tema 4 - La Atención a la Diversidad del Alumnado (Completo)",
+  "description": "Quiz completo de 200 preguntas de dificultad avanzada sobre atención a la diversidad, modelo de escuela inclusiva, principios educativos, estrategias metodológicas, alumnado con NEAE, medidas específicas, PGAD y protocolos según LOMLOE y normativa gallega.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según la LOMLOE, ¿en qué artículo se establece la equidad y la igualdad de oportunidades como principio del sistema educativo?",
+      "options": [
+        "Artículo 1",
+        "Artículo 4",
+        "Artículo 19",
+        "Artículo 71"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE establece en su artículo 1 la equidad y la igualdad de oportunidades para el pleno desarrollo de la personalidad a través de una educación basada en la inclusión y la compensación de desigualdades."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE recoge aspectos como la incorporación de la lengua de signos española o implementar un curso adicional para la enseñanza básica?",
+      "options": [
+        "Artículo 71",
+        "Artículo 73",
+        "Artículo 75",
+        "Artículo 19"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 75 de la LOMLOE recoge varios aspectos relacionados con la educación inclusiva del alumnado, incluyendo la incorporación de la lengua de signos española e implementar un curso adicional para quienes necesiten alcanzar los objetivos de la enseñanza básica."
+    },
+    {
+      "question": "Según Arnaiz (2005) citando a Stainback y Stainback (1999), ¿qué diferencia fundamental existe entre integración e inclusión?",
+      "options": [
+        "La integración centra el cambio en el sistema educativo, la inclusión en el alumno",
+        "La inclusión centra el cambio en el sistema educativo, la integración en el alumno",
+        "La integración requiere más recursos que la inclusión",
+        "La inclusión solo aplica a alumnado con NEE, la integración a todo el alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A diferencia de la integración, la inclusión centra el cambio en el sistema educativo, que debe ajustarse a las necesidades de todos los alumnos garantizando su participación y aprendizaje, mientras que la integración centra el cambio en el alumno."
+    },
+    {
+      "question": "Barton y Armstrong (2008) identifican dos tipos de características esenciales de las escuelas inclusivas. ¿Cuáles son?",
+      "options": [
+        "Características metodológicas y evaluativas",
+        "Características organizativas y metodológicas",
+        "Características curriculares y didácticas",
+        "Características pedagógicas y organizativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Barton y Armstrong (2008) citan dos características esenciales: las organizativas (escuela como comunidad educativa y escuela normalizadora) y las metodológicas (escuela centrada en las características del alumnado y flexible en currículo y evaluación)."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 229/2011 se define la atención a la diversidad?",
+      "options": [
+        "Artículo 1",
+        "Artículo 3",
+        "Artículo 4",
+        "Artículo 7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 3 del Decreto 229/2011 y de la Orden del 8 de septiembre definen la atención a la diversidad como el conjunto de medidas y acciones diseñadas para adecuar la respuesta educativa a las diferentes características, potencialidades, ritmos y estilos de aprendizaje del alumnado."
+    },
+    {
+      "question": "¿Qué factores que determinan la diversidad hacen referencia a las características individuales, estilos de aprendizaje, motivaciones e intereses?",
+      "options": [
+        "Factores socioculturales",
+        "Factores socioeconómicos",
+        "Factores personales y psicológicos",
+        "Factores geopolíticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los factores personales y psicológicos hacen referencia a las características individuales, a los distintos estilos de aprendizaje, motivaciones, intereses y habilidades cognitivas de cada alumno."
+    },
+    {
+      "question": "Los factores que engloban el origen étnico, la cultura, la lengua materna y las tradiciones familiares se denominan:",
+      "options": [
+        "Factores personales y psicológicos",
+        "Factores socioculturales",
+        "Factores geopolíticos",
+        "Factores socioeconómicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los factores socioculturales engloban el origen étnico, la cultura, la lengua materna y las tradiciones familiares que influyen en la diversidad del alumnado."
+    },
+    {
+      "question": "¿Qué factores se vinculan con los cambios demográficos, las migraciones y las políticas educativas?",
+      "options": [
+        "Factores socioeconómicos",
+        "Factores socioculturales",
+        "Factores geopolíticos",
+        "Factores personales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los factores geopolíticos se vinculan con los cambios demográficos, las migraciones y las políticas educativas que repercuten en la composición de la población estudiantil."
+    },
+    {
+      "question": "Según el contenido, educar en la diversidad supone adoptar un modelo curricular:",
+      "options": [
+        "Cerrado y específico para cada tipo de necesidad",
+        "Abierto para todos y no como medidas especiales para ciertos alumnos",
+        "Diferenciado según las capacidades del alumnado",
+        "Adaptado exclusivamente al alumnado con NEAE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Educar en la diversidad supone asumir un nuevo concepto de educación en el que se adopte un modelo curricular abierto para todos y no como un conjunto de medidas especiales para ciertos alumnos."
+    },
+    {
+      "question": "¿Qué característica del currículo para educar en diversidad se refiere a la capacidad de modificar contenidos, métodos y recursos ajustándose a distintos estilos?",
+      "options": [
+        "Currículo común pero diverso",
+        "Perspectiva holística y constructivista",
+        "Inteligencias múltiples",
+        "Metodologías activas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Poseer un currículo común pero diverso capaz de modificar contenidos, métodos de enseñanza y recursos ajustándose a distintos estilos de aprendizaje y capacidades es una característica fundamental para educar en diversidad."
+    },
+    {
+      "question": "¿Qué perspectiva de enseñanza considera al estudiante como agente activo de su conocimiento integrando aspectos emocionales, sociales y cognitivos?",
+      "options": [
+        "Perspectiva conductista",
+        "Perspectiva holística y constructivista",
+        "Perspectiva cognitivista",
+        "Perspectiva humanista"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La perspectiva holística y constructivista considera al estudiante como agente activo de su conocimiento integrando aspectos emocionales, sociales y cognitivos en el proceso de enseñanza-aprendizaje."
+    },
+    {
+      "question": "¿Qué teoría se debe considerar en el diseño de actividades para educar en diversidad según el contenido?",
+      "options": [
+        "Inteligencias múltiples de Gardner",
+        "Zona de desarrollo próximo de Vygotsky",
+        "Aprendizaje significativo de Ausubel",
+        "Condicionamiento operante de Skinner"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El contenido destaca la necesidad de considerar las inteligencias múltiples de Gardner en el diseño de actividades para atender adecuadamente a la diversidad del alumnado."
+    },
+    {
+      "question": "¿Qué ley fue la primera en España en reconocer la individualización de la enseñanza y la educación especial?",
+      "options": [
+        "LISMI (1982)",
+        "LOGSE (1990)",
+        "Ley General de Educación (1970)",
+        "LOE (2006)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Ley General de Educación de 1970 fue la primera en reconocer la individualización de la enseñanza y la educación especial en España."
+    },
+    {
+      "question": "¿Qué ley sustituyó el término 'alumno con Educación Especial' por 'alumno con Necesidades Educativas Especiales'?",
+      "options": [
+        "LISMI",
+        "LOGSE",
+        "LOE",
+        "LOMLOE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Ley de Ordenación General del Sistema Educativo (LOGSE) de 1990 sustituyó el término de alumno con Educación Especial por alumno con Necesidades Educativas Especiales (NEE)."
+    },
+    {
+      "question": "La LOGSE destacó que la atención debe regirse por los principios de:",
+      "options": [
+        "Inclusión e integración",
+        "Normalización e integración escolar",
+        "Equidad e igualdad",
+        "Flexibilidad y accesibilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOGSE destacó que la atención debe regirse por los principios de normalización e integración escolar, marcando un cambio importante en el enfoque educativo."
+    },
+    {
+      "question": "¿Qué ley educativa introdujo el término 'alumnado con NEAE'?",
+      "options": [
+        "LOGSE",
+        "LOE",
+        "LOMCE",
+        "LOMLOE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE) mantiene los principios de la ley anterior pero amplía el enfoque de las NEE introduciendo el término alumnado con NEAE."
+    },
+    {
+      "question": "¿Qué ley educativa reforzó la atención a diversidad como principio metodológico de la intervención educativa?",
+      "options": [
+        "LOE",
+        "LOMCE",
+        "LOMLOE",
+        "LOGSE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con la LOMCE se reforzó la atención a diversidad como principio metodológico de la intervención educativa."
+    },
+    {
+      "question": "¿En qué artículo de la LOMLOE se establece la educación inclusiva como principio educativo esencial?",
+      "options": [
+        "Artículo 1",
+        "Artículo 4",
+        "Artículo 19",
+        "Artículo 71"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4 de la LOMLOE establece esta educación inclusiva como principio educativo esencial, promoviendo la aplicación del Diseño Universal para el Aprendizaje (DUA)."
+    },
+    {
+      "question": "Según el artículo 19 de la LOMLOE, ¿qué aspectos se favorecen para la atención a la diversidad?",
+      "options": [
+        "La adaptación curricular y la evaluación diferenciada",
+        "La atención personalizada y la detección temprana de dificultades",
+        "El refuerzo educativo y el apoyo especializado",
+        "La flexibilización y la accesibilidad universal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En consonancia con el artículo 19 de la LOMLOE, se favorece la atención personalizada y la detección temprana de dificultades por parte del tutor."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 229/2011 se disponen los principios que deben regir la atención a la diversidad?",
+      "options": [
+        "Artículo 3",
+        "Artículo 4",
+        "Artículo 7",
+        "Artículo 8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4 del Decreto 229/2011 dispone que la atención a la diversidad se debe regir por varios principios como normalización, inclusión, equidad, igualdad de oportunidades, entre otros."
+    },
+    {
+      "question": "Según el Decreto 229/2011, ¿cuál NO es uno de los principios de atención a la diversidad?",
+      "options": [
+        "Normalización",
+        "Competitividad",
+        "Interculturalidad",
+        "Flexibilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los principios del artículo 4 del Decreto 229/2011 son: normalización, inclusión, equidad, igualdad de oportunidades y no discriminación, flexibilidad y accesibilidad, interculturalidad y promoción de convivencia, autonomía de centros y participación de toda la comunidad educativa. La competitividad NO es un principio."
+    },
+    {
+      "question": "¿En qué artículo de la LOMLOE se aprecia que la inclusión y la normalización son esenciales para asegurar la atención integral al alumnado con NEAE?",
+      "options": [
+        "Artículo 19",
+        "Artículo 71",
+        "Artículo 73",
+        "Artículo 75"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conforme al artículo 71 de la LOMLOE puede apreciarse que la inclusión y la normalización son esenciales para asegurar la atención integral al alumnado con NEAE."
+    },
+    {
+      "question": "Según el contenido, ¿qué implica el principio de normalización?",
+      "options": [
+        "Que todos los alumnos sigan el mismo ritmo de aprendizaje",
+        "Que todo el alumnado acceda a los mismos recursos y oportunidades evitando la segregación",
+        "Que se establezcan aulas específicas para alumnado con NEAE",
+        "Que se apliquen las mismas metodologías a todo el alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La normalización implica que todo el alumnado acceda a los mismos recursos y oportunidades evitando la segregación y diferenciación."
+    },
+    {
+      "question": "El principio de inclusión exige que:",
+      "options": [
+        "Los alumnos con NEAE se adapten al sistema educativo existente",
+        "Los sistemas educativos se ajusten a todas las necesidades modificando el entorno y la metodología",
+        "Se creen centros específicos para alumnado con necesidades especiales",
+        "Se integren los alumnos en aulas ordinarias sin modificar el sistema"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La inclusión exige que los sistemas educativos se ajusten a todas las necesidades modificando el entorno y la metodología para asegurar la participación plena de todos."
+    },
+    {
+      "question": "Según el artículo 4 de la Orden del 8 de septiembre de 2021, ¿cuántas actuaciones debe desarrollar el equipo directivo para desarrollar los principios de atención a la diversidad?",
+      "options": [
+        "Dos actuaciones",
+        "Tres actuaciones",
+        "Cuatro actuaciones",
+        "Cinco actuaciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El equipo directivo debe desarrollar cuatro actuaciones: considerar la atención a la diversidad en la estructura organizativa, distribuir equitativamente los recursos, informar a la comunidad educativa y promover la formación del profesorado."
+    },
+    {
+      "question": "¿Qué debe hacer el maestro tutor según la Orden del 8 de septiembre respecto a la evaluación?",
+      "options": [
+        "Realizar la evaluación psicopedagógica",
+        "Organizar la evaluación inicial del alumnado",
+        "Aplicar las adaptaciones curriculares significativas",
+        "Evaluar exclusivamente al alumnado con NEAE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Por parte del maestro tutor, debe organizar la evaluación inicial del alumnado, coordinar los procesos de E-A y solicitar intervención del DO en caso de detectar dificultades."
+    },
+    {
+      "question": "Según la Orden del 8 de septiembre, ¿cuántas actuaciones debe desarrollar el profesorado de área?",
+      "options": [
+        "Dos actuaciones",
+        "Tres actuaciones",
+        "Cuatro actuaciones",
+        "Cinco actuaciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El profesorado de área debe desarrollar tres actuaciones: colaborar con el maestro tutor, utilizar estrategias metodológicas promotoras de la inclusión y considerar los principios del DUA."
+    },
+    {
+      "question": "¿Qué deben hacer los servicios de orientación educativa según el artículo 4 de la Orden del 8 de septiembre?",
+      "options": [
+        "Aplicar directamente las adaptaciones curriculares",
+        "Sustituir al tutor en la coordinación del proceso de E-A",
+        "Asesorar sobre medidas de atención y promover la participación entre familias y profesorado",
+        "Realizar exclusivamente evaluaciones psicopedagógicas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los servicios de orientación deben asesorar sobre medidas de atención a la diversidad, atender demandas de intervención, informar sobre resultados de valoraciones y promover la participación entre familias, profesorado y profesionales externos."
+    },
+    {
+      "question": "¿Cómo define el artículo 4 de la Orden del 8 de septiembre las estrategias metodológicas inclusivas?",
+      "options": [
+        "Acciones improvisadas para resolver problemas específicos de aprendizaje",
+        "Medidas exclusivas para alumnado con NEAE",
+        "Acciones planificadas para estructurar la enseñanza con igualdad de oportunidades",
+        "Recursos materiales específicos para la inclusión"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las estrategias metodológicas inclusivas se entienden como las acciones planificadas para estructurar la enseñanza a fin de que todos los estudiantes tengan igualdad de oportunidades para alcanzar un aprendizaje significativo y equitativo."
+    },
+    {
+      "question": "¿Cuántos puntos clave se mencionan en las estrategias de atención a la diversidad según el contenido?",
+      "options": [
+        "Tres puntos clave",
+        "Cuatro puntos clave",
+        "Cinco puntos clave",
+        "Seis puntos clave"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las estrategias de atención a la diversidad se centran en cinco puntos clave: atención individualizada, clima de aula, autonomía de centros, TIC/TAC/TEP y participación con familias."
+    },
+    {
+      "question": "Según el artículo 12 de la Orden del 8 de septiembre, ¿qué constituye el principal factor preventivo?",
+      "options": [
+        "La adaptación curricular",
+        "La evaluación inicial",
+        "El refuerzo educativo",
+        "La intervención del orientador"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Citando el artículo 12 de la Orden del 8 de septiembre, la evaluación inicial constituye el principal factor preventivo para la detección temprana de dificultades."
+    },
+    {
+      "question": "¿Qué herramienta se menciona como eficaz para fomentar un clima de aula seguro y respetuoso?",
+      "options": [
+        "Las metodologías activas",
+        "Los programas de mediación y resolución de conflictos",
+        "Las adaptaciones curriculares",
+        "El Diseño Universal de Aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Son relevantes estrategias que fomenten un clima de aula seguro, acogedor y respetuoso basado en la empatía. Una herramienta eficaz para ello son los programas de mediación y resolución de conflictos."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se destaca la autonomía de centros para adoptar medidas que respondan a las características del alumnado?",
+      "options": [
+        "Artículo 11",
+        "Artículo 12",
+        "Artículo 13",
+        "Artículo 14"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 13 del Decreto 155/2022 destaca la autonomía de centros para adoptar medidas que respondan a las características sociales y culturales del alumnado."
+    },
+    {
+      "question": "¿Qué siglas representan las Tecnologías para el Empoderamiento y la Participación?",
+      "options": [
+        "TIC",
+        "TAC",
+        "TEP",
+        "TIP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "TEP son las siglas de Tecnologías para el Empoderamiento y la Participación, junto con TIC (Tecnologías de la Información y Comunicación) y TAC (Tecnologías de Aprendizaje y Conocimiento)."
+    },
+    {
+      "question": "Las TIC, TAC y TEP son herramientas clave porque ofrecen múltiples formas de representación, expresión y participación en consonancia con:",
+      "options": [
+        "Los principios de normalización e inclusión",
+        "Los principios DUA",
+        "Los objetivos de la LOMLOE",
+        "Las medidas ordinarias de atención"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las TIC, TAC y TEP son herramientas clave para facilitar el acceso a los contenidos ofreciendo múltiples formas de representación, de expresión o de participación en consonancia con los principios DUA (Diseño Universal para el Aprendizaje)."
+    },
+    {
+      "question": "¿Qué tres tipos de medidas se mencionan para garantizar una educación inclusiva y equitativa?",
+      "options": [
+        "Medidas preventivas, correctivas y evaluativas",
+        "Medidas organizativas, curriculares y didácticas",
+        "Medidas ordinarias, extraordinarias y específicas",
+        "Medidas individuales, grupales y colectivas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El diseño de los programas del centro y la aplicación de la enseñanza deben apoyarse en medidas organizativas, curriculares y didácticas que garantizan una educación inclusiva y equitativa."
+    },
+    {
+      "question": "Las medidas organizativas se centran en:",
+      "options": [
+        "La adaptación de contenidos y objetivos del currículo",
+        "Las estrategias y métodos de enseñanza del docente",
+        "La estructura y funcionamiento del centro adaptando agrupamientos, horarios y espacios",
+        "La evaluación del progreso del alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las medidas organizativas se centran en la estructura y funcionamiento del centro, adaptando aspectos como los agrupamientos, horarios y espacios para crear un ambiente inclusivo y accesible."
+    },
+    {
+      "question": "¿Cuál NO es una medida organizativa mencionada en el contenido?",
+      "options": [
+        "Coordinación y comunicación entre agentes de la comunidad",
+        "Agrupamientos flexibles",
+        "Adaptaciones curriculares significativas",
+        "Organización espacio-temporal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las adaptaciones curriculares significativas son medidas curriculares, no organizativas. Las medidas organizativas incluyen coordinación, agrupamientos flexibles, organización espacio-temporal, planes de acogida, etc."
+    },
+    {
+      "question": "Según el contenido, los agrupamientos flexibles permiten:",
+      "options": [
+        "Separar al alumnado con NEAE del resto",
+        "Ajustar las actividades y objetivos específicos dentro y fuera del aula",
+        "Crear grupos homogéneos por nivel de competencia",
+        "Reducir el número de alumnos en todas las aulas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los agrupamientos flexibles permiten ajustar las actividades y objetivos específicos dentro y fuera del aula como medida organizativa de atención a la diversidad."
+    },
+    {
+      "question": "La organización espacio-temporal como medida organizativa incluye:",
+      "options": [
+        "Solo la eliminación de barreras arquitectónicas",
+        "Exclusivamente horarios específicos para tutorías",
+        "Eliminar barreras arquitectónicas, configurar el aula fomentando autonomía y tiempos para tutorías",
+        "Crear aulas específicas para alumnado con NEE"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La organización espacio-temporal incluye eliminar barreras arquitectónicas, configurar el aula fomentando la autonomía con zonas diferenciadas e implementar tiempos específicos para tutorías individuales, colectivas y atención a familias."
+    },
+    {
+      "question": "¿En qué artículo de la Orden del 8 de septiembre de 2021 se describen las modalidades de escolarización?",
+      "options": [
+        "Artículo 24",
+        "Artículo 25",
+        "Artículo 26",
+        "Artículo 27"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las modalidades de escolarización se describen en el artículo 26 de la Orden del 8 de septiembre de 2021, dentro de las medidas organizativas."
+    },
+    {
+      "question": "La escolarización en centros docentes ordinarios (artículo 27) reserva:",
+      "options": [
+        "Todas las plazas para alumnado con NEAE",
+        "Un número de plazas al alumnado con NEAE con recursos adecuados",
+        "Plazas exclusivamente para alumnado con NEE",
+        "No reserva plazas específicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La escolarización en centros docentes ordinarios (artículo 27) reserva un número de plazas al alumnado con NEAE, disponiendo de recursos profesionales y materiales adecuados."
+    },
+    {
+      "question": "¿Qué caracteriza a los centros docentes ordinarios de escolarización preferente según el artículo 28?",
+      "options": [
+        "Solo atienden a alumnado con NEE",
+        "Ofrecen atención educativa ordinaria habilitándose para ACNEAE con recursos específicos",
+        "Son centros de educación especial",
+        "Combinan escolarización ordinaria y especial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros docentes ordinarios de escolarización preferente (artículo 28) ofrecen una atención educativa ordinaria habilitándose para atender al ACNEAE con recursos humanos y materiales específicos."
+    },
+    {
+      "question": "Las unidades de EE en centros docentes ordinarios (artículo 29) se caracterizan por:",
+      "options": [
+        "Atender a todo tipo de alumnado con NEAE",
+        "Crear unidades específicas para atender exclusivamente al alumnado con NEE",
+        "Ser unidades temporales de refuerzo",
+        "Combinar alumnado con y sin NEAE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la escolarización de unidades de EE en los centros docentes ordinarios (artículo 29) se crean unidades específicas para atender exclusivamente al alumnado con NEE."
+    },
+    {
+      "question": "La escolarización en centros de EE (artículo 30) está destinada a:",
+      "options": [
+        "Todo el alumnado con NEAE",
+        "Alumnado con NEE que requiere modificaciones significativas y recursos muy específicos",
+        "Alumnado con dificultades de aprendizaje temporal",
+        "Alumnado con ACI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La escolarización en centros de EE (artículo 30) está destinada exclusivamente a alumnado con NEE que requiere de modificaciones significativas del currículo y de recursos muy específicos que un centro ordinario no posee."
+    },
+    {
+      "question": "La escolarización combinada (artículo 31) permite:",
+      "options": [
+        "Cambiar de centro ordinario durante el curso",
+        "Compartir tiempo entre un centro ordinario y una unidad o centro de EE",
+        "Alternar entre diferentes centros ordinarios",
+        "Asistir a clases particulares fuera del horario escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La escolarización combinada (artículo 31) permite que el alumnado comparta su tiempo entre un centro ordinario y una unidad o centro de EE."
+    },
+    {
+      "question": "Las medidas curriculares implican modificaciones en:",
+      "options": [
+        "Solo los contenidos del currículo",
+        "Exclusivamente los criterios de evaluación",
+        "Los contenidos, objetivos y criterios de evaluación del currículo",
+        "Únicamente los objetivos educativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las medidas curriculares implican modificaciones y adaptaciones en los contenidos, objetivos y criterios de evaluación del currículo con el fin de ajustarlo a las necesidades específicas de los discentes."
+    },
+    {
+      "question": "Las medidas curriculares se clasifican en:",
+      "options": [
+        "Medidas individuales y grupales",
+        "Medidas ordinarias y extraordinarias",
+        "Medidas temporales y permanentes",
+        "Medidas preventivas y correctivas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las medidas curriculares pueden clasificarse en medidas ordinarias como el refuerzo educativo, o extraordinarias como las adaptaciones curriculares significativas o la flexibilización."
+    },
+    {
+      "question": "Las medidas didácticas comprenden:",
+      "options": [
+        "Modificaciones en el currículo prescriptivo",
+        "Cambios en la estructura organizativa del centro",
+        "Estrategias, recursos, métodos y acciones planificadas por el docente para el proceso de E-A",
+        "Adaptaciones en los criterios de evaluación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las medidas didácticas comprenden las estrategias, recursos, métodos y acciones planificadas por el docente para desarrollar el proceso de E-A considerando las necesidades, características y ritmos del alumnado."
+    },
+    {
+      "question": "Los ambientes de aprendizaje flexibles implican organizar:",
+      "options": [
+        "Solo el espacio físico del aula",
+        "Exclusivamente los agrupamientos del alumnado",
+        "El espacio, el tiempo, los recursos y los agrupamientos",
+        "Únicamente los tiempos de las actividades"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los ambientes de aprendizaje flexibles implican organizar el espacio, el tiempo, los recursos y los agrupamientos de forma que se facilite el acceso y la participación de todos los estudiantes."
+    }
+  ]
+}

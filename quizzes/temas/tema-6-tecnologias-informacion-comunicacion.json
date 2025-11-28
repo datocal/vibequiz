@@ -1,0 +1,2153 @@
+{
+  "title": "Tema 6: Las Tecnologías de la Información y la Comunicación",
+  "description": "Test exhaustivo sobre las TIC en educación, marco legal, definiciones, ventajas e inconvenientes, e iniciativas autonómicas en Galicia.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según Díaz-Barriga et al. (2015), ¿cuál es el enfoque correcto respecto al aprendizaje con TIC?",
+      "options": [
+        "Los estudiantes deben aprender con ellas y no de ellas",
+        "Los estudiantes deben aprender de ellas y no con ellas",
+        "Los estudiantes deben aprender tanto con ellas como de ellas de forma equilibrada",
+        "Los estudiantes deben usarlas como herramienta de consulta pasiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Díaz-Barriga et al. (2015) destacan la importancia de que 'los estudiantes aprendan con ellas y no de ellas', enfatizando el uso activo y constructivo de las TIC en el proceso de aprendizaje."
+    },
+    {
+      "question": "¿Qué competencia específica buscan desarrollar las TIC en el alumnado según el documento?",
+      "options": [
+        "Competencia lingüística",
+        "Competencia digital (CD)",
+        "Competencia social y cívica",
+        "Competencia en aprender a aprender"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El documento indica que las TIC deben introducir al estudiantado en la 'alfabetización digital' que desarrolle la 'competencia digital (CD)'."
+    },
+    {
+      "question": "¿Qué ley orgánica es la base principal del marco legal del tema?",
+      "options": [
+        "Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)",
+        "Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)",
+        "Ley Orgánica 8/2013, de 9 de diciembre (LOMCE)",
+        "Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tema toma como base lo establecido por la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOMLOE)."
+    },
+    {
+      "question": "¿Qué decreto autonómico establece la ordenación y el currículo de la educación primaria en Galicia mencionado en el tema?",
+      "options": [
+        "Decreto 229/2011, de 7 de diciembre",
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 157/2022, de 15 de septiembre",
+        "Decreto 374/1996, de 17 de octubre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tema se basa en el Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE recoge como objetivo de etapa que el alumnado desarrolle las competencias tecnológicas básicas?",
+      "options": [
+        "Artículo 16",
+        "Artículo 17",
+        "Artículo 19",
+        "Artículo 102"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 17 de la LOMLOE recoge como objetivo de etapa i la importancia de que el alumnado desarrolle las competencias tecnológicas básicas y se inicie en su utilización para el aprendizaje."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE resalta como principio pedagógico el trabajo de la CD y de la comunicación audiovisual en todas las áreas?",
+      "options": [
+        "Artículo 17",
+        "Artículo 18",
+        "Artículo 19",
+        "Artículo 20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 19 de la LOMLOE resalta como principio pedagógico el trabajo de la CD y de la comunicación audiovisual en todas las áreas."
+    },
+    {
+      "question": "Según el artículo 102 de la LOMLOE, ¿qué deben promover las Administraciones Educativas?",
+      "options": [
+        "La formación digital en todo el profesorado",
+        "La dotación de equipos informáticos en todos los centros",
+        "La creación de aulas virtuales inteligentes",
+        "La evaluación de la competencia digital del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 102 hace hincapié en la necesidad de que las Administraciones Educativas promuevan la formación digital en todo el profesorado."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE demanda el uso de las TIC en el aula como un medio didáctico valioso?",
+      "options": [
+        "Artículo 102",
+        "Artículo 111 bis",
+        "Artículo 121",
+        "Artículo 17"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 111 bis demanda el uso de las TIC en el aula como un medio didáctico valioso y apropiado para los procesos de enseñanza-aprendizaje."
+    },
+    {
+      "question": "¿Qué protocolo se menciona en el documento como medida para prevenir riesgos derivados del mal uso de las TIC?",
+      "options": [
+        "Protocolo de Protección de Datos Personales",
+        "Protocolo para la detección y tratamiento del acoso y ciberacoso escolar",
+        "Protocolo de Seguridad Digital en Centros Educativos",
+        "Protocolo de Uso Responsable de Internet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El documento menciona el Protocolo para la detección y tratamiento del acoso y ciberacoso escolar como una de las medidas para prevenir y eliminar los riesgos derivados de un mal uso de las TIC."
+    },
+    {
+      "question": "¿Qué ley orgánica se menciona en relación con la protección de datos personales y garantía de los derechos digitales?",
+      "options": [
+        "Lei orgánica 2/2018, do 3 de diciembre",
+        "Lei orgánica 3/2018, do 5 de diciembre",
+        "Lei orgánica 4/2018, do 7 de diciembre",
+        "Lei orgánica 1/2018, do 5 de noviembre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se menciona la Lei orgánica 3/2018, do 5 de diciembre, de protección de datos personales y garantía de los derechos digitales."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se recoge la CD como una de las ocho competencias clave de la Educación Primaria?",
+      "options": [
+        "Artículo 7",
+        "Artículo 8",
+        "Artículo 16",
+        "Artículo 17"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CD se recoge en el artículo 8 del Decreto 155/2022 como una de las ocho competencias clave de la EP con su correspondiente perfil de salida y descriptores operativos."
+    },
+    {
+      "question": "¿Qué Orden regula el Plan Digital obligatorio en los centros educativos de Galicia?",
+      "options": [
+        "Orden de 15 de septiembre de 2022",
+        "Orden de 26 de mayo de 2023",
+        "Orden de 22 de julio de 1997",
+        "Orden de 16 de octubre de 2023"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Orden de 26 de mayo de 2023 concreta en el artículo 14 el Plan Digital obligatorio, complementando el artículo 34 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Con qué Objetivo de Desarrollo Sostenible (ODS) se vincula principalmente la CD?",
+      "options": [
+        "ODS 3: Salud y Bienestar",
+        "ODS 4: Educación de Calidad",
+        "ODS 5: Igualdad de Género",
+        "ODS 10: Reducción de las Desigualdades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El documento destaca que la CD se vincula con el ODS 4 'Educación de Calidad', entre otros de la Agenda 2030."
+    },
+    {
+      "question": "¿Qué autores definen las TIC según Castro et al. (2007)?",
+      "options": [
+        "Díaz-Barriga et al. (2015)",
+        "Gisbert et al. (1992)",
+        "Gómez (2004)",
+        "Vivancos (2010)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Castro et al. (2007) citan a Gisbert et al. (1992) para definir las TIC como el conjunto de herramientas y canales tecnológicos que han mejorado el tratamiento y acceso a la información."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una característica de las TIC mencionada en el documento?",
+      "options": [
+        "Interactividad al permitir el intercambio de datos entre persona y máquina",
+        "Instantaneidad en la transmisión de datos",
+        "Universalidad en el acceso sin restricciones",
+        "Interconexión entre dispositivos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El documento menciona como características: integración de distintos medios, interactividad, instantaneidad, innovación, interconexión, diversidad y gran potencial para la comunicación y el aprendizaje. No menciona la universalidad sin restricciones."
+    },
+    {
+      "question": "¿Qué significan las siglas TAC?",
+      "options": [
+        "Tecnologías de Apoyo y Comunicación",
+        "Tecnologías del Aprendizaje y el Conocimiento",
+        "Tecnologías Aplicadas al Currículo",
+        "Tecnologías de Acceso al Conocimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "TAC significa Tecnologías del Aprendizaje y el Conocimiento, que se centran en el uso de la tecnología como medio para facilitar la creación, acceso, gestión y distribución del conocimiento."
+    },
+    {
+      "question": "¿Qué significan las siglas TEP?",
+      "options": [
+        "Tecnologías de Enseñanza Personalizada",
+        "Tecnologías para el Empoderamiento y la Participación",
+        "Tecnologías Educativas para el Profesorado",
+        "Tecnologías de Evaluación Pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "TEP significa Tecnologías para el Empoderamiento y la Participación, que promueven las tecnologías como un medio para ejercer una ciudadanía activa, crítica y democrática."
+    },
+    {
+      "question": "¿Qué significan las siglas TOC?",
+      "options": [
+        "Tecnologías de Orientación al Conocimiento",
+        "Tecnologías para la Organización del Currículo",
+        "Tecnologías de la Organización y la Colaboración",
+        "Tecnologías de Objetivos Curriculares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "TOC significa Tecnologías de la Organización y la Colaboración, que facilitan el trabajo en equipo y la comunicación para la gestión de proyectos, la creación de redes o el intercambio de experiencias."
+    },
+    {
+      "question": "¿Cuál es un ejemplo de TAC mencionado en el documento?",
+      "options": [
+        "Plataformas de participación ciudadana",
+        "Entornos virtuales de aprendizaje (EVA)",
+        "Sistemas de videoconferencia",
+        "Movimientos sociales en red"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los entornos virtuales de aprendizaje (EVA) son ejemplos de TAC, junto con las plataformas educativas, los repositorios de recursos, los blogs o las wikis."
+    },
+    {
+      "question": "¿Cuál es un ejemplo de TEP mencionado en el documento?",
+      "options": [
+        "Repositorios de recursos educativos",
+        "Espacios de trabajo colaborativo",
+        "Redes de acción social",
+        "Comunidades de práctica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las redes de acción social son ejemplos de TEP, junto con las plataformas de participación ciudadana, los medios comunitarios o los movimientos sociales en red."
+    },
+    {
+      "question": "¿Cuál es un ejemplo de TOC mencionado en el documento?",
+      "options": [
+        "Blogs educativos",
+        "Plataformas educativas",
+        "Sistemas de videoconferencia",
+        "Wikis colaborativas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los sistemas de videoconferencia son ejemplos de TOC, junto con espacios de trabajo colaborativo, comunidades de práctica o grupos de trabajo en línea."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una ventaja de las TIC mencionada en el documento?",
+      "options": [
+        "Aumento de la motivación del alumnado",
+        "Mejora de la comunicación y el trabajo cooperativo",
+        "Reducción del tiempo de preparación de clases",
+        "Impulso de la interdisciplinariedad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El documento menciona como ventajas: aumento de la motivación, mejora de la comunicación y trabajo cooperativo, impulso de la interdisciplinariedad, desarrollo de la creatividad, facilitar tareas menos repetitivas y apoyo a los procesos de evaluación. No menciona la reducción del tiempo de preparación."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un inconveniente de las TIC mencionado en el documento?",
+      "options": [
+        "Alto coste de mantenimiento de los equipos",
+        "Complejidad técnica para el profesorado",
+        "Dependencia tecnológica (especialmente de la IA)",
+        "Dificultad de integración curricular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El documento menciona como inconvenientes: problemas de salud visual o muscular, estrategias de mínimo esfuerzo, dependencia tecnológica (especialmente de la IA), reducción de la privacidad de los datos y situaciones de violencia digital como el ciberacoso."
+    },
+    {
+      "question": "¿Cuál es uno de los problemas de salud asociados al uso de las TIC según el documento?",
+      "options": [
+        "Problemas cardiovasculares",
+        "Problemas de salud visual o muscular",
+        "Problemas respiratorios",
+        "Problemas auditivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El documento menciona que las TIC pueden generar problemas de salud visual o muscular como uno de sus inconvenientes."
+    },
+    {
+      "question": "¿Qué estrategia ha elaborado la Xunta de Galicia para impulsar las TIC en educación?",
+      "options": [
+        "Estrategia Digital Galicia 2030",
+        "Estrategia de Educación Digital 2030",
+        "Plan Digital de Galicia 2030",
+        "Agenda Digital Educativa 2030"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En Galicia destaca la Estrategia de Educación Digital 2030 elaborada por la Xunta de Galicia."
+    },
+    {
+      "question": "¿Cuántos ejes principales sustentan la Estrategia de Educación Digital 2030?",
+      "options": [
+        "Uno: desarrollo de competencias digitales",
+        "Dos: ecosistema digital y competencias digitales",
+        "Tres: infraestructuras, formación y evaluación",
+        "Cuatro: equipamiento, formación, evaluación y seguimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Estrategia de Educación Digital 2030 se sustenta por dos grandes ejes: el desarrollo de un ecosistema educativo digital de alto rendimiento y la mejora de las competencias y capacidades digitales de la comunidad educativa."
+    },
+    {
+      "question": "¿Qué son los polos creativos mencionados en el primer eje de la Estrategia de Educación Digital 2030?",
+      "options": [
+        "Espacios virtuales para la colaboración online",
+        "Espacios para la resolución de problemas reales desde una perspectiva STEM",
+        "Plataformas de formación del profesorado",
+        "Aulas virtuales inteligentes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Respecto al primer eje, las acciones clave engloban la creación de polos creativos en todos los centros públicos, que son espacios para la resolución de problemas reales desde una perspectiva STEM."
+    },
+    {
+      "question": "¿Qué tipo de equipos se mencionan en la dotación del primer eje de la Estrategia?",
+      "options": [
+        "Equipos de realidad aumentada y gamificación",
+        "Equipos vinculados a la IA, la STEM y la robótica",
+        "Equipos de videoconferencia y comunicación digital",
+        "Equipos de evaluación y seguimiento del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El primer eje incluye la dotación de equipos vinculados a la IA, la STEM y la robótica, además de aulas virtuales inteligentes y plataformas de asistencia al profesorado."
+    },
+    {
+      "question": "¿Qué busca el segundo eje de la Estrategia de Educación Digital 2030 en relación con la brecha digital?",
+      "options": [
+        "Reducir la brecha digital mediante ayudas económicas",
+        "Luchar contra la brecha digital asegurando el acceso de todo el estudiantado a las TIC",
+        "Eliminar la brecha digital mediante la dotación universal de dispositivos",
+        "Minimizar la brecha digital con programas de alfabetización básica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El segundo eje aborda la lucha contra la brecha digital asegurando el acceso de todo el estudiantado a las TIC y promoviendo contextos híbridos de aprendizaje que combinen lo digital y lo presencial."
+    },
+    {
+      "question": "¿Qué tipo de formación impulsa el segundo eje de la Estrategia para los docentes?",
+      "options": [
+        "Formación inicial obligatoria en CD",
+        "Formación continua y permanente en la CD con un sistema de acreditación",
+        "Formación especializada en programación y robótica",
+        "Formación básica en herramientas ofimáticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El segundo eje impulsa la formación continua y permanente en la CD para docentes con un sistema de acreditación."
+    },
+    {
+      "question": "¿Qué plan ofrece programas formativos asociados a nuevos enfoques metodológicos en un entorno digital?",
+      "options": [
+        "Plan Digital de Centro",
+        "Plan de Formación Docente Digital",
+        "Plan Integral de Formación y Acreditación de Competencias Digitales de la Comunidad Educativa",
+        "Plan de Innovación Educativa en TIC"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Plan Integral de Formación y Acreditación de Competencias Digitales de la Comunidad Educativa ofrece programas formativos asociados a nuevos enfoques metodológicos en un entorno digital y al uso de recursos STEM."
+    },
+    {
+      "question": "¿Qué organismo autonómico NO participa en el Plan de Formación según el documento?",
+      "options": [
+        "Servicio de Formación del Profesorado",
+        "Centro Autonómico de Formación e Innovación (CAFI)",
+        "Centros de Formación y Recursos (CFR)",
+        "Instituto Gallego de Estadística (IGE)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El plan es llevado a cabo por la Consellería a través del Servicio de Formación del Profesorado, del Centro Autonómico de Formación e Innovación (CAFI) y de los Centros de Formación y Recursos (CFR). No se menciona el IGE."
+    },
+    {
+      "question": "¿En qué año se inició el Proyecto Abalar?",
+      "options": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Proyecto Abalar, iniciado en el 2010, tiene por objetivo transformar el sistema educativo a través de la integración de las TIC."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del Proyecto Abalar?",
+      "options": [
+        "Dotar de ordenadores portátiles a todo el alumnado",
+        "Transformar el sistema educativo a través de la integración de las TIC y convertir los centros en centros digitales",
+        "Crear una plataforma educativa online para toda Galicia",
+        "Formar al profesorado en competencias digitales avanzadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Proyecto Abalar tiene por objetivo transformar el sistema educativo a través de la integración de las TIC y convertir los centros docentes en centros digitales."
+    },
+    {
+      "question": "¿Qué tipo de equipos incluye la dotación tecnológica del Proyecto Abalar?",
+      "options": [
+        "Tablets y smartphones educativos",
+        "Pizarras digitales interactivas, proyectores y dispositivos individuales",
+        "Ordenadores de sobremesa y pantallas táctiles",
+        "Robots educativos y kits de programación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Proyecto Abalar incluye la dotación de equipos tecnológicos en las aulas, como pizarras digitales interactivas, proyectores, y dispositivos individuales para los estudiantes."
+    },
+    {
+      "question": "¿A qué alumnado está dirigido el Proyecto Edixgal?",
+      "options": [
+        "Alumnado de toda la Educación Primaria",
+        "Alumnado de 5º y 6º de EP y de todos los cursos de la ESO",
+        "Alumnado de 1º a 4º de EP",
+        "Alumnado de Bachillerato y FP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Proyecto Edixgal está dirigido al alumnado de 5º y 6º de EP y de todos los cursos de la ESO."
+    },
+    {
+      "question": "¿Qué dispositivos personales proporciona Edixgal a estudiantes y profesores?",
+      "options": [
+        "Tablets",
+        "Chromebooks",
+        "Netbooks",
+        "Ultrabooks"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Edixgal se caracteriza por la implantación de aulas digitales equipadas con pizarras digitales interactivas, proyectores y dispositivos personales (netbooks) para cada estudiante y profesor."
+    },
+    {
+      "question": "¿Cuántos recursos educativos aproximadamente ofrece el repositorio de Edixgal?",
+      "options": [
+        "Más de 2.000 recursos",
+        "Más de 3.000 recursos",
+        "Más de 4.000 recursos",
+        "Más de 5.000 recursos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Edixgal ofrece acceso a un repositorio con más de 4.000 recursos educativos en varios idiomas."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un proveedor de contenidos digitales mencionado para Edixgal?",
+      "options": [
+        "Edebé",
+        "Netex",
+        "Santillana",
+        "aulaPlaneta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los proveedores de contenidos digitales mencionados para Edixgal son Edebé, Netex, aulaPlaneta y Pearson. No se menciona Santillana."
+    },
+    {
+      "question": "¿Qué aplicación móvil facilita la comunicación en el Proyecto Edixgal?",
+      "options": [
+        "EdixMóbil",
+        "AbalarMóbil",
+        "GaliciaMóbil",
+        "EduMóbil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Edixgal facilita la comunicación entre docentes, estudiantes y familias a través de plataformas digitales y aplicaciones móviles, como AbalarMóbil."
+    },
+    {
+      "question": "¿Qué son los Polos Creativos según el documento?",
+      "options": [
+        "Plataformas virtuales de colaboración entre centros",
+        "Espacios físicos dentro de los centros educativos para fomentar la creatividad y el aprendizaje competencial",
+        "Programas formativos para el desarrollo de la creatividad docente",
+        "Concursos de innovación educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los Polos Creativos son espacios físicos dentro de los centros educativos organizados didácticamente para fomentar la creatividad y el aprendizaje competencial del alumnado a través de actividades de tipo taller."
+    },
+    {
+      "question": "¿Cuál de los siguientes ámbitos NO se trabaja en los Polos Creativos?",
+      "options": [
+        "IA y otras tecnologías intensivas",
+        "Realidad virtual y impresión 3D",
+        "Robótica y microcontroladores",
+        "Diseño web y comercio electrónico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los Polos Creativos trabajan ámbitos como la IA, procesado audiovisual, realidad virtual e impresión 3D, tecnologías de control computerizado, fabricación aditiva, mecanizado de materiales, electromecánica, robótica y microcontroladores. No se menciona diseño web ni comercio electrónico."
+    },
+    {
+      "question": "¿Qué es el Aula Nova o Workspace?",
+      "options": [
+        "Una plataforma virtual de formación online",
+        "Un espacio educativo ubicado en el CAFI para experimentar con nuevas tecnologías",
+        "Un programa de innovación para centros educativos",
+        "Una aplicación móvil para la gestión del aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Aula Nova o Workspace es un espacio educativo ubicado en el Centro Autonómico de Formación e Innovación (CAFI) de Galicia disponible para todo el profesorado que desee experimentar con nuevas tecnologías y metodologías educativas."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una zona del Aula Nova?",
+      "options": [
+        "Zonas de colaboración",
+        "Zonas de creación",
+        "Zonas de evaluación",
+        "Zonas de prototipado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Aula Nova está dividida en zonas de colaboración, zonas de creación, zonas de prototipado y zonas de presentación. No se menciona zonas de evaluación."
+    },
+    {
+      "question": "¿Qué plataforma está destinada a la gestión administrativa y académica de los centros educativos en Galicia?",
+      "options": [
+        "PROENS",
+        "XADE",
+        "Educalidade",
+        "AbalarPro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Plataforma de Xestión Administrativa e Docente Electrónica (XADE) está destinada a la gestión administrativa y académica de los centros."
+    },
+    {
+      "question": "¿Qué permite gestionar la plataforma XADE?",
+      "options": [
+        "Programaciones didácticas y memorias finales",
+        "Calificaciones, expedientes académicos y matrículas",
+        "Planes de centro y proyectos educativos",
+        "Recursos educativos y materiales didácticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "XADE permite llevar un control de las calificaciones, los expedientes académicos o las matrículas, entre otros aspectos de gestión administrativa y académica."
+    },
+    {
+      "question": "¿Qué plataforma se enfoca en la gestión y elaboración de programaciones didácticas?",
+      "options": [
+        "XADE",
+        "PROENS",
+        "Educalidade",
+        "PLEA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PROENS es la plataforma enfocada en la gestión y elaboración de programaciones didácticas (PD), memorias finales y adaptaciones curriculares."
+    },
+    {
+      "question": "¿Qué permite elaborar la plataforma Educalidade?",
+      "options": [
+        "Programaciones didácticas",
+        "Documentos de evaluación",
+        "Planes de centro como el Plan Digital o Plan de Acción Tutorial",
+        "Materiales educativos digitales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Educalidade permite a los centros elaborar y realizar un seguimiento de planes de centro como el Plan Digital o Plan de Acción Tutorial."
+    },
+    {
+      "question": "¿Qué significan las siglas PLEA?",
+      "options": [
+        "Plan de Lectura, Escritura y Aprendizaje",
+        "Plan de Lectura, Escritura y Acceso a la Información",
+        "Programa de Lengua, Escritura y Alfabetización",
+        "Proyecto de Lectura, Expresión y Análisis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PLEA significa Plan de Lectura, Escritura y Acceso a la Información, regulado por la resolución del 16 de octubre de 2023."
+    },
+    {
+      "question": "¿Qué aplicación permite a las familias recibir información sobre la actividad educativa de sus hijos?",
+      "options": [
+        "AbalarPro",
+        "AbalarMóbil para Familias",
+        "Espacio Tutorías",
+        "EspazoAbalar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "AbalarMóbil para Familias permite recibir información sobre la actividad educativa de sus hijos, como calificaciones, asistencia y otros avisos importantes."
+    },
+    {
+      "question": "¿Qué aplicación facilita al profesorado la comunicación con las familias y el registro de asistencia?",
+      "options": [
+        "AbalarMóbil para Familias",
+        "AbalarPro para el Profesorado",
+        "Espacio Tutorías",
+        "XADE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "AbalarPro para el Profesorado facilita la comunicación del docente con las familias, la organización de tutorías, el registro de asistencia y otras tareas administrativas desde dispositivos móviles."
+    },
+    {
+      "question": "¿Qué plataforma promueve la colaboración entre profesorado permitiendo solicitar informes del alumnado?",
+      "options": [
+        "AbalarPro",
+        "PROENS",
+        "Espacio Tutorías",
+        "EspazoAbalar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Espacio Tutorías promueve la colaboración entre profesorado permitiendo solicitar y gestionar informes del alumnado y preparar tutorías."
+    },
+    {
+      "question": "¿Qué servicio conecta a docentes y centros para facilitar la coordinación de actividades?",
+      "options": [
+        "Espacio Tutorías",
+        "Servicio de Comunicación EspazoAbalar para Profesorado y Centros",
+        "AbalarPro",
+        "XADE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para conectar a docentes y centros y facilitar la coordinación de actividades se creó el Servicio de Comunicación EspazoAbalar para Profesorado y Centros."
+    },
+    {
+      "question": "¿Cuáles son las dos plataformas de videoconferencia ofrecidas por la Consellería mencionadas en el documento?",
+      "options": [
+        "Zoom y Microsoft Teams",
+        "EDUXUNTA WEBEX y Falemos Edu",
+        "Google Meet y Skype",
+        "BigBlueButton y Jitsi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para el desarrollo de videoconferencias destacan dos plataformas ofrecidas por la Consellería: EDUXUNTA WEBEX y Falemos Edu."
+    },
+    {
+      "question": "¿Qué plataforma está destinada al almacenamiento y gestión de recursos educativos por parte de los centros educativos rurales?",
+      "options": [
+        "BoxAbalar",
+        "cREAgal",
+        "Escuelas en la Nube",
+        "Agueiro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Escuelas en la Nube está destinada al almacenamiento y gestión de recursos educativos por parte de los centros educativos rurales facilitando el acceso y la colaboración en línea."
+    },
+    {
+      "question": "¿Qué plataforma permite a docentes guardar materiales en la nube y acceder desde cualquier dispositivo?",
+      "options": [
+        "Escuelas en la Nube",
+        "BoxAbalar",
+        "cREAgal",
+        "XADE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "BoxAbalar permite a docentes guardar materiales en la nube y acceder desde cualquier dispositivo con conexión a internet."
+    },
+    {
+      "question": "¿Qué plataforma ofrece recursos educativos elaborados por profesorado gallego?",
+      "options": [
+        "BoxAbalar",
+        "cREAgal",
+        "Escuelas en la Nube",
+        "Agueiro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "cREAgal ofrece recursos educativos de diversas áreas elaborados por profesorado gallego."
+    },
+    {
+      "question": "¿Qué es la Herramienta de Portfolio Agueiro?",
+      "options": [
+        "Una plataforma de gestión administrativa",
+        "Un EVA donde los alumnos pueden crear y gestionar portfolios digitales",
+        "Un repositorio de recursos educativos",
+        "Una aplicación de evaluación gamificada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Herramienta de Portfolio Agueiro es un EVA donde los alumnos pueden crear y gestionar portfolios digitales para documentar sus progresos y logros."
+    },
+    {
+      "question": "¿Qué plataforma ofrece servicio de préstamo y lectura digital de libros, audiolibros, revistas, podcast y vídeos?",
+      "options": [
+        "cREAgal",
+        "e-biblio",
+        "ELBE-2",
+        "Agueiro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La plataforma ELBE-2 ofrece un servicio de préstamo y lectura digital de una amplia gama de libros digitales, audiolibros, revistas, podcast y vídeos para centros incluidos en el PLAMBE y Plan LIA."
+    },
+    {
+      "question": "¿Qué proyecto fomenta la comunicación y colaboración entre centros de diferentes países?",
+      "options": [
+        "Erasmus+",
+        "E-twinning",
+        "Comenius",
+        "European Schools Network"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las TIC fomentan la comunicación y colaboración entre centros de diferentes países a través de proyectos como E-twinning."
+    },
+    {
+      "question": "Según Gómez (2004), ¿de cuántas maneras pueden integrarse las TIC en el sistema educativo?",
+      "options": [
+        "Dos: como objeto y como medio",
+        "Tres: como objeto, como medio y como apoyo",
+        "Cuatro: como objeto, medio, apoyo y recurso",
+        "Cinco: objeto, medio, apoyo, evaluación y comunicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gómez (2004) indica que las TIC pueden integrarse en el sistema educativo de tres maneras distintas: como objeto, como medio y como apoyo al aprendizaje."
+    },
+    {
+      "question": "¿Qué implica usar las TIC como objeto de aprendizaje?",
+      "options": [
+        "Que el alumnado aprenda contenidos curriculares a través de aplicaciones",
+        "Que el alumnado aprenda sobre la tecnología, su funcionamiento y uso ético",
+        "Que el alumnado use la tecnología como complemento del aprendizaje",
+        "Que el alumnado evalúe su aprendizaje mediante herramientas digitales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como objeto de aprendizaje implica que el alumnado aprenda sobre la tecnología como un contenido; sobre su funcionamiento y uso ético y responsable, desarrollando competencias técnicas."
+    },
+    {
+      "question": "¿Cuál de las siguientes herramientas NO se menciona para enseñar programación en Primaria?",
+      "options": [
+        "Scratch",
+        "Bee-Bots",
+        "Python",
+        "Lego Mindstorms"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para programación se mencionan Scratch, Bee-Bots y Lego Mindstorms. Python no se menciona específicamente en el documento."
+    },
+    {
+      "question": "¿Cuál de las siguientes herramientas NO se menciona para crear contenido digital?",
+      "options": [
+        "Genially",
+        "Canva",
+        "PowerPoint",
+        "Powtoon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para crear contenido digital se mencionan Genially, Prezi, Canva, Bubble, Miro, iMovie, Capcut y Powtoon. PowerPoint no se menciona específicamente."
+    },
+    {
+      "question": "¿Qué se menciona como ejemplo de tecnología emergente para exponer a los niños?",
+      "options": [
+        "Blockchain y criptomonedas",
+        "Impresoras 3D y realidad virtual",
+        "Computación cuántica",
+        "Metaverso educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es importante exponer a los niños a tecnologías emergentes, por ejemplo con impresoras 3D para diseñar y crear objetos o con la realidad virtual a través de dispositivos como las gafas."
+    },
+    {
+      "question": "¿Qué implica usar las tecnologías como medio para aprender?",
+      "options": [
+        "Aprender sobre la tecnología y su funcionamiento",
+        "Usar las TIC como recurso que facilita el aprendizaje de las áreas curriculares",
+        "Usar la tecnología como complemento de la metodología",
+        "Evaluar el aprendizaje mediante herramientas digitales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las tecnologías como medio para aprender se refieren a las TIC como recurso que facilita el aprendizaje de las áreas curriculares mediante aplicaciones que ofrecen contenidos accesibles, interactivos y atractivos."
+    },
+    {
+      "question": "¿Qué aplicación se menciona como ejemplo de TIC como medio para aprender matemáticas?",
+      "options": [
+        "Kahoot",
+        "Geogebra",
+        "Scratch",
+        "Retomates"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como ejemplo de TIC como medio para aprender se menciona Geogebra para las matemáticas, procesadores de textos como Google Docs, o plataformas de simulaciones científicas."
+    },
+    {
+      "question": "¿Qué plataforma de simulaciones y laboratorios virtuales se menciona para el campo de las ciencias?",
+      "options": [
+        "Virtual Lab",
+        "PhET Interactive Simulators",
+        "Labster",
+        "Science Lab Online"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el campo de las ciencias se mencionan plataformas de simulaciones y laboratorios virtuales como PhET Interactive Simulators."
+    },
+    {
+      "question": "¿Qué implica usar las tecnologías como apoyo al aprendizaje?",
+      "options": [
+        "Aprender sobre la tecnología y su uso responsable",
+        "Usar las TIC para facilitar el aprendizaje de contenidos específicos",
+        "Integrarlas como complemento y enriquecimiento de la metodología",
+        "Sustituir completamente los métodos tradicionales de enseñanza"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las tecnologías como apoyo al aprendizaje se integran como complemento y enriquecimiento de la metodología facilitando el acceso a los recursos, la colaboración y la personalización según las necesidades de cada alumno."
+    },
+    {
+      "question": "¿Qué significan las siglas PDI?",
+      "options": [
+        "Plataforma Digital Interactiva",
+        "Pizarra Digital Interactiva",
+        "Programa de Digitalización Integrada",
+        "Portal Docente Interactivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PDI significa Pizarra Digital Interactiva, que muestra contenidos digitales de manera interactiva con gráficos, vídeos o aplicaciones."
+    },
+    {
+      "question": "¿Cuál de las siguientes plataformas NO se menciona como ejemplo de plataforma de aprendizaje en línea?",
+      "options": [
+        "Moodle",
+        "Classdojo",
+        "Google Classroom",
+        "Canvas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Como plataformas de aprendizaje en línea se mencionan Moodle, Classdojo y Google Classroom. Canvas no se menciona."
+    },
+    {
+      "question": "¿Cuál de las siguientes aplicaciones NO se menciona para evaluación y retroalimentación gamificadas?",
+      "options": [
+        "Kahoot",
+        "Socrative",
+        "Nearpod",
+        "Quizziz"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para evaluación y retroalimentación gamificadas se mencionan Kahoot, Socrative, Edpuzzle, Plickers y Quizziz. Nearpod no se menciona."
+    },
+    {
+      "question": "¿Qué recurso educativo multimedia se menciona para enriquecer los contenidos curriculares?",
+      "options": [
+        "YouTube Edu",
+        "Khan Academy",
+        "TED-Ed",
+        "Coursera"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Como recursos educativos multimedia para enriquecer los contenidos curriculares se mencionan YouTube Edu y Notebook LM."
+    },
+    {
+      "question": "¿Qué metodología activa se menciona que las TIC facilitan integrar?",
+      "options": [
+        "Aprendizaje Basado en Proyectos (ABP)",
+        "FlippedClassroom",
+        "Aprendizaje Cooperativo",
+        "Gamificación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El documento menciona que las TIC facilitan la integración de metodologías activas como el FlippedClassroom (Aula Invertida)."
+    },
+    {
+      "question": "¿En qué anexo del Decreto 155/2022 se reflejan los descriptores operativos de la CD?",
+      "options": [
+        "Anexo I",
+        "Anexo II",
+        "Anexo III",
+        "Anexo IV"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los descriptores operativos de la CD se reflejan en el anexo I del decreto 155/2022 que permiten medir el grado de consecución de la CD al finalizar la EP."
+    },
+    {
+      "question": "¿Qué significan las siglas STEM mencionadas en el documento?",
+      "options": [
+        "Science, Technology, Education, Mathematics",
+        "Science, Technology, Engineering, Mathematics",
+        "System, Technology, Engineering, Media",
+        "Science, Training, Engineering, Methods"
+      ],
+      "correctAnswer": 1,
+      "explanation": "STEM significa Science, Technology, Engineering, Mathematics (Ciencia, Tecnología, Ingeniería y Matemáticas), un enfoque educativo interdisciplinario."
+    },
+    {
+      "question": "¿Qué competencia clave menciona el documento que las TIC favorecen mediante entornos interactivos para planificar y evaluar el propio aprendizaje?",
+      "options": [
+        "CD (Competencia Digital)",
+        "CCL (Competencia en Comunicación Lingüística)",
+        "CPSAA (Competencia Personal, Social y de Aprender a Aprender)",
+        "CC (Competencia Ciudadana)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las TIC favorecen la autonomía y la autorregulación del aprendizaje mediante entornos interactivos, contribuyendo a la adquisición de la CPSAA (Competencia Personal, Social y de Aprender a Aprender)."
+    },
+    {
+      "question": "¿Qué recurso gamificado se menciona que ofrece una gran variedad de juegos y ejercicios matemáticos?",
+      "options": [
+        "Math Jump",
+        "Retomates",
+        "Mathletics",
+        "Prodigy Math"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Centrados en la gamificación para matemáticas, existen recursos como Retomates que ofrece una gran variedad de juegos, ejercicios y exámenes matemáticos."
+    },
+    {
+      "question": "¿Qué videojuego se menciona cuyo objetivo es resolver retos aritméticos para avanzar de nivel?",
+      "options": [
+        "Number Quest",
+        "Math Jump",
+        "Arithmetic Adventure",
+        "Calculation Challenge"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se menciona el videojuego Math Jump, cuyo objetivo es resolver retos aritméticos para avanzar de nivel."
+    },
+    {
+      "question": "¿Qué significan las siglas ALFIN?",
+      "options": [
+        "Alfabetización en Formación e Información",
+        "Alfabetización Informacional",
+        "Acceso a la Lectura y Formación Integral",
+        "Aprendizaje de Lengua y Formación Intelectual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ALFIN significa Alfabetización Informacional, competencia que las TIC ayudan a desarrollar en las áreas de lengua."
+    },
+    {
+      "question": "¿Qué significan las siglas AMI?",
+      "options": [
+        "Acceso a Medios e Información",
+        "Alfabetización Mediática e Informacional",
+        "Aprendizaje Multimedia Integrado",
+        "Análisis de Medios e Internet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "AMI significa Alfabetización Mediática e Informacional, competencia desarrollada a través de la búsqueda, selección y comprensión de la información digital."
+    },
+    {
+      "question": "¿Qué red social se menciona que fomenta el interés por la lectura al poder compartir opiniones?",
+      "options": [
+        "Goodreads",
+        "Leoteca",
+        "Bookstagram",
+        "ReadingHub"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para lectura y comprensión son beneficiosas herramientas como los diccionarios electrónicos, blogs, la red social leoteca que fomenta el interés por la lectura al poder compartir opiniones de lecturas."
+    },
+    {
+      "question": "¿Qué herramienta se menciona para la creación de infografías?",
+      "options": [
+        "Genially o Prezi",
+        "Canva o Piktochart",
+        "Miro o Bubble",
+        "Padlet o Mentimeter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la creación de infografías se mencionan Canva o Piktochart."
+    },
+    {
+      "question": "¿Qué recurso web se menciona integrado por una serie de juegos gramaticales?",
+      "options": [
+        "juegosdepalabras.com",
+        "gramáticas.net",
+        "lenguayliteratura.org",
+        "educaplay.com"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Relacionado con la gramática y ortografía destacar gramáticas.net, integrado por una serie de juegos gramaticales."
+    },
+    {
+      "question": "¿En qué consiste el juego online '¿cómo dice que dijo?'?",
+      "options": [
+        "En identificar el significado correcto de palabras",
+        "En completar oraciones con la palabra correcta ortográficamente",
+        "En conjugar verbos correctamente",
+        "En ordenar palabras para formar oraciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El juego online '¿cómo dice que dijo?' consiste en completar oraciones con la palabra correcta ortográficamente."
+    },
+    {
+      "question": "¿Qué plataforma engloba una variedad de minijuegos de varias áreas incluyendo el pasapalabra?",
+      "options": [
+        "Cerebriti",
+        "Educaplay",
+        "Wordwall",
+        "Quizlet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Educaplay engloba una variedad de minijuegos de varias áreas entre los que se encuentra el pasapalabra."
+    },
+    {
+      "question": "¿Qué herramienta de podcast se menciona para la expresión oral?",
+      "options": [
+        "Anchor",
+        "Spreaker",
+        "Podbean",
+        "SoundCloud"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la expresión oral es interesante introducir herramientas de podcast como Spreaker o de edición de vídeo como iMovie o Powtoon."
+    },
+    {
+      "question": "¿Qué aplicación permite acceder al préstamo de lecturas digitales?",
+      "options": [
+        "ELBE-2",
+        "e-biblio",
+        "Leoteca",
+        "Agueiro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En relación con la literatura, aplicaciones como e-biblio permiten acceder al préstamo de lecturas."
+    },
+    {
+      "question": "¿Cuál de las siguientes aplicaciones NO se menciona para crear historias digitales?",
+      "options": [
+        "Storybird",
+        "Pixton",
+        "Book Creator",
+        "Flicks"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para crear historias se mencionan Storybird, Pixton y Flicks. Book Creator no se menciona."
+    },
+    {
+      "question": "¿Qué aplicación se menciona para aprender inglés en lengua extranjera?",
+      "options": [
+        "Duolingo",
+        "LingoKids",
+        "Rosetta Stone",
+        "Babbel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la lengua extranjera inglés se puede hacer uso de traductores o de la aplicación LingoKids."
+    },
+    {
+      "question": "¿Qué herramienta se menciona para observar partes de la tierra en el área de CCNN?",
+      "options": [
+        "Google Maps",
+        "Google Earth",
+        "NASA WorldWind",
+        "ArcGIS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para el área de CCNN se menciona Google Earth para observar partes de la tierra."
+    },
+    {
+      "question": "¿Qué canal educativo de experimentos se menciona?",
+      "options": [
+        "Experimentos en Casa",
+        "Ciencia Divertida",
+        "Exp Caseros Kids",
+        "Ciencia en Acción"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Como ejemplo de canal educativo de experimentos se menciona Exp Caseros Kids."
+    },
+    {
+      "question": "¿Qué recurso se menciona como enciclopedia virtual para aprender sobre animales?",
+      "options": [
+        "Wikipedia Animal",
+        "Enciclopedia Virtual de los Vertebrados Españoles",
+        "National Geographic Kids",
+        "Animal Planet Education"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como recurso para aprender sobre animales o el medio ambiente, destacar la Enciclopedia Virtual de los Vertebrados Españoles o documentales de naturaleza, por ejemplo de la RTVE."
+    },
+    {
+      "question": "¿Qué juego gamificado se menciona destinado al aprendizaje de la anatomía humana?",
+      "options": [
+        "Human Anatomy Atlas",
+        "Build a Body",
+        "Body Explorer",
+        "Anatomy 3D"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Centrado en la gamificación, mencionar Build a Body destinado al aprendizaje de la anatomía humana."
+    },
+    {
+      "question": "¿Qué juego diseñado por la NASA se menciona para aprender sobre el espacio?",
+      "options": [
+        "NASA Space Adventure",
+        "The Space Place",
+        "Space Explorers",
+        "NASA Kids Club"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se menciona The Space Place diseñado por la NASA para aprender sobre el espacio y la Tierra."
+    },
+    {
+      "question": "¿Qué juego se menciona para trabajar los mapas en CCSS?",
+      "options": [
+        "Toporopa o Geoguessr",
+        "MapQuiz o WorldGeo",
+        "GeoChallenge o MapMaster",
+        "Geografia Pro o Atlas Digital"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En CCSS, para trabajar los mapas se mencionan juegos como Toporopa o Geoguessr."
+    },
+    {
+      "question": "¿Qué colección de documentales se menciona para el área de CCSS?",
+      "options": [
+        "Historia de España",
+        "Memoria de España",
+        "España en la Historia",
+        "Crónicas de España"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para el área de CCSS se mencionan documentales como la colección Memoria de España."
+    },
+    {
+      "question": "¿Cuál de las siguientes herramientas NO se menciona para Educación artística plástica y visual?",
+      "options": [
+        "Lienzo Mi",
+        "Pixelandia",
+        "Procreate",
+        "Proyecto Primartis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para Educación artística plástica y visual se mencionan Lienzo Mi, Pixelandia, Proyecto Primartis y Gimp. Procreate no se menciona."
+    },
+    {
+      "question": "¿Qué herramienta se menciona para trabajar la notación musical?",
+      "options": [
+        "Music Theory Pro",
+        "Do, re, mi: DrMsk",
+        "NoteFlight",
+        "MuseScore"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para trabajar la notación musical se puede usar Do, re, mi: DrMsk."
+    },
+    {
+      "question": "¿Qué simulador de instrumentos se menciona para el área de Música?",
+      "options": [
+        "Virtual Piano",
+        "Piano Dust Buster",
+        "GarageBand",
+        "Simply Piano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como simulador de instrumentos se menciona el Piano Dust Buster."
+    },
+    {
+      "question": "¿Qué aplicación se menciona para trabajar la danza?",
+      "options": [
+        "Dance Academy",
+        "Just Dance Now",
+        "Dance Party",
+        "Move & Groove"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la danza se menciona Just Dance Now."
+    },
+    {
+      "question": "¿Qué principio fundamental menciona el documento respecto a la educación y la inclusión?",
+      "options": [
+        "Garantizar la excelencia académica de todo el alumnado",
+        "Garantizar la inclusión educativa de todo el alumnado",
+        "Garantizar el acceso universal a la tecnología",
+        "Garantizar la igualdad de oportunidades laborales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La educación tiene como principio garantizar la inclusión educativa de todo el alumnado."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 está regulada la atención a la diversidad?",
+      "options": [
+        "Artículo 17",
+        "Artículo 19",
+        "Artículo 20",
+        "Artículo 21"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La atención a la diversidad está regulada en el artículo 20 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué Decreto regula la atención a la diversidad del alumnado de los centros docentes de Galicia?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 229/2011, de 7 de diciembre",
+        "Decreto 374/1996, de 17 de octubre",
+        "Decreto 157/2022, de 15 de septiembre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 229/2011, de 7 de diciembre, regula la atención a la diversidad del alumnado de los centros docentes de la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿Qué significan las siglas DUA?",
+      "options": [
+        "Diseño Universal de Aprendizaje",
+        "Diseño Único de Accesibilidad",
+        "Diversidad Universal en el Aula",
+        "Desarrollo Universal de Aptitudes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "DUA significa Diseño Universal para el Aprendizaje (o Diseño Universal de Aprendizaje), un marco para facilitar el acceso al aprendizaje respondiendo a las necesidades del alumnado."
+    },
+    {
+      "question": "¿Cuántos principios tiene el DUA según el documento?",
+      "options": [
+        "Dos principios",
+        "Tres principios",
+        "Cuatro principios",
+        "Cinco principios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El documento menciona integrar las TIC en cada uno de los tres principios DUA: representación, acción y expresión, e implicación."
+    },
+    {
+      "question": "¿Cuál es el primer principio del DUA mencionado en el documento?",
+      "options": [
+        "Proporcionar múltiples formas de implicación",
+        "Proporcionar múltiples formas de representación",
+        "Proporcionar múltiples formas de acción y expresión",
+        "Proporcionar múltiples formas de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El primer principio del DUA mencionado es proporcionar múltiples formas de representación, que incluye aplicaciones para percibir información, lenguaje y símbolos, y comprensión."
+    },
+    {
+      "question": "¿Cuál de las siguientes aplicaciones NO se menciona para proporcionar múltiples formas de representación (percibir información)?",
+      "options": [
+        "Speakit",
+        "Voki",
+        "Lupa",
+        "Cerebriti"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para percibir la información se mencionan Speakit, Voki, AccesibilidadWindows, Lupa y Tecuento. Cerebriti se menciona para la implicación, no para representación."
+    },
+    {
+      "question": "¿Qué aplicación relacionada con la dislexia se menciona en el principio de representación (lenguaje y símbolos)?",
+      "options": [
+        "DyslexiaFont",
+        "OpenDislexic",
+        "Dyslexie",
+        "Read&Write"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En aplicaciones de lenguaje y símbolos se menciona OpenDislexic, junto con Singslator, Dicta-Picto y NubedePalabras."
+    },
+    {
+      "question": "¿Cuál de las siguientes aplicaciones NO se menciona para proporcionar múltiples formas de representación (comprensión)?",
+      "options": [
+        "Telligami",
+        "LecturaFácil",
+        "SoyVisual",
+        "Adapro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para comprensión se mencionan Telligami, LecturaFácil, SoyVisual y Pictotraductor. Adapro se menciona para acción y expresión."
+    },
+    {
+      "question": "¿Cuál es el segundo principio del DUA mencionado en el documento?",
+      "options": [
+        "Proporcionar múltiples medios de representación",
+        "Proporcionar múltiples medios de acción y expresión",
+        "Proporcionar múltiples medios de implicación",
+        "Proporcionar múltiples medios de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El segundo principio del DUA es proporcionar múltiples medios de acción y expresión, que incluye medios físicos, de expresión y comunicación, y para funciones ejecutivas."
+    },
+    {
+      "question": "¿Qué aplicación se menciona relacionada con la mirada como medio físico de acción?",
+      "options": [
+        "Eye Tracker",
+        "RatóndeMirada",
+        "Gaze Control",
+        "Eye Control"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como medios físicos de acción se mencionan PictogramaRoom, RatóndeMirada, Teclado adaptado y TecladoVirtual."
+    },
+    {
+      "question": "¿Cuál de las siguientes aplicaciones NO se menciona como medio de expresión y comunicación?",
+      "options": [
+        "Adapro",
+        "iMovie",
+        "Dilo",
+        "Scratch"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Como medios de expresión y comunicación se mencionan Adapro, iMovie, Pie-collage, Dilo y LetMeTalk. Scratch se menciona para la implicación."
+    },
+    {
+      "question": "¿Qué aplicación se menciona para entrenar las funciones ejecutivas?",
+      "options": [
+        "Executive Function Trainer",
+        "Creately",
+        "Brain Training",
+        "Mindfulness App"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como medios para entrenar las funciones ejecutivas se mencionan Creately, MinModo, AgendaEscolar y ZacBrowers."
+    },
+    {
+      "question": "¿Cuál es el tercer principio del DUA mencionado en el documento?",
+      "options": [
+        "Proporcionar múltiples formas de evaluación",
+        "Proporcionar múltiples formas de implicación",
+        "Proporcionar múltiples formas de colaboración",
+        "Proporcionar múltiples formas de motivación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tercer principio del DUA es proporcionar múltiples formas de implicación, que incluye herramientas para captar el interés, la persistencia y la autorregulación."
+    },
+    {
+      "question": "¿Cuál de las siguientes herramientas NO se menciona para captar el interés (implicación)?",
+      "options": [
+        "Cerebriti",
+        "Plickers",
+        "Kahoot",
+        "Scratch"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para captar el interés se mencionan Cerebriti, Plickers, Scratch y Bee-Bot. Kahoot se menciona antes como herramienta de evaluación gamificada, no específicamente en este contexto del DUA."
+    },
+    {
+      "question": "¿Cuál de las siguientes aplicaciones NO se menciona para la persistencia (implicación)?",
+      "options": [
+        "Edmodo",
+        "ClassDojo",
+        "Padlet",
+        "Moodle"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para la persistencia se mencionan Edmodo, ClassDojo, LessonPlan, Padlet y Mentimeter. Moodle se menciona antes como plataforma de aprendizaje en línea."
+    },
+    {
+      "question": "¿Qué aplicación relacionada con el tiempo se menciona para la autorregulación?",
+      "options": [
+        "TimeTimer",
+        "TicoTimer",
+        "Pomodoro Timer",
+        "Focus Timer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la autorregulación se mencionan TicoTimer, Tempus, PictogramAgenda y ClassroomScreen."
+    },
+    {
+      "question": "¿Qué plataformas permiten la atención hospitalaria y domiciliaria según el documento?",
+      "options": [
+        "Zoom y Microsoft Teams",
+        "e-learning, Moodle y videoconferencia",
+        "EDUXUNTA WEBEX y Falemos Edu",
+        "Google Classroom y Classdojo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las TIC facilitan la atención hospitalaria y domiciliaria a través de aulas virtuales como e-learning, Moodle o de videoconferencia."
+    },
+    {
+      "question": "Según Castro et al. (2007), ¿qué es más importante que capacitar a personas para el uso de las TIC?",
+      "options": [
+        "Enseñarles a programar y desarrollar aplicaciones",
+        "Formarlos para crear, operar y utilizar creativamente nuevos medios para aprender a aprender",
+        "Prepararlos para usar herramientas específicas del mercado laboral",
+        "Desarrollar su capacidad de consumo crítico de tecnología"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Castro et al. (2007) afirman que educar en la CD es más que capacitar a personas para el uso de las TIC, es formarlos para crear, operar y utilizar creativamente nuevos medios para aprender a aprender."
+    },
+    {
+      "question": "¿Qué característica de las tecnologías menciona el documento que requiere que el sistema educativo esté en constante actualización?",
+      "options": [
+        "Su complejidad técnica",
+        "Su alto coste",
+        "Que son cambiantes y volátiles",
+        "Su dependencia de infraestructuras"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El documento menciona que las tecnologías son cambiantes y volátiles por lo que el sistema educativo debe estar en constante actualización y renovación."
+    },
+    {
+      "question": "¿Qué es imprescindible que acompañe al DUA según la conclusión del documento?",
+      "options": [
+        "Una metodología innovadora",
+        "Las TIC",
+        "Recursos económicos suficientes",
+        "Formación específica del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es imprescindible que el DUA vaya acompañado de las TIC con el fin de promover una mayor accesibilidad y atención a la diversidad del aula."
+    },
+    {
+      "question": "¿Qué debe estar coordinado por un docente según el artículo 14 de la Orden de 26 de mayo de 2023?",
+      "options": [
+        "El Proyecto Educativo de Centro",
+        "El Plan Digital",
+        "El Plan de Atención a la Diversidad",
+        "El Plan de Formación del Profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Orden de 26 de mayo de 2023 concreta en el artículo 14 el Plan Digital obligatorio que estará coordinado por un docente."
+    },
+    {
+      "question": "¿Qué tipo de contextos de aprendizaje promueve el segundo eje de la Estrategia de Educación Digital 2030?",
+      "options": [
+        "Contextos virtuales exclusivos",
+        "Contextos presenciales tradicionales",
+        "Contextos híbridos que combinen lo digital y lo presencial",
+        "Contextos autónomos de autoaprendizaje"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El segundo eje de la Estrategia promueve contextos híbridos de aprendizaje que combinen lo digital y lo presencial."
+    },
+    {
+      "question": "¿Qué tipo de recursos incluye el Plan de Formación mencionado en la Estrategia?",
+      "options": [
+        "Recursos de gestión administrativa",
+        "Recursos STEM como robótica, programación e impresión 3D",
+        "Recursos de evaluación del alumnado",
+        "Recursos de comunicación con familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Plan Integral de Formación ofrece programas formativos al uso de recursos STEM como robótica, programación e impresión 3D."
+    },
+    {
+      "question": "¿Qué busca el ODS 9 mencionado en el documento?",
+      "options": [
+        "Promover la paz y la justicia",
+        "Transformar la industria a través de las tecnologías",
+        "Garantizar la salud y el bienestar",
+        "Reducir las desigualdades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ODS 9 busca transformar la industria a través de las tecnologías, vinculándose así con la Competencia Digital."
+    },
+    {
+      "question": "Según el documento, ¿de qué depende la eficacia de las TIC en educación?",
+      "options": [
+        "De la cantidad de dispositivos disponibles",
+        "De un cambio metodológico de la enseñanza que requiere planificación, infraestructuras, recursos y formación",
+        "Del nivel socioeconómico de las familias",
+        "De la edad del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La eficacia de las TIC depende de un cambio metodológico de la enseñanza que requiere de una planificación previa, de infraestructuras, de recursos y de formación del cuerpo docente, a la vez que su motivación."
+    },
+    {
+      "question": "¿Qué debe garantizar el Plan Digital según el artículo 121 de la LOMLOE?",
+      "options": [
+        "El acceso universal a dispositivos digitales",
+        "El derecho a una educación digital de calidad que permita adquirir la CD",
+        "La formación obligatoria en programación",
+        "La sustitución de libros de texto por recursos digitales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 121 de la LOMLOE, la inclusión de las tecnologías pretende garantizar el derecho a una educación digital de calidad que permita al alumnado adquirir la CD."
+    },
+    {
+      "question": "¿Qué establece el artículo 27 de la Orden de 26 de mayo respecto a XADE?",
+      "options": [
+        "Su uso obligatorio en todos los centros",
+        "Su uso para cubrir documentos e informes de evaluación",
+        "Su actualización trimestral",
+        "Su integración con otras plataformas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 27 de la Orden de 26 de mayo establece el uso de XADE para cubrir documentos e informes de evaluación."
+    },
+    {
+      "question": "¿Cuántas CC (competencias clave) tiene la EP según el artículo 8 del Decreto 155/2022?",
+      "options": [
+        "Seis competencias clave",
+        "Siete competencias clave",
+        "Ocho competencias clave",
+        "Nueve competencias clave"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 8 del Decreto 155/2022 recoge la CD como una de las ocho competencias clave (CC) de la EP."
+    },
+    {
+      "question": "¿Qué tipo de modelos debe fomentar la atención a la diversidad según el documento?",
+      "options": [
+        "Modelos competitivos y meritocráticos",
+        "Modelos individualizados y adaptativos",
+        "Modelos participativos y colaborativos",
+        "Modelos secuenciales y progresivos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es fundamental romper barreras que dificulten el aprendizaje y fomentar modelos participativos y colaborativos a través de diferentes recursos y metodologías."
+    },
+    {
+      "question": "Según el documento, ¿qué deben favorecer las TIC en el alumnado?",
+      "options": [
+        "La memorización de contenidos",
+        "La construcción del conocimiento",
+        "La competencia en exámenes estandarizados",
+        "El uso intensivo de dispositivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las TIC deben favorecer la construcción del conocimiento e introducir al estudiantado en la alfabetización digital."
+    },
+    {
+      "question": "¿Qué tipo de actividades se realizan en los Polos Creativos?",
+      "options": [
+        "Actividades de tipo conferencia",
+        "Actividades de tipo taller",
+        "Actividades de tipo evaluación",
+        "Actividades de tipo debate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los Polos Creativos están organizados didácticamente para fomentar la creatividad y el aprendizaje competencial del alumnado a través de actividades de tipo taller."
+    },
+    {
+      "question": "¿Qué Real Decreto se menciona que establece las enseñanzas mínimas de Educación Primaria a nivel nacional?",
+      "options": [
+        "Real Decreto 126/2014, de 28 de febrero",
+        "Real Decreto 157/2022, de 1 de marzo",
+        "Real Decreto 217/2022, de 29 de marzo",
+        "Real Decreto 95/2022, de 1 de febrero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel nacional."
+    },
+    {
+      "question": "¿Qué artículos del Decreto 155/2022 incluyen la CD como elemento transversal?",
+      "options": [
+        "Artículos 7 y 8",
+        "Artículos 14 y 15",
+        "Artículos 16 y 17",
+        "Artículos 19 y 20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los artículos 16 y 17 del Decreto 155/2022 incluyen la CD como un elemento transversal a integrar en todas las áreas."
+    },
+    {
+      "question": "¿Qué debe desarrollar el objetivo j de la LOMLOE según el artículo 17?",
+      "options": [
+        "Competencias matemáticas y científicas",
+        "Competencias lingüísticas y comunicativas",
+        "Propuestas visuales y audiovisuales",
+        "Habilidades motrices y deportivas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El objetivo j del artículo 17 de la LOMLOE establece que los discentes sepan construir propuestas visuales y audiovisuales."
+    },
+    {
+      "question": "¿Qué característica de las TIC permite el intercambio de datos entre persona y máquina?",
+      "options": [
+        "Instantaneidad",
+        "Interactividad",
+        "Interconexión",
+        "Innovación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las TIC se caracterizan por su interactividad al permitir el intercambio de datos entre persona y máquina."
+    },
+    {
+      "question": "¿Qué tipo de contenidos integran las TIC según sus características?",
+      "options": [
+        "Solo texto y audio",
+        "Texto, imagen, sonido y vídeo",
+        "Solo contenidos multimedia interactivos",
+        "Principalmente texto y gráficos estáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las TIC se caracterizan por integrar distintos medios como texto, imagen, sonido y vídeo."
+    },
+    {
+      "question": "¿Qué permiten las TAC según el documento?",
+      "options": [
+        "La gestión administrativa de centros",
+        "La personalización del aprendizaje, la reflexión y la colaboración",
+        "La evaluación estandarizada del alumnado",
+        "El control de asistencia y calificaciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las TAC se centran en el uso de la tecnología para favorecer la personalización del aprendizaje, la reflexión y la colaboración."
+    },
+    {
+      "question": "¿Qué tipo de ciudadanía promueven las TEP?",
+      "options": [
+        "Ciudadanía pasiva y receptiva",
+        "Ciudadanía digital básica",
+        "Ciudadanía activa, crítica y democrática",
+        "Ciudadanía global y multicultural"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las TEP promueven las tecnologías como un medio para ejercer una ciudadanía activa, crítica y democrática."
+    },
+    {
+      "question": "Según Castro et al. (2007), ¿qué facilitan las TIC al profesorado?",
+      "options": [
+        "La reducción de horas lectivas",
+        "La creación de tareas menos repetitivas y apoyo a los procesos de evaluación",
+        "El aumento del tiempo de descanso",
+        "La eliminación de la burocracia administrativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Castro et al. (2007), las TIC facilitan al profesorado la creación de tareas menos repetitivas y apoyan los procesos de evaluación."
+    },
+    {
+      "question": "¿Qué tipo de problemas se resuelven en los Polos Creativos?",
+      "options": [
+        "Problemas académicos tradicionales",
+        "Problemas reales desde una perspectiva STEM",
+        "Problemas de convivencia escolar",
+        "Problemas administrativos del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los Polos Creativos son espacios para la resolución de problemas reales desde una perspectiva STEM."
+    },
+    {
+      "question": "¿Qué ofrece una interfaz pública para consultar según el documento?",
+      "options": [
+        "XADE para consultar calificaciones",
+        "PROENS para consultar las programaciones didácticas",
+        "Educalidade para consultar planes de centro",
+        "AbalarMóbil para consultar avisos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PROENS ofrece una interfaz pública para consultar las programaciones didácticas (PD)."
+    },
+    {
+      "question": "¿Cuándo se creó la aplicación informática para el PLEA?",
+      "options": [
+        "Con la resolución del 16 de septiembre de 2022",
+        "Con la resolución del 26 de mayo de 2023",
+        "Con la resolución del 16 de octubre de 2023",
+        "Con la resolución del 7 de diciembre de 2011"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Con la resolución del 16 de octubre de 2023 que dicta las instrucciones para la elaboración del PLEA, se crea una aplicación informática para su gestión."
+    },
+    {
+      "question": "¿Qué equipamiento especializado tienen los Polos Creativos para la fabricación?",
+      "options": [
+        "Impresoras láser y escáneres 3D",
+        "Fabricación aditiva y mecanizado de materiales",
+        "Cortadoras láser y fresadoras CNC",
+        "Soldadores y equipos de carpintería"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los Polos Creativos cuentan con equipamiento especializado para la fabricación aditiva y el mecanizado de materiales, entre otros ámbitos."
+    },
+    {
+      "question": "¿Qué autor se cita para definir las tres maneras de integrar las TIC en el sistema educativo?",
+      "options": [
+        "Castro et al. (2007)",
+        "Gómez (2004)",
+        "Díaz-Barriga et al. (2015)",
+        "Gisbert et al. (1992)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gómez (2004) indica que las TIC pueden integrarse en el sistema educativo de tres maneras distintas: como objeto, como medio y como apoyo al aprendizaje."
+    },
+    {
+      "question": "¿Qué autores se toman como referencia para los marcos conceptuales TAC, TEP y TOC?",
+      "options": [
+        "Castro (2007) y Gómez (2004)",
+        "Reig (2010), Vivancos (2010) y Lozano (2011)",
+        "Díaz-Barriga (2015) y Gisbert (1992)",
+        "LOMLOE (2020) y Decreto 155/2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tomando como referencia a Reig (2010), Vivancos (2010) y Lozano (2011), se han propuesto diferentes marcos conceptuales TAC, TEP y TOC."
+    },
+    {
+      "question": "¿Qué permite PROENS además de elaborar programaciones didácticas?",
+      "options": [
+        "Calificaciones y expedientes académicos",
+        "Memorias finales y adaptaciones curriculares",
+        "Planes de centro y proyectos educativos",
+        "Recursos educativos y materiales didácticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PROENS facilita la elaboración de programaciones didácticas (PD), memorias finales y adaptaciones curriculares."
+    },
+    {
+      "question": "¿Qué zona del Aula Nova permite el diseño gráfico y la edición de vídeo?",
+      "options": [
+        "Zonas de colaboración",
+        "Zonas de creación",
+        "Zonas de prototipado",
+        "Zonas de presentación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las zonas de creación del Aula Nova poseen equipos que permiten el diseño gráfico, la edición de vídeo, y la experimentación con pensamiento visual."
+    },
+    {
+      "question": "¿Qué zona del Aula Nova tiene herramientas de mecanizado y electrónica?",
+      "options": [
+        "Zonas de colaboración",
+        "Zonas de creación",
+        "Zonas de prototipado",
+        "Zonas de presentación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las zonas de prototipado del Aula Nova tienen herramientas de mecanizado y electrónica para desarrollar y prototipar soluciones a problemas reales."
+    },
+    {
+      "question": "¿Qué zona del Aula Nova cuenta con pantalla interactiva y cabina de grabación de sonido?",
+      "options": [
+        "Zonas de colaboración",
+        "Zonas de creación",
+        "Zonas de prototipado",
+        "Zonas de presentación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las zonas de presentación del Aula Nova cuentan con pantalla interactiva y cabina de grabación de sonido."
+    },
+    {
+      "question": "¿Qué característica de las TIC se refiere a impulsando mejoras y nuevos medios de comunicación?",
+      "options": [
+        "Interactividad",
+        "Instantaneidad",
+        "Innovación",
+        "Interconexión"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las TIC se caracterizan por su innovación, impulsando mejoras y nuevos medios de comunicación."
+    },
+    {
+      "question": "¿En qué consiste la característica de instantaneidad de las TIC?",
+      "options": [
+        "En la rapidez de procesamiento de datos",
+        "En la transmisión inmediata de datos",
+        "En el acceso rápido a la información",
+        "En la actualización constante de contenidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las TIC se caracterizan por su instantaneidad en la transmisión de datos."
+    },
+    {
+      "question": "¿Qué inconveniente de las TIC se relaciona específicamente con la inteligencia artificial?",
+      "options": [
+        "Problemas de privacidad de datos",
+        "Dependencia tecnológica (especialmente de la IA)",
+        "Reducción de la creatividad",
+        "Ciberacoso y violencia digital"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los inconvenientes se menciona fomentar estrategias de mínimo esfuerzo o dependencia tecnológica (especialmente de la IA)."
+    },
+    {
+      "question": "¿Qué tipo de situación de violencia digital se menciona específicamente en el documento?",
+      "options": [
+        "Phishing y estafas online",
+        "Ciberacoso",
+        "Suplantación de identidad",
+        "Grooming"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los inconvenientes se menciona que pueden dar lugar a situaciones de violencia digital, como el ciberacoso."
+    },
+    {
+      "question": "¿Qué aspecto desarrollan las TIC según el documento, además de la creatividad?",
+      "options": [
+        "La memoria y la atención",
+        "La expresión y la iniciativa",
+        "La competencia matemática",
+        "La motricidad fina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las TIC impulsan el desarrollo de la creatividad, la expresión y la iniciativa."
+    },
+    {
+      "question": "¿Cuál es uno de los objetivos del primer eje de la Estrategia de Educación Digital 2030?",
+      "options": [
+        "Crear aulas virtuales inteligentes y plataformas de asistencia al profesorado",
+        "Eliminar completamente los libros de texto tradicionales",
+        "Proporcionar un dispositivo por alumno en todos los niveles",
+        "Digitalizar todos los contenidos curriculares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El primer eje incluye aulas virtuales inteligentes y plataformas de asistencia al profesorado para personalizar el aprendizaje."
+    },
+    {
+      "question": "¿Qué tipo de formación ofrece el Proyecto Abalar al profesorado?",
+      "options": [
+        "Formación inicial en TIC",
+        "Formación continua en CD y creación de contenidos digitales innovadores",
+        "Formación especializada en programación",
+        "Formación en gestión administrativa digital"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Proyecto Abalar incluye formación continua al profesorado en CD y creación de contenidos digitales innovadores."
+    },
+    {
+      "question": "¿Qué proveedores de contenidos digitales se mencionan para Edixgal además de Edebé y Netex?",
+      "options": [
+        "Santillana y SM",
+        "AulaPlaneta y Pearson",
+        "McGraw-Hill y Oxford",
+        "Anaya y Vicens Vives"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los proveedores de contenidos digitales para Edixgal son Edebé, Netex, aulaPlaneta y Pearson."
+    },
+    {
+      "question": "¿Cuántos idiomas ofrecen los recursos del repositorio de Edixgal?",
+      "options": [
+        "Un idioma (gallego)",
+        "Dos idiomas (gallego y castellano)",
+        "Tres idiomas (gallego, castellano e inglés)",
+        "Varios idiomas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Edixgal ofrece acceso a un repositorio con más de 4.000 recursos educativos en varios idiomas."
+    },
+    {
+      "question": "¿Qué caracteriza el diseño de los Polos Creativos?",
+      "options": [
+        "Diseño tradicional con mesas y sillas",
+        "Diseño virtual y online",
+        "Diseño modular e innovador",
+        "Diseño minimalista y funcional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los Polos Creativos cuentan con equipamiento especializado y un diseño modular e innovador."
+    },
+    {
+      "question": "¿Dónde está ubicado el Aula Nova o Workspace?",
+      "options": [
+        "En cada centro educativo de Galicia",
+        "En el Centro Autonómico de Formación e Innovación (CAFI)",
+        "En los Centros de Formación y Recursos (CFR)",
+        "En la Consellería de Educación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Aula Nova o Workspace es un espacio educativo ubicado en el Centro Autonómico de Formación e Innovación (CAFI) de Galicia."
+    },
+    {
+      "question": "¿Para quién está disponible el Aula Nova?",
+      "options": [
+        "Solo para el profesorado de centros públicos",
+        "Para todo el profesorado de Galicia",
+        "Solo para profesorado en formación",
+        "Para profesorado y alumnado de secundaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Aula Nova está disponible para todo el profesorado que desee experimentar con nuevas tecnologías y metodologías educativas antes de introducirlas en el aula."
+    },
+    {
+      "question": "¿En qué programas están incluidos los centros que pueden usar ELBE-2?",
+      "options": [
+        "PLAMBE y Plan Digital",
+        "PLAMBE y Plan LIA",
+        "Plan Digital y Plan de Acción Tutorial",
+        "Proyecto Abalar y Edixgal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ELBE-2 está destinado a los centros integrados en el PLAMBE e incluidos en el Plan LIA."
+    },
+    {
+      "question": "¿Qué tipo de herramientas se pueden usar para crear mapas conceptuales como objeto de aprendizaje?",
+      "options": [
+        "Kahoot, Socrative y Quizziz",
+        "Genially, Prezi y Miro",
+        "Scratch, Bee-Bots y Lego Mindstorms",
+        "Google Docs, Moodle y Classroom"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para crear contenido digital en forma de mapas conceptuales se pueden usar herramientas como Genially, Prezi, Canva, Bubble o Miro."
+    },
+    {
+      "question": "¿Qué herramienta NO se menciona para edición de vídeo como objeto de aprendizaje?",
+      "options": [
+        "iMovie",
+        "Capcut",
+        "Powtoon",
+        "Adobe Premiere"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para edición de vídeo se mencionan iMovie, Capcut y Powtoon. Adobe Premiere no se menciona."
+    },
+    {
+      "question": "¿Qué tipo de simuladores se mencionan para el área de ciencias como medio para aprender?",
+      "options": [
+        "Simuladores de física cuántica",
+        "Laboratorios virtuales",
+        "Simuladores de química orgánica",
+        "Modelos de biología molecular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el campo de las ciencias se mencionan plataformas de simulaciones y laboratorios virtuales como PhET Interactive Simulators."
+    },
+    {
+      "question": "¿Qué tipo de herramienta es Notebook LM mencionada como recurso multimedia?",
+      "options": [
+        "Plataforma de gestión de apuntes",
+        "Recurso educativo multimedia",
+        "Herramienta de organización de tareas",
+        "Sistema de videoconferencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Notebook LM se menciona junto con YouTube Edu como recursos educativos multimedia para enriquecer los contenidos curriculares."
+    },
+    {
+      "question": "¿Qué herramienta de colaboración en línea se menciona además de Google Docs?",
+      "options": [
+        "Dropbox Paper",
+        "Microsoft Teams",
+        "Notion",
+        "Trello"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como herramientas de colaboración en línea se mencionan Google Docs y Microsoft Teams."
+    },
+    {
+      "question": "¿Qué tipo de pensamiento facilitan las TIC según el documento en relación con la STEM?",
+      "options": [
+        "Pensamiento crítico",
+        "Pensamiento computacional",
+        "Pensamiento divergente",
+        "Pensamiento lógico-matemático"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las TIC en relación con la STEM permiten aplicar el pensamiento computacional."
+    },
+    {
+      "question": "¿Qué recurso gamificado se menciona para la notación musical?",
+      "options": [
+        "Music Theory Pro",
+        "Do, re, mi: DrMsk",
+        "Rhythm Cat",
+        "Note Rush"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para trabajar la notación musical se menciona Do, re, mi: DrMsk."
+    },
+    {
+      "question": "¿Qué herramienta se menciona para crear cómics o historias visuales?",
+      "options": [
+        "Comic Life",
+        "Pixton",
+        "MakeBeliefsComix",
+        "Toondoo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para crear historias se mencionan Storybird, Pixton y Flicks."
+    },
+    {
+      "question": "¿Qué tipo de diccionarios se mencionan como beneficiosos para lectura y comprensión?",
+      "options": [
+        "Diccionarios bilingües",
+        "Diccionarios electrónicos",
+        "Diccionarios etimológicos",
+        "Diccionarios de sinónimos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la lectura y comprensión son beneficiosas herramientas como los diccionarios electrónicos."
+    },
+    {
+      "question": "¿Qué aplicación se menciona para trabajar conceptos geométricos y algebraicos de forma interactiva?",
+      "options": [
+        "GeoGebra",
+        "Desmos",
+        "Mathematica",
+        "Maple"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Geogebra permite comprender conceptos geométricos, algebraicos, estadísticos y de cálculo de forma interactiva con representaciones visuales."
+    },
+    {
+      "question": "¿Qué herramientas se mencionan para matemáticas además de Geogebra?",
+      "options": [
+        "Calculadoras científicas y software de estadística",
+        "Calculadores y ábacos online",
+        "Hojas de cálculo y bases de datos",
+        "Programas de geometría dinámica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para matemáticas se mencionan calculadores, ábacos online y la aplicación Geogebra."
+    },
+    {
+      "question": "¿Qué permite visualizar Google Earth en el área de CCNN?",
+      "options": [
+        "Mapas históricos y evolución territorial",
+        "Partes de la tierra",
+        "Fenómenos meteorológicos en tiempo real",
+        "Rutas de especies migratorias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Google Earth se menciona para observar partes de la tierra en el área de CCNN."
+    },
+    {
+      "question": "¿Qué tipo de documentales se mencionan como recurso para CCNN?",
+      "options": [
+        "Documentales históricos de RTVE",
+        "Documentales de naturaleza de RTVE",
+        "Documentales científicos de National Geographic",
+        "Documentales educativos de la BBC"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como recurso se mencionan documentales de naturaleza, por ejemplo de la RTVE."
+    },
+    {
+      "question": "¿Qué herramienta se menciona para edición de imágenes en Educación Artística?",
+      "options": [
+        "Photoshop",
+        "Gimp",
+        "Paint.NET",
+        "Krita"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para Educación artística plástica y visual se mencionan Lienzo Mi, Pixelandia, Proyecto Primartis y Gimp."
+    },
+    {
+      "question": "¿Qué aplicación se menciona para representar información mediante pictogramas?",
+      "options": [
+        "Piktochart",
+        "Pictotraductor",
+        "PictoSelector",
+        "Pictogram Maker"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para comprensión (múltiples formas de representación del DUA) se menciona Pictotraductor."
+    },
+    {
+      "question": "¿Qué aplicación se menciona relacionada con voz para la representación?",
+      "options": [
+        "VoiceOver",
+        "Voki",
+        "Text-to-Speech",
+        "NaturalReader"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para percibir la información (múltiples formas de representación del DUA) se menciona Voki junto con Speakit."
+    },
+    {
+      "question": "¿Qué aplicación se menciona específicamente para facilitar la lectura?",
+      "options": [
+        "ReadEasy",
+        "LecturaFácil",
+        "EasyRead",
+        "SimplifiedReading"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para comprensión (múltiples formas de representación del DUA) se menciona LecturaFácil."
+    },
+    {
+      "question": "¿Qué aplicación relacionada con pictogramas se menciona para acción física?",
+      "options": [
+        "PictogramAgenda",
+        "PictogramaRoom",
+        "PictoTEA",
+        "PictoSelector"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como medios físicos de acción (múltiples medios de acción y expresión del DUA) se menciona PictogramaRoom."
+    },
+    {
+      "question": "¿Qué tipo de teclado se menciona como medio físico de acción?",
+      "options": [
+        "Teclado mecánico y Teclado inalámbrico",
+        "Teclado adaptado y TecladoVirtual",
+        "Teclado ergonómico y Teclado compacto",
+        "Teclado multimedia y Teclado numérico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como medios físicos de acción se mencionan Teclado adaptado y TecladoVirtual."
+    },
+    {
+      "question": "¿Qué aplicación se menciona para crear collages como medio de expresión?",
+      "options": [
+        "Collage Maker",
+        "Pie-collage",
+        "Photo Collage",
+        "PicCollage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como medios de expresión y comunicación (múltiples medios de acción y expresión del DUA) se menciona Pie-collage."
+    },
+    {
+      "question": "¿Qué aplicación se menciona para entrenar las funciones ejecutivas relacionada con la organización visual?",
+      "options": [
+        "MindMap",
+        "Creately",
+        "Lucidchart",
+        "XMind"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como medios para entrenar las funciones ejecutivas (múltiples medios de acción y expresión del DUA) se menciona Creately."
+    },
+    {
+      "question": "¿Qué aplicación relacionada con agendas se menciona para las funciones ejecutivas?",
+      "options": [
+        "Google Calendar",
+        "AgendaEscolar",
+        "MyStudyLife",
+        "iStudiez Pro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como medios para entrenar las funciones ejecutivas se menciona AgendaEscolar."
+    },
+    {
+      "question": "¿Qué plataforma educativa se menciona para la persistencia en la implicación?",
+      "options": [
+        "Moodle",
+        "Edmodo",
+        "Canvas",
+        "Schoology"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la persistencia (múltiples formas de implicación del DUA) se menciona Edmodo junto con ClassDojo, LessonPlan, Padlet y Mentimeter."
+    },
+    {
+      "question": "¿Qué aplicación se menciona para la planificación de lecciones relacionada con la persistencia?",
+      "options": [
+        "PlanBoard",
+        "LessonPlan",
+        "TeacherPlanner",
+        "ClassPlanner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la persistencia se menciona LessonPlan junto con Edmodo, ClassDojo, Padlet y Mentimeter."
+    },
+    {
+      "question": "¿Qué aplicación relacionada con agendas visuales se menciona para la autorregulación?",
+      "options": [
+        "VisualAgenda",
+        "PictogramAgenda",
+        "SchedulePicto",
+        "AgendaVisual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la autorregulación (múltiples formas de implicación del DUA) se menciona PictogramAgenda."
+    },
+    {
+      "question": "¿Qué aplicación se menciona para la gestión del aula relacionada con la autorregulación?",
+      "options": [
+        "ClassManager",
+        "ClassroomScreen",
+        "ClassControl",
+        "ClassOrganizer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la autorregulación se menciona ClassroomScreen junto con TicoTimer, Tempus y PictogramAgenda."
+    },
+    {
+      "question": "¿Qué robot educativo se menciona para captar el interés del alumnado?",
+      "options": [
+        "Ozobot",
+        "Bee-Bot",
+        "Sphero",
+        "Dash"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para captar el interés (múltiples formas de implicación del DUA) se menciona Bee-Bot junto con Cerebriti, Plickers y Scratch."
+    },
+    {
+      "question": "¿Qué plataforma de presentaciones interactivas se menciona para la persistencia?",
+      "options": [
+        "Prezi",
+        "Mentimeter",
+        "Nearpod",
+        "Slides"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la persistencia se menciona Mentimeter junto con Edmodo, ClassDojo, LessonPlan y Padlet."
+    },
+    {
+      "question": "¿Qué aplicación relacionada con el tiempo se menciona además de TicoTimer para la autorregulación?",
+      "options": [
+        "TimeManager",
+        "Tempus",
+        "Chronos",
+        "TimePlanner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la autorregulación se mencionan TicoTimer y Tempus, junto con PictogramAgenda y ClassroomScreen."
+    },
+    {
+      "question": "¿Qué significa que las tecnologías son volátiles según el documento?",
+      "options": [
+        "Que son inestables y fallan con frecuencia",
+        "Que cambian constantemente y requieren actualización continua",
+        "Que son caras y difíciles de mantener",
+        "Que tienen una vida útil muy corta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El documento menciona que las tecnologías son cambiantes y volátiles, por lo que el sistema educativo debe estar en constante actualización y renovación."
+    },
+    {
+      "question": "¿Qué debe acompañar la eficacia de las TIC además de la formación y los recursos?",
+      "options": [
+        "La evaluación externa del alumnado",
+        "La motivación del cuerpo docente",
+        "El apoyo de las familias",
+        "La supervisión de la administración"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La eficacia de las TIC depende de un cambio metodológico que requiere planificación previa, infraestructuras, recursos y formación del cuerpo docente, a la vez que su motivación."
+    }
+  ]
+}

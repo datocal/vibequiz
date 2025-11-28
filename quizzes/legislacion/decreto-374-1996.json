@@ -1,0 +1,2208 @@
+{
+  "title": "Decreto 374/1996 - Reglamento Orgánico de Escuelas y Colegios",
+  "description": "Test completo sobre el Reglamento orgánico de las escuelas de educación infantil y de los colegios de educación primaria de Galicia.",
+  "category": "legislacion",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué organismo tiene la competencia para crear escuelas de educación infantil y colegios de educación primaria en Galicia?",
+      "options": [
+        "El Gobierno de la Xunta de Galicia mediante decreto",
+        "El Conselleiro de Educación mediante orden",
+        "Los ayuntamientos mediante decreto",
+        "El Consejo Escolar de Galicia mediante resolución"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 1º.2, la creación de las escuelas de educación infantil y de los colegios de educación primaria corresponde al Gobierno de la Xunta de Galicia mediante decreto, a propuesta del conselleiro de Educación y Ordenación Universitaria."
+    },
+    {
+      "question": "¿Cuál es el número mínimo de unidades que pueden constituir un colegio rural agrupado?",
+      "options": [
+        "Menos de seis unidades",
+        "Menos de ocho unidades",
+        "Menos de diez unidades",
+        "Menos de cuatro unidades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 2º.1, los colegios de educación infantil y primaria de menos de seis unidades situados en ámbitos rurales podrán agruparse para constituir un colegio rural agrupado."
+    },
+    {
+      "question": "¿Qué característica NO corresponde a un colegio rural agrupado según el decreto?",
+      "options": [
+        "Dispone de denominación específica y domicilio concreto",
+        "Goza de plena capacidad académica, administrativa y de gestión",
+        "Las unidades agrupadas conservan su identidad jurídica propia",
+        "Las instalaciones docentes pueden estar situadas en distintas localidades"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 2º.3, las unidades objeto de agrupación se considerarán extinguidas como tales a partir del momento en que se constituya el colegio rural agrupado, por lo que no conservan su identidad jurídica propia."
+    },
+    {
+      "question": "¿Cuál es el objetivo fundamental del colegio rural agrupado?",
+      "options": [
+        "Reducir los gastos de funcionamiento de los centros rurales",
+        "Elevar la calidad de la enseñanza y contribuir a la revitalización socioeconómica y cultural de las comunidades rurales",
+        "Facilitar el traslado del profesorado entre diferentes localidades",
+        "Concentrar todo el alumnado en una única instalación docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 2º.4, el colegio rural agrupado tendrá como objetivo fundamental elevar la calidad de la enseñanza de las comunidades rurales, así como contribuir a la revitalización socioeconómica y cultural de las mismas."
+    },
+    {
+      "question": "¿Dónde cursarán las enseñanzas los alumnos escolarizados en las unidades agrupadas de un CRA?",
+      "options": [
+        "En un centro único designado por la Consellería",
+        "En la localidad de su residencia",
+        "En la cabecera del colegio rural agrupado",
+        "En rotación entre las diferentes localidades del CRA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 4º, los alumnos escolarizados en las unidades agrupadas cursarán las enseñanzas correspondientes en la localidad de su residencia."
+    },
+    {
+      "question": "¿Cuántos órganos unipersonales de gobierno tendrá un centro con 7 unidades?",
+      "options": [
+        "Director, jefe de estudios y secretario",
+        "Director y secretario (el director asume funciones del jefe de estudios)",
+        "Solo director (que asume todas las funciones)",
+        "Director, secretario y coordinador pedagógico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 14º.2, en los centros con seis o siete unidades habrá director y secretario, y el director asumirá las funciones del jefe de estudios."
+    },
+    {
+      "question": "En un centro con 4 unidades, ¿quién asume las funciones de secretario en el consejo escolar?",
+      "options": [
+        "El director del centro",
+        "El maestro más antiguo del centro",
+        "El maestro, miembro del consejo, que designe el director",
+        "El concejal o representante del ayuntamiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 14º.3, en los centros con tres, cuatro o cinco unidades, el director asumirá las funciones del jefe de estudios y del secretario. Las funciones de secretario en el consejo escolar serán asumidas por el maestro, miembro del consejo, que designe el director."
+    },
+    {
+      "question": "¿Cuál es la duración del mandato de los órganos unipersonales de gobierno?",
+      "options": [
+        "Tres años en todos los casos",
+        "Cuatro años, excepto en centros de nueva creación que será de tres años",
+        "Cinco años renovables",
+        "Dos años prorrogables a cuatro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 13º, el mandato de los órganos unipersonales de gobierno será de cuatro años, contados a partir de su nombramiento y correspondiente toma de posesión, excepto en los centros de nueva creación, que será de tres años."
+    },
+    {
+      "question": "¿Qué requisito de antigüedad en el cuerpo de maestros se exige para optar al cargo de director?",
+      "options": [
+        "Tres años de antigüedad",
+        "Cuatro años de antigüedad",
+        "Cinco años de antigüedad",
+        "Seis años de antigüedad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 16º.1.a), para optar al cargo de director se requiere tener, al menos, una antigüedad de cinco años en el cuerpo de maestros."
+    },
+    {
+      "question": "¿Es necesario estar acreditado por la Administración educativa para el ejercicio de la función directiva?",
+      "options": [
+        "No, solo se requiere experiencia docente",
+        "Sí, es un requisito obligatorio en todos los casos",
+        "Solo para centros con más de 12 unidades",
+        "Solo para centros urbanos, no para rurales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 16º.1.d), uno de los requisitos para optar al cargo de director es estar acreditado por la Administración educativa para el ejercicio de la función directiva."
+    },
+    {
+      "question": "¿Qué debe incluir la candidatura a director presentada ante el consejo escolar?",
+      "options": [
+        "Solo el programa de dirección",
+        "Programa de dirección, acreditación para la función directiva y méritos académicos y profesionales",
+        "Únicamente la acreditación y los méritos profesionales",
+        "Programa de dirección y carta de motivación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 17º.1, la candidatura debe incluir: a) Programa de dirección con objetivos, análisis del centro, líneas de actuación y propuesta de órganos de gobierno unipersonales; b) Acreditación para el ejercicio de la función directiva; c) Méritos académicos y profesionales no considerados para la acreditación."
+    },
+    {
+      "question": "¿Con cuántos días de anticipación a la fecha de la elección deben presentarse las candidaturas a director?",
+      "options": [
+        "10 días de anticipación",
+        "15 días de anticipación",
+        "20 días de anticipación",
+        "30 días de anticipación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 17º.1, los candidatos al cargo de director deberán presentar, por escrito, ante el consejo escolar, con quince días de anticipación a la fecha de la elección, su candidatura."
+    },
+    {
+      "question": "¿Quiénes integran la mesa electoral para la elección del director?",
+      "options": [
+        "Tres maestros elegidos por el claustro",
+        "Dos maestros y un padre, elegidos por sorteo entre los miembros del consejo escolar",
+        "El jefe de estudios, el secretario y un padre de alumno",
+        "El inspector educativo y dos representantes del consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 18º, la mesa electoral estará integrada por dos maestros y un padre o tutor legal de alumno, elegidos por sorteo entre los miembros del consejo escolar."
+    },
+    {
+      "question": "¿Qué mayoría se requiere para resultar elegido director en primera votación?",
+      "options": [
+        "Mayoría simple de los votos emitidos",
+        "Mayoría absoluta de los miembros del consejo escolar",
+        "Dos tercios de los miembros del consejo escolar",
+        "Tres quintos de los votos emitidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 19º, resultará elegido director el candidato que obtenga el apoyo de la mayoría absoluta de los miembros del consejo escolar."
+    },
+    {
+      "question": "Si en primera votación con varios candidatos ninguno obtiene mayoría absoluta, ¿qué ocurre?",
+      "options": [
+        "Se repite la votación con todos los candidatos",
+        "Se procede a segunda votación en 48 horas solo con el más votado",
+        "El delegado provincial nombra director directamente",
+        "Se abre un nuevo período de presentación de candidaturas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 19º, cuando, concurriendo más de un candidato, ninguno obtuviese la mayoría absoluta, se procederá en el plazo de cuarenta y ocho horas a realizar una segunda votación en la que figurará únicamente el candidato más votado en la primera."
+    },
+    {
+      "question": "¿Qué ocurre si no hay candidatos a director o ninguno obtiene mayoría absoluta?",
+      "options": [
+        "El jefe de estudios asume temporalmente la dirección",
+        "El delegado provincial nombra director a un profesor que cumpla los requisitos",
+        "Se repite el proceso electoral al mes siguiente",
+        "El inspector educativo asume la dirección del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 21º.1, cuando no haya candidatos o ninguno obtuviese la mayoría absoluta, el delegado provincial de la Consellería de Educación y Ordenación Universitaria nombrará director por un período de cuatro años a un profesor que, independientemente del centro de destino, reúna los requisitos especificados."
+    },
+    {
+      "question": "¿Cuándo tienen efectos el nombramiento y la toma de posesión del director elegido?",
+      "options": [
+        "El día de la elección",
+        "El 1 de julio del año en que se efectúe el proceso electoral",
+        "El 1 de septiembre del curso siguiente",
+        "El día de la publicación del nombramiento en el DOG"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 22º, el nombramiento, que realizará el delegado provincial, así como la toma de posesión, tendrán efectos del 1 de julio del año en que se efectúe el proceso electoral."
+    },
+    {
+      "question": "¿Qué mayoría del consejo escolar se necesita para proponer la revocación del director?",
+      "options": [
+        "Mayoría simple de los presentes",
+        "Mayoría absoluta de los miembros",
+        "Dos tercios de los miembros",
+        "Tres quintos de los miembros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 23º.1.c), el director puede cesar por propuesta de revocación acordada por mayoría de dos tercios del consejo escolar."
+    },
+    {
+      "question": "¿Quién sustituye al director en caso de ausencia o enfermedad?",
+      "options": [
+        "El secretario del centro",
+        "El maestro más antiguo en el centro",
+        "El jefe de estudios del centro",
+        "El coordinador de ciclo más antiguo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 26º, en caso de ausencia, enfermedad o suspensión de funciones del director desempeñará sus funciones, con carácter accidental, el jefe de estudios del centro y, en caso de que no exista tal órgano, el maestro más antiguo en el centro."
+    },
+    {
+      "question": "¿Cuál NO es una competencia del director según el artículo 27º?",
+      "options": [
+        "Convocar y presidir el consejo escolar y el claustro",
+        "Nombrar directamente a los coordinadores de ciclo",
+        "Visar las certificaciones y documentos oficiales del centro",
+        "Autorizar los gastos de acuerdo con el presupuesto del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 27º.e), el director designa a los coordinadores de ciclo, pero no de forma directa: debe hacerlo de acuerdo con el procedimiento establecido en el reglamento, que según el artículo 55º implica oír al equipo de ciclo."
+    },
+    {
+      "question": "¿Qué requisito deben cumplir los maestros designados como jefe de estudios o secretario?",
+      "options": [
+        "Tener destino provisional en el centro",
+        "Tener destino definitivo en el centro",
+        "Ser funcionarios de carrera con al menos 5 años de antigüedad",
+        "Estar acreditados para la función directiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 28º.1, el jefe de estudios y el secretario, en los centros donde existan, serán designados por el director entre los maestros con destino definitivo en el centro, previa comunicación al consejo escolar."
+    },
+    {
+      "question": "¿Cuándo toman posesión el jefe de estudios y el secretario nombrados tras las elecciones?",
+      "options": [
+        "El día de su nombramiento",
+        "El 1 de septiembre siguiente",
+        "El 1 de julio siguiente a la celebración de las elecciones",
+        "Al inicio del curso académico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 28º.3, el nombramiento y toma de posesión del jefe de estudios y secretario se realizará con efectos del 1 de julio siguiente a la celebración de las elecciones."
+    },
+    {
+      "question": "¿Por qué causa NO cesa automáticamente el jefe de estudios o secretario?",
+      "options": [
+        "Cuando cese el director que los designó",
+        "Traslado definitivo voluntario",
+        "Por propuesta razonada de un tercio del claustro",
+        "Jubilación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 30º, el jefe de estudios y el secretario cesan por: renuncia aceptada, traslado/jubilación/excedencia, cuando cese el director que los designó, o cese por el delegado provincial a propuesta del director. No existe la causa de propuesta de un tercio del claustro."
+    },
+    {
+      "question": "¿Cuál es una competencia específica del jefe de estudios?",
+      "options": [
+        "Ordenar el régimen administrativo del centro",
+        "Custodiar los libros y archivos del centro",
+        "Coordinar y velar por la ejecución de las actividades de carácter académico",
+        "Elaborar el anteproyecto de presupuesto del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 34º.c), es competencia del jefe de estudios coordinar y velar por la ejecución de las actividades de carácter académico y de orientación de profesores y alumnos. Las otras opciones corresponden al secretario."
+    },
+    {
+      "question": "¿Quién elabora los horarios académicos de alumnos y profesores?",
+      "options": [
+        "El director en exclusiva",
+        "El jefe de estudios en colaboración con los restantes órganos unipersonales",
+        "La comisión de coordinación pedagógica",
+        "El claustro de profesores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 34º.d), es competencia del jefe de estudios elaborar, en colaboración con los restantes órganos unipersonales, los horarios académicos de alumnos y profesores de acuerdo con los criterios aprobados por el claustro."
+    },
+    {
+      "question": "¿Quién custodiar y dispone la utilización de los medios audiovisuales y material didáctico del centro?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "El secretario del centro",
+        "Los coordinadores de ciclo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 35º.f), es competencia del secretario custodiar y disponer la utilización de los medios audiovisuales, material didáctico, mobiliario o cualquier material inventariable."
+    },
+    {
+      "question": "¿Quién elabora el anteproyecto de presupuesto del centro?",
+      "options": [
+        "El director con la comisión económica",
+        "El secretario de acuerdo con las directrices del consejo escolar",
+        "El claustro de profesores",
+        "La comisión de coordinación pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 35º.h), es competencia del secretario elaborar el anteproyecto de presupuesto del centro de acuerdo con las directrices del consejo escolar y oída la comisión económica."
+    },
+    {
+      "question": "¿Cuántos maestros elegidos por el claustro forman parte del consejo escolar en un centro de 10 unidades?",
+      "options": [
+        "Tres maestros",
+        "Cuatro maestros",
+        "Cinco maestros",
+        "Seis maestros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 37º.1, en los centros de ocho, o más, unidades el consejo escolar estará compuesto, entre otros, por cinco maestros elegidos por el claustro."
+    },
+    {
+      "question": "En un centro de 6 unidades, ¿cuántos representantes de padres de alumnos hay en el consejo escolar?",
+      "options": [
+        "Dos representantes",
+        "Tres representantes",
+        "Cuatro representantes",
+        "Cinco representantes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 37º.2, en los centros de seis o siete unidades el consejo escolar estará compuesto, entre otros miembros, por tres representantes de los padres de alumnos."
+    },
+    {
+      "question": "¿Quién actúa como secretario del consejo escolar en centros con 8 o más unidades?",
+      "options": [
+        "El maestro más antiguo, con voz y voto",
+        "El secretario del centro, con voz pero sin voto",
+        "El jefe de estudios, con voz y voto",
+        "Un padre de alumno elegido por el consejo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 37º.1.g), en centros de ocho o más unidades, el secretario del centro actuará como secretario del consejo, con voz, pero sin voto."
+    },
+    {
+      "question": "En colegios rurales agrupados que pertenezcan a varios ayuntamientos, ¿cómo se determina la representación municipal?",
+      "options": [
+        "Todos los ayuntamientos tienen un representante cada uno",
+        "El ayuntamiento con más alumnado designa el representante permanente",
+        "Se rota cada año académico entre los ayuntamientos de manera rotatoria",
+        "El delegado provincial designa el representante"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 38º, en el caso de colegios rurales agrupados que pertenezcan a varios ayuntamientos, la representación municipal será ostentada cada año académico por uno de los ayuntamientos de manera rotatoria."
+    },
+    {
+      "question": "¿Cómo se obtiene la plaza de representante de padres propuesta por la asociación de padres más representativa?",
+      "options": [
+        "Por elección en asamblea general de padres",
+        "Por propuesta directa de la asociación con mayor número de asociados",
+        "Por votación entre todas las asociaciones de padres",
+        "Por designación del director del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 39º.1, la junta electoral solicitará a la asociación de padres de alumnos del centro, legalmente constituida, que tenga mayor número de asociados la propuesta de un representante para el consejo escolar."
+    },
+    {
+      "question": "Si la asociación de padres no propone representante, ¿qué ocurre con esa plaza en el consejo escolar?",
+      "options": [
+        "Queda vacante hasta que se presente candidato",
+        "Se cubre con el mismo procedimiento que los otros representantes de padres",
+        "La ocupa el director temporalmente",
+        "Se asigna a un representante del ayuntamiento adicional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 39º.2, en caso de no existir propuesta de la asociación de padres, esa vacante se cubrirá conjuntamente y con el mismo procedimiento que los otros representantes de los padres."
+    },
+    {
+      "question": "¿Cuándo se lleva a cabo la primera renovación parcial del consejo escolar?",
+      "options": [
+        "Un año después de su constitución",
+        "Dos años después de su constitución con todos los miembros",
+        "Tres años después de su constitución",
+        "Cuatro años después de su constitución"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 41º.1, sin perjuicio de lo establecido en el artículo 49.2º, dos años después de que se constituya el consejo escolar con todos los miembros, se llevará a cabo la primera renovación parcial del mismo."
+    },
+    {
+      "question": "En la primera renovación parcial del consejo escolar de un centro con 8 unidades, ¿cuántos maestros se sustituyen?",
+      "options": [
+        "Un maestro",
+        "Dos maestros",
+        "Tres maestros",
+        "Cuatro maestros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 41º.1.a), en centros que tengan ocho unidades o más, en la primera renovación parcial serán sustituidos dos maestros y tres padres."
+    },
+    {
+      "question": "¿Cuál NO es una atribución del consejo escolar según el artículo 43º?",
+      "options": [
+        "Elegir al director del centro",
+        "Aprobar la programación general anual del centro",
+        "Aprobar los proyectos curriculares de etapa",
+        "Aprobar el Reglamento de régimen interior del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 43º, el consejo escolar aprueba la programación general anual respetando los aspectos docentes que competen al claustro. Los proyectos curriculares de etapa son aprobados por el claustro, no por el consejo escolar (artículo 47º.b)."
+    },
+    {
+      "question": "¿Quién establece las directrices para la elaboración del proyecto educativo del centro?",
+      "options": [
+        "El director del centro",
+        "El claustro de profesores",
+        "El consejo escolar",
+        "La comisión de coordinación pedagógica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 43º.a), el consejo escolar establece las directrices y elabora propuestas para la elaboración del proyecto educativo del centro, lo aprueba, lo evalúa y, si procede, introduce modificaciones."
+    },
+    {
+      "question": "¿Quién aprueba el proyecto de presupuesto del centro?",
+      "options": [
+        "El director del centro",
+        "El secretario del centro",
+        "El consejo escolar",
+        "El claustro de profesores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 43º.g), es atribución del consejo escolar aprobar el proyecto de presupuesto del centro y la ejecución del mismo."
+    },
+    {
+      "question": "¿Quiénes integran la comisión económica del consejo escolar?",
+      "options": [
+        "El director, el jefe de estudios y el secretario",
+        "El director, un maestro, un padre de alumno y el secretario",
+        "Todos los miembros del equipo directivo",
+        "El director, dos maestros y dos padres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 44º, en el seno del consejo escolar existirá una comisión económica, integrada por el director, un maestro, un padre de alumno y el secretario, de existir este en el centro."
+    },
+    {
+      "question": "¿Pueden los alumnos estar representados en el consejo escolar de colegios de educación primaria?",
+      "options": [
+        "No, en ningún caso",
+        "Sí, con voz y voto",
+        "Sí, con voz pero sin voto, según establezca el reglamento de régimen interior",
+        "Solo en centros con más de 12 unidades"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 45º, los alumnos podrán estar representados en el consejo escolar de los colegios de educación primaria, con voz, pero sin voto, en las condiciones que establezcan los respectivos reglamentos de régimen interior."
+    },
+    {
+      "question": "¿Quién preside el claustro de profesores?",
+      "options": [
+        "El jefe de estudios",
+        "El director del centro",
+        "El maestro más antiguo del centro",
+        "El coordinador de la comisión pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 46º.2, el claustro estará integrado por la totalidad de los profesores que presten servicio en el mismo y será presidido por el director del centro."
+    },
+    {
+      "question": "¿Cuál es una competencia exclusiva del claustro y NO del consejo escolar?",
+      "options": [
+        "Aprobar el proyecto educativo del centro",
+        "Aprobar los proyectos curriculares y los aspectos docentes de la programación general anual",
+        "Aprobar la programación de las actividades extraescolares",
+        "Aprobar el Reglamento de régimen interior"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 47º.b), el claustro aprueba y evalúa los proyectos curriculares y los aspectos docentes de la programación general anual, conforme al proyecto educativo del centro. Esta es una competencia exclusiva del claustro."
+    },
+    {
+      "question": "¿Qué órgano determina cuál es la lengua materna predominante entre los alumnos?",
+      "options": [
+        "El consejo escolar",
+        "El director del centro",
+        "El claustro de profesores",
+        "La comisión de coordinación pedagógica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 47º.c), es competencia del claustro determinar cuál es la lengua materna predominante entre los alumnos y alumnas, así como la lengua ambiental, con el fin de que el profesorado la use en la clase."
+    },
+    {
+      "question": "¿Quién aprueba los criterios pedagógicos para la elaboración de los horarios de los alumnos?",
+      "options": [
+        "El jefe de estudios",
+        "El consejo escolar",
+        "El claustro de profesores",
+        "El director del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 47º.h), es competencia del claustro aprobar los criterios pedagógicos para la elaboración de los horarios de los alumnos."
+    },
+    {
+      "question": "¿Qué órgano elige a los representantes de los profesores en el consejo escolar?",
+      "options": [
+        "El director mediante designación directa",
+        "El claustro de profesores mediante votación",
+        "El consejo escolar mediante sorteo",
+        "La comisión de coordinación pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 47º.f), es competencia del claustro elegir a sus representantes en el consejo escolar del centro y en el consejo directivo del centro de formación continuada del profesorado."
+    },
+    {
+      "question": "¿Qué quórum se requiere para la válida constitución de los órganos colegiados en primera convocatoria?",
+      "options": [
+        "Un tercio de sus miembros más presidente y secretario",
+        "La mitad de sus miembros más presidente y secretario",
+        "Dos tercios de sus miembros más presidente y secretario",
+        "Todos los miembros del órgano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 50º, el quórum para la válida constitución de los órganos colegiados requerirá la presencia del presidente y secretario o, en su caso, de quienes los sustituyan, y de la mitad por lo menos, de sus miembros."
+    },
+    {
+      "question": "Si no existe quórum en primera convocatoria, ¿cuándo se constituirá el órgano en segunda convocatoria?",
+      "options": [
+        "En la siguiente hora",
+        "Al día siguiente lectivo, en el mismo lugar y a la misma hora",
+        "Tres días después",
+        "Una semana después"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 50º, si no existiese quórum, el órgano se constituirá en segunda convocatoria en el siguiente día lectivo, en el mismo lugar y a la misma hora."
+    },
+    {
+      "question": "¿Cuántos miembros como mínimo deben asistir a la segunda convocatoria de un órgano colegiado?",
+      "options": [
+        "La mitad de los miembros",
+        "Un tercio de los miembros, y en todo caso no inferior a tres",
+        "Un cuarto de los miembros",
+        "Dos tercios de los miembros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 50º, en segunda convocatoria será suficiente la asistencia de la tercera parte de sus miembros, y, en todo caso, un número no inferior a tres, sin perjuicio de la presencia del presidente y el secretario o personas que los sustituyan."
+    },
+    {
+      "question": "¿Con qué periodicidad mínima deben reunirse en sesión ordinaria los órganos colegiados?",
+      "options": [
+        "Una vez al mes",
+        "Una vez cada dos meses",
+        "Una vez por trimestre",
+        "Una vez por semestre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 51º.2, los órganos colegiados se reunirán preceptivamente en sesión ordinaria una vez por trimestre y siempre que los convoque su presidente o lo solicite un tercio, al menos, de sus miembros."
+    },
+    {
+      "question": "¿Qué órganos de coordinación docente existen en centros con 6 o más unidades?",
+      "options": [
+        "Equipos de ciclo, comisión de coordinación pedagógica y equipo de normalización lingüística",
+        "Equipos de ciclo, comisión pedagógica, equipo de normalización lingüística y equipo de actividades complementarias",
+        "Solo equipos de ciclo y comisión de coordinación pedagógica",
+        "Equipos de ciclo, claustro y consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 53º.1, en centros con seis o más unidades existirán: a) Equipos de ciclo; b) Comisión de coordinación pedagógica; c) Equipo de normalización lingüística; d) Equipo de actividades complementarias y extraescolares."
+    },
+    {
+      "question": "En centros con menos de 6 unidades, ¿quién asume las funciones de la comisión de coordinación pedagógica?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "El claustro de profesores",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 53º.2, en los centros con menos de seis unidades las funciones de la comisión de coordinación pedagógica, equipo de normalización lingüística y equipo de actividades complementarias y extraescolares serán asumidas por el claustro."
+    },
+    {
+      "question": "¿Quién supervisa la labor de los equipos de ciclo?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "La comisión de coordinación pedagógica",
+        "El coordinador de normalización lingüística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 54º.1, los equipos de ciclo son los órganos básicos encargados de organizar y desarrollar, bajo la supervisión del jefe de estudios, las enseñanzas propias del ciclo."
+    },
+    {
+      "question": "¿Cuál NO es una competencia del equipo de ciclo?",
+      "options": [
+        "Formular propuestas al equipo directivo relativas al proyecto educativo",
+        "Elaborar la programación didáctica de las enseñanzas del ciclo",
+        "Aprobar el plan de acción tutorial del centro",
+        "Mantener actualizada la metodología didáctica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 54º.2, el equipo de ciclo formula propuestas, elabora programaciones y mantiene actualizada la metodología. El plan de acción tutorial lo elabora la comisión de coordinación pedagógica, no se aprueba a nivel de equipo de ciclo."
+    },
+    {
+      "question": "¿Cuánto dura el mandato de los coordinadores de ciclo?",
+      "options": [
+        "Un curso académico",
+        "Dos cursos académicos",
+        "Tres cursos académicos",
+        "Cuatro cursos académicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 55º.2, los coordinadores de ciclo desempeñarán su cargo durante dos cursos académicos y serán designados por el director, oído el equipo de ciclo."
+    },
+    {
+      "question": "¿Quién designa al coordinador de ciclo?",
+      "options": [
+        "El claustro de profesores",
+        "El equipo de ciclo mediante votación",
+        "El director, oído el equipo de ciclo",
+        "El jefe de estudios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 55º.2, los coordinadores de ciclo serán designados por el director, oído el equipo de ciclo."
+    },
+    {
+      "question": "¿Qué características debe tener preferentemente el coordinador de ciclo?",
+      "options": [
+        "Ser el maestro más antiguo del ciclo",
+        "Tener destino definitivo y horario completo en el centro",
+        "Estar acreditado para la función directiva",
+        "Haber sido tutor durante al menos dos años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 55º.3, los coordinadores de ciclo deberán ser maestros que impartan docencia en el ciclo preferentemente con destino definitivo y horario completo en el centro."
+    },
+    {
+      "question": "¿Cuál NO es una función del coordinador de ciclo?",
+      "options": [
+        "Convocar y presidir las reuniones del equipo de ciclo",
+        "Coordinar la enseñanza en el ciclo de acuerdo con el proyecto curricular",
+        "Elaborar el proyecto educativo del centro",
+        "Responsabilizarse de la redacción de la programación didáctica del ciclo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 56º, el coordinador de ciclo tiene funciones relacionadas con la coordinación del ciclo, pero el proyecto educativo del centro es elaborado por el equipo directivo según el artículo 86º."
+    },
+    {
+      "question": "¿Qué aspecto NO debe incluir necesariamente la programación didáctica del equipo de ciclo?",
+      "options": [
+        "Los objetivos, contenidos y criterios de evaluación con mínimos exigibles",
+        "Los procedimientos de evaluación del aprendizaje de los alumnos",
+        "La metodología didáctica que se va aplicar",
+        "Los horarios individuales de cada profesor del ciclo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Según el artículo 57º, la programación didáctica incluye objetivos, contenidos, criterios de evaluación, metodología, procedimientos de evaluación, materiales, actividades, temas transversales y atención a la diversidad. Los horarios individuales no forman parte de la programación didáctica del ciclo."
+    },
+    {
+      "question": "¿Cuándo puede un profesor incluir variaciones en su programación respecto a la programación del equipo de ciclo?",
+      "options": [
+        "Nunca, debe seguir estrictamente la programación del equipo",
+        "Cuando lo acuerde el equipo de ciclo o, en último caso, la comisión de coordinación pedagógica",
+        "Cuando lo autorice el director del centro",
+        "Cuando lo apruebe el claustro de profesores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 58º, si algún profesor decide incluir alguna variación con respecto a la programación conjunta del equipo, esta variación y su justificación se incluirá en la programación, siempre que así lo acuerde el equipo de ciclo, o, en último caso, la comisión de coordinación pedagógica."
+    },
+    {
+      "question": "¿Por qué causa puede cesar un coordinador de ciclo antes de finalizar su mandato?",
+      "options": [
+        "Por propuesta del director sin necesidad de más trámites",
+        "Por renuncia aceptada por el director oído el equipo de ciclo, o revocación por el director a propuesta del equipo",
+        "Por decisión unilateral del jefe de estudios",
+        "Por votación del claustro de profesores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 59º, los coordinadores de ciclo cesan por: a) Renuncia motivada aceptada por el director, oído el equipo de ciclo; b) Revocación por el director a propuesta del equipo de ciclo mediante informe razonado, con audiencia del interesado."
+    },
+    {
+      "question": "¿Quiénes integran la comisión de coordinación pedagógica?",
+      "options": [
+        "El director, jefe de estudios y todos los tutores",
+        "El director, jefe de estudios, coordinadores de ciclo, profesor de apoyo NEE y coordinador de normalización lingüística",
+        "Todo el claustro de profesores",
+        "El equipo directivo y los representantes de los padres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 61º, la comisión de coordinación pedagógica estará integrada por: el director (presidente), el jefe de estudios (si existe), los coordinadores de ciclo, el profesor de apoyo a alumnos con NEE y el coordinador del equipo de normalización lingüística."
+    },
+    {
+      "question": "¿Quién actúa como secretario de la comisión de coordinación pedagógica?",
+      "options": [
+        "El secretario del centro automáticamente",
+        "El jefe de estudios por su cargo",
+        "Un miembro de la comisión, designado por el director oídos los restantes miembros",
+        "El coordinador de ciclo más antiguo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 61º, actuará como secretario de la comisión un miembro de la comisión, designado por el director, oídos los restantes miembros."
+    },
+    {
+      "question": "¿Cuál es una competencia de la comisión de coordinación pedagógica?",
+      "options": [
+        "Aprobar el proyecto educativo del centro",
+        "Proponer al claustro los proyectos curriculares para su aprobación",
+        "Elegir al director del centro",
+        "Elaborar el Reglamento de régimen interior"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 62º.e), es competencia de la comisión de coordinación pedagógica proponer al claustro de profesores los proyectos curriculares para su aprobación."
+    },
+    {
+      "question": "¿Qué órgano asegura la coherencia entre el proyecto educativo, los proyectos curriculares y la programación general anual?",
+      "options": [
+        "El consejo escolar",
+        "El claustro de profesores",
+        "La comisión de coordinación pedagógica",
+        "El director del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 62º.c), es competencia de la comisión de coordinación pedagógica asegurar la coherencia entre el proyecto educativo del centro, los proyectos curriculares de etapa y la programación general anual."
+    },
+    {
+      "question": "¿Quién propone a los profesores que han de formar parte del equipo de normalización lingüística?",
+      "options": [
+        "El director del centro",
+        "El claustro de profesores",
+        "La comisión de coordinación pedagógica",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 62º.i), es competencia de la comisión de coordinación pedagógica proponer a los profesores que han de formar parte del equipo de normalización lingüística."
+    },
+    {
+      "question": "¿Cómo se constituye el equipo de normalización lingüística?",
+      "options": [
+        "Por todos los maestros del centro",
+        "Por un profesor de cada ciclo, por propuesta de sus integrantes",
+        "Por designación directa del director",
+        "Por elección del claustro mediante votación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 63º.1, para potenciar el uso de la lengua gallega se constituirá en los centros un equipo de normalización lingüística, constituido por un profesor de cada ciclo, por propuesta de sus integrantes."
+    },
+    {
+      "question": "¿Quién nombra a los miembros del equipo de normalización lingüística?",
+      "options": [
+        "El claustro de profesores",
+        "El director del centro",
+        "El consejo escolar",
+        "El delegado provincial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 63º.2, los miembros del equipo de normalización lingüística serán nombrados por el director."
+    },
+    {
+      "question": "¿Qué debe especificar el plan general para el uso del idioma que propone el equipo de normalización lingüística?",
+      "options": [
+        "Solo las medidas para potenciar el uso de la lengua gallega",
+        "Medidas para potenciar el uso del gallego y proyectos para mejorar la competencia lingüística",
+        "Únicamente proyectos de valoración positiva del uso de la lengua propia",
+        "Solo las actividades culturales en lengua gallega"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 64º.2, el plan general para el uso del idioma deberá especificar, al menos: a) Medidas para potenciar el uso de la lengua gallega en las actividades del centro; b) Proyectos tendentes a lograr una valoración positiva del uso de la lengua propia y a mejorar la competencia lingüística de los miembros de la comunidad educativa."
+    },
+    {
+      "question": "¿Cuánto dura el mandato del coordinador del equipo de normalización lingüística?",
+      "options": [
+        "Un año",
+        "Dos años, renovables",
+        "Tres años",
+        "Cuatro años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 66º, el coordinador del equipo de normalización lingüística desempeñará sus funciones durante dos años, renovables en su caso."
+    },
+    {
+      "question": "En centros con 3, 4 o 5 unidades, ¿quién asume las funciones de coordinación de normalización lingüística?",
+      "options": [
+        "El jefe de estudios",
+        "El secretario",
+        "El director",
+        "El maestro más antiguo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 65º.2, en los centros con tres, cuatro o cinco unidades asumirá las funciones de coordinación de los planes de normalización lingüística el director."
+    },
+    {
+      "question": "¿Cuál es una competencia del coordinador del equipo de normalización lingüística?",
+      "options": [
+        "Aprobar el proyecto educativo del centro",
+        "Convocar y presidir las reuniones del equipo",
+        "Elaborar el presupuesto del centro",
+        "Nombrar a los tutores del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 68º.c), es competencia del coordinador convocar y presidir las reuniones del equipo de normalización lingüística."
+    },
+    {
+      "question": "¿Qué son las actividades complementarias según el decreto?",
+      "options": [
+        "Actividades realizadas fuera del horario lectivo",
+        "Actividades didácticas en horario lectivo con carácter diferenciado por momento, espacio o recursos",
+        "Solo las actividades deportivas del centro",
+        "Actividades organizadas por las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 69º, tendrán carácter de complementarias aquellas actividades didácticas que se realizan con el alumnado en horario lectivo y que, formando parte de la programación, tienen carácter diferenciado por el momento, espacio o recursos que utilizan."
+    },
+    {
+      "question": "¿Qué son las actividades extraescolares?",
+      "options": [
+        "Actividades organizadas por asociaciones externas al centro",
+        "Actividades obligatorias fuera del centro",
+        "Actividades organizadas por el centro, en la programación general anual, realizadas fuera de horario lectivo",
+        "Solo las excursiones escolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 70º, tienen carácter de extraescolares aquellas que, siendo organizadas por el centro y figurando en la programación general anual aprobada por el consejo escolar, se realizan fuera de horario lectivo. La participación en las mismas será voluntaria."
+    },
+    {
+      "question": "¿Quién integra el equipo de actividades complementarias y extraescolares?",
+      "options": [
+        "Todos los profesores del centro",
+        "El jefe del equipo y, para cada actividad concreta, los profesores que participan en la misma",
+        "El director, jefe de estudios y secretario",
+        "Los coordinadores de ciclo y los tutores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 71º.2, el equipo de actividades complementarias y extraescolares estará integrado por el jefe del mismo y, para cada actividad concreta, por los profesores que participan en la misma."
+    },
+    {
+      "question": "¿Quién designa al jefe del equipo de actividades complementarias y extraescolares?",
+      "options": [
+        "El claustro de profesores",
+        "El director por propuesta del jefe de estudios, oída la comisión de coordinación pedagógica",
+        "El consejo escolar",
+        "El jefe de estudios directamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 72º.1, el jefe del equipo de actividades complementarias y extraescolares será un profesor, preferentemente con destino definitivo en el centro, que designe el director por propuesta del jefe de estudios, oída la comisión de coordinación pedagógica."
+    },
+    {
+      "question": "¿Cuánto dura el mandato del jefe del equipo de actividades complementarias y extraescolares?",
+      "options": [
+        "Un año",
+        "Dos años",
+        "Tres años",
+        "Cuatro años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 73º, el jefe del equipo de actividades complementarias y extraescolares será nombrado por un período de dos años."
+    },
+    {
+      "question": "En centros con 3, 4 o 5 unidades, ¿quién asume la coordinación de actividades extraescolares y complementarias?",
+      "options": [
+        "El jefe de estudios",
+        "El secretario",
+        "El director",
+        "El coordinador de ciclo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 72º.3, en los centros con tres, cuatro o cinco unidades la coordinación de las actividades extraescolares y complementarias será asumida por el director."
+    },
+    {
+      "question": "¿Cuál NO es una función del jefe del equipo de actividades complementarias y extraescolares?",
+      "options": [
+        "Organizar la utilización de la biblioteca del centro",
+        "Aprobar el presupuesto del centro",
+        "Promover y coordinar actividades culturales y deportivas",
+        "Elaborar el programa anual de actividades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 75º, el jefe del equipo de actividades tiene funciones relacionadas con programación, coordinación y organización de actividades, biblioteca, intercambios y memoria. El presupuesto del centro lo aprueba el consejo escolar según el artículo 43º."
+    },
+    {
+      "question": "¿Qué requisitos se necesitan para actividades complementarias o extraescolares fuera de la localidad del centro?",
+      "options": [
+        "Solo aprobación del director",
+        "Aprobación del consejo escolar, autorización escrita de los padres, y un profesor por cada 20 alumnos",
+        "Solo autorización de los padres",
+        "Autorización del delegado provincial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 76º, para actividades fuera de la localidad del centro se requiere: a) Aprobación del consejo escolar; b) Autorización escrita de los padres o tutor legal; c) Los alumnos serán acompañados por el profesorado en proporción de un profesor por cada veinte alumnos."
+    },
+    {
+      "question": "¿Cuántos alumnos puede acompañar un profesor en actividades fuera de la localidad del centro?",
+      "options": [
+        "Diez alumnos",
+        "Quince alumnos",
+        "Veinte alumnos",
+        "Veinticinco alumnos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 76º.c), los alumnos y alumnas serán acompañados por el profesorado correspondiente en la proporción de un profesor o profesora por cada veinte alumnos."
+    },
+    {
+      "question": "¿Existe un maestro tutor por cada grupo de alumnos en todos los centros?",
+      "options": [
+        "Solo en centros con más de 6 unidades",
+        "Solo en centros de educación primaria",
+        "Sí, en todos los centros independientemente del número de unidades",
+        "Solo en centros urbanos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 53º.3, en todos los centros, independientemente del número de unidades, habrá un maestro tutor por cada grupo de alumnos."
+    },
+    {
+      "question": "¿Quién designa a los tutores?",
+      "options": [
+        "El claustro de profesores",
+        "El director a propuesta del jefe de estudios",
+        "El jefe de estudios directamente",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 80º.2, cada grupo de alumnos tendrá un maestro tutor que será designado por el director a propuesta del jefe de estudios."
+    },
+    {
+      "question": "¿Quién coordina el trabajo de los tutores?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "El secretario",
+        "La comisión de coordinación pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 80º.3, el jefe de estudios coordinará el trabajo de los tutores y mantendrá las reuniones periódicas necesarias para el buen funcionamiento de la acción tutorial."
+    },
+    {
+      "question": "¿Cuál NO es una función del tutor según el artículo 81º?",
+      "options": [
+        "Coordinar las adaptaciones curriculares necesarias para alumnos de su grupo",
+        "Aprobar el proyecto educativo del centro",
+        "Informar al equipo de profesores de las características de los alumnos del grupo",
+        "Orientar a los alumnos de manera directa e inmediata en su proceso formativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 81º.1, el tutor tiene múltiples funciones relacionadas con el seguimiento, coordinación y orientación de sus alumnos, pero no aprueba el proyecto educativo, que es competencia del consejo escolar según el artículo 43º."
+    },
+    {
+      "question": "¿Qué debe proporcionar el tutor al principio de curso a alumnos y padres?",
+      "options": [
+        "Solo el horario de clases",
+        "Información sobre calendario escolar, horarios, tutorías, actividades previstas, programas y criterios de evaluación",
+        "Únicamente el Reglamento de régimen interior",
+        "Solo los criterios de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 81º.1.b), el tutor debe proporcionar al principio de curso, a los alumnos y a los padres, información documental sobre calendario escolar, horarios, horas de tutoría, actividades extraescolares y complementarias previstas, programas escolares y criterios de evaluación del grupo."
+    },
+    {
+      "question": "¿Quién coordina el proceso de evaluación de los alumnos de un grupo y adopta la decisión de promoción?",
+      "options": [
+        "El jefe de estudios",
+        "El tutor del grupo, previa audiencia de los padres",
+        "El equipo de ciclo",
+        "La comisión de coordinación pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 81º.1.n), el tutor coordinará el proceso de evaluación de los alumnos de su grupo y adoptará la decisión que proceda referente a la promoción de los alumnos de un ciclo a otro, previa audiencia de sus padres o tutores legales."
+    },
+    {
+      "question": "¿Quién coordina la atención a los alumnos con necesidades educativas especiales?",
+      "options": [
+        "El director del centro",
+        "El profesor de apoyo a la atención a los alumnos con NEE, especialista en educación especial",
+        "El jefe de estudios",
+        "El tutor del grupo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 82º, la coordinación de la atención a los alumnos con necesidades educativas especiales será realizada por el profesor de apoyo a la atención a los alumnos con necesidades educativas especiales. Este profesor será especialista en educación especial."
+    },
+    {
+      "question": "¿Dónde reciben normalmente atención docente directa los alumnos con NEE?",
+      "options": [
+        "Siempre en un aula separada",
+        "En la propia aula con ayuda del profesorado de apoyo",
+        "Solo en el aula de educación especial",
+        "En el centro de recursos externos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 83º, los alumnos con necesidades educativas especiales recibirán atención docente directa por parte de los profesores del grupo en el que se integran, con la ayuda, en su caso, del profesorado de apoyo en la propia aula. Solo excepcionalmente se podrán hacer intervenciones diferenciadas fuera del aula."
+    },
+    {
+      "question": "¿Cuál es una función del profesor de apoyo a alumnos con NEE además de la atención directa?",
+      "options": [
+        "Aprobar las adaptaciones curriculares",
+        "Orientar al profesorado que imparte docencia a alumnos con NEE y colaborar en la elaboración de adaptaciones curriculares",
+        "Decidir la promoción de los alumnos con NEE",
+        "Elaborar el proyecto educativo del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 84º, el profesor de apoyo a alumnos con NEE, además de la atención docente, tiene funciones como: orientar al profesorado que imparte docencia a estos alumnos, colaborar en la elaboración de adaptaciones curriculares y en su seguimiento, y coordinar en colaboración con el jefe de estudios las cuestiones relacionadas con estos alumnos."
+    },
+    {
+      "question": "¿Qué autonomía tienen los centros para definir su modelo de gestión organizativa y pedagógica?",
+      "options": [
+        "Ninguna autonomía, deben seguir estrictamente la normativa",
+        "Autonomía total sin limitaciones",
+        "Autonomía que debe concretarse en el proyecto educativo, proyectos curriculares y normas de funcionamiento",
+        "Solo autonomía pedagógica, no organizativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 85º, los centros dispondrán de autonomía para definir el modelo de gestión organizativa y pedagógica, que deberá concretarse en el proyecto educativo del centro, proyectos curriculares y normas de funcionamiento."
+    },
+    {
+      "question": "¿Quién elabora el proyecto educativo del centro?",
+      "options": [
+        "El claustro de profesores",
+        "El consejo escolar",
+        "El equipo directivo de acuerdo con los criterios del consejo escolar y las propuestas del claustro",
+        "El director en exclusiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 86º.1, el equipo directivo elaborará el proyecto educativo del centro de acuerdo con los criterios establecidos por el consejo escolar y las propuestas realizadas por el claustro."
+    },
+    {
+      "question": "¿Quién aprueba el proyecto educativo del centro?",
+      "options": [
+        "El equipo directivo",
+        "El claustro de profesores",
+        "El consejo escolar",
+        "El delegado provincial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 86º.2, el proyecto educativo del centro será aprobado y evaluado por el consejo escolar."
+    },
+    {
+      "question": "¿Qué debe incluir el proyecto educativo del centro?",
+      "options": [
+        "Solo los objetivos generales del centro",
+        "La organización general, fines educativos, objetivos de normalización lingüística, Reglamento de régimen interior y oferta de actividades",
+        "Únicamente el Reglamento de régimen interior",
+        "Solo la programación general anual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 87º, el proyecto educativo debe incluir: organización general, fines e intenciones educativas, objetivos de normalización lingüística, adecuación de objetivos generales de etapa, Reglamento de régimen interior, oferta de actividades y servicios, y formas de colaboración entre sectores de la comunidad educativa."
+    },
+    {
+      "question": "¿Quién supervisa el proyecto educativo para comprobar su adecuación a las disposiciones vigentes?",
+      "options": [
+        "El consejo escolar",
+        "El director del centro",
+        "La inspección educativa",
+        "El delegado provincial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 88º, la inspección educativa supervisará el proyecto educativo para comprobar la adecuación a lo establecido en las disposiciones vigentes, formulará las sugerencias que estime oportunas e indicará las correcciones que procedan."
+    },
+    {
+      "question": "¿Quién se responsabiliza de la redacción del proyecto curricular de etapa?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "La comisión de coordinación pedagógica",
+        "El equipo de ciclo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 89º, la comisión de coordinación pedagógica supervisará la elaboración y se responsabilizará de la redacción del proyecto curricular para cada una de las etapas educativas que se impartan en el centro."
+    },
+    {
+      "question": "¿Quién aprueba los proyectos curriculares de etapa?",
+      "options": [
+        "El consejo escolar",
+        "El claustro de profesores",
+        "El equipo directivo",
+        "La comisión de coordinación pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 90º, los proyectos curriculares de etapa y sus modificaciones anuales serán aprobados por el claustro de profesores."
+    },
+    {
+      "question": "¿Qué debe incluir el proyecto curricular de etapa?",
+      "options": [
+        "Solo las programaciones didácticas",
+        "Directrices generales, plan de acción tutorial y programaciones didácticas de los equipos de ciclo",
+        "Únicamente los criterios de evaluación",
+        "Solo el plan de acción tutorial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 91º, los proyectos curriculares de etapa incluirán: las directrices generales y decisiones (adecuación de objetivos, metodología, evaluación, promoción, informes, orientaciones para temas transversales, atención a diversidad, evaluación de la enseñanza), el plan de acción tutorial, y las programaciones didácticas de los equipos de ciclo."
+    },
+    {
+      "question": "¿Quién elabora el Reglamento de régimen interior del centro?",
+      "options": [
+        "El claustro de profesores",
+        "El equipo directivo y lo aprueba el consejo escolar",
+        "El consejo escolar directamente",
+        "El director en exclusiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 93º.1, el Reglamento de régimen interior será elaborado por el equipo directivo y aprobado por el consejo escolar, incorporándose al proyecto educativo de centro."
+    },
+    {
+      "question": "¿Qué aspecto NO debe concretar el Reglamento de régimen interior?",
+      "options": [
+        "La organización práctica de la participación de todos los miembros de la comunidad educativa",
+        "Los criterios de evaluación del alumnado",
+        "Normas de convivencia que favorezcan las relaciones entre los distintos miembros",
+        "Organización de los espacios e instalaciones del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 94º, el Reglamento de régimen interior debe concretar aspectos como organización de la participación, normas de convivencia, canales de coordinación, organización de responsabilidades, espacios e instalaciones, servicios educativos y representación de alumnos. Los criterios de evaluación del alumnado forman parte del proyecto curricular, no del Reglamento de régimen interior."
+    },
+    {
+      "question": "¿Quién supervisa el Reglamento de régimen interior para comprobar su adecuación a la normativa?",
+      "options": [
+        "El consejo escolar",
+        "El director del centro",
+        "La inspección educativa",
+        "El claustro de profesores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 95º, la inspección educativa supervisará el reglamento de régimen interior para comprobar su adecuación a lo establecido en las disposiciones vigentes, formulará las sugerencias que estime oportunas e indicará las correcciones que procedan."
+    },
+    {
+      "question": "¿Quién elabora la programación general anual del centro?",
+      "options": [
+        "El claustro de profesores",
+        "El consejo escolar",
+        "El equipo directivo teniendo en cuenta las propuestas del claustro y directrices del consejo escolar",
+        "La comisión de coordinación pedagógica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 96º.1, la programación general anual será elaborada por el equipo directivo del centro, y tendrá en cuenta las propuestas del claustro y las directrices del consejo escolar."
+    },
+    {
+      "question": "¿Qué órgano aprueba la programación general anual?",
+      "options": [
+        "El claustro de profesores",
+        "El equipo directivo",
+        "El consejo escolar, respetando los aspectos docentes que competen al claustro",
+        "El director en exclusiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 97º, la programación general anual será informada por el claustro en el ámbito de su competencia y elevada, para su aprobación posterior, al consejo escolar del centro, que respetará, en todo caso, los aspectos docentes que competen al claustro."
+    },
+    {
+      "question": "¿Qué documento NO se incluye en la programación general anual?",
+      "options": [
+        "Horario general del centro y criterios pedagógicos para su elaboración",
+        "Documento de organización del centro con estadística de principio de curso",
+        "Las actas de las reuniones del claustro y consejo escolar",
+        "Programa anual de actividades complementarias y extraescolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 98º.1, la programación general anual incluye: objetivos específicos del curso, horario general y criterios, programa de actividades complementarias y extraescolares, documento de organización del centro, y programa anual de formación del profesorado. Las actas de reuniones no se incluyen en la programación general anual."
+    },
+    {
+      "question": "¿Se incluyen el proyecto educativo y los proyectos curriculares en la programación general anual cada año?",
+      "options": [
+        "Sí, siempre deben incluirse completos",
+        "Se incluyen como anexo, pero si no sufren modificación no se incluyen de nuevo",
+        "Nunca se incluyen en la programación general anual",
+        "Solo se incluye el proyecto educativo, no los curriculares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 98º.2, se incluirán como anexo a la programación anual el proyecto educativo y los proyectos curriculares de etapa del centro y, en su caso, las modificaciones posteriores. De no sufrir modificación, no se incluirán de nuevo, haciendo la observación de que siguen vigentes."
+    },
+    {
+      "question": "¿Dónde se conserva un ejemplar de la programación general anual una vez aprobada?",
+      "options": [
+        "Solo en el despacho del director",
+        "En la secretaría del centro a disposición de la comunidad educativa",
+        "En el archivo del delegado provincial",
+        "En la inspección educativa únicamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 99º.1, una vez aprobada la programación general anual, un ejemplar de la misma quedará en la secretaría del centro a disposición de los miembros de la comunidad educativa, y otro se remitirá al servicio provincial de inspección educativa."
+    },
+    {
+      "question": "¿Quién supervisa la programación general anual para comprobar su adecuación a las disposiciones vigentes?",
+      "options": [
+        "El consejo escolar",
+        "El delegado provincial",
+        "La inspección educativa",
+        "El claustro de profesores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 100º, la inspección educativa supervisará la programación general anual para comprobar su adecuación a lo establecido en las disposiciones vigentes y en el proyecto educativo de centro, formulará las sugerencias que estime oportunas e indicará las correcciones que procedan."
+    },
+    {
+      "question": "¿Qué tipo de autonomía tienen los centros en su gestión económica?",
+      "options": [
+        "Ninguna autonomía, todo lo gestiona la Consellería",
+        "Autonomía total sin límites",
+        "Autonomía en el marco establecido en la normativa vigente",
+        "Solo pueden gestionar donaciones, no fondos públicos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 101º, las escuelas de educación infantil y colegios de educación primaria dispondrán de autonomía en su gestión económica en el marco establecido en la normativa vigente."
+    },
+    {
+      "question": "¿Pueden los centros obtener recursos complementarios además de los proporcionados por la administración?",
+      "options": [
+        "No, solo pueden usar recursos asignados por la Consellería",
+        "Sí, de conformidad con la legislación aplicable, pero no de las actividades de las asociaciones de padres",
+        "Solo mediante actividades de las asociaciones de padres",
+        "Solo mediante donaciones de empresas privadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 102º.1, los centros podrán obtener recursos complementarios de conformidad con la legislación que resulte aplicable. Estos recursos deberán ser aplicados a sus gastos de funcionamiento y no podrán proceder de las actividades desarrolladas por las asociaciones de padres y de alumnos en el cumplimiento de sus fines."
+    },
+    {
+      "question": "¿Quién debe autorizar el plan de acciones para obtener recursos complementarios?",
+      "options": [
+        "El director del centro",
+        "El claustro de profesores",
+        "El delegado provincial de la Consellería de Educación",
+        "El consejo escolar únicamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 103º, la comisión económica, previa aprobación en el consejo escolar, deberá presentar para su autorización por el delegado provincial de la Consellería de Educación y Ordenación Universitaria el plan de acciones encaminadas a la obtención de los recursos complementarios."
+    },
+    {
+      "question": "¿Qué competencias puede delegar la Consellería en los órganos de gobierno de los centros?",
+      "options": [
+        "Solo la gestión de recursos materiales",
+        "La adquisición de bienes, contratación de servicios y suministraciones, con los límites establecidos",
+        "Únicamente la elaboración de presupuestos",
+        "Ninguna competencia de gestión económica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 104º.1, la Consellería de Educación y Ordenación Universitaria podrá delegar en los órganos de gobierno de los centros la adquisición de bienes, contratación de servicios y suministraciones, con los límites que en la normativa correspondiente se establezcan."
+    },
+    {
+      "question": "¿Pueden existir asociaciones de padres de alumnos en las escuelas y colegios?",
+      "options": [
+        "No, no están permitidas",
+        "Solo en centros con más de 12 unidades",
+        "Sí, de acuerdo con la legislación vigente",
+        "Solo si lo autoriza expresamente el consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 105º.1, en las escuelas de educación infantil y colegios de educación primaria podrán existir las asociaciones de padres de alumnos, de acuerdo con la legislación vigente."
+    },
+    {
+      "question": "¿Pueden las asociaciones de padres elaborar informes para el consejo escolar?",
+      "options": [
+        "No, solo pueden asistir como observadores",
+        "Solo si lo solicita el director",
+        "Sí, a iniciativa propia o a petición del consejo escolar",
+        "Solo una vez al año"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 105º.2.e), las asociaciones de padres pueden elaborar informes para el consejo escolar a iniciativa propia o a petición de este."
+    },
+    {
+      "question": "¿Pueden las asociaciones de padres formular propuestas para actividades complementarias y extraescolares?",
+      "options": [
+        "No, eso es competencia exclusiva del claustro",
+        "Sí, y una vez aceptadas deberán figurar en la programación general anual",
+        "Solo para actividades extraescolares, no complementarias",
+        "Solo con autorización expresa del director"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 105º.2.g), las asociaciones de padres pueden formular propuestas para la realización de actividades complementarias y extraescolares que, una vez aceptadas, deberán figurar en la programación general anual."
+    },
+    {
+      "question": "¿Tienen derecho las asociaciones de padres a recibir un ejemplar del proyecto educativo y los proyectos curriculares?",
+      "options": [
+        "No, esos documentos son solo para uso interno",
+        "Sí, deben recibir un ejemplar de la programación general anual, proyecto educativo, proyectos curriculares de etapa y sus modificaciones",
+        "Solo pueden consultarlos en la secretaría",
+        "Solo reciben la programación general anual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 105º.2.i), las asociaciones de padres tienen derecho a recibir un ejemplar de la programación general anual, del proyecto educativo, de los proyectos curriculares de etapa y de sus modificaciones."
+    },
+    {
+      "question": "¿Pueden las asociaciones de padres hacer uso de las instalaciones del centro?",
+      "options": [
+        "No, las instalaciones son exclusivamente para uso docente",
+        "Sí, en los términos que establezca el consejo escolar de acuerdo con la legislación vigente",
+        "Solo fuera del horario lectivo",
+        "Solo con autorización del delegado provincial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 105º.2.n), las asociaciones de padres pueden hacer uso de las instalaciones del centro en los términos que establezca el consejo escolar de acuerdo con la legislación vigente."
+    },
+    {
+      "question": "Los consejos escolares elegidos antes de la entrada en vigor del decreto, ¿hasta cuándo continúan sus funciones?",
+      "options": [
+        "Deben renovarse inmediatamente",
+        "Hasta el final del plazo para el que fueron elegidos",
+        "Solo un año más",
+        "Hasta la siguiente inspección educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la disposición transitoria primera.1, los consejos escolares y los órganos unipersonales de gobierno elegidos con anterioridad a la entrada en vigor de este Reglamento continuarán desempeñando sus funciones hasta el final del plazo para el que fueron elegidos."
+    },
+    {
+      "question": "En colegios de educación primaria que impartan provisionalmente primer ciclo de ESO, ¿quién forma parte del consejo escolar?",
+      "options": [
+        "Solo los profesores y padres de educación primaria",
+        "También un representante de los alumnos de ese ciclo educativo",
+        "Los profesores de ESO no pueden estar en el consejo",
+        "Se crea un consejo escolar separado para ESO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la disposición transitoria primera.2, en los colegios de educación primaria en los que se imparta provisionalmente el primer ciclo de educación secundaria obligatoria, formará parte del consejo escolar un representante de los alumnos de este ciclo educativo."
+    },
+    {
+      "question": "Los colegios de educación primaria que impartan primer ciclo de ESO, ¿a qué centro son adscritos?",
+      "options": [
+        "No se adscriben a ningún centro",
+        "A un instituto de educación secundaria y tendrán consideración de extensión si están en la misma localidad",
+        "A la Consellería de Educación directamente",
+        "A otro colegio de primaria de referencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la disposición transitoria segunda.1, los colegios que impartan primer ciclo de ESO serán adscritos por la Consellería a un instituto de educación secundaria y tendrán la consideración de extensión de los mismos cuando se encuentren en la misma localidad."
+    },
+    {
+      "question": "¿Quiénes elaboran las programaciones didácticas del primer ciclo de ESO impartido en un colegio de primaria?",
+      "options": [
+        "Solo los profesores del colegio de primaria",
+        "Los departamentos del instituto junto con el profesorado del colegio de primaria",
+        "La Consellería de Educación",
+        "El claustro del colegio de primaria exclusivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la disposición transitoria segunda.3, los departamentos didácticos del centro de educación secundaria conjuntamente con el profesorado afectado del colegio o colegios de educación primaria elaborarán las distintas programaciones didácticas de acuerdo con el proyecto curricular de etapa."
+    },
+    {
+      "question": "En la primera renovación parcial del consejo escolar, ¿qué profesores o padres continúan preferentemente?",
+      "options": [
+        "Los más antiguos en el centro",
+        "Los que mantengan su vinculación al centro en los próximos dos años",
+        "Los elegidos por sorteo",
+        "Los propuestos por el director"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la disposición transitoria tercera, en la primera renovación parcial del consejo escolar continuarán los profesores y padres que mantengan su vinculación al centro en los próximos dos años; en su defecto los que solamente la prolonguen un curso."
+    },
+    {
+      "question": "Si varios profesores o padres reúnen las condiciones para permanecer en la renovación parcial, ¿qué criterio se aplica primero?",
+      "options": [
+        "Mayor antigüedad en el centro",
+        "Mayor edad",
+        "Mayor número de votos alcanzado en el último proceso electoral",
+        "Decisión del director"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según la disposición transitoria tercera, los criterios para permanecer en el consejo escolar son, por orden: a) Mayor número de votos alcanzado en el último proceso electoral; b) Mayor antigüedad en el centro; c) Mayor edad."
+    },
+    {
+      "question": "¿Qué norma queda derogada por el Decreto 374/1996?",
+      "options": [
+        "La LOMCE",
+        "El Decreto 63/1988 sobre constitución de colegios rurales agrupados",
+        "La Ley orgánica de educación",
+        "El Decreto 247/1995 de normalización lingüística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la disposición derogatoria única.a), queda derogado el Decreto 63/1988, de 17 de marzo, sobre constitución de colegios rurales agrupados de educación general básica y preescolar."
+    },
+    {
+      "question": "¿Quién está autorizado para dictar disposiciones de desarrollo y ejecución del Decreto 374/1996?",
+      "options": [
+        "El Consejo Escolar de Galicia",
+        "Los delegados provinciales",
+        "La Consellería de Educación y Ordenación Universitaria",
+        "Los directores de los centros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según la disposición final primera, se autoriza a la Consellería de Educación y Ordenación Universitaria para dictar todas las disposiciones que sean precisas para el desarrollo y ejecución de lo dispuesto en este decreto."
+    },
+    {
+      "question": "¿Cuándo entró en vigor el Decreto 374/1996?",
+      "options": [
+        "El mismo día de su publicación",
+        "Al día siguiente de su publicación en el Diario Oficial de Galicia",
+        "A los 30 días de su publicación",
+        "El 1 de septiembre siguiente a su publicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la disposición final segunda, el decreto entró en vigor al día siguiente de su publicación en el Diario Oficial de Galicia."
+    },
+    {
+      "question": "¿En qué fecha fue aprobado el Decreto 374/1996?",
+      "options": [
+        "3 de octubre de 1996",
+        "17 de octubre de 1996",
+        "22 de febrero de 1996",
+        "29 de febrero de 1996"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el encabezado del decreto, fue aprobado por el Consello de la Xunta de Galicia en su reunión del día diecisiete de octubre de mil novecientos noventa y seis."
+    },
+    {
+      "question": "¿Qué ley orgánica se menciona como referencia para el modelo curricular que asigna autonomía a los centros?",
+      "options": [
+        "Ley orgánica 8/1985 (LODE)",
+        "Ley orgánica 1/1990 (LOGSE)",
+        "Ley orgánica 9/1995 (LOPEG)",
+        "Ley orgánica 2/2006 (LOE)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el preámbulo del decreto se menciona que el modelo curricular de la Ley orgánica 1/1990, de 3 de octubre (LOGSE), asigna a los centros, dentro de su autonomía, el compromiso de diseño y aplicación del currículo."
+    },
+    {
+      "question": "¿Qué ley se cita como base para la participación de los miembros de la comunidad educativa en la gestión de los centros?",
+      "options": [
+        "Ley orgánica 1/1990 (LOGSE)",
+        "Ley orgánica 9/1995, de 20 de noviembre, de la participación, evaluación y gobierno de los centros",
+        "Ley 1/1983 reguladora de la Xunta",
+        "Ley 3/1983 de normalización lingüística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 11º, la participación en la gestión de los centros se realizará a través del consejo escolar, de conformidad con lo previsto en la Ley orgánica 9/1995, de 20 de noviembre, de la participación, evaluación y gobierno de los centros públicos."
+    },
+    {
+      "question": "¿Qué decreto se menciona en relación con el uso del gallego en la enseñanza?",
+      "options": [
+        "Decreto 247/1995, de 14 de septiembre",
+        "Decreto 63/1988, de 17 de marzo",
+        "Decreto 92/1988, de 28 de abril",
+        "Decreto 324/1996, de 26 de julio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según los artículos 87º.c) y 91º.1.a), se hace referencia al Decreto 247/1995, de 14 de septiembre, por el que se desarrolla la Ley 3/1983, de normalización lingüística, para su aplicación a la enseñanza en lengua gallega."
+    },
+    {
+      "question": "¿Qué decreto se aplica para el procedimiento de elección y renovación de los órganos colegiados?",
+      "options": [
+        "Decreto 374/1996",
+        "Decreto 92/1988, de 28 de abril, modificado por el Decreto 324/1996",
+        "Decreto 63/1988",
+        "Decreto 247/1995"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 48º, el procedimiento de elección, constitución, renovación y sustitución de los órganos colegiados se regirá por lo dispuesto en el Decreto 92/1988, de 28 de abril, modificado por el Decreto 324/1996, de 26 de julio."
+    },
+    {
+      "question": "¿A qué se refiere la 'denominación genérica' que todos los centros deben utilizar en lengua gallega?",
+      "options": [
+        "Al nombre específico de cada centro",
+        "A términos como 'Escola de Educación Infantil' o 'Colexio de Educación Primaria'",
+        "Al nombre del ayuntamiento",
+        "Al nombre del director"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 8º.3, todos los centros utilizarán la denominación genérica en lengua gallega en sus letreros, impresos y sellos. La denominación genérica se refiere a 'Escuela de Educación Infantil', 'Colegio de Educación Primaria', etc., en contraste con la denominación específica de cada centro."
+    },
+    {
+      "question": "¿Qué debe figurar en la fachada del edificio de todos los centros?",
+      "options": [
+        "Solo el nombre del centro",
+        "Un letrero con el escudo de Galicia, Xunta de Galicia, Consellería de Educación y la denominación del centro",
+        "Solo el escudo del ayuntamiento",
+        "Solo el nombre del director y el teléfono"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 8º.4, en todos los centros figurará en la fachada del edificio, en lugar visible, un letrero con el escudo de Galicia y las expresiones: Xunta de Galicia, Consellería de Educación y Ordenación Universitaria y la denominación del centro."
+    },
+    {
+      "question": "¿Pueden tener dos centros del mismo ayuntamiento la misma denominación específica?",
+      "options": [
+        "Sí, si están en barrios diferentes",
+        "No, no podrán existir en el mismo ayuntamiento centros con la misma denominación específica",
+        "Sí, si son de distinta etapa educativa",
+        "Depende de la autorización del ayuntamiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 8º.2, no podrán existir en el mismo ayuntamiento escuelas de educación infantil o colegios de educación primaria con la misma denominación específica."
+    },
+    {
+      "question": "¿Quién propone la denominación específica de un centro?",
+      "options": [
+        "El director del centro",
+        "El consejo escolar del centro con informe favorable del ayuntamiento",
+        "El ayuntamiento directamente",
+        "El delegado provincial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 8º.1, la denominación específica será aprobada por la Consellería de Educación y Ordenación Universitaria a propuesta del consejo escolar del centro y con informe favorable del ayuntamiento."
+    },
+    {
+      "question": "¿Es aplicable este reglamento a los centros privados concertados?",
+      "options": [
+        "No, tienen su propia normativa exclusiva",
+        "Sí, en todos los aspectos sin excepciones",
+        "Sí, en los aspectos que no contravengan su legislación específica y dentro de los límites fijados por la misma",
+        "Solo en aspectos pedagógicos, no organizativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según la disposición adicional primera, este reglamento será aplicable a los centros privados concertados y no concertados en todos aquellos aspectos que no contravengan a lo establecido en su legislación específica y a los límites fijados por la misma, excepto a las escuelas reguladas por la Orden de 29 de febrero de 1996 de la Consellería de Familia, Mujer y Juventud."
+    },
+    {
+      "question": "¿A quiénes se extienden las referencias a 'tutores legales' en el reglamento?",
+      "options": [
+        "Solo a padres biológicos",
+        "Solo a tutores legales judiciales",
+        "A tutores legales, tutores ordinarios y personas o instituciones con guardia y protección de menores",
+        "Solo a tutores ordinarios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según la disposición adicional segunda, las referencias que en este reglamento se hacen a los tutores legales se entenderán, por extensión, a los tutores ordinarios, así como a las personas o instituciones que ostentan la guardia y protección de los menores."
+    },
+    {
+      "question": "¿Pueden adaptarse las disposiciones del reglamento en centros de educación especial o de características singulares?",
+      "options": [
+        "No, deben aplicarse estrictamente",
+        "Sí, la Consellería puede adaptar las disposiciones a las características de estos centros",
+        "Solo con autorización del Consejo Escolar de Galicia",
+        "Solo en centros de nueva creación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según los artículos 42º (órganos colegiados) y 7º (general), en los centros de educación especial, educación de adultos, colegios rurales agrupados y centros de características singulares, la Consellería de Educación puede adaptar lo dispuesto en el reglamento a las características de los mismos."
+    },
+    {
+      "question": "Los colegios de educación especial, ¿por qué normativa se rigen?",
+      "options": [
+        "Solo por normativa europea",
+        "Por este reglamento y por las normas singulares que demanden sus peculiaridades organizativas",
+        "Por un reglamento completamente diferente",
+        "Solo por normativa estatal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 7º, los colegios de educación especial y educación de adultos dependientes de la Consellería de Educación y Ordenación Universitaria se regirán por este reglamento y por las normas singulares que demanden sus peculiaridades organizativas."
+    },
+    {
+      "question": "¿Qué se incluye en el 'documento de organización del centro' de la programación general anual?",
+      "options": [
+        "Solo la estructura orgánica",
+        "La estructura orgánica, la estadística de principio de curso y la situación de instalaciones y equipamiento",
+        "Solo la estadística del alumnado",
+        "Solo el inventario de recursos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 98º.1.d), la programación general anual incluye el documento de organización del centro, que incluirá la estructura orgánica del centro, la estadística de principio de curso y la situación de las instalaciones y del equipamiento."
+    },
+    {
+      "question": "¿Qué debe aprobar el claustro respecto a las lenguas oficiales de Galicia?",
+      "options": [
+        "Solo el uso exclusivo del gallego",
+        "El procedimiento para determinar de modo individualizado el conocimiento de la lengua materna de los alumnos",
+        "La prohibición del uso del castellano",
+        "Solo la lengua de las comunicaciones administrativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 47º.d), el claustro debe aprobar el procedimiento que permita determinar de modo individualizado el conocimiento de la lengua materna de los alumnos y alumnas con el fin de que sean atendidos adecuadamente."
+    },
+    {
+      "question": "¿Qué administraciones pueden colaborar con los centros educativos para impulsar actividades extraescolares?",
+      "options": [
+        "Solo la Consellería de Educación",
+        "Solo los ayuntamientos de más de 10.000 habitantes",
+        "Las administraciones locales",
+        "Solo las diputaciones provinciales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 79º, las administraciones locales podrán colaborar con los centros educativos para impulsar las actividades extraescolares y complementarias y promover la relación entre la programación de los centros y el entorno socio-económico."
+    },
+    {
+      "question": "¿Qué tipo de convenios pueden establecer los centros para actividades extraescolares?",
+      "options": [
+        "Ningún tipo de convenio",
+        "Convenios con asociaciones culturales o entidades sin ánimo de lucro, previa aprobación del consejo escolar y autorización administrativa",
+        "Solo convenios con otras escuelas públicas",
+        "Convenios libremente sin necesidad de autorización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 78º, los centros, con la aprobación del consejo escolar, podrán establecer convenios de colaboración con asociaciones culturales o entidades sin ánimo de lucro para el desarrollo de actividades extraescolares y complementarias. Estos convenios deberán ser autorizados por el delegado provincial, Director General o Conselleiro según su ámbito."
+    },
+    {
+      "question": "¿Cuántos maestros no contemplados en la primera renovación parcial se sustituyen dos años después en centros de 8 o más unidades?",
+      "options": [
+        "Dos maestros y tres padres",
+        "Tres maestros, dos padres y el representante del personal de administración y servicios",
+        "Cinco maestros y cinco padres",
+        "Todos los maestros y padres restantes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 41º.2.a), dos años después de la primera renovación parcial, en centros de ocho unidades o más se sustituyen: el representante del personal de administración y servicios, tres maestros y dos padres (uno de estos propuesto por la asociación de padres)."
+    },
+    {
+      "question": "En centros de 6 o 7 unidades, ¿cuántos maestros se sustituyen en la segunda renovación parcial?",
+      "options": [
+        "Un maestro",
+        "Dos maestros",
+        "Tres maestros",
+        "Cuatro maestros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 41º.2.b), en centros que tengan seis o siete unidades, en la segunda renovación parcial se sustituyen dos maestros y el padre propuesto por la asociación de padres de alumnos."
+    },
+    {
+      "question": "¿Con qué periodicidad se renueva el representante de padres en centros de una o dos unidades?",
+      "options": [
+        "Cada año",
+        "Cada dos años",
+        "Cada tres años",
+        "Cada cuatro años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 41º.3, en los centros de una o dos unidades la renovación del representante de los padres se realizará cada dos años."
+    },
+    {
+      "question": "¿Cuándo deben presentarse las candidaturas a director ante el consejo escolar?",
+      "options": [
+        "10 días antes de la elección",
+        "15 días antes de la elección",
+        "20 días antes de la elección",
+        "30 días antes de la elección"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 17º.1, los candidatos al cargo de director deberán presentar, por escrito, ante el consejo escolar, con quince días de anticipación a la fecha de la elección, su candidatura."
+    },
+    {
+      "question": "¿Debe el claustro ser informado de las candidaturas a director?",
+      "options": [
+        "No, solo el consejo escolar debe conocerlas",
+        "Sí, el claustro debe ser informado de las candidaturas y conocer los programas presentados",
+        "Solo si los candidatos lo solicitan",
+        "Solo después de la elección"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 17º.3, el claustro de profesores deberá ser informado de las candidaturas y conocer los programas presentados."
+    },
+    {
+      "question": "¿Pueden participar en el sorteo de la mesa electoral los candidatos a director?",
+      "options": [
+        "Sí, en igualdad de condiciones",
+        "Solo si no hay otros miembros disponibles",
+        "No, en ningún caso participarán en tal sorteo",
+        "Solo como miembros suplentes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 18º, el sorteo para formar la mesa electoral contemplará la designación de miembros titulares y suplentes, pero en ningún caso participarán en tal sorteo los candidatos a la dirección."
+    },
+    {
+      "question": "¿Quién actúa como presidente de la mesa electoral?",
+      "options": [
+        "El director saliente",
+        "El maestro de mayor edad entre los miembros de la mesa",
+        "El padre o tutor miembro de la mesa",
+        "El inspector educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 18º, actuarán como presidente y secretario de la mesa electoral los maestros de mayor y menor edad, respectivamente."
+    },
+    {
+      "question": "¿Qué tipo de votación se utiliza para elegir al director?",
+      "options": [
+        "Votación pública y directa",
+        "Votación secreta y delegable",
+        "Votación directa, secreta y no delegable",
+        "Votación pública y delegable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 19º, la votación se efectuará ante la mesa electoral mediante sufragio directo, secreto y no delegable."
+    },
+    {
+      "question": "Si hay empate en primera votación entre varios candidatos a director, ¿qué se hace?",
+      "options": [
+        "Se decide por sorteo inmediatamente",
+        "Se realiza una segunda votación individualizada en 48 horas con los que empataron",
+        "El delegado provincial elige",
+        "Se repite la votación con todos los candidatos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 19º, de existir empate en la primera votación, se realizará una segunda votación en el plazo de cuarenta y ocho horas, individualizada entre los aspirantes que igualaron en el número más elevado de votos. Se decidirá por suerte el orden en que serán votados."
+    },
+    {
+      "question": "¿Qué debe expresar el acta de elección que remite la mesa electoral al delegado provincial?",
+      "options": [
+        "Solo el nombre del candidato elegido",
+        "El candidato que obtuvo mayoría absoluta, o que ningún candidato alcanzó la mayoría absoluta, según proceda",
+        "Los votos de cada candidato detalladamente",
+        "Las razones de voto de cada miembro del consejo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 20º.1, la mesa electoral remitirá el acta de la elección al delegado provincial expresando, según proceda: a) El candidato que obtuvo la mayoría absoluta; b) Que ningún candidato alcanzó la mayoría absoluta."
+    },
+    {
+      "question": "Si no se presentan candidatos a director, ¿quién comunica esto al delegado provincial?",
+      "options": [
+        "El director saliente",
+        "El consejo escolar a través de su presidente",
+        "El inspector educativo",
+        "El claustro de profesores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 20º.2, en el supuesto de que no se presentase ninguna candidatura será el consejo escolar el que, a través de su presidente, deberá comunicar tal extremo al delegado provincial de la Consellería de Educación y Ordenación Universitaria."
+    },
+    {
+      "question": "¿Qué requisito NO es necesario para que el delegado provincial nombre director cuando no hay candidatos elegidos?",
+      "options": [
+        "Tener cinco años de antigüedad en el cuerpo docente en el que ejerce",
+        "Estar en activo durante igual período en un centro de educación infantil o primaria",
+        "Estar acreditado para la función directiva",
+        "Tener destino definitivo en el centro específico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Según el artículo 21º.1, el profesor nombrado por el delegado provincial debe cumplir: a) Antigüedad de cinco años en el cuerpo; b) Estar en activo en centro de infantil o primaria; c) Estar acreditado para la función directiva. NO se requiere que tenga destino definitivo en ese centro específico, puede ser independientemente del centro de destino."
+    },
+    {
+      "question": "¿Puede un director cesar por propuesta de revocación del consejo escolar?",
+      "options": [
+        "Sí, si lo aprueba la mayoría simple",
+        "Sí, si lo acuerda mayoría de dos tercios del consejo escolar",
+        "No, solo puede cesar por decisión del delegado provincial",
+        "Sí, si lo solicita un tercio del consejo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 23º.1.c), el director cesa por el delegado provincial de la Consellería de Educación y Ordenación Universitaria, previa propuesta de revocación, acordada por mayoría de dos tercios del consejo escolar."
+    },
+    {
+      "question": "¿Puede el delegado provincial cesar o suspender al director por incumplimiento grave de obligaciones?",
+      "options": [
+        "No, solo el consejo escolar puede cesarlo",
+        "Sí, previo informe razonado del consejo escolar y audiencia del interesado",
+        "Sí, sin necesidad de ningún trámite",
+        "Solo con aprobación del Conselleiro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 24º, el director cuando incumpla gravemente con sus obligaciones podrá ser cesado o suspendido de funciones por el delegado provincial previo informe razonado del consejo escolar del centro y audiencia del interesado."
+    },
+    {
+      "question": "¿Hasta cuándo dura el nombramiento de un director accidental por cese anticipado?",
+      "options": [
+        "Hasta que se celebren nuevas elecciones",
+        "Hasta el 30 de junio",
+        "Hasta el final del mandato original",
+        "Hasta que el delegado provincial nombre otro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 25º, cuando se produzca el cese del director con anterioridad a la finalización de su mandato, por cualquiera de las causas enumeradas, el delegado provincial nombrará un director, con carácter accidental y hasta el 30 de junio."
+    },
+    {
+      "question": "¿Quién debe visar las certificaciones y documentos oficiales del centro?",
+      "options": [
+        "El secretario del centro",
+        "El jefe de estudios",
+        "El director del centro",
+        "El inspector educativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 27º.d), es competencia del director visar las certificaciones y documentos oficiales del centro."
+    },
+    {
+      "question": "¿Quién representa oficialmente a la Administración educativa en el centro?",
+      "options": [
+        "El inspector educativo",
+        "El director del centro",
+        "El delegado provincial",
+        "El jefe de estudios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 27º.a), es competencia del director representar oficialmente a la Administración educativa en el centro, sin perjuicio de las atribuciones de las demás autoridades educativas."
+    },
+    {
+      "question": "¿Quién coordina la elaboración del proyecto educativo del centro?",
+      "options": [
+        "El consejo escolar",
+        "El director con el equipo directivo",
+        "El claustro de profesores",
+        "La comisión de coordinación pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 27º.g), el director coordina la elaboración del proyecto educativo del centro, proyecto curricular y programación general anual, de acuerdo con las directrices del consejo escolar y propuestas del claustro, responsabilizándose con el equipo directivo de su redacción."
+    },
+    {
+      "question": "¿Puede el director delegar la presidencia de algunas comisiones en otros miembros?",
+      "options": [
+        "No, debe presidir personalmente todas las comisiones",
+        "Sí, puede delegar en otros miembros del equipo directivo o del claustro",
+        "Solo en el jefe de estudios",
+        "Solo con autorización del consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 27º.h), el director convoca y preside los actos académicos, el consejo escolar, el claustro y las comisiones, pudiendo delegar la presidencia de alguna de estas comisiones en otros miembros del equipo directivo o del claustro."
+    },
+    {
+      "question": "¿Quién autoriza los gastos de acuerdo con el presupuesto del centro?",
+      "options": [
+        "El secretario del centro",
+        "La comisión económica",
+        "El director del centro",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 27º.v), es competencia del director autorizar los gastos de acuerdo con el presupuesto del centro y ordenar los pagos."
+    },
+    {
+      "question": "¿Puede el director realizar contrataciones de servicios y suministros?",
+      "options": [
+        "No, eso corresponde solo a la Consellería",
+        "Sí, de acuerdo con lo que reglamentariamente se establezca",
+        "Solo con aprobación previa del consejo escolar",
+        "Solo para compras menores de 100 euros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 27º.x), es competencia del director realizar las contrataciones de servicios y suministros de acuerdo con lo que reglamentariamente se establezca."
+    },
+    {
+      "question": "¿Quién ejerce la jefatura de todo el personal adscrito al centro?",
+      "options": [
+        "El delegado provincial",
+        "El jefe de estudios",
+        "El director del centro",
+        "El inspector educativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 27º.l), es competencia del director ejercer la jefatura de todo el personal adscrito al centro."
+    },
+    {
+      "question": "¿Quién favorece la convivencia del centro e impone las correcciones que correspondan?",
+      "options": [
+        "El jefe de estudios",
+        "El consejo escolar",
+        "El director, de acuerdo con la normativa vigente y el Reglamento de régimen interior",
+        "El tutor de cada grupo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 27º.m), es competencia del director favorecer la convivencia del centro e imponer las correcciones que corresponda, de acuerdo con la normativa vigente, con el Reglamento de régimen interior y con los criterios establecidos por el consejo escolar."
+    },
+    {
+      "question": "¿Puede el director nombrar jefe de estudios o secretario a profesores sin destino definitivo en situaciones excepcionales?",
+      "options": [
+        "No, nunca pueden ser nombrados",
+        "Sí, previa propuesta del director y oído el consejo escolar",
+        "Sí, pero solo en centros con menos de 6 unidades",
+        "Solo con autorización del Conselleiro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 29º.2, en situaciones excepcionales, previa propuesta del director, oído el consejo escolar, podrán ser nombrados profesores que no tengan destino definitivo en el centro."
+    },
+    {
+      "question": "¿Quién sustituye al director cuando el jefe de estudios tampoco está disponible?",
+      "options": [
+        "El secretario del centro",
+        "El maestro más antiguo en el centro",
+        "El coordinador de ciclo más antiguo",
+        "El tutor designado por el claustro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 26º, en caso de ausencia, enfermedad o suspensión del director desempeñará sus funciones el jefe de estudios y, en caso de que no exista tal órgano, el maestro más antiguo en el centro. De existir varios con la misma antigüedad, será el más antiguo en el cuerpo."
+    },
+    {
+      "question": "¿Quién elabora los horarios académicos junto con el jefe de estudios?",
+      "options": [
+        "El jefe de estudios en exclusiva",
+        "El jefe de estudios en colaboración con los restantes órganos unipersonales",
+        "La comisión de coordinación pedagógica",
+        "El claustro de profesores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 34º.d), es competencia del jefe de estudios elaborar, en colaboración con los restantes órganos unipersonales, los horarios académicos de alumnos y profesores."
+    },
+    {
+      "question": "¿Quién establece los mecanismos para corregir ausencias imprevistas del profesorado?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "El secretario del centro",
+        "Cada coordinador de ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 34º.l), es competencia del jefe de estudios establecer los mecanismos para corregir ausencias imprevistas del profesorado, atención a alumnos accidentados o cualquier eventualidad que incida en el normal funcionamiento del centro."
+    },
+    {
+      "question": "¿Quién coordina la participación del profesorado en actividades de perfeccionamiento?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "El secretario del centro",
+        "Cada profesor individualmente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 34º.g), es competencia del jefe de estudios coordinar la participación del profesorado en las actividades de perfeccionamiento, así como planificar y organizar las actividades de formación de profesores realizadas por el centro."
+    },
+    {
+      "question": "¿Quién facilita la organización de los alumnos e impulsa su participación en el centro?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "Los tutores de grupo",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 34º.i), es competencia del jefe de estudios facilitar la organización de los alumnos e impulsar su participación en el centro."
+    },
+    {
+      "question": "¿Quién coordina y dirige, por delegación del director, la actividad del personal de administración y servicios?",
+      "options": [
+        "El jefe de estudios",
+        "El secretario del centro",
+        "El director directamente",
+        "El representante del personal de administración y servicios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 35º.g), es competencia del secretario coordinar, dirigir y supervisar, por delegación del director, la actividad y funcionamiento del personal de administración y de servicios adscrito al centro."
+    },
+    {
+      "question": "¿Quién expide las certificaciones que soliciten las autoridades y los interesados?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "El secretario del centro",
+        "Los tutores de grupo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 35º.d), es competencia del secretario expedir las certificaciones que soliciten las autoridades y los interesados."
+    },
+    {
+      "question": "¿Quién actúa como secretario de los órganos colegiados de gobierno del centro?",
+      "options": [
+        "El secretario del centro",
+        "El jefe de estudios",
+        "El maestro más joven del claustro",
+        "Un maestro elegido cada año"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 35º.b), es competencia del secretario actuar como secretario de los órganos colegiados de gobierno del centro, levantar acta de las sesiones y dar fe de los acuerdos con el visto bueno del director."
+    },
+    {
+      "question": "¿Quién realiza el inventario general del centro y lo mantiene actualizado?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "El secretario del centro",
+        "Los coordinadores de ciclo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 35º.e), es competencia del secretario realizar el inventario general del centro y mantenerlo actualizado."
+    },
+    {
+      "question": "¿Quién ordena el régimen económico del centro y rinde cuentas?",
+      "options": [
+        "El director en exclusiva",
+        "El secretario de acuerdo con instrucciones del director",
+        "La comisión económica",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 35º.i), es competencia del secretario ordenar el régimen económico del centro, de acuerdo con las instrucciones del director, realizar la contabilidad y rendir cuentas ante el consejo escolar y las autoridades correspondientes."
+    },
+    {
+      "question": "¿Quién preside la comisión económica si se delega?",
+      "options": [
+        "El jefe de estudios",
+        "El secretario del centro",
+        "Un padre de alumno miembro de la comisión",
+        "El maestro miembro de la comisión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 35º.n), el secretario puede presidir, en su caso, y por delegación del director, la comisión económica."
+    },
+    {
+      "question": "¿Quién da a conocer la información sobre normativa y disposiciones legales que se reciba en el centro?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "El secretario del centro",
+        "Cada profesor individualmente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 35º.m), es competencia del secretario dar a conocer y difundir a toda la comunidad educativa la información sobre normativa, disposiciones legales y asuntos de interés general o profesional que se reciba en el centro."
+    },
+    {
+      "question": "¿Está el representante del personal de administración y servicios en el consejo escolar de centros de 6 o 7 unidades?",
+      "options": [
+        "Sí, siempre debe estar representado",
+        "No, solo en centros de ocho o más unidades",
+        "Solo si hay más de dos personas de administración y servicios",
+        "Depende de lo que decida el director"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 37º, el representante del personal de administración y servicios solo está contemplado en el consejo escolar de centros de ocho o más unidades (apartado 1.d), no en los de seis o siete unidades (apartado 2)."
+    },
+    {
+      "question": "¿Cuántos representantes de padres hay en el consejo escolar de un centro de 4 unidades?",
+      "options": [
+        "Uno",
+        "Dos",
+        "Tres",
+        "Cuatro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 37º.3, en centros de tres, cuatro o cinco unidades el consejo escolar estará compuesto por el director, un concejal, dos maestros y dos representantes de los padres de alumnos."
+    },
+    {
+      "question": "En centros de una o dos unidades, ¿quién preside el consejo escolar?",
+      "options": [
+        "El maestro más antiguo",
+        "El concejal o representante del ayuntamiento",
+        "El profesor que tiene encomendadas las funciones de los órganos de gobierno unipersonales",
+        "Un padre de alumno elegido"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 37º.4, en centros de una o dos unidades el consejo escolar estará integrado por los profesores, un padre y un representante del ayuntamiento, y será presidido por el profesor que tiene encomendadas las funciones correspondientes a los órganos de gobierno unipersonales."
+    },
+    {
+      "question": "¿Quién resuelve los conflictos e impone correcciones a conductas que perjudiquen gravemente la convivencia?",
+      "options": [
+        "El director en exclusiva",
+        "El tutor del grupo",
+        "El consejo escolar",
+        "El claustro de profesores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 43º.f), es atribución del consejo escolar resolver los conflictos e imponer las correcciones con finalidad pedagógica que correspondan a aquellas conductas del alumnado que perjudiquen gravemente la convivencia en el centro."
+    },
+    {
+      "question": "¿Quién regula el procedimiento de autorización de las salidas voluntarias del alumnado entre clase o en períodos de ocio?",
+      "options": [
+        "El director del centro",
+        "El consejo escolar",
+        "El claustro de profesores",
+        "El Reglamento de régimen interior"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 43º.p), es atribución del consejo escolar regular el procedimiento de autorización de las salidas voluntarias entre clase o en períodos de ocio del alumnado del centro."
+    },
+    {
+      "question": "¿En qué condiciones puede estar representado un alumno de primaria en el consejo escolar con voz pero sin voto?",
+      "options": [
+        "En ningún caso pueden estar representados",
+        "En las condiciones que establezca el reglamento de régimen interior",
+        "Solo en centros de más de 12 unidades",
+        "Automáticamente a partir de 5º de primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 45º, los alumnos podrán estar representados en el consejo escolar de los colegios de educación primaria, con voz, pero sin voto, en las condiciones que establezcan los respectivos reglamentos de régimen interior."
+    },
+    {
+      "question": "Si un elector debe elegir 5 representantes, ¿cuántos nombres máximos puede poner en su papeleta?",
+      "options": [
+        "Tres nombres",
+        "Cuatro nombres",
+        "Cinco nombres",
+        "Tantos como quiera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 40º, cuando deban ser elegidos todos los miembros, cada elector hará constar en su papeleta un máximo de: uno, dos, tres o cuatro nombres según corresponda elegir menos de tres, tres, cuatro o más de cuatro representantes respectivamente. Por tanto, para elegir 5 (más de cuatro) el máximo es cuatro nombres."
+    },
+    {
+      "question": "¿En qué mes se efectúa la elección del consejo escolar en centros de nueva creación?",
+      "options": [
+        "Septiembre",
+        "Octubre",
+        "Noviembre",
+        "Diciembre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 49º.1, la elección del consejo escolar y constitución del mismo en los centros de nueva creación se efectuará en el mes de octubre."
+    },
+    {
+      "question": "La primera renovación del consejo escolar en centros de nueva creación, ¿puede ser al año o a los dos años?",
+      "options": [
+        "Siempre es al año",
+        "Siempre es a los dos años",
+        "Sí, al cabo de un año o dos, para coincidir con la renovación del resto de consejos en Galicia",
+        "Siempre es a los tres años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 49º.2, la primera renovación del consejo escolar se producirá al cabo de un año o dos, de manera que coincida con la renovación del resto de los consejos escolares en el ámbito de la Comunidad Autónoma."
+    },
+    {
+      "question": "¿Qué organismo debe ser consultado preceptivamente antes de constituir un colegio rural agrupado?",
+      "options": [
+        "Solo el inspector educativo",
+        "Los padres de alumnos, profesores y ayuntamientos implicados",
+        "Únicamente el Consejo Escolar de Galicia",
+        "Solo los ayuntamientos afectados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 6º.1, para la constitución de colegios rurales agrupados será preceptiva la consulta a los padres de alumnos, profesores y ayuntamientos implicados."
+    },
+    {
+      "question": "¿Qué debe incluir la memoria justificativa para la constitución de un CRA?",
+      "options": [
+        "Solo las características geográficas",
+        "Características geográficas, razones que aconsejan la constitución y necesidades de profesorado, gastos e inversiones",
+        "Únicamente la relación de profesores disponibles",
+        "Solo el número de alumnos totales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 6º.2, las propuestas deberán ir acompañadas de memoria justificativa sobre: características geográficas del ámbito, razones que aconsejan la constitución, y relación de necesidades de profesorado, gastos de funcionamiento e inversiones nuevas."
+    },
+    {
+      "question": "¿Qué información debe constar en la orden de constitución de un CRA?",
+      "options": [
+        "Solo el domicilio del centro",
+        "Unidades objeto de agrupación, composición definitiva, localidades atendidas y domicilio",
+        "Únicamente los profesores asignados",
+        "Solo el número total de unidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 6º.3, en la orden de constitución del CRA constarán: unidades objeto de la agrupación, composición definitiva del colegio rural agrupado, localidades atendidas, y domicilio a efectos administrativos y jurídicos del nuevo centro."
+    },
+    {
+      "question": "¿Cómo es la plantilla de profesores de un colegio rural agrupado?",
+      "options": [
+        "Equivalente en número al de las unidades que lo constituyan, sin perjuicio del profesorado especialista itinerante",
+        "Siempre menor que la suma de las unidades originales",
+        "Fija en 10 profesores independientemente de las unidades",
+        "Determinada solo por el número de alumnos totales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 5º.1, la plantilla de profesores del colegio rural agrupado será equivalente en número al de las unidades que lo constituyan, sin perjuicio del profesorado especialista itinerante que se pudiese asignar complementariamente."
+    },
+    {
+      "question": "¿Cuál es la referencia de los destinos de los profesores en un CRA?",
+      "options": [
+        "La localidad específica donde obtuvieron destino",
+        "El colegio rural agrupado, con especificación de la localidad en la que obtuvieron su destino",
+        "Solo el colegio rural agrupado sin especificar localidad",
+        "La Consellería de Educación directamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 5º.2, la referencia de los destinos de los profesores será el colegio rural agrupado, con especificación de la localidad en la que obtuvieron su destino. La convocatoria de vacantes especificará las localidades concretas del CRA."
+    },
+    {
+      "question": "¿Puede modificarse la red de centros existente por orden de la Consellería?",
+      "options": [
+        "No, requiere siempre decreto del Gobierno de la Xunta",
+        "Sí, por orden de la Consellería según la planificación de la enseñanza",
+        "Solo con aprobación del Parlamento de Galicia",
+        "Solo con referendum de los afectados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 1º.4, por orden de la Consellería de Educación y Ordenación Universitaria podrá modificarse la red de centros existente en función de la planificación de la enseñanza, incluyendo agrupaciones y desdoblamientos."
+    },
+    {
+      "question": "¿Quién debe informar el decreto de creación de centros según el preámbulo?",
+      "options": [
+        "Solo el Consejo Escolar de Galicia",
+        "El Consejo Escolar de Galicia y el Consejo Consultivo de Galicia",
+        "Solo los delegados provinciales",
+        "Solo el Parlamento de Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el preámbulo del decreto, se elaboró previo informe del Consejo Escolar de Galicia, oído el Consejo Consultivo de Galicia y de la deliberación del Consello de la Xunta de Galicia."
+    },
+    {
+      "question": "¿A qué centros NO es aplicable el Decreto 374/1996 según la disposición adicional primera?",
+      "options": [
+        "A ningún centro privado",
+        "A las escuelas reguladas por la Orden de 29 de febrero de 1996 de la Consellería de Familia, Mujer y Juventud",
+        "A los centros de educación especial",
+        "A los colegios rurales agrupados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la disposición adicional primera, este reglamento es aplicable a centros privados en los aspectos que no contravengan su legislación, excepto a las escuelas reguladas por la Orden de 29 de febrero de 1996 (DOG del 20 de marzo) de la Consellería de Familia, Mujer y Juventud."
+    },
+    {
+      "question": "¿Quién firma el Decreto 374/1996 como Presidente de la Xunta?",
+      "options": [
+        "José María Aznar",
+        "Manuel Fraga Iribarne",
+        "Alberto Núñez Feijóo",
+        "Emilio Pérez Touriño"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el final del decreto, firmado en Santiago de Compostela el diecisiete de octubre de 1996, el Presidente era Manuel Fraga Iribarne."
+    },
+    {
+      "question": "¿Quién firma el Decreto 374/1996 como Conselleiro de Educación?",
+      "options": [
+        "Celso Currás Fernández",
+        "Fernando Blanco",
+        "Jesús Vázquez Abad",
+        "Román Rodríguez"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el final del decreto, el Conselleiro de Educación y Ordenación Universitaria que lo firma es Celso Currás Fernández."
+    },
+    {
+      "question": "En centros con menos de tres unidades, ¿cómo se designa quién asume las funciones de gobierno?",
+      "options": [
+        "Por elección del consejo escolar",
+        "Por acuerdo entre los profesores, y de no existir, el más antiguo en el centro",
+        "Siempre el profesor más antiguo sin posibilidad de acuerdo",
+        "Por designación del delegado provincial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 14º.4, en centros de menos de tres unidades asumirá todas las funciones uno de los profesores, designado previo acuerdo entre ellos. De no existir acuerdo, desempeñará estas funciones el más antiguo en el centro, y en caso de igualdad, el más antiguo en el cuerpo."
+    },
+    {
+      "question": "¿Puede la Consellería eximir a candidatos a director de cumplir algunos requisitos en centros de características especiales?",
+      "options": [
+        "No, los requisitos son siempre obligatorios",
+        "Sí, en centros incompletos, zonas rurales de especial dificultad, CRA, adultos y educación especial",
+        "Solo en centros de nueva creación",
+        "Solo con aprobación del Consejo Escolar de Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 16º.2, en centros incompletos, zonas rurales de especial dificultad, colegios rurales agrupados, centros de adultos, educación especial y centros de características especiales, si no existen maestros con los requisitos del apartado 1, la Consellería podrá eximir a los candidatos de cumplir alguno de los requisitos."
+    },
+    {
+      "question": "¿Pueden presentarse como candidatos a director los maestros que no vayan a prestar servicio el curso siguiente?",
+      "options": [
+        "Sí, sin restricciones",
+        "No, no podrán presentarse como candidatos",
+        "Solo si tienen más de 10 años de antigüedad",
+        "Solo con autorización expresa del delegado provincial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 16º.3, no se podrán presentar como candidatos los maestros que, por cualquier causa, no vayan a prestar servicio en el centro en el curso académico inmediatamente siguiente a su toma de posesión como director."
+    },
+    {
+      "question": "¿Pueden presentarse como candidatos a director quienes ejercieron el cargo durante tres períodos consecutivos inmediatamente anteriores?",
+      "options": [
+        "Sí, sin limitación",
+        "No, no podrán presentarse",
+        "Solo si obtienen el apoyo del claustro",
+        "Solo si han pasado dos años desde el último mandato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 16º.4, no podrán presentarse como candidatos aquellos maestros que ejerciesen como directores de ese centro durante tres períodos consecutivos inmediatamente anteriores. Solo computarán los períodos para los que fuesen designados de acuerdo con este reglamento."
+    }
+  ]
+}

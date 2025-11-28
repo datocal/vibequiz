@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree -L 2 -I 'node_modules' --filesfirst)",
+      "Bash(pdftotext:*)",
+      "Bash(jq:*)",
+      "Bash(mkdir:*)",
+      "Bash(rm:*)",
+      "Bash(ls:*)",
+      "Bash(cd:*)",
+      "Bash(npx:*)",
+      "SlashCommand(/generate-quiz legislacion @contenidos/legislacion/orden26m2023decreto155.md)",
+      "SlashCommand(/generate-quiz:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

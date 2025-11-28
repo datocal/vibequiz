@@ -1,0 +1,2197 @@
+{
+  "title": "Tema 5 - La evaluación de los procesos de aprendizaje del alumnado de Educación Primaria",
+  "description": "Test sobre evaluación en Educación Primaria: características, estrategias, técnicas e instrumentos de evaluación, promoción y planes específicos de refuerzo según normativa vigente.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué decreto regula la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 229/2011, de 7 de diciembre",
+        "Decreto 374/1996, de 17 de octubre",
+        "Decreto 157/2022, de 1 de marzo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, establece la ordenación y el currículo de la educación primaria en Galicia y regula una evaluación global, continua y formativa."
+    },
+    {
+      "question": "¿Qué orden desarrolla específicamente la evaluación en la educación primaria en Galicia?",
+      "options": [
+        "Orden de 22 de julio de 1997",
+        "Orden de 26 de mayo de 2023",
+        "Orden de 8 de septiembre de 2021",
+        "Orden de 29 de diciembre de 2023"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022 y regula específicamente la evaluación en la etapa de educación primaria en Galicia."
+    },
+    {
+      "question": "Según Casanova (1992), ¿qué es la evaluación?",
+      "options": [
+        "Un proceso de calificación numérica del alumnado",
+        "Un proceso sistemático de recogida de datos que permite formar juicios de valor y tomar decisiones de mejora",
+        "Un conjunto de pruebas finales para medir conocimientos",
+        "Una herramienta de control del rendimiento académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Casanova define la evaluación como un proceso sistemático de recogida de datos sobre el proceso educativo que permite obtener información válida y fiable para formar juicios de valor y tomar decisiones que mejoren la actividad educativa."
+    },
+    {
+      "question": "¿Cuántos documentos oficiales de evaluación se mencionan en el artículo 27 de la Orden de 26 de mayo?",
+      "options": [
+        "Cuatro documentos",
+        "Cinco documentos",
+        "Seis documentos",
+        "Siete documentos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 27 de la Orden de 26 de mayo menciona seis documentos oficiales de evaluación: actas de evaluación, expediente académico, historial académico, informe final de ciclo, informe de final de etapa e informe personal por traslado."
+    },
+    {
+      "question": "¿Cómo se expresan los resultados de la evaluación en las actas según el artículo 27 del Decreto 155/2022?",
+      "options": [
+        "Solamente con calificaciones numéricas del 1 al 10",
+        "Con términos como IN, SU, BE, NT, SB y una calificación numérica del 1 al 10",
+        "Con letras de la A a la F",
+        "Con porcentajes de acierto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los resultados se expresan con insuficiente (IN) para calificaciones negativas y suficiente (SU), bien (BE), notable (NT) o sobresaliente (SB) para las positivas, junto con una calificación numérica del 1 al 10 sin decimales con carácter informativo."
+    },
+    {
+      "question": "¿Cuándo se abre el expediente académico de un alumno según el artículo 28 del decreto?",
+      "options": [
+        "Al finalizar la educación primaria",
+        "Al inicio de cada curso escolar",
+        "Cada vez que un alumno se incorpora a un centro escolar",
+        "Al comienzo de cada ciclo educativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El expediente académico se abre cada vez que un alumno se incorpora a un centro escolar y engloba datos de identificación del centro y del alumno, resultados de evaluación, decisiones de promoción y medidas de apoyo educativo."
+    },
+    {
+      "question": "¿Qué documento tiene valor acreditativo de las enseñanzas realizadas y es esencial para garantizar la movilidad del alumnado?",
+      "options": [
+        "El expediente académico",
+        "El historial académico",
+        "El informe final de ciclo",
+        "Las actas de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El historial académico, regulado en el artículo 29 del Decreto 155/2022, es el documento con valor acreditativo de las enseñanzas realizadas y esencial para garantizar la movilidad del alumnado por los centros educativos."
+    },
+    {
+      "question": "¿Cuándo se entrega el historial académico a las familias?",
+      "options": [
+        "Al finalizar cada curso escolar",
+        "Al finalizar cada ciclo",
+        "Al finalizar la etapa de educación primaria",
+        "Al realizar un cambio de centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El historial académico se entrega a las familias al finalizar la etapa, mientras que las actas de evaluación se entregan al final del periodo lectivo (cada curso)."
+    },
+    {
+      "question": "¿En qué cursos de la educación primaria debe elaborarse el informe final de ciclo según la Orden de 26 de mayo?",
+      "options": [
+        "Primero, tercero y quinto",
+        "Segundo, cuarto y sexto",
+        "Primero, segundo y tercero",
+        "Tercero, cuarto, quinto y sexto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 22 de la Orden de 26 de mayo establece que el tutor debe elaborar un informe final de ciclo al finalizar segundo, cuarto y sexto de educación primaria, reflejando el grado de adquisición de las competencias clave."
+    },
+    {
+      "question": "¿Qué sustituye al informe final de ciclo en el último curso del tercer ciclo de primaria?",
+      "options": [
+        "El expediente académico",
+        "El historial académico",
+        "El informe de final de etapa",
+        "Las actas de evaluación final"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el último curso del tercer ciclo (6º de primaria), el informe final de ciclo puede ser sustituido por el informe de final de etapa, que recoge el grado de desarrollo de las competencias clave al finalizar la etapa."
+    },
+    {
+      "question": "¿Cuándo se elabora el informe personal por traslado?",
+      "options": [
+        "Cuando un alumno finaliza la etapa de primaria",
+        "Cuando un alumno se traslada a otro centro antes de finalizar el curso",
+        "Al inicio de cada curso para todos los alumnos",
+        "Cuando un alumno repite curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El informe personal por traslado, regulado en el artículo 31 del Decreto 155/2022, se elabora cuando un alumno se traslada a otro centro antes de finalizar el curso para remitirlo junto con el historial académico."
+    },
+    {
+      "question": "¿Qué aplicación informática deben utilizar los centros sostenidos con fondos públicos para cubrir los documentos de evaluación?",
+      "options": [
+        "XADE (Xestión Académica De la Enseñanza)",
+        "ABALAR",
+        "SIXA",
+        "EDUCAGAL"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 27 de la Orden de 26 de mayo establece que todos los centros sostenidos con fondos públicos deben cubrir los documentos e informes de evaluación a través de la aplicación XADE (Xestión Académica De la Enseñanza)."
+    },
+    {
+      "question": "¿Qué recomendación estableció las competencias clave en el ámbito europeo?",
+      "options": [
+        "Recomendación del Consejo de la Unión Europea de 18 de diciembre de 2006",
+        "Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018",
+        "Recomendación del Parlamento Europeo de 15 de febrero de 2010",
+        "Recomendación UNESCO de 25 de noviembre de 2015"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las competencias clave en educación primaria se orientan según la Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018."
+    },
+    {
+      "question": "¿Cómo define el artículo 6 del Decreto 155/2022 las competencias clave?",
+      "options": [
+        "Como los contenidos mínimos que debe aprender el alumnado",
+        "Como los desempeños imprescindibles para que el alumnado pueda progresar con garantías de éxito",
+        "Como las habilidades básicas de lectura y escritura",
+        "Como los objetivos generales de la educación primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las competencias clave como los desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo y afrontar los principales retos y desafíos globales y locales."
+    },
+    {
+      "question": "¿Qué características tiene el aprendizaje basado en competencias según el artículo 18 de la Orden de 26 de mayo?",
+      "options": [
+        "Enfoque memorístico, individual y estático",
+        "Enfoque transversal, integral y dinámico",
+        "Enfoque específico, parcial y estable",
+        "Enfoque tradicional, disciplinar y rígido"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje basado en competencias se caracteriza por su enfoque transversal, integral y dinámico, requiriendo una evaluación continua enfocada en el desempeño del alumnado en contextos reales."
+    },
+    {
+      "question": "¿Dónde se recogen los descriptores operativos que orientan sobre el nivel de desempeño de las competencias?",
+      "options": [
+        "En el Anexo I del Decreto 155/2022",
+        "En el Anexo II de la Orden de 26 de mayo",
+        "En el artículo 21 del Real Decreto 157/2022",
+        "En el artículo 143 de la LOMLOE"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los descriptores operativos que orientan sobre el nivel de desempeño de las competencias están recogidos en el Anexo I del Decreto 155/2022 y forman parte del perfil de salida."
+    },
+    {
+      "question": "¿Qué es el perfil de salida según el contenido del tema?",
+      "options": [
+        "El documento que recoge las calificaciones finales del alumno",
+        "Los elementos que identifican el nivel de competencia que el alumnado debe adquirir al finalizar la educación básica",
+        "El informe que elabora el tutor al finalizar cada curso",
+        "El conjunto de objetivos específicos de cada área"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El perfil de salida son los elementos que identifican y definen el nivel de competencia que el alumnado debe adquirir al finalizar la educación básica, incluyendo los descriptores operativos."
+    },
+    {
+      "question": "¿Cuáles son los referentes para valorar el grado de adquisición de las competencias clave según el artículo 21 del Decreto 155/2022?",
+      "options": [
+        "Los objetivos generales de etapa",
+        "Los contenidos de cada área",
+        "Los criterios de evaluación",
+        "Los estándares de aprendizaje"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los criterios de evaluación son los referentes para valorar el grado de adquisición de las competencias clave, así como el logro de los objetivos de etapa y de áreas, según el artículo 21 del Decreto 155/2022 y el artículo 17 de la Orden de 26 de mayo."
+    },
+    {
+      "question": "¿Dónde figuran los criterios de evaluación para cada curso, área y bloque de contenido?",
+      "options": [
+        "En el Anexo I del Decreto 155/2022",
+        "En el Anexo II del Decreto 155/2022",
+        "En el artículo 27 de la Orden de 26 de mayo",
+        "En el artículo 143 de la LOMLOE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación figuran en el Anexo II del Decreto 155/2022 para cada curso, área y bloque de contenido."
+    },
+    {
+      "question": "¿Qué define el artículo 6 del Decreto 155/2022 sobre los criterios de evaluación?",
+      "options": [
+        "Son los contenidos mínimos de cada área",
+        "Son los referentes que indican los niveles de desempeño esperados en el alumnado en un momento determinado",
+        "Son las competencias básicas del currículo",
+        "Son los objetivos didácticos de cada unidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación son los referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a que se refieren los objetivos de cada área en un momento determinado de su proceso de aprendizaje."
+    },
+    {
+      "question": "¿Qué características tienen los criterios de evaluación?",
+      "options": [
+        "Rígidos, generales y teóricos",
+        "Claros, concisos y medibles a través de indicadores de logro",
+        "Abstractos, complejos y cualitativos",
+        "Uniformes, estáticos y definitivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación se caracterizan por ser claros, concisos y medibles a través de indicadores de logro; flexibles al evaluarse con diferentes técnicas e instrumentos; y estar asociados a las competencias clave."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE destaca la importancia de la evaluación general del sistema educativo?",
+      "options": [
+        "Artículo 121",
+        "Artículo 132",
+        "Artículo 143",
+        "Artículo 157"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 143 de la LOMLOE destaca la importancia de realizar una evaluación general del sistema educativo para promover la mejora continua, requiriendo colaboración entre agentes internos y externos al centro."
+    },
+    {
+      "question": "¿Qué organismo coordina la participación del estado español en las evaluaciones internacionales de la OCDE?",
+      "options": [
+        "El Ministerio de Educación",
+        "El Instituto Nacional de Evaluación Educativa (INEE)",
+        "La Consellería de Educación",
+        "El Consejo Escolar del Estado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Instituto Nacional de Evaluación Educativa (INEE) es el organismo que coordina la participación del estado español en las evaluaciones internacionales desarrolladas por la OCDE."
+    },
+    {
+      "question": "¿Qué características tiene la evaluación de diagnóstico según los artículos 21 y 144 de la LOMLOE?",
+      "options": [
+        "Carácter sumativo, selectivo y obligatorio",
+        "Carácter informativo, formativo y orientativo",
+        "Carácter punitivo, clasificatorio y definitivo",
+        "Carácter cuantitativo, normativo y estandarizado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación de diagnóstico presenta un carácter informativo, formativo y orientativo, valorando el grado de adquisición de las competencias clave, principalmente la competencia matemática y lingüística."
+    },
+    {
+      "question": "¿A qué curso de educación primaria está dirigida la evaluación de diagnóstico?",
+      "options": [
+        "2º curso de EP",
+        "3º curso de EP",
+        "4º curso de EP",
+        "5º curso de EP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La evaluación de diagnóstico está dirigida al alumnado de 4º curso de educación primaria y la calificación no puede repercutir en la nota académica del alumno."
+    },
+    {
+      "question": "¿Qué orden regula el desarrollo de la evaluación de diagnóstico en Galicia?",
+      "options": [
+        "Orden de 26 de mayo de 2023",
+        "Orden de 8 de septiembre de 2021",
+        "Orden de 29 de diciembre de 2023",
+        "Orden de 22 de julio de 1997"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden de 29 de diciembre de 2023 regula las condiciones y el procedimiento de realización de la evaluación de diagnóstico en la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿Con qué se vincula directamente la evaluación de diagnóstico según el artículo 121 de la LOMLOE?",
+      "options": [
+        "Con las actas de evaluación",
+        "Con los planes de mejora",
+        "Con la promoción del alumnado",
+        "Con el expediente académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación de diagnóstico se vincula directamente con los planes de mejora mencionados en el artículo 121 de la LOMLOE, pues su fin último es promover la calidad y equidad del sistema educativo a través de propuestas de actuación y refuerzo."
+    },
+    {
+      "question": "¿Sobre qué aspectos deben versar los indicadores de logro para evaluar la práctica docente según el artículo 26 de la Orden de 26 de mayo?",
+      "options": [
+        "Solo sobre los resultados académicos del alumnado",
+        "Solo sobre la metodología empleada en el aula",
+        "Sobre la adecuación de la PD, metodología, organización del aula, recursos, atención a la diversidad, clima de trabajo y coordinación",
+        "Únicamente sobre el cumplimiento del temario"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los indicadores de logro para evaluar los procesos de enseñanza y la práctica docente deben versar sobre: la adecuación y planificación de la PD, la metodología empleada, la organización del aula y aprovechamiento de recursos, las medidas de atención a la diversidad, el clima de trabajo y la coordinación con el equipo docente y las familias."
+    },
+    {
+      "question": "¿Cuántas evaluaciones parciales se deben realizar durante el curso según el artículo 21 de la Orden de 26 de mayo?",
+      "options": [
+        "Al menos 2 evaluaciones",
+        "Al menos 3 evaluaciones",
+        "Al menos 4 evaluaciones",
+        "Al menos 5 evaluaciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 21 de la Orden de 26 de mayo establece que se deben realizar al menos 3 evaluaciones parciales durante el curso con un reparto equilibrado en los periodos lectivos, registrando las calificaciones de cada área en las actas de evaluación."
+    },
+    {
+      "question": "¿Qué finalidad tiene la evaluación inicial según el artículo 20 de la Orden de 26 de mayo?",
+      "options": [
+        "Calificar al alumnado al comienzo del curso",
+        "Recadar datos sobre conocimientos y destrezas del alumnado y adecuar la enseñanza al nivel",
+        "Establecer la promoción del alumnado al inicio del curso",
+        "Seleccionar al alumnado según su nivel académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación inicial, desarrollada en las primeras sesiones lectivas, tiene la finalidad de recadar datos sobre los conocimientos y destrezas del alumnado y adecuar la enseñanza al nivel. También es fundamental para detectar dificultades y adoptar medidas de apoyo, refuerzo o recuperación."
+    },
+    {
+      "question": "¿Qué tipo de evaluación proporciona información constante para mejorar los procesos de enseñanza-aprendizaje?",
+      "options": [
+        "Evaluación diagnóstica",
+        "Evaluación formativa o procesual",
+        "Evaluación sumativa",
+        "Evaluación final"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación formativa o procesual proporciona información constante para mejorar los procesos de enseñanza-aprendizaje durante todo el proceso educativo, mientras que la sumativa se centra en evaluar los resultados finales."
+    },
+    {
+      "question": "¿Qué tipo de evaluación se centra en evaluar los resultados finales y el nivel alcanzado?",
+      "options": [
+        "Evaluación diagnóstica",
+        "Evaluación formativa",
+        "Evaluación sumativa",
+        "Evaluación inicial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La evaluación sumativa se centra en evaluar los resultados finales y el nivel alcanzado, mientras que la formativa proporciona información continua durante el proceso y la diagnóstica identifica el nivel inicial del alumnado."
+    },
+    {
+      "question": "¿Qué tipo de evaluación abarca todas las dimensiones del desarrollo del alumnado y de la práctica docente?",
+      "options": [
+        "Evaluación parcial",
+        "Evaluación global",
+        "Evaluación específica",
+        "Evaluación sectorial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación global abarca todas las dimensiones del desarrollo del alumnado y de la práctica docente, a diferencia de la evaluación parcial que se centra únicamente en evaluar algunos componentes específicos del currículo."
+    },
+    {
+      "question": "¿Cómo se llama la evaluación realizada por agentes ajenos al proceso educativo como la Inspección?",
+      "options": [
+        "Evaluación interna",
+        "Evaluación externa",
+        "Heteroevaluación",
+        "Autoevaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación externa es realizada por agentes ajenos al proceso educativo como la Inspección, mientras que la evaluación interna es llevada a cabo por las personas que participan directamente en el proceso de enseñanza-aprendizaje."
+    },
+    {
+      "question": "¿Qué tipo de evaluación compara los resultados del estudiante con criterios previamente establecidos?",
+      "options": [
+        "Evaluación normativa",
+        "Evaluación ipsativa",
+        "Evaluación criterial",
+        "Evaluación comparativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La evaluación criterial compara los resultados del estudiante con criterios previamente establecidos. La evaluación normativa compara con otros del mismo grupo y la ipsativa mide el rendimiento con el previo del mismo estudiante."
+    },
+    {
+      "question": "Según el artículo 17 de la Orden de 26 de mayo, ¿qué tres características debe tener la evaluación en educación primaria?",
+      "options": [
+        "Individual, específica y puntual",
+        "Global, continua y formativa",
+        "Sumativa, final y selectiva",
+        "Parcial, periódica y calificadora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 17 de la Orden de 26 de mayo establece que la evaluación en EP debe ser global (valorando el grado de adquisición de las CC y logro de objetivos), continua (a lo largo de todo el proceso) y formativa (para reorientar, ajustar y mejorar)."
+    },
+    {
+      "question": "Según autores como Amparo Calatayud (2010) y Castillo y Cabrerizo (2010), ¿qué características adicionales debe tener una evaluación auténtica?",
+      "options": [
+        "Solo debe ser cuantitativa y estandarizada",
+        "Solo debe enfocarse en el resultado final",
+        "Debe ser contextualizada, significativa, diversificada, cualitativa, diagnóstica, rigurosa, ética, coherente, compartida y transferible",
+        "Solo debe centrarse en la calificación numérica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Una evaluación auténtica debe ser contextualizada al centro y alumnado, significativa, diversificada, cualitativa, diagnóstica, rigurosa, ética, coherente, compartida y transferible, así como autorregulable para ajustar, modificar y mejorar la forma de evaluar y aprender."
+    },
+    {
+      "question": "¿Quién es el responsable de la evaluación del alumnado y coordina las sesiones de evaluación?",
+      "options": [
+        "El director del centro",
+        "El tutor del grupo de alumnos",
+        "El jefe de estudios",
+        "El orientador del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación del alumnado es responsabilidad del equipo docente que imparte clase en cada curso coordinados por el tutor, quien preside las sesiones de evaluación y firma las actas de su grupo de alumnos."
+    },
+    {
+      "question": "¿Qué menciona el Libro Blanco para la Reforma del Sistema Educativo (1989) sobre las estrategias de evaluación?",
+      "options": [
+        "Deben limitarse a observar el producto final del alumnado",
+        "Deben ser consecuentes con los objetivos, aplicarse a todo el sistema educativo, realizarse de forma continuada y regular activamente el sistema",
+        "Solo deben centrarse en evaluar al alumnado",
+        "Deben realizarse únicamente al final de cada curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Libro Blanco señala que las estrategias deben ser consecuentes con los objetivos y finalidades, aplicarse a todo el sistema educativo y no solo al alumnado, realizarse de forma continuada, incorporar la pluralidad de valores de todos los agentes educativos y cumplir una regulación activa del sistema."
+    },
+    {
+      "question": "Según el artículo 21 del Decreto 155/2022, ¿dónde deben aplicarse las técnicas e instrumentos de evaluación?",
+      "options": [
+        "Solo en situaciones de examen formal",
+        "En contextos reales",
+        "Únicamente en el aula ordinaria",
+        "Solo en actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 21 del Decreto 155/2022 establece que las técnicas e instrumentos de evaluación deben ofrecer información viable y fiable del desarrollo de las competencias clave del alumnado aplicándolos en contextos reales."
+    },
+    {
+      "question": "Según Castillo y Cabrerizo (2010), ¿qué son las técnicas de evaluación?",
+      "options": [
+        "El material o recurso específico para recoger información",
+        "El procedimiento llevado a cabo para obtener información",
+        "Los criterios de calificación del alumnado",
+        "Los documentos oficiales de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Castillo y Cabrerizo definen las técnicas como el procedimiento llevado a cabo para obtener información (responden al ¿cómo se va a evaluar?), mientras que los instrumentos son el material o recurso específico aplicado para recoger información (¿con qué se va a hacer?)."
+    },
+    {
+      "question": "¿Qué características deben tener las técnicas e instrumentos según el tema?",
+      "options": [
+        "Deben ser únicos y estandarizados para todos los alumnos",
+        "Deben ser variados, aplicarse en actividades académicas, usar instrumentos de registro diversos y garantizar la divulgación de objetivos",
+        "Deben centrarse solo en pruebas escritas",
+        "Deben aplicarse únicamente al final del curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las técnicas e instrumentos deben ser variados para valorar distintas capacidades, aplicarse en actividades académicas del aula, usar instrumentos de registro diversos que busquen objetividad, contar con participación de diferentes agentes (auto, co y heteroevaluación) y garantizar la divulgación de objetivos a familias y alumnado."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una técnica de evaluación mencionada en el tema?",
+      "options": [
+        "Solo exámenes escritos tradicionales",
+        "Observación sistemática del alumnado",
+        "Únicamente calificaciones numéricas",
+        "Solo corrección de deberes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La observación sistemática del alumnado es una de las técnicas de evaluación mencionadas, junto con pruebas orales y escritas, producciones, asambleas autoevaluativas, contratos didácticos, diálogo didáctico, autoinforme, análisis del trabajo diario y técnicas de metacognición."
+    },
+    {
+      "question": "¿Qué son los portafolios como instrumento de evaluación?",
+      "options": [
+        "Una única prueba final de evaluación",
+        "Un conjunto de trabajos que recogen la progresión, esfuerzo y logros del discente fomentando creatividad, reflexión y participación",
+        "Un examen estandarizado de opción múltiple",
+        "Un documento administrativo del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los portafolios son instrumentos que recogen los trabajos realizados por el discente a lo largo del curso, evidenciando su progresión, esfuerzo y logros, fomentando al mismo tiempo la creatividad, la reflexión y la participación."
+    },
+    {
+      "question": "¿Qué son las rúbricas como instrumento de evaluación?",
+      "options": [
+        "Un examen tipo test con respuestas cerradas",
+        "Un instrumento con un listado de criterios específicos que permiten valorar el aprendizaje con una escala de progresos",
+        "Una lista de asistencia del alumnado",
+        "Un documento de notas finales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las rúbricas son instrumentos conformados por un listado de criterios específicos que permiten valorar el aprendizaje y competencias logrados con una escala de progresos, facilitando una evaluación objetiva y transparente."
+    },
+    {
+      "question": "¿En qué cursos de educación primaria se toman decisiones de promoción del alumnado?",
+      "options": [
+        "En todos los cursos de primaria",
+        "Solo en 6º de primaria",
+        "En los últimos cursos de cada ciclo (2º, 4º y 6º)",
+        "En 1º, 3º y 5º de primaria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 22 del Decreto 155/2022 y el artículo 24 de la Orden de 26 de mayo, las decisiones de promoción se toman en los últimos cursos de cada ciclo (2º, 4º y 6º) de forma colegiada, dando mayor peso al criterio del tutor. En los cursos restantes la promoción es automática."
+    },
+    {
+      "question": "¿Qué se diseña para un alumno que promociona con alguna área suspensa?",
+      "options": [
+        "Un programa de refuerzo educativo",
+        "Un plan de apoyo para el siguiente curso",
+        "Una adaptación curricular significativa",
+        "Un cambio de grupo o nivel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando un alumno promocione con alguna área suspensa, se le diseñará un plan de apoyo para el siguiente curso con el fin de alcanzar los objetivos y aprendizajes no superados."
+    },
+    {
+      "question": "¿Cuántas veces puede repetir curso un alumno en la etapa de educación primaria?",
+      "options": [
+        "Ninguna, la repetición no está permitida",
+        "Una vez en toda la etapa",
+        "Dos veces en toda la etapa",
+        "Una vez por ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La decisión de no promoción posee un carácter excepcional y se adopta tras aplicar las medidas ordinarias suficientes, pudiendo adoptarse únicamente una vez en toda la etapa de educación primaria."
+    },
+    {
+      "question": "¿Dónde se regula la elaboración y seguimiento del plan específico de refuerzo para alumnado que no promociona?",
+      "options": [
+        "En el artículo 24 de la Orden de 26 de mayo de 2023",
+        "En el artículo 50 de la Orden de 8 de septiembre de 2021",
+        "En el artículo 22 del Decreto 155/2022",
+        "En el artículo 143 de la LOMLOE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La elaboración y seguimiento del plan específico de refuerzo para alumnado que no promociona se regula en el artículo 50 de la Orden de 8 de septiembre de 2021, que desarrolla el Decreto 229/2011 sobre atención a la diversidad."
+    },
+    {
+      "question": "¿Qué debe incluir el plan específico de refuerzo según el artículo 50 de la Orden de 8 de septiembre?",
+      "options": [
+        "Solo las calificaciones del curso anterior",
+        "La identificación del alumno, necesidades, medidas aplicadas, estrategias metodológicas, recursos, oferta de medidas extraordinarias y acreditación a la familia",
+        "Únicamente los objetivos del curso siguiente",
+        "Solo la firma del tutor y la familia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El plan específico de refuerzo debe incluir: identificación del alumno, relación de necesidades que motivaron la no promoción, medidas ordinarias aplicadas en el curso anterior, estrategias metodológicas y recursos necesarios, oferta de medidas extraordinarias y acreditación de la información a la familia."
+    },
+    {
+      "question": "¿Cuándo se realiza el seguimiento del plan específico de refuerzo?",
+      "options": [
+        "Solo al final del curso escolar",
+        "En cada sesión de evaluación",
+        "Una vez al trimestre",
+        "Solo cuando lo solicite la familia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El seguimiento del plan específico de refuerzo se realiza en cada sesión de evaluación con el fin de proponer ajustes de mejora y asegurar que se están atendiendo las necesidades del alumnado."
+    },
+    {
+      "question": "¿Qué finalidad tiene la educación primaria según el artículo 4 del Decreto 155/2022?",
+      "options": [
+        "Preparar exclusivamente para la educación secundaria",
+        "Que cada alumno adquiera aprendizajes de expresión y comprensión oral, lectura, escritura, cálculo y habilidades lógicas y matemáticas",
+        "Solo desarrollar competencias sociales",
+        "Únicamente memorizar contenidos básicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La finalidad de la EP es que cada alumno adquiera los aprendizajes de la expresión y de la comprensión oral, la lectura, la escritura, el cálculo y las habilidades lógicas y matemáticas, entre otros, que contribuyan al pleno desarrollo de su personalidad."
+    },
+    {
+      "question": "¿Qué medida extraordinaria permite reducir un curso escolar en caso de Altas Capacidades Intelectuales?",
+      "options": [
+        "Adaptación curricular significativa",
+        "Flexibilización de la duración del período de escolarización",
+        "Programa de enriquecimiento curricular",
+        "Plan de apoyo educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La flexibilización de la duración del período de escolarización permite la reducción de un curso escolar en caso de Altas Capacidades Intelectuales, regulada en el artículo 58 de la Orden de 8 de septiembre."
+    },
+    {
+      "question": "¿En qué cursos NO se puede realizar la flexibilización por ampliación del período de escolarización?",
+      "options": [
+        "Solo en el primer curso de cada ciclo",
+        "En el último curso del tercer ciclo (6º de primaria)",
+        "En cualquier curso de primaria",
+        "Solo en el primer ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La flexibilización por ampliación solo se puede realizar en el último curso de cada ciclo a excepción del tercer ciclo. La ampliación en el segundo curso del tercer ciclo solo se realiza agotada la medida excepcional de repetición dentro de la etapa."
+    },
+    {
+      "question": "¿Qué edad máxima debe tener el alumnado para poder aplicar la flexibilización por ampliación?",
+      "options": [
+        "No superar los 12 años cumplidos",
+        "No superar los 13 años cumplidos",
+        "No superar los 14 años cumplidos",
+        "No superar los 15 años cumplidos el año natural en que comienza el curso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La ampliación se realiza cuando el alumnado no supere los 15 años de edad cumplidos el año natural en que comienza el curso y solo se realiza en el segundo curso del tercer ciclo agotada la medida excepcional de repetición dentro de la etapa."
+    },
+    {
+      "question": "¿Qué profesional realiza la evaluación psicopedagógica del alumnado con NEAE?",
+      "options": [
+        "El tutor del grupo",
+        "El equipo directivo",
+        "El Departamento de Orientación",
+        "La Inspección Educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para detectar dificultades en el alumnado con NEAE se necesita realizar una evaluación psicopedagógica por parte del Departamento de Orientación (DO), definida en el artículo 34 del Decreto 229/2011."
+    },
+    {
+      "question": "¿Qué es la evaluación psicopedagógica según el artículo 34 del Decreto 229/2011?",
+      "options": [
+        "Un examen médico del alumno",
+        "Una recogida, análisis y valoración de información relevante del alumnado que interviene en el proceso de enseñanza-aprendizaje",
+        "Una prueba de inteligencia estandarizada",
+        "Un informe de calificaciones académicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación psicopedagógica es una recogida, análisis y valoración de la información relevante del alumnado que intervienen en el proceso de enseñanza-aprendizaje, con la finalidad de identificar y acreditar las necesidades del alumnado y su grado de competencias adquiridas."
+    },
+    {
+      "question": "¿Dónde se recogen los resultados y conclusiones de la evaluación psicopedagógica?",
+      "options": [
+        "Solo en el expediente académico",
+        "En un informe psicopedagógico y/o en un dictamen de escolarización",
+        "En las actas de evaluación",
+        "Únicamente en el historial académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los resultados y conclusiones de la evaluación psicopedagógica se recogen en un informe psicopedagógico y/o en un dictamen de escolarización, documentos que orientan la respuesta educativa más adecuada."
+    },
+    {
+      "question": "¿En qué plan se enmarca el programa PROA+?",
+      "options": [
+        "Plan Estratégico de Desarrollo",
+        "Plan de Mejora Educativa de Galicia (MEGA)",
+        "Plan de Atención a la Diversidad",
+        "Plan General de Educación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PROA+ está enmarcado en el Plan de Mejora Educativa de Galicia (MEGA) y fue regulado por la Resolución de 4 de septiembre de 2024."
+    },
+    {
+      "question": "¿A qué alumnado pretende dar apoyo el programa PROA+?",
+      "options": [
+        "Solo al alumnado de altas capacidades",
+        "Al alumnado con NEAE en situación de vulnerabilidad socioeducativa",
+        "Únicamente al alumnado extranjero",
+        "Solo al alumnado con discapacidad física"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PROA+ pretende dar apoyo al alumnado con NEAE en situación de vulnerabilidad socioeducativa implementando una serie de actividades palanca que se engloban en el Plan Estratégico de Mejora (PEM)."
+    },
+    {
+      "question": "¿Cuántas líneas de actuación tiene el PROA+ según la Resolución de 4 de septiembre de 2024?",
+      "options": [
+        "Tres líneas de actuación",
+        "Cuatro líneas de actuación",
+        "Cinco líneas de actuación",
+        "Seis líneas de actuación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El PROA+ sigue cinco líneas de actuación: asegurar las condiciones mínimas de educabilidad, apoyar al alumnado con dificultades, desarrollar actitudes positivas, mejorar el proceso de enseñanza-aprendizaje en las CC y aplicar nuevas formas de organización y gestión."
+    },
+    {
+      "question": "¿Qué programa educativo fue regulado por la Resolución del 9 de septiembre de 2025?",
+      "options": [
+        "PROA+",
+        "Proyectos de Inclusión Educativa (PIE)",
+        "Innova-Lab",
+        "Plan MEGA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los Proyectos de Inclusión Educativa (PIE) fueron regulados por la Resolución del 9 de septiembre de 2025 y engloban cuatro líneas o modalidades de trabajo."
+    },
+    {
+      "question": "¿Cuántas modalidades de trabajo engloban los Proyectos de Inclusión Educativa (PIE)?",
+      "options": [
+        "Dos modalidades",
+        "Tres modalidades",
+        "Cuatro modalidades",
+        "Cinco modalidades"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los PIE engloban cuatro líneas o modalidades: reforzar la inclusión educativa, impulsar la igualdad en el centro, mejorar la convivencia en el centro y la promoción del bienestar emocional."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una línea de trabajo de los Proyectos de Inclusión Educativa (PIE)?",
+      "options": [
+        "Reforzar la inclusión educativa",
+        "Impulsar la igualdad en el centro",
+        "Mejorar la competencia digital",
+        "Promoción del bienestar emocional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las cuatro líneas del PIE son: reforzar la inclusión educativa, impulsar la igualdad (coeducación y prevención de violencia de género), mejorar la convivencia y promoción del bienestar emocional. La competencia digital no es una línea específica del PIE."
+    },
+    {
+      "question": "¿Qué reguló la Resolución de 8 de septiembre de 2025?",
+      "options": [
+        "Los Proyectos de Inclusión Educativa",
+        "El programa PROA+",
+        "Los proyectos Innova-Lab",
+        "La evaluación de diagnóstico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Resolución de 8 de septiembre de 2025 reguló los proyectos Innova-Lab, que tienen como objetivo mejorar los centros implementando proyectos de innovación educativa."
+    },
+    {
+      "question": "¿En qué competencias se enfoca el programa Innova-Lab?",
+      "options": [
+        "Solo en competencia matemática",
+        "En competencia lectora, matemática, internacionalización, sostenibilidad y arte",
+        "Únicamente en competencias digitales",
+        "Solo en competencias lingüísticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Innova-Lab se enfoca en mejorar los centros implementando proyectos de innovación educativa en competencia lectora, matemática, internacionalización, sostenibilidad y arte."
+    },
+    {
+      "question": "¿Cuántos bloques de modalidades tienen los proyectos Innova-Lab?",
+      "options": [
+        "Un único bloque",
+        "Dos bloques de modalidades",
+        "Tres bloques de modalidades",
+        "Cuatro bloques de modalidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros deben elegir su participación en dos tipos de modalidades organizadas en dos bloques: el primer bloque es obligatorio (Mat-Lab y Leo-Lab) y el segundo bloque incluye Inter-Lab, Sosti-Lab y Art-Lab."
+    },
+    {
+      "question": "¿Qué modalidades conforman el primer bloque obligatorio de Innova-Lab?",
+      "options": [
+        "Inter-Lab y Sosti-Lab",
+        "Mat-Lab y Leo-Lab",
+        "Art-Lab y Leo-Lab",
+        "Mat-Lab y Art-Lab"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El primer bloque obligatorio de Innova-Lab se conforma por Mat-Lab (matemáticas) y Leo-Lab (competencia lectora), siendo una de estas dos modalidades obligatoria para los centros participantes."
+    },
+    {
+      "question": "¿Qué modalidades conforman el segundo bloque de Innova-Lab?",
+      "options": [
+        "Mat-Lab, Leo-Lab y Art-Lab",
+        "Inter-Lab, Sosti-Lab y Art-Lab",
+        "Solo Inter-Lab y Sosti-Lab",
+        "Mat-Lab, Inter-Lab y Leo-Lab"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El segundo bloque de Innova-Lab se conforma por Inter-Lab (internacionalización), Sosti-Lab (sostenibilidad) y Art-Lab (arte), siendo de elección voluntaria para los centros."
+    },
+    {
+      "question": "Según Sanmartí (2007), ¿por qué la evaluación es el verdadero motor del aprendizaje?",
+      "options": [
+        "Porque solo sirve para calificar al alumnado",
+        "Porque de ella depende tanto el qué y cómo se enseña, como el qué y el cómo se aprende",
+        "Porque es un requisito administrativo obligatorio",
+        "Porque permite clasificar al alumnado por niveles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sanmartí afirma que la evaluación es el verdadero motor del aprendizaje, pues de ella depende tanto el qué y cómo se enseña, como el qué y el cómo se aprende, siendo fundamental en todo el proceso educativo."
+    },
+    {
+      "question": "¿Qué función de la evaluación permite detectar fortalezas o dificultades del alumnado?",
+      "options": [
+        "Función calificadora",
+        "Función diagnóstica",
+        "Función administrativa",
+        "Función clasificatoria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La función diagnóstica de la evaluación permite detectar fortalezas o dificultades del alumnado, mientras que otras funciones incluyen la identificación, información continua, orientación y motivación."
+    },
+    {
+      "question": "¿Qué función ofrece un feedback informando al alumno y profesor sobre qué se está haciendo bien y qué debe mejorarse?",
+      "options": [
+        "Función calificadora",
+        "Función sumativa",
+        "Función orientadora",
+        "Función selectiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La función orientadora de la evaluación ofrece un feedback informando al alumno y profesor sobre qué se está haciendo bien y qué debe mejorarse, contribuyendo a la mejora continua del proceso educativo."
+    },
+    {
+      "question": "¿Cuándo es motivadora la evaluación según el contenido del tema?",
+      "options": [
+        "Cuando se centra solo en las calificaciones finales",
+        "Cuando se enfoca en ver el propio progreso del alumno",
+        "Cuando compara unos alumnos con otros",
+        "Cuando es punitiva con los errores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación tiene una función motivadora siempre que se enfoque en ver el propio progreso del alumno, valorando su evolución personal y fomentando la mejora continua."
+    },
+    {
+      "question": "¿Qué autor define la evaluación como el conjunto de actuaciones previstas en el Diseño Curricular para ajustar la ayuda pedagógica?",
+      "options": [
+        "Casanova (1992)",
+        "Coll (1987)",
+        "Sanmartí (2007)",
+        "Castillo y Cabrerizo (2010)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Coll (1987) define la evaluación como el conjunto de actuaciones previstas en el Diseño Curricular para ajustar la ayuda pedagógica a las características y necesidades de los alumnos y determinar si se han cumplido las intenciones educativas."
+    },
+    {
+      "question": "¿Quién tiene el derecho a una evaluación objetiva conforme el artículo 24 del Decreto 155/2022?",
+      "options": [
+        "Solo las familias",
+        "Solo el profesorado",
+        "El alumnado",
+        "Solo el equipo directivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 24 del Decreto 155/2022 reconoce el derecho del alumnado a una evaluación objetiva, mientras que el artículo 25 reconoce el derecho de las familias a la información sobre criterios de evaluación y promoción."
+    },
+    {
+      "question": "¿Qué permite el principio de metaevaluación?",
+      "options": [
+        "Evaluar solo al alumnado",
+        "Tomar decisiones fundamentadas sobre la práctica docente evaluando los procesos de enseñanza",
+        "Calificar únicamente los exámenes finales",
+        "Comparar resultados entre diferentes centros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de metaevaluación permite tomar decisiones fundamentadas sobre la práctica docente, evaluando los procesos de enseñanza y la propia práctica docente a través de los indicadores de logro establecidos en las programaciones didácticas."
+    },
+    {
+      "question": "¿Qué ley orgánica modifica la LOE y establece el marco actual de la educación primaria?",
+      "options": [
+        "Ley Orgánica 1/1990 (LOGSE)",
+        "Ley Orgánica 2/2006 (LOE)",
+        "Ley Orgánica 8/2013 (LOMCE)",
+        "Ley Orgánica 3/2020 (LOMLOE)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La Ley Orgánica 3/2020, de 29 de diciembre, conocida como LOMLOE, modifica la Ley Orgánica 2/2006 (LOE) y establece el marco normativo actual de la educación primaria."
+    },
+    {
+      "question": "¿Qué decreto regula la atención a la diversidad del alumnado en Galicia?",
+      "options": [
+        "Decreto 155/2022",
+        "Decreto 157/2022",
+        "Decreto 229/2011",
+        "Decreto 374/1996"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 229/2011, de 7 de diciembre, regula la atención a la diversidad del alumnado de los centros docentes de Galicia, desarrollado por la Orden de 8 de septiembre de 2021."
+    },
+    {
+      "question": "¿Qué tipo de evaluación se caracteriza por medir el rendimiento de un estudiante comparándolo con su rendimiento previo?",
+      "options": [
+        "Evaluación criterial",
+        "Evaluación normativa",
+        "Evaluación ipsativa",
+        "Evaluación diagnóstica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La evaluación ipsativa mide el rendimiento de un estudiante comparándolo con su propio rendimiento previo, permitiendo valorar el progreso personal sin comparaciones externas."
+    },
+    {
+      "question": "¿Quién firma el expediente académico y el historial académico del alumnado?",
+      "options": [
+        "El tutor del alumno",
+        "El director del centro",
+        "La secretaria del centro",
+        "El orientador del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El expediente académico y el historial académico son firmados por la secretaria del centro, mientras que las actas de evaluación, el informe personal por traslado y los informes finales son firmados por el tutor."
+    },
+    {
+      "question": "¿Quién debe firmar el informe final de ciclo y el informe de final de etapa?",
+      "options": [
+        "El director del centro",
+        "El tutor del alumno",
+        "El jefe de estudios",
+        "El orientador del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El informe final de ciclo y el informe de final de etapa son elaborados y firmados por el tutor del alumno, quien es responsable de reflejar el grado de adquisición de las competencias clave y las medidas a prever."
+    },
+    {
+      "question": "¿Quién debe dar el visto bueno a todos los documentos oficiales de evaluación?",
+      "options": [
+        "El tutor",
+        "La secretaria del centro",
+        "La dirección del centro",
+        "La Inspección Educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Todos los documentos oficiales de evaluación deben presentar el visto bueno de la dirección del centro, garantizando así su validez oficial."
+    },
+    {
+      "question": "¿Qué Real Decreto establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal?",
+      "options": [
+        "Real Decreto 126/2014",
+        "Real Decreto 157/2022",
+        "Real Decreto 155/2022",
+        "Real Decreto 229/2011"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal, en coherencia con la LOMLOE."
+    },
+    {
+      "question": "¿En qué consiste el diálogo didáctico como técnica de evaluación?",
+      "options": [
+        "Solo exámenes orales formales",
+        "Una comunicación participativa permanente durante todo el curso, por ejemplo a través de entrevistas",
+        "Únicamente debates al final de cada trimestre",
+        "Solo preguntas de respuesta cerrada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El diálogo didáctico es una técnica de evaluación basada en una comunicación participativa permanente durante todo el curso, que puede realizarse a través de entrevistas, conversaciones informales o intercambios en el aula."
+    },
+    {
+      "question": "¿Qué son las dianas de evaluación?",
+      "options": [
+        "Un tipo de examen escrito",
+        "Un instrumento visual que permite valorar diferentes aspectos de forma gráfica mediante ejes radiales",
+        "Un documento administrativo del centro",
+        "Una técnica de observación del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las dianas de evaluación son instrumentos visuales que permiten valorar diferentes aspectos de forma gráfica mediante ejes radiales, facilitando una evaluación visual y comprensible del progreso en distintas dimensiones."
+    },
+    {
+      "question": "¿Qué instrumento permite medir y reflejar por escrito la intensidad o presencia de una serie de aprendizajes o conductas determinadas?",
+      "options": [
+        "Portafolios",
+        "Rúbricas",
+        "Listas de control o escalas de observación",
+        "Proyectos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las listas de control o escalas de observación ayudan a medir y reflejar por escrito la intensidad o presencia de una serie de aprendizajes o conductas determinadas, siendo útiles para el registro sistemático."
+    },
+    {
+      "question": "¿Qué autores señalan que la evaluación es la herramienta clave dentro del proceso de enseñanza y aprendizaje?",
+      "options": [
+        "Casanova (1992)",
+        "Coll (1987)",
+        "Castillo y Cabrerizo (2010)",
+        "Sanmartí (2007)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Castillo y Cabrerizo (2010) señalan que la evaluación es la herramienta clave dentro del proceso de enseñanza y aprendizaje, no tratándose solo de poner una calificación numérica sino de analizar los procesos."
+    },
+    {
+      "question": "¿Qué implica evaluar según el contenido del tema?",
+      "options": [
+        "Solo poner una calificación numérica",
+        "Una revisión constante a la práctica docente, a las PD, al alumnado y al sistema educativo en general",
+        "Únicamente valorar los resultados finales",
+        "Solo comparar al alumnado entre sí"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Evaluar implica una revisión constante a la práctica docente, a las Programaciones Didácticas (PD), al alumnado y al sistema educativo en general, siendo una tarea compartida entre el profesorado, los centros educativos y las administraciones educativas."
+    },
+    {
+      "question": "¿Cómo debe ser la evaluación según el artículo 17 de la Orden de 26 de mayo en cuanto a la información proporcionada?",
+      "options": [
+        "Debe proporcionar información solo al final del proceso",
+        "Debe proporcionar información continua para reorientar, ajustar y mejorar el proceso de aprendizaje-enseñanza",
+        "Debe centrarse únicamente en la calificación final",
+        "Debe informar solo a las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación formativa debe proporcionar información continua para reorientar, ajustar y mejorar el proceso de aprendizaje-enseñanza, adaptándolo a las características del alumnado y al contexto del centro."
+    },
+    {
+      "question": "¿Qué debe valorar la evaluación global según el artículo 17 de la Orden de 26 de mayo?",
+      "options": [
+        "Solo las calificaciones numéricas",
+        "El grado de adquisición de las competencias clave y logro de los objetivos",
+        "Únicamente la asistencia del alumnado",
+        "Solo el comportamiento en el aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación global debe valorar el grado de adquisición de las competencias clave y el logro de los objetivos, considerando todas las dimensiones del desarrollo del alumnado."
+    },
+    {
+      "question": "¿Cuándo se implementan medidas de refuerzo según la característica continua de la evaluación?",
+      "options": [
+        "Solo al final del curso",
+        "Cuando se detecta alguna dificultad durante el proceso de aprendizaje",
+        "Únicamente cuando el alumno repite curso",
+        "Solo si lo solicita la familia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación continua implica que se implementan medidas de refuerzo cuando se detecta alguna dificultad durante todo el proceso de aprendizaje, no esperando al final del curso para actuar."
+    },
+    {
+      "question": "¿Qué debe fomentar la evaluación según las características mencionadas por Calatayud y Castillo?",
+      "options": [
+        "Solo la competencia entre el alumnado",
+        "Procesos de auto y coevaluación como fuente de aprendizaje y autoanálisis",
+        "Únicamente la calificación por el profesorado",
+        "Solo la comparación con estándares externos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser una fuente de aprendizaje y autoanálisis fomentando procesos de auto y coevaluación, permitiendo que el alumnado participe activamente en su proceso de evaluación."
+    },
+    {
+      "question": "¿Qué debe valorar la evaluación además del resultado final según el tema?",
+      "options": [
+        "Solo la nota numérica obtenida",
+        "El esfuerzo, las potencialidades y el progreso del alumnado durante el curso",
+        "Únicamente la comparación con otros alumnos",
+        "Solo el cumplimiento de los plazos de entrega"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación no debe centrarse únicamente en el resultado final, sino valorar el esfuerzo, las potencialidades y el progreso del alumnado durante el curso, teniendo en cuenta su proceso de aprendizaje."
+    },
+    {
+      "question": "¿A quién debe ser pública y transparente la evaluación?",
+      "options": [
+        "Solo al equipo directivo",
+        "Solo al profesorado",
+        "A toda la comunidad educativa",
+        "Solo a la Inspección Educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La evaluación debe ser pública y transparente a toda la comunidad educativa, exponiendo a las familias los criterios de evaluación y promoción y las estrategias e instrumentos, facilitando su participación y derecho a la información."
+    },
+    {
+      "question": "¿Qué derecho reconoce el artículo 25 del Decreto 155/2022?",
+      "options": [
+        "El derecho del alumnado a repetir curso",
+        "El derecho de las familias a la información sobre criterios de evaluación y promoción",
+        "El derecho del profesorado a calificar libremente",
+        "El derecho a cambiar de centro sin justificación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 25 del Decreto 155/2022 reconoce el derecho de las familias a la información sobre criterios de evaluación y promoción, facilitando su participación en el proceso educativo de sus hijos."
+    },
+    {
+      "question": "¿Qué debe promover la evaluación según la LOMLOE respecto al sistema educativo?",
+      "options": [
+        "Solo la clasificación de centros por resultados",
+        "La mejora continua del sistema educativo",
+        "Únicamente la competencia entre centros",
+        "Solo el control administrativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación general del sistema educativo debe promover la mejora continua, tal como establece el artículo 143 de la LOMLOE, requiriendo colaboración entre agentes internos y externos al centro."
+    },
+    {
+      "question": "¿Quién es responsable de impulsar las evaluaciones internas del centro según el artículo 132 de la LOMLOE?",
+      "options": [
+        "El jefe de estudios",
+        "El director del centro",
+        "El orientador",
+        "El secretario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El director es el responsable de impulsar las evaluaciones internas del centro y colaborar en las evaluaciones externas, tal como establece el artículo 132 de la LOMLOE."
+    },
+    {
+      "question": "¿Qué debe incluir el informe de final de etapa además del grado de desarrollo de las competencias?",
+      "options": [
+        "Solo las calificaciones finales",
+        "Todas las medidas de refuerzo a prever en el curso siguiente",
+        "Únicamente las asignaturas suspensas",
+        "Solo las medidas disciplinarias aplicadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el informe de final de etapa, además del grado de evolución y de adquisición de las competencias clave, el tutor debe recoger todas las medidas de refuerzo a prever en el curso siguiente, garantizando la coordinación en la educación del alumno."
+    },
+    {
+      "question": "¿Cuál es el carácter de la decisión de no promoción en educación primaria?",
+      "options": [
+        "Es una decisión ordinaria que se toma frecuentemente",
+        "Tiene un carácter excepcional y se adopta tras aplicar medidas ordinarias",
+        "Es automática cuando hay suspensos",
+        "Depende únicamente de las calificaciones numéricas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La decisión de no promoción posee un carácter excepcional y se adopta tras aplicar las medidas ordinarias suficientes, adecuadas y personalizadas para atender a las dificultades de aprendizaje, pudiendo adoptarse únicamente una vez en la etapa."
+    },
+    {
+      "question": "¿De quién depende principalmente la decisión de promoción del alumnado en los últimos cursos de cada ciclo?",
+      "options": [
+        "Del equipo directivo del centro",
+        "Del tutor, con mayor peso en su criterio y decisión",
+        "De la Inspección Educativa",
+        "De la votación mayoritaria del claustro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las decisiones de promoción se toman de forma colegiada por el equipo docente, pero se da mayor peso al criterio y decisión del tutor del grupo de alumnos."
+    },
+    {
+      "question": "¿En qué artículo de la LOMLOE se mencionan los planes de mejora vinculados a la evaluación de diagnóstico?",
+      "options": [
+        "Artículo 21",
+        "Artículo 121",
+        "Artículo 132",
+        "Artículo 143"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 121 de la LOMLOE menciona los planes de mejora, que se vinculan directamente con la evaluación de diagnóstico para promover la calidad y equidad del sistema educativo."
+    },
+    {
+      "question": "¿Cuál es la finalidad principal de la evaluación psicopedagógica?",
+      "options": [
+        "Clasificar al alumnado según su nivel de inteligencia",
+        "Identificar y acreditar las necesidades del alumnado y tomar decisiones sobre la respuesta educativa más adecuada",
+        "Obtener subvenciones para el centro",
+        "Justificar la expulsión de alumnos problemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La finalidad de la evaluación psicopedagógica es identificar y acreditar las necesidades del alumnado y su grado de competencias adquiridas para tomar decisiones sobre la respuesta educativa más adecuada."
+    },
+    {
+      "question": "¿Qué documento engloba el Plan Estratégico de Mejora (PEM) con actividades palanca?",
+      "options": [
+        "El proyecto educativo del centro",
+        "El PROA+",
+        "El plan de convivencia",
+        "La programación general anual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PROA+ implementa una serie de actividades palanca que se engloban en el Plan Estratégico de Mejora (PEM), siguiendo cinco líneas de actuación para mejorar el éxito educativo."
+    },
+    {
+      "question": "¿Qué acción incluye la primera línea de actuación del PROA+?",
+      "options": [
+        "Mejorar la competencia digital",
+        "Asegurar las condiciones mínimas de educabilidad",
+        "Aumentar las horas lectivas",
+        "Reducir el número de alumnos por aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La primera línea de actuación del PROA+ es asegurar las condiciones mínimas de educabilidad para el alumnado con NEAE en situación de vulnerabilidad socioeducativa."
+    },
+    {
+      "question": "¿Qué línea del PIE se enfoca en implementar acciones para fomentar la coeducación y prevenir la violencia de género?",
+      "options": [
+        "Reforzar la inclusión educativa",
+        "Impulsar la igualdad en el centro",
+        "Mejorar la convivencia",
+        "Promoción del bienestar emocional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La línea de impulsar la igualdad en el centro del PIE incluye acciones para fomentar la coeducación, la igualdad y prevenir la violencia de género."
+    },
+    {
+      "question": "¿Qué modalidad de Innova-Lab se enfoca en la internacionalización?",
+      "options": [
+        "Mat-Lab",
+        "Leo-Lab",
+        "Inter-Lab",
+        "Sosti-Lab"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Inter-Lab es la modalidad de Innova-Lab que se enfoca en la internacionalización, formando parte del segundo bloque de modalidades optativas."
+    },
+    {
+      "question": "¿Qué modalidad de Innova-Lab se enfoca en la sostenibilidad?",
+      "options": [
+        "Art-Lab",
+        "Sosti-Lab",
+        "Leo-Lab",
+        "Mat-Lab"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sosti-Lab es la modalidad de Innova-Lab que se enfoca en la sostenibilidad, formando parte del segundo bloque junto con Inter-Lab y Art-Lab."
+    },
+    {
+      "question": "¿Qué modalidad de Innova-Lab se enfoca en el arte?",
+      "options": [
+        "Leo-Lab",
+        "Mat-Lab",
+        "Inter-Lab",
+        "Art-Lab"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Art-Lab es la modalidad de Innova-Lab que se enfoca en el arte, formando parte del segundo bloque de modalidades optativas para los centros."
+    },
+    {
+      "question": "¿Cuál es la característica de la evaluación que permite que se aplique en diferentes momentos y con diversos instrumentos?",
+      "options": [
+        "Sistemática",
+        "Flexible",
+        "Diagnóstica",
+        "Sumativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser flexible en la elección de estrategias e instrumentos, permitiendo su aplicación en diferentes momentos y adaptándose a las características del alumnado y contexto."
+    },
+    {
+      "question": "¿Qué característica de la evaluación implica que esté organizada a lo largo del tiempo?",
+      "options": [
+        "Flexible",
+        "Sistemática",
+        "Cualitativa",
+        "Compartida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser sistemática, es decir, organizada a lo largo del tiempo de manera planificada y estructurada para garantizar un seguimiento adecuado del proceso educativo."
+    },
+    {
+      "question": "¿Qué característica de la evaluación se refiere a adaptarla al centro y al alumnado específico?",
+      "options": [
+        "Estandarizada",
+        "Contextualizada",
+        "Universal",
+        "Genérica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser contextualizada al centro y al alumnado, adaptándose a las características específicas del contexto educativo y las necesidades particulares de los estudiantes."
+    },
+    {
+      "question": "¿Qué característica implica que la evaluación debe permitir ajustar, modificar y mejorar la forma de evaluar y aprender?",
+      "options": [
+        "Rígida",
+        "Autorregulable",
+        "Definitiva",
+        "Inamovible"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser autorregulable para ajustar, modificar y mejorar la forma de evaluar y aprender, permitiendo una mejora continua del proceso evaluativo."
+    },
+    {
+      "question": "¿Qué característica de la evaluación implica que se hace participar a diferentes agentes educativos?",
+      "options": [
+        "Individual",
+        "Compartida",
+        "Exclusiva",
+        "Privada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser compartida, incorporando la pluralidad de valores de todos los agentes educativos y permitiendo la participación de diferentes miembros de la comunidad educativa."
+    },
+    {
+      "question": "¿Qué son los anecdotarios como instrumento de evaluación?",
+      "options": [
+        "Exámenes estandarizados",
+        "Registros de observaciones significativas sobre comportamientos o situaciones relevantes del alumnado",
+        "Listas de calificaciones numéricas",
+        "Únicamente historias personales del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los anecdotarios son instrumentos que permiten registrar observaciones significativas sobre comportamientos o situaciones relevantes del alumnado, proporcionando información cualitativa valiosa para la evaluación."
+    },
+    {
+      "question": "¿Qué instrumento consiste en un registro donde el profesor va anotando el desarrollo del curso y las observaciones sobre el proceso?",
+      "options": [
+        "El portafolio",
+        "El diario de clase",
+        "Las rúbricas",
+        "Las listas de control"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El diario de clase es un instrumento donde el profesor va anotando el desarrollo del curso y las observaciones sobre el proceso de enseñanza-aprendizaje, siendo una herramienta de reflexión docente."
+    },
+    {
+      "question": "¿Qué técnica permite al alumnado opinar sobre sus resultados y emplear organizadores gráficos?",
+      "options": [
+        "Heteroevaluación externa",
+        "Asambleas autoevaluativas o autorregistros",
+        "Pruebas estandarizadas",
+        "Exámenes tipo test"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las asambleas autoevaluativas o autorregistros permiten al alumnado opinar sobre sus resultados y emplear organizadores gráficos, fomentando la reflexión y la metacognición."
+    },
+    {
+      "question": "¿Qué son los contratos didácticos como técnica de evaluación?",
+      "options": [
+        "Documentos legales vinculantes",
+        "Acuerdos de compromisos entre profesor y alumno sobre objetivos y responsabilidades",
+        "Sanciones disciplinarias",
+        "Exámenes obligatorios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los contratos didácticos son técnicas basadas en acuerdos de compromisos entre profesor y alumno sobre objetivos y responsabilidades, promoviendo el compromiso y la responsabilidad del estudiante."
+    },
+    {
+      "question": "¿Qué técnica permite valorar la participación del alumnado en las tareas escolares?",
+      "options": [
+        "Solo exámenes escritos",
+        "Valoración de la participación en las tareas",
+        "Únicamente pruebas orales",
+        "Solo trabajos finales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La valoración de la participación en las tareas es una técnica que permite evaluar cómo el alumnado se involucra en las actividades escolares, complementando otras formas de evaluación."
+    },
+    {
+      "question": "¿Qué técnica implica grabar en vídeo ciertas actividades para facilitar la auto y heteroevaluación?",
+      "options": [
+        "Observación indirecta",
+        "Grabaciones con dispositivos electrónicos",
+        "Entrevistas orales",
+        "Pruebas escritas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las grabaciones con dispositivos electrónicos de ciertas producciones favorecen tanto la auto como la heteroevaluación, permitiendo al alumnado ver su desempeño y reflexionar sobre él."
+    },
+    {
+      "question": "¿Qué son las técnicas de metacognición en evaluación?",
+      "options": [
+        "Técnicas para memorizar contenidos",
+        "Técnicas que permiten al alumnado reflexionar sobre su propio proceso de aprendizaje",
+        "Técnicas de castigo educativo",
+        "Técnicas de clasificación del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las técnicas de metacognición permiten al alumnado reflexionar sobre su propio proceso de aprendizaje, fomentando la autorregulación y la conciencia sobre cómo aprenden."
+    },
+    {
+      "question": "¿Qué instrumento recoge el trabajo y la planificación semanal del alumnado?",
+      "options": [
+        "El expediente académico",
+        "La hoja de plan semanal",
+        "Las actas de evaluación",
+        "El historial académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hoja de plan semanal es un instrumento que recoge el trabajo y la planificación semanal del alumnado, ayudando a organizar y seguir las tareas a realizar."
+    },
+    {
+      "question": "¿Qué instrumento permite al alumnado llevar un control visual de su progreso y objetivos alcanzados?",
+      "options": [
+        "El examen final",
+        "Los blocs y paneles de autocontrol",
+        "Las actas de evaluación",
+        "El expediente disciplinario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los blocs y paneles de autocontrol permiten al alumnado llevar un control visual de su progreso y objetivos alcanzados, fomentando la autorregulación del aprendizaje."
+    },
+    {
+      "question": "¿Qué instrumento utiliza el profesorado para registrar observaciones sobre el grupo y cada alumno?",
+      "options": [
+        "El historial académico",
+        "El cuaderno de seguimiento",
+        "Las actas oficiales",
+        "El boletín de notas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cuaderno de seguimiento es un instrumento que utiliza el profesorado para registrar observaciones sobre el grupo y cada alumno, facilitando el seguimiento personalizado."
+    },
+    {
+      "question": "¿Qué técnica consiste en el análisis del trabajo diario con debates o grabaciones?",
+      "options": [
+        "Solo pruebas escritas finales",
+        "Análisis del trabajo diario con debates o grabaciones en vídeo",
+        "Únicamente exámenes estandarizados",
+        "Solo calificaciones numéricas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El análisis del trabajo diario con debates o grabaciones en vídeo es una técnica que permite evaluar el proceso continuo del alumnado, no solo los productos finales."
+    },
+    {
+      "question": "¿Qué son los sociogramas como instrumento de evaluación?",
+      "options": [
+        "Gráficos de calificaciones académicas",
+        "Instrumentos que representan las relaciones sociales dentro del grupo-clase",
+        "Tablas de asistencia del alumnado",
+        "Listados de material escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los sociogramas son instrumentos que representan gráficamente las relaciones sociales dentro del grupo-clase, permitiendo evaluar aspectos socioafectivos y de convivencia."
+    },
+    {
+      "question": "¿Qué técnica de evaluación implica técnicas de grupo de discusión?",
+      "options": [
+        "Solo exámenes individuales escritos",
+        "Técnicas de grupo de discusión para valorar la participación y argumentación",
+        "Únicamente pruebas orales individuales",
+        "Solo trabajos escritos individuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las técnicas de grupo de discusión permiten valorar la participación, argumentación, capacidad de trabajo en equipo y habilidades comunicativas del alumnado."
+    },
+    {
+      "question": "¿Qué se incluye en las producciones como técnica de evaluación?",
+      "options": [
+        "Solo exámenes escritos tradicionales",
+        "Proyectos, trabajos, ensayos o talleres",
+        "Únicamente pruebas tipo test",
+        "Solo dictados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las producciones como técnica de evaluación incluyen proyectos, trabajos, ensayos o talleres, permitiendo valorar la capacidad del alumnado de aplicar conocimientos de forma práctica y creativa."
+    },
+    {
+      "question": "¿Qué característica debe tener la elección de técnicas e instrumentos de evaluación según el tema?",
+      "options": [
+        "Deben ser iguales para todo el alumnado sin excepciones",
+        "Deben ser adecuados para el contexto del centro y aula y para el momento de evaluación",
+        "Deben ser únicamente estandarizados",
+        "Deben aplicarse solo al final del curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los docentes deben determinar qué técnicas e instrumentos son más adecuados para el contexto del centro y aula y para el momento de evaluación, garantizando una evaluación adaptada y contextualizada."
+    },
+    {
+      "question": "¿Qué aspecto NO se debe tener en cuenta al elegir técnicas e instrumentos según el tema?",
+      "options": [
+        "La utilización de técnicas variadas",
+        "Su aplicación en las actividades académicas del aula",
+        "El uso de instrumentos de registro diversos",
+        "Aplicar siempre la misma técnica para comparar resultados de forma estandarizada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se debe utilizar una variedad de técnicas e instrumentos para valorar distintas capacidades y contenidos curriculares, no aplicar siempre la misma técnica. La diversidad de instrumentos permite contrastar datos y buscar mayor objetividad."
+    },
+    {
+      "question": "¿Qué debe garantizar la divulgación de técnicas e instrumentos según el tema?",
+      "options": [
+        "Mantener en secreto los criterios de evaluación",
+        "Una comunicación clara y comprensible sobre los criterios de evaluación a familias y alumnado",
+        "Solo informar al equipo directivo",
+        "Publicar únicamente las calificaciones finales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las técnicas e instrumentos deben garantizar la divulgación adecuada de los objetivos y prioridades educativas a las familias y alumnado con una comunicación clara y comprensible sobre los criterios de evaluación."
+    },
+    {
+      "question": "¿Qué característica tienen las pruebas orales y escritas como técnica de evaluación?",
+      "options": [
+        "Solo miden memorización de datos",
+        "Valoran conocimientos, actitudes, destrezas y procedimientos",
+        "Únicamente evalúan la caligrafía",
+        "Solo sirven para clasificar al alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las pruebas orales y escritas como técnica de evaluación valoran conocimientos, actitudes, destrezas y procedimientos, siendo instrumentos completos que van más allá de la simple memorización."
+    },
+    {
+      "question": "¿Para qué sirve la observación sistemática del alumnado como técnica?",
+      "options": [
+        "Solo para vigilar el comportamiento",
+        "Para recoger información sobre el proceso de aprendizaje de forma continuada y estructurada",
+        "Únicamente para sancionar conductas",
+        "Solo para control de asistencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La observación sistemática del alumnado permite recoger información sobre el proceso de aprendizaje de forma continuada y estructurada, siendo una técnica fundamental para la evaluación formativa."
+    },
+    {
+      "question": "¿Qué finalidad tienen las entrevistas como forma de diálogo didáctico?",
+      "options": [
+        "Solo para comunicar malas noticias a las familias",
+        "Mantener un diálogo participativo permanente para conocer el proceso del alumnado",
+        "Únicamente para sancionar al alumnado",
+        "Solo para quejas sobre el comportamiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las entrevistas como forma de diálogo didáctico permiten mantener un diálogo participativo permanente durante todo el curso para conocer mejor el proceso del alumnado y proporcionar retroalimentación continua."
+    },
+    {
+      "question": "¿Qué permiten las fichas de seguimiento como instrumento?",
+      "options": [
+        "Solo registrar faltas de asistencia",
+        "Registrar el progreso del alumnado en aspectos concretos de forma individual",
+        "Únicamente controlar el material escolar",
+        "Solo anotar sanciones disciplinarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las fichas de seguimiento permiten registrar el progreso del alumnado en aspectos concretos de forma individual, facilitando un seguimiento personalizado y detallado de la evolución."
+    },
+    {
+      "question": "¿Qué enfoque debe tener la evaluación en relación con las Competencias Clave según el artículo 18 de la Orden de 26 de mayo?",
+      "options": [
+        "Debe realizarse de forma aislada y específica",
+        "Debe estar integrada en la evaluación de cada una de las áreas",
+        "Solo debe evaluarse al final de la etapa",
+        "Debe ser externa al currículo de las áreas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación del grado de adquisición de las competencias clave en cada curso de EP debe estar integrada en la evaluación de cada una de las áreas, siguiendo un enfoque transversal e integral."
+    },
+    {
+      "question": "¿Qué requiere evaluar en competencias según el tema?",
+      "options": [
+        "Solo exámenes teóricos tradicionales",
+        "Una evaluación continua enfocada en el desempeño del alumnado en contextos reales",
+        "Únicamente memorización de contenidos",
+        "Solo pruebas estandarizadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Evaluar en competencias requiere de una evaluación continua que se enfoque en el desempeño del alumnado en contextos reales a través de la aplicación de los conocimientos en situaciones concretas."
+    },
+    {
+      "question": "¿Qué actúan como puente de conexión entre los contenidos y los objetivos del área?",
+      "options": [
+        "Las competencias clave",
+        "Los criterios de evaluación",
+        "Los estándares de aprendizaje",
+        "Las calificaciones numéricas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación actúan como un puente de conexión entre los contenidos y los objetivos del área, a la vez que describen aquello que se quiere valorar y que se espera que el alumnado logre."
+    },
+    {
+      "question": "¿Para qué son fundamentales los criterios de evaluación según el artículo 24 de la Orden de 26 de mayo?",
+      "options": [
+        "Solo para elaborar exámenes",
+        "Para tomar las decisiones de promoción del alumnado",
+        "Únicamente para estadísticas del centro",
+        "Solo para informes a la Inspección"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación son fundamentales para tomar las decisiones de promoción del alumnado conforme lo establecido en el artículo 24 de la Orden de 26 de mayo."
+    },
+    {
+      "question": "¿En qué procedimiento son la base los criterios de evaluación según el artículo 32?",
+      "options": [
+        "En el proceso de admisión del alumnado",
+        "En los procedimientos para la revisión de las calificaciones finales",
+        "En la evaluación del profesorado",
+        "En la asignación de recursos del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación son la base de los procedimientos para la revisión de las calificaciones finales del artículo 32, en la que se analiza la adecuación del proceso de evaluación del alumnado con el procedimiento de evaluación y criterios recogidos en la PD."
+    },
+    {
+      "question": "¿Qué permiten los indicadores de logro en relación con los criterios de evaluación?",
+      "options": [
+        "Clasificar al alumnado por niveles",
+        "Determinar el grado de consecución de los criterios de forma medible",
+        "Sancionar al alumnado con dificultades",
+        "Seleccionar al profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los indicadores de logro permiten determinar el grado de consecución de los criterios de evaluación de forma medible, haciendo que los criterios sean claros, concisos y evaluables."
+    },
+    {
+      "question": "¿Cuáles son los referentes de evaluación para el alumnado con adaptaciones curriculares?",
+      "options": [
+        "Los mismos criterios que el resto del alumnado sin excepciones",
+        "Los establecidos en dicha adaptación curricular",
+        "No tienen referentes de evaluación",
+        "Solo criterios de comportamiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el caso de alumnado con adaptaciones curriculares, los referentes de evaluación serán los establecidos en dicha adaptación, sin que ello pueda impedir su promoción de curso o de etapa."
+    },
+    {
+      "question": "¿Qué característica de los criterios de evaluación permite evaluarlos con diferentes técnicas e instrumentos?",
+      "options": [
+        "Son rígidos",
+        "Son flexibles",
+        "Son únicos",
+        "Son estandarizados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación se caracterizan por ser flexibles al evaluarse con diferentes técnicas e instrumentos y adaptarse a las características del alumnado."
+    },
+    {
+      "question": "¿A qué están asociados los criterios de evaluación según sus características?",
+      "options": [
+        "Solo a los contenidos conceptuales",
+        "A las competencias clave, orientando su desarrollo",
+        "Únicamente a los objetivos generales de etapa",
+        "Solo a las calificaciones numéricas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación están asociados a las competencias clave y orientan su desarrollo, asegurando una evaluación coherente con el enfoque competencial del currículo."
+    },
+    {
+      "question": "¿Qué organismo internacional desarrolla programas de evaluación que permiten comparar el rendimiento de los alumnos españoles con otros países?",
+      "options": [
+        "UNESCO",
+        "UNICEF",
+        "OCDE (Organización para la Cooperación y el Desarrollo Económicos)",
+        "OMS"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La OCDE (Organización para la Cooperación y el Desarrollo Económicos) desarrolla programas internacionales de evaluación que permiten comparar el rendimiento de los alumnos españoles con los de otros países e identificar fortalezas y debilidades del sistema."
+    },
+    {
+      "question": "¿Qué competencias mínimas debe valorar la evaluación de diagnóstico?",
+      "options": [
+        "Solo la competencia digital",
+        "La competencia matemática y lingüística como mínimo",
+        "Únicamente competencias sociales",
+        "Solo competencias artísticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación de diagnóstico debe valorar el grado de adquisición de las competencias clave, como mínimo la competencia matemática y lingüística."
+    },
+    {
+      "question": "¿Puede la calificación de la evaluación de diagnóstico repercutir en la nota académica del alumno?",
+      "options": [
+        "Sí, cuenta como un examen más",
+        "No, no puede repercutir en la nota académica",
+        "Solo si es una calificación positiva",
+        "Solo en determinadas áreas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación de diagnóstico tiene un carácter informativo, formativo y orientativo, y la calificación no puede repercutir en la nota académica del alumno."
+    },
+    {
+      "question": "¿Cuál es la finalidad principal de la evaluación inicial?",
+      "options": [
+        "Calificar al alumnado desde el primer día",
+        "Recadar datos sobre conocimientos y destrezas para adecuar la enseñanza y detectar dificultades",
+        "Clasificar al alumnado por grupos de nivel",
+        "Decidir quién debe repetir curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación inicial tiene la finalidad de recabar datos sobre los conocimientos y destrezas del alumnado para adecuar la enseñanza al nivel, así como detectar dificultades y adoptar medidas de apoyo, refuerzo o recuperación."
+    },
+    {
+      "question": "¿Cuántas evaluaciones parciales como mínimo deben realizarse durante el curso en educación primaria?",
+      "options": [
+        "Al menos 2 evaluaciones parciales",
+        "Al menos 3 evaluaciones parciales",
+        "Al menos 4 evaluaciones parciales",
+        "Al menos 5 evaluaciones parciales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deben realizarse al menos 3 evaluaciones parciales durante el curso con un reparto equilibrado en los periodos lectivos, registrando las calificaciones de cada área en las actas de evaluación."
+    },
+    {
+      "question": "¿Dónde se consignan las calificaciones en la evaluación final del curso?",
+      "options": [
+        "Solo en el boletín informativo",
+        "En las actas de evaluación con la calificación final de cada área y CC",
+        "Únicamente en el cuaderno del profesor",
+        "Solo en la aplicación informática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la evaluación final, al concluir el período lectivo, se consignan las actas de evaluación con la calificación final de cada área y competencias clave."
+    },
+    {
+      "question": "¿Qué tres preguntas debe responder la planificación de la evaluación según el tema?",
+      "options": [
+        "Quién, dónde y por qué evaluar",
+        "Qué, cómo y cuándo evaluar",
+        "Cuánto, para qué y con quién evaluar",
+        "Por qué, para quién y hasta cuándo evaluar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación es un proceso complejo que debe planificarse en torno a tres preguntas fundamentales: qué evaluar, cómo evaluar y cuándo evaluar."
+    },
+    {
+      "question": "¿En qué momento del curso se desarrolla la evaluación inicial?",
+      "options": [
+        "Al final del primer trimestre",
+        "En las primeras sesiones lectivas",
+        "A mitad de curso",
+        "Solo al inicio de cada ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación inicial se desarrolla en las primeras sesiones lectivas del curso para recabar datos sobre conocimientos y destrezas del alumnado y adecuar la enseñanza."
+    },
+    {
+      "question": "¿Qué tipo de evaluación identifica los conocimientos, habilidades o destrezas al inicio de un proceso educativo?",
+      "options": [
+        "Evaluación formativa",
+        "Evaluación sumativa",
+        "Evaluación de diagnóstico",
+        "Evaluación final"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La evaluación de diagnóstico está enfocada a identificar los conocimientos, habilidades o destrezas de los discentes al inicio de un proceso educativo para adaptar la enseñanza."
+    },
+    {
+      "question": "¿Qué tipo de evaluación proporciona información constante durante el proceso para mejorarlo?",
+      "options": [
+        "Evaluación sumativa",
+        "Evaluación formativa o procesual",
+        "Evaluación final",
+        "Evaluación normativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación formativa o procesual proporciona información constante durante el proceso de enseñanza-aprendizaje para mejorarlo de forma continua."
+    },
+    {
+      "question": "¿Qué subtipos se incluyen en la evaluación interna según los agentes evaluadores?",
+      "options": [
+        "Solo heteroevaluación",
+        "Autoevaluación, coevaluación y heteroevaluación",
+        "Únicamente autoevaluación",
+        "Solo coevaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación interna llevada a cabo por personas que participan directamente en el proceso se subclasifica en autoevaluación, coevaluación y heteroevaluación."
+    },
+    {
+      "question": "¿Qué es la autoevaluación?",
+      "options": [
+        "Cuando el profesor evalúa al alumno",
+        "Cuando el alumno evalúa su propio trabajo y aprendizaje",
+        "Cuando los alumnos se evalúan entre sí",
+        "Cuando un agente externo evalúa al centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La autoevaluación es cuando el alumno evalúa su propio trabajo y aprendizaje, desarrollando capacidades de reflexión y autorregulación."
+    },
+    {
+      "question": "¿Qué es la coevaluación?",
+      "options": [
+        "Cuando el profesor evalúa individualmente a cada alumno",
+        "Cuando los alumnos se evalúan mutuamente entre compañeros",
+        "Cuando un agente externo evalúa al centro",
+        "Cuando solo evalúa el equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La coevaluación es cuando los alumnos se evalúan mutuamente entre compañeros, fomentando el aprendizaje colaborativo y el desarrollo de criterios de valoración."
+    },
+    {
+      "question": "¿Qué es la heteroevaluación?",
+      "options": [
+        "Cuando el alumno se autoevalúa",
+        "Cuando el profesor u otra persona evalúa al alumno",
+        "Cuando los alumnos se evalúan entre sí",
+        "Cuando no hay evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La heteroevaluación es cuando el profesor u otra persona diferente al propio alumno evalúa el trabajo y aprendizaje del estudiante."
+    },
+    {
+      "question": "¿Qué tipo de evaluación compara el rendimiento de un estudiante con el de otros del mismo grupo?",
+      "options": [
+        "Evaluación criterial",
+        "Evaluación ipsativa",
+        "Evaluación normativa",
+        "Evaluación diagnóstica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La evaluación normativa compara el rendimiento de un estudiante con el de otros del mismo grupo, estableciendo una comparación relativa entre alumnos."
+    },
+    {
+      "question": "¿Qué tipo de evaluación compara los resultados con criterios previamente establecidos?",
+      "options": [
+        "Evaluación normativa",
+        "Evaluación ipsativa",
+        "Evaluación criterial",
+        "Evaluación sumativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La evaluación criterial compara los resultados del estudiante con criterios previamente establecidos, sin compararlo con otros alumnos sino con unos estándares definidos."
+    },
+    {
+      "question": "¿Qué característica de la evaluación hace referencia a que debe valorar todas las dimensiones del desarrollo del alumnado?",
+      "options": [
+        "Evaluación parcial",
+        "Evaluación global",
+        "Evaluación específica",
+        "Evaluación sectorial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación global abarca todas las dimensiones del desarrollo del alumnado y de la práctica docente, no centrándose solo en aspectos aislados."
+    },
+    {
+      "question": "¿Qué debe valorar la evaluación además de conocimientos según autores como Calatayud?",
+      "options": [
+        "Solo resultados académicos finales",
+        "El esfuerzo, las potencialidades y el progreso del alumnado",
+        "Únicamente la asistencia a clase",
+        "Solo la conducta en el aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación no debe centrarse únicamente en el resultado final, sino valorar el esfuerzo, las potencialidades y el progreso del alumnado durante el curso."
+    },
+    {
+      "question": "¿Qué principio educativo se aplica al evaluar los procesos de enseñanza y la propia práctica docente?",
+      "options": [
+        "Principio de autoridad",
+        "Principio de metaevaluación",
+        "Principio de jerarquía",
+        "Principio de exclusión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de metaevaluación se aplica al evaluar los procesos de enseñanza y la propia práctica docente, permitiendo tomar decisiones fundamentadas sobre la práctica educativa."
+    },
+    {
+      "question": "¿Qué característica de la evaluación implica que debe ser rigurosa y fundamentada?",
+      "options": [
+        "Debe ser arbitraria",
+        "Debe ser rigurosa basándose en evidencias y datos objetivos",
+        "Debe ser subjetiva sin criterios",
+        "Debe ser improvisada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser rigurosa, basándose en evidencias y datos objetivos que permitan formar juicios fundamentados y tomar decisiones educativas adecuadas."
+    },
+    {
+      "question": "¿Qué característica implica que la evaluación debe respetar principios éticos?",
+      "options": [
+        "Puede ser discriminatoria",
+        "Debe ser ética, justa y respetuosa con el alumnado",
+        "Puede violar la confidencialidad",
+        "Puede utilizarse para fines punitivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser ética, es decir, justa y respetuosa con el alumnado, respetando su dignidad y derechos, y utilizándose para mejorar el aprendizaje."
+    },
+    {
+      "question": "¿Qué característica implica que la evaluación debe estar alineada con los objetivos y metodología?",
+      "options": [
+        "Puede ser incoherente con la enseñanza",
+        "Debe ser coherente con los objetivos, contenidos y metodología de enseñanza",
+        "Puede evaluar aspectos no trabajados",
+        "Debe centrarse solo en memorización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser coherente con los objetivos, contenidos y metodología de enseñanza, evaluando aquello que realmente se ha trabajado en el proceso educativo."
+    },
+    {
+      "question": "¿Qué característica de la evaluación permite que sus aprendizajes se apliquen en otros contextos?",
+      "options": [
+        "Debe ser específica de un contexto único",
+        "Debe ser transferible, aplicable a otros contextos y situaciones",
+        "Debe limitarse al aula exclusivamente",
+        "Debe ser aislada sin conexión con la vida real"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser transferible, es decir, los aprendizajes evaluados deben ser aplicables a otros contextos y situaciones, no limitándose al ámbito escolar."
+    },
+    {
+      "question": "¿Qué característica implica que la evaluación debe ser relevante para el aprendizaje del alumnado?",
+      "options": [
+        "Puede evaluar aspectos irrelevantes",
+        "Debe ser significativa, evaluando aspectos importantes para el aprendizaje",
+        "Debe centrarse en detalles triviales",
+        "Puede ser arbitraria en sus contenidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser significativa, evaluando aspectos importantes y relevantes para el aprendizaje del alumnado, no centrándose en detalles triviales o irrelevantes."
+    },
+    {
+      "question": "¿Qué característica implica que la evaluación debe utilizar diferentes métodos e instrumentos?",
+      "options": [
+        "Debe usar un único método siempre",
+        "Debe ser diversificada utilizando diferentes métodos e instrumentos",
+        "Debe limitarse a exámenes escritos",
+        "Debe ser uniforme para todos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser diversificada, utilizando diferentes métodos e instrumentos para obtener una visión completa del aprendizaje del alumnado desde múltiples perspectivas."
+    },
+    {
+      "question": "¿Qué característica implica que la evaluación debe considerar aspectos no solo cuantitativos?",
+      "options": [
+        "Debe ser únicamente numérica",
+        "Debe ser cualitativa considerando aspectos no solo cuantitativos",
+        "Debe centrarse solo en calificaciones",
+        "Debe evitar descripciones y comentarios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser cualitativa, considerando aspectos no solo cuantitativos (calificaciones numéricas) sino también cualitativos (procesos, actitudes, esfuerzo, progreso)."
+    },
+    {
+      "question": "¿Qué característica de la evaluación permite identificar necesidades y dificultades?",
+      "options": [
+        "Solo debe calificar",
+        "Debe ser diagnóstica identificando necesidades y dificultades para orientar el apoyo",
+        "Solo debe sancionar errores",
+        "Debe limitarse a clasificar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación debe ser diagnóstica, identificando necesidades y dificultades del alumnado para poder orientar el apoyo educativo necesario y tomar decisiones informadas."
+    },
+    {
+      "question": "¿Qué línea de actuación del PROA+ se centra en apoyar al alumnado con dificultades para el aprendizaje?",
+      "options": [
+        "Primera línea - condiciones de educabilidad",
+        "Segunda línea - apoyo al alumnado con dificultades",
+        "Tercera línea - actitudes positivas",
+        "Cuarta línea - CC con dificultades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La segunda línea de actuación del PROA+ se centra en apoyar al alumnado con dificultades para el aprendizaje, proporcionando recursos y estrategias específicas."
+    },
+    {
+      "question": "¿Qué línea de actuación del PROA+ se centra en desarrollar actitudes positivas en el centro?",
+      "options": [
+        "Primera línea",
+        "Segunda línea",
+        "Tercera línea - desarrollar actitudes positivas",
+        "Quinta línea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La tercera línea de actuación del PROA+ se centra en desarrollar actitudes positivas en el centro, fomentando un clima escolar favorable para el aprendizaje."
+    },
+    {
+      "question": "¿Qué línea del PROA+ mejora el proceso de enseñanza-aprendizaje en las CC que presenten más dificultades?",
+      "options": [
+        "Segunda línea",
+        "Tercera línea",
+        "Cuarta línea - mejorar proceso en CC con dificultades",
+        "Primera línea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La cuarta línea de actuación del PROA+ se centra en mejorar el proceso de enseñanza-aprendizaje en las competencias clave que presenten más dificultades en el centro."
+    },
+    {
+      "question": "¿Qué línea del PROA+ aplica nuevas formas de organización y gestión para mejorar el éxito educativo?",
+      "options": [
+        "Primera línea",
+        "Tercera línea",
+        "Cuarta línea",
+        "Quinta línea - nuevas formas de organización y gestión"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La quinta línea de actuación del PROA+ aplica nuevas formas de organización y gestión del centro para mejorar el éxito educativo de todo el alumnado."
+    },
+    {
+      "question": "¿Qué línea del PIE genera un clima de seguridad, respeto y confianza en el centro?",
+      "options": [
+        "Reforzar la inclusión educativa",
+        "Impulsar la igualdad",
+        "Mejorar la convivencia generando clima de seguridad y respeto",
+        "Promoción del bienestar emocional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La línea de mejorar la convivencia del PIE incluye acciones que generen un clima de seguridad, respeto y confianza en el centro educativo."
+    },
+    {
+      "question": "¿Qué línea del PIE incluye intervenciones para avanzar en la educación emocional como eje transversal?",
+      "options": [
+        "Reforzar la inclusión",
+        "Impulsar la igualdad",
+        "Mejorar la convivencia",
+        "Promoción del bienestar emocional con educación emocional transversal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La línea de promoción del bienestar emocional del PIE incluye intervenciones para avanzar en la educación emocional, viéndola como un eje transversal del currículo."
+    },
+    {
+      "question": "¿Qué modalidad de Innova-Lab es obligatoria elegir del primer bloque?",
+      "options": [
+        "Inter-Lab o Sosti-Lab",
+        "Una de las dos: Mat-Lab o Leo-Lab",
+        "Art-Lab obligatoriamente",
+        "Todas las del primer bloque"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros deben elegir obligatoriamente una modalidad del primer bloque, siendo Mat-Lab (matemáticas) o Leo-Lab (competencia lectora)."
+    },
+    {
+      "question": "¿Son obligatorias las modalidades del segundo bloque de Innova-Lab?",
+      "options": [
+        "Sí, todas son obligatorias",
+        "No, son de elección voluntaria",
+        "Solo Inter-Lab es obligatoria",
+        "Solo Sosti-Lab es obligatoria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las modalidades del segundo bloque de Innova-Lab (Inter-Lab, Sosti-Lab y Art-Lab) son de elección voluntaria para los centros, pudiendo participar en ninguna, una o varias."
+    },
+    {
+      "question": "¿Quién coordina al equipo docente en las sesiones de evaluación?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios",
+        "El tutor del grupo",
+        "El orientador del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tutor del grupo coordina al equipo docente en las sesiones de evaluación, preside dichas sesiones y es responsable de elaborar y firmar las actas de evaluación de su grupo."
+    },
+    {
+      "question": "¿Cuándo se entregan a las familias las actas de evaluación?",
+      "options": [
+        "Solo al finalizar la etapa",
+        "Al final del periodo lectivo de cada curso",
+        "Solo al cambiar de centro",
+        "Solo cuando lo soliciten"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actas de evaluación se entregan a las familias al final del periodo lectivo (cada curso), mientras que el historial académico se entrega solo al finalizar la etapa."
+    },
+    {
+      "question": "¿Qué incluye el informe final de ciclo además del grado de adquisición de las CC?",
+      "options": [
+        "Solo las calificaciones finales",
+        "Las medidas de refuerzo a prever en el ciclo o etapa siguiente",
+        "Únicamente las faltas de asistencia",
+        "Solo las medidas disciplinarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El informe final de ciclo refleja el grado de adquisición de las competencias clave y las medidas de refuerzo a prever en el ciclo o etapa siguiente, asegurando la continuidad educativa."
+    },
+    {
+      "question": "¿Qué contiene el informe personal por traslado además de los resultados de evaluación?",
+      "options": [
+        "Solo las calificaciones numéricas",
+        "Las medidas curriculares y organizativas aplicadas y todas las observaciones necesarias",
+        "Únicamente datos personales del alumno",
+        "Solo la fecha de traslado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El informe personal por traslado contiene los resultados de las evaluaciones realizadas, las medidas curriculares y organizativas que se hayan aplicado y todas las observaciones que se consideren necesarias para garantizar la continuidad educativa."
+    },
+    {
+      "question": "¿Qué debe incluir el expediente académico sobre el alumno?",
+      "options": [
+        "Solo las calificaciones finales",
+        "Datos de identificación, resultados de evaluación, decisiones de promoción, medidas de apoyo y adaptaciones curriculares",
+        "Únicamente datos personales",
+        "Solo información disciplinaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El expediente académico engloba los datos de identificación del centro y del alumno, los resultados de la evaluación de las áreas o ámbitos, las decisiones de promoción de etapa, las medidas de apoyo educativo y las adaptaciones curriculares pertinentes."
+    },
+    {
+      "question": "¿Qué información recoge el historial académico sobre cambios de centro?",
+      "options": [
+        "No recoge información sobre cambios de centro",
+        "La información relativa a los cambios de centro y las fechas en que se hayan producido",
+        "Solo el centro actual",
+        "Únicamente el primer centro de escolarización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El historial académico recoge la información relativa a los cambios de centro y las fechas en que se hayan producido, además de los datos académicos del alumno a lo largo de la etapa."
+    },
+    {
+      "question": "¿En qué curso del segundo ciclo de primaria NO se toman decisiones de promoción?",
+      "options": [
+        "En 3º de primaria",
+        "En 4º de primaria",
+        "En ambos cursos se toman decisiones",
+        "En ninguno de los dos cursos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En 3º de primaria la promoción es automática. Las decisiones de promoción se toman solo en los últimos cursos de cada ciclo (2º, 4º y 6º), mientras que en 1º, 3º y 5º la promoción es automática."
+    },
+    {
+      "question": "¿Qué debe elaborar el equipo docente cuando un alumno no promociona?",
+      "options": [
+        "Solo un informe negativo",
+        "Un plan específico de refuerzo para atender y superar las dificultades",
+        "Un expediente sancionador",
+        "Nada, simplemente repite el curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando un alumno no promociona, el equipo docente coordinado por el tutor debe organizar un plan específico de refuerzo para atender y superar las dificultades que llevaron a la repetición y adquirir las competencias clave."
+    },
+    {
+      "question": "¿Qué se diseña para un alumno que promociona con áreas suspensas?",
+      "options": [
+        "Un plan específico de refuerzo",
+        "Un plan de apoyo para el siguiente curso",
+        "Una adaptación curricular significativa",
+        "Un programa de enriquecimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando un alumno promocione con alguna área suspensa, se le diseñará un plan de apoyo para el siguiente curso con el fin de alcanzar los objetivos y aprendizajes no superados."
+    },
+    {
+      "question": "¿Cuándo debe realizarse el seguimiento del plan específico de refuerzo?",
+      "options": [
+        "Solo al final del curso",
+        "En cada sesión de evaluación con el fin de proponer ajustes",
+        "Una vez al año",
+        "Solo si la familia lo solicita"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El seguimiento del plan específico de refuerzo se realiza en cada sesión de evaluación con el fin de proponer ajustes de mejora y asegurar que se están atendiendo las necesidades del alumnado."
+    },
+    {
+      "question": "¿Qué debe incluir el plan específico de refuerzo sobre las estrategias?",
+      "options": [
+        "Solo las calificaciones previas",
+        "Las estrategias metodológicas que se utilizarán en su desarrollo y los recursos necesarios",
+        "Únicamente las sanciones aplicables",
+        "Solo los objetivos generales de etapa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El plan específico de refuerzo debe incluir las estrategias metodológicas que se utilizarán en su desarrollo y los recursos necesarios para atender las necesidades identificadas del alumnado."
+    },
+    {
+      "question": "¿Qué debe incluir el plan específico de refuerzo sobre medidas extraordinarias?",
+      "options": [
+        "No puede incluir medidas extraordinarias",
+        "La oferta de medidas extraordinarias si son necesarias",
+        "Solo medidas ordinarias",
+        "Únicamente refuerzo educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El plan específico de refuerzo debe incluir la oferta de medidas extraordinarias si son necesarias para atender adecuadamente las necesidades del alumnado que no promociona."
+    },
+    {
+      "question": "¿Qué debe incluir el plan específico de refuerzo sobre la información a la familia?",
+      "options": [
+        "No es necesario informar a la familia",
+        "La acreditación de la información a la familia",
+        "Solo informar si la familia lo solicita",
+        "Informar solo al finalizar el curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El plan específico de refuerzo debe incluir la acreditación de la información a la familia, garantizando su derecho a estar informada y participar en la educación de sus hijos."
+    },
+    {
+      "question": "¿Qué artículo regula la flexibilización de la duración del período de escolarización?",
+      "options": [
+        "Artículo 50 de la Orden de 8 de septiembre",
+        "Artículo 58 de la Orden de 8 de septiembre",
+        "Artículo 24 de la Orden de 26 de mayo",
+        "Artículo 22 del Decreto 155/2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 58 de la Orden de 8 de septiembre de 2021 regula la flexibilización de la duración del período de escolarización tanto por reducción (Altas Capacidades) como por ampliación (NEE)."
+    },
+    {
+      "question": "¿Para qué tipo de alumnado se aplica la flexibilización por reducción?",
+      "options": [
+        "Alumnado con NEE",
+        "Alumnado con Altas Capacidades Intelectuales",
+        "Alumnado con dificultades de aprendizaje",
+        "Todo el alumnado por igual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La flexibilización por reducción de un curso escolar se aplica para el alumnado con Altas Capacidades Intelectuales, permitiendo acelerar su itinerario educativo."
+    },
+    {
+      "question": "¿Para qué tipo de alumnado se aplica la flexibilización por ampliación?",
+      "options": [
+        "Alumnado con Altas Capacidades",
+        "Alumnado con Necesidades Educativas Especiales",
+        "Todo el alumnado que suspenda",
+        "Alumnado extranjero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La flexibilización por ampliación de un curso escolar se aplica para el alumnado con Necesidades Educativas Especiales (NEE), permitiendo un curso adicional de escolarización."
+    },
+    {
+      "question": "¿En qué curso del tercer ciclo se puede realizar la ampliación del período de escolarización?",
+      "options": [
+        "En 5º de primaria",
+        "En 6º de primaria",
+        "Solo en el segundo curso del tercer ciclo (6º) agotada la medida de repetición",
+        "En ambos cursos indistintamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La ampliación del período de escolarización solo se realiza en el segundo curso del tercer ciclo (6º de primaria) y únicamente cuando se ha agotado la medida excepcional de repetición dentro de la etapa."
+    },
+    {
+      "question": "¿Qué edad máxima debe tener el alumnado el año natural en que comienza el curso para poder aplicar la ampliación?",
+      "options": [
+        "No superar los 12 años",
+        "No superar los 13 años",
+        "No superar los 14 años",
+        "No superar los 15 años cumplidos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para aplicar la ampliación, el alumnado no debe superar los 15 años de edad cumplidos el año natural en que comienza el curso."
+    },
+    {
+      "question": "¿Qué convocatorias anuales desarrolla la Consellería para dar respuesta a las necesidades del alumnado?",
+      "options": [
+        "Solo PROA+",
+        "PROA+, Proyectos de Inclusión Educativa (PIE) e Innova-Lab",
+        "Únicamente Innova-Lab",
+        "Solo evaluación de diagnóstico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Consellería desarrolla convocatorias anuales como PROA+, Proyectos de Inclusión Educativa (PIE) e Innova-Lab, entre otras, para dar respuesta a las necesidades de todo el alumnado."
+    },
+    {
+      "question": "¿Qué documento debe elaborar el tutor para alumnos que finalizan 6º de primaria?",
+      "options": [
+        "Solo el informe final de ciclo",
+        "El informe de final de etapa (que puede sustituir al informe final de ciclo)",
+        "Únicamente las actas de evaluación",
+        "Solo el historial académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el último curso del tercer ciclo (6º de primaria), el tutor elabora el informe de final de etapa, que puede sustituir al informe final de ciclo y recoge el grado de desarrollo de las competencias clave al finalizar la etapa."
+    },
+    {
+      "question": "¿Qué función de la evaluación permite conocer quiénes son y qué sabe el alumnado?",
+      "options": [
+        "Función de información continua",
+        "Función de identificación",
+        "Función orientadora",
+        "Función motivadora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La función de identificación de la evaluación permite conocer quiénes son y qué sabe el alumnado al inicio del proceso educativo."
+    }
+  ]
+}

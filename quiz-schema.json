@@ -46,7 +46,7 @@
       "type": "array",
       "description": "Array of question objects",
       "minItems": 1,
-      "maxItems": 50,
+      "maxItems": 300,
       "items": {
         "$ref": "#/definitions/question"
       }

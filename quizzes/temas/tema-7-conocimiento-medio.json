@@ -1,0 +1,2109 @@
+{
+  "title": "Tema 7: Conocimiento del Medio Natural, Social y Cultural",
+  "description": "Quiz completo sobre el área de Conocimiento del Medio Natural, Social y Cultural en Educación Primaria: marco legislativo, enfoque, características, metodologías, competencias clave, objetivos, contenidos, criterios de evaluación y relación con otras áreas según el Decreto 155/2022.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué ley orgánica es el marco legislativo principal del tema sobre el área de Conocimiento del Medio?",
+      "options": [
+        "Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)",
+        "Ley Orgánica 2/2006, de 3 de mayo (LOE)",
+        "Ley Orgánica 8/2013, de 9 de diciembre (LOMCE)",
+        "Ley Orgánica 1/1990, de 3 de octubre (LOGSE)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema se desarrolla en el marco legislativo de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOMLOE)."
+    },
+    {
+      "question": "¿Qué decreto autonómico establece la ordenación y el currículo de la educación primaria en Galicia?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 374/1996, de 17 de octubre",
+        "Decreto 79/2010, de 20 de mayo",
+        "Decreto 229/2011, de 7 de diciembre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "Según el artículo 9 del Decreto 155/2022, ¿cómo se recogen las CCNN y las CCSS?",
+      "options": [
+        "Como dos disciplinas académicas interdependientes con objetivos, contenidos y criterios diferenciados",
+        "Como un área única e integrada sin diferenciación",
+        "Como áreas optativas dentro del currículo",
+        "Como contenidos transversales sin objetivos específicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 9 del Decreto 155/2022 establece que estas dos áreas se recogen como dos disciplinas académicas interdependientes con sus objetivos de área, bloques de contenidos, criterios de evaluación y distribución horaria diferenciadas."
+    },
+    {
+      "question": "¿Qué artículos permiten agrupar las CCNN y CCSS en el ámbito de Conocimiento del Medio?",
+      "options": [
+        "Artículo 12 del Decreto 155/2022 y artículo 4 de la Orden de 26 de mayo de 2023",
+        "Artículo 9 del Decreto 155/2022 y artículo 6 de la LOMLOE",
+        "Artículo 16 del Decreto 155/2022 y artículo 3 de la Orden",
+        "Artículo 7 del Decreto 155/2022 y artículo 8 de la LOMLOE"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 12 del Decreto 155/2022 y el artículo 4 de la Orden de 26 de mayo de 2023 establecen que los centros pueden agrupar las áreas en ámbitos, siendo el Conocimiento del Medio el ámbito resultante de agrupar CCNN y CCSS."
+    },
+    {
+      "question": "Según González et al. (2015), ¿qué favorecen las actividades científicas?",
+      "options": [
+        "La capacidad para resolver problemas, la socialización y la motivación",
+        "El desarrollo físico, la coordinación y el equilibrio",
+        "La comprensión lectora, la escritura y el cálculo",
+        "La expresión artística, la creatividad y la imaginación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Conforme con González et al. (2015), las actividades científicas son beneficiosas pues favorecen la capacidad para resolver problemas, la socialización y la motivación."
+    },
+    {
+      "question": "¿Cuál es el fin de la Educación Primaria según el artículo 4 del Decreto 155/2022?",
+      "options": [
+        "Facilitar aprendizajes de expresión oral, lectura, escritura, cálculo y nociones culturales para una formación integral",
+        "Preparar exclusivamente para aprobar exámenes de acceso a secundaria",
+        "Desarrollar únicamente las habilidades matemáticas y lingüísticas",
+        "Fomentar la competitividad y el rendimiento académico individual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece que el fin de la EP es facilitar al alumnado los aprendizajes de la expresión y comprensión oral, la lectura, la escritura, el cálculo, las habilidades lógicas y matemáticas, la adquisición de nociones básicas de la cultura y el hábito de convivencia para garantizar una formación integral."
+    },
+    {
+      "question": "¿Qué tipo de enfoque adoptan las CCNN y las CCSS según el currículo de EP?",
+      "options": [
+        "Un enfoque fundamentalmente competencial con carácter transversal, dinámico e integral",
+        "Un enfoque memorístico basado en contenidos teóricos",
+        "Un enfoque exclusivamente procedimental sin teoría",
+        "Un enfoque tradicional basado en la transmisión de conocimientos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las CCNN y las CCSS adoptan un enfoque fundamentalmente competencial que se caracteriza por su transversalidad, dinamismo y carácter integral, ya que el currículo de la EP se organiza en base al desarrollo de las competencias clave."
+    },
+    {
+      "question": "¿Cómo se define el concepto de 'medio' en el área de Conocimiento del Medio?",
+      "options": [
+        "El conjunto de elementos, factores y procesos donde ocurre la vida y acción de las personas, con carácter dinámico",
+        "Únicamente el espacio físico donde transcurre la vida humana",
+        "El entorno natural sin considerar la intervención humana",
+        "El contexto social y cultural sin incluir elementos naturales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El medio abarca el conjunto de elementos, factores y procesos de diversa índole que ocurren en el entorno de las personas y donde tiene lugar la vida y acción de las personas. Además, posee un carácter dinámico, ya que está en continua transformación como consecuencia de la actividad humana."
+    },
+    {
+      "question": "Según el Anexo II epígrafe 1 del Decreto 155/2022, ¿cuál es el objetivo principal de las CCNN?",
+      "options": [
+        "Que los discentes sean personas activas, responsables y respetuosas, construyendo un mundo más solidario y sostenible",
+        "Memorizar todos los conceptos científicos del currículo",
+        "Aprobar exámenes teóricos sobre ciencias naturales",
+        "Desarrollar únicamente habilidades prácticas de laboratorio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Anexo II epígrafe 1 destaca que el área de CCNN tiene por objetivo principal que los discentes lleguen a ser personas activas, responsables y respetuosas con el mundo en el que viven, adquiriendo los conocimientos esenciales del mundo natural para construir un mundo más solidario, justo, igualitario y sostenible."
+    },
+    {
+      "question": "¿Cómo se presentan las CCSS en el epígrafe 2 del Anexo II del Decreto 155/2022?",
+      "options": [
+        "Como área destinada a convertir al alumnado en ciudadanos implicados, valorando la diversidad y fomentando la democracia",
+        "Como área exclusivamente histórica y geográfica",
+        "Como área optativa para el alumnado interesado",
+        "Como área complementaria sin objetivos específicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el epígrafe 2, las CCSS se presentan como un área destinada a convertir al alumnado en ciudadanos implicados y comprometidos con el entorno para su avance y conservación; valorando la diversidad como riqueza pluricultural, fomentando la resolución pacífica de conflictos y aplicando de manera crítica la democracia."
+    },
+    {
+      "question": "¿Qué tipo de currículo presentan las CCNN y CCSS según el Decreto 155/2022?",
+      "options": [
+        "Un currículo en espiral, gradual, que evoluciona desde lo concreto hasta lo abstracto",
+        "Un currículo lineal que sigue una secuencia fija sin repeticiones",
+        "Un currículo fragmentado sin conexión entre niveles",
+        "Un currículo estático que no considera el desarrollo cognitivo del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El currículo de ambas áreas se plantea como un proceso gradual, partiendo del desarrollo cognitivo y emocional del alumnado, de la concreción de su pensamiento y evolucionando desde lo concreto hasta lo abstracto. Es decir, es un currículo en espiral."
+    },
+    {
+      "question": "¿Qué carácter tienen las CCNN y CCSS que permite a los niños construir conocimientos a partir de sus experiencias?",
+      "options": [
+        "Carácter vivencial",
+        "Carácter teórico",
+        "Carácter memorístico",
+        "Carácter abstracto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las CCNN y las CCSS presentan un carácter vivencial que permite a los niños construir conocimientos sobre la realidad a partir de las propias experiencias y de su percepción del mundo."
+    },
+    {
+      "question": "¿Qué característica de las CCNN y CCSS facilita la convivencia y participación en la comunidad?",
+      "options": [
+        "Carácter socializador",
+        "Carácter científico",
+        "Carácter digital",
+        "Carácter emprendedor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El carácter socializador de estas áreas contribuye al desarrollo de actitudes y valores que facilitan la convivencia y la participación en la comunidad."
+    },
+    {
+      "question": "¿Qué naturaleza facilita que los discentes comprendan las relaciones entre individuo, sociedad, medio físico y social?",
+      "options": [
+        "Naturaleza integradora y globalizada",
+        "Naturaleza fragmentada y específica",
+        "Naturaleza teórica y conceptual",
+        "Naturaleza práctica y experimental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Su naturaleza integradora y globalizada facilita que los discentes comprendan las relaciones entre el individuo y la sociedad, entre el medio físico y el social, entre la naturaleza viva y la inerte, así como entre naturaleza y cultura."
+    },
+    {
+      "question": "¿En qué tipo de enfoque se sustentan las CCNN y CCSS para formar científicamente al alumnado?",
+      "options": [
+        "Enfoque científico que introduce el conocimiento científico como instrumento para interpretar el mundo",
+        "Enfoque memorístico de hechos y datos científicos",
+        "Enfoque exclusivamente experimental sin teoría",
+        "Enfoque tradicional de transmisión de conocimientos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambas áreas se sustentan en un enfoque científico proporcionando las bases de una formación científica que permita al alumno desenvolverse en una realidad cambiante, científica y tecnológica, introduciendo el conocimiento científico como un instrumento para interpretar el mundo."
+    },
+    {
+      "question": "¿Qué implica el enfoque científico en el proceso de aprendizaje de las CCNN y CCSS?",
+      "options": [
+        "Formular preguntas, construir hipótesis, observar, analizar resultados y comunicar conclusiones",
+        "Memorizar fórmulas y conceptos científicos sin experimentación",
+        "Copiar experimentos de libros sin reflexión propia",
+        "Aprender únicamente teoría sin aplicación práctica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El enfoque científico implica formular preguntas, identificar problemas, construir hipótesis, planificar actividades, observar de forma rigurosa, recoger y organizar información, analizar resultados y extraer y comunicar conclusiones."
+    },
+    {
+      "question": "¿Por qué se caracterizan las CCNN y CCSS en relación con la competencia comunicativa?",
+      "options": [
+        "Por mejorar la competencia comunicativa al exigir un vocabulario científico específico",
+        "Por reducir la necesidad de comunicación oral",
+        "Por eliminar el uso de lenguaje técnico",
+        "Por priorizar el lenguaje coloquial sobre el científico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las áreas se caracterizan por mejorar la competencia comunicativa al exigir un vocabulario científico específico de ambas áreas."
+    },
+    {
+      "question": "¿Qué característica del conocimiento científico refleja que la ciencia avanza continuamente?",
+      "options": [
+        "Dinamismo y vulnerabilidad del conocimiento científico",
+        "Estabilidad y permanencia de las teorías",
+        "Rigidez de los conceptos científicos",
+        "Inmutabilidad de los descubrimientos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una característica es el dinamismo y vulnerabilidad del conocimiento científico, pues la ciencia avanza continuamente y los descubrimientos nuevos pueden dar por erróneas o incompletas investigaciones o teorías previas."
+    },
+    {
+      "question": "¿Qué permiten trabajar las CCNN y CCSS además de los contenidos específicos?",
+      "options": [
+        "Los elementos transversales y el uso seguro, eficaz y responsable de las tecnologías",
+        "Únicamente los contenidos curriculares establecidos",
+        "Exclusivamente habilidades manuales básicas",
+        "Solamente conceptos teóricos abstractos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las áreas también permiten el trabajo de los elementos transversales y favorecen el uso seguro, eficaz y responsable de las tecnologías, a causa de la digitalización de los entornos de aprendizaje."
+    },
+    {
+      "question": "¿Qué característica de las CCNN y CCSS impulsa la realización de proyectos interdisciplinares?",
+      "options": [
+        "La promoción del espíritu emprendedor unido al desarrollo de la Competencia Digital",
+        "La limitación a contenidos específicos de cada área",
+        "La separación estricta entre disciplinas",
+        "El enfoque exclusivamente teórico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La última característica alude a la promoción del espíritu emprendedor, que unido al desarrollo de la Competencia Digital impulsa la realización de proyectos interdisciplinares."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se define el currículo?",
+      "options": [
+        "El conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación",
+        "Únicamente los contenidos que debe aprender el alumnado",
+        "Exclusivamente los objetivos y competencias de la etapa",
+        "Solamente los criterios de evaluación y calificación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El currículo se define en el artículo 6 del Decreto 155/2022 como el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de la EP."
+    },
+    {
+      "question": "¿Cómo se definen los métodos pedagógicos en el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Indicaciones para orientar al profesorado en el diseño y planificación de estrategias docentes para favorecer el aprendizaje",
+        "Normas rígidas que el profesorado debe seguir sin adaptación",
+        "Técnicas de evaluación del alumnado",
+        "Contenidos específicos de cada área curricular"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los métodos pedagógicos se definen como las indicaciones para orientar al profesorado en el diseño y en la planificación de las estrategias, los procedimientos y las acciones docentes, de manera consciente y reflexiva, con la finalidad de favorecer el aprendizaje del alumnado para lograr los objetivos y adquirir las competencias clave."
+    },
+    {
+      "question": "Según el Anexo III del Decreto 155/2022, ¿cuántas sesiones semanales de CCNN tienen los cursos 1º, 3º y 5º?",
+      "options": [
+        "Tres sesiones semanales",
+        "Dos sesiones semanales",
+        "Cuatro sesiones semanales",
+        "Cinco sesiones semanales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el Anexo III del Decreto 155/2022, 1º, 3º y 5º contarán con tres sesiones semanales de CCNN."
+    },
+    {
+      "question": "¿Cuántas sesiones semanales de CCNN tienen los cursos 2º, 4º y 6º?",
+      "options": [
+        "Dos sesiones semanales",
+        "Tres sesiones semanales",
+        "Cuatro sesiones semanales",
+        "Una sesión semanal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para CCNN, 2º, 4º y 6º cuentan con dos sesiones semanales."
+    },
+    {
+      "question": "¿Cuántas sesiones semanales de CCSS tienen 1º, 3º, 5º y 6º?",
+      "options": [
+        "Dos sesiones semanales",
+        "Tres sesiones semanales",
+        "Cuatro sesiones semanales",
+        "Una sesión semanal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para CCSS, 1º, 3º, 5º y 6º disponen de dos sesiones semanales."
+    },
+    {
+      "question": "¿Cuántas sesiones semanales de CCSS tienen 2º y 4º?",
+      "options": [
+        "Tres sesiones semanales",
+        "Dos sesiones semanales",
+        "Cuatro sesiones semanales",
+        "Una sesión semanal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para CCSS, 2º y 4º disponen de tres sesiones semanales."
+    },
+    {
+      "question": "Según el artículo 16 del Decreto 155/2022, ¿de qué tipo debe ser el enfoque metodológico?",
+      "options": [
+        "Globalizador e interdisciplinar",
+        "Fragmentado y específico",
+        "Individual y competitivo",
+        "Teórico y memorístico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 del Decreto 155/2022 establece que la metodología debe partir de un enfoque globalizador e interdisciplinar."
+    },
+    {
+      "question": "¿Qué características debe tener la metodología según el artículo 16 del Decreto 155/2022?",
+      "options": [
+        "Comunicativa, inclusiva, activa y participativa dirigida al logro de objetivos y competencias",
+        "Expositiva, selectiva, pasiva y memorística",
+        "Individual, competitiva, teórica y evaluativa",
+        "Tradicional, homogénea, directiva y rígida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La metodología debe ser comunicativa, inclusiva, activa y participativa dirigida al logro de objetivos y de las competencias clave mediante actividades que den respuesta a problemas de la vida real."
+    },
+    {
+      "question": "¿Qué debe integrar la metodología para respetar la diversidad del alumnado?",
+      "options": [
+        "Diversos métodos que respeten diferentes ritmos, estilos y necesidades, aplicando el DUA",
+        "Un único método estándar para todo el alumnado",
+        "Técnicas exclusivamente para alumnado con altas capacidades",
+        "Estrategias homogéneas sin adaptaciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La metodología debe integrar diversos métodos que respeten los diferentes ritmos, estilos, características, motivaciones y necesidades del alumnado con el fin de atender a la diversidad y la individualización, aplicando el Diseño Universal para el Aprendizaje (DUA)."
+    },
+    {
+      "question": "Según la teoría de Piaget, ¿de qué debe partir la enseñanza en las CCNN y CCSS?",
+      "options": [
+        "Del nivel psicoevolutivo del alumnado",
+        "De contenidos abstractos sin considerar el desarrollo",
+        "De conceptos teóricos avanzados desde el inicio",
+        "De conocimientos exclusivamente memorísticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Desde la teoría del desarrollo cognitivo de Piaget, es fundamental que la enseñanza parta del nivel psicoevolutivo del alumnado."
+    },
+    {
+      "question": "¿Qué tipo de aprendizaje debe promover la metodología según Ausubel?",
+      "options": [
+        "Aprendizaje significativo conectando conocimientos y experiencias nuevas",
+        "Aprendizaje memorístico de datos aislados",
+        "Aprendizaje repetitivo sin conexión con conocimientos previos",
+        "Aprendizaje mecánico basado en la repetición"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Siguiendo a Ausubel, la metodología debe promover el aprendizaje significativo conectando conocimientos y experiencias nuevas con los conocimientos previos del alumnado."
+    },
+    {
+      "question": "¿Qué debe fomentar la metodología para desarrollar la autonomía del alumnado?",
+      "options": [
+        "Que el alumnado aprenda a aprender y participe activamente en la planificación de su propio trabajo",
+        "La dependencia continua del profesorado para todas las tareas",
+        "La pasividad y recepción de conocimientos sin participación",
+        "La ejecución mecánica de instrucciones sin reflexión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La metodología debe fomentar que el alumnado aprenda a aprender y participe activamente en la planificación y toma de decisiones de su propio trabajo favoreciendo la autonomía."
+    },
+    {
+      "question": "¿Qué tipo de tareas se recomiendan para favorecer el aprendizaje competencial?",
+      "options": [
+        "Tareas integradas que permitan planificar, diseñar, proponer y comunicar soluciones con creatividad",
+        "Tareas repetitivas de copia y memorización",
+        "Tareas exclusivamente individuales sin interacción",
+        "Tareas cerradas con una única respuesta correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es recomendable trabajar mediante tareas integradas que permitan planificar, diseñar, proponer y comunicar soluciones con creatividad."
+    },
+    {
+      "question": "¿Qué espacios se recomienda combinar en la metodología de CCNN y CCSS?",
+      "options": [
+        "El aula ordinaria con espacios tipo laboratorio",
+        "Únicamente el aula tradicional",
+        "Exclusivamente espacios virtuales",
+        "Solamente espacios exteriores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es clave gestionar adecuadamente los tiempos y el espacio, por ejemplo combinando el aula ordinaria con espacios tipo laboratorio."
+    },
+    {
+      "question": "¿Qué herramientas tecnológicas se deben integrar para la investigación?",
+      "options": [
+        "Las TIC y los entornos virtuales de aprendizaje",
+        "Únicamente libros de texto tradicionales",
+        "Exclusivamente material manipulativo físico",
+        "Solamente pizarras tradicionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es importante integrar las TIC y los entornos virtuales de aprendizaje para la investigación."
+    },
+    {
+      "question": "¿Qué tipo de evaluación debe emplearse según las propuestas metodológicas?",
+      "options": [
+        "Evaluación continua y objetiva con procedimientos e instrumentos variados",
+        "Evaluación únicamente final mediante examen escrito",
+        "Evaluación subjetiva basada en impresiones",
+        "Evaluación exclusivamente cuantitativa sin retroalimentación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Todo ello junto con una evaluación continua y objetiva que emplee procedimientos e instrumentos variados."
+    },
+    {
+      "question": "¿Qué actividades diarias se recomiendan para desarrollar competencias científicas?",
+      "options": [
+        "Lectura y oratoria para comprender enunciados y fomentar el espíritu crítico",
+        "Únicamente ejercicios de cálculo matemático",
+        "Exclusivamente actividades de educación física",
+        "Solamente trabajos manuales y artísticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es necesario dedicar un tiempo diario a la lectura y la oratoria para desarrollar las competencias científicas que permitan comprender enunciados y resultados de las investigaciones y fomentar el espíritu crítico."
+    },
+    {
+      "question": "¿Por qué es importante incorporar referentes femeninos en la ciencia y la historia?",
+      "options": [
+        "Para fomentar el espíritu crítico y la igualdad de género",
+        "Para cumplir exclusivamente con requisitos legales",
+        "Para reducir contenidos masculinos sin justificación",
+        "Para eliminar figuras históricas masculinas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es importante incorporar referentes femeninos en la ciencia y la historia para fomentar el espíritu crítico y promover la igualdad de género en el conocimiento científico."
+    },
+    {
+      "question": "¿Qué método se debe poner en práctica en ambas áreas CCNN y CCSS?",
+      "options": [
+        "El método científico a través de investigaciones y trabajos que potencien el pensamiento crítico",
+        "El método tradicional de transmisión de conocimientos",
+        "El método exclusivamente teórico sin experimentación",
+        "El método memorístico basado en repetición"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En ambas áreas se pondrá en práctica el método científico a través de investigaciones y trabajos que potencien el pensamiento crítico, por ejemplo, formulando preguntas e hipótesis, identificando problemas, organizando información y extrayendo conclusiones."
+    },
+    {
+      "question": "¿Qué tipo de agrupamiento se recomienda para desarrollar las investigaciones?",
+      "options": [
+        "Trabajo cooperativo en grupos heterogéneos",
+        "Trabajo exclusivamente individual",
+        "Grupos homogéneos por nivel académico",
+        "Agrupamientos competitivos por rendimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las investigaciones pueden desarrollarse con el trabajo cooperativo en grupos heterogéneos."
+    },
+    {
+      "question": "¿En qué deben basarse las tareas según las propuestas metodológicas específicas?",
+      "options": [
+        "En unidades integradas que conecten diversas áreas orientadas a una tarea final común",
+        "En contenidos fragmentados sin conexión entre áreas",
+        "En ejercicios repetitivos de cada área por separado",
+        "En actividades aisladas sin producto final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tareas deben basarse en unidades integradas que conecten diversas áreas orientadas a una tarea final común."
+    },
+    {
+      "question": "¿Por qué el Aprendizaje Basado en Proyectos es adecuado para las CCNN y CCSS?",
+      "options": [
+        "Permite realizar experimentaciones y proyectos significativos que partan del contexto del alumnado culminando en un producto final",
+        "Es más fácil de evaluar con exámenes tradicionales",
+        "Requiere menos preparación por parte del profesorado",
+        "Evita la necesidad de trabajar en equipo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Aprendizaje Basado en Proyectos es una metodología activa adecuada para estas áreas, ya que permite realizar experimentaciones y proyectos significativos que partan del contexto natural y social del alumnado y de sus centros de interés, culminando en un producto final."
+    },
+    {
+      "question": "¿En qué consiste el Aprendizaje Basado en Problemas?",
+      "options": [
+        "En buscar solución a un problema a través de tareas de investigación",
+        "En memorizar problemas y sus soluciones",
+        "En copiar resoluciones de problemas del libro",
+        "En evitar enfrentar problemas complejos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Aprendizaje Basado en Problemas es una metodología en la que se busca solución a un problema a través de tareas de investigación."
+    },
+    {
+      "question": "¿Qué combina el aprendizaje-servicio?",
+      "options": [
+        "El aprendizaje con un servicio a la comunidad, trabajando con necesidades reales del entorno",
+        "El aprendizaje teórico con exámenes prácticos",
+        "El trabajo individual con tareas de casa",
+        "La enseñanza tradicional con deberes escritos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje-servicio combina el aprendizaje con un servicio a la comunidad, de forma que los discentes trabajan con necesidades reales del entorno con la finalidad de mejorarlo."
+    },
+    {
+      "question": "¿Qué son las tareas de metacognición?",
+      "options": [
+        "Tareas que promueven habilidades para valorar la dificultad, elegir estrategias alternativas y evaluar la propia progresión",
+        "Tareas de memorización de conceptos abstractos",
+        "Tareas de copia y repetición mecánica",
+        "Tareas exclusivamente de evaluación final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para fomentar la reflexión sobre el propio aprendizaje destacan las tareas de metacognición, en las que se promueven habilidades para valorar la dificultad de las tareas, elegir estrategias alternativas y evaluar la propia progresión."
+    },
+    {
+      "question": "¿Por qué son significativas las actividades al aire libre en CCNN y CCSS?",
+      "options": [
+        "Permiten al alumnado experimentar de forma vivencial con el medio natural y social",
+        "Son más económicas que las actividades de aula",
+        "Requieren menos preparación pedagógica",
+        "Evitan la necesidad de evaluación formal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En las áreas de CCNN y CCSS son significativas las actividades al aire libre o salidas de campo que permiten al alumnado experimentar de forma vivencial con el medio natural y social; por ejemplo visitando un lugar de su localidad, observando un insecto en su hábitat o identificando la flora del entorno."
+    },
+    {
+      "question": "¿Qué rol debe adoptar el docente en estas propuestas metodológicas?",
+      "options": [
+        "Mediador y guía que selecciona situaciones de aprendizaje, proporciona recursos variados y fomenta la interacción",
+        "Transmisor único de conocimientos sin interacción",
+        "Evaluador exclusivo sin orientación durante el proceso",
+        "Observador pasivo sin intervención en el aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es fundamental que el docente adopte un rol de mediador y guía encargándose de seleccionar situaciones de aprendizaje adecuadas, proporcionar recursos variados que favorezcan la exploración y la investigación, y fomente la interacción entre compañeros ofreciendo nuevas oportunidades de aprendizaje."
+    },
+    {
+      "question": "¿Qué institución promueve proyectos de innovación relacionados con las ciencias y STEM en Galicia?",
+      "options": [
+        "La Xunta de Galicia",
+        "El Ministerio de Educación exclusivamente",
+        "La Unión Europea directamente",
+        "Las Diputaciones Provinciales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Actualmente la Xunta de Galicia promueve una diversidad de proyectos de innovación relacionados con las ciencias y las STEM para implementar en los centros educativos."
+    },
+    {
+      "question": "¿Qué proyecto de la Xunta dota a los centros de espacios creativos para el desarrollo STEM?",
+      "options": [
+        "Polos Creativos",
+        "Plan Proxecta",
+        "Escola Verde",
+        "Meteoescolas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Xunta de Galicia promueve la dotación de Polos Creativos como espacios creativos para implementar proyectos STEM en los centros educativos."
+    },
+    {
+      "question": "¿Qué modalidad de Innova-Lab se menciona en el tema?",
+      "options": [
+        "Sosti-lab",
+        "Eco-lab",
+        "Digi-lab",
+        "Bio-lab"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona los proyectos Innova-Lab en la modalidad Sosti-lab como uno de los proyectos de innovación relacionados con las ciencias."
+    },
+    {
+      "question": "¿Dentro de qué plan se encuentran programas como Veo Veo Xacobeo y Escola Verde polo Clima?",
+      "options": [
+        "Plan Proxecta",
+        "Plan de Innovación Educativa",
+        "Plan de Calidad Educativa",
+        "Plan Digital"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dentro del Plan Proxecta se encuentran programas como Veo Veo Xacobeo, Escola Verde polo Clima, Mestres Gandeiros, entre otros."
+    },
+    {
+      "question": "¿Cuál de estos NO es un programa mencionado dentro del Plan Proxecta?",
+      "options": [
+        "Aulas Digitales",
+        "Galicóns",
+        "Meteoescolas",
+        "O monte vivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aulas Digitales no se menciona en el tema. Los programas mencionados son: Veo Veo Xacobeo, Escola Verde polo Clima, Mestres Gandeiros, Galicóns, Meteoescolas, O monte vivo, Paisaxe e Sustentabilidade, Protexe os animais y Recíclate con SOGAMA."
+    },
+    {
+      "question": "¿Qué concepto sustituyen las competencias clave en el currículo actual?",
+      "options": [
+        "Las competencias básicas de la LOE",
+        "Los objetivos generales de etapa",
+        "Los contenidos mínimos",
+        "Las capacidades terminales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El concepto de competencias clave sustituye a las competencias básicas de la LOE en el currículo actual."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen las competencias clave?",
+      "options": [
+        "Los desempeños imprescindibles para que el alumnado progrese con garantías de éxito en su itinerario formativo",
+        "Los conocimientos mínimos que debe memorizar el alumnado",
+        "Las habilidades exclusivamente académicas necesarias para aprobar",
+        "Los contenidos obligatorios de cada área curricular"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las competencias clave son los desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo y afrontar los principales retos y desafíos globales y locales."
+    },
+    {
+      "question": "¿En qué recomendación del Consejo de la UE se basan las competencias clave del sistema educativo?",
+      "options": [
+        "Recomendación del Consejo de la Unión Europea del 22 de mayo de 2018",
+        "Recomendación del Consejo de Europa de 2006",
+        "Recomendación del Parlamento Europeo de 2020",
+        "Recomendación de la UNESCO de 2015"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las competencias clave son la adaptación al sistema educativo de las competencias clave para el aprendizaje permanente establecidas en la Recomendación del Consejo de la Unión Europea del 22 de mayo de 2018."
+    },
+    {
+      "question": "¿Dónde aparecen recogidas las competencias clave según el Decreto 155/2022?",
+      "options": [
+        "En el perfil de salida del alumnado mediante descriptores operativos",
+        "Únicamente en los objetivos de cada área",
+        "Exclusivamente en los criterios de evaluación",
+        "Solamente en los contenidos curriculares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las competencias clave aparecen recogidas en el perfil de salida del alumnado, que define el nivel competencial esperado al completar la educación básica deducido a través de los descriptores operativos."
+    },
+    {
+      "question": "Según el artículo 16 del Decreto 155/2022, ¿cuántas competencias clave debe desarrollar cada actividad?",
+      "options": [
+        "Más de una competencia clave simultáneamente",
+        "Una única competencia clave por actividad",
+        "Todas las competencias clave en cada actividad",
+        "Ninguna específicamente, son opcionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 indica que las actividades deben favorecer el desarrollo simultáneo de más de una competencia clave, pues no puede establecerse una conexión exclusiva con una única área."
+    },
+    {
+      "question": "¿Cuántas competencias clave establece el artículo 8 del Decreto 155/2022?",
+      "options": [
+        "Ocho competencias clave",
+        "Cinco competencias clave",
+        "Siete competencias clave",
+        "Diez competencias clave"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las ciencias, al ayudar a comprender el mundo físico y social, contribuyen al desarrollo de las ocho competencias clave del artículo 8."
+    },
+    {
+      "question": "¿Con qué competencia tienen las ciencias una relación directa al interpretar el mundo físico?",
+      "options": [
+        "Competencia Matemática y en Ciencia, Tecnología e Ingeniería (STEM)",
+        "Competencia en Comunicación Lingüística (CCL)",
+        "Competencia Personal, Social y de Aprender a Aprender (CPSAA)",
+        "Competencia en Conciencia y Expresión Culturales (CCEC)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las ciencias tienen una relación directa con la Competencia Matemática y en Ciencia, Tecnología e Ingeniería (STEM), al interpretar el mundo físico a través del método científico y la indagación."
+    },
+    {
+      "question": "¿Qué aprende el alumnado mediante la Competencia STEM?",
+      "options": [
+        "A definir problemas, elaborar soluciones, analizar resultados y transformar el entorno de forma sostenible",
+        "Únicamente a memorizar fórmulas matemáticas",
+        "Exclusivamente a utilizar calculadoras y ordenadores",
+        "Solamente a leer gráficos y tablas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El alumnado aprende a definir problemas, elaborar soluciones, a analizar resultados y a transformar el entorno de forma comprometida, responsable y sostenible mediante la Competencia STEM."
+    },
+    {
+      "question": "¿Qué implica la Competencia STEM en relación con las matemáticas y la tecnología?",
+      "options": [
+        "El uso de las matemáticas y la tecnología para resolver problemas con el cálculo o interpretar gráficos, tablas o diagramas",
+        "La memorización de fórmulas sin aplicación práctica",
+        "El uso exclusivo de tecnología sin razonamiento matemático",
+        "La resolución de problemas sin apoyo tecnológico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Competencia STEM implica el uso de las matemáticas y la tecnología para resolver problemas con el cálculo o interpretar gráficos, tablas o diagramas."
+    },
+    {
+      "question": "¿Cómo contribuyen las CCNN y CCSS a la Competencia en Comunicación Lingüística?",
+      "options": [
+        "Aumentan la riqueza del vocabulario específico, exigen comprensión lectora científica y expresión oral de conclusiones",
+        "Reducen la necesidad de comunicación verbal",
+        "Eliminan el uso de lenguaje técnico complejo",
+        "Limitan la expresión oral a favor de lo escrito"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambas áreas aumentan la riqueza del vocabulario específico, exigen de comprensión lectora de enunciados científicos e información en diferentes códigos y formatos y de la expresión oral para exponer conclusiones científicas."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 79/2010, ¿en qué lengua se imparten las CCNN y CCSS en Galicia?",
+      "options": [
+        "En lengua gallega",
+        "En lengua castellana",
+        "En lengua inglesa",
+        "De forma bilingüe gallego-castellano"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al impartirse en lengua gallega según el artículo 6 del Decreto 79/2010, de 20 de mayo, para el plurilingüismo en la enseñanza no universitaria de Galicia junto con la disposición adicional primera del Decreto 155/2022, contribuyen a la Competencia Plurilingüe."
+    },
+    {
+      "question": "¿A qué competencia contribuyen las CCNN y CCSS al impartirse en gallego?",
+      "options": [
+        "Competencia Plurilingüe (CP)",
+        "Competencia en Comunicación Lingüística (CCL)",
+        "Competencia Digital (CD)",
+        "Competencia Ciudadana (CC)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al impartirse en lengua gallega según la normativa de plurilingüismo, contribuyen a la Competencia Plurilingüe (CP)."
+    },
+    {
+      "question": "¿Cómo se relacionan las ciencias con la Competencia Digital?",
+      "options": [
+        "Las investigaciones requieren búsquedas en internet, análisis de datos y presentación de resultados en soportes digitales",
+        "Únicamente mediante el uso de ordenadores en clase",
+        "Exclusivamente a través de juegos educativos digitales",
+        "Solamente con el uso de pizarras digitales interactivas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las ciencias se relacionan con la Competencia Digital, pues algunas investigaciones requieren de búsquedas de información en internet, y del análisis de datos y presentación de resultados en diferentes soportes y formatos como tablas, gráficos o diagramas, haciendo un uso crítico y responsable de la tecnología."
+    },
+    {
+      "question": "¿Qué aspecto es fundamental en el uso de la tecnología según la Competencia Digital?",
+      "options": [
+        "Hacer un uso crítico y responsable de la tecnología",
+        "Utilizar todos los dispositivos disponibles sin criterio",
+        "Maximizar el tiempo de uso de pantallas",
+        "Depender exclusivamente de herramientas digitales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es fundamental hacer un uso crítico y responsable de la tecnología en el contexto de la Competencia Digital."
+    },
+    {
+      "question": "¿Cómo se potencia la Competencia Personal, Social y de Aprender a Aprender (CPSAA)?",
+      "options": [
+        "Al trabajar en equipo, resolver problemas, aplicar técnicas de organización de información y reflexionar sobre el aprendizaje",
+        "Mediante el trabajo exclusivamente individual",
+        "A través de la competitividad entre estudiantes",
+        "Únicamente con evaluaciones estandarizadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La CPSAA se potencia al trabajar en equipo en investigaciones, resolver problemas sociales y naturales y aplicar técnicas para organizar, memorizar y recuperar la información, así como favorecen la metacognición al reflexionar sobre qué y cómo se ha aprendido."
+    },
+    {
+      "question": "¿Qué fomentan las CCNN y CCSS que contribuye a la Competencia Ciudadana?",
+      "options": [
+        "El respeto por los derechos humanos, el medio ambiente, la igualdad y el compromiso con la sostenibilidad",
+        "Únicamente el conocimiento de las normas de tráfico",
+        "Exclusivamente el patriotismo y símbolos nacionales",
+        "Solamente la participación en elecciones escolares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fomentan el respeto por los derechos humanos y el medio ambiente, la igualdad y el compromiso activo con la sostenibilidad, contribuyendo a la Competencia Ciudadana (CC)."
+    },
+    {
+      "question": "¿A través de qué actividades se desarrolla la Competencia Emprendedora?",
+      "options": [
+        "Investigaciones, proyectos y resolución de problemas que requieren tomar decisiones y transformar ideas en acciones",
+        "Únicamente mediante la creación de empresas escolares",
+        "Exclusivamente con actividades de venta de productos",
+        "Solamente a través de charlas sobre emprendimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia emprendedora (CE) se desarrolla a través de investigaciones, proyectos y resolución de problemas, que requieren tomar decisiones, evaluar el entorno y transformar ideas en acciones mediante creatividad, curiosidad, liderazgo y responsabilidad."
+    },
+    {
+      "question": "¿Qué habilidades desarrolla la Competencia Emprendedora según el tema?",
+      "options": [
+        "Creatividad, curiosidad, liderazgo y responsabilidad",
+        "Únicamente capacidad de venta y negociación",
+        "Exclusivamente gestión financiera",
+        "Solamente competitividad y ambición"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Competencia Emprendedora requiere transformar ideas en acciones mediante creatividad, curiosidad, liderazgo y responsabilidad."
+    },
+    {
+      "question": "¿Desde qué perspectiva se adquiere la Competencia en Conciencia y Expresión Culturales?",
+      "options": [
+        "Desde el conocimiento de la naturaleza y del patrimonio cultural valorándolo y contribuyendo a su conservación",
+        "Únicamente mediante clases de historia del arte",
+        "Exclusivamente a través de visitas a museos",
+        "Solamente con actividades de música y danza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Competencia en Conciencia y Expresión Culturales (CCEC) se adquiere desde el conocimiento de la naturaleza y del patrimonio cultural valorándolo, disfrutándolo y contribuyendo a su conservación."
+    },
+    {
+      "question": "¿Cuántos tipos de objetivos se pueden distinguir en la organización de las áreas académicas?",
+      "options": [
+        "Tres tipos: objetivos de desarrollo sostenible, objetivos de etapa y objetivos de área",
+        "Dos tipos: objetivos generales y específicos",
+        "Cuatro tipos: objetivos cognitivos, procedimentales, actitudinales y competenciales",
+        "Cinco tipos: objetivos a corto, medio y largo plazo, generales y específicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se pueden distinguir tres tipos de objetivos: objetivos de desarrollo sostenible de la Agenda 2030, objetivos de etapa y objetivos de área."
+    },
+    {
+      "question": "¿En qué año la ONU aprobó la Agenda 2030 con los Objetivos de Desarrollo Sostenible?",
+      "options": [
+        "2015",
+        "2018",
+        "2020",
+        "2012"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los objetivos de desarrollo sostenible de la Agenda 2030 fueron aprobados por la ONU en el 2015."
+    },
+    {
+      "question": "¿Cuál de estos ODS está estrechamente relacionado con las CCNN?",
+      "options": [
+        "ODS 13 'Acción por el Clima'",
+        "ODS 1 'Fin de la Pobreza'",
+        "ODS 10 'Reducción de las desigualdades'",
+        "ODS 12 'Producción y Consumos Responsables'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las CCNN abordan contenidos relacionados estrechamente con el ODS3 'Salud y Bienestar', ODS6 'Agua limpia y saneamiento', ODS13 'Acción por el Clima', ODS14 'Vida Submarina' y ODS 15 'Vida de ecosistemas terrestres'."
+    },
+    {
+      "question": "¿Qué ODS se relaciona específicamente con las CCNN sobre ecosistemas marinos?",
+      "options": [
+        "ODS 14 'Vida Submarina'",
+        "ODS 6 'Agua limpia y saneamiento'",
+        "ODS 13 'Acción por el Clima'",
+        "ODS 15 'Vida de ecosistemas terrestres'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ODS14 'Vida Submarina' se relaciona específicamente con contenidos sobre ecosistemas marinos en las CCNN."
+    },
+    {
+      "question": "¿Cuál de estos ODS se vincula especialmente con las CCSS?",
+      "options": [
+        "ODS 10 'Reducción de las desigualdades'",
+        "ODS 13 'Acción por el Clima'",
+        "ODS 14 'Vida Submarina'",
+        "ODS 15 'Vida de ecosistemas terrestres'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las CCSS se vinculan especialmente con el ODS1 'Fin de la Pobreza', ODS9 'Industria, Innovación e infraestructuras', ODS 10 'Reducción de las desigualdades' y ODS12 'Producción y Consumos Responsables'."
+    },
+    {
+      "question": "¿Qué ODS relacionado con las CCSS trata sobre infraestructuras y tecnología?",
+      "options": [
+        "ODS 9 'Industria, Innovación e infraestructuras'",
+        "ODS 1 'Fin de la Pobreza'",
+        "ODS 10 'Reducción de las desigualdades'",
+        "ODS 12 'Producción y Consumos Responsables'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ODS9 'Industria, Innovación e infraestructuras' se vincula especialmente con las CCSS."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen los objetivos de etapa?",
+      "options": [
+        "Los logros que se espera que alcance el alumnado al finalizar la etapa vinculados a la adquisición de las competencias clave",
+        "Los contenidos mínimos obligatorios de cada curso",
+        "Las competencias específicas de cada área curricular",
+        "Los criterios de evaluación de cada trimestre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los objetivos de etapa son los logros que se espera que alcance el alumnado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las competencias clave según el artículo 6 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Cuántos objetivos de etapa establece el artículo 7 del Decreto 155/2022 para Educación Primaria?",
+      "options": [
+        "15 objetivos",
+        "10 objetivos",
+        "12 objetivos",
+        "20 objetivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa de EP recoge un total de 15 objetivos en el artículo 7 del Decreto 155/2022, comunes a todas las áreas."
+    },
+    {
+      "question": "¿Qué objetivo de etapa se relaciona con el respeto por diferentes culturas y la no discriminación?",
+      "options": [
+        "Objetivo 'd'",
+        "Objetivo 'h'",
+        "Objetivo 'l'",
+        "Objetivo 'k'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las CCNN y las CCSS contribuyen especialmente al objetivo 'd' al abordar el respeto por las diferentes culturas, las diferencias entre las personas, la igualdad de derechos y oportunidades y la no discriminación."
+    },
+    {
+      "question": "¿Qué objetivo de etapa incluye los conocimientos de las ciencias de la naturaleza y sociales?",
+      "options": [
+        "Objetivo 'h'",
+        "Objetivo 'd'",
+        "Objetivo 'l'",
+        "Objetivo 'k'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo 'h' incluye los conocimientos fundamentales de las ciencias de la naturaleza, las ciencias sociales, la geografía, la historia y la cultura."
+    },
+    {
+      "question": "¿Qué objetivo de etapa trata sobre la valoración de los animales y comportamientos de empatía?",
+      "options": [
+        "Objetivo 'l'",
+        "Objetivo 'k'",
+        "Objetivo 'h'",
+        "Objetivo 'd'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo 'l' se relaciona con valorar a los animales más próximos y adoptar comportamientos de empatía y cuidado."
+    },
+    {
+      "question": "¿Qué objetivo de etapa está vinculado con la higiene, la salud y la aceptación del propio cuerpo?",
+      "options": [
+        "Objetivo 'k'",
+        "Objetivo 'l'",
+        "Objetivo 'h'",
+        "Objetivo 'd'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo 'k' está vinculado con la higiene y la salud y la aceptación del propio cuerpo y el de los demás."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿qué son los objetivos de área?",
+      "options": [
+        "Los desempeños que el alumnado debe desplegar en actividades asociados a los contenidos de cada área",
+        "Los contenidos mínimos que se evalúan en cada área",
+        "Las competencias transversales de todas las áreas",
+        "Los criterios de calificación específicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los objetivos de área son los desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere los aprendizajes asociados a los contenidos de cada área. Son un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos."
+    },
+    {
+      "question": "¿Con qué se corresponden los objetivos de área del Decreto 155/2022?",
+      "options": [
+        "Con las competencias específicas establecidas en el RD 157/2022",
+        "Con los objetivos generales de la LOMLOE",
+        "Con los contenidos mínimos estatales",
+        "Con los estándares de aprendizaje evaluables"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los objetivos de área se corresponden con las competencias específicas establecidas en el RD 157/2022."
+    },
+    {
+      "question": "¿Cuántos objetivos de área tiene el área de CCNN según el Decreto 155/2022?",
+      "options": [
+        "6 objetivos",
+        "5 objetivos",
+        "7 objetivos",
+        "8 objetivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los objetivos de CCNN se recogen en el Anexo II epígrafe 1.2 del Decreto 155/2022 siendo un total de 6."
+    },
+    {
+      "question": "¿Qué trata el OBJ1 de las CCNN?",
+      "options": [
+        "Exponer y dar respuesta a cuestiones científicas sencillas utilizando técnicas del pensamiento científico",
+        "Conocer el propio cuerpo y desarrollar hábitos saludables",
+        "Identificar y analizar elementos del medio natural",
+        "Utilizar dispositivos digitales de manera segura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ1 de CCNN es: Exponer y dar respuesta a cuestiones científicas sencillas, utilizando técnicas, instrumentos del pensamiento científico explicando e interpretando hechos."
+    },
+    {
+      "question": "¿Qué objetivo de CCNN trata sobre el conocimiento del cuerpo, emociones y hábitos saludables?",
+      "options": [
+        "OBJ2",
+        "OBJ1",
+        "OBJ3",
+        "OBJ4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ2 de CCNN trata: Conocer el propio cuerpo y las emociones aplicando el conocimiento científico y desarrollando hábitos saludables y lograr el bienestar físico, emocional y social."
+    },
+    {
+      "question": "¿Qué objetivo de CCNN se centra en los elementos del medio natural y su conservación?",
+      "options": [
+        "OBJ3",
+        "OBJ2",
+        "OBJ4",
+        "OBJ5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ3 de CCNN es: Identificar y analizar los elementos del medio natural para comprender su valor, conservarlos, mejorarlos y promover un uso responsable."
+    },
+    {
+      "question": "¿Qué objetivo de CCNN aborda la intervención humana y estilos de vida sostenibles?",
+      "options": [
+        "OBJ4",
+        "OBJ3",
+        "OBJ5",
+        "OBJ6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ4 de CCNN es: Identificar las causas y consecuencias de la intervención humana en el entorno, para afrontar problemas, buscar soluciones y promover estilos de vida sostenibles y respetuosos con las personas y el planeta."
+    },
+    {
+      "question": "¿Qué objetivo de CCNN trata sobre el uso de dispositivos y recursos digitales?",
+      "options": [
+        "OBJ5",
+        "OBJ4",
+        "OBJ6",
+        "OBJ1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ5 de CCNN es: Utilizar dispositivos y recursos digitales de manera segura y responsable, para buscar información, comunicarse, trabajar y crear contenido en el contexto educativo."
+    },
+    {
+      "question": "¿Qué objetivo de CCNN se enfoca en proyectos de diseño y pensamiento computacional?",
+      "options": [
+        "OBJ6",
+        "OBJ5",
+        "OBJ4",
+        "OBJ3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ6 de CCNN es: Resolver problemas a través de proyectos de diseño y del pensamiento computacional, para crear cooperativamente un producto creativo e innovador que responda a necesidades concretas."
+    },
+    {
+      "question": "¿Cuántos objetivos de área tiene el área de CCSS según el Decreto 155/2022?",
+      "options": [
+        "7 objetivos",
+        "6 objetivos",
+        "8 objetivos",
+        "5 objetivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los objetivos del área de CCSS se mencionan en el epígrafe 2.1 del Anexo II siendo un total de 7."
+    },
+    {
+      "question": "¿Qué objetivo es el primero de las CCSS?",
+      "options": [
+        "Utilizar dispositivos y recursos digitales de forma segura y responsable",
+        "Responder a cuestiones científicas sencillas",
+        "Identificar y analizar elementos del medio natural, social y cultural",
+        "Observar y entender cambios del entorno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ1 de CCSS es: Utilizar dispositivos y recursos digitales de forma segura y responsable para buscar información, comunicarse y trabajar individualmente o en equipo."
+    },
+    {
+      "question": "¿Qué objetivo de CCSS trata sobre el uso del pensamiento científico?",
+      "options": [
+        "OBJ2",
+        "OBJ1",
+        "OBJ3",
+        "OBJ4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ2 de CCSS es: Responder a cuestiones científicas sencillas, usando técnicas e instrumentos del pensamiento científico para interpretar fenómenos del medio natural, social y cultural."
+    },
+    {
+      "question": "¿Qué objetivo de CCSS trata sobre elementos del medio natural, social y cultural y uso responsable del patrimonio?",
+      "options": [
+        "OBJ3",
+        "OBJ2",
+        "OBJ4",
+        "OBJ5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ3 de CCSS es: Identificar y analizar los elementos del medio natural, social y cultural para valorar, conservar y mejorar el patrimonio con acciones para su uso responsable."
+    },
+    {
+      "question": "¿Qué objetivo de CCSS aborda las causas y consecuencias de la intervención humana?",
+      "options": [
+        "OBJ4",
+        "OBJ3",
+        "OBJ5",
+        "OBJ6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ4 de CCSS es: Identificar las causas y consecuencias de la intervención humana en el entorno, para resolver problemas y promover estilos de vida sostenibles."
+    },
+    {
+      "question": "¿Qué objetivo de CCSS se centra en observar y entender los cambios del entorno?",
+      "options": [
+        "OBJ5",
+        "OBJ4",
+        "OBJ6",
+        "OBJ7"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ5 de CCSS es: Observar y entender los cambios del entorno natural, social y cultural, analizando y valorando las relaciones entre distintos elementos y hechos."
+    },
+    {
+      "question": "¿Qué objetivo de CCSS trata sobre diversidad, igualdad de género y aspectos éticos?",
+      "options": [
+        "OBJ6",
+        "OBJ5",
+        "OBJ7",
+        "OBJ4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ6 de CCSS es: Reconocer y valorar la diversidad y la igualdad de género con empatía y respeto hacia otras culturas y reflexionando sobre aspectos éticos para favorecer el bienestar común."
+    },
+    {
+      "question": "¿Qué objetivo de CCSS se enfoca en la participación social y valores democráticos?",
+      "options": [
+        "OBJ7",
+        "OBJ6",
+        "OBJ5",
+        "OBJ4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ7 de CCSS es: Participar en la vida social de forma constructiva respetando los valores democráticos y los derechos humanos para fomentar interacciones respetuosas y resolver conflictos pacíficamente."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen los contenidos?",
+      "options": [
+        "Los conocimientos, destrezas y actitudes propios de un área necesarios para adquirir el nivel de desempeño de los criterios de evaluación",
+        "Únicamente los conocimientos teóricos que debe memorizar el alumnado",
+        "Exclusivamente las destrezas prácticas sin conocimientos teóricos",
+        "Solamente las actitudes y valores sin contenidos conceptuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los contenidos se definen en el artículo 6 como los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario para adquirir el nivel de desempeño de los criterios de evaluación y para el logro de los objetivos."
+    },
+    {
+      "question": "¿Con qué se corresponden los contenidos del Decreto 155/2022?",
+      "options": [
+        "Con los saberes básicos del RD 157/2022",
+        "Con los estándares de aprendizaje evaluables de la LOMCE",
+        "Con los contenidos mínimos de la LOE",
+        "Con los objetivos didácticos de la LOGSE"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los contenidos se corresponden con los saberes básicos del RD 157/2022 y se organizan en bloques para cada área."
+    },
+    {
+      "question": "¿En cuántos bloques de contenido se organizan las CCNN y las CCSS?",
+      "options": [
+        "4 bloques de contenido",
+        "3 bloques de contenido",
+        "5 bloques de contenido",
+        "6 bloques de contenido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las CCSS y las CCNN se organizan en 4 bloques de contenido, desarrollados en el Anexo II del Decreto autonómico, integrando conocimientos, actitudes y destrezas."
+    },
+    {
+      "question": "¿Qué integran los bloques de contenido según el Decreto 155/2022?",
+      "options": [
+        "Conocimientos, actitudes y destrezas",
+        "Únicamente conocimientos conceptuales",
+        "Exclusivamente procedimientos prácticos",
+        "Solamente actitudes y valores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los bloques de contenido integran conocimientos, actitudes y destrezas."
+    },
+    {
+      "question": "¿Qué busca proporcionar el bloque 1 (Cultura científica) de las CCNN?",
+      "options": [
+        "Estrategias y destrezas propias del pensamiento científico",
+        "Conocimientos sobre el cuerpo humano",
+        "Conceptos de física y química",
+        "Habilidades tecnológicas y digitales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Respecto al área de CCNN, el bloque 1 (cultura científica) busca proporcionar estrategias y destrezas propias del pensamiento científico."
+    },
+    {
+      "question": "¿Qué contenidos introduce el bloque 2 (La vida en nuestro planeta) de las CCNN?",
+      "options": [
+        "Contenidos sobre el funcionamiento del cuerpo humano y su cuidado",
+        "Fenómenos físicos y químicos",
+        "Herramientas digitales y pensamiento computacional",
+        "Estrategias del pensamiento científico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El bloque 2 (la vida en nuestro planeta) introduce contenidos sobre el funcionamiento del cuerpo humano y su cuidado."
+    },
+    {
+      "question": "¿Qué trata el bloque 3 (Materia, fuerzas y energía) de las CCNN?",
+      "options": [
+        "La experimentación de fenómenos físicos y químicos y el efecto de las fuerzas sobre los objetos",
+        "El funcionamiento del cuerpo humano",
+        "Las herramientas y recursos digitales",
+        "Las estrategias del pensamiento científico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El bloque 3 (materia, fuerzas y energía) trata la experimentación de fenómenos físicos y químicos y el efecto de las fuerzas sobre los objetos."
+    },
+    {
+      "question": "¿Qué pretende el bloque 4 (Tecnología y digitalización) de las CCNN?",
+      "options": [
+        "Habilitar al alumnado en el manejo de herramientas digitales y estrategias de pensamiento de diseño y computacional",
+        "Enseñar contenidos sobre el cuerpo humano",
+        "Experimentar con fenómenos físicos y químicos",
+        "Proporcionar estrategias del pensamiento científico general"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El bloque 4 (tecnología y digitalización) pretende habilitar al alumnado en el manejo de herramientas y recursos digitales y de estrategias propias del pensamiento de diseño y computacional para resolver problemas."
+    },
+    {
+      "question": "¿Qué aborda el bloque 1 (Ciencia y tecnología) de las CCSS?",
+      "options": [
+        "El pensamiento científico",
+        "El mundo y el desarrollo sostenible",
+        "Vivir en sociedad",
+        "Lecciones del pasado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El bloque 1 (ciencia y tecnología) de las ciencias sociales aborda el pensamiento científico."
+    },
+    {
+      "question": "¿Qué ayuda a conocer el bloque 2 (El mundo y el desarrollo sostenible) de las CCSS?",
+      "options": [
+        "Las interacciones entre las actividades humanas y el medio natural y social y su impacto ambiental",
+        "El pensamiento científico y sus estrategias",
+        "El contexto social de manera cívica y democrática",
+        "La realidad histórica y el pasado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El bloque 2 (el mundo y el desarrollo sostenible) ayuda a conocer las interacciones entre las actividades humanas y el medio natural y social y su impacto ambiental."
+    },
+    {
+      "question": "¿Qué aborda el bloque 3 (Vivir en sociedad) de las CCSS?",
+      "options": [
+        "El contexto social de una manera cívica, democrática, sostenible y comprometida",
+        "Las interacciones entre actividades humanas y medio ambiente",
+        "La realidad histórica y sus lecciones",
+        "El pensamiento científico aplicado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El bloque 3 (vivir en sociedad) aborda el contexto social de una manera cívica, democrática, sostenible y comprometida."
+    },
+    {
+      "question": "¿Con qué fin expone el bloque 4 (Lecciones del pasado) de las CCSS la realidad histórica?",
+      "options": [
+        "Para obtener una comprensión más global del presente",
+        "Para memorizar fechas y acontecimientos",
+        "Para estudiar exclusivamente personajes históricos",
+        "Para aprobar exámenes de historia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El bloque 4 (lecciones del pasado) expone la realidad histórica con el fin de obtener una comprensión más global del presente."
+    },
+    {
+      "question": "¿A través de qué se conectan los contenidos y objetivos de área?",
+      "options": [
+        "Los criterios de evaluación",
+        "Las competencias clave",
+        "Los objetivos de etapa",
+        "Los métodos pedagógicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los contenidos y los objetivos de área se conectan a través de los criterios de evaluación."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen los criterios de evaluación?",
+      "options": [
+        "Los referentes que indican los niveles de desempeño esperados en el alumnado en un momento determinado de su proceso de aprendizaje",
+        "Los instrumentos de evaluación que debe usar el profesorado",
+        "Las calificaciones numéricas del alumnado",
+        "Los contenidos mínimos exigibles para aprobar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los criterios de evaluación se definen como los referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a que se refieren los objetivos de cada área en un momento determinado de su proceso de aprendizaje."
+    },
+    {
+      "question": "¿Qué describen los criterios de evaluación?",
+      "options": [
+        "Lo que se quiere valorar y lo que el alumnado debe alcanzar, en conocimientos y competencias en cada bloque de contenido",
+        "Únicamente los contenidos teóricos que se evalúan",
+        "Exclusivamente las competencias sin conocimientos",
+        "Solamente las actitudes del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los criterios de evaluación describen lo que se quiere valorar y lo que el alumnado debe alcanzar, en conocimientos y competencias en cada bloque de contenido."
+    },
+    {
+      "question": "Entre los aspectos relevantes de los criterios de evaluación en CCNN, ¿qué se evaluará sobre proyectos e investigaciones?",
+      "options": [
+        "La realización de proyectos y pequeñas investigaciones y su presentación en informes",
+        "Únicamente la memorización de conceptos científicos",
+        "Exclusivamente la capacidad de copiar experimentos",
+        "Solamente el resultado final sin proceso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los aspectos más relevantes de los criterios de evaluación en las CCNN se evaluará la realización de proyectos y pequeñas investigaciones y su presentación en informes."
+    },
+    {
+      "question": "¿Qué se evaluará en CCNN sobre el trabajo en grupo?",
+      "options": [
+        "La capacidad de trabajo cooperativo",
+        "La competitividad entre estudiantes",
+        "El trabajo exclusivamente individual",
+        "La velocidad de ejecución de tareas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se evaluará la capacidad de trabajo cooperativo en las CCNN."
+    },
+    {
+      "question": "¿Qué conocimientos se evalúan en CCNN según los criterios?",
+      "options": [
+        "El cuerpo humano, los seres vivos, los ecosistemas y las leyes físicas",
+        "Únicamente conceptos teóricos abstractos",
+        "Exclusivamente fórmulas matemáticas",
+        "Solamente datos históricos de la ciencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se evaluará el conocimiento sobre el cuerpo humano, los seres vivos, los ecosistemas y las leyes físicas."
+    },
+    {
+      "question": "¿Qué valoración se incluye en los criterios de evaluación de CCNN?",
+      "options": [
+        "La valoración del consumo responsable y la sostenibilidad",
+        "Únicamente el conocimiento memorístico",
+        "Exclusivamente habilidades de cálculo",
+        "Solamente la expresión escrita"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se evaluará la valoración del consumo responsable y la sostenibilidad."
+    },
+    {
+      "question": "¿Qué aspecto sobre las TIC se evalúa en CCNN?",
+      "options": [
+        "El uso responsable y adecuado de las TIC para obtener, contrastar y expresar información",
+        "Únicamente la velocidad de escritura en teclado",
+        "Exclusivamente el uso de redes sociales",
+        "Solamente el tiempo de uso de dispositivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se evaluará el uso responsable y adecuado de las TIC para obtener, contrastar y expresar información."
+    },
+    {
+      "question": "¿Qué se evaluará en CCSS sobre la obtención de información?",
+      "options": [
+        "La obtención de información y el uso de las TIC",
+        "Únicamente la memorización de datos",
+        "Exclusivamente la copia de textos",
+        "Solamente la lectura rápida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En las CCSS se prestará atención a la obtención de información y el uso de las TIC."
+    },
+    {
+      "question": "¿Qué habilidad de trabajo se evalúa en CCSS?",
+      "options": [
+        "La capacidad de trabajo cooperativo",
+        "El trabajo exclusivamente individual",
+        "La competencia entre compañeros",
+        "La dependencia del profesorado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se evaluará la capacidad de trabajo cooperativo en CCSS."
+    },
+    {
+      "question": "¿Qué destreza temporal se evalúa en CCSS?",
+      "options": [
+        "La destreza para localizar eventos históricos",
+        "Únicamente el conocimiento de fechas actuales",
+        "Exclusivamente la medición del tiempo",
+        "Solamente el uso del reloj"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se evaluará la destreza para localizar eventos históricos en CCSS."
+    },
+    {
+      "question": "¿Qué actitud hacia las diferencias se evalúa en CCSS?",
+      "options": [
+        "El respeto a la diversidad",
+        "La indiferencia hacia otras culturas",
+        "La uniformidad de pensamiento",
+        "La eliminación de diferencias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se evaluará el respeto a la diversidad en CCSS."
+    },
+    {
+      "question": "¿Qué aptitud sobre fenómenos ambientales se evalúa en CCSS?",
+      "options": [
+        "La aptitud para explicar el cambio climático",
+        "Únicamente el conocimiento de fenómenos locales",
+        "Exclusivamente datos meteorológicos",
+        "Solamente predicciones del tiempo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se evaluará la aptitud para explicar el cambio climático en CCSS."
+    },
+    {
+      "question": "¿Qué conocimiento territorial se evalúa en CCSS?",
+      "options": [
+        "La comprensión de la organización territorial y política de España",
+        "Únicamente la memorización de capitales",
+        "Exclusivamente la geografía física",
+        "Solamente los ríos y montañas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se evaluará la comprensión de la organización territorial y política de España en CCSS."
+    },
+    {
+      "question": "Según el artículo 3 del Decreto 155/2022, ¿cómo se organiza la Educación Primaria?",
+      "options": [
+        "En áreas con un carácter global e integrador",
+        "En asignaturas independientes y fragmentadas",
+        "En disciplinas especializadas sin conexión",
+        "En materias optativas sin estructura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 3 del Decreto 155/2022 establece que la EP se organiza en áreas con un carácter global e integrador."
+    },
+    {
+      "question": "¿Qué es importante para desarrollar las competencias clave según la relación entre áreas?",
+      "options": [
+        "Que los contenidos de las áreas se interrelacionen, fomentando la interdisciplinariedad",
+        "Que cada área trabaje de forma totalmente aislada",
+        "Que se priorice una única área sobre las demás",
+        "Que se eliminen las conexiones entre contenidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para desarrollar las competencias clave es importante que los contenidos de las áreas se interrelacionen, fomentando la interdisciplinariedad y conocimiento global de la realidad."
+    },
+    {
+      "question": "¿Con qué áreas se vinculan las CCNN y CCSS en relación con el lenguaje?",
+      "options": [
+        "Lengua Castellana y Literatura y Lengua Gallega y Literatura",
+        "Únicamente Lengua Extranjera",
+        "Exclusivamente Educación Artística",
+        "Solamente Matemáticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Comenzando por el área de Lengua Castellana y Literatura y de Lengua Gallega y Literatura, el lenguaje es la base de todo proceso de aprendizaje."
+    },
+    {
+      "question": "¿Por qué el lenguaje es importante para las ciencias?",
+      "options": [
+        "Porque se construye el pensamiento y el conocimiento, y permite comprender los contenidos científicos",
+        "Únicamente para escribir informes",
+        "Exclusivamente para leer libros de texto",
+        "Solamente para aprobar exámenes escritos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El lenguaje es la base de todo proceso de aprendizaje, pues se construye el pensamiento y el conocimiento. Una adecuada comprensión lectora y expresión oral y escrita permiten comprender los contenidos científicos."
+    },
+    {
+      "question": "¿Qué actividades lingüísticas relacionan las ciencias con las áreas de lengua?",
+      "options": [
+        "Entrevistas, comprensión de textos, exposiciones orales, grabación de podcasts y elaboración de informes",
+        "Únicamente la lectura silenciosa",
+        "Exclusivamente ejercicios de gramática",
+        "Solamente dictados y copias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Actividades de entrevistas, comprensión de diferentes tipos de textos, las exposiciones orales de resultados, la grabación de podcasts o la elaboración de informes, ayudan a entender y comprender el entorno desde diferentes ámbitos."
+    },
+    {
+      "question": "¿Qué se puede realizar en Lengua Extranjera relacionado con las ciencias?",
+      "options": [
+        "Proyectos con otros centros para explorar la multiculturalidad",
+        "Únicamente traducción de textos científicos",
+        "Exclusivamente vocabulario científico en inglés",
+        "Solamente ejercicios de gramática extranjera"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En Lengua Extranjera se pueden realizar proyectos con otros centros y exploren la multiculturalidad."
+    },
+    {
+      "question": "¿Cómo se integran los aprendizajes de Matemáticas con las ciencias?",
+      "options": [
+        "Mediante el lenguaje matemático, el cálculo, unidades de medidas, tratamiento estadístico y la interpretación de tablas y gráficos",
+        "Únicamente con operaciones aritméticas básicas",
+        "Exclusivamente mediante geometría",
+        "Solamente con problemas de cálculo mental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los aprendizajes de Matemáticas se integran con las ciencias mediante el uso del lenguaje matemático, el cálculo, las unidades de medidas, el tratamiento estadístico de datos y la interpretación de tablas y gráficos, favoreciendo la resolución de problemas del mundo natural y social."
+    },
+    {
+      "question": "¿Qué contenidos relacionados se abordan conjuntamente en Educación Física y las ciencias?",
+      "options": [
+        "Conocimiento y funcionamiento del cuerpo, hábitos saludables, movimiento por el espacio, coordinación, orientación y educación vial",
+        "Únicamente deportes y juegos",
+        "Exclusivamente ejercicios de gimnasia",
+        "Solamente competiciones deportivas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el área de Educación Física se abordan conjuntamente contenidos relacionados con el conocimiento y funcionamiento del cuerpo, de hábitos saludables, el movimiento por el espacio, la coordinación, la orientación, el esquema corporal o temas de educación vial."
+    },
+    {
+      "question": "¿En qué dos áreas se desglosa Educación Artística en Galicia?",
+      "options": [
+        "Educación Plástica y Visual y Música y Danza",
+        "Dibujo y Pintura",
+        "Arte y Cultura",
+        "Expresión y Creatividad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Respecto al área de Educación Artística, desglosada en Galicia en Educación Plástica y Visual y Música y Danza, favorecen el uso del lenguaje plástico y musical."
+    },
+    {
+      "question": "¿Cómo contribuye Educación Artística a las ciencias?",
+      "options": [
+        "Complementando la información científica con lenguaje plástico y musical, y promoviendo el respeto por las culturas",
+        "Únicamente decorando los trabajos científicos",
+        "Exclusivamente mediante dibujos técnicos",
+        "Solamente con canciones sobre temas científicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Educación Artística favorece el uso del lenguaje plástico y musical para complementar la información científica y promueven la valoración y el respeto por las culturas a través de las manifestaciones artísticas."
+    },
+    {
+      "question": "¿En qué se centra el área de Proyecto Competencial?",
+      "options": [
+        "En la realización de proyectos significativos y la resolución colaborativa de problemas",
+        "Únicamente en trabajos individuales",
+        "Exclusivamente en exámenes teóricos",
+        "Solamente en tareas de memorización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El área de Proyecto Competencial se centra en la realización de proyectos significativos y la resolución colaborativa de problemas, lo que refuerza el método científico y el conocimiento de pasos de una investigación."
+    },
+    {
+      "question": "¿Qué área se añade en 6º de EP según el Decreto 155/2022?",
+      "options": [
+        "Educación en Valores Cívicos y Éticos",
+        "Segunda Lengua Extranjera",
+        "Tecnología",
+        "Filosofía para Niños"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En 6º de EP se añade el área de Educación en Valores Cívicos y Éticos."
+    },
+    {
+      "question": "¿Cuál es el vínculo de Educación en Valores Cívicos y Éticos con las ciencias?",
+      "options": [
+        "Conocer, entender e integrar las diferentes culturas y costumbres sociales para la convivencia pacífica y democrática",
+        "Únicamente estudiar normas de comportamiento",
+        "Exclusivamente memorizar derechos y deberes",
+        "Solamente aprender leyes y códigos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El vínculo de Educación en Valores Cívicos y Éticos con las ciencias reside en conocer, entender e integrar las diferentes culturas y costumbres sociales para la convivencia pacífica y democrática."
+    },
+    {
+      "question": "Según el artículo 17 del Decreto 155/2022, ¿qué son los elementos transversales?",
+      "options": [
+        "Contenidos que deben abordarse en todas las áreas",
+        "Temas optativos para algunas áreas",
+        "Contenidos exclusivos de un área específica",
+        "Objetivos que solo se trabajan en tutorías"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17 del Decreto 155/2022 establece los elementos transversales, que deben abordarse en todas las áreas."
+    },
+    {
+      "question": "¿Cuál de estos es un elemento transversal mencionado en el tema?",
+      "options": [
+        "La comprensión lectora",
+        "Las matemáticas avanzadas",
+        "La historia del arte",
+        "La geografía física"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Algunos elementos transversales son: la comprensión lectora, la expresión oral y escrita, la Competencia Digital, la comunicación audiovisual, entre otros."
+    },
+    {
+      "question": "¿Cuál de estos NO se menciona como elemento transversal en el artículo 17?",
+      "options": [
+        "La competencia matemática exclusiva",
+        "La expresión oral y escrita",
+        "La Competencia Digital",
+        "La comunicación audiovisual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los elementos transversales mencionados son: la comprensión lectora, la expresión oral y escrita, la CD, la comunicación audiovisual, la creatividad, el espíritu científico, el consumo responsable y el desarrollo sostenible, la educación para la salud, la justicia, la igualdad, la democracia y el respeto por los derechos humanos."
+    },
+    {
+      "question": "¿Qué elemento transversal se relaciona con la innovación científica?",
+      "options": [
+        "El espíritu científico",
+        "La expresión oral",
+        "La educación vial",
+        "La organización escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El espíritu científico es uno de los elementos transversales que debe abordarse en todas las áreas."
+    },
+    {
+      "question": "¿Qué elemento transversal se vincula directamente con la sostenibilidad?",
+      "options": [
+        "El consumo responsable y el desarrollo sostenible",
+        "La expresión oral y escrita",
+        "La competencia digital",
+        "La creatividad artística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El consumo responsable y el desarrollo sostenible son elementos transversales que deben abordarse en todas las áreas."
+    },
+    {
+      "question": "¿Qué tipo de elemento transversal se centra en el bienestar y prevención?",
+      "options": [
+        "La educación para la salud",
+        "La comprensión lectora",
+        "La competencia digital",
+        "La creatividad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación para la salud es uno de los elementos transversales que debe abordarse en todas las áreas."
+    },
+    {
+      "question": "¿Qué valor democrático se menciona como elemento transversal?",
+      "options": [
+        "La justicia y la igualdad",
+        "La competitividad",
+        "La jerarquía",
+        "La uniformidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La justicia, la igualdad, la democracia y el respeto por los derechos humanos son elementos transversales."
+    },
+    {
+      "question": "Según la conclusión del tema, ¿cómo son actualmente las CCNN y CCSS?",
+      "options": [
+        "Dos áreas independientes pero estrechamente relacionadas",
+        "Una única área sin diferenciación",
+        "Dos áreas completamente separadas sin conexión",
+        "Áreas optativas sin relación curricular"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A modo de conclusión, cabe destacar las CCNN y las CCSS como dos áreas, actualmente, independientes pero estrechamente relacionadas."
+    },
+    {
+      "question": "¿Qué fin común persiguen las CCNN y CCSS según la conclusión?",
+      "options": [
+        "Comprender el entorno natural y social desde una actitud crítica y reflexiva",
+        "Memorizar datos y conceptos científicos",
+        "Aprobar exámenes de acceso a secundaria",
+        "Desarrollar únicamente habilidades prácticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "De forma conjunta, persiguen un mismo fin: comprender el entorno natural y social desde una actitud crítica y reflexiva, fomentando valores de responsabilidad, igualdad y respeto."
+    },
+    {
+      "question": "¿Qué valores fomentan las CCNN y CCSS según la conclusión?",
+      "options": [
+        "Responsabilidad, igualdad y respeto por el medio y las diversas culturas",
+        "Competitividad, individualismo y rendimiento",
+        "Memorización, obediencia y pasividad",
+        "Uniformidad, conformidad y tradicionalismo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fomentan valores de responsabilidad, igualdad y respeto por el medio y las diversas culturas, esenciales para el ejercicio activo de la ciudadanía."
+    },
+    {
+      "question": "¿Desde qué enfoque deben abordarse las CCNN y CCSS en las aulas según la conclusión?",
+      "options": [
+        "Desde un enfoque global, integrador e interdisciplinar, orientado al desarrollo de las competencias clave",
+        "Desde un enfoque fragmentado y específico de cada área",
+        "Desde un enfoque memorístico y tradicional",
+        "Desde un enfoque exclusivamente teórico sin práctica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En las aulas estas áreas deben abordarse desde un enfoque global, integrador e interdisciplinar, orientado al desarrollo de las competencias clave."
+    },
+    {
+      "question": "¿De qué deben partir las actividades en CCNN y CCSS según la conclusión?",
+      "options": [
+        "Del conocimiento del entorno a través de investigaciones sobre aspectos científicos de la realidad próxima del alumnado",
+        "De conceptos abstractos sin conexión con la realidad",
+        "De ejercicios repetitivos del libro de texto",
+        "De teorías científicas avanzadas sin aplicación práctica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades deben partir del conocimiento del entorno a través de investigaciones sobre aspectos científicos de la realidad próxima del alumnado."
+    },
+    {
+      "question": "¿Qué es esencial que haga el alumnado según la conclusión?",
+      "options": [
+        "Que observen, perciban, manipulen y vivencien los aprendizajes con autonomía, motivación e iniciativa",
+        "Que memoricen pasivamente los contenidos",
+        "Que copien sin reflexión de libros de texto",
+        "Que dependan continuamente del profesorado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es esencial que observen, perciban, manipulen y, por tanto, vivencien los aprendizajes con autonomía, motivación e iniciativa."
+    },
+    {
+      "question": "Según la conclusión, ¿hacia qué debe orientarse la intervención en ambas áreas?",
+      "options": [
+        "Al logro de los objetivos de etapa y de área, así como los ODS de la Agenda 2030",
+        "Únicamente a aprobar exámenes",
+        "Exclusivamente a cumplir programaciones",
+        "Solamente a completar el libro de texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La intervención en ambas áreas debe orientarse al logro de los objetivos, de etapa y de área, así como los ODS de la Agenda 2030."
+    },
+    {
+      "question": "¿Qué se debe tomar como referencia en la intervención educativa según la conclusión?",
+      "options": [
+        "Los contenidos del currículo",
+        "Únicamente los intereses del profesorado",
+        "Exclusivamente libros de texto comerciales",
+        "Solamente exámenes estandarizados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se debe tomar como referencia los contenidos del currículo en la intervención educativa."
+    },
+    {
+      "question": "¿A través de qué se mide el desempeño del alumnado según la conclusión?",
+      "options": [
+        "Los criterios de evaluación",
+        "Únicamente exámenes escritos",
+        "Exclusivamente la observación informal",
+        "Solamente la nota final del curso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se debe medir el desempeño a través de los criterios de evaluación."
+    },
+    {
+      "question": "¿Qué se destaca como importante para atender a todas las necesidades del alumnado?",
+      "options": [
+        "El Diseño Universal para el Aprendizaje (DUA)",
+        "Un único método de enseñanza estandarizado",
+        "La separación del alumnado por niveles",
+        "La eliminación de adaptaciones curriculares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se destaca la importancia del DUA para atender a todas las necesidades del alumnado y garantizar su accesibilidad al aprendizaje."
+    },
+    {
+      "question": "¿Qué fin de la educación se menciona en la conclusión?",
+      "options": [
+        "Garantizar una educación de calidad que favorezca el pleno desarrollo de la personalidad y capacidades del alumnado",
+        "Preparar únicamente para el mercado laboral",
+        "Conseguir las mejores calificaciones numéricas",
+        "Formar trabajadores obedientes y disciplinados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Uno de los fines de la educación es garantizar una educación de calidad que favorezca el pleno desarrollo de la personalidad y las capacidades del alumnado."
+    },
+    {
+      "question": "¿Quiénes son los autores de 'Didáctica de las ciencias naturales en Educación Primaria' citado en la bibliografía?",
+      "options": [
+        "González, D., Cuetos, M.J. y Serna, A.I.",
+        "Liceras, A. y Romero, G.",
+        "Veglia, S.",
+        "Piaget, J. y Ausubel, D."
+      ],
+      "correctAnswer": 0,
+      "explanation": "González, D., Cuetos, M.J. y Serna, A.I. (2015). Didáctica de las ciencias naturales en Educación Primaria. La Rioja: Unir."
+    },
+    {
+      "question": "¿En qué año se publicó la obra 'Didáctica de las ciencias naturales en Educación Primaria' de González et al.?",
+      "options": [
+        "2015",
+        "2016",
+        "2009",
+        "2010"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La obra se publicó en 2015 por la editorial Unir en La Rioja."
+    },
+    {
+      "question": "¿Quiénes son los autores de 'Didácticas de las Ciencias Sociales'?",
+      "options": [
+        "Liceras, A. y Romero, G.",
+        "González, D., Cuetos, M.J. y Serna, A.I.",
+        "Veglia, S.",
+        "Ausubel, D. y Bruner, J."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Liceras, A. y Romero. G. (2016). Didácticas de las Ciencias Sociales. Madrid: Pirámide."
+    },
+    {
+      "question": "¿En qué ciudad se publicó 'Didácticas de las Ciencias Sociales' de Liceras y Romero?",
+      "options": [
+        "Madrid",
+        "Barcelona",
+        "La Rioja",
+        "Valencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La obra se publicó en Madrid por la editorial Pirámide en 2016."
+    },
+    {
+      "question": "¿Quién es el autor de 'Ciencias naturales y aprendizaje significativo'?",
+      "options": [
+        "Veglia, S.",
+        "González, D.",
+        "Liceras, A.",
+        "Piaget, J."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Veglia, S. (2009). Ciencias naturales y aprendizaje significativo. Editorial CEP."
+    },
+    {
+      "question": "¿Qué editorial publicó 'Ciencias naturales y aprendizaje significativo'?",
+      "options": [
+        "Editorial CEP",
+        "Unir",
+        "Pirámide",
+        "Santillana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La obra de Veglia fue publicada por Editorial CEP en 2009."
+    },
+    {
+      "question": "¿Qué Decreto regula el plurilingüismo en la enseñanza no universitaria de Galicia?",
+      "options": [
+        "Decreto 79/2010, de 20 de mayo",
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 374/1996, de 17 de octubre",
+        "Decreto 229/2011, de 7 de diciembre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 79/2010, de 20 de mayo, regula el plurilingüismo en la enseñanza no universitaria de Galicia."
+    },
+    {
+      "question": "¿En qué número del Diario Oficial de Galicia se publicó el Decreto 79/2010?",
+      "options": [
+        "97, de 25 de mayo de 2010",
+        "183, de 26 de septiembre de 2022",
+        "111, de 13 de junio de 2023",
+        "52, de 2 de marzo de 2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 79/2010 se publicó en el Diario Oficial de Galicia, 97, de 25 de mayo de 2010."
+    },
+    {
+      "question": "¿En qué número del DOG se publicó el Decreto 155/2022?",
+      "options": [
+        "183, de 26 de septiembre de 2022",
+        "97, de 25 de mayo de 2010",
+        "111, de 13 de junio de 2023",
+        "340, de 30 de diciembre de 2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 se publicó en el Diario Oficial de Galicia, 183, de 26 de septiembre de 2022."
+    },
+    {
+      "question": "¿En qué año se publicó la Ley Orgánica 3/2020 (LOMLOE) en el BOE?",
+      "options": [
+        "2020",
+        "2022",
+        "2023",
+        "2018"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Ley Orgánica 3/2020, de 29 de diciembre, se publicó en el Boletín Oficial del Estado, 340, de 30 de diciembre de 2020."
+    },
+    {
+      "question": "¿Qué Real Decreto establece las enseñanzas mínimas de la Educación Primaria a nivel estatal?",
+      "options": [
+        "Real Decreto 157/2022, de 1 de marzo",
+        "Real Decreto 126/2014, de 28 de febrero",
+        "Real Decreto 1513/2006, de 7 de diciembre",
+        "Real Decreto 696/1995, de 28 de abril"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria."
+    },
+    {
+      "question": "¿En qué número del BOE se publicó el Real Decreto 157/2022?",
+      "options": [
+        "52, de 2 de marzo de 2022",
+        "340, de 30 de diciembre de 2020",
+        "183, de 26 de septiembre de 2022",
+        "111, de 13 de junio de 2023"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022 se publicó en el Boletín Oficial del Estado, 52, de 2 de marzo de 2022."
+    },
+    {
+      "question": "¿Qué Orden desarrolla el Decreto 155/2022 y regula la evaluación en Educación Primaria?",
+      "options": [
+        "Orden de 26 de mayo de 2023",
+        "Orden de 22 de julio de 1997",
+        "Orden de 15 de septiembre de 2022",
+        "Orden de 1 de marzo de 2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022 y regula la evaluación en Educación Primaria en Galicia."
+    },
+    {
+      "question": "¿En qué número del DOG se publicó la Orden de 26 de mayo de 2023?",
+      "options": [
+        "111, de 13 de junio de 2023",
+        "183, de 26 de septiembre de 2022",
+        "97, de 25 de mayo de 2010",
+        "340, de 30 de diciembre de 2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 se publicó en el Diario Oficial de Galicia, 111, de 13 de junio de 2023."
+    },
+    {
+      "question": "¿Qué página web oficial se menciona para información de la Xunta de Galicia?",
+      "options": [
+        "https://www.edu.xunta.gal",
+        "https://www.xunta.es",
+        "https://www.educacion.gal",
+        "https://www.galicia.gal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La página web oficial mencionada es https://www.edu.xunta.gal para información educativa de la Xunta de Galicia."
+    },
+    {
+      "question": "¿Qué página web oficial del Ministerio se menciona en la bibliografía?",
+      "options": [
+        "https://www.educacionyfp.gob.es",
+        "https://www.mec.es",
+        "https://www.educacion.es",
+        "https://www.mecd.gob.es"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La página web oficial mencionada es https://www.educacionyfp.gob.es para información del Ministerio de Educación y Formación Profesional."
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre las CCNN y CCSS respecto a los ODS?",
+      "options": [
+        "Las CCNN se centran en ODS ambientales y de salud, mientras las CCSS en ODS sociales y económicos",
+        "Ambas áreas trabajan exactamente los mismos ODS",
+        "Las CCNN no trabajan ningún ODS",
+        "Las CCSS solo trabajan ODS ambientales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las CCNN abordan ODS relacionados con salud, agua, clima y ecosistemas (ODS 3, 6, 13, 14, 15), mientras que las CCSS se vinculan con pobreza, industria, desigualdades y consumo responsable (ODS 1, 9, 10, 12)."
+    },
+    {
+      "question": "¿Qué tienen en común todos los objetivos de área de CCNN y CCSS?",
+      "options": [
+        "Todos promueven el pensamiento científico, el uso responsable de recursos y el compromiso con el entorno",
+        "Todos se centran únicamente en memorización de contenidos",
+        "Todos son exclusivamente teóricos sin aplicación práctica",
+        "Todos evitan el uso de tecnología digital"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Todos los objetivos de área de CCNN y CCSS promueven el pensamiento científico, el uso responsable de recursos digitales, el compromiso con el entorno y el desarrollo de proyectos y soluciones creativas."
+    },
+    {
+      "question": "¿Qué relación existe entre el perfil de salida, los criterios de evaluación y los contenidos?",
+      "options": [
+        "Los objetivos de área conectan estos tres elementos",
+        "No existe ninguna relación entre ellos",
+        "Son elementos completamente independientes",
+        "Solo los contenidos se relacionan con la evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los objetivos de área son un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos según el artículo 6 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué característica común tienen los bloques de contenido de CCNN y CCSS?",
+      "options": [
+        "Ambos incluyen un bloque sobre pensamiento científico y tecnología",
+        "Tienen bloques completamente diferentes sin conexión",
+        "Solo CCNN tiene bloques sobre ciencia",
+        "Solo CCSS tiene bloques sobre tecnología"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tanto CCNN (bloque 1: Cultura científica y bloque 4: Tecnología y digitalización) como CCSS (bloque 1: Ciencia y tecnología) incluyen contenidos sobre pensamiento científico y uso de tecnología."
+    },
+    {
+      "question": "¿Qué aspecto es común en los criterios de evaluación de ambas áreas CCNN y CCSS?",
+      "options": [
+        "La realización de proyectos, el trabajo cooperativo y el uso responsable de las TIC",
+        "Únicamente la memorización de conceptos",
+        "Exclusivamente exámenes escritos individuales",
+        "Solamente la evaluación de conocimientos teóricos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En ambas áreas se evalúa la realización de proyectos e investigaciones, la capacidad de trabajo cooperativo y el uso responsable y adecuado de las TIC."
+    },
+    {
+      "question": "¿Qué metodología es común y adecuada para ambas áreas científicas?",
+      "options": [
+        "El Aprendizaje Basado en Proyectos y el Aprendizaje Basado en Problemas",
+        "La clase magistral tradicional sin interacción",
+        "La memorización pasiva de contenidos",
+        "Los exámenes continuos sin proyectos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Aprendizaje Basado en Proyectos y el Aprendizaje Basado en Problemas son metodologías activas adecuadas para ambas áreas, ya que permiten investigaciones significativas y solución de problemas reales."
+    },
+    {
+      "question": "¿Qué competencias clave desarrollan principalmente las CCNN y CCSS de forma conjunta?",
+      "options": [
+        "STEM, CCL, CD, CPSAA, CC, CE y CCEC",
+        "Únicamente la Competencia STEM",
+        "Solo la Competencia en Comunicación Lingüística",
+        "Exclusivamente la Competencia Digital"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las CCNN y CCSS contribuyen al desarrollo de múltiples competencias clave: STEM, CCL (Comunicación Lingüística), CP (Plurilingüe), CD (Digital), CPSAA (Personal, Social y Aprender a Aprender), CC (Ciudadana), CE (Emprendedora) y CCEC (Conciencia y Expresión Culturales)."
+    },
+    {
+      "question": "¿Qué papel tiene el alumnado en las metodologías propuestas para CCNN y CCSS?",
+      "options": [
+        "Activo, autónomo, participativo en la planificación y toma de decisiones de su aprendizaje",
+        "Pasivo, receptor de información sin participación",
+        "Dependiente continuo del profesorado",
+        "Memorístico sin reflexión ni creatividad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La metodología debe fomentar que el alumnado aprenda a aprender y participe activamente en la planificación y toma de decisiones de su propio trabajo favoreciendo la autonomía, con un papel activo en investigaciones y proyectos."
+    },
+    {
+      "question": "¿Qué papel tiene el docente en las metodologías de CCNN y CCSS?",
+      "options": [
+        "Mediador y guía que selecciona situaciones de aprendizaje, proporciona recursos y fomenta la interacción",
+        "Transmisor único de conocimientos sin interacción",
+        "Evaluador exclusivo sin orientación durante el proceso",
+        "Observador pasivo sin intervención"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es fundamental que el docente adopte un rol de mediador y guía encargándose de seleccionar situaciones de aprendizaje adecuadas, proporcionar recursos variados que favorezcan la exploración y la investigación, y fomente la interacción entre compañeros."
+    },
+    {
+      "question": "¿Qué caracteriza al currículo en espiral de las CCNN y CCSS?",
+      "options": [
+        "Un proceso gradual que parte del desarrollo cognitivo del alumnado y evoluciona de lo concreto a lo abstracto",
+        "Una secuencia lineal sin repetición de contenidos",
+        "Un programa rígido que no considera el desarrollo del alumnado",
+        "Una estructura fragmentada sin progresión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El currículo en espiral se plantea como un proceso gradual, partiendo del desarrollo cognitivo y emocional del alumnado, de la concreción de su pensamiento y evolucionando desde lo concreto hasta lo abstracto."
+    },
+    {
+      "question": "¿Qué relación existe entre las características de las CCNN y CCSS y su enfoque?",
+      "options": [
+        "Todas las características (vivencial, socializador, integrador, científico) derivan del enfoque competencial y global",
+        "Las características y el enfoque son elementos independientes",
+        "El enfoque no influye en las características",
+        "Solo algunas características se relacionan con el enfoque"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Todas las características mencionadas (carácter vivencial, socializador, integrador, científico, dinámico, transversal y emprendedor) derivan y se fundamentan en el enfoque fundamentalmente competencial, transversal, dinámico e integral que adoptan las áreas."
+    },
+    {
+      "question": "¿Qué importancia tiene la interdisciplinariedad en las CCNN y CCSS?",
+      "options": [
+        "Es fundamental para desarrollar las competencias clave y comprensión global de la realidad",
+        "Es irrelevante, cada área debe trabajar aislada",
+        "Solo es importante en algunos cursos",
+        "Es opcional según el criterio del docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para desarrollar las competencias clave es importante que los contenidos de las áreas se interrelacionen, fomentando la interdisciplinariedad y conocimiento global de la realidad. Las áreas científicas se vinculan estrechamente con todas las demás áreas del currículo."
+    },
+    {
+      "question": "¿Qué equilibrio debe existir en la evaluación de las CCNN y CCSS?",
+      "options": [
+        "Equilibrio entre conocimientos, competencias, procedimientos de investigación, trabajo cooperativo y uso de TIC",
+        "Evaluación únicamente de conocimientos teóricos",
+        "Evaluación exclusivamente de procedimientos prácticos",
+        "Evaluación solo de actitudes sin conocimientos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los criterios de evaluación contemplan múltiples aspectos: conocimientos (cuerpo humano, ecosistemas, leyes físicas, geografía, historia), competencias (trabajo cooperativo, pensamiento científico), procedimientos (realización de proyectos, investigaciones) y uso responsable de TIC."
+    },
+    {
+      "question": "¿Qué relación existe entre los elementos transversales y las CCNN y CCSS?",
+      "options": [
+        "Los elementos transversales se trabajan especialmente bien en estas áreas por su naturaleza interdisciplinar",
+        "Los elementos transversales no se relacionan con las ciencias",
+        "Solo algunas áreas trabajan elementos transversales",
+        "Las CCNN y CCSS no abordan elementos transversales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las CCNN y CCSS permiten trabajar especialmente bien los elementos transversales como comprensión lectora, expresión oral y escrita, competencia digital, espíritu científico, consumo responsable, desarrollo sostenible, educación para la salud, igualdad y respeto por derechos humanos."
+    },
+    {
+      "question": "¿Qué coherencia existe entre la normativa estatal y autonómica en el tema?",
+      "options": [
+        "El Decreto 155/2022 de Galicia desarrolla y adapta el RD 157/2022 estatal respetando las enseñanzas mínimas",
+        "Son normativas completamente independientes sin relación",
+        "La normativa autonómica contradice la estatal",
+        "Solo se aplica la normativa estatal sin adaptación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 de la Comunidad Autónoma de Galicia desarrolla y adapta al contexto gallego el Real Decreto 157/2022 estatal, respetando las enseñanzas mínimas pero permitiendo flexibilidad autonómica (como la agrupación de áreas en ámbitos)."
+    },
+    {
+      "question": "¿Qué importancia tiene la Agenda 2030 en el currículo de CCNN y CCSS?",
+      "options": [
+        "Es fundamental, ya que los contenidos y objetivos se vinculan directamente con los ODS",
+        "No tiene ninguna importancia en el currículo",
+        "Solo se menciona de forma testimonial",
+        "Es opcional trabajar los ODS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Agenda 2030 y sus ODS son fundamentales en el currículo de CCNN y CCSS, ya que los contenidos de ambas áreas abordan contenidos relacionados estrechamente con diversos ODS (ODS 3, 6, 13, 14, 15 en CCNN; ODS 1, 9, 10, 12 en CCSS), orientando la intervención educativa hacia objetivos de desarrollo sostenible."
+    },
+    {
+      "question": "¿Qué síntesis se puede hacer sobre el enfoque metodológico de las CCNN y CCSS?",
+      "options": [
+        "Metodología activa, competencial, inclusiva, globalizada, que parte del nivel del alumnado y promueve investigación y autonomía",
+        "Metodología tradicional, memorística, homogénea y centrada en el docente",
+        "Metodología exclusivamente teórica sin experimentación",
+        "Metodología fragmentada sin conexión entre contenidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La metodología debe ser: activa y participativa, competencial (orientada a competencias clave), inclusiva (DUA), globalizada e interdisciplinar, partir del nivel psicoevolutivo del alumnado (Piaget), promover aprendizaje significativo (Ausubel), fomentar autonomía, usar el método científico, trabajar por proyectos y problemas, e integrar TIC con evaluación continua."
+    },
+    {
+      "question": "¿Qué visión global transmite el tema sobre las CCNN y CCSS?",
+      "options": [
+        "Áreas fundamentales para formar ciudadanos críticos, responsables y comprometidos con un futuro sostenible",
+        "Áreas secundarias del currículo sin gran importancia",
+        "Áreas exclusivamente académicas sin aplicación práctica",
+        "Áreas optativas según interés del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema transmite una visión de las CCNN y CCSS como áreas fundamentales para formar ciudadanos activos, críticos, responsables y comprometidos con el entorno, que comprendan el mundo natural y social, valoren la diversidad, respeten los derechos humanos y el medio ambiente, y trabajen por un futuro más sostenible, justo e igualitario."
+    }
+  ]
+}

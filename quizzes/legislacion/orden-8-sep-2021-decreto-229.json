@@ -1,0 +1,2219 @@
+{
+  "title": "Orden 8 septiembre 2021 - Desarrollo Decreto 229/2011 atención diversidad",
+  "description": "Preguntas sobre la orden que desarrolla el Decreto 229/2011 regulando la atención a la diversidad del alumnado en Galicia.",
+  "category": "legislacion",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según el artículo 1, ¿qué decreto desarrolla específicamente esta orden?",
+      "options": [
+        "Decreto 120/1998, de 23 de abril",
+        "Decreto 229/2011, de 7 de diciembre",
+        "Decreto 110/2020, de 6 de septiembre",
+        "Decreto 374/1996, de 17 de octubre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Esta orden tiene por objeto desarrollar el Decreto 229/2011, de 7 de diciembre, por el que se regula la atención a la diversidad del alumnado de los centros docentes de la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿En qué tipo de centros docentes es de aplicación esta orden según el artículo 2?",
+      "options": [
+        "Centros docentes no universitarios sostenidos con fondos públicos que impartan enseñanzas de régimen general",
+        "Centros docentes universitarios sostenidos con fondos públicos",
+        "Centros docentes privados que impartan enseñanzas de régimen especial",
+        "Centros docentes públicos que impartan enseñanzas de régimen especial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 2, esta orden será de aplicación en los centros docentes no universitarios sostenidos con fondos públicos que impartan enseñanzas de régimen general, así como en los centros docentes privados en todos los aspectos que no contravengan lo establecido en su legislación específica."
+    },
+    {
+      "question": "Según el artículo 3, ¿cómo se define el concepto de atención a la diversidad?",
+      "options": [
+        "El conjunto de medidas destinadas a facilitar el acceso al currículo",
+        "El conjunto de medidas y acciones que tienen como finalidad adecuar la respuesta educativa a las diferentes características y necesidades del alumnado",
+        "Las actuaciones dirigidas al alumnado con necesidades educativas especiales",
+        "Los programas específicos para alumnado en situación de vulnerabilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 3 establece que por atención a la diversidad se entiende el conjunto de medidas y acciones que tienen como finalidad adecuar la respuesta educativa a las diferentes características y necesidades, ritmos y preferencias de aprendizaje, motivaciones, intereses y situaciones sociales y culturales de todo el alumnado."
+    },
+    {
+      "question": "¿Qué deben promover los equipos directivos en relación con la atención a la diversidad según el artículo 4.1.a)?",
+      "options": [
+        "La evaluación psicopedagógica del alumnado",
+        "La promoción de los principios del diseño universal de aprendizaje",
+        "La adaptación curricular para todo el alumnado",
+        "La flexibilización de la duración de las etapas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 4.1.a), los equipos directivos garantizarán la promoción de los principios del diseño universal de aprendizaje en la atención educativa de la diversidad."
+    },
+    {
+      "question": "¿Qué debe promover la dirección del centro docente respecto al profesorado según el artículo 4.1.d)?",
+      "options": [
+        "La evaluación continua y la coordinación docente",
+        "La convivencia, la coordinación, la participación, el trabajo en equipo, la formación y la innovación en estrategias de atención a la diversidad",
+        "La elaboración de adaptaciones curriculares significativas",
+        "El seguimiento del absentismo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4.1.d) establece que los equipos directivos deben promover la convivencia, la coordinación, la participación y el trabajo en equipo, así como la formación y la innovación del profesorado en estrategias de atención a la diversidad y en la mejora continua de la calidad educativa."
+    },
+    {
+      "question": "Según el artículo 4.2.a), ¿qué debe organizar el profesorado tutor?",
+      "options": [
+        "La evaluación inicial del alumnado y participar en las propuestas de medidas y recursos necesarios",
+        "Las adaptaciones curriculares de su grupo",
+        "Los programas de enriquecimiento curricular",
+        "La escolarización del alumnado en modalidades diferentes de la ordinaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4.2.a) indica que el profesorado tutor debe organizar la evaluación inicial del alumnado y participar en las propuestas que realice la jefatura del departamento de orientación en relación con las medidas y los recursos necesarios para atender a la diversidad del alumnado de su tutoría."
+    },
+    {
+      "question": "¿Qué debe considerar el profesorado de área, materia, ámbito o módulo en su actuación según el artículo 4.3.c)?",
+      "options": [
+        "Los principios del diseño universal de aprendizaje en la atención educativa",
+        "Las medidas extraordinarias de atención a la diversidad",
+        "Los dictámenes de escolarización del alumnado",
+        "Las evaluaciones psicopedagógicas realizadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 4.3.c), el profesorado de área, materia, ámbito o módulo debe considerar los principios del diseño universal de aprendizaje en la atención educativa."
+    },
+    {
+      "question": "¿Qué deben promover los servicios de orientación educativa y profesional según el artículo 4.4.d)?",
+      "options": [
+        "La participación de las familias en el proceso de la evaluación psicopedagógica",
+        "Las medidas ordinarias de atención a la diversidad",
+        "Los programas de refuerzo educativo",
+        "La escolarización en centros de educación especial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4.4.d) establece que los servicios de orientación educativa y profesional deben promover la participación de las familias en el proceso de la evaluación psicopedagógica."
+    },
+    {
+      "question": "Según el artículo 5.1, ¿qué deben incluir los centros docentes para prestar atención a la calidad?",
+      "options": [
+        "Protocolos de atención al alumnado con necesidades educativas especiales",
+        "Indicadores que hagan posible el seguimiento, la evaluación y, en su caso, la mejora de los servicios educativos",
+        "Programas de formación permanente del profesorado",
+        "Planes de convivencia y participación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 5.1 establece que los centros docentes incluirán indicadores que hagan posible el seguimiento, la evaluación y, en su caso, la mejora de los servicios educativos que prestan."
+    },
+    {
+      "question": "¿Qué deben promover las direcciones de los centros para dar cumplimiento al artículo 5.2?",
+      "options": [
+        "El diseño y el uso de protocolos o estrategias que aseguren la coordinación y la continuidad de los diferentes procesos",
+        "La evaluación externa del alumnado",
+        "Los planes de refuerzo individualizados",
+        "Las adaptaciones curriculares significativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 5.2, las direcciones de los centros docentes, a través de las jefaturas de estudios, promoverán el diseño y el uso de protocolos o estrategias que aseguren la coordinación y la continuidad de los diferentes procesos."
+    },
+    {
+      "question": "Según el artículo 6, ¿qué se entiende por alumnado con necesidad específica de apoyo educativo conforme a la LOE?",
+      "options": [
+        "El alumnado que requiere una atención educativa diferente a la ordinaria por necesidades educativas especiales, retraso madurativo, trastornos del lenguaje, desconocimiento de la lengua, vulnerabilidad o altas capacidades",
+        "El alumnado que presenta necesidades educativas especiales derivadas de discapacidad",
+        "El alumnado en situación de vulnerabilidad socioeducativa",
+        "El alumnado con trastornos de atención o de aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6, de conformidad con el artículo 71.2 de la LOE, define alumnado con necesidad específica de apoyo educativo como aquel que requiere atención educativa diferente a la ordinaria por presentar necesidades educativas especiales, retraso madurativo, trastornos del desarrollo del lenguaje y de la comunicación, trastornos de atención o de aprendizaje, desconocimiento grave de la lengua, vulnerabilidad socioeducativa, altas capacidades, incorporación tardía al sistema educativo o condiciones personales o de historia escolar."
+    },
+    {
+      "question": "¿Cómo define el artículo 7.1 al alumnado con necesidades educativas especiales?",
+      "options": [
+        "El que presenta altas capacidades intelectuales",
+        "El que afronta barreras que limiten su acceso, presencia, participación o aprendizaje, derivadas de discapacidad o trastornos graves de conducta, comunicación y lenguaje",
+        "El que presenta trastornos de atención o de aprendizaje",
+        "El que se encuentra en situación de vulnerabilidad socioeducativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 7.1 define al alumnado con necesidades educativas especiales como el que afronta barreras que limiten su acceso, presencia, participación o aprendizaje, derivadas de discapacidad o de trastornos graves de conducta, de la comunicación y del lenguaje, por un período de su escolarización o a lo largo de toda ella."
+    },
+    {
+      "question": "Según el artículo 7.2, ¿desde cuándo debe el sistema educativo dotar de apoyo al alumnado con necesidades educativas especiales?",
+      "options": [
+        "Desde el momento de su escolarización o de la detección de su necesidad",
+        "Desde el inicio de la educación primaria",
+        "Desde el segundo ciclo de educación infantil",
+        "Desde la educación secundaria obligatoria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 7.2 establece que las administraciones educativas dotarán a este alumnado del apoyo preciso desde el momento de su escolarización o de la detección de su necesidad."
+    },
+    {
+      "question": "¿Qué tipo de alumnado se considera en situación de vulnerabilidad socioeducativa según el artículo 8.1?",
+      "options": [
+        "El que presenta necesidades educativas especiales",
+        "El que presenta desigualdades derivadas de factores sociales, familiares derivados de violencia de género, económicos, culturales, geográficos o étnicos",
+        "El que presenta trastornos del desarrollo del lenguaje",
+        "El que presenta altas capacidades intelectuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 8.1, se entiende por alumnado en situación de vulnerabilidad socioeducativa y/o cultural aquel que presenta desigualdades derivadas de factores sociales, familiares derivados de violencia de género, económicos, culturales, geográficos, étnicos o de otra índole."
+    },
+    {
+      "question": "Según el artículo 8.3, ¿qué debe evitarse en cualquier iniciativa para el alumnado en situación de vulnerabilidad?",
+      "options": [
+        "La adaptación curricular significativa",
+        "La segregación de este alumnado en el propio centro docente",
+        "La evaluación psicopedagógica previa",
+        "El refuerzo educativo en aula ordinaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 8.3 establece que cualquier iniciativa que se promueva evitará la segregación de este alumnado en el propio centro docente."
+    },
+    {
+      "question": "¿Qué cociente intelectual se considera para alumnado con alta capacidad intelectual según el artículo 9.2?",
+      "options": [
+        "Igual o superior a 120",
+        "Igual o superior a 125",
+        "Igual o superior a 130",
+        "Igual o superior a 140"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 9.2 establece que se considera alumnado con alta capacidad intelectual el que presenta una capacidad intelectual igual o superior a 130 de cociente intelectual, un alto nivel de creatividad y persistencia en las tareas de alta complejidad intelectual ligadas a sus áreas de interés."
+    },
+    {
+      "question": "¿Quién es competente para la acreditación de la alta capacidad intelectual según el artículo 9.3?",
+      "options": [
+        "El equipo docente",
+        "La dirección del centro",
+        "La jefatura del departamento de orientación, con la colaboración, en su caso, de los equipos de orientación específicos",
+        "El servicio territorial de Inspección Educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 9.3, es competencia y responsabilidad de la jefatura del departamento de orientación, con la colaboración, en su caso, de los equipos de orientación específicos, la acreditación de la alta capacidad intelectual."
+    },
+    {
+      "question": "Según el artículo 10.1, ¿cuándo presenta una alumna o un alumno necesidad específica de apoyo por incorporación tardía?",
+      "options": [
+        "Cuando procede de otros países y presenta desfase curricular",
+        "Cuando se escolariza tardíamente por cualquier motivo justificado y presenta dificultades para alcanzar los objetivos y competencias que les corresponderían por su edad",
+        "Cuando presenta desconocimiento de las lenguas oficiales",
+        "Cuando tiene historia de absentismo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 10.1 establece que una alumna o un alumno presenta necesidad específica de apoyo educativo por incorporación tardía cuando, por proceder de otros países o por cualquier otro motivo justificado, se escolarizan tardíamente en nuestro sistema educativo y presentan dificultades para alcanzar los objetivos y las competencias que les corresponderían por su edad."
+    },
+    {
+      "question": "¿Qué deben garantizar los centros docentes respecto al alumnado de incorporación tardía según el artículo 10.2?",
+      "options": [
+        "Que se escolaricen en centros de educación especial",
+        "Que la escolarización se realice atendiendo a sus circunstancias, competencias, edad e historial académico",
+        "Que cursen programas de refuerzo educativo",
+        "Que reciban apoyo del profesorado especialista"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 10.2 establece que los centros docentes garantizarán que la escolarización del alumnado que acceda de modo tardío al sistema educativo gallego se realice atendiendo a sus circunstancias, a sus competencias, a su edad y a su historial académico, de manera que se incorpore al curso más adecuado."
+    },
+    {
+      "question": "Según el artículo 11.1, ¿qué deben poner en práctica los centros docentes con finalidad preventiva?",
+      "options": [
+        "Planes específicos de refuerzo",
+        "Acciones y medidas que tengan una finalidad preventiva, incluyendo la identificación temprana de las necesidades educativas del alumnado",
+        "Programas de enriquecimiento curricular",
+        "Evaluaciones psicopedagógicas generales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 11.1 establece que los centros docentes deberán poner en práctica acciones y medidas que tengan una finalidad preventiva. Entre esas medidas debe considerarse la identificación temprana de las necesidades educativas del alumnado, con la correspondiente valoración, acreditación y respuesta educativa."
+    },
+    {
+      "question": "¿Cuándo debe iniciarse la respuesta educativa según el artículo 11.2?",
+      "options": [
+        "Al inicio del curso escolar",
+        "Después de la evaluación psicopedagógica",
+        "Desde el momento en que las necesidades sean detectadas",
+        "Al finalizar la educación infantil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 11.2 establece que la respuesta educativa que proceda se iniciará desde el momento en que dichas necesidades sean detectadas."
+    },
+    {
+      "question": "Según el artículo 11.3, ¿desde qué enfoque se realizará la detección de las necesidades educativas?",
+      "options": [
+        "Desde un enfoque pedagógico",
+        "Desde un enfoque psicológico",
+        "Desde un enfoque multidisciplinar e interinstitucional",
+        "Desde un enfoque clínico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 11.3 establece que la detección de las necesidades educativas del alumnado y la correspondiente intervención se realizarán desde un enfoque multidisciplinar e interinstitucional."
+    },
+    {
+      "question": "¿Qué deben establecer los departamentos de orientación según el artículo 11.4?",
+      "options": [
+        "Los criterios de evaluación del alumnado",
+        "Procedimientos y protocolos para la detección temprana de las necesidades educativas del alumnado",
+        "Las adaptaciones curriculares significativas",
+        "Los programas de habilidades sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 11.4, los departamentos de orientación de los centros docentes establecerán procedimientos y elaborarán protocolos y medidas para la detección temprana de las necesidades educativas del alumnado."
+    },
+    {
+      "question": "Según el artículo 12.1, ¿qué constituye la evaluación inicial como factor en la atención a la diversidad?",
+      "options": [
+        "Un factor complementario",
+        "Un factor preventivo por excelencia",
+        "Un factor organizativo",
+        "Un factor extraordinario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 12.1 establece que la evaluación inicial constituye un factor preventivo por excelencia en la atención a la diversidad, especialmente cuando se trata de alumnado con necesidad específica de apoyo educativo."
+    },
+    {
+      "question": "¿En qué momento se considera fundamental realizar la evaluación inicial según el artículo 12.2?",
+      "options": [
+        "Al inicio de cada trimestre",
+        "Al incorporarse a las enseñanzas del segundo ciclo de educación infantil y a cada etapa de la enseñanza obligatoria",
+        "Al finalizar cada curso escolar",
+        "Al inicio de la educación secundaria obligatoria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 12.2 establece que se considera fundamental la evaluación inicial de todo el alumnado que se incorpore a las enseñanzas del segundo ciclo de educación infantil y a cada etapa de la enseñanza obligatoria."
+    },
+    {
+      "question": "¿Para qué deben servir los resultados de la evaluación inicial según el artículo 12.3?",
+      "options": [
+        "Para la calificación del alumnado",
+        "Como referente para adoptar las decisiones de tipo educativo que correspondan y, en su caso, demandar evaluación psicopedagógica",
+        "Para elaborar los planes de refuerzo",
+        "Para determinar la modalidad de escolarización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 12.3, los resultados de la evaluación inicial servirán como referente para adoptar las decisiones de tipo educativo que correspondan y, en los casos en que sea necesario, para demandar de la jefatura del departamento de orientación la realización de una evaluación psicopedagógica."
+    },
+    {
+      "question": "Según el artículo 13.1, ¿cómo se define la evaluación psicopedagógica?",
+      "options": [
+        "El proceso de identificación de necesidades educativas especiales",
+        "El proceso sistematizado de recogida, análisis y valoración de la información relevante del alumnado, de su contexto escolar y sociofamiliar",
+        "El procedimiento para determinar la modalidad de escolarización",
+        "El análisis del nivel de competencia curricular del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 13.1 define la evaluación psicopedagógica como el proceso sistematizado de recogida, análisis y valoración de la información relevante del alumnado, de su contexto escolar, del entorno sociofamiliar y de los elementos que intervienen en el proceso de enseñanza y de aprendizaje."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la evaluación psicopedagógica según el artículo 13.2?",
+      "options": [
+        "Determinar el nivel académico del alumnado",
+        "La identificación y la acreditación del desarrollo personal y social, de las competencias adquiridas y de las necesidades educativas que puedan presentar",
+        "Elaborar las adaptaciones curriculares",
+        "Autorizar la escolarización en centros de educación especial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 13.2, la finalidad de la evaluación psicopedagógica es la identificación y la acreditación del desarrollo personal y social, de las competencias adquiridas y de las necesidades educativas que puedan presentar determinadas alumnas o determinados alumnos, para poder fundamentar y concretar las propuestas y las decisiones sobre la respuesta educativa."
+    },
+    {
+      "question": "¿Qué carácter debe tener la evaluación psicopedagógica según el artículo 13.3?",
+      "options": [
+        "Un carácter individual",
+        "Un carácter académico",
+        "Un carácter global y contextualizado",
+        "Un carácter específico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 13.3 establece que la evaluación psicopedagógica tendrá un carácter global y contextualizado, contribuyendo no solo a fundamentar la respuesta específica a las necesidades educativas, sino también a orientar al centro docente en la mejora de las condiciones."
+    },
+    {
+      "question": "Según el artículo 14, ¿de quién es competencia y responsabilidad la evaluación psicopedagógica?",
+      "options": [
+        "Del equipo docente",
+        "De la dirección del centro",
+        "De la jefatura del departamento de orientación del centro docente, con la colaboración, si es necesario, del equipo de orientación específico",
+        "Del profesorado tutor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 14 establece que la evaluación psicopedagógica del alumnado es competencia y responsabilidad de la jefatura del departamento de orientación del centro docente, con la colaboración y el asesoramiento, de ser necesario, del equipo de orientación específico correspondiente."
+    },
+    {
+      "question": "¿En qué situación se requiere evaluación psicopedagógica según el artículo 15.1.a)?",
+      "options": [
+        "Cuando el alumnado presenta bajo rendimiento académico",
+        "Cuando existe algún tipo de discapacidad, trastorno o circunstancia que afecte a su desarrollo general o aprendizaje, o si existen indicios de altas capacidades",
+        "Cuando el alumnado repite curso",
+        "Cuando hay problemas de convivencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 15.1.a) establece que se requiere evaluación psicopedagógica cuando existe algún tipo de discapacidad, trastorno o circunstancia que afecte a su desarrollo general, así como a su aprendizaje; igualmente, si existen indicios de altas capacidades intelectuales."
+    },
+    {
+      "question": "¿Cuándo se requiere evaluación psicopedagógica respecto a medidas extraordinarias según el artículo 15.1.c)?",
+      "options": [
+        "Cuando se apliquen medidas ordinarias",
+        "Cuando se prevé la necesidad de alguna medida extraordinaria de atención a la diversidad",
+        "Después de aplicar las medidas extraordinarias",
+        "Cuando el alumnado cambia de etapa educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 15.1.c), se requiere evaluación psicopedagógica cuando se prevé la necesidad de alguna medida extraordinaria de atención a la diversidad que requiere, previamente, esa evaluación."
+    },
+    {
+      "question": "¿Quién debe solicitar la evaluación psicopedagógica con carácter general según el artículo 16.1?",
+      "options": [
+        "La dirección del centro",
+        "El profesorado tutor",
+        "La jefatura del departamento de orientación",
+        "Las familias del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16.1 establece que, con carácter general, corresponde al profesorado tutor realizar la solicitud de evaluación psicopedagógica a la jefatura del departamento de orientación, cuando se cumpla alguna de las situaciones descritas."
+    },
+    {
+      "question": "En el caso de alumnado en proceso de admisión que requiera evaluación psicopedagógica, ¿quién debe demandarla según el artículo 16.2?",
+      "options": [
+        "El profesorado tutor del centro de procedencia",
+        "La jefatura del departamento de orientación del centro de procedencia",
+        "La dirección del centro donde solicita plaza",
+        "Las familias del alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 16.2 establece que en los casos de alumnado en proceso de admisión en un centro docente que requiera una evaluación psicopedagógica, será la dirección de dicho centro quien la demande a la jefa o al jefe del departamento de orientación."
+    },
+    {
+      "question": "Según el artículo 16.3, ¿de quién puede proceder la solicitud de evaluación psicopedagógica en determinadas circunstancias?",
+      "options": [
+        "De la Administración educativa, de la propia jefatura del departamento de orientación o de las madres, padres o personas tutoras legales",
+        "Del equipo docente",
+        "Del servicio de Inspección Educativa",
+        "De los servicios sociales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16.3 establece que en determinadas circunstancias, la solicitud o demanda de evaluación psicopedagógica puede proceder de la Administración educativa, de la propia jefatura del departamento de orientación o de las madres, de los padres o de las personas tutoras legales del alumnado."
+    },
+    {
+      "question": "¿De qué deben ser informadas las familias según el artículo 16.4?",
+      "options": [
+        "De los resultados académicos del alumnado",
+        "De la realización de la evaluación psicopedagógica, así como de su finalidad, de los resultados y de las posibles orientaciones",
+        "De las medidas ordinarias que se aplicarán",
+        "Del proceso de admisión del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16.4 establece que las madres, los padres o las personas tutoras legales del alumnado deberán ser informadas de la realización de la evaluación psicopedagógica, así como de su finalidad, de los resultados y de las posibles orientaciones o propuestas de actuación."
+    },
+    {
+      "question": "Según el artículo 17.1.a), ¿qué información se debe obtener sobre el alumno o alumna en la evaluación psicopedagógica?",
+      "options": [
+        "Datos personales, datos físicos y de salud, desarrollo personal y social, historia escolar, nivel de competencia curricular, entre otros",
+        "Datos de rendimiento académico",
+        "Datos de asistencia al centro",
+        "Datos de convivencia escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.1.a) establece que se debe obtener información sobre datos de identificación, datos físicos y de salud, desarrollo personal y social, historia escolar, nivel de competencia curricular, grado de adquisición de las competencias, potencial de aprendizaje, intereses y grado de motivación, preferencias de aprendizaje y necesidades educativas que presenta."
+    },
+    {
+      "question": "¿Qué información sobre el contexto escolar debe recogerse en la evaluación psicopedagógica según el artículo 17.1.b)?",
+      "options": [
+        "El número de alumnado por aula",
+        "Aspectos del proyecto educativo, de la organización del centro, de la línea metodológica y de la intervención educativa que inciden en el desarrollo del alumno o alumna",
+        "El horario lectivo del centro",
+        "Las instalaciones del centro docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 17.1.b) establece que debe recogerse información sobre aspectos del proyecto educativo, de la organización del centro docente, de la línea metodológica y de la intervención educativa que inciden en el desarrollo de la alumna o del alumno."
+    },
+    {
+      "question": "Según el artículo 17.3, ¿qué técnicas e instrumentos se utilizarán para realizar la evaluación psicopedagógica?",
+      "options": [
+        "Las técnicas e instrumentos propios de la orientación educativa y profesional, tales como la observación, la entrevista, los cuestionarios y las pruebas psicopedagógicas",
+        "Las pruebas estandarizadas de rendimiento académico",
+        "Los exámenes de competencias básicas",
+        "Las evaluaciones externas del sistema educativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.3 establece que para realizar la evaluación psicopedagógica se utilizarán las técnicas y los instrumentos propios de la orientación educativa y profesional, tales como la observación en diferentes contextos, la entrevista, los cuestionarios y las pruebas psicopedagógicas, así como el análisis de las producciones escolares y del expediente del alumnado."
+    },
+    {
+      "question": "¿Qué información debe aportar el equipo docente a la jefatura del departamento de orientación según el artículo 17.4?",
+      "options": [
+        "La competencia adquirida respecto del currículo de referencia, la colaboración de la familia, la interacción con compañeros, la actitud ante las propuestas de aprendizaje, el compromiso con las tareas y las medidas de atención adoptadas",
+        "Los resultados de las evaluaciones trimestrales",
+        "El número de faltas de asistencia",
+        "Los materiales didácticos utilizados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 17.4 establece que corresponde al equipo docente, coordinado por el profesorado tutor, aportar información sobre la competencia adquirida respecto del currículo de referencia, la colaboración de la familia, la interacción con las compañeras y con los compañeros, la actitud ante las propuestas de aprendizaje, el compromiso con las tareas encomendadas y las medidas de atención a la diversidad adoptadas."
+    },
+    {
+      "question": "Según el artículo 18.1, ¿cómo se inicia la evaluación psicopedagógica de alumnado escolarizado?",
+      "options": [
+        "A partir de la evaluación inicial",
+        "A partir del correspondiente protocolo de demanda",
+        "A partir del dictamen de escolarización",
+        "A partir de la solicitud de las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 18.1 establece que, con carácter general, la evaluación psicopedagógica de una alumna o de un alumno escolarizados se iniciará a partir del correspondiente protocolo de demanda."
+    },
+    {
+      "question": "¿Qué debe acreditarse en la demanda de evaluación según el artículo 18.2?",
+      "options": [
+        "La autorización del servicio de Inspección Educativa",
+        "La información a la madre, al padre o a las personas tutoras legales de la alumna o del alumno",
+        "El visto bueno de la dirección del centro",
+        "La conformidad del equipo docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 18.2 establece que en la demanda de evaluación deberá acreditarse la información a la madre, al padre o a las personas tutoras legales de la alumna o del alumno."
+    },
+    {
+      "question": "¿Cómo se solicita la intervención de los equipos de orientación específicos según el artículo 18.4?",
+      "options": [
+        "A través de la dirección del centro",
+        "Al servicio territorial de Inspección Educativa, a través del correspondiente modelo formalizado",
+        "Directamente a los equipos de orientación específicos",
+        "A través de la jefatura de estudios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 18.4 establece que la solicitud de intervención de las personas especialistas de los equipos de orientación específicos en un determinado centro docente se realizará al servicio territorial de Inspección Educativa, a través del correspondiente modelo formalizado."
+    },
+    {
+      "question": "Según el artículo 19.1, ¿quién es responsable de elaborar los protocolos de demanda de evaluación psicopedagógica?",
+      "options": [
+        "El equipo directivo",
+        "El profesorado tutor",
+        "La jefatura del departamento de orientación",
+        "El servicio de Inspección Educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 19.1 establece que la jefatura del departamento de orientación será la responsable de elaborar los protocolos necesarios para la demanda de evaluación psicopedagógica, que formarán parte del Plan general de atención a la diversidad."
+    },
+    {
+      "question": "Según el artículo 20.1, ¿qué es el informe psicopedagógico?",
+      "options": [
+        "El documento con los resultados académicos del alumnado",
+        "El documento en el que se recogen los resultados y las conclusiones de la evaluación psicopedagógica",
+        "El documento de admisión del alumnado",
+        "El protocolo de detección de necesidades educativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 20.1 establece que el informe psicopedagógico constituye el documento en el que se recogen los resultados y las conclusiones de la evaluación psicopedagógica, incluyendo la situación evolutiva y educativa del alumnado, la valoración de las necesidades educativas, las orientaciones y las propuestas necesarias."
+    },
+    {
+      "question": "¿Quién compete la elaboración del informe psicopedagógico según el artículo 20.2?",
+      "options": [
+        "Al equipo docente",
+        "A la jefatura del departamento de orientación del centro docente en el que esté matriculado el alumno o la alumna",
+        "Al servicio de Inspección Educativa",
+        "Al equipo de orientación específico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 20.2 establece que la elaboración del informe psicopedagógico compete a la jefatura del departamento de orientación del centro docente en el que esté matriculado el alumno o la alumna objeto de la evaluación psicopedagógica o, en su caso, la del centro para el que solicita plaza."
+    },
+    {
+      "question": "Según el artículo 21.1.c), ¿qué datos sobre el desarrollo general de la alumna o del alumno debe incluir el informe psicopedagógico?",
+      "options": [
+        "Datos académicos y de rendimiento",
+        "Datos relevantes de los ámbitos físico, cognitivo, emocional y social, circunstancias personales, familiares y de salud, influencia del entorno, historia escolar y medidas adoptadas, entre otros",
+        "Datos de asistencia y convivencia",
+        "Datos del proceso de admisión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 21.1.c) establece que el informe psicopedagógico debe incluir datos relevantes de los ámbitos físico, cognitivo, emocional y social; circunstancias personales, familiares y de salud de interés; influencia del entorno sociofamiliar; historia escolar; medidas adoptadas; competencia curricular y grado de adquisición de las competencias; ritmo y preferencia de aprendizaje; potencialidades, motivación, intereses; aspectos de creatividad; adaptación socioafectiva, autoconcepto y autoestima; y actitud ante el trabajo escolar."
+    },
+    {
+      "question": "¿Cuándo debe incluir el informe psicopedagógico la propuesta de escolarización según el artículo 21.2?",
+      "options": [
+        "En todos los informes psicopedagógicos",
+        "Cuando el informe psicopedagógico forme parte de un dictamen de escolarización",
+        "Cuando el alumnado presente necesidades educativas especiales",
+        "Cuando se requiera una evaluación psicopedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 21.2 establece que cuando el informe psicopedagógico forme parte de un dictamen de escolarización, deberá incluir la propuesta de escolarización que se considere más adecuada, en función de las necesidades educativas que presenten la alumna o el alumno y de los recursos que necesite."
+    },
+    {
+      "question": "¿Tiene carácter vinculante para el equipo docente que en el informe psicopedagógico se manifieste que procede adaptar el currículo según el artículo 21.3?",
+      "options": [
+        "Sí, es vinculante",
+        "No, no tiene carácter vinculante",
+        "Sí, pero solo para educación primaria",
+        "Sí, pero solo para educación secundaria obligatoria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 21.3 establece que en los casos en que la jefatura del departamento de orientación considere que procede adaptar el currículo de determinada área o materia, debe manifestarlo en el correspondiente informe psicopedagógico, sin que ello tenga carácter vinculante para el equipo docente."
+    },
+    {
+      "question": "¿Cuándo se debe revisar el informe psicopedagógico como mínimo según el artículo 22?",
+      "options": [
+        "Cada trimestre",
+        "Cada curso escolar",
+        "Al comienzo de cada etapa educativa",
+        "Cada dos cursos escolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 22 establece que la evaluación psicopedagógica y el correspondiente informe psicopedagógico se revisarán, como mínimo, al comienzo de cada etapa educativa."
+    },
+    {
+      "question": "Según el artículo 23.2, ¿cómo deben solicitar las familias copia del informe psicopedagógico?",
+      "options": [
+        "Por escrito a la dirección del centro docente",
+        "Oralmente al profesorado tutor",
+        "A través de la jefatura del departamento de orientación",
+        "Al servicio de Inspección Educativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 23.2 establece que en el caso de que las madres, los padres o las personas tutoras legales del alumnado demanden copia del informe psicopedagógico, deberán solicitarlo por escrito a la dirección del centro docente."
+    },
+    {
+      "question": "¿Qué indicación deben llevar los informes psicopedagógicos en todas las páginas según el artículo 24.1?",
+      "options": [
+        "La indicación de urgente",
+        "La indicación de confidencial",
+        "La indicación de copia",
+        "La indicación de original"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 24.1 establece que los informes psicopedagógicos tienen carácter confidencial, por lo que llevarán esa indicación en todas las páginas."
+    },
+    {
+      "question": "¿Dónde se archivará el informe psicopedagógico según el artículo 24.1?",
+      "options": [
+        "En el departamento de orientación",
+        "En secretaría del centro",
+        "En el expediente escolar de la alumna o del alumno",
+        "En el servicio de Inspección Educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 24.1 establece que se archivará el original o una copia auténtica del informe psicopedagógico en el expediente escolar de la alumna o del alumno."
+    },
+    {
+      "question": "Según el artículo 25.1, ¿qué principios debe atender la escolarización del alumnado de conformidad con el Decreto 229/2011?",
+      "options": [
+        "Principios de calidad y eficiencia",
+        "Principios de normalizatión e inclusión, libertad de elección de centro, circunstancias personales, recursos existentes, informes de orientación y flexibilidad y reversibilidad",
+        "Principios de equidad y participación",
+        "Principios de autonomía y responsabilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 25.1 establece que la escolarización del alumnado atenderá a la libertad de elección de centro, a los principios de normalización e inclusión, a las circunstancias personales de cada alumna y alumno, a los recursos existentes, a los informes y dictámenes de los servicios de orientación y a la flexibilidad y reversibilidad."
+    },
+    {
+      "question": "¿Qué centros constituyen el referente básico a efectos de escolarización según el artículo 25.2?",
+      "options": [
+        "Los centros de educación especial",
+        "Los centros docentes ordinarios",
+        "Los centros de escolarización preferente",
+        "Las unidades de educación especial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 25.2 establece que los centros docentes ordinarios constituyen el referente básico a efectos de la escolarización, por lo que se garantizará la accesibilidad de todo el alumnado escolarizado en ellos."
+    },
+    {
+      "question": "¿Qué debe garantizar la Consellería respecto al alumnado en etapas obligatorias según el artículo 25.3?",
+      "options": [
+        "La calificación positiva en todas las materias",
+        "La permanencia del alumnado en el sistema educativo en las etapas de enseñanza obligatoria",
+        "La escolarización en centros ordinarios",
+        "El apoyo educativo individualizado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 25.3 establece que la Consellería de Cultura, Educación y Universidad garantizará la permanencia del alumnado en el sistema educativo en las etapas de enseñanza obligatoria y promoverá su escolarización en las etapas no obligatorias."
+    },
+    {
+      "question": "Según el artículo 26, ¿cuáles son las modalidades de escolarización que se consideran?",
+      "options": [
+        "Ordinaria, preferente y especial",
+        "Escolarización en centros ordinarios, en centros ordinarios de escolarización preferente, en unidades de educación especial, en centros de educación especial y escolarización combinada",
+        "Ordinaria, extraordinaria y combinada",
+        "Presencial, semipresencial y a distancia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 26 enumera las modalidades de escolarización: en centros docentes ordinarios, en centros docentes ordinarios de escolarización preferente, en unidades de educación especial en los centros docentes ordinarios, en centros de educación especial y la escolarización combinada entre un centro docente ordinario y una unidad de educación especial o un centro de educación especial."
+    },
+    {
+      "question": "¿Qué deben reservar los centros docentes ordinarios para garantizar la equidad según el artículo 27.1?",
+      "options": [
+        "Plazas para alumnado con necesidad específica de apoyo educativo",
+        "Plazas para alumnado de incorporación tardía",
+        "Plazas para alumnado con altas capacidades",
+        "Plazas para alumnado en situación de vulnerabilidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 27.1 establece que para garantizar la equidad y la inclusión, los centros ordinarios reservarán el número de plazas que se disponga en la normativa para el alumnado con necesidad específica de apoyo educativo."
+    },
+    {
+      "question": "¿Qué son los centros docentes ordinarios de escolarización preferente según el artículo 28.1?",
+      "options": [
+        "Centros que solo atienden a alumnado con necesidades educativas especiales",
+        "Centros que, además de la atención educativa ordinaria, se habilitan para atender a alumnado con necesidades educativas especiales que precise recursos específicos de difícil generalización",
+        "Centros que ofrecen programas de refuerzo educativo",
+        "Centros que imparten enseñanzas de régimen especial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 28.1 define los centros docentes ordinarios de escolarización preferente como aquellos que, además de la atención educativa ordinaria, se habilitan para atender a alumnado con necesidades educativas especiales que, por sus singulares características, precise recursos humanos o materiales específicos y de difícil generalización."
+    },
+    {
+      "question": "¿Cómo se realiza la escolarización en centros de escolarización preferente según el artículo 28.2?",
+      "options": [
+        "Por sorteo entre el alumnado solicitante",
+        "Por orden de solicitud",
+        "Por resolución de la jefatura territorial según el procedimiento establecido en el artículo 32, cuando se recomiende según el dictamen de escolarización",
+        "Por decisión de la dirección del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 28.2 establece que cuando se trate de alumnado con necesidades educativas especiales para el que, según el dictamen de escolarización, se recomienda su escolarización en estos centros, la escolarización se realizará por resolución de la jefatura territorial que corresponda, según el procedimiento establecido en el artículo 32."
+    },
+    {
+      "question": "¿Quién habilita un centro docente ordinario como centro de escolarización preferente según el artículo 28.4?",
+      "options": [
+        "El servicio de Inspección Educativa",
+        "La jefatura territorial",
+        "La Dirección General de Centros y Recursos Humanos, a propuesta de la jefatura territorial",
+        "El Consejo Escolar del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 28.4 establece que la habilitación de un centro docente ordinario como centro de escolarización preferente se hará por resolución de la Dirección General de Centros y Recursos Humanos, a propuesta de la jefatura territorial correspondiente."
+    },
+    {
+      "question": "¿Qué son las unidades de educación especial según el artículo 29.1?",
+      "options": [
+        "Unidades para alumnado con altas capacidades",
+        "Unidades creadas o autorizadas en centros docentes ordinarios para atender, exclusivamente, a alumnado con necesidades educativas especiales",
+        "Unidades de orientación educativa",
+        "Unidades de apoyo al profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 29.1 define las unidades de educación especial como las unidades creadas o autorizadas en centros docentes ordinarios para atender, exclusivamente, a alumnado con necesidades educativas especiales cuando, en el dictamen de escolarización, se considere la medida más adecuada."
+    },
+    {
+      "question": "¿Cuál es la finalidad de las unidades de educación especial según el artículo 29.2?",
+      "options": [
+        "Facilitar la participación del alumnado con necesidades educativas especiales en la vida de su propio centro docente",
+        "Proporcionar atención especializada fuera del centro ordinario",
+        "Preparar al alumnado para su escolarización en centros de educación especial",
+        "Ofrecer programas de refuerzo específicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 29.2 establece que las unidades de educación especial tienen como finalidad facilitar la participación del alumnado con necesidades educativas especiales en la vida de su propio centro docente, posibilitándole compartir actividades y espacios que favorecen su inclusión."
+    },
+    {
+      "question": "¿Con qué frecuencia debe revisarse la escolarización en unidades de educación especial en educación infantil según el artículo 29.3?",
+      "options": [
+        "Anualmente",
+        "Al finalizar el ciclo",
+        "Trimestralmente",
+        "Cada dos años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 29.3 establece que la escolarización en las unidades de educación especial será objeto de revisión periódica por parte de la jefatura del departamento de orientación. Esta revisión será trimestral en educación infantil y, al menos, anual en las demás enseñanzas."
+    },
+    {
+      "question": "¿Cuántos años adicionales puede prolongarse la escolarización a tiempo completo en una unidad de educación especial en educación primaria según el artículo 29.4?",
+      "options": [
+        "Un año adicional",
+        "Dos años adicionales",
+        "Un tercer año",
+        "Cuatro años adicionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 29.4 establece que la escolarización del alumnado a tiempo completo en una unidad de educación especial podrá prolongarse, de conformidad con el artículo 19 del Decreto 229/2011, un tercer año en educación primaria y un cuarto en educación secundaria obligatoria."
+    },
+    {
+      "question": "¿Cuál es el límite de edad para permanecer en unidades de educación primaria según el artículo 29.4?",
+      "options": [
+        "14 años",
+        "15 años",
+        "16 años",
+        "18 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 29.4 establece que se debe respetar el límite de 15 años en las unidades de educación primaria y de 21 años en las de educación secundaria obligatoria, cumplidos en el año natural en el que concluye el curso escolar."
+    },
+    {
+      "question": "¿Cuál es el número máximo de alumnado con presencia simultánea en una unidad de educación especial según el artículo 29.5?",
+      "options": [
+        "Tres alumnos",
+        "Cinco alumnos",
+        "Ocho alumnos",
+        "Diez alumnos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 29.5 establece que, con carácter general, las unidades de educación especial contarán con un máximo de cinco alumnas o alumnos con presencia simultánea en el aula."
+    },
+    {
+      "question": "¿Quién autoriza incrementos excepcionales en la cantidad de alumnado en una unidad de educación especial según el artículo 29.5?",
+      "options": [
+        "La dirección del centro",
+        "La jefatura territorial que corresponda, previo informe del servicio de orientación y del servicio territorial de Inspección Educativa",
+        "El Consejo Escolar",
+        "La Dirección General de Centros y Recursos Humanos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 29.5 establece que cualquier incremento excepcional en la cantidad de alumnado con presencia simultánea en esa unidad deberá contar con la autorización de la jefatura territorial que corresponda, previo informe del servicio de orientación y del servicio territorial de Inspección Educativa."
+    },
+    {
+      "question": "¿Qué es un centro de educación especial según el artículo 30.1?",
+      "options": [
+        "Un centro que ofrece programas de refuerzo educativo",
+        "Un centro en donde se escolariza, exclusivamente, a alumnado con necesidades educativas especiales que requiere modificaciones significativas del currículo y recursos muy específicos o excepcionales",
+        "Un centro ordinario con unidades de educación especial",
+        "Un centro de escolarización preferente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 30.1 define el centro de educación especial como aquel en donde se escolariza, exclusivamente, a alumnado con necesidades educativas especiales que requiere modificaciones significativas del currículo en parte o en todas las áreas o materias, y que precisa la utilización de recursos muy específicos o excepcionales."
+    },
+    {
+      "question": "¿Cómo debe estar justificada la escolarización en educación infantil en un centro de educación especial según el artículo 30.2?",
+      "options": [
+        "No requiere justificación especial",
+        "Debe estar adecuadamente justificada, ya que la escolarización en esta etapa en un centro de educación especial será excepcional",
+        "Basta con la solicitud de las familias",
+        "Requiere autorización de la Dirección General"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 30.2 establece que dadas las especiales características del alumnado en edades tempranas, la escolarización en la etapa de educación infantil en un centro de educación especial será excepcional y su necesidad deberá estar adecuadamente justificada."
+    },
+    {
+      "question": "¿Cuál es el límite de edad para la permanencia del alumnado en centros de educación especial según el artículo 30.3?",
+      "options": [
+        "18 años",
+        "19 años",
+        "21 años",
+        "23 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 30.3 establece que se respetará el límite de 21 años de edad para la permanencia del alumnado en los centros de educación especial, cumplidos en el año natural en que finaliza el curso escolar."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la escolarización combinada según el artículo 31.1?",
+      "options": [
+        "Facilitar el acceso al currículo ordinario",
+        "Atender las necesidades educativas de determinado alumnado y, al mismo tiempo, mantener el vínculo con su aula ordinaria",
+        "Proporcionar recursos específicos al alumnado",
+        "Preparar la transición a la vida adulta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 31.1 establece que la escolarización combinada tiene como finalidad atender las necesidades educativas de determinado alumnado con necesidades educativas especiales y, al mismo tiempo, mantener el vínculo con su aula, en donde debe desarrollar el currículo de determinadas áreas o materias y compartir con las compañeras y con los compañeros el mayor número de experiencias."
+    },
+    {
+      "question": "¿Quién determina la distribución de los tiempos en la escolarización combinada según el artículo 31.2?",
+      "options": [
+        "El equipo docente",
+        "La jefatura del departamento de orientación",
+        "En la resolución que autoriza esa modalidad de escolarización",
+        "Las familias del alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 31.2 establece que la distribución de los tiempos de una escolarización combinada se determinará en la resolución que autoriza esa modalidad de escolarización, según se dispone en el artículo 32."
+    },
+    {
+      "question": "¿Quién debe promover la coordinación entre el profesorado que imparte docencia al alumnado con escolarización combinada según el artículo 31.3?",
+      "options": [
+        "El profesorado tutor",
+        "La jefatura de estudios",
+        "La jefatura del departamento de orientación del centro o de los centros implicados",
+        "El servicio de Inspección Educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 31.3 establece que la promoción y la organización de la coordinación entre el profesorado que imparte docencia al alumnado con escolarización combinada corresponde a la jefatura del departamento de orientación del centro o de los centros implicados."
+    },
+    {
+      "question": "Según el artículo 32.1, ¿qué se necesita para la escolarización en centros de escolarización preferente, unidades de educación especial o centros de educación especial?",
+      "options": [
+        "Solicitud de las familias",
+        "Dictamen de escolarización, informe del servicio de Inspección Educativa y autorización de la jefatura territorial o de la Secretaría General",
+        "Informe del equipo docente",
+        "Evaluación inicial del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 32.1 establece que para la escolarización en estas modalidades serán necesarios: el dictamen de escolarización realizado por los servicios de orientación, el informe del servicio territorial de Inspección Educativa y la autorización de la jefatura territorial que corresponda o, en su caso, de la Secretaría General de Educación y Formación Profesional."
+    },
+    {
+      "question": "¿En qué etapa y curso debe estar matriculado el alumnado con necesidades educativas especiales escolarizado en modalidades distintas de la ordinaria según el artículo 32.2?",
+      "options": [
+        "En la etapa que corresponda según su nivel de competencia curricular",
+        "En la etapa y en el curso que le correspondan, en función de su edad y, en su caso, de las repeticiones de curso",
+        "En la etapa inicial independientemente de su edad",
+        "En un curso inferior al que le correspondería por edad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 32.2 establece que todo el alumnado con necesidades educativas especiales escolarizado en centros docentes ordinarios de escolarización preferente, en unidades de educación especial o en centros de educación especial estará matriculado en la etapa y en el curso que le correspondan, en función de su edad y, en su caso, de las repeticiones de curso y/o de la aplicación de las medidas extraordinarias de flexibilización."
+    },
+    {
+      "question": "¿Con qué frecuencia debe revisarse la escolarización del alumnado en modalidades diferentes de la ordinaria en educación infantil según el artículo 32.3?",
+      "options": [
+        "Al final de cada curso académico",
+        "Al final de cada trimestre del curso escolar",
+        "Cada dos años",
+        "Anualmente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 32.3 establece que la revisión de la escolarización del alumnado en una modalidad diferente de la ordinaria se llevará a cabo, al menos, a la conclusión de cada curso académico, excepto, en su caso, en educación infantil, en que la revisión se realizará al final de cada trimestre del curso escolar."
+    },
+    {
+      "question": "¿Qué carácter tiene la resolución del cambio de modalidad de escolarización según el artículo 32.4?",
+      "options": [
+        "Carácter público",
+        "Carácter confidencial",
+        "Carácter ordinario",
+        "Carácter temporal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 32.4 establece que la resolución del cambio de la modalidad de escolarización y el dictamen de escolarización formarán parte del expediente escolar de la alumna o del alumno y tendrán carácter confidencial."
+    },
+    {
+      "question": "Según el artículo 33.1, ¿qué tendrán como referente las enseñanzas en unidades o centros de educación especial?",
+      "options": [
+        "Un currículo adaptado específico",
+        "El currículo de la enseñanza en que esté matriculado el alumno o la alumna, con carácter general",
+        "Los objetivos de la educación especial",
+        "Las competencias básicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 33.1 establece que las enseñanzas en unidades de educación especial o en centros de educación especial tendrán como referente, con carácter general, el currículo de la enseñanza en que esté matriculado el alumno o la alumna."
+    },
+    {
+      "question": "¿Quién asigna al profesorado tutor de las unidades de educación especial según el artículo 33.2?",
+      "options": [
+        "La jefatura de estudios",
+        "La dirección del centro docente",
+        "El servicio de Inspección Educativa",
+        "La jefatura del departamento de orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 33.2 establece que el profesorado tutor de las unidades de educación especial será asignado por la dirección del centro docente de entre el profesorado que imparta docencia en la unidad."
+    },
+    {
+      "question": "¿A quién corresponde la evaluación del alumnado escolarizado a tiempo completo en unidades de educación especial según el artículo 33.3?",
+      "options": [
+        "Al profesorado encargado de su docencia",
+        "Al departamento de orientación",
+        "Al equipo directivo",
+        "Al servicio de Inspección Educativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 33.3 establece que la evaluación del alumnado escolarizado a tiempo completo en unidades de educación especial o en centros de educación especial corresponderá al profesorado encargado de su docencia."
+    },
+    {
+      "question": "¿Qué es el dictamen de escolarización según el artículo 34?",
+      "options": [
+        "Un documento de admisión del alumnado",
+        "Un informe personal de una alumna o de un alumno con necesidad específica de apoyo educativo, elaborado por los servicios de orientación",
+        "Un protocolo de evaluación psicopedagógica",
+        "Una resolución de la jefatura territorial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 34 define el dictamen de escolarización como un informe personal de una alumna o de un alumno con necesidad específica de apoyo educativo, elaborado por los servicios de orientación y en el que se recogen las conclusiones de la evaluación psicopedagógica, las orientaciones, la previsión de recursos y la propuesta de escolarización."
+    },
+    {
+      "question": "¿Cuándo se requiere un dictamen de escolarización según el artículo 35.1.a)?",
+      "options": [
+        "Para todo el alumnado con necesidad específica de apoyo educativo",
+        "Para alumnado que se incorpora por primera vez al sistema educativo y se consideran necesarios recursos extraordinarios o modalidad distinta de la ordinaria",
+        "Para alumnado que repite curso",
+        "Para alumnado en situación de vulnerabilidad socioeducativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 35.1.a) establece que se requiere dictamen de escolarización para alumnado que se incorpora por primera vez al sistema educativo, en el caso de que se consideren necesarios recursos extraordinarios de atención educativa o bien una modalidad de escolarización distinta de la ordinaria."
+    },
+    {
+      "question": "¿Es necesario elaborar un nuevo dictamen cuando el alumnado cambia de centro ordinario según el artículo 35.3?",
+      "options": [
+        "Sí, siempre es necesario",
+        "No, se revisará el último dictamen emitido y no será necesario elaborar uno nuevo, excepto que existan circunstancias que lo requieran o que suponga cambio de modalidad",
+        "Sí, pero solo en educación secundaria",
+        "No, nunca es necesario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 35.3 establece que en el caso de que una alumna o un alumno escolarizados cambien de centro docente, se revisará el último dictamen de escolarización emitido y no será necesario elaborar un nuevo dictamen, excepto que existan circunstancias que así lo requieran o que dicho traslado suponga también un cambio en la modalidad de escolarización."
+    },
+    {
+      "question": "¿Se requiere un nuevo dictamen para cambios en la distribución horaria de la escolarización combinada según el artículo 35.4?",
+      "options": [
+        "Sí, siempre se requiere",
+        "No, no requerirá la elaboración de un nuevo dictamen",
+        "Sí, pero solo si aumenta el tiempo en la unidad de educación especial",
+        "Sí, pero solo si afecta a más de 5 horas semanales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 35.4 establece que en el caso del alumnado con necesidades educativas especiales escolarizado en modalidad combinada, la propuesta de cambios en la distribución horaria o de tiempos en cada uno de los centros docentes no requerirá la elaboración de un nuevo dictamen de escolarización."
+    },
+    {
+      "question": "¿Qué debe elaborar la jefatura del departamento de orientación para cambios en los tiempos de escolarización combinada según el artículo 35.4?",
+      "options": [
+        "Un nuevo dictamen de escolarización",
+        "Un informe en el que se recogerá la justificación del cambio propuesto y la opinión escrita de las familias",
+        "Una evaluación psicopedagógica actualizada",
+        "Un protocolo de demanda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 35.4 establece que para cambios en los tiempos de escolarización combinada, la jefatura del departamento de orientación elaborará un informe en el que se recogerá la justificación del cambio propuesto, así como la opinión escrita de las familias, que se enviará a la jefatura territorial para su autorización."
+    },
+    {
+      "question": "¿Qué debe incluir el dictamen de escolarización según el artículo 36.3.a)?",
+      "options": [
+        "Los resultados académicos del alumnado",
+        "Necesidades de la alumna o del alumno",
+        "El horario escolar completo",
+        "La relación de materiales didácticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 36.3.a) establece que el dictamen de escolarización debe incluir, entre otras cosas, las necesidades de la alumna o del alumno en las orientaciones sobre la respuesta educativa."
+    },
+    {
+      "question": "¿Qué debe incluir la propuesta razonada de escolarización en modalidad combinada según el artículo 36.4?",
+      "options": [
+        "El número de profesores que atenderán al alumnado",
+        "La previsión de tiempo de permanencia en el aula ordinaria y en la unidad de educación especial o en el centro de educación especial",
+        "Los materiales específicos que se utilizarán",
+        "El horario completo del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 36.4 establece que en la propuesta razonada de escolarización en modalidad combinada se incluirá la previsión de tiempo de permanencia en el aula ordinaria y en la unidad de educación especial o, en su caso, en el centro de educación especial."
+    },
+    {
+      "question": "¿Qué debe acreditarse por escrito en el dictamen de escolarización según el artículo 36.5?",
+      "options": [
+        "La conformidad del equipo docente",
+        "La opinión de la madre, del padre o de las personas tutoras legales de la alumna o del alumno sobre la propuesta de escolarización realizada",
+        "El visto bueno del servicio de Inspección Educativa",
+        "La autorización de la dirección del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 36.5 establece que debe acreditarse, por escrito, la opinión de la madre, del padre o de las personas tutoras legales de la alumna o del alumno sobre la propuesta de escolarización realizada."
+    },
+    {
+      "question": "¿Qué carácter tiene el dictamen de escolarización según el artículo 36.6?",
+      "options": [
+        "Carácter público",
+        "Carácter confidencial",
+        "Carácter temporal",
+        "Carácter orientativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 36.6 establece que el dictamen de escolarización formará parte del expediente escolar de la alumna o del alumno y tendrá carácter confidencial."
+    },
+    {
+      "question": "Según el artículo 37, ¿qué debe asegurar la Consellería respecto a la permanencia del alumnado?",
+      "options": [
+        "La titulación académica de todo el alumnado",
+        "La permanencia del alumnado en el sistema educativo durante, al menos, las etapas obligatorias",
+        "La escolarización en centros públicos",
+        "El acceso a enseñanzas postobligatorias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 37.a) establece que la Consellería tendrá como prioridad asegurar la permanencia del alumnado en el sistema educativo durante, al menos, las etapas obligatorias."
+    },
+    {
+      "question": "¿Qué debe promover la Consellería para el alumnado con dificultades de inserción según el artículo 37.b)?",
+      "options": [
+        "La escolarización en centros de educación especial",
+        "El diseño y la aplicación de programas específicos de atención a la diversidad para garantizar su inclusión",
+        "La reducción del horario lectivo",
+        "La exención de determinadas materias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 37.b) establece que la Consellería debe promover el diseño y la aplicación de programas específicos de atención a la diversidad para el alumnado que presente dificultades de inserción y/o de adaptación, garantizando su inclusión en el centro docente y una atención educativa ajustada."
+    },
+    {
+      "question": "¿Qué debe adoptar la Consellería para el alumnado con dificultades de asistencia regular según el artículo 37.c)?",
+      "options": [
+        "Medidas sancionadoras",
+        "Medidas necesarias para garantizar la atención educativa del alumnado que presente dificultades para una asistencia regular",
+        "Medidas de evaluación extraordinaria",
+        "Medidas de cambio de centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 37.c) establece que la Consellería debe adoptar las medidas necesarias para garantizar la atención educativa del alumnado que, por sus condiciones personales o de historia escolar, presente dificultades para una asistencia regular a un centro docente."
+    },
+    {
+      "question": "Según el artículo 38.1, ¿qué debe establecer la Consellería para la prevención del absentismo?",
+      "options": [
+        "Sistemas de control biométrico",
+        "Procedimientos de coordinación entre las instituciones educativas y los poderes públicos con competencias en la prevención, detección e intervención ante situaciones de absentismo, desescolarización y abandono escolar temprano",
+        "Programas de becas específicas",
+        "Sanciones para las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 38.1 establece que la Consellería establecerá procedimientos de coordinación entre las instituciones educativas y los poderes públicos con competencias en la prevención, en la detección y en la intervención ante las situaciones de absentismo, de desescolarización y de abandono escolar temprano."
+    },
+    {
+      "question": "¿Qué deben adaptar los centros docentes en sus normas según el artículo 38.2?",
+      "options": [
+        "Los contenidos curriculares",
+        "El desarrollo de los protocolos de prevención y control del absentismo",
+        "Los criterios de evaluación",
+        "Los procedimientos de admisión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 38.2 establece que los centros docentes, dentro de su autonomía y bajo la supervisión del servicio territorial de Inspección Educativa, adaptarán el desarrollo de los protocolos de prevención y control del absentismo en sus normas de organización, funcionamiento y convivencia."
+    },
+    {
+      "question": "¿Qué actuación debe realizar la dirección del centro ante la detección de casos de absentismo según el artículo 38.2.c)?",
+      "options": [
+        "Aplicar sanciones inmediatas",
+        "Traslado de la información al servicio de la Administración local y al servicio territorial de Inspección Educativa correspondientes, si procede",
+        "Cambiar al alumnado de grupo",
+        "Modificar el currículo del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 38.2.c) establece que, si procede, la dirección del centro debe realizar el traslado de la información al servicio de la Administración local y al servicio territorial de Inspección Educativa correspondientes."
+    },
+    {
+      "question": "¿Qué debe impulsar la Consellería según el artículo 39.1?",
+      "options": [
+        "El Plan autonómico de formación del profesorado",
+        "El Plan autonómico de promoción de la escolarización y prevención del absentismo y el abandono escolar temprano",
+        "El Plan autonómico de evaluación educativa",
+        "El Plan autonómico de infraestructuras escolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 39.1 establece que la Consellería impulsará la puesta en marcha del Plan autonómico de promoción de la escolarización y prevención del absentismo y el abandono escolar temprano."
+    },
+    {
+      "question": "¿Qué líneas de actuación debe considerar como mínimo el Plan autonómico según el artículo 39.2?",
+      "options": [
+        "Formación, evaluación y coordinación",
+        "Prevención, intervención-control-seguimiento, coordinación-formación y análisis-evaluación",
+        "Información, participación y control",
+        "Planificación, desarrollo y seguimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 39.2 enumera como líneas mínimas: a) Prevención, b) Intervención, control y seguimiento, c) Coordinación y formación, y d) Análisis y evaluación."
+    },
+    {
+      "question": "Según el artículo 39.2.d), ¿qué debe conformar la información obtenida del análisis y evaluación?",
+      "options": [
+        "Un informe trimestral",
+        "Un informe anual sobre el estado del absentismo y del abandono escolar temprano en Galicia",
+        "Un protocolo de actuación",
+        "Un plan de mejora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 39.2.d) establece que la información obtenida conformará un informe anual sobre el estado del absentismo y del abandono escolar temprano en Galicia."
+    },
+    {
+      "question": "¿Qué procesos contribuyen a la equidad y calidad educativa según el artículo 40?",
+      "options": [
+        "Los procesos de evaluación externa",
+        "Los procesos de coordinación cuando el alumnado deba cambiar de centro docente, de enseñanzas o de etapa educativa",
+        "Los procesos de admisión del alumnado",
+        "Los procesos de formación del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 40 establece que los procesos de coordinación, cuando el alumnado deba cambiar de centro docente, de enseñanzas e incluso de etapa educativa, son factores que contribuyen a la equidad y a la calidad educativa."
+    },
+    {
+      "question": "¿Qué debe hacer el profesorado tutor del centro de procedencia según el artículo 40.a).1º?",
+      "options": [
+        "Elaborar el expediente académico completo",
+        "Ofrecer información al alumnado y a sus familias sobre los aspectos generales de la nueva etapa, de las enseñanzas y, en su caso, del centro docente",
+        "Realizar la evaluación final del alumnado",
+        "Solicitar la admisión en el centro de destino"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 40.a).1º establece que el profesorado tutor debe ofrecer información al alumnado y a sus madres, a sus padres o a las personas tutoras legales sobre los aspectos generales de la nueva etapa, de las enseñanzas y, en su caso, del centro docente."
+    },
+    {
+      "question": "Según el artículo 40.a).2º, ¿qué información debe trasladarse a los centros de destino?",
+      "options": [
+        "Solo los resultados académicos",
+        "No solamente la información que prescribe la normativa de evaluación, sino también información cualitativa sobre necesidades específicas, medidas educativas prestadas y recursos necesitados",
+        "Solo el historial académico",
+        "Solo las faltas de asistencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 40.a).2º establece que se debe trasladar no solamente la información que prescribe la normativa que regula la evaluación, sino también información cualitativa sobre las necesidades específicas de apoyo educativo de determinado alumnado, sobre las medidas educativas que se le prestaron y sobre los recursos que necesitó."
+    },
+    {
+      "question": "¿Quién debe realizar las sesiones informativas previas en los centros de destino según el artículo 40.b).1º?",
+      "options": [
+        "El profesorado tutor",
+        "El equipo directivo, con el asesoramiento, en su caso, de la jefatura del departamento de orientación",
+        "El departamento de orientación",
+        "El servicio de Inspección Educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 40.b).1º establece que el equipo directivo debe facilitar esta información, con el asesoramiento, en su caso, de la jefatura del departamento de orientación."
+    },
+    {
+      "question": "Según el artículo 41, ¿cómo se clasifican las medidas de atención a la diversidad?",
+      "options": [
+        "En generales y específicas",
+        "En ordinarias y extraordinarias",
+        "En individuales y colectivas",
+        "En preventivas y correctivas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 41 establece que las medidas de atención a la diversidad se clasifican en ordinarias y extraordinarias y estarán recogidas en el Plan general de atención a la diversidad."
+    },
+    {
+      "question": "¿Qué son las medidas ordinarias según el artículo 42?",
+      "options": [
+        "Medidas que requieren modificaciones significativas del currículo",
+        "Medidas que faciliten la adecuación del currículo prescriptivo, sin alteración significativa de sus objetivos, contenidos ni criterios de evaluación",
+        "Medidas destinadas al alumnado con necesidades educativas especiales",
+        "Medidas que requieren autorización de Inspección Educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 42 define las medidas ordinarias como todas las que faciliten la adecuación del currículo prescriptivo, sin alteración significativa de sus objetivos, de los contenidos ni de los criterios de evaluación, al contexto sociocultural de los centros docentes y a las características del alumnado."
+    },
+    {
+      "question": "¿Para qué deben establecer criterios los centros docentes según el artículo 43.1?",
+      "options": [
+        "Para la evaluación del alumnado",
+        "Para la elaboración de los horarios del alumnado, la asignación de tutorías, el agrupamiento del alumnado y la distribución de aulas y espacios",
+        "Para la admisión del alumnado",
+        "Para la selección del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 43.1 establece que los centros docentes deben establecer criterios para: la elaboración de los horarios del alumnado, la asignación de tutorías, el agrupamiento del alumnado y la distribución de las aulas, de las unidades y/o de los espacios."
+    },
+    {
+      "question": "Según el artículo 44.1, ¿por qué deben estar guiadas las programaciones didácticas?",
+      "options": [
+        "Por las directrices de la Consellería",
+        "Por el estilo pedagógico del centro docente, articulado en su proyecto educativo",
+        "Por los libros de texto utilizados",
+        "Por los resultados de evaluaciones externas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 44.1 establece que las programaciones didácticas deberán estar guiadas por el estilo pedagógico del centro docente, articulado en su proyecto educativo."
+    },
+    {
+      "question": "¿Qué deben considerar las líneas metodológicas según el artículo 44.1?",
+      "options": [
+        "La cultura de la evaluación y la recuperación",
+        "Las culturas de la diversidad, de la inclusión, de la coordinación, de la participación, de la colaboración, tecnológica, de la innovación, de la evaluación, de la recuperación y de la relación con el entorno",
+        "La cultura académica y disciplinar",
+        "La cultura de la competitividad y el rendimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 44.1 enumera las culturas que deben considerarse: de la diversidad, de la inclusión, de la coordinación, de la participación, de la colaboración, tecnológica, de la innovación, de la evaluación, de la recuperación y de la relación con el entorno y con las instituciones."
+    },
+    {
+      "question": "Según el artículo 44.2, ¿qué deben considerar las programaciones didácticas desarrolladas por el profesorado?",
+      "options": [
+        "Los principios del diseño universal de aprendizaje",
+        "Los resultados de evaluaciones externas",
+        "Las directrices del libro de texto",
+        "Los contenidos mínimos de cada materia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 44.2 establece que el profesorado desarrollará las programaciones didácticas teniendo en cuenta los principios del diseño universal de aprendizaje, facilitando espacios de participación para todas las alumnas y todos los alumnos."
+    },
+    {
+      "question": "¿Qué estrategias metodológicas podrán utilizarse según el artículo 45.2?",
+      "options": [
+        "Trabajo individual y evaluación continua",
+        "Distintas estrategias de trabajo colaborativo, tales como los grupos heterogéneos, el aprendizaje por proyectos, el aprendizaje servicio y la tutoría entre iguales",
+        "Lecciones magistrales y exámenes escritos",
+        "Trabajos individuales y presentaciones orales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 45.2 indica que podrán utilizarse distintas estrategias de trabajo colaborativo, tales como los grupos heterogéneos, el aprendizaje por proyectos, el aprendizaje servicio y la tutoría entre iguales, entre otras."
+    },
+    {
+      "question": "Según el artículo 46.1, ¿qué debe adaptar el profesorado?",
+      "options": [
+        "Los contenidos de las materias",
+        "Los tiempos, los instrumentos y los procedimientos de evaluación del área, de la materia, del ámbito o del módulo que imparta a las circunstancias de su alumnado",
+        "Los objetivos de la etapa educativa",
+        "Los criterios de promoción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 46.1 establece que el profesorado adaptará los tiempos, los instrumentos y los procedimientos de evaluación del área, de la materia, del ámbito o del módulo que imparta a las circunstancias de su alumnado."
+    },
+    {
+      "question": "¿Qué pueden considerar las adaptaciones de evaluación según el artículo 46.2?",
+      "options": [
+        "La reducción de contenidos",
+        "La forma de comunicación que el alumnado necesite, la secuenciación de las tareas, la verificación de la comprensión, la disponibilidad de recursos tecnológicos y la concesión del tiempo necesario",
+        "La eliminación de algunas materias",
+        "La modificación de los criterios de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 46.2 establece que en la adaptación de los tiempos, instrumentos y procedimientos de evaluación se podrán considerar la forma de comunicación necesaria, la secuenciación de las tareas, la verificación de la comprensión, la disponibilidad de los recursos tecnológicos y la concesión del tiempo necesario."
+    },
+    {
+      "question": "¿Qué son las aulas de atención educativa y convivencia según el artículo 47.1?",
+      "options": [
+        "Aulas para alumnado con necesidades educativas especiales",
+        "Aulas en las que se atiende, temporalmente, al alumnado que, por su conducta inadecuada, impida el normal desarrollo del trabajo de una sesión lectiva",
+        "Aulas de refuerzo educativo",
+        "Aulas de apoyo al alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 47.1 define las aulas de atención educativa y convivencia como aquellas en las que se atiende, temporalmente, al alumnado que, por su conducta inadecuada, impida el normal desarrollo del trabajo de una sesión lectiva de su grupo-clase."
+    },
+    {
+      "question": "¿Cuál es el tiempo máximo que puede permanecer alumnado en el aula de atención educativa y convivencia según el artículo 47.2?",
+      "options": [
+        "Una hora",
+        "El tiempo que dure la sesión lectiva en la que se haya producido la conducta inadecuada",
+        "Media jornada",
+        "Una jornada completa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 47.2 establece que el alumnado no permanecerá en el aula de atención educativa y convivencia más tiempo del que dure la sesión lectiva en la que se haya producido la conducta inadecuada."
+    },
+    {
+      "question": "¿Qué debe desarrollar el alumnado derivado al aula de atención educativa y convivencia según el artículo 47.3?",
+      "options": [
+        "Tareas de refuerzo educativo",
+        "El programa de habilidades y competencias sociales que se regula en el artículo 53",
+        "Trabajos de investigación",
+        "Actividades de lectura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 47.3 establece que el alumnado derivado al aula de atención educativa y convivencia deberá desarrollar el programa de habilidades y competencias sociales que se regula en el artículo 53 de esta orden."
+    },
+    {
+      "question": "¿Quién lleva el registro del alumnado derivado al aula de atención educativa según el artículo 47.5?",
+      "options": [
+        "El profesorado tutor",
+        "La jefatura de estudios",
+        "El departamento de orientación",
+        "El profesorado de guardia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 47.5 establece que la jefatura de estudios llevará un registro del alumnado derivado, el profesorado que lo deriva y los motivos."
+    },
+    {
+      "question": "¿Qué es el refuerzo educativo según el artículo 48.1?",
+      "options": [
+        "Una medida extraordinaria de atención a la diversidad",
+        "Una medida de atención a la diversidad que afecta a la secuencia de contenidos, las formas e instrumentos de evaluación, la organización del aula y el agrupamiento del alumnado",
+        "Una adaptación curricular significativa",
+        "Un programa de enriquecimiento curricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 48.1 define el refuerzo educativo como una medida de atención a la diversidad que afecta a la secuencia de contenidos, las formas y los instrumentos de evaluación, la organización del aula, el agrupamiento del alumnado y todo lo incluido dentro del ámbito de la metodología."
+    },
+    {
+      "question": "¿Quién debe elaborar las medidas de refuerzo educativo según el artículo 48.2?",
+      "options": [
+        "El departamento de orientación",
+        "La profesora o el profesor que impartan el área, la materia, el ámbito o el módulo en que el alumnado necesite esa medida",
+        "El equipo directivo",
+        "El profesorado de apoyo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 48.2 establece que las medidas de refuerzo educativo debe elaborarlas la profesora o el profesor que impartan el área, la materia, el ámbito o el módulo en que la alumna o el alumno necesiten esa medida."
+    },
+    {
+      "question": "Según el artículo 48.3, ¿dónde se llevará a cabo el desarrollo de las medidas de refuerzo educativo?",
+      "options": [
+        "En un aula específica de refuerzo",
+        "En el contexto escolar ordinario y por el profesorado que imparta el área, la materia, el ámbito o el módulo",
+        "En el departamento de orientación",
+        "En horario extraescolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 48.3 establece que el desarrollo de las medidas de refuerzo educativo se llevará a cabo en el contexto escolar ordinario y por el profesorado que imparta el área, la materia, el ámbito o el módulo."
+    },
+    {
+      "question": "¿Dónde se reflejarán las medidas de refuerzo educativo según el artículo 48.4?",
+      "options": [
+        "En el expediente académico del alumnado",
+        "En los documentos oficiales de evaluación del alumnado",
+        "En el Plan general de atención a la diversidad",
+        "En las actas de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 48.4 establece que, con carácter general, las medidas de refuerzo educativo se reflejarán en los documentos oficiales de evaluación del alumnado."
+    },
+    {
+      "question": "¿Qué son los programas de enriquecimiento curricular según el artículo 49.1?",
+      "options": [
+        "Programas de ampliación de contenidos para todo el alumnado",
+        "Programas de tratamiento personalizado destinados al alumnado que presenta altas capacidades intelectuales",
+        "Programas de refuerzo para alumnado con dificultades de aprendizaje",
+        "Programas de apoyo educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 49.1 define los programas de enriquecimiento curricular como programas de tratamiento personalizado destinados al alumnado que presenta altas capacidades intelectuales."
+    },
+    {
+      "question": "¿Dónde deben desarrollarse los programas de enriquecimiento curricular según el artículo 49.4?",
+      "options": [
+        "En un aula específica para alumnado con altas capacidades",
+        "En el aula ordinaria",
+        "En el departamento de orientación",
+        "En centros especializados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 49.4 establece que los programas de enriquecimiento curricular deberán desarrollarse en el aula ordinaria y tendrán como referente el currículo del curso en el que esté escolarizado el alumnado con altas capacidades intelectuales."
+    },
+    {
+      "question": "¿Qué debe seguir el alumnado de educación primaria que permanezca un año más en el mismo curso según el artículo 50.1?",
+      "options": [
+        "Un programa de adaptación curricular",
+        "Un plan específico de refuerzo",
+        "Un programa de enriquecimiento curricular",
+        "Un plan de orientación académica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 50.1 establece que cuando una alumna o un alumno de educación primaria permanezca un año más en el mismo curso, debe seguir un plan específico de refuerzo, que tiene como finalidad atender y superar las dificultades que llevaron a esa repetición."
+    },
+    {
+      "question": "¿Quién elabora el plan específico de refuerzo para educación primaria según el artículo 50.1?",
+      "options": [
+        "El profesorado tutor",
+        "El equipo docente, bajo la coordinación del profesorado tutor",
+        "El departamento de orientación",
+        "La jefatura de estudios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 50.1 establece que el plan específico de refuerzo será elaborado por el equipo docente, bajo la coordinación del profesorado tutor."
+    },
+    {
+      "question": "Según el artículo 50.2, ¿qué debe incluir el plan específico de refuerzo?",
+      "options": [
+        "Solo las medidas ordinarias a aplicar",
+        "Identificación del alumnado, relación de necesidades educativas, medidas ordinarias aplicadas, estrategias metodológicas, recursos necesarios, oferta de medidas extraordinarias en su caso y acreditación de información a la familia",
+        "Solo los resultados académicos del curso anterior",
+        "Solo las adaptaciones curriculares necesarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 50.2 enumera que el plan debe incluir: identificación del alumnado, relación de necesidades educativas que motivaron la repetición, medidas ordinarias aplicadas en el curso anterior, estrategias metodológicas, recursos necesarios, en su caso oferta de medidas extraordinarias y acreditación de la información a la familia."
+    },
+    {
+      "question": "¿Cuándo se hace el seguimiento del plan específico de refuerzo según el artículo 50.3?",
+      "options": [
+        "Al final del curso escolar",
+        "En cada sesión de evaluación",
+        "Al inicio del curso escolar",
+        "En el primer trimestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 50.3 establece que en cada sesión de evaluación se hará el seguimiento del plan específico de refuerzo y, de ser necesario, se le realizarán los ajustes que procedan."
+    },
+    {
+      "question": "Según el artículo 51.1, ¿qué debe seguir el alumnado de ESO que se promueva de curso con materias sin superar?",
+      "options": [
+        "Un programa de diversificación curricular",
+        "Un plan de refuerzo en cada una de esas materias, destinado a su recuperación y a su superación",
+        "Un plan de orientación académica",
+        "Un programa de apoyo educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 51.1 establece que el alumnado de ESO que se promueva de curso con materias sin superar deberá seguir un plan de refuerzo en cada una de esas materias, destinado a su recuperación y a su superación."
+    },
+    {
+      "question": "¿Quién elabora el plan de refuerzo para materias pendientes según el artículo 51.2?",
+      "options": [
+        "El profesorado tutor",
+        "El profesorado que imparte la materia que el alumnado tenga pendiente de superar, bajo las directrices del correspondiente departamento didáctico",
+        "El departamento de orientación",
+        "La jefatura de estudios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 51.2 establece que el plan de refuerzo será elaborado por el profesorado que imparte la materia que la alumna o el alumno tengan pendiente de superar, bajo las directrices del correspondiente departamento didáctico y con el conocimiento del profesorado tutor."
+    },
+    {
+      "question": "Según el artículo 51.4, ¿qué deben obtener los alumnos para superar la materia pendiente?",
+      "options": [
+        "Un aprobado en el examen final",
+        "Evaluación positiva en el plan de refuerzo correspondiente",
+        "La asistencia regular al plan de refuerzo",
+        "Un trabajo de investigación aprobado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 51.4 establece que para superar la materia pendiente, la alumna o el alumno deberán obtener evaluación positiva en el plan de refuerzo correspondiente, lo que se tendrá en cuenta a efectos de promoción y/o titulación."
+    },
+    {
+      "question": "¿Qué debe seguir el alumnado de ESO que permanezca un año más en el mismo curso según el artículo 52.1?",
+      "options": [
+        "Un plan específico de refuerzo",
+        "Un plan específico personalizado",
+        "Un programa de diversificación curricular",
+        "Un programa de mejora del aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 52.1 establece que cuando una alumna o un alumno de ESO permanezca un año más en el mismo curso debe seguir un plan específico personalizado."
+    },
+    {
+      "question": "Según el artículo 53.1, ¿qué representan las competencias y las habilidades sociales?",
+      "options": [
+        "Un conjunto de conocimientos académicos",
+        "Un conjunto de procesos cognitivos, socioafectivos y emocionales que desarrollan las capacidades para llevar a cabo comportamientos socialmente adecuados",
+        "Un conjunto de destrezas físicas",
+        "Un conjunto de habilidades profesionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 53.1 define que las competencias y las habilidades sociales representan un conjunto de procesos cognitivos, socioafectivos y emocionales que desarrollan las capacidades para llevar a cabo comportamientos socialmente adecuados y el desarrollo de una convivencia positiva."
+    },
+    {
+      "question": "¿Qué debe desarrollar el departamento de orientación según el artículo 53.2 (segundo párrafo)?",
+      "options": [
+        "Programas de refuerzo educativo",
+        "Un programa que contribuya a la adquisición de habilidades y competencias sociales como complemento de las medidas correctoras de las conductas contrarias a la convivencia",
+        "Programas de enriquecimiento curricular",
+        "Planes de acción tutorial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 53.2 (segundo párrafo) establece que el departamento de orientación elaborará y desarrollará un programa que contribuya a la adquisición de habilidades y competencias sociales por parte del alumnado como complemento de las medidas correctoras de las conductas contrarias a la convivencia."
+    },
+    {
+      "question": "Según el artículo 54, ¿qué son las medidas extraordinarias de atención a la diversidad?",
+      "options": [
+        "Medidas que no modifican el currículo ordinario",
+        "Medidas dirigidas a dar respuesta a las necesidades educativas del alumnado con necesidad específica de apoyo educativo que pueden requerir modificaciones significativas del currículo ordinario",
+        "Medidas que afectan solo a la metodología",
+        "Medidas que solo requieren recursos materiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 54 define las medidas extraordinarias como todas las dirigidas a dar respuesta a las necesidades educativas del alumnado con necesidad específica de apoyo educativo que pueden requerir modificaciones significativas del currículo ordinario y/o suponer cambios esenciales en el ámbito organizativo."
+    },
+    {
+      "question": "¿Cuándo se aplicarán las medidas extraordinarias según el artículo 54?",
+      "options": [
+        "Desde el inicio de la escolarización",
+        "Antes de las medidas ordinarias",
+        "Una vez agotadas las de carácter ordinario o por resultar estas insuficientes",
+        "En cualquier momento del curso escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 54 establece que las medidas extraordinarias se aplicarán una vez agotadas las de carácter ordinario o por resultar estas insuficientes."
+    },
+    {
+      "question": "Según el artículo 55.1, ¿a qué alumnado van dirigidas principalmente las adaptaciones curriculares?",
+      "options": [
+        "A todo el alumnado con dificultades de aprendizaje",
+        "Al alumnado con necesidades educativas especiales y, excepcionalmente, al restante alumnado con necesidad específica de apoyo educativo",
+        "Al alumnado con altas capacidades intelectuales",
+        "Al alumnado en situación de vulnerabilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.1 establece que las adaptaciones curriculares van dirigidas al alumnado con necesidades educativas especiales y, excepcionalmente, al restante alumnado con necesidad específica de apoyo educativo."
+    },
+    {
+      "question": "¿Qué se considera currículo de referencia para las adaptaciones curriculares según el artículo 55.4?",
+      "options": [
+        "El del curso anterior",
+        "El del ciclo o nivel en el que la alumna o el alumno están matriculados",
+        "El de la educación primaria",
+        "El del segundo ciclo de educación infantil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.4 establece que para la elaboración de adaptaciones curriculares se partirá del currículo de referencia, entendido este como el del ciclo o nivel en el que la alumna o el alumno están matriculados."
+    },
+    {
+      "question": "¿Qué debe acreditarse por escrito cuando una alumna o un alumno precisen adaptación curricular según el artículo 55.5?",
+      "options": [
+        "La autorización del servicio de Inspección Educativa",
+        "La información a la familia de esta medida de atención a la diversidad",
+        "El visto bueno de la dirección del centro",
+        "La conformidad del equipo docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.5 establece que cuando una alumna o un alumno precisen adaptación del currículo, la familia será informada de esta medida de atención a la diversidad, de lo que quedará constancia por escrito."
+    },
+    {
+      "question": "Según el artículo 55.6.a), ¿qué debe constar en el informe psicopedagógico para la adaptación curricular?",
+      "options": [
+        "Los resultados académicos del alumnado",
+        "El nivel de competencia curricular de la alumna o del alumno, aportado por el profesorado de las áreas o de las materias susceptibles de adaptación",
+        "Las medidas ordinarias aplicadas",
+        "El dictamen de escolarización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.6.a) establece que en el informe psicopedagógico debe constar el nivel de competencia curricular de la alumna o del alumno, aportado por el profesorado de las áreas o de las materias susceptibles de adaptación y coordinado por el profesorado tutor."
+    },
+    {
+      "question": "¿Quién convoca la reunión para decidir la pertinencia de realizar adaptación curricular según el artículo 55.6.b)?",
+      "options": [
+        "El profesorado tutor",
+        "La jefatura de estudios",
+        "El departamento de orientación",
+        "La dirección del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.6.b) establece que la jefatura de estudios convocará y coordinará la reunión a la que deben asistir el equipo docente de la alumna o del alumno y la jefatura del departamento de orientación."
+    },
+    {
+      "question": "Según el artículo 55.6.c), ¿quién elabora la propuesta de adaptación de cada área o materia?",
+      "options": [
+        "El departamento de orientación",
+        "El profesorado que la imparte",
+        "El profesorado tutor",
+        "El equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.6.c) establece que la propuesta de adaptación de cada área o materia será elaborada por el profesorado que la imparte."
+    },
+    {
+      "question": "¿Quién es responsable del desarrollo y evaluación de la adaptación curricular según el artículo 55.6.c)?",
+      "options": [
+        "El departamento de orientación",
+        "El profesorado que imparte la materia, en colaboración, en su caso, con el profesorado de apoyo al alumnado con necesidades educativas especiales",
+        "El profesorado tutor",
+        "La jefatura de estudios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.6.c) establece que el profesorado que imparte la materia será el responsable del desarrollo y de la evaluación de la adaptación curricular, en colaboración, en su caso, con el profesorado de apoyo al alumnado con necesidades educativas especiales."
+    },
+    {
+      "question": "¿Quién conforma el expediente de la adaptación según el artículo 55.7?",
+      "options": [
+        "El profesorado tutor",
+        "La jefatura del departamento de orientación",
+        "La jefatura de estudios",
+        "El servicio de Inspección Educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.7 establece que la jefatura del departamento de orientación conformará el expediente de la adaptación."
+    },
+    {
+      "question": "¿A quién envía la dirección del centro el expediente de la adaptación curricular según el artículo 55.8?",
+      "options": [
+        "A la Dirección General de Centros y Recursos Humanos",
+        "Al servicio territorial de Inspección Educativa, a quien le compete la autorización",
+        "A la Secretaría General de Educación",
+        "A la jefatura territorial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.8 establece que la dirección del centro docente enviará el expediente de la adaptación curricular al servicio territorial de Inspección Educativa, a quien le compete la autorización."
+    },
+    {
+      "question": "¿Cuál es el plazo general para solicitar la autorización de adaptaciones curriculares según el artículo 55.8?",
+      "options": [
+        "Antes de la finalización del mes de octubre",
+        "Antes de la finalización del mes de noviembre",
+        "Antes de la finalización del mes de diciembre",
+        "Antes de la finalización del mes de septiembre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.8 establece que, con carácter general, la solicitud de la dirección del centro docente se hará antes de la finalización del mes de noviembre."
+    },
+    {
+      "question": "Según el artículo 55.10, ¿dónde se realizará el desarrollo de las adaptaciones curriculares?",
+      "options": [
+        "En un aula específica de apoyo",
+        "En el contexto del aula ordinaria de la alumna o del alumno, en la medida del posible",
+        "En el departamento de orientación",
+        "En un centro de educación especial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.10 establece que el desarrollo de las adaptaciones curriculares se realizará, en la medida del posible, en el contexto del aula ordinaria de la alumna o del alumno."
+    },
+    {
+      "question": "¿Impide la adaptación curricular la promoción o titulación según el artículo 55.12?",
+      "options": [
+        "Sí, impide la promoción",
+        "No, no puede impedirle la promoción o titulación",
+        "Sí, impide la titulación",
+        "Depende de la etapa educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.12 establece que los referentes de la evaluación del alumnado con adaptación curricular serán los incluidos en dicha adaptación, sin que ello pueda impedirle la promoción o titulación."
+    },
+    {
+      "question": "¿Cuál es la duración de las adaptaciones del currículo según el artículo 55.14?",
+      "options": [
+        "De un trimestre",
+        "De un ciclo o de un curso, en función de la etapa educativa en que estén escolarizados",
+        "De dos cursos escolares",
+        "De toda la etapa educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.14 establece que la duración de las adaptaciones del currículo podrá ser de un ciclo o de un curso, en función de la etapa educativa en que estén escolarizados el alumno o la alumna."
+    },
+    {
+      "question": "¿Qué son los agrupamientos flexibles según el artículo 56.1?",
+      "options": [
+        "Agrupamientos permanentes de alumnado con altas capacidades",
+        "Agrupamientos temporales de alumnado que presenta dificultades de aprendizaje en determinadas áreas o materias",
+        "Agrupamientos de alumnado para actividades extraescolares",
+        "Agrupamientos de alumnado con necesidades educativas especiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 56.1 define los agrupamientos flexibles como agrupamientos temporales de alumnado que presenta dificultades de aprendizaje en determinadas áreas o materias en las que necesita una atención más individualizada."
+    },
+    {
+      "question": "¿En qué cursos se pueden realizar agrupamientos flexibles según el artículo 56.1?",
+      "options": [
+        "En todos los cursos de educación primaria",
+        "En los dos últimos cursos de la educación primaria y en la educación secundaria obligatoria",
+        "En todos los cursos de educación secundaria obligatoria",
+        "En educación infantil y primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 56.1 establece que los agrupamientos flexibles solamente podrán realizarse en los dos últimos cursos de la educación primaria y en la educación secundaria obligatoria."
+    },
+    {
+      "question": "¿Qué carácter tiene la medida de agrupamientos flexibles según el artículo 56.2?",
+      "options": [
+        "Un carácter permanente",
+        "Un carácter reversible",
+        "Un carácter excepcional",
+        "Un carácter obligatorio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 56.2 establece que esta medida tiene un carácter reversible, ya que su finalidad es la pronta incorporación del alumnado a su grupo ordinario."
+    },
+    {
+      "question": "¿En qué áreas o materias pueden realizarse prioritariamente los agrupamientos flexibles según el artículo 56.3?",
+      "options": [
+        "En Ciencias Sociales y Ciencias Naturales",
+        "En Lengua Gallega y Literatura, Lengua Castellana y Literatura, y Matemáticas",
+        "En Educación Física y Educación Artística",
+        "En Inglés y Tecnología"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 56.3 establece que los agrupamientos flexibles podrán realizarse, prioritariamente, en las áreas o en las materias de Lengua Gallega y Literatura, Lengua Castellana y Literatura, y Matemáticas."
+    },
+    {
+      "question": "¿Cuántos períodos lectivos como máximo puede estar el alumnado en agrupamientos flexibles según el artículo 56.3?",
+      "options": [
+        "10 períodos lectivos",
+        "13 períodos lectivos",
+        "15 períodos lectivos",
+        "20 períodos lectivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 56.3 establece que una misma alumna o un mismo alumno podrán derivarse a más de un grupo flexible, siempre que no se superen, con carácter general, los 13 períodos lectivos de la totalidad del horario semanal del grupo ordinario."
+    },
+    {
+      "question": "¿Cuál es el número máximo de alumnado en agrupamiento flexible en educación primaria según el artículo 56.5?",
+      "options": [
+        "Cinco alumnos",
+        "Ocho alumnos",
+        "Diez alumnos",
+        "Doce alumnos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 56.5 establece que el número máximo de alumnado de cada agrupamiento flexible será de ocho en educación primaria y de diez en educación secundaria obligatoria."
+    },
+    {
+      "question": "¿Cuándo se convoca la reunión para conformar un agrupamiento flexible según el artículo 56.6.a)?",
+      "options": [
+        "Al inicio del curso escolar",
+        "Después de la evaluación final ordinaria y, en su caso, de la extraordinaria",
+        "En el primer trimestre del curso",
+        "Al finalizar el primer trimestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 56.6.a) establece que la jefatura de estudios convocará una reunión después de la evaluación final ordinaria y, en su caso, de la extraordinaria."
+    },
+    {
+      "question": "¿Puede el alumnado tener adaptación curricular en el área o materia para la que se propone agrupamiento flexible según el artículo 56.6.a)?",
+      "options": [
+        "Sí, es compatible",
+        "No, el alumnado propuesto no podrá contar en el mismo curso académico con adaptación curricular en el área o en la materia en que se propone el agrupamiento",
+        "Sí, pero solo en educación primaria",
+        "Sí, pero solo en educación secundaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 56.6.a) establece que el alumnado propuesto no podrá contar en el mismo curso académico con adaptación curricular en el área o en la materia en que se propone el agrupamiento."
+    },
+    {
+      "question": "¿Cuándo debe solicitar la dirección del centro la autorización del agrupamiento flexible según el artículo 56.7?",
+      "options": [
+        "Durante el mes de junio",
+        "Durante el mes de septiembre",
+        "Durante el mes de octubre",
+        "Durante el mes de noviembre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 56.7 establece que durante el mes de septiembre, la dirección del centro docente solicitará al servicio territorial de Inspección Educativa la autorización del agrupamiento flexible."
+    },
+    {
+      "question": "¿Cómo se define el Plan general de atención a la diversidad según el artículo 57.1?",
+      "options": [
+        "Un documento de evaluación del alumnado",
+        "El documento en el que cada centro docente concreta, ordena, coordina y desarrolla, de modo global, las actuaciones en materia de atención a la diversidad",
+        "Un protocolo de actuación ante necesidades educativas especiales",
+        "Un programa de formación del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 57.1 define el Plan general de atención a la diversidad como el documento en el que cada centro docente concreta, ordena, coordina y desarrolla, de modo global, las actuaciones en materia de atención a la diversidad."
+    },
+    {
+      "question": "¿Qué debe incluir el Plan general de atención a la diversidad según el artículo 57.2.e)?",
+      "options": [
+        "El horario del profesorado",
+        "Los protocolos de detección y de demanda de evaluación psicopedagógica",
+        "Los criterios de admisión del alumnado",
+        "El presupuesto del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 57.2.e) establece que el Plan debe incluir los protocolos de detección y de demanda de evaluación psicopedagógica."
+    },
+    {
+      "question": "¿Quién es responsable de coordinar la elaboración del Plan general según el artículo 57.3?",
+      "options": [
+        "El equipo directivo",
+        "La jefatura del departamento de orientación",
+        "El profesorado tutor",
+        "El claustro de profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 57.3 establece que la responsabilidad de la coordinación de la elaboración del Plan general de atención a la diversidad y de su propuesta corresponde a la jefatura del departamento de orientación."
+    },
+    {
+      "question": "¿Quién aprueba el Plan general de atención a la diversidad según el artículo 57.4?",
+      "options": [
+        "La dirección del centro",
+        "El claustro de profesorado",
+        "El Consejo Escolar",
+        "El servicio de Inspección Educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 57.4 establece que el Plan general de atención a la diversidad será aprobado por el claustro de profesorado e incorporado a la programación general anual del centro docente."
+    },
+    {
+      "question": "¿Quién debe supervisar el Plan general de atención a la diversidad según el artículo 57.5?",
+      "options": [
+        "La dirección del centro",
+        "El departamento de orientación",
+        "El servicio territorial de Inspección Educativa",
+        "La Consellería de Educación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 57.5 establece que el Plan general de atención a la diversidad será supervisado por el servicio territorial de Inspección Educativa."
+    },
+    {
+      "question": "Según el artículo 58.1, ¿cuáles son los recursos profesionales para atender a la diversidad?",
+      "options": [
+        "Solo el profesorado tutor",
+        "El profesorado en general, el profesorado especialista, el personal de apoyo y los servicios de orientación educativa y profesional",
+        "Solo el departamento de orientación",
+        "Solo el equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 58.1 enumera como recursos profesionales: el profesorado en general, el profesorado especialista, el personal de apoyo y los servicios de orientación educativa y profesional."
+    },
+    {
+      "question": "¿Qué profesorado especialista se menciona en el artículo 58.2?",
+      "options": [
+        "Profesorado de idiomas",
+        "Profesorado especialista en pedagogía terapéutica y profesorado especialista en audición y lenguaje",
+        "Profesorado de educación física",
+        "Profesorado de música"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 58.2 menciona al profesorado especialista en pedagogía terapéutica y al profesorado especialista en audición y lenguaje."
+    },
+    {
+      "question": "¿Qué personal de apoyo puede contar el centro según el artículo 58.3?",
+      "options": [
+        "Personal auxiliar educativo",
+        "Personal auxiliar cuidador, personal intérprete de lengua de signos y personal fisioterapeuta",
+        "Personal de limpieza",
+        "Personal de comedor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 58.3 enumera el personal auxiliar cuidador, el personal intérprete de lengua de signos y el personal fisioterapeuta."
+    },
+    {
+      "question": "¿Cuál es la función del personal auxiliar cuidador según el artículo 59.1?",
+      "options": [
+        "Impartir docencia",
+        "Atender al alumnado con necesidades educativas especiales con dificultad de autonomía en su movilidad, en el vestido, en la alimentación o en el aseo",
+        "Realizar evaluaciones psicopedagógicas",
+        "Elaborar adaptaciones curriculares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 59.1 establece que el personal auxiliar cuidador tiene la función de atender al alumnado con necesidades educativas especiales con dificultad de autonomía en su movilidad, en el vestido, en la alimentación o en el aseo."
+    },
+    {
+      "question": "¿Cuál es la finalidad de los centros de educación especial como centros de referencia según el artículo 61.1?",
+      "options": [
+        "Escolarizar a todo el alumnado con necesidades educativas especiales",
+        "Asesorar a los centros docentes ordinarios, facilitar el acceso a recursos específicos y promover la colaboración",
+        "Formar al profesorado de centros ordinarios",
+        "Evaluar al alumnado con necesidades educativas especiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 61.1 establece que la finalidad de los centros de educación especial como centros de referencia y apoyo es asesorar a los centros docentes ordinarios, facilitar el acceso a recursos específicos y promover la colaboración."
+    },
+    {
+      "question": "¿Qué enseñanzas podrán impartirse en los centros de educación especial según el artículo 62.1?",
+      "options": [
+        "Solo educación infantil y primaria",
+        "Educación básica, formación profesional específica y programas formativos de cualificación básica y transición a la vida adulta",
+        "Solo educación secundaria obligatoria",
+        "Solo programas de formación profesional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 62.1 establece que en los centros de educación especial podrán impartirse las enseñanzas de educación básica (educación primaria y educación secundaria obligatoria), de formación profesional específica y programas formativos de cualificación básica y de transición a la vida adulta."
+    },
+    {
+      "question": "¿Qué debe incluir el proyecto educativo de los centros de educación especial según el artículo 62.2?",
+      "options": [
+        "Solo los objetivos de cada etapa",
+        "Los criterios para la organización de grupos, para la asignación del profesorado tutor, para la planificación y desarrollo de las enseñanzas, la evaluación del alumnado y la participación de las familias",
+        "Solo el horario lectivo",
+        "Solo los criterios de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 62.2 establece que el proyecto educativo de los centros de educación especial incluirá, entre otros aspectos, los criterios para la organización de grupos, para la asignación del profesorado tutor, para la planificación y desarrollo de las enseñanzas, la evaluación del alumnado y la participación de las familias."
+    },
+    {
+      "question": "¿Con qué criterios se organizará el alumnado en los centros de educación especial según el artículo 62.3?",
+      "options": [
+        "Solo por edad cronológica",
+        "Considerando criterios relacionados con la edad cronológica, con el nivel de desarrollo de las competencias y con el nivel de autonomía del alumnado",
+        "Solo por nivel de competencia curricular",
+        "Solo por tipo de discapacidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 62.3 establece que el alumnado escolarizado en centros de educación especial se organizará en grupos, considerando criterios relacionados con la edad cronológica, con el nivel de desarrollo de las competencias y con el nivel de autonomía del alumnado."
+    },
+    {
+      "question": "Según el artículo 63.1, ¿qué debe promover la Consellería respecto a la participación de las familias?",
+      "options": [
+        "La asistencia a reuniones trimestrales",
+        "El conocimiento del proyecto educativo, la colaboración con el profesorado, la participación en los órganos de gobierno y la información sobre la atención educativa",
+        "Solo la participación en el Consejo Escolar",
+        "Solo la firma de documentos administrativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 63.1 establece que la Consellería promoverá el conocimiento del proyecto educativo, la colaboración con el profesorado, la participación en los órganos de gobierno del centro y la información sobre la atención educativa que reciben sus hijas e hijos."
+    },
+    {
+      "question": "¿Qué deben promover los centros docentes según el artículo 64.1?",
+      "options": [
+        "La competitividad entre el profesorado",
+        "La coordinación en el desarrollo de las funciones del profesorado, tanto en su vertiente horizontal como vertical",
+        "La autonomía individual del profesorado",
+        "La especialización por materias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 64.1 establece que los centros docentes promoverán la coordinación en el desarrollo de las funciones del profesorado, tanto en su vertiente horizontal como vertical."
+    },
+    {
+      "question": "¿Qué debe establecer el proyecto educativo según el artículo 64.2?",
+      "options": [
+        "El horario de las reuniones de coordinación",
+        "Los tiempos y los espacios que posibiliten la coordinación del profesorado, especialmente en el tránsito entre etapas, ciclos y/o cursos",
+        "El calendario escolar",
+        "Las fechas de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 64.2 establece que el proyecto educativo establecerá los tiempos y los espacios que posibiliten la coordinación del profesorado, especialmente en el tránsito entre etapas, ciclos y/o cursos."
+    },
+    {
+      "question": "Según el artículo 65, ¿qué debe promover la Consellería entre los centros docentes?",
+      "options": [
+        "La competencia por recursos",
+        "La colaboración entre ellos para proyectos compartidos de atención a la diversidad",
+        "El aislamiento para desarrollar proyectos propios",
+        "La uniformidad en las metodologías"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 65 establece que la Consellería promoverá la colaboración entre los centros docentes para que diseñen y desarrollen proyectos compartidos de atención a la diversidad."
+    },
+    {
+      "question": "¿Qué debe promover la Consellería con otras administraciones según el artículo 66?",
+      "options": [
+        "La competencia entre administraciones",
+        "La coordinación, mediante el establecimiento de protocolos de colaboración, con entidades que atienden al alumnado con necesidad específica de apoyo educativo",
+        "La independencia de actuaciones",
+        "La centralización de recursos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 66 establece que la Consellería promoverá la coordinación, mediante el establecimiento de protocolos de colaboración, con otras administraciones y con entidades con o sin ánimo de lucro que atienden al alumnado con necesidad específica de apoyo educativo."
+    },
+    {
+      "question": "¿Qué objetivos deben tener los protocolos de colaboración según el artículo 66?",
+      "options": [
+        "Solo la asignación de recursos económicos",
+        "La colaboración en la identificación de necesidades educativas, el intercambio de información, el asesoramiento mutuo, el desarrollo de intervenciones conjuntas y el fomento de la investigación y la innovación",
+        "Solo el intercambio de información",
+        "Solo el desarrollo de programas formativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 66 enumera como objetivos: la colaboración en la identificación de necesidades educativas, el intercambio de información, el asesoramiento mutuo, el desarrollo de intervenciones conjuntas y el fomento de la investigación y la innovación."
+    },
+    {
+      "question": "Según el artículo 67.1, ¿qué se entiende por desarrollo social y emocional?",
+      "options": [
+        "El desarrollo cognitivo del alumnado",
+        "El proceso de adquisición de competencias para conocerse, gestionar las emociones, sentir interés por las demás personas, relacionarse satisfactoriamente y tomar decisiones responsables",
+        "El desarrollo físico del alumnado",
+        "El rendimiento académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 67.1 define el desarrollo social y emocional como el proceso de adquisición de competencias para conocerse, gestionar las emociones, sentir interés por las demás personas, relacionarse satisfactoriamente y tomar decisiones responsables."
+    },
+    {
+      "question": "¿Qué deben promover los centros docentes según el artículo 67.2?",
+      "options": [
+        "Solo el desarrollo académico",
+        "El desarrollo social y emocional del alumnado, integrando las competencias sociales y emocionales en todas las áreas y materias",
+        "Solo el desarrollo físico",
+        "Solo la competencia lingüística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 67.2 establece que los centros docentes promoverán el desarrollo social y emocional del alumnado, integrando las competencias sociales y emocionales en todas las áreas y materias."
+    },
+    {
+      "question": "¿Qué debe incluir el Plan general de atención a la diversidad según el artículo 68.1?",
+      "options": [
+        "Solo medidas académicas",
+        "Acciones dirigidas a promover la protección y la promoción del talento",
+        "Solo programas de refuerzo",
+        "Solo adaptaciones curriculares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 68.1 establece que el Plan general de atención a la diversidad incluirá acciones dirigidas a promover la protección y la promoción del talento."
+    },
+    {
+      "question": "¿Qué debe considerar el diseño de programas de protección del talento según el artículo 68.2?",
+      "options": [
+        "Solo el rendimiento académico",
+        "Los aspectos curriculares y el desarrollo social y emocional del alumnado",
+        "Solo los aspectos disciplinares",
+        "Solo las competencias básicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 68.2 establece que el diseño de programas de protección del talento considerará tanto los aspectos curriculares como el desarrollo social y emocional del alumnado."
+    },
+    {
+      "question": "Según el artículo 69.1, ¿qué competencias son necesarias para la atención a la diversidad?",
+      "options": [
+        "Solo competencias disciplinares",
+        "Competencias psicopedagógicas, didácticas, organizativas, emocionales, comunicativas y relacionales, y digitales",
+        "Solo competencias tecnológicas",
+        "Solo competencias lingüísticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 69.1 enumera las competencias necesarias: psicopedagógicas, didácticas, organizativas, emocionales, comunicativas y relacionales, y digitales."
+    },
+    {
+      "question": "¿Qué debe establecer el Plan de formación del profesorado según el artículo 69.2?",
+      "options": [
+        "Solo cursos sobre nuevas tecnologías",
+        "Actuaciones dirigidas al desarrollo de las competencias indicadas en el artículo 69.1",
+        "Solo seminarios de disciplinas específicas",
+        "Solo conferencias sobre educación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 69.2 establece que el Plan de formación del profesorado establecerá actuaciones dirigidas al desarrollo de las competencias indicadas en el artículo 69.1."
+    },
+    {
+      "question": "Según el artículo 70.1, ¿qué debe promover cada centro docente?",
+      "options": [
+        "La competitividad entre el profesorado",
+        "Actuaciones dirigidas a promover el bienestar del profesorado, su motivación, su actualización competencial y su desarrollo profesional",
+        "La rotación del profesorado",
+        "La especialización exclusiva en una materia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 70.1 establece que cada centro docente promoverá actuaciones dirigidas a promover el bienestar del profesorado, su motivación, su actualización competencial y su desarrollo profesional."
+    },
+    {
+      "question": "¿Qué debe fomentar la Consellería según el artículo 71.1?",
+      "options": [
+        "La competencia entre centros",
+        "La práctica reflexiva, la investigación, la innovación educativa y el intercambio de buenas prácticas",
+        "La uniformidad metodológica",
+        "La memorización de contenidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 71.1 establece que la Consellería fomentará la práctica reflexiva, la investigación, la innovación educativa y el intercambio de buenas prácticas."
+    },
+    {
+      "question": "¿Qué deben incluir los centros docentes según el artículo 72.1 para mejorar la calidad?",
+      "options": [
+        "Solo los resultados académicos del alumnado",
+        "Indicadores para el seguimiento y la mejora de su proyecto educativo, del desarrollo del proceso de enseñanza y de aprendizaje y de los resultados del alumnado",
+        "Solo el número de aprobados",
+        "Solo las tasas de promoción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 72.1 establece que los centros docentes incluirán indicadores para el seguimiento y la mejora de su proyecto educativo, del desarrollo del proceso de enseñanza y de aprendizaje y de los resultados del alumnado."
+    },
+    {
+      "question": "¿Qué debe considerar el diseño de indicadores según el artículo 72.2?",
+      "options": [
+        "Solo aspectos cuantitativos",
+        "Aspectos cuantitativos y cualitativos, en relación con los procesos de enseñanza, de aprendizaje y de evaluación, la organización del aula, la coordinación docente, los recursos y su utilización, las medidas de atención a la diversidad y la participación de las familias",
+        "Solo los resultados académicos",
+        "Solo la asistencia del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 72.2 establece que el diseño de indicadores considerará aspectos cuantitativos y cualitativos, en relación con múltiples aspectos del proceso educativo."
+    },
+    {
+      "question": "Según la disposición adicional, ¿qué normativa deben cumplir los centros respecto a la protección de datos?",
+      "options": [
+        "Solo la normativa autonómica",
+        "La normativa de la Unión Europea y del Estado español de protección de datos de carácter personal",
+        "Solo la normativa estatal",
+        "Solo las directrices internas del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La disposición adicional establece que los centros docentes darán cumplimiento a la normativa de la Unión Europea y del Estado español de protección de datos de carácter personal."
+    },
+    {
+      "question": "¿Qué órdenes deroga esta orden según la disposición derogatoria?",
+      "options": [
+        "Tres órdenes",
+        "Cinco órdenes",
+        "Siete órdenes",
+        "Diez órdenes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La disposición derogatoria enumera cinco órdenes que se derogan con la entrada en vigor de esta orden."
+    },
+    {
+      "question": "Según la disposición derogatoria, ¿cuál de estas órdenes se deroga?",
+      "options": [
+        "Orden del 7 de octubre de 1996",
+        "Orden del 27 de diciembre de 2002",
+        "Orden del 15 de julio de 2015",
+        "Orden del 10 de marzo de 2018"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La disposición derogatoria incluye la Orden del 27 de diciembre de 2002 entre las órdenes derogadas."
+    },
+    {
+      "question": "¿Qué autoriza la disposición final primera?",
+      "options": [
+        "A la dirección de los centros a desarrollar la orden",
+        "A las personas titulares de la Dirección General de Centros y Recursos Humanos y de la Secretaría General de Educación y Formación Profesional a dictar las disposiciones necesarias",
+        "Al profesorado a elaborar programas propios",
+        "A los servicios de Inspección a supervisar la aplicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La disposición final primera autoriza a las personas titulares de la Dirección General de Centros y Recursos Humanos y de la Secretaría General de Educación y Formación Profesional a dictar las disposiciones necesarias para el desarrollo y la aplicación de esta orden."
+    },
+    {
+      "question": "¿Cuándo entra en vigor esta orden según la disposición final segunda?",
+      "options": [
+        "El mismo día de su publicación",
+        "Al día siguiente de su publicación en el Diario Oficial de Galicia",
+        "Un mes después de su publicación",
+        "Al inicio del siguiente curso escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La disposición final segunda establece que esta orden entrará en vigor al día siguiente de su publicación en el Diario Oficial de Galicia."
+    },
+    {
+      "question": "Según el artículo 4.1.e), ¿qué debe realizar la dirección del centro respecto a los proyectos y planes?",
+      "options": [
+        "Solo su elaboración",
+        "La realización del seguimiento y de la evaluación de los proyectos, planes y programas, así como, en su caso, de las propuestas de mejora que correspondan",
+        "Solo su aprobación",
+        "Solo su difusión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4.1.e) establece que la dirección del centro debe realizar el seguimiento y de la evaluación de los proyectos, planes y programas, así como, en su caso, de las propuestas de mejora que correspondan."
+    },
+    {
+      "question": "Según el artículo 11.5, ¿qué debe promover la Consellería para favorecer actuaciones preventivas?",
+      "options": [
+        "Solo programas de formación",
+        "El desarrollo de acciones interdisciplinarias e interinstitucionales, mediante el establecimiento de acuerdos o convenios",
+        "Solo cursos de especialización",
+        "Solo protocolos internos de los centros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 11.5 establece que la Consellería promoverá el desarrollo de acciones interdisciplinarias e interinstitucionales, mediante el establecimiento de los acuerdos o convenios que procedan."
+    },
+    {
+      "question": "¿En qué enseñanzas se realizan las adaptaciones curriculares según el artículo 55.2?",
+      "options": [
+        "En educación infantil y primaria",
+        "En la educación primaria y en la educación secundaria obligatoria",
+        "En educación secundaria obligatoria y bachillerato",
+        "En todas las etapas educativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.2 establece que las adaptaciones del currículo se realizarán en la educación primaria y en la educación secundaria obligatoria."
+    },
+    {
+      "question": "¿Qué deben promover las líneas metodológicas según el artículo 45.1?",
+      "options": [
+        "La memorización de contenidos",
+        "La inclusión y los ajustes necesarios a la realidad de cada alumna y alumno",
+        "La uniformidad de aprendizaje",
+        "La competitividad entre el alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 45.1 establece que las líneas metodológicas definidas en el proyecto educativo deben ser el garante de la inclusión y de los ajustes necesarios a la realidad de cada alumna y alumno."
+    },
+    {
+      "question": "Según el artículo 57.2.a), ¿qué debe incluir el Plan general de atención a la diversidad?",
+      "options": [
+        "El presupuesto del centro",
+        "Los principios generales de actuación en materia de atención a la diversidad",
+        "El calendario escolar",
+        "Los criterios de admisión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 57.2.a) establece que el Plan general debe incluir los principios generales de actuación en materia de atención a la diversidad."
+    },
+    {
+      "question": "¿Qué información debe incluir el Plan general según el artículo 57.2.b)?",
+      "options": [
+        "El organigrama del centro",
+        "La información sobre las características del alumnado y del profesorado del centro docente",
+        "Los horarios de las clases",
+        "Las normas de convivencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 57.2.b) establece que el Plan general debe incluir la información sobre las características del alumnado y del profesorado del centro docente."
+    },
+    {
+      "question": "¿Qué recursos debe incluir el Plan general según el artículo 57.2.f)?",
+      "options": [
+        "Solo los recursos económicos",
+        "Los recursos profesionales y materiales con los que cuenta el centro para la atención a la diversidad",
+        "Solo los recursos tecnológicos",
+        "Solo los recursos bibliográficos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 57.2.f) establece que el Plan general debe incluir los recursos profesionales y materiales con los que cuenta el centro para la atención a la diversidad."
+    },
+    {
+      "question": "¿Qué debe concretar el Plan general según el artículo 57.2.g)?",
+      "options": [
+        "Los objetivos académicos del centro",
+        "La concreción de las medidas ordinarias y extraordinarias que se prevén, así como sus criterios de aplicación, seguimiento y evaluación",
+        "Los criterios de evaluación del alumnado",
+        "Los criterios de promoción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 57.2.g) establece que el Plan general debe incluir la concreción de las medidas ordinarias y extraordinarias que se prevén, así como sus criterios de aplicación, seguimiento y evaluación."
+    },
+    {
+      "question": "Según el artículo 19.2, ¿qué deben poner a disposición los equipos de orientación específicos?",
+      "options": [
+        "Materiales didácticos",
+        "Un protocolo unificado de demanda para su colaboración",
+        "Programaciones didácticas",
+        "Recursos tecnológicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 19.2 establece que los equipos de orientación específicos pondrán a disposición de los centros docentes un protocolo unificado de demanda para su colaboración."
+    },
+    {
+      "question": "¿Qué debe facilitar el profesorado según el artículo 46.2?",
+      "options": [
+        "Solo exámenes escritos",
+        "Información a cada alumna y alumno sobre su desempeño en las tareas de evaluación, para aprovechar el potencial de aprendizaje",
+        "Solo calificaciones numéricas",
+        "Solo correcciones de errores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 46.2 establece que el profesorado informará a cada alumna y alumno sobre su desempeño en las tareas de evaluación, para aprovechar el potencial de aprendizaje que tiene comparar lo producido con lo esperado."
+    },
+    {
+      "question": "¿Quién coordina las reuniones de seguimiento de las adaptaciones curriculares según el artículo 55.10?",
+      "options": [
+        "La dirección del centro",
+        "El profesorado tutor",
+        "La jefatura de estudios",
+        "El departamento de orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 55.10 establece que el desarrollo de las adaptaciones curriculares se realizará coordinado por el profesorado tutor, quien convocará las reuniones de seguimiento que se estimen necesarias."
+    }
+  ]
+}

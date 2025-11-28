@@ -1,0 +1,2208 @@
+{
+  "title": "Decreto 79/2010 - Plurilingüismo en la enseñanza no universitaria",
+  "description": "Preguntas sobre el decreto que regula el plurilingüismo en la enseñanza no universitaria de Galicia.",
+  "category": "legislacion",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué artículo del Estatuto de autonomía de Galicia define el gallego como lengua propia?",
+      "options": [
+        "El artículo 3",
+        "El artículo 5",
+        "El artículo 7",
+        "El artículo 14"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 5 del Estatuto de autonomía de Galicia define el gallego como lengua propia y dispone que los idiomas gallego y castellano son oficiales en Galicia."
+    },
+    {
+      "question": "¿Qué ley de normalización lingüística regula el uso del gallego en Galicia?",
+      "options": [
+        "Ley 5/1981, de 30 de junio",
+        "Ley 3/1983, de 15 de junio",
+        "Ley 2/1985, de 20 de mayo",
+        "Ley 4/1987, de 10 de julio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Ley 3/1983, de 15 de junio, de normalización lingüística, garantiza la igualdad del gallego y del castellano como lenguas oficiales de Galicia."
+    },
+    {
+      "question": "¿En qué fecha fue aprobado el Decreto 79/2010 para el plurilingüismo?",
+      "options": [
+        "28 de junio de 2010",
+        "15 de mayo de 2010",
+        "20 de mayo de 2010",
+        "30 de abril de 2010"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 79/2010 fue aprobado el 20 de mayo de dos mil diez para el plurilingüismo en la enseñanza no universitaria de Galicia."
+    },
+    {
+      "question": "¿Qué decreto anterior fue derogado por el Decreto 79/2010?",
+      "options": [
+        "Decreto 120/2006, de 15 de marzo",
+        "Decreto 124/2007, de 28 de junio",
+        "Decreto 130/2008, de 10 de julio",
+        "Decreto 115/2009, de 20 de abril"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 124/2007, de 28 de junio, por el que se regula el uso y la promoción del gallego en el sistema educativo fue derogado por el Decreto 79/2010."
+    },
+    {
+      "question": "¿En qué mes y año realizó la Xunta de Galicia una consulta a las familias sobre el uso del lenguaje en la educación?",
+      "options": [
+        "Mayo de 2008",
+        "Julio de 2008",
+        "Junio de 2009",
+        "Septiembre de 2009"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En junio de 2009, la Xunta de Galicia realizó una consulta a las familias de alumnos matriculados en el sistema educativo no universitario."
+    },
+    {
+      "question": "¿Cuándo fueron presentados los resultados de la consulta a las familias por la Administración educativa?",
+      "options": [
+        "Septiembre de 2009",
+        "Agosto de 2009",
+        "Julio de 2009",
+        "Octubre de 2009"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los resultados fueron presentados en julio de 2009 por la Administración educativa."
+    },
+    {
+      "question": "¿Qué ley orgánica establece como uno de sus fines la capacitación para la comunicación en lenguas oficiales y extranjeras?",
+      "options": [
+        "Ley orgánica 1/2005, de 15 de abril",
+        "Ley orgánica 3/2007, de 20 de junio",
+        "Ley orgánica 2/2006, de 3 de mayo",
+        "Ley orgánica 4/2008, de 10 de septiembre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Ley orgánica 2/2006, de 3 de mayo, de educación, establece como uno de sus fines la capacitación para la comunicación en las lenguas oficiales y en una o varias lenguas extranjeras."
+    },
+    {
+      "question": "¿Qué artículo de la Ley 3/1983 indica que al final de la enseñanza obligatoria se garantizará la igualdad de competencia lingüística en los dos idiomas oficiales?",
+      "options": [
+        "El artículo 12",
+        "El artículo 13",
+        "El artículo 14",
+        "El artículo 15"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 14 de la Ley 3/1983 de normalización lingüística indica que al final de la enseñanza obligatoria se garantizará la igualdad de competencia lingüística en los dos idiomas oficiales."
+    },
+    {
+      "question": "¿A qué centros docentes es de aplicación el Decreto 79/2010?",
+      "options": [
+        "A todos los centros privados exclusivamente",
+        "A todos los centros públicos exclusivamente",
+        "A todos los centros sostenidos con fondos públicos y a los privados que imparten las enseñanzas reguladas en la LOE",
+        "A todos los centros concertados exclusivamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El decreto es de aplicación en todos los centros docentes sostenidos con fondos públicos, así como en los privados que imparten las enseñanzas reguladas en la LOE, en el ámbito de la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿Con qué carácter se utilizará la lengua gallega en la administración educativa de Galicia según el artículo 3?",
+      "options": [
+        "Con carácter opcional",
+        "Con carácter preferente",
+        "Con carácter general",
+        "Con carácter exclusivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 3, en la administración educativa de Galicia se utilizará, con carácter general, la lengua gallega."
+    },
+    {
+      "question": "¿En qué lengua se redactarán las programaciones de las asignaturas de lengua según el artículo 3?",
+      "options": [
+        "En castellano exclusivamente",
+        "En gallego exclusivamente",
+        "Con carácter general, en la lengua respectiva",
+        "En ambas lenguas indistintamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las programaciones y otros documentos didácticos de las asignaturas de lengua se redactarán, con carácter general, en la lengua respectiva."
+    },
+    {
+      "question": "¿Cuál es el primer principio establecido en el artículo 4 del decreto?",
+      "options": [
+        "Promoción de la dinamización de la lengua gallega",
+        "Garantía de la adquisición de una competencia en igualdad en las dos lenguas oficiales de Galicia",
+        "Adquisición de un conocimiento efectivo en lenguas extranjeras",
+        "Participación y colaboración de las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El primer principio es la garantía de la adquisición de una competencia en igualdad en las dos lenguas oficiales de Galicia."
+    },
+    {
+      "question": "¿Cuántos principios fundamentales establece el artículo 4 del decreto?",
+      "options": [
+        "Tres principios",
+        "Cuatro principios",
+        "Cinco principios",
+        "Seis principios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 4 establece cinco principios fundamentales sobre los que se elabora el decreto."
+    },
+    {
+      "question": "¿Quién determinará la lengua materna predominante del alumnado en educación infantil?",
+      "options": [
+        "La Consellería de Educación",
+        "El profesorado de manera individual",
+        "El centro educativo de acuerdo con una pregunta a los padres",
+        "La inspección educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La lengua materna predominante será determinada por el centro educativo de acuerdo con el resultado de una pregunta que se efectuará a los padres, madres, tutores/as o representantes legales."
+    },
+    {
+      "question": "¿Cuándo se efectuará la pregunta sobre la lengua materna del alumnado en educación infantil?",
+      "options": [
+        "Durante el mes de septiembre",
+        "Al finalizar el curso escolar",
+        "Antes del comienzo del curso escolar",
+        "En el mes de enero"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La pregunta se efectuará a los padres antes del comienzo del curso escolar acerca de la lengua materna de su hijo o hija."
+    },
+    {
+      "question": "¿Qué asignatura se impartirá en gallego en educación primaria según el artículo 6?",
+      "options": [
+        "Matemáticas",
+        "Educación física",
+        "Conocimiento del medio natural, social y cultural",
+        "Educación artística"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se impartirá en gallego la asignatura de Conocimiento del medio natural, social y cultural, mientras que Matemáticas se impartirá en castellano."
+    },
+    {
+      "question": "¿En qué lengua se impartirá la asignatura de Matemáticas en educación primaria?",
+      "options": [
+        "En gallego",
+        "En castellano",
+        "En inglés",
+        "En la lengua que decida cada centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La asignatura de Matemáticas se impartirá en castellano en educación primaria según el artículo 6."
+    },
+    {
+      "question": "¿Con qué periodicidad decidirá cada centro la lengua en que se impartirá el resto de asignaturas en educación primaria?",
+      "options": [
+        "Cada dos cursos escolares",
+        "Cada tres cursos escolares",
+        "Cada cuatro cursos escolares",
+        "Cada cinco cursos escolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Este proceso de decisión se realizará cada cuatro cursos escolares según el artículo 6."
+    },
+    {
+      "question": "¿Qué asignaturas se impartirán en gallego en educación secundaria obligatoria?",
+      "options": [
+        "Matemáticas, Tecnologías y Física y química",
+        "Ciencias sociales, Ciencias de la naturaleza y Biología y geología",
+        "Lengua castellana y Educación física",
+        "Matemáticas y Ciencias sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se impartirán en gallego las asignaturas de Ciencias sociales, geografía e historia, Ciencias de la naturaleza y Biología y geología."
+    },
+    {
+      "question": "¿Qué asignaturas se impartirán en castellano en educación secundaria obligatoria?",
+      "options": [
+        "Ciencias sociales y Biología",
+        "Matemáticas, Tecnologías y Física y química",
+        "Lengua gallega y Educación física",
+        "Geografía e historia y Tecnologías"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En castellano se impartirán las asignaturas de Matemáticas, Tecnologías y Física y química según el artículo 7."
+    },
+    {
+      "question": "¿Cómo establecerá cada centro la oferta de asignaturas en bachillerato según el artículo 8?",
+      "options": [
+        "Una oferta mayoritaria en gallego",
+        "Una oferta mayoritaria en castellano",
+        "Una oferta equilibrada en el mismo porcentaje para gallego y castellano",
+        "Una oferta exclusivamente en lengua extranjera"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cada centro establecerá una oferta equilibrada en el mismo porcentaje de asignaturas comunes, de modalidad y optativas para impartir en gallego y en castellano."
+    },
+    {
+      "question": "¿Qué debe garantizarse en todos los módulos de formación profesional específica según el artículo 9?",
+      "options": [
+        "Que el alumnado conozca el vocabulario específico en inglés",
+        "Que el alumnado conozca el vocabulario específico en las dos lenguas oficiales",
+        "Que el alumnado utilice exclusivamente el gallego",
+        "Que el alumnado utilice exclusivamente el castellano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En todos los módulos se garantizará que el alumnado conozca el vocabulario específico en las dos lenguas oficiales."
+    },
+    {
+      "question": "¿Qué plan específico establecerá la consellería según el artículo 10?",
+      "options": [
+        "Un plan para el profesorado de lenguas extranjeras",
+        "Un plan destinado a la nueva población inmigrante",
+        "Un plan de digitalización educativa",
+        "Un plan de refuerzo para alumnado repetidor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La consellería establecerá un plan específico destinado a la nueva población inmigrante que prevea formación lingüística, conocimientos históricos y socioculturales."
+    },
+    {
+      "question": "¿Con qué finalidad se establece el artículo 11 sobre potenciación de la lengua gallega?",
+      "options": [
+        "Para eliminar el uso del castellano",
+        "Para promover el uso del gallego en los centros",
+        "Para establecer sanciones por no usar gallego",
+        "Para obligar el uso exclusivo del gallego"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con la finalidad de promover el uso del gallego en los centros, la consellería establecerá un programa regular de actividades de fomento de la lengua."
+    },
+    {
+      "question": "¿Qué asignación de horas se establece en el artículo 12 para las asignaturas de lengua gallega y lengua castellana?",
+      "options": [
+        "Más horas para gallego que para castellano",
+        "Más horas para castellano que para gallego",
+        "Globalmente el mismo número de horas",
+        "El doble de horas para gallego"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se asignará globalmente el mismo número de horas a la enseñanza de las asignaturas de lengua gallega y de lengua castellana."
+    },
+    {
+      "question": "¿En qué lengua podrá utilizar el alumnado sus manifestaciones oral y escrita en áreas no lingüísticas?",
+      "options": [
+        "Exclusivamente en la lengua en que se imparte la asignatura",
+        "Exclusivamente en gallego",
+        "Exclusivamente en castellano",
+        "En la lengua oficial de su preferencia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El alumnado podrá utilizar en las manifestaciones oral y escrita la lengua oficial de su preferencia, aunque se procurará que utilice la lengua en que se imparte el área."
+    },
+    {
+      "question": "¿En qué lengua estarán redactados los materiales y libros de texto según el artículo 13?",
+      "options": [
+        "En ambas lenguas oficiales en todos los casos",
+        "En la lengua en que se imparta la asignatura",
+        "Exclusivamente en gallego",
+        "Exclusivamente en castellano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los materiales y libros de texto de las asignaturas impartidas en gallego y en castellano estarán redactados en la lengua en que se imparta la asignatura."
+    },
+    {
+      "question": "¿Cada cuántos cursos escolares elaborará cada centro su proyecto lingüístico?",
+      "options": [
+        "Cada dos cursos escolares",
+        "Cada tres cursos escolares",
+        "Cada cuatro cursos escolares",
+        "Cada cinco cursos escolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cada centro elaborará su proyecto lingüístico cada cuatro cursos escolares dentro de su proyecto educativo."
+    },
+    {
+      "question": "¿Quién redactará el proyecto lingüístico de centro?",
+      "options": [
+        "El equipo directivo exclusivamente",
+        "Una comisión del profesorado nombrada por el equipo directivo",
+        "La inspección educativa",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proyecto lingüístico será redactado por una comisión del profesorado del centro, nombrada por el equipo directivo y oída la comisión de coordinación pedagógica."
+    },
+    {
+      "question": "¿Quién aprobará y evaluará el proyecto lingüístico de centro?",
+      "options": [
+        "El equipo directivo",
+        "La comisión de coordinación pedagógica",
+        "El consejo escolar del centro educativo",
+        "La Consellería de Educación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El proyecto lingüístico será aprobado y evaluado por el consejo escolar del centro educativo."
+    },
+    {
+      "question": "¿A quién se remitirá el proyecto lingüístico cada cuatro cursos escolares?",
+      "options": [
+        "A la Consellería de Educación directamente",
+        "A los servicios de la inspección educativa",
+        "Al Consejo Escolar de Galicia",
+        "A la Secretaría General de Política Lingüística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proyecto se remitirá cada cuatro cursos escolares a los servicios de la inspección educativa."
+    },
+    {
+      "question": "¿Qué documento se elaborará anualmente en relación con el proyecto lingüístico?",
+      "options": [
+        "Una memoria final",
+        "Un informe de evaluación",
+        "Una addenda del proyecto lingüístico",
+        "Un plan de mejora"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Anualmente, se elaborará una addenda del proyecto lingüístico con información específica según el artículo 14.4."
+    },
+    {
+      "question": "¿Quiénes formarán parte obligatoriamente de la comisión que redacta el proyecto lingüístico?",
+      "options": [
+        "Los jefes de todos los departamentos didácticos",
+        "Los jefes de los departamentos de lenguas y el coordinador del equipo de dinamización",
+        "Todo el equipo directivo del centro",
+        "Todos los tutores del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Formarán parte como mínimo los jefes/as de los departamentos de lenguas y el coordinador(a) del equipo de dinamización de la lengua gallega."
+    },
+    {
+      "question": "¿Quién nombrará y supervisará el equipo de dinamización de la lengua gallega?",
+      "options": [
+        "El consejo escolar",
+        "La inspección educativa",
+        "La dirección del centro",
+        "La Consellería de Educación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El equipo de dinamización será nombrado y supervisado por la dirección del centro según el artículo 15."
+    },
+    {
+      "question": "¿Quiénes formarán parte del equipo de dinamización de la lengua gallega?",
+      "options": [
+        "Exclusivamente el profesorado",
+        "El coordinador, profesorado, representantes del alumnado (excepto infantil y primaria) y personal no docente",
+        "Exclusivamente el equipo directivo",
+        "Exclusivamente el coordinador y los tutores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Estará formado por su coordinador, profesorado, representantes del alumnado (excepto en infantil y primaria) y personal no docente."
+    },
+    {
+      "question": "¿Qué organismo coordinará el cometido de los equipos de dinamización según el artículo 15?",
+      "options": [
+        "La Dirección General de Educación",
+        "El Consejo Escolar de Galicia",
+        "La Secretaría General de Política Lingüística",
+        "La inspección educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La consellería, a través de la Secretaría General de Política Lingüística, coordinará el cometido de los equipos de dinamización."
+    },
+    {
+      "question": "¿Qué tipo de plan desarrollará la consellería según el artículo 16?",
+      "options": [
+        "Un plan de evaluación de centros",
+        "Un plan de formación para el personal",
+        "Un plan de digitalización",
+        "Un plan de infraestructuras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La consellería desarrollará un plan de formación que garantice que todo el personal tenga competencia oral y escrita suficiente en gallego."
+    },
+    {
+      "question": "¿Qué curso específico realizarán los funcionarios en prácticas según el artículo 17?",
+      "options": [
+        "Un curso de metodología didáctica",
+        "Un curso de nuevas tecnologías",
+        "Un curso de terminología, estilos, lenguajes propios y aspectos sociolingüísticos",
+        "Un curso de legislación educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Realizarán un curso de formación específico de terminología, estilos, lenguajes propios de la especialidad y aspectos sociolingüísticos."
+    },
+    {
+      "question": "¿En qué ciclo de educación primaria podrá el alumnado procedente de fuera obtener exención de lengua gallega?",
+      "options": [
+        "En 1er ciclo",
+        "En 2º ciclo",
+        "En 3er ciclo",
+        "En cualquier ciclo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El alumnado que se incorpore en 3er ciclo de educación primaria podrá obtener exención temporal de la calificación de lengua gallega."
+    },
+    {
+      "question": "¿Cuántos cursos escolares como máximo puede durar la exención de lengua gallega?",
+      "options": [
+        "Un curso escolar",
+        "Dos cursos escolares",
+        "Tres cursos escolares",
+        "Cuatro cursos escolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La exención temporal podrá ser durante un máximo de dos cursos escolares según el artículo 18."
+    },
+    {
+      "question": "¿Qué supone la exención en los documentos oficiales de evaluación?",
+      "options": [
+        "La consignación de un cero",
+        "La consignación de no evaluado",
+        "La consignación de exento",
+        "No se consigna nada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La exención supondrá la consignación de exento en los documentos oficiales de evaluación del alumnado."
+    },
+    {
+      "question": "¿Debe asistir a las clases de lengua gallega el alumnado con exención?",
+      "options": [
+        "No, está completamente eximido",
+        "Sí, debe asistir como medio de integración lingüística",
+        "Es opcional según el criterio del centro",
+        "Solo debe asistir el primer año"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alumnado tendrá que asistir a las clases como medio de integración lingüística y con materiales didácticos específicos."
+    },
+    {
+      "question": "¿Qué determinará el incumplimiento de la asistencia a clases por parte del alumno exento?",
+      "options": [
+        "Una amonestación",
+        "Una sanción económica",
+        "La revocación de la exención",
+        "La repetición de curso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El incumplimiento determinará, tras los informes pertinentes y oído el interesado, la revocación de la exención."
+    },
+    {
+      "question": "¿Para cuántos años académicos se solicitará la exención según el artículo 19?",
+      "options": [
+        "Para todos los años de una vez",
+        "Para cada año académico de permanencia",
+        "Para el ciclo completo",
+        "Para toda la etapa educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La exención se solicitará para cada año académico de permanencia en la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿A quién se dirigirán las solicitudes de exenciones?",
+      "options": [
+        "A la Consellería de Educación",
+        "A la inspección educativa",
+        "A los directores/as de los centros",
+        "A la jefatura territorial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las solicitudes de exenciones se dirigirán a los directores/as de los centros según el artículo 19."
+    },
+    {
+      "question": "¿En qué plazo resolverán los centros públicos sobre la concesión o denegación de la exención?",
+      "options": [
+        "En cinco días hábiles",
+        "En diez días hábiles",
+        "En quince días hábiles",
+        "En veinte días hábiles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros resolverán en el plazo máximo de diez días hábiles, contados a partir de la presentación de la documentación completa."
+    },
+    {
+      "question": "¿Quién resolverá sobre las exenciones en centros privados y privados concertados?",
+      "options": [
+        "La dirección del propio centro privado",
+        "La dirección de los centros públicos a que estén adscritos",
+        "La inspección educativa",
+        "La Consellería de Educación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En centros privados y privados concertados, la resolución corresponde a la dirección de los centros públicos a que estén adscritos."
+    },
+    {
+      "question": "¿Ante quién se puede impugnar la resolución sobre exención mediante recurso de alzada?",
+      "options": [
+        "Ante el Consejo Escolar de Galicia",
+        "Ante la Consellería de Educación",
+        "Ante el jefe territorial de la Consellería de Educación",
+        "Ante la inspección educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La resolución podrá ser impugnada mediante recurso de alzada ante el jefe territorial de la Consellería de Educación y Ordenación Universitaria."
+    },
+    {
+      "question": "¿En qué plazo se puede presentar el recurso de alzada contra la resolución de exención?",
+      "options": [
+        "En el plazo de quince días",
+        "En el plazo de veinte días",
+        "En el plazo de un mes",
+        "En el plazo de dos meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El recurso de alzada se puede presentar en el plazo de un mes según el artículo 19."
+    },
+    {
+      "question": "¿Qué servicios velarán por el cumplimiento del decreto en todos los centros educativos?",
+      "options": [
+        "Los servicios administrativos",
+        "Los servicios de inspección educativa",
+        "Los servicios de orientación",
+        "Los servicios de coordinación pedagógica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los servicios de inspección educativa velarán para que en todos los centros se cumplan las disposiciones previstas en el decreto."
+    },
+    {
+      "question": "¿Qué porcentaje máximo del horario lectivo semanal podrá ofrecerse en lenguas extranjeras?",
+      "options": [
+        "Un cuarto del horario",
+        "Un quinto del horario",
+        "Un tercio del horario",
+        "La mitad del horario"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los centros podrán llegar a ofrecer hasta un máximo de un tercio de su horario lectivo semanal en lengua(s) extranjera(s)."
+    },
+    {
+      "question": "¿Qué lengua extranjera se menciona principalmente en el artículo 21 para la impartición de asignaturas?",
+      "options": [
+        "El francés",
+        "El alemán",
+        "El inglés",
+        "El portugués"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Administración educativa fomentará la impartición de asignaturas en lengua(s) extranjera(s), principalmente en inglés."
+    },
+    {
+      "question": "¿Qué debe hacer el centro cuando apruebe la impartición de asignaturas en lengua extranjera?",
+      "options": [
+        "Notificarlo a las familias",
+        "Adaptar su proyecto lingüístico para garantizar el equilibrio entre gallego y castellano",
+        "Solicitar más profesorado",
+        "Eliminar horas de lenguas oficiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando apruebe asignaturas en lenguas extranjeras, adaptará su proyecto lingüístico para garantizar el máximo equilibrio de horas entre gallego y castellano."
+    },
+    {
+      "question": "¿Qué debe cursar el centro antes de aprobar la impartición de asignaturas en lengua extranjera?",
+      "options": [
+        "Una memoria justificativa",
+        "Un informe del consejo escolar",
+        "Una solicitud a la Administración educativa para obtener autorización",
+        "Un plan de formación del profesorado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El centro deberá cursar la oportuna solicitud a la Administración educativa, a efectos del otorgamiento de la correspondiente autorización."
+    },
+    {
+      "question": "¿Qué se desarrollará en la formación profesional específica según el artículo 22?",
+      "options": [
+        "Habilidades matemáticas avanzadas",
+        "Habilidades de comunicación oral y escrita en lenguas extranjeras",
+        "Conocimientos de historia de Galicia",
+        "Competencias digitales básicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se desarrollarán las habilidades de comunicación oral y escrita en lengua(s) extranjera(s), para facilitar el desempeño laboral en el espacio europeo."
+    },
+    {
+      "question": "¿Qué aprobará la consellería según el artículo 23?",
+      "options": [
+        "Un plan de infraestructuras educativas",
+        "Un plan de fomento de las lenguas extranjeras",
+        "Un plan de reducción de ratios",
+        "Un plan de digitalización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La consellería aprobará un plan de fomento de las lenguas extranjeras dirigido al profesorado, al alumnado y a los centros."
+    },
+    {
+      "question": "¿Mediante qué se regulará la impartición de asignaturas no lingüísticas en lenguas extranjeras?",
+      "options": [
+        "Mediante decreto aprobado por el Consello de la Xunta",
+        "Mediante resolución de la inspección educativa",
+        "Mediante orden aprobada por la consellería competente",
+        "Mediante circular de la Dirección General"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La impartición de asignaturas no lingüísticas en lenguas extranjeras se regulará mediante orden aprobada por la consellería competente."
+    },
+    {
+      "question": "¿Qué establecerá la consellería en educación primaria y secundaria obligatoria según la disposición adicional segunda?",
+      "options": [
+        "Un procedimiento de evaluación del nivel de competencia en las dos lenguas oficiales",
+        "Un sistema de becas lingüísticas",
+        "Un programa de intercambios escolares",
+        "Un curso de formación obligatorio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La consellería establecerá un procedimiento de evaluación del nivel de competencia en las dos lenguas oficiales como garantía de la consecución progresiva."
+    },
+    {
+      "question": "¿Qué plan elaborará la Administración para el alumnado con necesidades educativas especiales?",
+      "options": [
+        "Un plan de atención psicopedagógica",
+        "Un plan de adaptaciones curriculares",
+        "Un plan que asegure su capacitación lingüística en las lenguas oficiales",
+        "Un plan de integración social"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Administración elaborará un plan dirigido al alumnado con necesidades educativas especiales que asegure su capacitación lingüística en las lenguas oficiales."
+    },
+    {
+      "question": "¿Qué derechos tendrá el coordinador del equipo de dinamización de la lengua gallega?",
+      "options": [
+        "Los mismos que los jefes de departamento didáctico",
+        "Los mismos que el equipo directivo",
+        "Los mismos que los tutores",
+        "Los mismos que los orientadores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El coordinador tendrá los mismos derechos administrativos y económicos que las jefaturas de los departamentos didácticos."
+    },
+    {
+      "question": "¿Con qué periodicidad evaluará la consellería los resultados del decreto?",
+      "options": [
+        "Con periodicidad bimensual",
+        "Con periodicidad trimestral",
+        "Con periodicidad semestral",
+        "Con periodicidad anual"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Con periodicidad anual, después de finalizar el curso escolar, la consellería evaluará los resultados derivados de la aplicación del decreto."
+    },
+    {
+      "question": "¿Cómo pasan a denominarse los equipos de normalización y dinamización lingüística?",
+      "options": [
+        "Equipos de promoción lingüística",
+        "Equipos de coordinación lingüística",
+        "Equipos de dinamización de la lengua gallega",
+        "Equipos de normalización lingüística"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los equipos de normalización y dinamización lingüística pasan a denominarse equipos de dinamización de la lengua gallega."
+    },
+    {
+      "question": "¿Qué obligación tiene el alumnado que cursó estudios antes de la incorporación del gallego y quiere proseguirlos?",
+      "options": [
+        "Debe realizar un curso intensivo de gallego",
+        "Debe cursar y ser calificado en la asignatura de lengua gallega",
+        "Está exento de cursar lengua gallega",
+        "Debe realizar una prueba de nivel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tendrá la obligación de cursar esta asignatura y será calificado a partir del curso en que retome sus estudios."
+    },
+    {
+      "question": "¿Qué decreto queda especialmente derogado por el Decreto 79/2010?",
+      "options": [
+        "Decreto 115/2005, de 20 de abril",
+        "Decreto 124/2007, de 28 de junio",
+        "Decreto 130/2008, de 15 de julio",
+        "Decreto 140/2009, de 30 de agosto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Queda derogado el Decreto 124/2007, de 28 de junio, por el que se regula el uso y la promoción del gallego en el sistema educativo."
+    },
+    {
+      "question": "¿Quién está autorizado para dictar disposiciones de desarrollo del decreto?",
+      "options": [
+        "El Consejo Escolar de Galicia",
+        "La inspección educativa",
+        "La Consellería de Educación y Ordenación Universitaria",
+        "La Secretaría General de Política Lingüística"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se autoriza a la Consellería de Educación y Ordenación Universitaria a dictar las disposiciones para el desarrollo y ejecución del decreto."
+    },
+    {
+      "question": "¿Cuándo entró en vigor el Decreto 79/2010?",
+      "options": [
+        "El mismo día de su aprobación",
+        "Al mes de su publicación",
+        "Al día siguiente de su publicación en el DOG",
+        "Al inicio del siguiente curso escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El decreto entró en vigor al día siguiente de su publicación en el Diario Oficial de Galicia."
+    },
+    {
+      "question": "¿Quién era el Presidente de la Xunta cuando se aprobó el Decreto 79/2010?",
+      "options": [
+        "Manuel Fraga Iribarne",
+        "Emilio Pérez Touriño",
+        "Alberto Núñez Feijóo",
+        "Alfonso Rueda Valenzuela"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alberto Núñez Feijóo era el Presidente de la Xunta cuando se aprobó el decreto el 20 de mayo de 2010."
+    },
+    {
+      "question": "¿Quién era el Conselleiro de Educación cuando se aprobó el Decreto 79/2010?",
+      "options": [
+        "Jesús Vázquez Abad",
+        "Román Rodríguez González",
+        "Carmen Pomar Tojo",
+        "Fernando Blanco Traba"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jesús Vázquez Abad era el Conselleiro de Educación y Ordenación Universitaria cuando se aprobó el decreto."
+    },
+    {
+      "question": "¿Qué orden desarrolla el Decreto 79/2010 en relación con la exención de lengua gallega?",
+      "options": [
+        "Orden de 15 de enero de 2013",
+        "Orden de 10 de febrero de 2014",
+        "Orden de 20 de marzo de 2015",
+        "Orden de 5 de mayo de 2016"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Orden de 10 de febrero de 2014 desarrolla el decreto con relación a la exención de la materia de lengua gallega."
+    },
+    {
+      "question": "¿Qué artículo del Estatuto de autonomía establece la competencia plena de Galicia en materia de educación?",
+      "options": [
+        "El artículo 27",
+        "El artículo 29",
+        "El artículo 31",
+        "El artículo 33"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 31 del Estatuto establece la competencia plena de la Comunidad Autónoma para la regulación y administración de la enseñanza."
+    },
+    {
+      "question": "¿Qué artículo del Estatuto señala la competencia exclusiva para la promoción y enseñanza de la lengua gallega?",
+      "options": [
+        "El artículo 25.8",
+        "El artículo 26.9",
+        "El artículo 27.10",
+        "El artículo 28.11"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 27.10 del Estatuto señala la competencia exclusiva de la Comunidad Autónoma para la promoción y la enseñanza de la lengua gallega."
+    },
+    {
+      "question": "¿Qué decreto modificó parcialmente el Decreto 247/1995?",
+      "options": [
+        "Decreto 65/1996, de 15 de febrero",
+        "Decreto 66/1997, de 21 de marzo",
+        "Decreto 67/1998, de 10 de abril",
+        "Decreto 68/1999, de 5 de mayo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 247/1995 fue objeto de una modificación parcial por el Decreto 66/1997, de 21 de marzo."
+    },
+    {
+      "question": "¿Qué circunstancia objetiva justifica la exención según la Orden de 2014?",
+      "options": [
+        "Tener dificultades de aprendizaje",
+        "Proceder de un entorno castellanohablante",
+        "Incorporación ex novo al sistema educativo de Galicia",
+        "Solicitud expresa de los padres"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La justificación de la exención debe encontrar fundamento en una circunstancia objetiva de incorporación ex novo al sistema educativo."
+    },
+    {
+      "question": "¿De dónde debe proceder el alumnado para poder solicitar exención?",
+      "options": [
+        "De cualquier parte de Galicia",
+        "De otras comunidades autónomas o de un país extranjero",
+        "De centros privados exclusivamente",
+        "De zonas rurales de Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alumnado de nueva incorporación debe proceder de otras comunidades autónomas o de un país extranjero."
+    },
+    {
+      "question": "¿Tiene derecho a exención el alumnado que curse fuera de Galicia tres cursos completos o menos y se reincorpore?",
+      "options": [
+        "Sí, tiene derecho completo",
+        "No, porque no se considera incorporación ex novo",
+        "Sí, pero solo por un año",
+        "Depende de la decisión del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No tiene derecho porque la vuelta no puede interpretarse como incorporación ex novo, sino como reincorporación."
+    },
+    {
+      "question": "¿Cuál es el objeto de la Orden de 10 de febrero de 2014?",
+      "options": [
+        "Regular los horarios de las asignaturas",
+        "Regular los supuestos excepcionales para solicitar exención de lengua gallega",
+        "Regular el proyecto lingüístico de centro",
+        "Regular la formación del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Su objeto es regular los supuestos excepcionales en los que el alumnado puede solicitar la exención de lengua gallega."
+    },
+    {
+      "question": "¿Es obligatoria la lengua gallega como materia de estudio según la Orden de 2014?",
+      "options": [
+        "No, es optativa",
+        "Solo en educación secundaria",
+        "Sí, en todos los niveles educativos no universitarios",
+        "Solo en educación primaria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La lengua gallega es materia de estudio obligatorio en todos los niveles educativos no universitarios."
+    },
+    {
+      "question": "¿Cuántos cursos consecutivos como máximo puede durar la exención temporal según la Orden de 2014?",
+      "options": [
+        "Un curso escolar consecutivo",
+        "Dos cursos escolares consecutivos",
+        "Tres cursos escolares consecutivos",
+        "Cuatro cursos escolares consecutivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Podrá obtener una exención temporal durante un máximo de dos cursos escolares consecutivos."
+    },
+    {
+      "question": "¿Qué debe hacer el alumnado exento para poder seguir con dominio adecuado?",
+      "options": [
+        "Realizar clases particulares",
+        "Asistir a las clases con su esfuerzo personal y materiales específicos",
+        "Estudiar en casa exclusivamente",
+        "Realizar un curso de verano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe asistir a las clases con su esfuerzo personal, materiales didácticos específicos y ayuda continua del profesorado."
+    },
+    {
+      "question": "¿Qué producirán como efecto la revocación o denegación de la exención?",
+      "options": [
+        "La expulsión del centro",
+        "La obligación de ser calificado en las evaluaciones",
+        "La repetición automática de curso",
+        "La pérdida de derechos académicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Producirán como efecto para el alumnado la obligación de ser calificado en las evaluaciones parciales y finales."
+    },
+    {
+      "question": "¿En qué soporte debe presentarse la solicitud de exención según la Orden de 2014?",
+      "options": [
+        "En soporte electrónico exclusivamente",
+        "En soporte papel",
+        "En cualquier formato",
+        "Por correo electrónico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La solicitud de la exención deberá presentarse en soporte papel utilizando el formulario normalizado."
+    },
+    {
+      "question": "¿Qué ley establece los medios de presentación de la solicitud de exención?",
+      "options": [
+        "Ley 25/1990, de 15 de octubre",
+        "Ley 30/1992, de 26 de noviembre",
+        "Ley 35/1994, de 10 de diciembre",
+        "Ley 40/1998, de 5 de enero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La solicitud puede presentarse por cualquiera de los medios establecidos en el artículo 38.4 de la Ley 30/1992."
+    },
+    {
+      "question": "¿Dónde está disponible el formulario normalizado de solicitud de exención?",
+      "options": [
+        "En los centros educativos exclusivamente",
+        "En la sede electrónica de la Xunta de Galicia",
+        "En las oficinas de la Consellería",
+        "En las librerías especializadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El formulario normalizado está disponible en la sede electrónica de la Xunta de Galicia: https://sede.xunta.es."
+    },
+    {
+      "question": "¿Quién firmará la solicitud de exención si el alumno es menor de edad?",
+      "options": [
+        "El tutor del centro educativo",
+        "El director del centro",
+        "El padre/madre/tutor o quien tenga su representación legal",
+        "El orientador del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Si es menor de edad, la solicitud irá firmada por su padre/madre/tutor/tutora o por la persona que tenga su representación legal."
+    },
+    {
+      "question": "¿A quién se dirigirá la solicitud de exención?",
+      "options": [
+        "A la Consellería de Educación",
+        "A la inspección educativa",
+        "A la persona titular de la Dirección del centro docente",
+        "A la jefatura territorial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La solicitud se dirigirá a la persona titular de la Dirección del centro docente donde el alumno curse sus estudios."
+    },
+    {
+      "question": "¿Qué debe adjuntarse si no se presta consentimiento para verificación de datos de identidad?",
+      "options": [
+        "Un certificado de empadronamiento",
+        "Una fotografía reciente",
+        "La copia del documento de identidad correspondiente",
+        "Un certificado médico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Si no presta consentimiento para la comprobación de datos, deberá adjuntar la copia del documento de identidad correspondiente."
+    },
+    {
+      "question": "¿Qué documento debe presentarse si la solicitud es presentada por uno de los progenitores?",
+      "options": [
+        "El libro de familia",
+        "Un certificado de nacimiento",
+        "El documento acreditativo de la representación alegada",
+        "Una autorización notarial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Junto con la solicitud se presentará el documento acreditativo de la representación alegada."
+    },
+    {
+      "question": "¿Cuándo empieza el plazo de presentación de solicitudes de exención cada año?",
+      "options": [
+        "El 1 de julio",
+        "El 1 de agosto",
+        "El 1 de septiembre",
+        "El 1 de octubre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El plazo de presentación de la solicitud empezará el 1 de septiembre de cada año."
+    },
+    {
+      "question": "¿Cuándo termina el plazo de solicitud de exención para alumnado de primaria y secundaria obligatoria?",
+      "options": [
+        "El 30 de septiembre",
+        "El 5 de octubre",
+        "El 15 de octubre",
+        "El 20 de octubre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El plazo terminará el 5 de octubre de cada año para el alumnado de educación primaria y secundaria obligatoria."
+    },
+    {
+      "question": "¿Cuándo termina el plazo de solicitud de exención para alumnado de bachillerato?",
+      "options": [
+        "El 5 de octubre",
+        "El 10 de octubre",
+        "El 15 de octubre",
+        "El 20 de octubre"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para el alumnado de los centros de bachillerato, el plazo terminará el 20 de octubre de cada año."
+    },
+    {
+      "question": "¿Qué plazo tiene el alumnado con traslado de matrícula viva para solicitar la exención?",
+      "options": [
+        "Diez días siguientes a la incorporación",
+        "Quince días siguientes a la incorporación",
+        "Veinte días siguientes a la incorporación",
+        "Un mes desde la incorporación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El plazo será de veinte días siguientes a la incorporación de la persona interesada al nuevo centro."
+    },
+    {
+      "question": "¿Qué plazo tiene el alumnado de enseñanzas de personas adultas para solicitar la exención?",
+      "options": [
+        "Diez días desde la matrícula",
+        "Quince días desde la matrícula",
+        "Veinte días desde la matrícula",
+        "Un mes desde la matrícula"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El plazo será de veinte días siguientes a la presentación de su solicitud de matrícula en esas enseñanzas."
+    },
+    {
+      "question": "¿Cuándo presentará su solicitud el alumnado que realice pruebas libres de graduado en ESO?",
+      "options": [
+        "Un mes antes de las pruebas",
+        "De forma simultánea a la inscripción en las pruebas libres",
+        "Quince días después de las pruebas",
+        "Al inicio del curso académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Presentará su solicitud de exención de forma simultánea a la presentación de su solicitud de inscripción en las pruebas libres."
+    },
+    {
+      "question": "¿En qué plazo deben resolver los centros privados concertados de bachillerato sobre la exención?",
+      "options": [
+        "Lo resuelve el propio centro privado en diez días",
+        "Lo resuelve el centro público de adscripción en diez días",
+        "Lo resuelve la inspección educativa en quince días",
+        "Lo resuelve la jefatura territorial en veinte días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En centros privados y privados concertados de bachillerato, la resolución corresponde a la dirección del centro público al que esté adscrito."
+    },
+    {
+      "question": "¿Qué órganos quedan autorizados para dictar resoluciones de ejecución de la Orden de 2014?",
+      "options": [
+        "El Consejo Escolar de Galicia y la inspección educativa",
+        "La Secretaría General de Política Lingüística y la Dirección General de Educación",
+        "El Consello de la Xunta y el Parlamento",
+        "Las jefaturas territoriales y los directores de centros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se autoriza a la Secretaría General de Política Lingüística y a la Dirección General de Educación, Formación Profesional e Innovación Educativa."
+    },
+    {
+      "question": "¿Cuándo entró en vigor la Orden de 10 de febrero de 2014?",
+      "options": [
+        "El mismo día de su aprobación",
+        "Al mes de su publicación",
+        "Al día siguiente de su publicación en el DOG",
+        "Al inicio del curso escolar siguiente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La orden entró en vigor el día siguiente a su publicación en el Diario Oficial de Galicia."
+    },
+    {
+      "question": "¿Qué carta europea ratificó el gobierno del Estado español en 2001?",
+      "options": [
+        "La Carta europea de educación",
+        "La Carta europea de derechos fundamentales",
+        "La Carta europea de lenguas regionales y minoritarias",
+        "La Carta europea de autonomías locales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Carta europea de lenguas regionales y minoritarias de 1992 fue ratificada por el gobierno del Estado español en 2001."
+    },
+    {
+      "question": "¿En qué año fue aprobado el Plan general de normalización de la lengua gallega por el Parlamento?",
+      "options": [
+        "En septiembre de 2002",
+        "En septiembre de 2003",
+        "En septiembre de 2004",
+        "En septiembre de 2005"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Plan general de normalización de la lengua gallega fue aprobado por unanimidad en el Parlamento de Galicia en septiembre de 2004."
+    },
+    {
+      "question": "¿Qué punto del artículo 3 de la Constitución establece que el castellano es la lengua oficial del Estado?",
+      "options": [
+        "El punto 1º",
+        "El punto 2º",
+        "El punto 3º",
+        "El punto 4º"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 3 de la Constitución española establece, en su punto 1º, que el castellano es la lengua oficial del Estado."
+    },
+    {
+      "question": "¿Qué día del mes de mayo de 2010 se reunió el Consello de la Xunta para aprobar el decreto?",
+      "options": [
+        "El día quince de mayo",
+        "El día dieciocho de mayo",
+        "El día veinte de mayo",
+        "El día veinticinco de mayo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Consello de la Xunta deliberó en su reunión del día veinte de mayo de dos mil diez."
+    },
+    {
+      "question": "¿Qué organismo emitió dictamen sobre el Decreto 79/2010 antes de su aprobación?",
+      "options": [
+        "El Consejo Económico y Social",
+        "El Consejo Escolar de Galicia",
+        "El Parlamento de Galicia",
+        "La Real Academia Gallega"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se aprobó tras el dictamen del Consejo Escolar de Galicia y oído el Consejo Consultivo de Galicia."
+    },
+    {
+      "question": "¿Qué lengua usará el profesorado en el aula en educación infantil según el artículo 5?",
+      "options": [
+        "Exclusivamente gallego",
+        "Exclusivamente castellano",
+        "La lengua materna predominante entre el alumnado",
+        "Ambas lenguas por igual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El profesorado usará en el aula la lengua materna predominante entre el alumnado, teniendo en cuenta la lengua del entorno."
+    },
+    {
+      "question": "¿Qué procurará el profesorado en educación infantil respecto a la otra lengua oficial?",
+      "options": [
+        "Que el alumnado la evite",
+        "Que el alumnado adquiera su conocimiento dentro de los límites de la etapa",
+        "Que el alumnado la estudie en casa",
+        "Que el alumnado espere a primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Procurará que el alumnado adquiera, de forma oral y escrita, el conocimiento de la otra lengua oficial dentro de los límites de la etapa o ciclo."
+    },
+    {
+      "question": "¿Qué debe hacer constar cada centro en su proyecto lingüístico respecto a educación infantil?",
+      "options": [
+        "El número de profesores bilingües",
+        "Las actividades y estrategias para que el alumnado adquiera conocimiento de las dos lenguas",
+        "El presupuesto para materiales bilingües",
+        "El horario de las actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deberá hacer constar las actividades y estrategias de aprendizaje empleadas para que el alumnado adquiera el conocimiento de las dos lenguas oficiales."
+    },
+    {
+      "question": "¿Se atenderá de manera individualizada al alumnado en educación infantil?",
+      "options": [
+        "No, se atiende solo grupalmente",
+        "Sí, teniendo en cuenta su lengua materna",
+        "Solo si tiene necesidades especiales",
+        "Solo en el tercer curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se atenderá de manera individualizada al alumnado teniendo en cuenta su lengua materna."
+    },
+    {
+      "question": "¿En qué idioma se impartirán las asignaturas de lengua en educación primaria?",
+      "options": [
+        "En ambas lenguas indistintamente",
+        "En la lengua que decida el centro",
+        "En el idioma de referencia",
+        "En la lengua materna del alumno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las asignaturas de lengua se impartirán en el idioma de referencia según el artículo 6."
+    },
+    {
+      "question": "¿Qué deben garantizar los centros al distribuir las asignaturas en educación primaria?",
+      "options": [
+        "Que todas sean en gallego",
+        "Que todas sean en castellano",
+        "Que las asignaturas en gallego y castellano se distribuyen en el mismo porcentaje de horas semanales",
+        "Que haya más horas en lenguas extranjeras"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Deben garantizar que las asignaturas en gallego y en castellano se distribuyen en el mismo porcentaje de las horas semanales."
+    },
+    {
+      "question": "¿Según qué procedimiento decidirá cada centro la lengua de impartición de asignaturas?",
+      "options": [
+        "Según el procedimiento establecido en el reglamento de centros",
+        "Según votación directa de las familias",
+        "Según decisión unilateral del director",
+        "Según instrucciones de la inspección"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cada centro decidirá según el procedimiento establecido en el reglamento de centros."
+    },
+    {
+      "question": "¿En qué idioma se impartirán las asignaturas de lengua en educación secundaria obligatoria?",
+      "options": [
+        "En ambas lenguas simultáneamente",
+        "En la lengua de referencia",
+        "En la lengua mayoritaria del centro",
+        "En inglés"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las asignaturas de lengua se impartirán en la lengua de referencia según el artículo 7."
+    },
+    {
+      "question": "¿Qué debe equilibrarse en bachillerato según el artículo 8?",
+      "options": [
+        "Solo las asignaturas comunes",
+        "Solo las asignaturas de modalidad",
+        "Solo las asignaturas optativas",
+        "Las asignaturas comunes, de modalidad y optativas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se establecerá una oferta equilibrada de asignaturas comunes, de modalidad y optativas para impartir en gallego y en castellano."
+    },
+    {
+      "question": "¿Qué garantizará cada centro en formación profesional específica según el artículo 9?",
+      "options": [
+        "Que todo sea en gallego",
+        "Que todo sea en castellano",
+        "Que el alumnado consiga la competencia lingüística propia del nivel en las dos lenguas",
+        "Que se use solo inglés técnico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Establecerá una oferta equilibrada que garantice que el alumnado consiga la competencia lingüística propia del nivel en las dos lenguas oficiales."
+    },
+    {
+      "question": "¿Qué incluirá el plan específico para población inmigrante según el artículo 10?",
+      "options": [
+        "Solo formación lingüística",
+        "Solo conocimientos históricos",
+        "Formación lingüística, conocimientos históricos y socioculturales",
+        "Solo ayudas económicas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El plan prevea formación lingüística, conocimientos históricos y socioculturales."
+    },
+    {
+      "question": "¿Con quién colaborará la consellería en materia de formación del profesorado según el artículo 16?",
+      "options": [
+        "Solo con universidades gallegas",
+        "Con otras instituciones, en su caso",
+        "Exclusivamente con la Real Academia Gallega",
+        "Solo con centros de formación privados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La consellería desarrollará un plan de formación, con la colaboración, en su caso, de otras instituciones."
+    },
+    {
+      "question": "¿Qué debe tener el personal de los centros educativos según el plan de formación del artículo 16?",
+      "options": [
+        "Solo competencia oral en gallego",
+        "Solo competencia escrita en gallego",
+        "Competencia oral y escrita suficiente en gallego y conocimiento de la situación sociolingüística",
+        "Solo conocimiento de la gramática gallega"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Debe tener competencia oral y escrita suficiente para comunicarse en gallego y un conocimiento de la situación sociolingüística de Galicia."
+    },
+    {
+      "question": "¿Cuándo realizarán el curso de formación los funcionarios en prácticas?",
+      "options": [
+        "Antes del procedimiento selectivo",
+        "Durante la fase de prácticas",
+        "Después de la fase de prácticas",
+        "En el primer año como funcionario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Realizará durante la fase de prácticas un curso de formación específico de terminología y aspectos sociolingüísticos."
+    },
+    {
+      "question": "¿De dónde debe proceder el alumnado para obtener exención temporal según el artículo 18?",
+      "options": [
+        "De cualquier parte de España",
+        "De otras comunidades autónomas o de un país extranjero",
+        "De zonas castellanohablantes de Galicia",
+        "De centros privados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alumnado procedente de otras comunidades autónomas o de un país extranjero que se incorpore al sistema educativo podrá obtener exención."
+    },
+    {
+      "question": "¿En qué etapas puede obtenerse la exención temporal de lengua gallega?",
+      "options": [
+        "En cualquier etapa educativa",
+        "Solo en educación primaria",
+        "Solo en educación secundaria",
+        "En 3er ciclo de primaria, ESO o bachillerato"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Podrá obtener exención el alumnado que se incorpore en 3er ciclo de educación primaria, en ESO o en bachillerato."
+    },
+    {
+      "question": "¿Con qué materiales contará el alumnado exento durante el periodo de exención?",
+      "options": [
+        "Con materiales genéricos",
+        "Con materiales didácticos específicos",
+        "Sin materiales especiales",
+        "Con materiales en su lengua materna"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contará con materiales didácticos específicos y con ayuda continua de su profesorado."
+    },
+    {
+      "question": "¿Qué debe tener el alumnado al final del plazo de exención?",
+      "options": [
+        "Un certificado de asistencia",
+        "Un dominio adecuado de la lengua gallega",
+        "Un informe de progreso",
+        "Una nota mínima de cinco"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe tener, al final del plazo de exención, un dominio adecuado de la lengua gallega para seguir las enseñanzas en igualdad de condiciones."
+    },
+    {
+      "question": "¿Qué informes son necesarios antes de revocar la exención según el artículo 18?",
+      "options": [
+        "Solo el informe del tutor",
+        "Solo el informe del director",
+        "Los informes pertinentes y oído el interesado",
+        "Solo el informe de la inspección"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se requerirán los informes pertinentes y oído el interesado y, en su caso, padres, madres, tutores o representantes legales."
+    },
+    {
+      "question": "¿Cómo se limitarán los efectos de la exención según el artículo 19?",
+      "options": [
+        "A todo el periodo educativo",
+        "Al año académico solicitado",
+        "A la etapa educativa completa",
+        "A los dos años de una sola vez"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sus efectos se limitarán al citado año académico, sin que se puedan conceder más de dos cursos escolares consecutivos."
+    },
+    {
+      "question": "¿Cuántos cursos escolares consecutivos como máximo pueden concederse de exención?",
+      "options": [
+        "Un curso escolar",
+        "Dos cursos escolares",
+        "Tres cursos escolares",
+        "Cuatro cursos escolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No se puedan conceder más de dos cursos escolares consecutivos de exención."
+    },
+    {
+      "question": "¿Qué pondrá fin a la vía administrativa en el recurso de alzada sobre exención?",
+      "options": [
+        "La resolución del director",
+        "La resolución de la inspección",
+        "La resolución de la jefatura territorial",
+        "La resolución de la Consellería"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El recurso se presenta ante la jefatura territorial y su resolución pondrá fin a la vía administrativa."
+    },
+    {
+      "question": "¿Qué comisiones se constituirán para coordinar los equipos de dinamización?",
+      "options": [
+        "Comisiones en la Consellería exclusivamente",
+        "Comisiones en cada jefatura territorial de educación",
+        "Comisiones en cada centro educativo",
+        "Comisiones en cada municipio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se constituirán comisiones en cada jefatura territorial de educación para coordinar los equipos de dinamización."
+    },
+    {
+      "question": "¿Quién determinará la composición y funciones de las comisiones territoriales de dinamización?",
+      "options": [
+        "Cada jefatura territorial de manera autónoma",
+        "El Consejo Escolar de Galicia",
+        "La consellería a través de la Secretaría General de Política Lingüística",
+        "Los propios equipos de dinamización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Serán determinadas por la consellería, a través de la Secretaría General de Política Lingüística, de acuerdo con las directrices de la Xunta."
+    },
+    {
+      "question": "¿Qué debe contar el proyecto lingüístico en formación profesional según el artículo 14?",
+      "options": [
+        "Solo las medidas para el alumnado con dificultades",
+        "Los procedimientos que aseguren que el alumnado consiga la competencia en ambas lenguas",
+        "Solo el horario de las asignaturas",
+        "Solo la distribución del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe contar los procedimientos que aseguren que el alumnado consiga la competencia lingüística propia del nivel en ambas lenguas oficiales."
+    },
+    {
+      "question": "¿Qué incluirá el proyecto lingüístico sobre el fomento de la lengua gallega?",
+      "options": [
+        "Solo actividades extraescolares",
+        "Solo actividades en el aula",
+        "Los objetivos generales y las líneas de actuación diseñadas por el centro",
+        "Solo el número de horas en gallego"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Incluirá los objetivos generales y las líneas de actuación diseñadas por el centro para el fomento de la lengua gallega."
+    },
+    {
+      "question": "¿Qué hará la Administración educativa con los proyectos lingüísticos según el artículo 14.5?",
+      "options": [
+        "Los archivará sin más",
+        "Los evaluará y hará el seguimiento de resultados",
+        "Los publicará en la web",
+        "Los enviará a las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Administración evaluará los proyectos lingüísticos y hará el seguimiento de los resultados que se desprendan de su aplicación."
+    },
+    {
+      "question": "¿Qué finalidad tiene la evaluación de los proyectos lingüísticos?",
+      "options": [
+        "Sancionar a los centros incumplidores",
+        "Adoptar medidas para garantizar que el alumnado adquiera competencia en las dos lenguas",
+        "Reducir el número de asignaturas",
+        "Eliminar las lenguas oficiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La finalidad es adoptar las medidas necesarias para garantizar que el alumnado adquiera competencia en las dos lenguas oficiales."
+    },
+    {
+      "question": "¿Qué artículo de la Ley 3/1983 establece la competencia lingüística al final de la enseñanza obligatoria?",
+      "options": [
+        "El artículo 12.3",
+        "El artículo 13.3",
+        "El artículo 14.3",
+        "El artículo 15.3"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 14.3 de la Ley 3/1983 establece que el alumnado adquiera la competencia lingüística propia de cada nivel y etapa en las dos lenguas."
+    },
+    {
+      "question": "¿Qué información incluirá la addenda anual en centros con educación infantil?",
+      "options": [
+        "Solo el número de alumnos",
+        "Los resultados de la pregunta sobre lengua materna y las estrategias de aprendizaje",
+        "Solo el horario de clases",
+        "Solo las actividades extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Incluirá los resultados de la pregunta sobre lengua materna y las actividades y estrategias de aprendizaje para las lenguas oficiales."
+    },
+    {
+      "question": "¿Qué información incluirá la addenda sobre asignaturas en lengua extranjera?",
+      "options": [
+        "Solo el número de horas",
+        "Solo el profesorado asignado",
+        "Información sobre los cambios aprobados y autorizados",
+        "Solo los resultados académicos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Incluirá información sobre los cambios aprobados por el centro y autorizados por la consellería en la impartición de asignaturas en lenguas extranjeras."
+    },
+    {
+      "question": "¿Qué incluirá la addenda anual en todos los centros sobre dinamización?",
+      "options": [
+        "Solo el presupuesto del equipo",
+        "Información y valoración de programas realizados e información del que se va a desarrollar",
+        "Solo la composición del equipo",
+        "Solo las reuniones realizadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Incluirá información y valoración de programas de fomento realizados y del que se va a desarrollar en el curso siguiente."
+    },
+    {
+      "question": "¿A qué tenderá la constitución de los equipos de dinamización según el artículo 15?",
+      "options": [
+        "A tener más profesorado que alumnado",
+        "A una composición equilibrada de mujeres y hombres",
+        "A tener representantes de todas las familias",
+        "A incluir personal externo al centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la constitución de estos órganos se tenderá a una composición equilibrada de mujeres y hombres."
+    },
+    {
+      "question": "¿Qué papel tendrán los equipos de dinamización en los programas de promoción?",
+      "options": [
+        "Un papel secundario",
+        "Un papel consultivo",
+        "Un papel fundamental en diseño, puesta en práctica y revisión",
+        "Un papel meramente informativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los equipos tendrán un papel fundamental en el diseño, puesta en práctica y revisión de los programas de promoción de la lengua gallega."
+    },
+    {
+      "question": "¿Con qué contarán los equipos de dinamización para su trabajo?",
+      "options": [
+        "Solo con el apoyo del director",
+        "Con el apoyo técnico necesario y dotación de recursos didácticos",
+        "Solo con recursos económicos",
+        "Solo con formación externa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contarán con el apoyo técnico necesario y los centros tendrán la debida dotación de recursos didácticos, pedagógicos y material en gallego."
+    },
+    {
+      "question": "¿Qué divulgará la Secretaría General de Política Lingüística sobre los equipos?",
+      "options": [
+        "Solo los problemas encontrados",
+        "Las experiencias positivas desarrolladas en los centros",
+        "Solo las estadísticas de uso del gallego",
+        "Solo los presupuestos asignados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Secretaría General de Política Lingüística coordinará el cometido y divulgará las experiencias positivas desarrolladas en los centros."
+    },
+    {
+      "question": "¿Qué se fomentará respecto a las actividades de dinamización según el artículo 11?",
+      "options": [
+        "Solo actividades dentro del horario lectivo",
+        "Un incremento en el uso del gallego en actividades extraescolares y complementarias",
+        "Solo actividades teóricas",
+        "Solo actividades para el profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se prestará especial atención a las líneas de actuación que permitan un incremento en el uso del gallego en actividades extraescolares y complementarias."
+    },
+    {
+      "question": "¿Con qué participación se desarrollará el programa de actividades de fomento de la lengua?",
+      "options": [
+        "Solo del equipo directivo",
+        "Solo del profesorado de lengua",
+        "De toda la comunidad educativa",
+        "Solo de las familias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El programa se desarrollará en el marco del proyecto lingüístico y con la participación de toda la comunidad educativa."
+    },
+    {
+      "question": "¿Qué lengua usarán profesorado y alumnado en las clases de lengua gallega según el artículo 12?",
+      "options": [
+        "Pueden usar ambas indistintamente",
+        "Usarán, respectivamente, el gallego",
+        "Solo el profesorado usará gallego",
+        "Solo el alumnado usará gallego"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En las clases de lengua y literatura gallega, se usará el gallego, tanto por parte del profesorado como por parte del alumnado."
+    },
+    {
+      "question": "¿En qué clases no podrá el alumnado usar la lengua de su preferencia?",
+      "options": [
+        "En todas las clases",
+        "En ninguna clase",
+        "En las clases de lengua gallega, lengua castellana y lenguas extranjeras",
+        "Solo en las clases de lenguas extranjeras"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En todas las áreas podrá usar la lengua de su preferencia, excepto en las señaladas de lengua gallega, castellana y lenguas extranjeras."
+    },
+    {
+      "question": "¿Qué se procurará respecto al uso de lengua por parte del alumnado en áreas no lingüísticas?",
+      "options": [
+        "Que use siempre castellano",
+        "Que use siempre gallego",
+        "Que utilice la lengua en que se imparte el área",
+        "Que no hable en clase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se procurará que el alumnado utilice la lengua en que se imparte el área, asignatura o módulo."
+    },
+    {
+      "question": "¿Qué promoverá la consellería respecto a materiales lingüísticos según el artículo 13?",
+      "options": [
+        "Solo materiales en gallego",
+        "Solo materiales en castellano",
+        "La elaboración de materiales en la otra lengua oficial y en lenguas extranjeras",
+        "Solo materiales digitales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La consellería promoverá la elaboración de materiales lingüísticos y terminológicos en la otra lengua oficial de Galicia y en lenguas extranjeras."
+    },
+    {
+      "question": "¿Qué características tendrán los materiales curriculares según el artículo 13?",
+      "options": [
+        "Solo calidad científica",
+        "Solo proyección universal",
+        "Calidad científica y pedagógica adecuada, atendiendo a las peculiaridades de Galicia",
+        "Solo atención a lo local"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tendrán calidad científica y pedagógica adecuada y atenderán, sin perjuicio de su proyección universal, a las peculiaridades de Galicia."
+    },
+    {
+      "question": "¿Qué fomentará la consellería respecto a materiales curriculares según el artículo 13?",
+      "options": [
+        "Solo su compra",
+        "Solo su distribución",
+        "Su elaboración y publicación",
+        "Solo su traducción"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La consellería fomentará la elaboración y publicación de los materiales curriculares correspondientes."
+    },
+    {
+      "question": "¿Dentro de qué proyecto se elaborará el proyecto lingüístico de centro?",
+      "options": [
+        "Del proyecto de gestión",
+        "Del proyecto educativo",
+        "Del proyecto de dirección",
+        "Del proyecto de innovación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cada centro, dentro de su proyecto educativo, elaborará su proyecto lingüístico cada cuatro cursos escolares."
+    },
+    {
+      "question": "¿Qué debe hacer constar el proyecto lingüístico sobre primaria, ESO y bachillerato?",
+      "options": [
+        "Solo el horario",
+        "La decisión sobre la lengua de impartición de asignaturas",
+        "Solo el profesorado asignado",
+        "Solo los materiales utilizados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe hacer constar la decisión del centro respecto de la lengua en que se impartirán las asignaturas de estas etapas."
+    },
+    {
+      "question": "¿Qué medidas adoptadas debe incluir el proyecto lingüístico en primaria, ESO y bachillerato?",
+      "options": [
+        "Medidas económicas",
+        "Medidas para que el alumnado sin suficiente dominio pueda seguir las enseñanzas",
+        "Medidas disciplinarias",
+        "Medidas de evaluación externa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe incluir las medidas adoptadas para que el alumnado que no tenga suficiente dominio de las lenguas pueda seguir con aprovechamiento las enseñanzas."
+    },
+    {
+      "question": "¿Quién oirá la comisión de coordinación pedagógica antes de nombrar la comisión del proyecto lingüístico?",
+      "options": [
+        "El consejo escolar",
+        "La inspección educativa",
+        "El equipo directivo",
+        "Las familias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La comisión será nombrada por el equipo directivo y oída la comisión de coordinación pedagógica."
+    },
+    {
+      "question": "¿Qué velarán los servicios de inspección respecto al proyecto lingüístico?",
+      "options": [
+        "Solo su existencia",
+        "Que su contenido se ajuste al decreto y a la LOE",
+        "Solo su formato",
+        "Solo su extensión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los servicios de inspección velarán para que su contenido se ajuste a este decreto y al desarrollo de la LOE."
+    },
+    {
+      "question": "¿Quién supervisará el equipo de dinamización de la lengua gallega?",
+      "options": [
+        "El consejo escolar",
+        "La inspección educativa",
+        "La dirección del centro",
+        "La jefatura territorial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El equipo de dinamización será nombrado y supervisado por la dirección del centro."
+    },
+    {
+      "question": "¿Quiénes NO forman parte del equipo de dinamización en infantil y primaria?",
+      "options": [
+        "El profesorado",
+        "El personal no docente",
+        "Representantes del alumnado",
+        "El coordinador"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El equipo está formado por coordinador, profesorado, representantes del alumnado (excepto en infantil y primaria) y personal no docente."
+    },
+    {
+      "question": "¿Dónde se establecerán las competencias del equipo de dinamización?",
+      "options": [
+        "En el proyecto educativo",
+        "En el proyecto lingüístico",
+        "En los reglamentos orgánicos de los centros",
+        "En circulares de la consellería"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La composición, competencias y nombramiento serán establecidas en los reglamentos orgánicos de los centros educativos."
+    },
+    {
+      "question": "¿Qué personal debe tener competencia en gallego según el artículo 16?",
+      "options": [
+        "Solo el profesorado",
+        "Solo el personal directivo",
+        "Todo el personal de los centros y servicios cuyo personal dependa de la consellería",
+        "Solo el personal administrativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El plan garantizará que todo el personal de los centros educativos y de los servicios de apoyo cuyo personal dependa de la consellería tenga competencia en gallego."
+    },
+    {
+      "question": "¿Qué conocimiento incluirá el plan de formación del artículo 16?",
+      "options": [
+        "Solo conocimiento gramatical",
+        "Solo conocimiento léxico",
+        "Competencia oral y escrita y conocimiento de la situación sociolingüística",
+        "Solo conocimiento histórico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El plan garantizará competencia oral y escrita suficiente para desarrollar la actividad profesional y conocimiento de la situación sociolingüística."
+    },
+    {
+      "question": "¿En qué cuerpos docentes se aplica el artículo 17 sobre formación en prácticas?",
+      "options": [
+        "Solo en cuerpos de secundaria",
+        "Solo en cuerpos de primaria",
+        "En los cuerpos que imparten enseñanzas reguladas en la LOE",
+        "Solo en cuerpos de formación profesional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se aplica al personal en los cuerpos docentes que imparten las enseñanzas reguladas en la Ley orgánica 2/2006, de educación."
+    },
+    {
+      "question": "¿Qué permitirá el curso de formación específico a los funcionarios en prácticas?",
+      "options": [
+        "Obtener un título oficial",
+        "Desarrollar correctamente en gallego sus funciones y tareas",
+        "Acceder a puestos directivos",
+        "Impartir todas las asignaturas en gallego"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El curso le permitirá desarrollar correctamente en gallego sus funciones y tareas."
+    },
+    {
+      "question": "¿Qué contenidos incluirá el curso de los funcionarios en prácticas?",
+      "options": [
+        "Solo gramática",
+        "Solo vocabulario",
+        "Terminología, estilos, lenguajes propios de la especialidad y aspectos sociolingüísticos",
+        "Solo literatura gallega"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Incluirá terminología, estilos, lenguajes propios de la especialidad y aspectos sociolingüísticos."
+    },
+    {
+      "question": "¿Desde dónde puede proceder el alumnado que solicite exención en educación primaria?",
+      "options": [
+        "Solo de países de la Unión Europea",
+        "Solo de otras comunidades autónomas",
+        "De otras comunidades autónomas o de un país extranjero",
+        "Solo de países hispanohablantes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El alumnado procedente de otras comunidades autónomas o de un país extranjero puede solicitar exención."
+    },
+    {
+      "question": "¿En qué etapas educativas puede solicitarse la exención de lengua gallega?",
+      "options": [
+        "En todas las etapas",
+        "Solo en secundaria",
+        "En 3er ciclo de primaria, ESO y bachillerato",
+        "Solo en bachillerato"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Puede solicitarse en 3er ciclo de educación primaria, en educación secundaria obligatoria o en bachillerato."
+    },
+    {
+      "question": "¿Es permanente la exención de lengua gallega?",
+      "options": [
+        "Sí, es permanente",
+        "No, es temporal con un máximo de dos cursos",
+        "Depende del centro",
+        "Depende del nivel educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es una exención temporal de la calificación durante un máximo de dos cursos escolares."
+    },
+    {
+      "question": "¿Qué se consigna en los documentos de evaluación cuando hay exención?",
+      "options": [
+        "No calificado",
+        "Pendiente",
+        "Exento",
+        "En proceso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La exención supondrá la consignación de exento en los documentos oficiales de evaluación del alumnado."
+    },
+    {
+      "question": "¿Es obligatoria la asistencia a clase para el alumnado con exención?",
+      "options": [
+        "No, no es obligatoria",
+        "Sí, debe asistir como medio de integración lingüística",
+        "Es opcional",
+        "Solo si el centro lo decide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alumnado tendrá que asistir a las clases como medio de integración lingüística."
+    },
+    {
+      "question": "¿Qué objetivo tiene la asistencia a clase del alumnado exento?",
+      "options": [
+        "Solo cumplir el horario",
+        "Conseguir dominio adecuado y seguir enseñanzas en igualdad con los demás",
+        "Solo conocer la cultura gallega",
+        "Solo aprobar el curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La finalidad es que pueda tener dominio adecuado y seguir las enseñanzas en igualdad de condiciones con los demás compañeros."
+    },
+    {
+      "question": "¿Quiénes deben ser oídos antes de revocar la exención?",
+      "options": [
+        "Solo el director",
+        "Solo el tutor",
+        "El interesado y, en su caso, padres, madres, tutores o representantes legales",
+        "Solo la inspección"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Debe oírse al interesado y, en su caso, a los padres, madres, tutores/as o representantes legales del alumno/la."
+    },
+    {
+      "question": "¿Cuándo producirá efecto la revocación de la exención?",
+      "options": [
+        "Al inicio del curso siguiente",
+        "Inmediatamente, con obligación de ser calificado",
+        "Al final del curso",
+        "En la evaluación final"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La revocación producirá como efecto la obligación de ser calificado en las evaluaciones parciales y finales al final del curso en que se encuentra."
+    },
+    {
+      "question": "¿Qué debe constar en los documentos oficiales respecto a la exención?",
+      "options": [
+        "Solo la concesión",
+        "La concesión, posible revocación y consiguiente calificación",
+        "Solo la revocación",
+        "Solo la calificación final"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe hacerse constar la exención concedida y, en su caso, la posible revocación y la consiguiente calificación."
+    },
+    {
+      "question": "¿Para cuántos cursos escolares se solicita la exención cada vez?",
+      "options": [
+        "Para todos los cursos restantes",
+        "Para cada año académico individual",
+        "Para la etapa completa",
+        "Para dos cursos de una vez"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La exención se solicitará para cada año académico de permanencia en la Comunidad Autónoma."
+    },
+    {
+      "question": "¿Pueden solicitarse más de dos cursos escolares consecutivos de exención?",
+      "options": [
+        "Sí, en casos excepcionales",
+        "No, el máximo son dos cursos consecutivos",
+        "Sí, si el centro lo autoriza",
+        "Depende de la inspección"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los efectos se limitan al año académico, sin que se puedan conceder más de dos cursos escolares consecutivos."
+    },
+    {
+      "question": "¿Quién resuelve sobre la exención en centros públicos de la Consellería?",
+      "options": [
+        "La inspección educativa",
+        "La jefatura territorial",
+        "Los propios centros docentes públicos",
+        "La Consellería directamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los centros docentes públicos dependientes de la Consellería resolverán sobre su concesión o denegación."
+    },
+    {
+      "question": "¿Desde cuándo se cuentan los diez días hábiles para resolver sobre exención?",
+      "options": [
+        "Desde la solicitud incompleta",
+        "Desde la presentación de la documentación completa",
+        "Desde el inicio del curso",
+        "Desde la inscripción del alumno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El plazo de diez días hábiles se cuenta a partir de la presentación de la documentación completa."
+    },
+    {
+      "question": "¿Quién resuelve las exenciones en centros privados de bachillerato?",
+      "options": [
+        "El director del centro privado",
+        "El titular del centro privado",
+        "La dirección del centro público de adscripción",
+        "La inspección educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La resolución corresponde a la persona titular de la Dirección del centro público al que esté adscrito."
+    },
+    {
+      "question": "¿Qué tipo de recurso puede interponerse contra la resolución de exención?",
+      "options": [
+        "Recurso de reposición",
+        "Recurso de alzada",
+        "Recurso contencioso-administrativo",
+        "Recurso de súplica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La resolución podrá ser impugnada mediante recurso de alzada."
+    },
+    {
+      "question": "¿Cuál es el plazo para interponer el recurso de alzada?",
+      "options": [
+        "Quince días",
+        "Veinte días",
+        "Un mes",
+        "Dos meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El recurso de alzada puede interponerse en el plazo de un mes."
+    },
+    {
+      "question": "¿Ante quién se interpone el recurso de alzada contra la resolución de exención?",
+      "options": [
+        "Ante el director del centro",
+        "Ante el jefe territorial de la Consellería",
+        "Ante la Consellería directamente",
+        "Ante el Consejo Escolar de Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El recurso se interpone ante la persona titular de la jefatura territorial correspondiente de la consellería."
+    },
+    {
+      "question": "¿La resolución del recurso de alzada pone fin a la vía administrativa?",
+      "options": [
+        "No, puede recurrirse ante la Consellería",
+        "Sí, pone fin a la vía administrativa",
+        "No, puede recurrirse ante el Consejo Consultivo",
+        "Depende del caso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La resolución del recurso de alzada pondrá fin a la vía administrativa."
+    },
+    {
+      "question": "¿Qué velarán los servicios de inspección según el artículo 20?",
+      "options": [
+        "Solo por el cumplimiento de horarios",
+        "Por el cumplimiento de todas las disposiciones del decreto",
+        "Solo por la calidad educativa",
+        "Solo por la gestión económica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los servicios de inspección velarán para que en todos los centros se cumplan las disposiciones previstas en este decreto."
+    },
+    {
+      "question": "¿A quién propondrán los servicios de inspección las medidas correctoras en caso de incumplimiento?",
+      "options": [
+        "A la Consellería directamente",
+        "A las jefaturas territoriales de educación",
+        "Al Consejo Escolar de Galicia",
+        "Al director del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les propondrán a las jefaturas territoriales de educación la adopción de las medidas correctoras necesarias."
+    },
+    {
+      "question": "¿Qué podrá haber además de medidas correctoras en caso de incumplimiento?",
+      "options": [
+        "Sanciones económicas",
+        "Cierre del centro",
+        "Responsabilidades a las que hubiera lugar",
+        "Pérdida de la acreditación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Podrá haber medidas correctoras sin perjuicio de las responsabilidades a las que hubiera lugar."
+    },
+    {
+      "question": "¿Qué tipo de asignaturas fomentará la Administración en lenguas extranjeras?",
+      "options": [
+        "Solo asignaturas lingüísticas",
+        "Asignaturas no lingüísticas",
+        "Solo asignaturas optativas",
+        "Solo asignaturas de modalidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Administración fomentará la impartición de asignaturas no lingüísticas en lengua(s) extranjera(s)."
+    },
+    {
+      "question": "¿El fomento de asignaturas en lengua extranjera es obligatorio para los centros?",
+      "options": [
+        "Sí, es obligatorio",
+        "No, es de manera progresiva y voluntaria",
+        "Solo en secundaria",
+        "Solo en bachillerato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros, de manera progresiva y voluntaria, puedan llegar a ofrecer asignaturas en lenguas extranjeras."
+    },
+    {
+      "question": "¿Qué debe garantizar el centro cuando imparte asignaturas en lengua extranjera?",
+      "options": [
+        "Más horas en lengua extranjera",
+        "El máximo equilibrio de horas entre gallego y castellano",
+        "Menos horas en lenguas oficiales",
+        "Igual número de horas en las tres lenguas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Debe adaptar su proyecto lingüístico para garantizar el máximo equilibrio de horas semanales ofertadas en gallego y castellano."
+    },
+    {
+      "question": "¿Qué debe solicitar el centro antes de aprobar asignaturas en lengua extranjera?",
+      "options": [
+        "Permiso de las familias",
+        "Autorización de la Administración educativa",
+        "Informe de la inspección",
+        "Acuerdo del consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El centro deberá cursar solicitud a la Administración educativa, a efectos del otorgamiento de la correspondiente autorización."
+    },
+    {
+      "question": "¿Qué se facilitará en formación profesional con las lenguas extranjeras?",
+      "options": [
+        "La movilidad internacional",
+        "El desempeño laboral en el espacio europeo",
+        "El turismo lingüístico",
+        "La enseñanza universitaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se desarrollarán habilidades de comunicación en lenguas extranjeras para facilitar el desempeño laboral en el espacio europeo."
+    },
+    {
+      "question": "¿De qué manera se desarrollarán las habilidades en lenguas extranjeras en FP?",
+      "options": [
+        "De manera inmediata y obligatoria",
+        "De manera progresiva y gradual",
+        "Solo al final del ciclo",
+        "Solo en módulos opcionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las habilidades se desarrollarán de manera progresiva y gradual."
+    },
+    {
+      "question": "¿A quiénes se dirige el plan de fomento de lenguas extranjeras?",
+      "options": [
+        "Solo al profesorado",
+        "Solo al alumnado",
+        "Al profesorado, al alumnado y a los centros",
+        "Solo a los centros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El plan determinará líneas de actuación dirigidas al profesorado, al alumnado y a los centros."
+    },
+    {
+      "question": "¿Mediante qué se regulará la impartición de asignaturas en lenguas extranjeras?",
+      "options": [
+        "Mediante decreto",
+        "Mediante resolución",
+        "Mediante orden de la consellería",
+        "Mediante circular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se regulará mediante orden aprobada por la consellería competente en materia de educación."
+    },
+    {
+      "question": "¿Qué garantía establece la disposición adicional segunda?",
+      "options": [
+        "La financiación de los centros",
+        "La evaluación del nivel de competencia en las dos lenguas oficiales",
+        "La formación del profesorado",
+        "La construcción de nuevos centros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La consellería establecerá un procedimiento de evaluación del nivel de competencia en las dos lenguas oficiales."
+    },
+    {
+      "question": "¿En qué etapas se aplicará el procedimiento de evaluación de competencia lingüística?",
+      "options": [
+        "En todas las etapas",
+        "Solo en educación primaria",
+        "En educación primaria y secundaria obligatoria",
+        "Solo en educación secundaria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se aplicará en educación primaria y en educación secundaria obligatoria."
+    },
+    {
+      "question": "¿Qué finalidad tiene el procedimiento de evaluación de competencia lingüística?",
+      "options": [
+        "Sancionar a los centros",
+        "Garantía de la consecución progresiva de la competencia en igualdad",
+        "Clasificar a los alumnos",
+        "Determinar las calificaciones finales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es una garantía de la consecución progresiva de la competencia en igualdad en ambas lenguas."
+    },
+    {
+      "question": "¿Qué asegurará el plan para alumnado con necesidades educativas especiales?",
+      "options": [
+        "Su integración social",
+        "Su capacitación lingüística en las lenguas oficiales",
+        "Su acceso a ayudas económicas",
+        "Su paso a centros específicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El plan asegurará su capacitación lingüística en las lenguas oficiales."
+    },
+    {
+      "question": "¿Cuándo evaluará la consellería los resultados del decreto?",
+      "options": [
+        "Cada trimestre",
+        "Cada semestre",
+        "Con periodicidad anual",
+        "Cada dos años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Con periodicidad anual, después de finalizar el curso escolar, la consellería evaluará los resultados."
+    },
+    {
+      "question": "¿Qué desarrollará la consellería cuantas disposiciones fueran precisas según la disposición adicional quinta?",
+      "options": [
+        "Disposiciones sancionadoras",
+        "Disposiciones para el mejor cumplimiento y adaptación de objetivos hacia una enseñanza plurilingüe",
+        "Disposiciones de cierre de centros",
+        "Disposiciones económicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La consellería desarrollará disposiciones precisas para el mejor cumplimiento y adaptación de sus objetivos con el fin de acercarse gradualmente al marco de una enseñanza plurilingüe."
+    },
+    {
+      "question": "¿A qué carta europea hace referencia la disposición adicional quinta?",
+      "options": [
+        "La Carta europea de educación superior",
+        "La Carta europea de derechos humanos",
+        "La Carta europea de las lenguas regionales o minoritarias",
+        "La Carta europea de autonomías locales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hace referencia a la plena aplicación de la Carta europea de las lenguas regionales o minoritarias."
+    },
+    {
+      "question": "¿Qué uso erradicará especialmente el decreto respecto a la lengua gallega?",
+      "options": [
+        "Su uso político",
+        "Su uso comercial",
+        "Su utilización sexista en todos los ámbitos",
+        "Su uso informal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El decreto capacitará para el uso correcto y eficaz, erradicando especialmente su utilización sexista en todos los ámbitos."
+    },
+    {
+      "question": "¿Qué respetará la oferta educativa respecto a cada centro?",
+      "options": [
+        "Solo su presupuesto",
+        "Solo su ubicación geográfica",
+        "La situación sociolingüística en la que se enmarca cada centro",
+        "Solo su número de alumnos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La oferta educativa respetará la situación sociolingüística en la que se enmarca cada centro."
+    },
+    {
+      "question": "¿Qué contexto de plurilingüismo menciona el decreto en su preámbulo?",
+      "options": [
+        "El contexto local gallego",
+        "El contexto nacional español",
+        "El contexto internacional y europeo",
+        "El contexto universitario"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La realidad social europea en la que vivimos, un contexto de globalización y movilidad laboral, nos sitúa en un espacio internacional de plurilingüismo."
+    },
+    {
+      "question": "¿Qué no debe constituir un obstáculo según el decreto?",
+      "options": [
+        "El número de alumnos por aula",
+        "La movilidad del estudiantado y del profesorado",
+        "El presupuesto de los centros",
+        "La ubicación geográfica de los centros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La movilidad del estudiantado y del profesorado no debe constituir un obstáculo para alcanzar los objetivos descritos."
+    },
+    {
+      "question": "¿Qué debe ser compatible la movilidad con el mantenimiento de qué?",
+      "options": [
+        "Del nivel económico",
+        "De la singularidad cultural de Galicia y la lengua propia en la enseñanza",
+        "De las infraestructuras educativas",
+        "De los horarios escolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La movilidad debe ser compatible con el mantenimiento de la singularidad cultural de Galicia y de la lengua propia en la enseñanza."
+    },
+    {
+      "question": "¿Qué pusieron de manifiesto los resultados de la consulta de 2009?",
+      "options": [
+        "La necesidad de más infraestructuras",
+        "La necesidad de revisar el marco legal que regula las lenguas vehiculares",
+        "La necesidad de más profesorado",
+        "La necesidad de reducir ratios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los resultados pusieron de manifiesto la necesidad de revisar el marco legal que regula las lenguas como elementos vehiculares de la enseñanza."
+    }
+  ]
+}

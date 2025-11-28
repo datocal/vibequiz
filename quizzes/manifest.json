@@ -50,7 +50,27 @@
       "quizzes": [
         "tema1-completo.json",
         "tema2-completo.json",
-        "tema3-completo.json"
+        "tema3-completo.json",
+        "tema4-completo.json",
+        "tema-5-evaluacion-procesos-aprendizaje.json",
+        "tema-6-tecnologias-informacion-comunicacion.json",
+        "tema-7-conocimiento-medio.json"
+      ]
+    },
+    {
+      "id": "legislacion",
+      "name": "Legislación",
+      "description": "Legislación educativa y normativa específica de Galicia",
+      "icon": "📋",
+      "quizzes": [
+        "decreto-374-1996.json",
+        "orden-22-julio-1997.json",
+        "decreto-229-2011-atencion-diversidad.json",
+        "decreto-79-2010-plurilinguismo.json",
+        "decreto-155-2022-curriculo-primaria.json",
+        "orden-26-mayo-2023-decreto-155.json",
+        "orden-8-mayo-2025-calendario-escolar.json",
+        "resolucion-5-junio-2025-instrucciones-curso.json"
       ]
     }
   ]

@@ -1,0 +1,2142 @@
+{
+  "title": "Orden del 22 de julio de 1997 - Decreto 374/1996",
+  "description": "Cuestionario sobre aspectos de organización y funcionamiento de escuelas y colegios de educación infantil y primaria en Galicia",
+  "category": "legislacion",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué documento debe elaborar el equipo directivo que será aprobado y evaluado por el consejo escolar según la Orden del 22 de julio de 1997?",
+      "options": [
+        "Proyecto Educativo de Centro (P.E.C.)",
+        "Reglamento de Régimen Interior (R.R.I.)",
+        "Programación General Anual (P.G.A.)",
+        "Proyecto Curricular de Centro (P.C.C.)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la Orden, el equipo directivo del centro elaborará un Proyecto Educativo de Centro (P.E.C.), que será aprobado y evaluado por el consejo escolar."
+    },
+    {
+      "question": "Según la orden, ¿dónde debe estar disponible una copia del Proyecto Educativo para la comunidad educativa?",
+      "options": [
+        "En la dirección del centro",
+        "En secretaría",
+        "En la conserjería",
+        "En el aula de cada profesor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La orden establece que deben guardarse copias del P.E.C. en secretaría, a disposición de la comunidad educativa, además de en las asociaciones de padres e inspección educativa."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE indica que el proyecto educativo recogerá los valores, fines y prioridades de actuación?",
+      "options": [
+        "Artículo 119",
+        "Artículo 120",
+        "Artículo 121",
+        "Artículo 122"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 121 de la LOMLOE establece que el proyecto educativo del centro recogerá los valores, los fines y las prioridades de actuación."
+    },
+    {
+      "question": "¿Qué documento ha reemplazado actualmente al Reglamento de Régimen Interior (R.R.I.) según la LOMLOE?",
+      "options": [
+        "Normas de Organización del Centro (N.O.C.)",
+        "Normas de Organización y Funcionamiento del Centro (N.O.F.C.)",
+        "Plan de Convivencia (P.C.)",
+        "Reglamento Interno de Funcionamiento (R.I.F.)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 124 de la LOMLOE, el R.R.I. se denomina actualmente N.O.F.C. (Normas de Organización y Funcionamiento del Centro)."
+    },
+    {
+      "question": "¿Quién elabora el Reglamento de Régimen Interior (R.R.I.) según la orden?",
+      "options": [
+        "El consejo escolar exclusivamente",
+        "El claustro de profesores exclusivamente",
+        "El equipo directivo con las aportaciones del consejo escolar, claustro y asociaciones de padres",
+        "La inspección educativa junto al director"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La orden establece que el equipo directivo realizará el R.R.I. con las aportaciones del consejo escolar, del claustro de profesores y las asociaciones de padres."
+    },
+    {
+      "question": "¿En qué quincena de septiembre debe elaborarse la Programación General Anual (P.G.A.)?",
+      "options": [
+        "Durante la primera quincena de septiembre",
+        "Durante la segunda quincena de septiembre",
+        "Durante todo el mes de septiembre",
+        "Durante la última semana de agosto y primera de septiembre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La orden establece que la P.G.A. debe ser elaborada por el equipo directivo durante la primera quincena de septiembre."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE regula la Programación General Anual?",
+      "options": [
+        "Artículo 123",
+        "Artículo 124",
+        "Artículo 125",
+        "Artículo 126"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 125 de la LOMLOE es el que regula la Programación General Anual (P.G.A.)."
+    },
+    {
+      "question": "¿Qué tipo de autonomía tienen los centros en la gestión económica según la orden?",
+      "options": [
+        "Autonomía limitada supervisada por el ayuntamiento",
+        "Autonomía parcial con aprobación de la Consellería",
+        "Autonomía en la gestión económica",
+        "Autonomía compartida con la inspección educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La orden establece que los centros disponen de autonomía en la gestión económica, lo que actualmente se denomina Proyecto de Gestión según el artículo 123 LOMLOE."
+    },
+    {
+      "question": "¿Cuántas firmas se requieren para la cuenta bancaria del centro educativo?",
+      "options": [
+        "Del director exclusivamente",
+        "Del equipo directivo",
+        "Del director y el secretario",
+        "Del director y el presidente del consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la orden, los centros tendrán una cuenta abierta en una entidad bancaria bajo las firmas del equipo directivo."
+    },
+    {
+      "question": "¿Cuándo debe realizarse la Memoria Final de curso según la orden?",
+      "options": [
+        "Al inicio del curso siguiente",
+        "A finales de curso",
+        "Durante el primer trimestre",
+        "Durante el mes de septiembre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La orden establece que la Memoria Final de curso se realizará a finales de curso, incluyendo las conclusiones de la evaluación y propuestas de mejora de la P.G.A."
+    },
+    {
+      "question": "Según la LOMLOE, ¿qué tipo de documento ha desaparecido y sus contenidos se incluyen ahora en el P.E.?",
+      "options": [
+        "Programación General Anual",
+        "Reglamento de Régimen Interior",
+        "Proyecto Curricular de Centro",
+        "Plan de Convivencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Con la LOMLOE, el Proyecto Curricular de Centro como tal desaparece, y las concreciones curriculares se incluyen en el Proyecto Educativo."
+    },
+    {
+      "question": "¿Quién supervisa el desarrollo y cumplimiento del proyecto curricular?",
+      "options": [
+        "La inspección educativa",
+        "El equipo directivo",
+        "La Comisión de Coordinación Pedagógica (C.C.P.)",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La orden establece que el desarrollo y cumplimiento del proyecto curricular será supervisado por la C.C.P., siendo supervisado posteriormente por la inspección educativa."
+    },
+    {
+      "question": "¿Con qué documento deben elaborarse las programaciones de actividades y tareas?",
+      "options": [
+        "A partir de la P.G.A.",
+        "A partir de la concreción curricular",
+        "A partir del R.R.I.",
+        "A partir del P.E.C."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La orden indica que los profesores programarán las actividades y tareas a partir de la concreción curricular, contemplando objetivos, contenidos, temporalización, estrategias didácticas, actividades, recursos y criterios de evaluación."
+    },
+    {
+      "question": "¿Qué decreto se debe tener en cuenta para la atención a la diversidad según la orden actualizada?",
+      "options": [
+        "Decreto 120/1998",
+        "Decreto 229/2011",
+        "Decreto 374/1996",
+        "Decreto 79/2010"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la atención a la diversidad se deberá tener en cuenta el Decreto 229/2011, de 7 de diciembre y la orden que lo desarrolla."
+    },
+    {
+      "question": "¿Qué orden desarrolla el Decreto 229/2011 sobre atención a la diversidad?",
+      "options": [
+        "Orden del 22 de julio de 1997",
+        "Orden del 23 de junio de 2011",
+        "Orden del 8 de septiembre de 2021",
+        "Orden del 26 de mayo de 2023"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden del 8 de septiembre de 2021 es la que desarrolla el Decreto 229/2011 sobre atención a la diversidad."
+    },
+    {
+      "question": "¿Quién fija el calendario escolar según la orden?",
+      "options": [
+        "Cada centro educativo",
+        "El consejo escolar",
+        "La Consellería de Educación y Ordenación Universitaria",
+        "El ayuntamiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El calendario será fijado por la Consellería de Educación y Ordenación Universitaria según establece la orden."
+    },
+    {
+      "question": "¿Cuántas horas diarias de actividades escolares lectivas establece la orden?",
+      "options": [
+        "4 horas diarias",
+        "5 horas diarias",
+        "6 horas diarias",
+        "7 horas diarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actividades escolares lectivas se realizarán de lunes a viernes con 5 horas diarias, en el número de sesiones que establezca la P.G.A."
+    },
+    {
+      "question": "¿Qué documento común deben elaborar los C.R.A. (Centros Rurales Agrupados)?",
+      "options": [
+        "Una P.G.A. común y proyectos educativos separados",
+        "Un P.E. y una concreción curricular común a su zona y una P.G.A.",
+        "Un R.R.I. común y P.G.A. separadas",
+        "Un proyecto curricular común pero P.E. separados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los C.R.A. elaborarán un Proyecto Educativo y una concreción curricular común a su zona, además de una P.G.A."
+    },
+    {
+      "question": "¿Quién organiza y distribuye los espacios del centro?",
+      "options": [
+        "El consejo escolar",
+        "El claustro de profesores",
+        "El equipo directivo",
+        "El secretario del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El equipo directivo organizará y distribuirá los espacios del centro, recogiéndose esta organización en la P.G.A."
+    },
+    {
+      "question": "¿Cuál es el período de vigencia de los libros de texto según la Orden de 29 de mayo de 2013?",
+      "options": [
+        "Cuatro cursos académicos",
+        "Cinco cursos académicos",
+        "Seis cursos académicos",
+        "Siete cursos académicos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se determina como período de vigencia de los libros de texto y materiales curriculares seis (6) cursos académicos, contados desde su elección."
+    },
+    {
+      "question": "¿Qué etapa educativa permite mayor flexibilidad en la sustitución de materiales didácticos?",
+      "options": [
+        "Educación Primaria",
+        "Educación Secundaria",
+        "Educación Infantil",
+        "Bachillerato"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En educación infantil se permite mayor flexibilidad a la hora de sustituir el material didáctico según lo establecido en la orden."
+    },
+    {
+      "question": "¿Quién debe aprobar la implantación de libros o materiales didácticos en el centro?",
+      "options": [
+        "El equipo directivo",
+        "La C.C.P.",
+        "El claustro",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La decisión sobre implantación de libros o materiales se propone al equipo de ciclo/docentes/nivel, es estudiada por la C.C.P. y aprobada por el claustro, luego comunicada al consejo escolar."
+    },
+    {
+      "question": "¿Quién ordena el régimen administrativo del centro?",
+      "options": [
+        "El director",
+        "El jefe de estudios",
+        "El secretario",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El secretario ordenará el régimen administrativo del centro, levantará actas de las reuniones, custodiará los archivos del centro y expedirá certificaciones."
+    },
+    {
+      "question": "¿Qué documento NO forma parte del expediente del alumno según la orden?",
+      "options": [
+        "Libro de escolaridad",
+        "Fotocopia de la tarjeta sanitaria",
+        "Historial médico completo",
+        "Ficha de evaluación inicial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El expediente incluye libro de escolaridad, solicitud de ingreso, fotocopia de la hoja de inscripción del libro de familia, fotocopia del boletín de vacunas y de la tarjeta sanitaria, pero no el historial médico completo."
+    },
+    {
+      "question": "¿Qué documento se remite al nuevo centro cuando un alumno se traslada?",
+      "options": [
+        "Todo el expediente académico completo",
+        "El libro de escolaridad, informe individualizado de evaluación y el informe psicopedagógico (si procede)",
+        "Solo el certificado de traslado",
+        "La ficha resumen y el P.A.T."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando un alumno se traslada, la documentación que se remitirá será el libro de escolaridad, informe individualizado de evaluación y el informe de evaluación psicopedagógica (en su caso)."
+    },
+    {
+      "question": "¿Quién es responsable de conservar, mantener y vigilar los edificios escolares?",
+      "options": [
+        "La Consellería de Educación",
+        "Los ayuntamientos",
+        "El equipo directivo",
+        "El secretario del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los ayuntamientos conservarán, mantendrán y vigilarán los edificios y demás instalaciones, mientras que la Consellería se encarga de su mejora."
+    },
+    {
+      "question": "¿Quién vela por el buen estado de las instalaciones del centro?",
+      "options": [
+        "El director",
+        "El secretario",
+        "El jefe de estudios",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El secretario velará por el buen estado de las instalaciones del centro educativo según establece la orden."
+    },
+    {
+      "question": "¿Dónde debe incluirse el Plan de Autoprotección del centro?",
+      "options": [
+        "Solo en el P.E.",
+        "En el N.O.F.C. y en la P.G.A.",
+        "Solo en la P.G.A.",
+        "En el R.R.I. exclusivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Plan de Autoprotección del centro se incluirá en el N.O.F.C. (antiguo R.R.I.) y en la P.G.A., detallando los mecanismos y medios disponibles para la seguridad."
+    },
+    {
+      "question": "¿Qué debe contemplar el Plan de Autoprotección del centro?",
+      "options": [
+        "Solo la localización de las salidas de emergencia",
+        "La localización y equipamiento de las cajas de urgencias, plan de evacuación, control de accesos, protección del alumnado, salidas de emergencia y sistemas de seguridad",
+        "Únicamente el plan de evacuación",
+        "Solo el control de personas que acceden al centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Plan de Autoprotección contempla la localización y equipamiento de las cajas de urgencias, el plan de evacuación, control de personas que acceden al centro, protección del alumnado, localización de salidas de emergencia y sistemas de seguridad."
+    },
+    {
+      "question": "¿Quién puede autorizar el uso ocasional de las instalaciones escolares?",
+      "options": [
+        "El secretario del centro",
+        "El consejo escolar",
+        "El director del centro",
+        "El jefe de estudios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para uso ocasional y con carácter excepcional el director podrá autorizar su uso. Para la utilización por personas ajenas se solicitará a la jefatura territorial."
+    },
+    {
+      "question": "¿Qué decreto regula la admisión de alumnado en centros sostenidos con fondos públicos?",
+      "options": [
+        "Decreto 12/2022, de 2 de febrero",
+        "Decreto 13/2022, de 3 de febrero",
+        "Decreto 14/2022, de 4 de febrero",
+        "Decreto 15/2022, de 5 de febrero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El DECRETO 13/2022, de 3 de febrero regula la admisión de alumnado en centros docentes sostenidos con fondos públicos que imparten enseñanzas de segundo ciclo de educación infantil, primaria, secundaria y bachillerato."
+    },
+    {
+      "question": "¿Qué orden regula el procedimiento para la admisión del alumnado?",
+      "options": [
+        "Orden del 10 de marzo de 2013",
+        "Orden del 11 de marzo de 2013",
+        "Orden del 12 de marzo de 2013",
+        "Orden del 13 de marzo de 2013"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden del 12 de marzo de 2013 regula el procedimiento para la admisión del alumnado en centros docentes sostenidos con fondos públicos."
+    },
+    {
+      "question": "¿A qué curso se incorporan los alumnos procedentes del extranjero?",
+      "options": [
+        "Al curso que decida el equipo directivo",
+        "Al curso que les corresponde por edad",
+        "Al curso inmediatamente inferior por edad",
+        "Al curso según su expediente académico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los alumnos procedentes del extranjero se incorporarán al curso que les corresponde por edad."
+    },
+    {
+      "question": "¿Cuándo puede un alumno extranjero escolarizarse en el curso inmediatamente inferior al que le corresponde por edad?",
+      "options": [
+        "Cuando presente un desfase curricular de más de un curso",
+        "Cuando presente un desfase curricular de más de dos cursos",
+        "Cuando presente un desfase curricular de más de tres cursos",
+        "Cuando lo soliciten los padres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la Orden del 8 de septiembre de 2021, si tras la evaluación se detecta que el alumno presenta un desfase curricular de más de dos cursos, se podrán escolarizar en el curso inmediatamente inferior al que le correspondería por edad."
+    },
+    {
+      "question": "¿Cómo deben ser los agrupamientos de alumnos según la orden?",
+      "options": [
+        "Separados por género y flexibles",
+        "Mixtos pero no flexibles",
+        "Mixtos y flexibles",
+        "Por niveles de rendimiento y flexibles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los agrupamientos serán mixtos y flexibles, evitando cualquier tipo de discriminación. Los grupos se podrán desdoblar para la realización de actividades determinadas."
+    },
+    {
+      "question": "¿Cuántas horas semanales incluye el horario del segundo ciclo de educación infantil, incluyendo recreos?",
+      "options": [
+        "20 horas semanales",
+        "22 horas semanales",
+        "25 horas semanales",
+        "30 horas semanales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los horarios se ajustarán para que dentro de las 25 horas semanales se incluyan los recreos en el segundo ciclo de educación infantil."
+    },
+    {
+      "question": "¿Entre qué límites debe estar el tiempo destinado al período de recreo?",
+      "options": [
+        "Entre 15 y 25 minutos",
+        "Entre 20 y 30 minutos",
+        "Entre 25 y 35 minutos",
+        "Entre 30 y 40 minutos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tiempo destinado al período de recreo estará comprendido entre 20 y 30 minutos según establece la orden."
+    },
+    {
+      "question": "¿Cuántos minutos globalmente pueden destinarse en educación infantil a segmentos de ocio además del recreo?",
+      "options": [
+        "Períodos que no superen los 20 minutos",
+        "Períodos que no superen los 25 minutos",
+        "Períodos que no superen los 30 minutos",
+        "Períodos que no superen los 35 minutos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En educación infantil podrá programarse segmentos de ocio con actividades o juegos dirigidos, en períodos que no superen globalmente los 30 minutos."
+    },
+    {
+      "question": "¿Dónde se determina el procedimiento para la justificación de las faltas de asistencia?",
+      "options": [
+        "En el P.E.C.",
+        "En las N.O.F.C.",
+        "En la P.G.A.",
+        "En el Proyecto Curricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En las N.O.F.C. (Normas de Organización y Funcionamiento del Centro, antiguo R.R.I.) se determinará el procedimiento para la justificación de las faltas de asistencia."
+    },
+    {
+      "question": "¿Qué protocolo actualiza lo relativo a las faltas de asistencia?",
+      "options": [
+        "Protocolo para a Convivencia Escolar",
+        "Protocolo para o control e a prevención do Absentismo Escolar en Galicia",
+        "Protocolo de Atención á Diversidade",
+        "Protocolo de Actuación en caso de Acoso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Todo lo relativo a las faltas de asistencia ha sido actualizado a través del Protocolo para o control e a prevención do Absentismo Escolar en Galicia."
+    },
+    {
+      "question": "¿Qué ley regula a nivel autonómico los derechos y deberes del alumnado?",
+      "options": [
+        "Ley 3/2011, de 29 de junio",
+        "Ley 4/2011, de 30 de junio",
+        "Ley 5/2011, de 1 de julio",
+        "Ley 6/2011, de 2 de julio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Ley 4/2011, de 30 de junio, de convivencia y participación de la comunidad educativa regula esta cuestión a nivel autonómico."
+    },
+    {
+      "question": "¿Qué decreto desarrolla la Ley 4/2011 en materia de convivencia escolar?",
+      "options": [
+        "Decreto 7/2015, de 7 de enero",
+        "Decreto 8/2015, de 8 de enero",
+        "Decreto 9/2015, de 9 de enero",
+        "Decreto 10/2015, de 10 de enero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 8/2015, de 8 de enero, desarrolla la Ley 4/2011 de convivencia y participación de la comunidad educativa en materia de convivencia escolar."
+    },
+    {
+      "question": "¿Qué decreto regula el plurilingüismo en la enseñanza no universitaria de Galicia?",
+      "options": [
+        "Decreto 77/2010, de 18 de mayo",
+        "Decreto 78/2010, de 19 de mayo",
+        "Decreto 79/2010, de 20 de mayo",
+        "Decreto 80/2010, de 21 de mayo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 79/2010, de 20 de mayo, regula el plurilingüismo en la enseñanza no universitaria de Galicia."
+    },
+    {
+      "question": "En educación infantil, ¿qué lengua usarán los profesores en la enseñanza?",
+      "options": [
+        "El castellano exclusivamente",
+        "El gallego exclusivamente",
+        "La lengua predominante",
+        "Ambas lenguas por igual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En educación infantil los profesores usarán en la enseñanza la lengua predominante según lo establecido en la orden."
+    },
+    {
+      "question": "¿Qué decreto regula la enseñanza de religión?",
+      "options": [
+        "Decreto 233/1995, de 18 de julio",
+        "Decreto 234/1995, de 19 de julio",
+        "Decreto 235/1995, de 20 de julio",
+        "Decreto 236/1995, de 21 de julio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La enseñanza de religión se ajustará a lo establecido en el Decreto 235/1995, de 20 de julio."
+    },
+    {
+      "question": "¿Cuándo deben los padres hacer constar por escrito la opción de religión o actividades alternativas?",
+      "options": [
+        "Solo en el momento de matricular por primera vez",
+        "En el momento de matricular por primera vez o al inicio de cada curso escolar",
+        "Solo al inicio de cada ciclo educativo",
+        "Solo cuando cambien de opción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los padres harán constar por escrito en el momento de matricular a los alumnos por primera vez, o al inicio de cada curso escolar, su opción sobre religión o actividades alternativas."
+    },
+    {
+      "question": "¿Dónde debe constar la oferta educativa de las distintas opciones religiosas?",
+      "options": [
+        "Solo en el P.E.",
+        "Solo en la P.G.A.",
+        "En el P.E., los proyectos curriculares de etapa y la P.G.A.",
+        "Solo en los proyectos curriculares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cada centro hará constar en el P.E. y los proyectos curriculares de etapa y la P.G.A. la oferta educativa de las distintas opciones religiosas o actividades alternativas."
+    },
+    {
+      "question": "¿Se pueden proponer trabajos extraescolares a los alumnos de educación infantil?",
+      "options": [
+        "Sí, pero con moderación",
+        "Sí, si los padres lo autorizan",
+        "No, en ningún caso",
+        "Sí, pero solo en el segundo ciclo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En ningún caso se les propondrán trabajos extraescolares a los alumnos de educación infantil según establece la orden."
+    },
+    {
+      "question": "¿Qué decreto establece la ordenación y currículo de educación primaria en Galicia?",
+      "options": [
+        "DECRETO 153/2022, de 13 de septiembre",
+        "DECRETO 154/2022, de 14 de septiembre",
+        "DECRETO 155/2022, de 15 de septiembre",
+        "DECRETO 156/2022, de 16 de septiembre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El DECRETO 155/2022, de 15 de septiembre establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿Qué orden regula la evaluación del alumnado en educación infantil actualmente?",
+      "options": [
+        "Orden del 22 de julio de 1997",
+        "Orden del 23 de junio de 2011",
+        "Orden del 26 de mayo de 2023",
+        "Orden del 8 de septiembre de 2021"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden del 26 de mayo de 2023 es la que regula actualmente la evaluación del alumnado, superando lo establecido en la orden de 1997 (Arts. 17 a 29)."
+    },
+    {
+      "question": "¿Qué artículos de la Orden del 26 de mayo de 2023 regulan la tramitación de reclamaciones contra las calificaciones?",
+      "options": [
+        "Arts. 25 a 29",
+        "Arts. 27 a 31",
+        "Arts. 30 a 34",
+        "Arts. 32 a 36"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los artículos 30 a 34 de la Orden del 26 de mayo de 2023 regulan la tramitación de reclamaciones contra las calificaciones."
+    },
+    {
+      "question": "¿Qué documento deben aportar los padres sobre asistencia sanitaria según la orden?",
+      "options": [
+        "Certificado médico completo",
+        "Historial clínico del alumno",
+        "Fotocopia de la tarjeta de la Seguridad Social",
+        "Cartilla de vacunación actualizada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se solicitará a los padres una fotocopia de la tarjeta de la Seguridad Social para la asistencia sanitaria."
+    },
+    {
+      "question": "¿Quién acompañará al alumno al centro sanitario en caso de accidente si un familiar no puede hacerse cargo?",
+      "options": [
+        "El director del centro",
+        "El tutor o un maestro",
+        "El secretario del centro",
+        "Un miembro del personal de servicios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el supuesto de que un familiar no pudiera hacerse cargo, acompañará al alumno su tutor o un maestro."
+    },
+    {
+      "question": "¿Dónde debe constar el procedimiento de actuación en caso de accidente escolar?",
+      "options": [
+        "En el P.E.C.",
+        "En las N.O.F.C.",
+        "En la P.G.A.",
+        "En el Proyecto Curricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El procedimiento en caso de accidente escolar deberá constar en las N.O.F.C. (Normas de Organización y Funcionamiento del Centro)."
+    },
+    {
+      "question": "¿Quién asigna ciclo, curso y grupo de alumnos a cada maestro?",
+      "options": [
+        "El director del centro a propuesta del jefe de estudios",
+        "El jefe de estudios exclusivamente",
+        "El consejo escolar",
+        "La C.C.P."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El director del centro, a propuesta del jefe de estudios, asignará ciclo, curso y grupo de alumnos a cada uno de los maestros del centro."
+    },
+    {
+      "question": "¿Qué criterio NO es prioritario en la adscripción funcional del profesorado?",
+      "options": [
+        "Prestar la mejor atención a las necesidades del alumnado",
+        "Rentabilizar al máximo el capital humano disponible",
+        "La antigüedad del profesorado en el centro",
+        "Consensuar la propuesta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las premisas establecidas son: prestar la mejor atención a las necesidades del alumnado, rentabilizar al máximo el capital humano disponible y consensuar la propuesta. La antigüedad no se menciona como criterio prioritario."
+    },
+    {
+      "question": "¿A quién deben los directores enviar una copia del acta del claustro sobre adscripción del profesorado?",
+      "options": [
+        "Al consejo escolar",
+        "A la Consellería de Educación",
+        "A la inspección educativa",
+        "A la jefatura territorial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los directores enviarán una copia del acta del claustro a la inspección educativa según establece la orden."
+    },
+    {
+      "question": "¿Quién elabora los horarios de clase?",
+      "options": [
+        "El director del centro",
+        "El jefe de estudios con colaboración de la CCP oído el claustro",
+        "El claustro de profesores",
+        "La C.C.P. exclusivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los horarios de clase serán elaborados por el jefe de estudios con colaboración con la CCP oído el claustro."
+    },
+    {
+      "question": "¿Qué orden establece los horarios del profesorado actualmente?",
+      "options": [
+        "Orden del 22 de julio de 1997",
+        "Orden del 23 de junio de 2011",
+        "Orden del 29 de mayo de 2013",
+        "Orden del 12 de marzo de 2013"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Todo lo detallado en la orden de 1997 sobre horarios ha sido superado por lo establecido en la Orden del 23 de junio de 2011, modificada por las Instrucciones 6/2024."
+    },
+    {
+      "question": "¿Cuántas horas de liberación horaria tiene el director en un centro de 12 a 17 unidades?",
+      "options": [
+        "5 horas máximo",
+        "6 horas máximo",
+        "7 horas máximo",
+        "8 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 12 a 17 unidades, el director tiene una liberación máxima de 7 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación horaria tiene el director en un centro de 24 o más unidades?",
+      "options": [
+        "7 horas máximo",
+        "8 horas máximo",
+        "9 horas máximo",
+        "10 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 24 o más unidades, el director tiene una liberación máxima de 9 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el jefe de estudios en un centro de 6 a 11 unidades?",
+      "options": [
+        "3 horas máximo",
+        "4 horas máximo",
+        "5 horas máximo",
+        "6 horas máximo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En centros de 6 a 11 unidades, el jefe de estudios tiene una liberación máxima de 4 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el secretario en un centro de 18 a 23 unidades?",
+      "options": [
+        "4 horas máximo",
+        "5 horas máximo",
+        "6 horas máximo",
+        "7 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 18 a 23 unidades, el secretario tiene una liberación máxima de 6 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el coordinador de ciclo en ciclos de 6 o más unidades?",
+      "options": [
+        "1 hora",
+        "2 horas",
+        "3 horas",
+        "4 horas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los coordinadores de ciclo en ciclos de 6 o más unidades tienen 2 horas de liberación."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el coordinador de ciclo en ciclos de menos de 6 unidades?",
+      "options": [
+        "0 horas",
+        "1 hora",
+        "2 horas",
+        "3 horas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los coordinadores de ciclo en ciclos de menos de 6 unidades tienen 1 hora de liberación."
+    },
+    {
+      "question": "¿Cuántas horas tiene el coordinador de EDLG en centros de 18 o más unidades?",
+      "options": [
+        "1 hora",
+        "2 horas",
+        "3 horas",
+        "4 horas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El coordinador de EDLG (Equipo de Dinamización de la Lengua Gallega) en centros de 18 o más unidades tiene 2 horas."
+    },
+    {
+      "question": "¿Cuántas horas tiene el coordinador de EACE en centros de menos de 18 unidades?",
+      "options": [
+        "0 horas",
+        "1 hora",
+        "2 horas",
+        "3 horas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El coordinador de EACE (Equipo de Actividades Complementarias y Extraescolares) en centros de menos de 18 unidades tiene 1 hora."
+    },
+    {
+      "question": "¿Quién controla diariamente la puntualidad y asistencia del profesorado?",
+      "options": [
+        "El director",
+        "El jefe de estudios",
+        "El secretario",
+        "El coordinador de ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La puntualidad y asistencia del profesorado a las clases y demás actividades serán controladas diariamente por el jefe de estudios."
+    },
+    {
+      "question": "¿Quiénes forman parte de los equipos de ciclo?",
+      "options": [
+        "Solo los tutores del ciclo",
+        "Todos los maestros que imparten docencia en el ciclo",
+        "Los coordinadores de ciclo exclusivamente",
+        "El equipo directivo y los tutores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los equipos de ciclo están formados por todos los maestros que imparten docencia en el ciclo."
+    },
+    {
+      "question": "¿Con qué periodicidad se reúnen los equipos de ciclo?",
+      "options": [
+        "Quincenalmente",
+        "Una vez al mes",
+        "Cada dos meses",
+        "Trimestralmente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los equipos de ciclo se reunirán 1 vez al mes y la asistencia será obligatoria."
+    },
+    {
+      "question": "¿Qué documento debe elaborar el profesorado de educación infantil para los alumnos que se incorporen por primera vez?",
+      "options": [
+        "Plan de acogida",
+        "Plan de adaptación",
+        "Plan de integración",
+        "Programa de bienvenida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El profesorado de educación infantil elaborará un plan de adaptación, destinado a los alumnos que se incorporen por 1ª vez al centro."
+    },
+    {
+      "question": "¿Con qué periodicidad se reúne la Comisión de Coordinación Pedagógica?",
+      "options": [
+        "Semanalmente",
+        "Quincenalmente",
+        "Mensualmente y al comienzo y final de curso",
+        "Trimestralmente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La C.C.P. se reunirá mensualmente y al comienzo y final de curso."
+    },
+    {
+      "question": "¿Qué función principal tiene la C.C.P. respecto a la concreción curricular?",
+      "options": [
+        "Aprobar la concreción curricular",
+        "Diseñar las directrices generales para su elaboración y revisión",
+        "Supervisar su aplicación en el aula",
+        "Evaluar los resultados de su aplicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La C.C.P. diseñará las directrices generales para la elaboración y revisión de la concreción curricular, así como el calendario de actuaciones."
+    },
+    {
+      "question": "¿Cómo se nombra a los miembros del Equipo de Dinamización de la Lengua Gallega?",
+      "options": [
+        "Los elige el claustro",
+        "Los nombra el director a propuesta de la C.C.P.",
+        "Los designa el consejo escolar",
+        "Se presentan voluntarios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Equipo de Dinamización de la Lengua Gallega está formado por un profesor de cada ciclo, nombrado por el director a propuesta de la C.C.P."
+    },
+    {
+      "question": "¿Con qué frecuencia se reúne el Equipo de Dinamización de la Lengua Gallega?",
+      "options": [
+        "Semanalmente",
+        "Quincenalmente",
+        "Mensualmente y al principio y final de curso",
+        "Trimestralmente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Equipo de Dinamización de la Lengua Gallega se reunirá mensualmente y al principio y final de curso."
+    },
+    {
+      "question": "¿Quién nombra al coordinador del Equipo de Actividades Complementarias y Extraescolares?",
+      "options": [
+        "El claustro de profesores",
+        "El consejo escolar",
+        "El director a propuesta del jefe de estudios, oída la C.C.P.",
+        "El equipo directivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El coordinador del EACE es nombrado por el director a propuesta del jefe de estudios, oída la C.C.P."
+    },
+    {
+      "question": "¿Con qué periodicidad se reúne el Equipo de Actividades Complementarias y Extraescolares?",
+      "options": [
+        "Mensualmente",
+        "Bimensualmente",
+        "Trimestralmente y una vez al comienzo y final de curso",
+        "Solo al inicio y final de curso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Equipo de Actividades Complementarias y Extraescolares se reunirá trimestralmente y una vez al comienzo y final de curso."
+    },
+    {
+      "question": "¿Quién designa al tutor de cada grupo?",
+      "options": [
+        "El claustro de profesores",
+        "El jefe de estudios",
+        "El director a propuesta del jefe de estudios",
+        "El equipo de ciclo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cada grupo tendrá un tutor designado por el director a propuesta del jefe de estudios."
+    },
+    {
+      "question": "¿Dónde se fija la hora para la atención a los padres por parte del tutor?",
+      "options": [
+        "En el P.E.C.",
+        "En la P.G.A.",
+        "En las N.O.F.C.",
+        "En el horario personal del tutor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se fijará en la P.G.A. una hora para la atención de los padres por parte del tutor."
+    },
+    {
+      "question": "¿Qué decreto establece el Departamento de Orientación?",
+      "options": [
+        "Decreto 119/1998",
+        "Decreto 120/1998",
+        "Decreto 121/1998",
+        "Decreto 122/1998"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Departamento de Orientación se establece según lo dispuesto en el Decreto 120/1998."
+    },
+    {
+      "question": "¿Cómo debe trabajar el equipo directivo según la orden?",
+      "options": [
+        "De forma independiente cada miembro",
+        "De forma coordinada en el desempeño de sus funciones",
+        "Bajo la dirección exclusiva del director",
+        "Solo en reuniones formales del consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El equipo directivo trabajará de forma coordinada en el desempeño de sus funciones, dinamizando las actividades del centro."
+    },
+    {
+      "question": "¿Cuál es el órgano en el que participa toda la comunidad educativa?",
+      "options": [
+        "El claustro de profesores",
+        "El equipo directivo",
+        "El consejo escolar",
+        "La C.C.P."
+      ],
+      "correctAnswer": 2,
+      "explanation": "El consejo escolar es el órgano en el que participa toda la comunidad educativa."
+    },
+    {
+      "question": "¿Cuándo deben celebrarse las reuniones del consejo escolar?",
+      "options": [
+        "En horario lectivo",
+        "Los sábados por la mañana",
+        "En día y hora que posibiliten la asistencia de todos los miembros",
+        "Solo por las tardes después de las clases"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las reuniones del consejo escolar se celebrarán en día y hora que posibiliten la asistencia de todos los miembros según establece la orden."
+    },
+    {
+      "question": "¿Qué órgano es el de participación del profesorado en el gobierno del centro?",
+      "options": [
+        "El consejo escolar",
+        "El equipo directivo",
+        "El claustro de profesores",
+        "La C.C.P."
+      ],
+      "correctAnswer": 2,
+      "explanation": "El claustro de profesores es el órgano de participación del profesorado en el gobierno del centro; planifica, coordina, decide e informa sobre los aspectos educativos y docentes."
+    },
+    {
+      "question": "¿Cómo se elige al representante de padres en el consejo escolar propuesto por las AMPAS?",
+      "options": [
+        "Por votación de todos los padres",
+        "Lo propone la asociación de padres más representativa (mayor número de asociados)",
+        "Lo elige el consejo escolar",
+        "Lo designa el director"
+      ],
+      "correctAnswer": 1,
+      "explanation": "De los representantes que le corresponde al sector de padres en el consejo escolar, uno será propuesto por la asociación de padres más representativa (mayor número de asociados)."
+    },
+    {
+      "question": "¿Con quién deben acordar las AMPAS el uso de las instalaciones del centro?",
+      "options": [
+        "Con el director",
+        "Con el equipo directivo",
+        "Con el consejo escolar",
+        "Con el ayuntamiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las AMPAS podrán utilizar las instalaciones del centro después de acordarlo con el consejo escolar."
+    },
+    {
+      "question": "¿Dónde debe figurar el programa de actividades que organicen las AMPAS?",
+      "options": [
+        "En el P.E.C.",
+        "En la P.G.A.",
+        "En las N.O.F.C.",
+        "En el Proyecto Curricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El programa de actividades que organicen las AMPAS figurará en la correspondiente P.G.A."
+    },
+    {
+      "question": "¿A quién corresponde la organización y administración de los comedores escolares?",
+      "options": [
+        "Al ayuntamiento",
+        "A la Consellería de Educación",
+        "A la comunidad educativa representada por el consejo escolar",
+        "Al equipo directivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La organización y administración de los comedores escolares le corresponde a la comunidad educativa representada por el consejo escolar."
+    },
+    {
+      "question": "¿Qué decreto regula los comedores escolares en centros públicos?",
+      "options": [
+        "Decreto 130/2013, de 29 de julio",
+        "Decreto 131/2013, de 31 de julio",
+        "Decreto 132/2013, de 1 de agosto",
+        "Decreto 133/2013, de 2 de agosto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 132/2013, de 1 de agosto regula los comedores escolares de los centros docentes públicos no universitarios dependientes de la Consellería con competencias en materia de educación."
+    },
+    {
+      "question": "¿A qué distancia mínima del centro debe estar el domicilio del alumno para tener derecho al transporte escolar?",
+      "options": [
+        "A más de 1 km",
+        "A más de 1,5 km",
+        "A más de 2 km",
+        "A más de 2,5 km"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tendrán derecho al transporte escolar los alumnos que tengan sus domicilios fuera del núcleo urbano en el que esté situado el centro escolar y, en cualquier caso, a una distancia del mismo superior a 2 km."
+    },
+    {
+      "question": "¿Qué Real Decreto regula las condiciones de seguridad en el transporte escolar?",
+      "options": [
+        "Real Decreto 441/2001, de 25 de abril",
+        "Real Decreto 442/2001, de 26 de abril",
+        "Real Decreto 443/2001, de 27 de abril",
+        "Real Decreto 444/2001, de 28 de abril"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Real Decreto 443/2001, de 27 de abril regula las condiciones de seguridad en el transporte escolar y de menores."
+    },
+    {
+      "question": "¿Qué tipo de actividades son las que se realizan con el alumnado en horario lectivo con carácter diferenciado?",
+      "options": [
+        "Actividades extraescolares",
+        "Actividades complementarias",
+        "Actividades opcionales",
+        "Actividades de refuerzo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actividades complementarias son aquellas actividades didácticas que se realizan con el alumnado en horario lectivo y que, formando parte de la programación, tienen carácter diferenciado por el momento, espacio o recurso que utilizan."
+    },
+    {
+      "question": "¿Es obligatoria la participación en actividades complementarias?",
+      "options": [
+        "Sí, siempre",
+        "No, es voluntaria",
+        "Solo si los padres lo autorizan",
+        "Solo para actividades dentro del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La participación en actividades complementarias es voluntaria, aunque forman parte de la programación."
+    },
+    {
+      "question": "¿Cuándo se necesita autorización de los padres para actividades complementarias?",
+      "options": [
+        "Siempre, para cualquier actividad",
+        "Solo si se desarrollan fuera de la localidad",
+        "Solo si tienen coste económico",
+        "Solo si duran más de un día"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La participación es voluntaria y necesita de la autorización de los padres si se desarrollan fuera de la localidad."
+    },
+    {
+      "question": "¿Qué tipo de actividades son las organizadas por el centro fuera del horario lectivo?",
+      "options": [
+        "Actividades complementarias",
+        "Actividades extraescolares",
+        "Actividades opcionales",
+        "Actividades de ampliación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actividades extraescolares son aquellas que, siendo organizadas por el centro, entidades… y figurando en la PGA, se realizan fuera del horario lectivo."
+    },
+    {
+      "question": "¿Las actividades complementarias y extraescolares son susceptibles de evaluación académica?",
+      "options": [
+        "Sí, ambas lo son",
+        "Solo las complementarias",
+        "Solo las extraescolares",
+        "No, ninguna de ellas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "No forman parte del currículo oficial y, por tanto, no son susceptibles de evaluación académica."
+    },
+    {
+      "question": "¿Quién organiza la jornada laboral del personal de administración y servicios?",
+      "options": [
+        "El director del centro",
+        "El secretario del centro",
+        "El jefe de estudios",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El secretario del centro organizará la jornada laboral del personal de administración y servicios en función de las necesidades organizativas del centro."
+    },
+    {
+      "question": "Según la Orden, ¿qué debe contemplar el Proyecto Educativo de Centro?",
+      "options": [
+        "Solo las actividades ofertadas y los idiomas",
+        "Las características del entorno y necesidades educativas, actividades ofertadas, participación en programas institucionales, oferta de idiomas, IES de adscripción y condiciones de uso de instalaciones",
+        "Únicamente las normas de convivencia",
+        "Solo el organigrama del centro y los horarios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El P.E.C. deberá contemplar: características del entorno y necesidades educativas, actividades ofertadas, participación en programas institucionales, oferta de idiomas, IES al que está adscrito, condiciones de utilización de las instalaciones y cualquier otra información relevante."
+    },
+    {
+      "question": "¿Qué principios debe incluir el proyecto educativo según el artículo 121 de la LOMLOE?",
+      "options": [
+        "Solo los valores y fines del centro",
+        "Valores, fines, prioridades de actuación, concreción curricular y principios de aprendizaje competencial",
+        "Únicamente las normas de convivencia",
+        "Solo las metodologías didácticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 121 LOMLOE indica que el proyecto educativo recogerá los valores, los fines y las prioridades de actuación, incorporará la concreción curricular e impulsará los principios de un aprendizaje competencial orientado al ejercicio de una ciudadanía activa."
+    },
+    {
+      "question": "¿Qué tratamientos transversales debe incluir el proyecto educativo según la LOMLOE?",
+      "options": [
+        "Solo la educación en valores",
+        "Educación en valores, desarrollo sostenible, igualdad de género, igualdad de trato, prevención de violencia, acoso, cultura de paz y derechos humanos",
+        "Únicamente el desarrollo sostenible",
+        "Solo la prevención del acoso escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proyecto educativo debe incluir tratamiento transversal de la educación en valores, del desarrollo sostenible, de la igualdad entre mujeres y hombres, de la igualdad de trato y no discriminación, prevención de la violencia contra las niñas y las mujeres, del acoso y ciberacoso escolar, cultura de paz y derechos humanos."
+    },
+    {
+      "question": "¿Qué apartados debe contener el Reglamento de Régimen Interior según la orden?",
+      "options": [
+        "Solo las normas de convivencia",
+        "Organización de la participación, normas de convivencia, coordinación del equipo directivo, sesiones de evaluación, atención accidentados, procedimientos del consejo escolar, normas de representación y justificación de faltas",
+        "Únicamente los horarios del profesorado",
+        "Solo las funciones del equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El R.R.I. constará de: organización de la participación de la comunidad educativa, normas de convivencia, modos de coordinarse el equipo directivo, coordinadores de ciclo/nivel, tutores, sesiones de evaluación, atención a los alumnos accidentados, procedimientos de actuación del consejo escolar, normas, formas de representación de los alumnos y forma de justificación de las faltas de asistencia."
+    },
+    {
+      "question": "¿Quiénes aportan las propuestas para elaborar la P.G.A.?",
+      "options": [
+        "Solo el equipo directivo",
+        "El claustro (propuestas) y el consejo escolar (directrices)",
+        "Solo el consejo escolar",
+        "Solo la C.C.P."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La P.G.A. es elaborada por el equipo directivo con las propuestas del claustro y las directrices del consejo escolar."
+    },
+    {
+      "question": "¿Para qué sirve la P.G.A. según la orden?",
+      "options": [
+        "Solo para organizar los horarios",
+        "Para garantizar el desarrollo coordinado de la acción educativa, respuesta a la diversidad y correcto ejercicio de competencias de los órganos de gobierno",
+        "Únicamente para planificar las actividades extraescolares",
+        "Solo para cumplir con la normativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La P.G.A. garantiza el desarrollo coordinado de la acción educativa y la respuesta a la diversidad, correcto ejercicio de las competencias de los órganos de gobierno y participación de la comunidad educativa."
+    },
+    {
+      "question": "¿Es de obligado cumplimiento la P.G.A. para la comunidad educativa?",
+      "options": [
+        "No, es solo orientativa",
+        "Sí, para todos los miembros de la comunidad educativa",
+        "Solo para el profesorado",
+        "Solo para el equipo directivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La P.G.A. es de obligado cumplimiento para todos los miembros de la comunidad educativa."
+    },
+    {
+      "question": "¿Quién puede consultar la P.G.A.?",
+      "options": [
+        "Solo el equipo directivo",
+        "Solo el claustro de profesores",
+        "La comunidad educativa",
+        "Solo el consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La P.G.A. podrá ser consultada por la comunidad educativa y será supervisada por la inspección educativa."
+    },
+    {
+      "question": "¿Qué incluye el régimen económico (Proyecto de Gestión) según la orden?",
+      "options": [
+        "Solo los gastos de comedor",
+        "Los datos de aprobación y justificación de los gastos de funcionamiento y lo referente al comedor escolar",
+        "Únicamente las nóminas del personal",
+        "Solo las inversiones en material didáctico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El régimen económico constará de los datos de aprobación y justificación de los gastos de funcionamiento y lo referente al comedor escolar."
+    },
+    {
+      "question": "¿Qué debe incluir la Memoria Final de curso?",
+      "options": [
+        "Solo las estadísticas del centro",
+        "Las conclusiones de la evaluación, balance y propuestas de mejora de la P.G.A.",
+        "Únicamente los resultados académicos",
+        "Solo las incidencias del curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la Memoria Final constarán las conclusiones de la evaluación, balance y propuestas de mejora de la P.G.A."
+    },
+    {
+      "question": "¿Quién elabora la Memoria Final incluyendo todos los informes?",
+      "options": [
+        "El claustro de profesores",
+        "El consejo escolar",
+        "El equipo directivo",
+        "La inspección educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cada uno de los órganos de coordinación docente hará una evaluación y el equipo directivo la memoria final incluyendo todos estos informes."
+    },
+    {
+      "question": "¿Quiénes emiten informes que se incluyen en la Memoria Final?",
+      "options": [
+        "Solo el claustro",
+        "El secretario, claustro de profesores y asociaciones de padres",
+        "Solo el equipo directivo",
+        "Solo el consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El secretario, claustro de profesores y asociaciones de padres emitirán unos informes que se incluirán en la Memoria Final."
+    },
+    {
+      "question": "¿Quién aprueba los proyectos curriculares de etapa y sus modificaciones?",
+      "options": [
+        "El consejo escolar",
+        "El claustro de profesores",
+        "El equipo directivo",
+        "La inspección educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los proyectos curriculares de etapa y las modificaciones serán aprobados por el equipo directivo."
+    },
+    {
+      "question": "¿Con qué decreto deben elaborarse los proyectos curriculares de segundo ciclo de educación infantil?",
+      "options": [
+        "Decreto de currículo correspondiente",
+        "Decreto 120/1998",
+        "Decreto 229/2011",
+        "Decreto 79/2010"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los centros que impartan el segundo ciclo de educación infantil elaborarán el proyecto curricular de acuerdo con el decreto de currículo correspondiente."
+    },
+    {
+      "question": "¿Qué debe contemplar la Programación de Actividades y Tareas?",
+      "options": [
+        "Solo los objetivos y contenidos",
+        "Los objetivos, unidades de contenidos, temporalización, estrategias didácticas, actividades, recursos y criterios de evaluación",
+        "Únicamente las actividades y recursos",
+        "Solo la temporalización y los contenidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La programación de actividades y tareas contemplará los objetivos, unidades de contenidos, temporalización, estrategias didácticas, actividades, recursos y criterios de evaluación."
+    },
+    {
+      "question": "¿La atención a la diversidad afecta solo a alumnos con N.E.E.?",
+      "options": [
+        "Sí, exclusivamente",
+        "No, afecta a todos los alumnos",
+        "Solo a alumnos con dificultades de aprendizaje",
+        "Solo a alumnos con altas capacidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La atención a la diversidad afecta a todos los alumnos y no solo a aquellos con N.E.E., según establece la orden."
+    },
+    {
+      "question": "¿Quién fija el número de sesiones de las actividades lectivas diarias?",
+      "options": [
+        "La Consellería de Educación",
+        "El equipo directivo",
+        "La P.G.A.",
+        "El claustro de profesores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las actividades escolares se realizan en el número de sesiones que establezca la P.G.A., dependiendo de si el centro tiene jornada completa o partida."
+    },
+    {
+      "question": "¿Qué pueden constituir los colegios incompletos para facilitar la elaboración de documentos?",
+      "options": [
+        "Grupos de trabajo independientes",
+        "Equipos de profesores",
+        "Comisiones específicas",
+        "Asociaciones de docentes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los colegios incompletos podrán constituir equipos de profesores para facilitar la realización de documentos como el P.E. y la concreción curricular."
+    },
+    {
+      "question": "¿Dónde se recoge la distribución de los espacios del centro?",
+      "options": [
+        "En el P.E.C.",
+        "En la P.G.A.",
+        "En las N.O.F.C.",
+        "En el Proyecto Curricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La organización y distribución de los espacios del centro realizada por el equipo directivo se recoge en la P.G.A."
+    },
+    {
+      "question": "¿Bajo qué circunstancias pueden sustituirse los libros de texto antes de los 6 cursos?",
+      "options": [
+        "Cuando los padres lo soliciten",
+        "Cuando circunstancias excepcionales o de carácter pedagógico o científico lo aconsejen, determinado por la jefatura territorial tras informe de inspección",
+        "Cuando el claustro lo decida",
+        "Cuando cambien los contenidos curriculares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Solo podrán sustituirse cuando circunstancias excepcionales o de carácter pedagógico o científico lo aconsejen, y así lo determine la jefatura territorial, después del informe de la inspección educativa, previa solicitud del centro."
+    },
+    {
+      "question": "¿Quién comunica al consejo escolar la decisión sobre libros de texto?",
+      "options": [
+        "El equipo directivo",
+        "El claustro",
+        "La C.C.P.",
+        "El equipo de ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las decisiones sobre implantación de libros o materiales se proponen al equipo de ciclo/docentes/nivel, las estudia la C.C.P., son aprobadas por el claustro y comunicadas al consejo escolar."
+    },
+    {
+      "question": "¿Qué función tiene el secretario respecto a las actas?",
+      "options": [
+        "Solo las custodia",
+        "Las levanta",
+        "Solo las archiva",
+        "Las aprueba"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El secretario levantará actas de las reuniones, además de ordenar el régimen administrativo del centro, custodiar los archivos y expedir certificaciones."
+    },
+    {
+      "question": "¿Qué debe mantener actualizado el secretario?",
+      "options": [
+        "Los horarios del profesorado",
+        "El inventario general del centro",
+        "Las programaciones didácticas",
+        "Los expedientes de los alumnos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las funciones del secretario está mantener actualizado el inventario general del centro."
+    },
+    {
+      "question": "¿Qué documento se entrega cuando un alumno se traslada a otro centro?",
+      "options": [
+        "Todo el expediente completo",
+        "Un certificado que conste el año y ciclo que cursó o está cursando",
+        "Solo las notas finales",
+        "Una carta de recomendación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando un alumno se traslade a otro centro se le entregará un certificado en el que conste el año y ciclo que cursó o está cursando."
+    },
+    {
+      "question": "¿Quién se encarga de la mejora de los edificios escolares?",
+      "options": [
+        "Los ayuntamientos",
+        "La Consellería de Educación y Ordenación Universitaria",
+        "El equipo directivo",
+        "El consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los ayuntamientos conservarán, mantendrán y vigilarán los edificios, mientras que la Consellería de Educación y Ordenación Universitaria se encarga de su mejora."
+    },
+    {
+      "question": "¿Cómo deben contemplarse las drogodependencias en el centro?",
+      "options": [
+        "En charlas puntuales",
+        "Como objetivo prioritario dentro de los contenidos transversales en la concreción curricular",
+        "Solo en actividades extraescolares",
+        "En el plan de convivencia exclusivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La prevención de las drogodependencias será un objetivo prioritario y deberá contemplarse dentro de los contenidos transversales, en la concreción curricular."
+    },
+    {
+      "question": "¿Quién debe velar por el cumplimiento de la normativa sobre prevención de drogodependencias?",
+      "options": [
+        "Solo el director",
+        "Los equipos directivos y los profesores",
+        "Solo el departamento de orientación",
+        "Solo el tutor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los equipos directivos y los profesores pondrán especial empeño en cumplir y hacer cumplir la normativa vigente y velarán por una formación adecuada a los alumnos."
+    },
+    {
+      "question": "¿Quién debe conocer el Plan de Autoprotección del centro?",
+      "options": [
+        "Solo el equipo directivo",
+        "Solo el profesorado",
+        "Toda la comunidad educativa",
+        "Solo el personal de servicios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Toda la comunidad educativa deberá conocer la existencia del Plan de Autoprotección del centro."
+    },
+    {
+      "question": "¿A quién se solicita autorización para el uso de instalaciones por personas ajenas al centro?",
+      "options": [
+        "Al director",
+        "Al consejo escolar",
+        "A la jefatura territorial",
+        "Al ayuntamiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para la utilización por personas ajenas se solicitará a la jefatura territorial, mientras que el director puede autorizar usos ocasionales excepcionales."
+    },
+    {
+      "question": "¿Se permite algún tipo de discriminación en la admisión de alumnos?",
+      "options": [
+        "Sí, por razones académicas",
+        "No, no se permitirá ningún tipo de discriminación",
+        "Sí, por proximidad al centro",
+        "Solo por razones de edad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No se permitirá ningún tipo de discriminación en la admisión de alumnos según establece la orden."
+    },
+    {
+      "question": "¿Pueden desdoblarse los grupos de alumnos?",
+      "options": [
+        "No, nunca",
+        "Sí, para la realización de actividades determinadas",
+        "Solo en educación infantil",
+        "Solo con autorización de la inspección"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los grupos se podrán desdoblar para la realización de actividades determinadas, manteniendo agrupamientos mixtos y flexibles."
+    },
+    {
+      "question": "¿Cómo debe contemplarse el horario en educación infantil?",
+      "options": [
+        "De forma rígida con asignaturas diferenciadas",
+        "De forma flexible debido al carácter globalizador e integrador",
+        "Con horarios estrictos de 45 minutos",
+        "Dividido en áreas específicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el 2º ciclo de educación infantil, dado su carácter globalizador e integrador del modelo curricular, el horario de cada aula contemplará de forma flexible la sucesión del tipo de actividades."
+    },
+    {
+      "question": "¿Pueden los alumnos ser privados del derecho de asistencia al centro por ausencias del profesorado?",
+      "options": [
+        "Sí, si no hay profesor sustituto",
+        "No, nunca",
+        "Solo en casos excepcionales",
+        "Sí, con autorización de los padres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los alumnos no podrán ser privados del derecho de asistencia al centro por ausencias del profesorado."
+    },
+    {
+      "question": "¿Para qué etapa existe mayor flexibilidad para el período de ocio según la orden?",
+      "options": [
+        "Educación Primaria",
+        "Educación Infantil",
+        "Educación Secundaria",
+        "Todas por igual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En educación infantil podrá programarse además segmentos de ocio, con actividades o juegos dirigidos, además del recreo regular."
+    },
+    {
+      "question": "¿Qué responsabilidad tiene el maestro tutor?",
+      "options": [
+        "Solo la docencia específica",
+        "La acción tutorial del grupo además de su tarea específica como docente",
+        "Solo la coordinación con las familias",
+        "Solo la evaluación del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El maestro tutor, además de su tarea específica como docente, se responsabilizará de la acción tutorial del grupo."
+    },
+    {
+      "question": "¿Pueden crearse otras estructuras organizativas en los centros además de las establecidas en la orden?",
+      "options": [
+        "No, solo las contempladas en la orden",
+        "Sí, para mejorar la calidad de la enseñanza, orientación escolar o perfeccionamiento del profesorado",
+        "Solo con autorización de la Consellería",
+        "Solo en centros de más de 18 unidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En los centros de educación infantil y primaria podrán crearse otras estructuras organizativas para mejorar la calidad de la enseñanza, la orientación escolar o el perfeccionamiento del profesorado."
+    },
+    {
+      "question": "¿Qué debe hacer el equipo directivo respecto al programa de dirección?",
+      "options": [
+        "Elaborarlo anualmente",
+        "Atender a su cumplimiento, si es el caso",
+        "Modificarlo cada curso",
+        "Presentarlo al claustro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El equipo directivo trabajará de forma coordinada en el desempeño de sus funciones, dinamizará las actividades del centro y, si es el caso, atenderán al cumplimiento de lo establecido en el programa de dirección correspondiente."
+    },
+    {
+      "question": "¿Pueden existir comisiones dentro del consejo escolar?",
+      "options": [
+        "No, no están contempladas",
+        "Sí, para facilitar la resolución de diferentes aspectos educativos",
+        "Solo la comisión económica",
+        "Solo la comisión de convivencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Podrán existir comisiones dentro del consejo escolar para facilitar la resolución de diferentes aspectos educativos."
+    },
+    {
+      "question": "¿Cuándo deben celebrarse las reuniones del consejo escolar para facilitar la asistencia?",
+      "options": [
+        "Siempre en horario escolar",
+        "En día y hora que posibiliten la asistencia de todos los miembros",
+        "Solo los viernes por la tarde",
+        "Siempre fuera del horario escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las reuniones del consejo escolar se celebrarán en día y hora que posibiliten la asistencia de todos los miembros."
+    },
+    {
+      "question": "¿Qué funciones tiene el claustro de profesores?",
+      "options": [
+        "Solo aprobar las programaciones",
+        "Planifica, coordina, decide e informa sobre los aspectos educativos y docentes",
+        "Solo participar en el consejo escolar",
+        "Solo evaluar al alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El claustro de profesores planifica, coordina, decide e informa sobre los aspectos educativos y docentes del centro."
+    },
+    {
+      "question": "¿Cuándo pueden las AMPAS utilizar las instalaciones del centro?",
+      "options": [
+        "Cuando lo deseen",
+        "Solo en horario no lectivo",
+        "Después de acordarlo con el consejo escolar",
+        "Solo con autorización del director"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las AMPAS podrán utilizar las instalaciones del centro después de acordarlo con el consejo escolar."
+    },
+    {
+      "question": "¿Qué decreto regula específicamente los comedores escolares?",
+      "options": [
+        "Decreto 130/2013",
+        "Decreto 131/2013",
+        "Decreto 132/2013",
+        "Decreto 133/2013"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 132/2013, de 1 de agosto, regula los comedores escolares de los centros docentes públicos no universitarios."
+    },
+    {
+      "question": "¿Quiénes tienen derecho al transporte escolar?",
+      "options": [
+        "Todos los alumnos del centro",
+        "Los alumnos de niveles obligatorios y/o gratuitos que viven fuera del núcleo urbano a más de 2 km",
+        "Solo los alumnos de educación primaria",
+        "Solo los alumnos con N.E.E."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tendrán derecho al transporte escolar los alumnos de los niveles obligatorios y/o gratuitos que tengan sus domicilios fuera del núcleo urbano en el que esté situado el centro escolar y, en cualquier caso, a una distancia del mismo superior a 2 km."
+    },
+    {
+      "question": "¿Quién promueve y organiza las actividades complementarias?",
+      "options": [
+        "El equipo directivo",
+        "El equipo de actividades complementarias y extraescolares",
+        "El claustro de profesores",
+        "El departamento de orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es el equipo de actividades complementarias y extraescolares el encargado de promover, organizar y facilitar este tipo de actividades."
+    },
+    {
+      "question": "¿Qué se requiere para realizar actividades extraescolares?",
+      "options": [
+        "Solo la autorización del director",
+        "La acreditación y titulación necesaria",
+        "Solo experiencia previa",
+        "La aprobación del claustro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se requiere la acreditación y titulación necesaria para la realización de actividades extraescolares."
+    },
+    {
+      "question": "¿Deben las actividades complementarias y extraescolares respetar el principio de ausencia de lucro?",
+      "options": [
+        "No, pueden tener ánimo de lucro",
+        "Sí, deben respetar voluntariedad, no discriminación y ausencia de lucro",
+        "Solo las complementarias",
+        "Solo las extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actividades complementarias y extraescolares deben respetar los principios de voluntariedad para los alumnos, no discriminación y ausencia de lucro."
+    },
+    {
+      "question": "¿A quién pondrá en conocimiento el secretario las incidencias del personal de administración y servicios?",
+      "options": [
+        "Al jefe de estudios",
+        "Al consejo escolar",
+        "Al director",
+        "A la inspección educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El secretario pondrá en conocimiento inmediato del director cualquier incidencia que altere el normal funcionamiento del centro respecto al personal de administración y servicios."
+    },
+    {
+      "question": "¿Quién debe supervisar la P.G.A. según la orden?",
+      "options": [
+        "El consejo escolar",
+        "El claustro de profesores",
+        "La inspección educativa",
+        "El equipo directivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La P.G.A. será supervisada por la inspección educativa, aunque puede ser consultada por toda la comunidad educativa."
+    },
+    {
+      "question": "¿Qué órgano debe aprobar el Proyecto Educativo de Centro?",
+      "options": [
+        "El claustro de profesores",
+        "El consejo escolar",
+        "El equipo directivo",
+        "La inspección educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Proyecto Educativo de Centro será aprobado y evaluado por el consejo escolar."
+    },
+    {
+      "question": "¿Qué órgano fija y aprueba la concreción curricular según la LOMLOE?",
+      "options": [
+        "El consejo escolar",
+        "El equipo directivo",
+        "El claustro de profesores",
+        "La C.C.P."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 121 de la LOMLOE, la concreción de los currículos corresponde fijar y aprobar al claustro."
+    },
+    {
+      "question": "¿Cuántos coordinadores de ciclo hay si un ciclo tiene 6 o más unidades?",
+      "options": [
+        "Ninguno",
+        "Uno con 2 horas de liberación",
+        "Uno con 1 hora de liberación",
+        "Dos coordinadores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En ciclos de 6 o más unidades, hay un coordinador de ciclo con 2 horas de liberación."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el jefe de estudios en un centro de 24 o más unidades?",
+      "options": [
+        "5 horas máximo",
+        "6 horas máximo",
+        "7 horas máximo",
+        "8 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 24 o más unidades, el jefe de estudios tiene una liberación máxima de 7 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el secretario en un centro de 24 o más unidades?",
+      "options": [
+        "5 horas máximo",
+        "6 horas máximo",
+        "7 horas máximo",
+        "8 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 24 o más unidades, el secretario tiene una liberación máxima de 7 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el director en un centro de 6 a 11 unidades?",
+      "options": [
+        "4 horas máximo",
+        "5 horas máximo",
+        "6 horas máximo",
+        "7 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 6 a 11 unidades, el director tiene una liberación máxima de 6 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el director en un centro de 18 a 23 unidades?",
+      "options": [
+        "6 horas máximo",
+        "7 horas máximo",
+        "8 horas máximo",
+        "9 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 18 a 23 unidades, el director tiene una liberación máxima de 8 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el jefe de estudios en un centro de 12 a 17 unidades?",
+      "options": [
+        "3 horas máximo",
+        "4 horas máximo",
+        "5 horas máximo",
+        "6 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 12 a 17 unidades, el jefe de estudios tiene una liberación máxima de 5 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el secretario en un centro de 12 a 17 unidades?",
+      "options": [
+        "3 horas máximo",
+        "4 horas máximo",
+        "5 horas máximo",
+        "6 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 12 a 17 unidades, el secretario tiene una liberación máxima de 5 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el secretario en un centro de 6 a 11 unidades?",
+      "options": [
+        "2 horas máximo",
+        "3 horas máximo",
+        "4 horas máximo",
+        "5 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 6 a 11 unidades, el secretario tiene una liberación máxima de 4 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el jefe de estudios en un centro de 18 a 23 unidades?",
+      "options": [
+        "4 horas máximo",
+        "5 horas máximo",
+        "6 horas máximo",
+        "7 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 18 a 23 unidades, el jefe de estudios tiene una liberación máxima de 6 horas."
+    },
+    {
+      "question": "¿Cuántas horas de liberación tiene el secretario en un centro de 18 a 23 unidades?",
+      "options": [
+        "4 horas máximo",
+        "5 horas máximo",
+        "6 horas máximo",
+        "7 horas máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En centros de 18 a 23 unidades, el secretario tiene una liberación máxima de 6 horas."
+    },
+    {
+      "question": "Según la Orden actualizada, ¿a qué artículos de qué orden se hace referencia para la evaluación del alumnado?",
+      "options": [
+        "Artículos 15 a 25 de la Orden del 23 de junio de 2011",
+        "Artículos 17 a 29 de la Orden del 26 de mayo de 2023",
+        "Artículos 20 a 30 de la Orden del 8 de septiembre de 2021",
+        "Artículos 12 a 22 de la Orden del 12 de marzo de 2013"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para la evaluación del alumnado se hace referencia a los artículos 17 a 29 de la Orden del 26 de mayo de 2023."
+    },
+    {
+      "question": "¿Qué instrucciones han modificado la Orden del 23 de junio de 2011 sobre horarios?",
+      "options": [
+        "Instrucciones 4/2024",
+        "Instrucciones 5/2024",
+        "Instrucciones 6/2024",
+        "Instrucciones 7/2024"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden del 23 de junio de 2011 sobre horarios ha sido modificada por las Instrucciones 6/2024."
+    },
+    {
+      "question": "¿Qué deben tener en cuenta los centros al realizar ajustes horarios?",
+      "options": [
+        "Solo las preferencias del profesorado",
+        "La estructura física del centro para facilitar la sincronización en los cambios de clase y el menor desplazamiento del profesorado",
+        "Solo el número de sesiones",
+        "Únicamente el horario de entrada y salida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros tendrán en cuenta la estructura física del centro para facilitar la sincronización en los cambios de clase y el menor desplazamiento del profesorado al realizar ajustes horarios."
+    },
+    {
+      "question": "¿Ante quién pueden los maestros interponer recurso sobre la adscripción funcional?",
+      "options": [
+        "Ante el director",
+        "Ante el consejo escolar",
+        "Ante la delegación (jefatura territorial)",
+        "Ante la inspección educativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los maestros podrán interponer recurso ante la delegación (jefatura territorial) sobre la adscripción funcional."
+    },
+    {
+      "question": "¿Qué forman los equipos de ciclo?",
+      "options": [
+        "Comisiones permanentes",
+        "Estructuras que organizan y desarrollan las enseñanzas propias del ciclo",
+        "Grupos de trabajo voluntarios",
+        "Equipos de mejora educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los equipos de ciclo organizan y desarrollan las enseñanzas propias del ciclo, formados por todos los maestros que imparten docencia en él."
+    },
+    {
+      "question": "¿Sobre qué aspectos deben llegar a un consenso los equipos de ciclo?",
+      "options": [
+        "Solo sobre los horarios",
+        "Secuencia de objetivos mínimos, pautas de evaluación, coordinación de programación, material didáctico, métodos y técnicas, elaboración de materiales",
+        "Solo sobre las actividades extraescolares",
+        "Únicamente sobre las normas de convivencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los equipos de ciclo deben llegar a un consenso sobre: secuencia de objetivos mínimos, pautas generales y procedimientos de evaluación, coordinar y controlar la programación, proponer el material didáctico, valorar y experimentar métodos y técnicas, y elaborar materiales y tecnología."
+    },
+    {
+      "question": "¿Qué actividades de la C.C.P. se incluyen en la P.G.A.?",
+      "options": [
+        "Solo las reuniones",
+        "Todas las actividades que se realicen",
+        "Solo el calendario de actuaciones",
+        "Solo las directrices curriculares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actividades que se realicen por la C.C.P. serán incluidas en la P.G.A."
+    },
+    {
+      "question": "¿Qué hace el EDLG (Equipo de Dinamización de la Lengua Gallega)?",
+      "options": [
+        "Solo enseñar gallego",
+        "Dinamiza el uso y enseñanza de la lengua gallega en el centro",
+        "Evalúa el nivel de gallego del alumnado",
+        "Organiza actividades extraescolares en gallego"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Equipo de Dinamización de la Lengua Gallega se encarga de dinamizar el uso y enseñanza de la lengua gallega en el centro, según el Decreto 79/2010."
+    },
+    {
+      "question": "¿Quién forma parte del Equipo de Actividades Complementarias y Extraescolares?",
+      "options": [
+        "Solo profesorado",
+        "Un coordinador, profesorado y personal no docente",
+        "Solo el coordinador y el equipo directivo",
+        "Solo los tutores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Equipo de Actividades Complementarias y Extraescolares está constituido por un coordinador, profesorado y personal no docente."
+    },
+    {
+      "question": "¿Cuál es la tarea principal del tutor además de la docencia?",
+      "options": [
+        "La coordinación de ciclo",
+        "La acción tutorial del grupo",
+        "La coordinación con el equipo directivo",
+        "La evaluación del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El maestro tutor, además de su tarea específica como docente, se responsabilizará de la acción tutorial del grupo."
+    },
+    {
+      "question": "¿Es obligatoria la asistencia a las reuniones de los equipos de ciclo?",
+      "options": [
+        "No, es voluntaria",
+        "Sí, la asistencia será obligatoria",
+        "Solo para los coordinadores",
+        "Solo si hay temas importantes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los equipos de ciclo se reunirán 1 vez al mes y la asistencia será obligatoria."
+    },
+    {
+      "question": "¿Están obligados a asistir los miembros de los órganos colegiados a las reuniones?",
+      "options": [
+        "No, es opcional",
+        "Sí, están obligados a asistir",
+        "Solo si lo considera el director",
+        "Solo en sesiones extraordinarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los órganos colegiados están obligados a asistir a las reuniones según establece la orden."
+    },
+    {
+      "question": "¿Qué deberá hacer la C.C.P. respecto al calendario de actuaciones?",
+      "options": [
+        "Solo seguirlo",
+        "Diseñarlo junto con las directrices generales para la elaboración y revisión de la concreción curricular",
+        "Aprobarlo en el consejo escolar",
+        "Evaluarlo al final de curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La C.C.P. diseñará las directrices generales para la elaboración y revisión de la concreción curricular, así como el calendario de actuaciones."
+    },
+    {
+      "question": "¿Cómo se forma el Equipo de Dinamización de la Lengua Gallega?",
+      "options": [
+        "Por todos los maestros de gallego",
+        "Por un profesor de cada ciclo nombrado por el director a propuesta de la C.C.P.",
+        "Por votación del claustro",
+        "Por designación del consejo escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Equipo de Dinamización de la Lengua Gallega está formado por un profesor de cada ciclo, nombrado por el director a propuesta de la C.C.P."
+    },
+    {
+      "question": "¿Qué actividades del EDLG se incluyen en algún documento del centro?",
+      "options": [
+        "En las N.O.F.C.",
+        "En el Proyecto Curricular",
+        "En la P.G.A.",
+        "En la Memoria Final"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las actividades realizadas por el Equipo de Dinamización de la Lengua Gallega se incluirán en la P.G.A."
+    },
+    {
+      "question": "¿Qué actividades del EACE se incluyen en algún documento del centro?",
+      "options": [
+        "En las N.O.F.C.",
+        "En el Proyecto Curricular",
+        "En la P.G.A.",
+        "Solo en actas internas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las actividades a realizar por el Equipo de Actividades Complementarias y Extraescolares se incluirán en la P.G.A."
+    },
+    {
+      "question": "¿Qué considera la orden como objetivo prioritario a contemplar en los contenidos transversales?",
+      "options": [
+        "La educación vial",
+        "La prevención de las drogodependencias",
+        "La educación ambiental",
+        "La educación financiera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La prevención de las drogodependencias será un objetivo prioritario y deberá contemplarse dentro de los contenidos transversales en la concreción curricular."
+    },
+    {
+      "question": "¿Con qué debe entroncar el uso de tareas extraescolares en educación primaria según el Decreto 155/2022?",
+      "options": [
+        "Con el horario lectivo exclusivamente",
+        "Con el adecuado desarrollo de las competencias clave del alumnado según sus distintos procesos y ritmos de aprendizaje",
+        "Con las necesidades de las familias únicamente",
+        "Con el currículo de secundaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El uso de tareas extraescolares debe entroncar con el adecuado desarrollo de las competencias clave del alumnado según sus distintos procesos y ritmos de aprendizaje, atendiendo a un principio de progresividad."
+    },
+    {
+      "question": "¿Qué debe tenerse en cuenta al establecer tareas extraescolares según el Decreto 155/2022?",
+      "options": [
+        "Solo el nivel académico del alumnado",
+        "Un adecuado encaje en la vida de las familias para facilitar la participación activa y conciliación, con respeto a los tiempos de ocio",
+        "Solo la cantidad de contenido a cubrir",
+        "Únicamente los resultados académicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se tendrá en cuenta un adecuado encaje en la vida de las familias para facilitar la participación activa de estas en el aprendizaje y la adecuada conciliación de la vida personal y familiar, con respeto a los tiempos de ocio del alumnado."
+    },
+    {
+      "question": "¿Qué se fomentará con las tareas extraescolares según el Decreto 155/2022?",
+      "options": [
+        "Solo el rendimiento académico",
+        "La responsabilidad del alumnado en su formación y autonomía, en línea con una cultura del esfuerzo y del trabajo",
+        "Solo la participación de las familias",
+        "Únicamente la preparación para exámenes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se fomentará la responsabilidad de las alumnas y alumnos en su formación y autonomía, en línea con una cultura del esfuerzo y del trabajo."
+    },
+    {
+      "question": "¿Qué principios deben respetar las actividades complementarias y extraescolares?",
+      "options": [
+        "Solo la voluntariedad",
+        "Voluntariedad para los alumnos, no discriminación y ausencia de lucro",
+        "Solo la no discriminación",
+        "Únicamente la ausencia de lucro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actividades complementarias y extraescolares deben respetar los principios de voluntariedad para los alumnos, no discriminación y ausencia de lucro."
+    },
+    {
+      "question": "¿Se deben fomentar las actividades gratuitas complementarias y extraescolares?",
+      "options": [
+        "No, pueden tener coste",
+        "Sí, se fomentarán las actividades gratuitas",
+        "Solo las extraescolares deben ser gratuitas",
+        "Solo las complementarias deben ser gratuitas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se informará adecuadamente a los padres y se fomentarán las actividades gratuitas."
+    },
+    {
+      "question": "¿Quién organiza la jornada laboral del personal de administración y servicios según sus necesidades?",
+      "options": [
+        "El director",
+        "El secretario en función de las necesidades organizativas del centro",
+        "El jefe de estudios",
+        "El propio personal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El secretario del centro organizará la jornada laboral del personal de administración y servicios en función de las necesidades organizativas del centro."
+    },
+    {
+      "question": "¿Quién debe velar por el cumplimiento de la jornada del personal de administración y servicios?",
+      "options": [
+        "El director",
+        "El jefe de estudios",
+        "El secretario",
+        "El conserje"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El secretario velará por el cumplimiento de la jornada del personal de administración y servicios."
+    },
+    {
+      "question": "¿De quién es necesaria la colaboración para la cultura evaluatoria según la orden?",
+      "options": [
+        "Solo del equipo directivo",
+        "De los órganos colegiados y unipersonales de gobierno y los distintos sectores de la comunidad educativa",
+        "Solo del claustro de profesores",
+        "Solo de la inspección educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se hace necesaria la colaboración de los órganos colegiados y unipersonales de gobierno y, asimismo, los distintos sectores de la comunidad educativa para la cultura evaluatoria."
+    },
+    {
+      "question": "¿Cuándo evalúan los centros su propio funcionamiento?",
+      "options": [
+        "Cada tres años",
+        "Al final de cada curso",
+        "Solo cuando lo solicita la inspección",
+        "Cada dos años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros evaluarán su propio funcionamiento al final de cada curso."
+    },
+    {
+      "question": "¿Dónde debe figurar el plan de evaluación del centro?",
+      "options": [
+        "En el P.E.C.",
+        "En la programación general anual",
+        "En las N.O.F.C.",
+        "En el Proyecto Curricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El plan de evaluación de cada centro deberá figurar en la programación general anual."
+    },
+    {
+      "question": "¿Dónde se reflejan los resultados de la evaluación del centro?",
+      "options": [
+        "En el P.E.C.",
+        "En la P.G.A. del siguiente curso",
+        "En la memoria anual",
+        "En un informe para la inspección"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los resultados de la evaluación del funcionamiento del centro se reflejarán en la memoria anual."
+    },
+    {
+      "question": "Según la orden, ¿qué edad determina el curso al que se incorpora un alumno extranjero?",
+      "options": [
+        "La edad cronológica",
+        "La edad mental",
+        "Su nivel académico",
+        "La decisión de los padres"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los alumnos procedentes del extranjero se incorporarán al curso que les corresponde por edad."
+    },
+    {
+      "question": "¿Qué deben evitar los centros respecto a los trabajos extraescolares según la orden?",
+      "options": [
+        "Que sean demasiado fáciles",
+        "Que los alumnos se vean obligados a realizar trabajos suplementarios fuera de la jornada escolar",
+        "Que se realicen en grupo",
+        "Que sean evaluables"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros evitarán que los alumnos se vean obligados a realizar trabajos suplementarios fuera de la jornada escolar."
+    },
+    {
+      "question": "¿Qué establece la disposición adicional cuarta del Decreto 155/2022 respecto a las tareas extraescolares?",
+      "options": [
+        "Son obligatorias en todos los cursos",
+        "Los centros incluirán en su P.G.A. las pautas y/o criterios generales sobre su uso",
+        "Están prohibidas en educación primaria",
+        "Solo se permiten en el tercer ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros docentes incluirán dentro de su programación general anual las pautas y/o criterios generales sobre el uso de las tareas extraescolares en la etapa de educación primaria."
+    },
+    {
+      "question": "¿Qué documentación relacionada con vacunas debe incluirse en el expediente del alumno?",
+      "options": [
+        "Certificado médico completo",
+        "Fotocopia del boletín de vacunas",
+        "Historial de salud infantil",
+        "Analíticas recientes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el expediente del alumno debe incluirse la fotocopia del boletín de vacunas."
+    },
+    {
+      "question": "¿Qué documento debe incluirse si un alumno tiene necesidades educativas especiales?",
+      "options": [
+        "Solo el informe del tutor",
+        "El informe de evaluación psicopedagógica",
+        "Un certificado médico",
+        "La autorización de los padres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el expediente del alumno se incluirá el informe de evaluación psicopedagógica en su caso."
+    },
+    {
+      "question": "¿Qué ficha específica se incluye al finalizar la educación infantil?",
+      "options": [
+        "Ficha de seguimiento",
+        "Ficha-informe de evaluación final de educación infantil",
+        "Informe de competencias",
+        "Certificado de finalización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se incluye el informe de evaluación final de educación infantil en el expediente del alumno."
+    },
+    {
+      "question": "¿Qué documento recoge la escolaridad del segundo ciclo de educación infantil?",
+      "options": [
+        "Historial académico",
+        "Ficha resumen de escolaridad del 2º ciclo de ed. infantil",
+        "Certificado de estudios",
+        "Informe de progreso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se incluye la ficha resumen de escolaridad del 2º ciclo de educación infantil en el expediente."
+    },
+    {
+      "question": "¿Qué debe hacer el secretario respecto a los archivos del centro?",
+      "options": [
+        "Solo organizarlos",
+        "Custodiarlos",
+        "Solo actualizarlos",
+        "Únicamente inventariarlos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El secretario custodiará los archivos del centro entre otras funciones administrativas."
+    },
+    {
+      "question": "¿Quién expide las certificaciones en el centro?",
+      "options": [
+        "El director",
+        "El jefe de estudios",
+        "El secretario",
+        "Cualquier miembro del equipo directivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El secretario expide las certificaciones del centro."
+    }
+  ]
+}
