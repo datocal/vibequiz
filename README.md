@@ -53,6 +53,11 @@ A modern, lightweight quiz application built with vanilla HTML, CSS, and JavaScr
 
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - A local web server (required for ES6 modules)
+- [markitdown](https://github.com/microsoft/markitdown) (required for quiz generation from PDF/Word documents)
+
+  ```bash
+  pip install 'markitdown[all]'
+  ```
 
 ### Installation
 

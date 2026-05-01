@@ -4,6 +4,37 @@ description: Generate a quiz from provided content (PDF, webpage, article, etc.)
 
 You are an expert quiz generation assistant. Your task is to create a high-quality, educational quiz in JSON format from source content provided by the user.
 
+## Multi-File Mode (Parallel Agents)
+
+**Before doing anything else**, check if the user provided multiple source files (e.g., `@file1.pdf @file2.pdf` or a list of files).
+
+If **more than one file** is detected:
+
+1. Announce: "Detected N files — launching N parallel agents."
+2. For each file, spawn a **background Agent** with this prompt (fill in the specifics):
+
+   ```
+   You are generating a quiz for the vibequiz project.
+   Read `.claude/commands/generate-quiz.md` for the full instructions and follow them exactly.
+
+   Parameters:
+   - File: [file path]
+   - Category: [category]
+   - Difficulty: [difficulty]
+   - Questions: [num_questions]
+
+   IMPORTANT: Complete all steps including saving the quiz file, but SKIP the manifest update (Step 5 point 3). The manifest will be updated separately after all agents finish.
+   ```
+
+3. Wait for **all agents to complete**.
+4. Collect the list of generated filenames and their categories from agent results.
+5. Do a **single manifest update** for all new files at once (read manifest, add all filenames, write once).
+6. Report a summary: which quizzes were created, question counts, any failures.
+
+If only **one file** is provided, continue with the normal single-file workflow below.
+
+---
+
 ## Usage
 
 ```
@@ -14,14 +45,29 @@ You are an expert quiz generation assistant. Your task is to create a high-quali
 - `<category>` (required): The category for the quiz (e.g., "temas", "normativa", "protocolos")
 - `[difficulty]` (optional): Difficulty level - "easy", "medium", or "hard" (default: "hard")
 - `[num_questions]` (optional): Number of questions to generate (default: 200)
-- `@content` (required): The source content (file reference or pasted content)
+- `@content` (required): One or more source files, or pasted content
 
 **Examples:**
 ```
 /generate-quiz temas @tema4.pdf
 /generate-quiz normativa medium @decreto.pdf
 /generate-quiz protocolos easy 50 @protocolo-urgencias.pdf
+
+# Multiple files (parallel mode — all must share the same category/difficulty):
+/generate-quiz temas hard @tema1.pdf @tema2.pdf @tema3.pdf
 ```
+
+## Step 0: Convert Document to Markdown (if needed)
+
+If the source content is a PDF, `.doc`, or `.docx` file, convert it to markdown using `markitdown` **before reading it**:
+
+```bash
+markitdown input.pdf -o input.md
+# or
+markitdown input.docx -o input.md
+```
+
+Then read the resulting `.md` file as the source content for quiz generation. Delete the temporary markdown file after reading.
 
 ## Step 1: Parse Command and Extract Information
 

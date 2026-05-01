@@ -209,3 +209,10 @@ Static HTML/CSS/JS quiz application with no frameworks or build tools. Uses ES6 
 - Local server required (Python, Node http-server, or VS Code Live Server)
 - No build step or transpilation
 - All code is vanilla JS, no dependencies
+
+## Quiz Generation Tools
+
+- **markitdown** (`pip install 'markitdown[all]'`): Converts PDF, `.doc`, and `.docx` files to markdown before reading for quiz generation
+  - Usage: `markitdown input.pdf -o input.md`
+  - Always convert documents to markdown first, then read the `.md` file as source content
+  - Delete the temporary `.md` file after reading
