@@ -1,0 +1,2208 @@
+{
+  "title": "Tema 8: Construcción de la noción de tiempo histórico en la Educación Primaria",
+  "description": "Preguntas de dificultad alta sobre la noción de tiempo histórico, ámbitos de estudio histórico, etapas históricas, fuentes históricas e intervención educativa en Educación Primaria.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según Trepat y Comes (2002), ¿cómo se define el tiempo histórico?",
+      "options": [
+        "La evolución cronológica de los hechos en una línea temporal",
+        "La simultaneidad de duraciones, movimientos y cambios de un colectivo humano a lo largo de un periodo determinado",
+        "Una herramienta conceptual que permite interpretar los cambios y continuidades de las sociedades",
+        "El proceso cíclico de repetición de fenómenos sociales en el tiempo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trepat y Comes (2002) definen el tiempo histórico como 'la simultaneidad de duraciones, movimientos y cambios de un colectivo humano a lo largo de un periodo determinado'. La definición de herramienta conceptual corresponde a Joan Pagès (2004)."
+    },
+    {
+      "question": "Joan Pagès (2004) define el tiempo histórico como:",
+      "options": [
+        "La simultaneidad de duraciones, movimientos y cambios de un colectivo humano",
+        "El estudio de las causas y consecuencias de los hechos históricos",
+        "Una herramienta conceptual que permite comprender e interpretar los cambios y continuidades de las sociedades, relacionando pasado, presente y futuro",
+        "La representación gráfica de los acontecimientos históricos en una línea temporal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Joan Pagès (2004) define el tiempo histórico como 'una herramienta conceptual que permite comprender e interpretar los cambios y continuidades de las sociedades, relacionando pasado, presente y futuro, contribuyendo al desarrollo de la conciencia histórica'. La otra definición (simultaneidad de duraciones) pertenece a Trepat y Comes."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una característica del tiempo histórico según el tema?",
+      "options": [
+        "Es irreversible, no puede recorrerse hacia atrás",
+        "Es universal e idéntico para todas las personas y culturas",
+        "Es inseparable del espacio",
+        "Se expresa mediante un lenguaje temporal específico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tiempo histórico es relativo, no universal, pues 'cada persona y cultura lo percibe de forma diferente'. Las demás son características reales: irreversible, inseparable del espacio y se expresa mediante lenguaje temporal específico."
+    },
+    {
+      "question": "La perspectiva histórica que estudia las diferencias de un hecho ocurrido en un mismo momento en distintos lugares se denomina:",
+      "options": [
+        "Diacronía",
+        "Ucronía",
+        "Sincronía",
+        "Cronología"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La sincronía estudia las diferencias de un hecho ocurrido en un mismo momento en distintos lugares. La diacronía analiza la evolución temporal de un hecho, y la ucronía plantea hipótesis sobre posibles desarrollos alternativos."
+    },
+    {
+      "question": "La ucronía, como perspectiva del análisis histórico, se define como:",
+      "options": [
+        "El análisis de la evolución temporal de un hecho",
+        "El estudio de las diferencias de un hecho en distintos lugares al mismo tiempo",
+        "El planteamiento de hipótesis sobre posibles desarrollos alternativos al hecho histórico",
+        "La representación gráfica del tiempo histórico en una línea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La ucronía plantea hipótesis sobre posibles desarrollos alternativos al hecho histórico. La sincronía estudia el mismo hecho en distintos lugares simultáneamente, y la diacronía analiza la evolución temporal de un hecho."
+    },
+    {
+      "question": "Según Braudel (1958), ¿qué tipo de tiempo abarca procesos de duración intermedia como años o décadas?",
+      "options": [
+        "Tiempo corto",
+        "Tiempo largo o de la estructura",
+        "Tiempo medio o de la coyuntura",
+        "Tiempo percibido"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tiempo medio o de la coyuntura abarca procesos de duración intermedia como años o décadas. El tiempo corto se refiere a días o meses, y el tiempo largo o de la estructura es el más profundo, medido en siglos."
+    },
+    {
+      "question": "El 'tiempo largo o de la estructura' según Braudel (1958) se mide en:",
+      "options": [
+        "Días o meses",
+        "Años o décadas",
+        "Décadas o lustros",
+        "Siglos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El tiempo largo o de la estructura es 'el tiempo más profundo y lento, medido en siglos'. El tiempo corto se refiere a días o meses, y el tiempo medio o coyuntura a años o décadas."
+    },
+    {
+      "question": "¿En qué Bloque del área de CCSS del Decreto 155/2022 se integra el tiempo histórico en la EP?",
+      "options": [
+        "Bloque 1 'El mundo en que vivimos'",
+        "Bloque 2 'Sociedades y territorios'",
+        "Bloque 3 'Comprensión del mundo natural'",
+        "Bloque 4 'Lecciones del pasado'"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Decreto 155/2022 integra el tiempo histórico en el Bloque 4 'Lecciones del pasado' del área de CCSS, que presta atención a los retos del presente tomando como referencia la historia personal, local, de Galicia y de España."
+    },
+    {
+      "question": "¿Cuál es el OBJ del área de CCSS más vinculado al tiempo histórico en el Decreto 155/2022?",
+      "options": [
+        "OBJ1: Conocer el entorno geográfico próximo",
+        "OBJ3: Relacionar hechos históricos con el patrimonio cultural",
+        "OBJ5: Observar, comprender e interpretar continuidades y cambios del medio, analizando relaciones de causalidad, simultaneidad y sucesión",
+        "OBJ7: Desarrollar el pensamiento crítico sobre los valores democráticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ5 del área es el más vinculado: 'Observar, comprender e interpretar continuidades y cambios del medio, analizando relaciones de causalidad, simultaneidad y sucesión para explicar y valorar las relaciones entre diferentes elementos y acontecimientos'."
+    },
+    {
+      "question": "¿Cuáles son las dos nociones básicas sobre las que se apoya la construcción del tiempo histórico en EP?",
+      "options": [
+        "Cronología y causalidad",
+        "Espacio y temporalidad",
+        "Sincronía y diacronía",
+        "Cambio y continuidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La construcción del tiempo histórico se apoya en dos nociones básicas: la noción de espacio (el escenario donde ocurren los hechos) y la temporalidad (la secuencia en la que se desarrollan los hechos)."
+    },
+    {
+      "question": "Para trabajar la didáctica del espacio en EP, el docente debe partir de:",
+      "options": [
+        "Contenidos abstractos y globales para despertar la curiosidad histórica",
+        "Entornos próximos y conocidos como el aula, el hogar o la localidad",
+        "Recursos exclusivamente digitales como Google Maps o Google Arts & Culture",
+        "La historia universal antes de acercarse a la historia local"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La didáctica del espacio requiere partir de entornos próximos y conocidos (como el aula, el hogar o la localidad) y trabajar la subjetividad para que el alumnado adopte otras perspectivas."
+    },
+    {
+      "question": "¿Cuál de los siguientes instrumentos NO se menciona en el tema para trabajar la noción de temporalidad en los primeros años?",
+      "options": [
+        "Álbum de fotos",
+        "Líneas personales de vida",
+        "Árbol genealógico",
+        "Maquetas de civilizaciones antiguas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las maquetas se mencionan como recurso para la didáctica del espacio (apoyarse en otras perspectivas), no para la noción de temporalidad. Para la temporalidad se proponen álbumes de fotos, diarios, líneas personales de vida y el árbol genealógico."
+    },
+    {
+      "question": "¿Con qué área curricular se relaciona el tiempo histórico a través del cálculo de duraciones y escalas en las líneas del tiempo?",
+      "options": [
+        "Ciencias de la Naturaleza",
+        "Educación Física",
+        "Matemáticas",
+        "Educación en Valores Cívicos y Éticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tiempo histórico se vincula con Matemáticas en el cálculo de duraciones y escalas en las líneas del tiempo. Con CCNN se relaciona en la comprensión de procesos temporales evolutivos de los seres vivos."
+    },
+    {
+      "question": "La competencia CP que se desarrolla en el Bloque 4 de CCSS se vincula con:",
+      "options": [
+        "El uso crítico de herramientas digitales para buscar información histórica",
+        "El conocimiento de otras culturas y sus concepciones del tiempo",
+        "La autonomía investigadora y el trabajo en equipo",
+        "El uso del lenguaje temporal y la narración histórica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La competencia CP (Competencia Plurilingüe) se desarrolla al conocer otras culturas y sus concepciones del tiempo. La CD se vincula con las herramientas digitales, la CPSAA con la autonomía investigadora, y la CCL con el lenguaje temporal."
+    },
+    {
+      "question": "Según Piaget (1978), ¿en qué fase evolutiva el niño está vinculado a las rutinas cotidianas y experiencias personales?",
+      "options": [
+        "Tiempo percibido (6-9 años)",
+        "Tiempo concebido (9-11 años)",
+        "Tiempo vivido (4-6 años)",
+        "Tiempo abstracto formal (11-16 años)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tiempo vivido (4-6 años) está vinculado a las rutinas cotidianas y experiencias personales. El tiempo percibido (6-9 años) permite distinguir el tiempo físico y sus medidas, y el tiempo concebido (9-11 años) incluye los aspectos cíclicos."
+    },
+    {
+      "question": "¿En qué rango de edad el niño distingue el tiempo físico, sus medidas en horas, días o semanas y el concepto de duración?",
+      "options": [
+        "4-6 años (tiempo vivido)",
+        "6-9 años (tiempo percibido)",
+        "9-11 años (tiempo concebido)",
+        "11-16 años (tiempo abstracto)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el tiempo percibido (6-9 años), el niño distingue el tiempo físico, sus medidas en horas, días o semanas y el concepto de duración. El tiempo vivido (4-6 años) está vinculado a las rutinas cotidianas."
+    },
+    {
+      "question": "La adquisición del tiempo abstracto formal y de la noción de tiempo histórico culmina, según Piaget, entre:",
+      "options": [
+        "4-6 años",
+        "6-9 años",
+        "9-11 años",
+        "11-16 años"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Entre los 11 y 16 años culmina la adquisición del tiempo abstracto formal y de la noción de tiempo histórico. El tiempo concebido, que incluye aspectos cíclicos, se inicia entre los 9 y 11 años."
+    },
+    {
+      "question": "¿Quiénes identificaron diversas dificultades en la comprensión del tiempo histórico derivadas de sus altas exigencias cognitivas?",
+      "options": [
+        "Trepat y Comes (2002)",
+        "Joan Pagès (2004)",
+        "Asensio, Pozo y Carretero (1989)",
+        "Braudel (1958)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Asensio, Pozo y Carretero (1989) identificaron diversas dificultades en la comprensión del tiempo histórico derivadas de sus altas exigencias cognitivas, entre ellas el presentismo, el carácter abstracto y la dificultad para comprender la duración."
+    },
+    {
+      "question": "El 'presentismo' como dificultad en la comprensión del tiempo histórico se refiere a:",
+      "options": [
+        "La tendencia a memorizar fechas sin comprender su significado histórico",
+        "La dificultad para comprender la duración de largos periodos",
+        "La tendencia que dificulta comprender formas de vida diferentes a las actuales",
+        "Los problemas para establecer relaciones causales entre hechos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El presentismo es la tendencia que dificulta comprender formas de vida diferentes a las actuales. Es una de las dificultades identificadas por Asensio, Pozo y Carretero (1989) en la comprensión del tiempo histórico."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un rasgo de la historia como disciplina según el tema?",
+      "options": [
+        "Carácter científico",
+        "Proceso de cambio constante",
+        "Proceso lineal y progresivo sin repetición de fenómenos",
+        "Proceso cíclico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La historia es un proceso cíclico (ciertos fenómenos tienden a repetirse siguiendo patrones similares), no lineal sin repetición. Los demás rasgos reales son: carácter científico, proceso de cambio constante, importancia del legado histórico e interconexión con otras ciencias."
+    },
+    {
+      "question": "El ámbito de estudio histórico que analiza la organización de las sociedades, las clases sociales, los roles de género y las creencias es:",
+      "options": [
+        "Ámbito político",
+        "Ámbito cultural y estético",
+        "Ámbito económico, tecnológico y científico",
+        "Ámbito social y religioso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El ámbito social y religioso analiza la organización de las sociedades, las clases sociales, los roles de género y las creencias. El ámbito político se centra en las formas de gobierno y el ejercicio del poder."
+    },
+    {
+      "question": "¿Qué ámbito de estudio histórico comprende la creatividad de un pueblo, su arte, su música, su arquitectura y su folclore?",
+      "options": [
+        "Ámbito social y religioso",
+        "Ámbito político",
+        "Ámbito económico, tecnológico y científico",
+        "Ámbito cultural y estético"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El ámbito cultural y estético comprende la creatividad de un pueblo, su arte, su música, su arquitectura o su folclore. El ámbito económico, tecnológico y científico abarca los recursos, la producción, el comercio y los avances tecnológicos."
+    },
+    {
+      "question": "La dimensión de temporalidad que implica situarse en el punto de vista de otras épocas se denomina:",
+      "options": [
+        "Causalidad",
+        "Empatía histórica y relativismo",
+        "Continuidad y cambio",
+        "Vida cotidiana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La empatía histórica y el relativismo permiten situarse en el punto de vista de otras épocas. La causalidad permite entender que los hechos tienen causas y consecuencias, y la vida cotidiana es la vía para comprender cómo vivían las sociedades."
+    },
+    {
+      "question": "En la clasificación de etapas históricas por ámbito geográfico, ¿qué estudia la 'historia regional'?",
+      "options": [
+        "Todos los acontecimientos del mundo de forma interconectada",
+        "Los hechos de un país concreto como España",
+        "Una zona geográfica cercana al alumnado como la localidad",
+        "Una comunidad o región específica como Galicia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La historia regional se refiere a una comunidad o región específica, como Galicia. La historia local se centra en una zona geográfica cercana al alumnado, y la historia nacional estudia los hechos de un país concreto."
+    },
+    {
+      "question": "Según el Decreto 155/2022, ¿cuál es la secuencia de aprendizaje histórico recomendada en la EP?",
+      "options": [
+        "De la historia universal a la historia local, de la Prehistoria a la Edad Contemporánea",
+        "De la historia nacional a la regional, de la Edad Antigua a la Contemporánea",
+        "De la historia local a la universal y de la Edad Actual hacia la Antigüedad",
+        "De la Prehistoria a la Edad Contemporánea de forma cronológica y lineal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 155/2022 establece que se debe partir del entorno más próximo al alumnado, avanzando hacia lo global; es decir, desde la historia local a la universal y desde la Edad Actual hacia la Antigüedad."
+    },
+    {
+      "question": "¿En qué año finaliza la Edad Antigua según la clasificación por edades recogida en el tema?",
+      "options": [
+        "1476",
+        "456 d.C.",
+        "1789",
+        "1945"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el tema, la Edad Antigua termina con la caída del Imperio Romano en el año 456 d.C. La Edad Media transcurre desde entonces hasta el descubrimiento de América en 1476."
+    },
+    {
+      "question": "La Edad Media transcurre desde la caída del Imperio Romano hasta:",
+      "options": [
+        "La Revolución Francesa en 1789",
+        "El descubrimiento de América en 1476",
+        "La II Guerra Mundial en 1945",
+        "El inicio de la Revolución Industrial en 1760"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Edad Media transcurre desde la caída del Imperio Romano (456 d.C.) hasta el descubrimiento de América en 1476. A continuación comienza la Edad Moderna, que termina con la Revolución Francesa en 1789."
+    },
+    {
+      "question": "¿Con qué acontecimiento inicia la Edad Contemporánea según la clasificación recogida en el tema?",
+      "options": [
+        "El descubrimiento de América en 1476",
+        "La caída del Imperio Romano en 456 d.C.",
+        "La Revolución Francesa en 1789",
+        "La aparición de la escritura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Edad Contemporánea inicia con la Revolución Francesa en 1789, acontecimiento con el que termina la Edad Moderna. La Edad Contemporánea engloba todos los sucesos hasta el día de hoy, marcada por la I y II Guerra Mundial y la Revolución Industrial."
+    },
+    {
+      "question": "Algunos autores consideran que la Edad Contemporánea finaliza en 1945 dando paso a la Edad Actual. ¿Con qué evento se relaciona ese año?",
+      "options": [
+        "La Revolución Francesa",
+        "La Revolución Industrial",
+        "La II Guerra Mundial",
+        "La I Guerra Mundial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hay autores que consideran que la Edad Contemporánea finaliza con la II Guerra Mundial en 1945, dando paso a la Edad Actual. Esta división es opcional y no todos los historiadores la adoptan."
+    },
+    {
+      "question": "Gasparri (1994) define fuente histórica como:",
+      "options": [
+        "Todo testimonio, material o figurado, capaz de proporcionarnos información sobre la realidad social del pasado",
+        "Todo aquello que proporciona un conocimiento del pasado",
+        "Los documentos escritos que permiten reconstruir la historia con rigor científico",
+        "Los restos arqueológicos y materiales que han perdurado hasta nuestros días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gasparri (1994) define fuente histórica como 'todo aquello que proporciona un conocimiento del pasado'. La definición de 'todo testimonio, material o figurado...' corresponde a Tuñón de Lara (1985)."
+    },
+    {
+      "question": "Según Tuñón de Lara (1985), la fuente histórica se define como:",
+      "options": [
+        "Todo aquello que proporciona un conocimiento del pasado",
+        "Los documentos oficiales creados en el momento de los hechos históricos",
+        "Todo testimonio, material o figurado, capaz de proporcionarnos información sobre la realidad social del pasado",
+        "Los registros escritos que los historiadores analizan para reconstruir el pasado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tuñón de Lara (1985) define la fuente histórica como 'todo testimonio, material o figurado, capaz de proporcionarnos información sobre la realidad social del pasado'. La definición más concisa ('todo aquello que proporciona un conocimiento del pasado') pertenece a Gasparri (1994)."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un ejemplo de documento oral como fuente histórica?",
+      "options": [
+        "Censo de población",
+        "Diario de bitácora",
+        "Leyenda popular",
+        "Resto arqueológico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los documentos orales son testimonios directos de quienes vivieron los hechos, como cuentos, refranes, anécdotas o leyendas. El censo y el diario de bitácora son documentos escritos, y los restos arqueológicos son fuentes materiales."
+    },
+    {
+      "question": "Los documentos escritos son considerados las fuentes mejor catalogadas y estudiadas porque:",
+      "options": [
+        "Son los más antiguos de todos los tipos de fuentes históricas",
+        "No presentan subjetividad de ningún tipo",
+        "Aportan mayor cantidad de datos",
+        "Son los únicos que pueden conservarse y digitalizarse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los documentos escritos son las fuentes mejor catalogadas y estudiadas debido a que aportan mayor cantidad de datos. Al igual que los orales, pueden presentar la subjetividad de quien los redactó."
+    },
+    {
+      "question": "¿Qué acontecimiento fue clave para la difusión y conservación de los documentos escritos como fuentes históricas?",
+      "options": [
+        "La aparición de Internet",
+        "La Revolución Industrial",
+        "La aparición de la imprenta",
+        "El descubrimiento de América"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La aparición de la imprenta fue clave para la difusión y conservación de los documentos escritos. Actualmente, los avances tecnológicos también han permitido la grabación y conservación de los documentos orales."
+    },
+    {
+      "question": "Los restos materiales son especialmente relevantes como fuentes históricas cuando:",
+      "options": [
+        "La documentación escrita u oral es abundante sobre ese período",
+        "No existe documentación escrita u oral sobre ese período",
+        "Se trata de períodos muy recientes de la historia",
+        "Los documentos escritos disponibles presentan gran subjetividad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los restos materiales (huesos, joyas, construcciones, utensilios) ayudan a comprender los modos de vida del pasado, especialmente cuando no existe documentación escrita u oral sobre ese período."
+    },
+    {
+      "question": "Las fuentes primarias o directas se caracterizan por:",
+      "options": [
+        "Ser elaboradas posteriormente a los hechos mediante análisis de fuentes primarias",
+        "Ser creadas en el momento de los hechos",
+        "Ser exclusivamente de carácter material o arqueológico",
+        "Haber sido elaboradas con rigor científico e histórico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las fuentes primarias o directas son creadas en el momento de los hechos (como documentos oficiales, diarios, periódicos, cartas o restos arqueológicos). Las secundarias son elaboradas posteriormente a partir del análisis de las primarias."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un ejemplo de fuente secundaria o indirecta?",
+      "options": [
+        "Carta personal de un protagonista histórico",
+        "Diario de un soldado de la I Guerra Mundial",
+        "Resto arqueológico de un yacimiento romano",
+        "Libro de texto histórico sobre la Edad Media"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El libro de texto histórico es una fuente secundaria o indirecta, elaborada posteriormente a los hechos a partir del análisis de fuentes primarias. Las cartas, diarios y restos arqueológicos son fuentes primarias o directas."
+    },
+    {
+      "question": "La función 'contextualizadora' de las fuentes históricas en el proceso educativo consiste en:",
+      "options": [
+        "Promover la curiosidad por el pasado y la comprensión de la diversidad de testimonios",
+        "Potenciar habilidades de análisis, reflexión y contraste de los hechos",
+        "Establecer conexiones entre diferentes hechos, sujetos y épocas",
+        "Ayudar a situar los hechos en su tiempo y lugar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La función contextualizadora ayuda a situar los hechos en su tiempo y lugar. La función motivadora promueve la curiosidad por el pasado, la investigadora potencia el análisis crítico, y la relacional establece conexiones entre hechos."
+    },
+    {
+      "question": "¿Cuáles son las tres finalidades de los documentos históricos en el proceso educativo?",
+      "options": [
+        "Motivar, investigar y contextualizar los contenidos históricos",
+        "Objeto de aprendizaje, instrumento para aprender a aprender, recurso para acceder y valorar nuevos conocimientos",
+        "Fuente primaria de información, fuente secundaria de análisis y fuente terciaria de síntesis",
+        "Documentos orales, escritos y materiales según la edad del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las tres finalidades de los documentos históricos en el proceso educativo son: como objeto de aprendizaje en sí mismos, como instrumento para aprender a aprender, y como recurso para acceder y valorar nuevos conocimientos."
+    },
+    {
+      "question": "El objetivo de etapa H del Decreto 155/2022, vinculado al tiempo histórico, establece:",
+      "options": [
+        "Apreciar y valorar las singularidades culturales y lingüísticas de Galicia",
+        "Conocer los aspectos fundamentales de las ciencias de la naturaleza, las ciencias sociales, la geografía, la historia y la cultura",
+        "Desarrollar el pensamiento crítico en relación a los valores democráticos",
+        "Aplicar métodos de investigación científica al estudio del entorno natural y social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo H establece: 'Conocer los aspectos fundamentales de las ciencias de la naturaleza, las ciencias sociales, la geografía, la historia y la cultura'. El objetivo Ñ se refiere a conocer y valorar las singularidades de Galicia."
+    },
+    {
+      "question": "El objetivo de etapa Ñ del Decreto 155/2022 se refiere a:",
+      "options": [
+        "Conocer los aspectos fundamentales de la geografía, la historia y la cultura",
+        "Desarrollar el pensamiento crítico en relación a la perspectiva de género",
+        "Conocer, apreciar y valorar las singularidades culturales, lingüísticas, físicas y sociales de Galicia, destacando a las personas que han hecho aportaciones importantes",
+        "Fomentar la participación activa de las familias en el proceso educativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El objetivo Ñ establece: 'Conocer, apreciar y valorar las singularidades culturales, lingüísticas, físicas y sociales de Galicia, poniendo de relevancia a las mujeres y hombres que realizaron aportaciones importantes a la cultura y a la sociedad gallegas'."
+    },
+    {
+      "question": "La atención a la diversidad en la intervención educativa del tiempo histórico se regula principalmente por:",
+      "options": [
+        "LOMLOE y Decreto 155/2022",
+        "Decreto 229/2011 y Orden del 8 de septiembre de 2021",
+        "Decreto 155/2022 y Orden de 26 de mayo de 2023",
+        "LOMLOE y Plan Proxecta+"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La atención a la diversidad se regula por el Decreto 229/2011, de 7 de diciembre, y la Orden del 8 de septiembre de 2021 que lo desarrolla. El Decreto 155/2022 regula el currículo de EP, no específicamente la atención a la diversidad."
+    },
+    {
+      "question": "El Diseño Universal para el Aprendizaje (DUA) propone eliminar las barreras al aprendizaje mediante:",
+      "options": [
+        "Un único método de aprendizaje adaptado a todos los alumnos",
+        "Múltiples formas de representación, de expresión y de implicación",
+        "La evaluación formativa como única herramienta de seguimiento",
+        "El aprendizaje exclusivamente cooperativo y colaborativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El DUA propone eliminar las barreras al aprendizaje ofreciendo múltiples formas de representación, de expresión y de implicación, integrando además los elementos transversales del aprendizaje."
+    },
+    {
+      "question": "¿En qué ciclo de EP se trabajan la Prehistoria y la Edad Antigua como contenidos del tiempo histórico?",
+      "options": [
+        "Primer ciclo",
+        "Segundo ciclo",
+        "Tercer ciclo",
+        "Se trabajan en todos los ciclos de manera progresiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Prehistoria y la Edad Antigua se trabajan en el segundo ciclo, junto con las fuentes históricas, la iniciación a la investigación y los descubrimientos e inventos relevantes."
+    },
+    {
+      "question": "¿Qué contenidos sobre el tiempo histórico corresponden al primer ciclo de EP según el Decreto 155/2022?",
+      "options": [
+        "Fuentes históricas y Prehistoria",
+        "Edad Media y Edad Moderna",
+        "Medidas del tiempo, conceptos temporales básicos, historia personal y local",
+        "Edad Contemporánea y patrimonio cultural de Galicia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El primer ciclo trabaja: medidas del tiempo (día, semana, mes, año), conceptos temporales básicos (antes, después, durante, presente, pasado, futuro), historia personal (líneas de vida, biografía, árbol genealógico), historia local, y las mujeres y hombres como sujetos históricos."
+    },
+    {
+      "question": "El criterio de evaluación del tercer ciclo referido al tiempo histórico se enfoca en:",
+      "options": [
+        "La ordenación de hechos del entorno próximo del alumnado",
+        "La identificación de hechos de la Prehistoria y la Edad Antigua",
+        "El análisis y ubicación cronológica de hechos desde la Edad Antigua hasta la actualidad",
+        "El respeto al patrimonio y el conocimiento de la historia personal y local"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los criterios de evaluación del tercer ciclo se enfocan en la conservación y mejora del patrimonio con acciones sostenibles, el análisis y ubicación cronológica de hechos desde la Edad Antigua hasta la actualidad, y el conocimiento de grupos sociales y formas de vida con perspectiva de género."
+    },
+    {
+      "question": "La actividad 'La línea de mi vida' está diseñada para:",
+      "options": [
+        "El segundo ciclo, trabajando las entrevistas a personas mayores",
+        "El primer ciclo, como primer acercamiento al tiempo histórico a través de la historia personal",
+        "El tercer ciclo, investigando hechos históricos relevantes por cuatro ámbitos",
+        "Los tres ciclos de manera transversal con diferentes niveles de complejidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'La línea de mi vida' es la actividad para el primer ciclo. El alumnado elige entre 3 y 5 recuerdos significativos y elabora una línea temporal personal. El objetivo es un primer acercamiento al tiempo histórico a través de la historia personal como aspecto próximo e íntimo."
+    },
+    {
+      "question": "En la actividad 'Épocas Teatrales' del tercer ciclo, la ficha de investigación se estructura por:",
+      "options": [
+        "Las tres perspectivas del tiempo histórico (sincronía, diacronía, ucronía)",
+        "Los cuatro ámbitos de estudio histórico (social, político, económico y cultural)",
+        "Los cinco rasgos de la historia (científico, cambio, cíclico, legado, interconexión)",
+        "Las dimensiones de temporalidad establecidas en el tema"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En 'Épocas Teatrales', la ficha de investigación se estructura por los cuatro ámbitos: social, político, económico y cultural. Tras la dramatización se reflexiona sobre las relaciones causales con el presente, profundizando en el cambio y la continuidad."
+    },
+    {
+      "question": "Las líneas del tiempo son una representación gráfica que permite:",
+      "options": [
+        "Comprender exclusivamente la causalidad de los hechos históricos",
+        "Ordenar cronológicamente una secuencia de acontecimientos, visualizando su duración e intensidad",
+        "Relacionar los diferentes ámbitos de estudio histórico entre sí",
+        "Identificar y clasificar las fuentes históricas primarias y secundarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las líneas del tiempo son una representación gráfica que permite ordenar cronológicamente una secuencia de acontecimientos, visualizando su duración e intensidad. Son un recurso clave para el aprendizaje de las etapas históricas en la EP."
+    },
+    {
+      "question": "¿Cuál es la primera fase en la elaboración de una línea del tiempo?",
+      "options": [
+        "Seleccionar fechas y datos clave",
+        "Elegir una unidad de medida",
+        "Elegir un título significativo",
+        "Fijar la primera y última fecha del período"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La primera fase en la elaboración de una línea del tiempo es elegir un título significativo. A continuación se seleccionan fechas y datos clave, se elige la unidad de medida, se elabora la línea y finalmente se escriben los datos de forma breve y comprensible."
+    },
+    {
+      "question": "¿Cuáles son los tres ODS de la Agenda 2030 con los que se relaciona específicamente el Tema 8?",
+      "options": [
+        "ODS2, ODS5 y ODS10",
+        "ODS4, ODS11 y ODS16",
+        "ODS3, ODS8 y ODS13",
+        "ODS6, ODS9 y ODS17"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Tema 8 se relaciona con el ODS4 'Educación de Calidad', ODS11 'Ciudades y Comunidades Sostenibles' y ODS16 'Paz, Justicia e Instituciones Sólidas' de la Agenda 2030, aprobada por la ONU en 2015."
+    },
+    {
+      "question": "¿En qué año fue aprobada la Agenda 2030 por la ONU?",
+      "options": [
+        "2010",
+        "2015",
+        "2020",
+        "2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Agenda 2030 fue aprobada por la ONU en 2015. Contiene los Objetivos del Desarrollo Sostenible (ODS), entre los que el Tema 8 se relaciona especialmente con el ODS4, ODS11 y ODS16."
+    },
+    {
+      "question": "La característica del tiempo histórico que indica que no puede recorrerse hacia atrás es:",
+      "options": [
+        "Su carácter relativo",
+        "Su irreversibilidad",
+        "Su inseparabilidad del espacio",
+        "Su expresión mediante lenguaje temporal específico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La irreversibilidad es la característica del tiempo histórico que indica que no puede recorrerse hacia atrás. El carácter relativo se refiere a que cada persona y cultura lo percibe de forma diferente."
+    },
+    {
+      "question": "Según el tema, la diacronía analiza:",
+      "options": [
+        "Las diferencias de un hecho ocurrido en un mismo momento en distintos lugares",
+        "Las hipótesis sobre posibles desarrollos alternativos al hecho histórico",
+        "La evolución temporal de un hecho",
+        "La simultaneidad de duraciones de un colectivo humano"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La diacronía analiza la evolución temporal de un hecho. La sincronía estudia las diferencias de un hecho en distintos lugares al mismo tiempo, y la ucronía plantea hipótesis sobre desarrollos alternativos."
+    },
+    {
+      "question": "Braudel propuso sus tres niveles de temporalidad histórica en:",
+      "options": [
+        "1945",
+        "1958",
+        "1978",
+        "1985"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Braudel publicó sus tres niveles de temporalidad (tiempo corto, tiempo medio o coyuntura, tiempo largo o estructura) en 1958. No deben confundirse con las fechas de otros autores: Bloch (1945), Piaget (1978) y Tuñón de Lara (1985)."
+    },
+    {
+      "question": "¿A qué área curricular contribuye el Bloque 4 de CCSS al desarrollar el uso crítico de herramientas digitales para buscar información histórica?",
+      "options": [
+        "CCL (Competencia en Comunicación Lingüística)",
+        "CPSAA (Competencia Personal, Social y de Aprender a Aprender)",
+        "CD (Competencia Digital)",
+        "CE (Competencia Emprendedora)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La competencia CD (Competencia Digital) se desarrolla con el uso crítico de herramientas digitales para buscar información histórica. La CCL se vincula al lenguaje temporal y la CPSAA a la autonomía investigadora."
+    },
+    {
+      "question": "La competencia CC desarrollada a través del Bloque 4 de CCSS se vincula con:",
+      "options": [
+        "El uso del lenguaje temporal y la narración histórica",
+        "La formación de ciudadanos críticos y comprometidos con los valores democráticos",
+        "La autonomía investigadora y el trabajo en equipo",
+        "La exploración del arte y la cultura de todo el mundo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La competencia CC (Competencia Ciudadana) se desarrolla al formar ciudadanos críticos y comprometidos con los valores democráticos. La CCL se vincula con el lenguaje temporal, y la CPSAA con la autonomía investigadora."
+    },
+    {
+      "question": "Para trabajar la subjetividad en la didáctica del espacio, el docente puede apoyarse en:",
+      "options": [
+        "Líneas del tiempo personales y álbumes de fotos",
+        "Maquetas, imágenes de entornos, disfraces o películas",
+        "Censos, diarios de bitácora y documentos oficiales",
+        "Mapas conceptuales y presentaciones digitales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para que el alumnado adopte otras perspectivas en la didáctica del espacio, se pueden usar maquetas, imágenes de entornos, disfraces o películas. Los álbumes de fotos y líneas de vida se usan para trabajar la noción de temporalidad."
+    },
+    {
+      "question": "El 'perfil de salida' en el currículo de EP define:",
+      "options": [
+        "Los objetivos de área vinculados a cada bloque de contenidos",
+        "El nivel competencial del alumnado esperado al completar la educación básica",
+        "Los criterios de evaluación por ciclo del área de CCSS",
+        "Las competencias clave que debe desarrollar el docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El perfil de salida define el nivel competencial del alumnado esperado al completar la educación básica, deducido a través de los descriptores operativos, e implica el desarrollo de las competencias clave (CC)."
+    },
+    {
+      "question": "Los 'descriptores operativos' en el currículo se relacionan con:",
+      "options": [
+        "Los contenidos específicos de cada bloque temático",
+        "Los objetivos de etapa establecidos en el artículo 7 del Decreto 155/2022",
+        "El perfil de salida y el desarrollo de las competencias clave",
+        "Las líneas de actuación metodológica del área de CCSS"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los descriptores operativos se relacionan con el perfil de salida, a través del cual se deduce el nivel competencial esperado al completar la educación básica, implicando el desarrollo de las competencias clave."
+    },
+    {
+      "question": "¿En qué fase evolutiva de Piaget el niño inicia la diferenciación de aspectos cíclicos como las estaciones del año?",
+      "options": [
+        "Tiempo vivido (4-6 años)",
+        "Tiempo percibido (6-9 años)",
+        "Tiempo concebido (9-11 años)",
+        "Tiempo abstracto formal (11-16 años)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el tiempo concebido (9-11 años), el niño se inicia en la diferenciación de aspectos cíclicos como las estaciones del año. La adquisición plena del tiempo abstracto formal y la noción de tiempo histórico culmina entre los 11 y 16 años."
+    },
+    {
+      "question": "Asensio, Pozo y Carretero publicaron sus investigaciones sobre las dificultades en la comprensión del tiempo histórico en:",
+      "options": [
+        "1978",
+        "1985",
+        "1989",
+        "2002"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Asensio, Pozo y Carretero publicaron en 1989 sus investigaciones sobre las dificultades en la comprensión del tiempo histórico. No deben confundirse con Piaget (1978), Tuñón de Lara (1985) o Trepat y Comes (2002)."
+    },
+    {
+      "question": "¿Cuántos ámbitos complementarios se identifican para el estudio de procesos y hechos históricos?",
+      "options": [
+        "Tres (social, político, cultural)",
+        "Cuatro (social/religioso, político, económico/tecnológico, cultural/estético)",
+        "Cinco (social, político, económico, científico, cultural)",
+        "Dos (sincrónico y diacrónico)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se identifican cuatro ámbitos complementarios: el social y religioso, el político, el económico/tecnológico/científico y el cultural y estético. Cada uno analiza dimensiones diferentes de las sociedades históricas."
+    },
+    {
+      "question": "La dimensión de temporalidad referida a la 'vida cotidiana' busca comprender:",
+      "options": [
+        "Las causas y consecuencias de los grandes hechos históricos",
+        "Cómo vivían, pensaban y se organizaban las sociedades del pasado",
+        "La valoración y preservación del patrimonio histórico",
+        "Los personajes protagonistas de la historia y su legado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dimensión de la vida cotidiana es la vía para comprender cómo vivían, pensaban y organizaban las sociedades del pasado. La valoración del patrimonio es otra dimensión diferente, definida como herencia de generaciones pasadas."
+    },
+    {
+      "question": "Según el Decreto 155/2022, el avance en el aprendizaje de las etapas históricas en EP es:",
+      "options": [
+        "De la Prehistoria hacia la Edad Contemporánea de forma lineal y cronológica",
+        "De la Edad Actual hacia la Antigüedad",
+        "De la historia universal hacia la historia regional",
+        "De la historia nacional hacia la historia local"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 establece que la historia se trabaja desde la Edad Actual hacia la Antigüedad, avanzando desde lo próximo y conocido hacia lo más lejano en el tiempo."
+    },
+    {
+      "question": "¿En qué año termina la Edad Moderna según la clasificación recogida en el tema?",
+      "options": [
+        "456 d.C.",
+        "1476",
+        "1789",
+        "1945"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Edad Moderna termina con la Revolución Francesa en 1789, acontecimiento con el que inicia la Edad Contemporánea. La Edad Moderna comienza con el descubrimiento de América en 1476."
+    },
+    {
+      "question": "¿Qué estilos artísticos se asocian con la Edad Media en el currículo gallego según el Decreto 155/2022?",
+      "options": [
+        "Renacimiento y Barroco",
+        "Arte Contemporáneo y Expresionismo",
+        "Románico y Gótico",
+        "Arte Clásico y Helenismo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Edad Media se trabaja en el tercer ciclo junto al Camino de Santiago, el Románico y el Gótico. El Renacimiento y el Barroco corresponden a la Edad Moderna."
+    },
+    {
+      "question": "El Camino de Santiago se trabaja en EP dentro de los contenidos de:",
+      "options": [
+        "El segundo ciclo, al estudiar la Prehistoria",
+        "El tercer ciclo, al estudiar la Edad Media",
+        "El primer ciclo, al trabajar la historia local",
+        "El segundo ciclo, como parte de los descubrimientos e inventos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Camino de Santiago aparece en los contenidos del tercer ciclo, dentro del estudio de la Edad Media junto al Románico y el Gótico. El tercer ciclo también trabaja la Edad Moderna y Contemporánea."
+    },
+    {
+      "question": "En la elaboración de una línea del tiempo, ¿cómo se colocan las fechas en los extremos?",
+      "options": [
+        "Las más recientes al centro y las más antiguas en los extremos",
+        "Sin orden específico para favorecer la creatividad del alumnado",
+        "Las más antiguas y las más modernas en los extremos respectivos de la línea",
+        "Las fechas se distribuyen uniformemente a lo largo de la línea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la elaboración de la línea del tiempo se debe fijar la primera y última fecha del período, colocando en los extremos las fechas más antiguas y las más modernas, respetando la proporción matemática."
+    },
+    {
+      "question": "¿Qué competencias desarrolla el alumnado a través del trabajo con líneas del tiempo?",
+      "options": [
+        "Identificar fuentes históricas y diferenciarlas entre primarias y secundarias",
+        "Identificar unidades de medida del tiempo, comprender convenciones temporales, ubicar hechos cronológicamente y visualizar su duración y densidad",
+        "Relacionar hechos históricos con los cuatro ámbitos de estudio",
+        "Aplicar el método científico al análisis de fuentes históricas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A través de las líneas del tiempo el alumnado desarrolla competencias para identificar unidades de medida del tiempo, comprender las convenciones temporales, ubicar y ordenar cronológicamente los hechos, y visualizar la duración y densidad de los acontecimientos."
+    },
+    {
+      "question": "Díaz (2016) propone enseñar historia mediante:",
+      "options": [
+        "La memorización de fechas y datos como base para la comprensión histórica",
+        "Experiencias personales, como crear líneas del tiempo con vivencias propias e imágenes",
+        "El análisis exclusivo de fuentes primarias en archivos históricos",
+        "La visita a museos como actividad principal del aprendizaje histórico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Díaz (2016) propone enseñar historia mediante experiencias personales, como crear líneas del tiempo con vivencias propias e imágenes, vinculando así la historia con la realidad cercana del alumnado."
+    },
+    {
+      "question": "Los documentos orales tienen la limitación de que:",
+      "options": [
+        "No pueden conservarse ni grabarse con la tecnología actual",
+        "Son muy escasos y difíciles de encontrar en la actualidad",
+        "Son subjetivos y se van modificando con el paso del tiempo",
+        "No pueden utilizarse con alumnado de EP por su elevada complejidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los documentos orales son subjetivos y se van modificando con el paso del tiempo, por lo que deben contrastarse con otras fuentes. Actualmente, gracias a los avances tecnológicos, pueden grabarse y conservarse."
+    },
+    {
+      "question": "La función 'investigadora' de las fuentes históricas en el proceso educativo consiste en:",
+      "options": [
+        "Promover la curiosidad por el pasado y la diversidad de testimonios",
+        "Potenciar habilidades de análisis, reflexión y contraste de los hechos y el espíritu crítico",
+        "Establecer conexiones entre diferentes hechos, sujetos y épocas",
+        "Situar los hechos en su tiempo y lugar concreto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La función investigadora potencia habilidades de análisis, reflexión y contraste de los hechos y el espíritu crítico. La función motivadora promueve la curiosidad, la relacional establece conexiones, y la contextualizadora sitúa los hechos en su contexto."
+    },
+    {
+      "question": "Bloch (1945) se menciona en el tema en relación a:",
+      "options": [
+        "La definición del concepto de tiempo histórico",
+        "Las perspectivas sincrónica, diacrónica y ucrónica del análisis histórico",
+        "La clasificación de fuentes históricas por su relación con los hechos",
+        "Las etapas evolutivas del desarrollo cognitivo del niño"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bloch (1945), junto a Tuñón de Lara (1985) y Gasparri (2015), propone la clasificación de las fuentes históricas por su relación con los hechos, distinguiendo entre fuentes primarias o directas y secundarias o indirectas."
+    },
+    {
+      "question": "Las líneas de actuación para el área de CCSS están recogidas en el Decreto 155/2022 en su:",
+      "options": [
+        "Artículo 7, epígrafe 1.3",
+        "Bloque 4, apartado 2.1",
+        "Anexo II, epígrafe 2.4",
+        "Artículo 16, sobre principios metodológicos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 155/2022 en su Anexo II, epígrafe 2.4 establece las líneas de actuación para el área de CCSS. El artículo 16 recoge los principios metodológicos generales."
+    },
+    {
+      "question": "El artículo 16 del Decreto 155/2022 recoge:",
+      "options": [
+        "Las líneas de actuación para el área de CCSS",
+        "Los objetivos de etapa de la educación primaria en Galicia",
+        "Los principios metodológicos",
+        "Los criterios de evaluación por ciclo de cada área"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 16 del Decreto 155/2022 recoge los principios metodológicos, que deben tomarse como base para trabajar los contenidos históricos. Las líneas de actuación para CCSS se recogen en el Anexo II, epígrafe 2.4."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una línea de actuación del Decreto 155/2022 para el área de CCSS relacionada con la perspectiva de género?",
+      "options": [
+        "Promover el uso de TIC en todas las actividades del aula",
+        "Introducir personajes relevantes de la historia resaltando el papel de las mujeres y promover el espíritu crítico",
+        "Fomentar exclusivamente metodologías cooperativas en el área de CCSS",
+        "Implementar la evaluación únicamente mediante portfolios y rúbricas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las líneas de actuación del Decreto 155/2022 para CCSS se incluye introducir personajes relevantes de la historia resaltando el papel de las mujeres y promover el espíritu crítico en relación a la perspectiva de género."
+    },
+    {
+      "question": "El Decreto 229/2011, de 7 de diciembre regula:",
+      "options": [
+        "La ordenación y el currículo de la educación primaria en Galicia",
+        "La atención a la diversidad del alumnado en los centros docentes de Galicia",
+        "El plurilingüismo en los centros educativos de Galicia",
+        "La formación permanente del profesorado de educación primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 229/2011, de 7 de diciembre, regula la atención a la diversidad del alumnado de los centros docentes de la Comunidad Autónoma de Galicia. Es desarrollado por la Orden del 8 de septiembre de 2021."
+    },
+    {
+      "question": "La Zona de Desarrollo Próximo (ZDP) es un concepto vinculado a:",
+      "options": [
+        "Piaget",
+        "Braudel",
+        "Vygotsky",
+        "Trepat y Comes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Zona de Desarrollo Próximo es un concepto de Vygotsky, mencionado en el tema como referencia para la atención inclusiva. La intervención educativa debe partir del nivel de desarrollo de cada alumno tomando como referencia las etapas de Piaget y la ZDP de Vygotsky."
+    },
+    {
+      "question": "¿Cuál de los siguientes recursos TIC se menciona específicamente para elaborar líneas del tiempo?",
+      "options": [
+        "Quizizz y Kahoot",
+        "Google Arts & Culture",
+        "Canva o ChronoMe",
+        "Gliffy o Easel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Canva o ChronoMe se mencionan para elaborar presentaciones o líneas del tiempo. Gliffy o Easel se usan para diseñar mapas conceptuales, y Google Arts & Culture para explorar arte, historia y cultura."
+    },
+    {
+      "question": "Google Arts & Culture se menciona en el tema como herramienta para:",
+      "options": [
+        "Elaborar líneas del tiempo interactivas",
+        "Diseñar mapas conceptuales sobre hechos históricos",
+        "Explorar arte, historia y cultura de todo el mundo",
+        "Realizar actividades de evaluación formativa interactiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Google Arts & Culture se menciona para explorar arte, historia y cultura de todo el mundo. Canva o ChronoMe son para líneas del tiempo, Gliffy o Easel para mapas conceptuales, y Quizizz/Kahoot/Educaplay/Genially para actividades interactivas."
+    },
+    {
+      "question": "¿Cuál de los siguientes juegos didácticos se menciona en el tema para el aprendizaje del tiempo histórico?",
+      "options": [
+        "Minecraft histórico",
+        "Escape rooms temáticos",
+        "Simulaciones de realidad virtual",
+        "Juegos de tablero estratégicos de civilizaciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los juegos didácticos mencionados incluyen trivial temático, memory histórico, escape rooms, role-playing, juegos de cartas para ordenar acontecimientos y el 'quién es quién'. Los escape rooms son los únicos de las opciones que aparecen en el tema."
+    },
+    {
+      "question": "Los recursos ambientales para trabajar el tiempo histórico incluyen:",
+      "options": [
+        "Libros de historia y enciclopedias",
+        "Software educativo y herramientas digitales",
+        "Museos, yacimientos arqueológicos y espacios del entorno próximo",
+        "Historiadores expertos e invitados al aula"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los recursos ambientales comprenden museos, yacimientos arqueológicos, espacios del entorno próximo y la historia local. Los libros son recursos materiales, las TIC son recursos digitales, y los expertos son recursos personales."
+    },
+    {
+      "question": "La actividad 'Entrevistamos a un mayor' pertenece a:",
+      "options": [
+        "Primer ciclo",
+        "Segundo ciclo",
+        "Tercer ciclo",
+        "Es aplicable a todos los ciclos con diferente nivel de complejidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Entrevistamos a un mayor' es la actividad propuesta para el segundo ciclo. En grupos cooperativos mixtos y heterogéneos, el alumnado diseña y realiza entrevistas a personas mayores sobre cómo era la vida en el pasado."
+    },
+    {
+      "question": "El producto final de la actividad 'Entrevistamos a un mayor' puede ser:",
+      "options": [
+        "Una ficha de investigación estructurada por cuatro ámbitos y una dramatización",
+        "Una línea temporal personal con fotografías y recuerdos",
+        "Un libro de memorias, podcast o mural con todos los testimonios",
+        "Una presentación digital elaborada con Canva o ChronoMe"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El producto final de 'Entrevistamos a un mayor' es un libro de memorias, podcast o mural con todos los testimonios, para exponerse en el centro y/o instituciones locales. La ficha de investigación con dramatización corresponde a 'Épocas Teatrales'."
+    },
+    {
+      "question": "El Plan Proxecta+ impulsado por la Consellería de Educación tiene como finalidad:",
+      "options": [
+        "Desarrollar competencias digitales en el alumnado de primaria",
+        "Promover proyectos interdisciplinares vinculados con el patrimonio",
+        "Facilitar el acceso a recursos tecnológicos en los centros educativos",
+        "Mejorar el rendimiento en las áreas instrumentales básicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Plan Proxecta+ promueve proyectos interdisciplinares vinculados con el patrimonio, como 'Educación patrimonial', 'Proxecto didáctico Antonio Fraguas' y 'Vexo Veo Xacobeo'. Su finalidad es acercar a los niños al significado y valores del Camino de Santiago y al patrimonio cultural."
+    },
+    {
+      "question": "El proyecto 'Vexo Veo Xacobeo' tiene la finalidad de:",
+      "options": [
+        "Promover el aprendizaje de las lenguas de Galicia en el entorno escolar",
+        "Acercar a los niños al significado y valores del Camino de Santiago",
+        "Fomentar el conocimiento del patrimonio arqueológico de Galicia",
+        "Introducir la perspectiva de género en el currículo de primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Vexo Veo Xacobeo' es un proyecto del Plan Proxecta+ cuya finalidad es acercar a los niños al significado y valores del Camino de Santiago. Junto a él, el plan incluye 'Educación patrimonial' y 'Proxecto didáctico Antonio Fraguas'."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO se menciona como proyecto del Plan Proxecta+?",
+      "options": [
+        "Educación patrimonial",
+        "Proxecto didáctico Antonio Fraguas",
+        "Vexo Veo Xacobeo",
+        "Proxecto Rosalía de Castro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Plan Proxecta+ incluye 'Educación patrimonial', 'Proxecto didáctico Antonio Fraguas' y 'Vexo Veo Xacobeo'. El Proxecto Rosalía de Castro no se menciona en el tema."
+    },
+    {
+      "question": "La LOMLOE es la Ley Orgánica:",
+      "options": [
+        "2/2006, de 3 de mayo, de Educación (LOE)",
+        "3/2020, de 29 de diciembre, por la que se modifica la LOE",
+        "5/2022, de 15 de septiembre, del currículo de EP",
+        "1/2021, de 8 de septiembre, de Formación del Profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE es la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). El Decreto 155/2022 es la norma gallega de desarrollo curricular."
+    },
+    {
+      "question": "El Decreto 155/2022 fue aprobado el:",
+      "options": [
+        "8 de septiembre de 2021",
+        "29 de diciembre de 2020",
+        "15 de septiembre de 2022",
+        "26 de mayo de 2023"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 155/2022 fue aprobado el 15 de septiembre de 2022. La Orden del 8 de septiembre de 2021 desarrolla el Decreto 229/2011, y la Orden del 26 de mayo de 2023 desarrolla el propio Decreto 155/2022."
+    },
+    {
+      "question": "El área de CCSS contribuye al desarrollo de la competencia CCEC a través de:",
+      "options": [
+        "El método científico y la experimentación para comprender el entorno",
+        "El estudio del patrimonio y las expresiones artísticas de cada época",
+        "El uso crítico de herramientas digitales para buscar información histórica",
+        "La autonomía investigadora y el trabajo en equipo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCEC (Competencia en Conciencia y Expresión Culturales) se desarrolla a través del estudio del patrimonio y las expresiones artísticas de cada época. La STEM se vincula al método científico, la CD a las herramientas digitales, y la CPSAA a la autonomía investigadora."
+    },
+    {
+      "question": "La función 'motivadora' de las fuentes históricas en el proceso educativo consiste en:",
+      "options": [
+        "Potenciar habilidades de análisis y reflexión crítica sobre los hechos",
+        "Situar los hechos históricos en su tiempo y lugar concreto",
+        "Promover la curiosidad por el pasado y la comprensión de la diversidad de testimonios",
+        "Establecer conexiones entre diferentes hechos, sujetos y épocas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La función motivadora promueve la curiosidad por el pasado y la comprensión de la diversidad de testimonios. La función investigadora potencia el análisis crítico, la contextualizadora sitúa los hechos en su tiempo, y la relacional establece conexiones."
+    },
+    {
+      "question": "Los criterios de evaluación del segundo ciclo relativos al tiempo histórico se centran en:",
+      "options": [
+        "La ordenación de hechos del entorno próximo con perspectiva de género",
+        "El análisis desde la Edad Antigua hasta la actualidad con perspectiva de género",
+        "La protección y valoración del patrimonio, identificación de hechos de Prehistoria y Edad Antigua",
+        "La conservación y mejora del patrimonio con acciones sostenibles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los criterios de evaluación del segundo ciclo se centran en la protección y valoración del patrimonio, la identificación de hechos de la Prehistoria y la Edad Antigua, y el conocimiento de grupos sociales y formas de vida con perspectiva de género."
+    },
+    {
+      "question": "Los contenidos del tercer ciclo incluyen las expresiones artísticas y culturales de Galicia durante:",
+      "options": [
+        "La Prehistoria y la Edad Antigua",
+        "Solo la Edad Contemporánea",
+        "La Edad Media, Edad Moderna y Edad Contemporánea",
+        "Todas las etapas históricas desde la Prehistoria hasta la actualidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tercer ciclo trabaja las expresiones artísticas y culturales de Galicia durante la Edad Media, Edad Moderna y Edad Contemporánea. La Prehistoria y la Edad Antigua se trabajan principalmente en el segundo ciclo."
+    },
+    {
+      "question": "La metodología 'aprendizaje-servicio' se menciona como una metodología activa en el marco de:",
+      "options": [
+        "Los recursos didácticos TIC del área de CCSS",
+        "Las líneas de actuación del Decreto 155/2022 para el área de CCSS",
+        "Los criterios de evaluación del tercer ciclo de EP",
+        "Los objetivos de etapa vinculados al tiempo histórico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje-servicio y el trabajo cooperativo se mencionan como metodologías activas dentro de las líneas de actuación del Decreto 155/2022 para el área de CCSS, bajo el principio de innovación educativa."
+    },
+    {
+      "question": "¿Qué instrumentos de evaluación se mencionan en el tema como adecuados para el área de CCSS?",
+      "options": [
+        "Exámenes escritos y orales",
+        "Pruebas estandarizadas y test objetivos",
+        "Portfolio, rúbricas, mapas mentales y debates",
+        "Observación directa y anecdotarios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las líneas de actuación del Decreto 155/2022 establecen la aplicación de diferentes técnicas e instrumentos de evaluación como el portfolio, rúbricas, mapas mentales y debates."
+    },
+    {
+      "question": "¿Cuál de los siguientes principios NO se menciona explícitamente entre las líneas de actuación para CCSS del Decreto 155/2022?",
+      "options": [
+        "Aprovechar los recursos del entorno avanzando de lo simple a lo complejo",
+        "Promover el espíritu crítico en relación a la perspectiva de género",
+        "Priorizar el uso de libros de texto históricos como recurso principal",
+        "Asegurar la innovación educativa como estrategia de experimentación y renovación curricular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Priorizar el libro de texto no es una línea de actuación del Decreto 155/2022; al contrario, se promueve el uso de recursos variados. Las otras opciones sí corresponden a líneas de actuación del Decreto."
+    },
+    {
+      "question": "La Orden de 8 de septiembre de 2021 desarrolla:",
+      "options": [
+        "El Decreto 155/2022 sobre el currículo de EP en Galicia",
+        "El Decreto 229/2011 sobre atención a la diversidad en Galicia",
+        "La LOMLOE en el ámbito de la Comunidad Autónoma de Galicia",
+        "Los programas educativos del Plan Proxecta+ de la Consellería"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Orden de 8 de septiembre de 2021 desarrolla el Decreto 229/2011, de 7 de diciembre, que regula la atención a la diversidad del alumnado en Galicia. La Orden de 26 de mayo de 2023 es la que desarrolla el Decreto 155/2022."
+    },
+    {
+      "question": "Según el tema, para superar la enseñanza memorística de la historia, se debe enseñar desde:",
+      "options": [
+        "La acumulación progresiva de datos y fechas clave de cada etapa histórica",
+        "La cronología estricta de los hechos históricos de mayor a menor relevancia",
+        "El flujo temporal continuo, la evolución de la sociedad y la ciclicidad y repetición de los hechos",
+        "Los documentos escritos como única fuente de conocimiento histórico fiable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para superar la enseñanza memorística se debe introducir enfoques que promuevan la significatividad, enseñando la historia desde el flujo temporal continuo, la evolución de la sociedad y la ciclicidad y repetición de los hechos."
+    },
+    {
+      "question": "La 'cronología' resulta clave en la EP para que el alumno:",
+      "options": [
+        "Memorice las fechas exactas de los principales hechos históricos",
+        "Sitúe hechos y personajes en la línea del tiempo, calcule duraciones y entienda el cambio como parte de la evolución social",
+        "Comprenda exclusivamente la historia de Galicia y su vinculación con el presente",
+        "Diferencie entre fuentes primarias y secundarias con criterios cronológicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cronología resulta clave para que el alumno sitúe hechos y personajes en la línea del tiempo, relacione el pasado y el presente, calcule duraciones y entienda el cambio como parte de la evolución social."
+    },
+    {
+      "question": "¿Con qué área curricular relaciona el tiempo histórico el estudio de procesos temporales evolutivos de los seres vivos o del entorno?",
+      "options": [
+        "Matemáticas",
+        "Ciencias de la Naturaleza",
+        "Educación Plástica y Visual",
+        "Lengua Castellana y Literatura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tiempo histórico se vincula con Ciencias de la Naturaleza en la comprensión de procesos temporales evolutivos de los seres vivos o del entorno. Con Matemáticas se vincula en el cálculo de duraciones y escalas en líneas del tiempo."
+    },
+    {
+      "question": "¿Cuál de las siguientes competencias clave se desarrolla en el Bloque 4 de CCSS a través de proyectos de investigación?",
+      "options": [
+        "CCL (Competencia en Comunicación Lingüística)",
+        "CP (Competencia Plurilingüe)",
+        "CE (Competencia Emprendedora)",
+        "STEM (Competencia Matemática y en Ciencia, Tecnología e Ingeniería)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La CE (Competencia Emprendedora) se desarrolla mediante proyectos de investigación en el Bloque 4 de CCSS. La CCL se desarrolla mediante el lenguaje temporal, la STEM mediante el método científico, y la CP al conocer otras culturas."
+    },
+    {
+      "question": "El área de CCSS, a través del Bloque 4, contribuye a la CCL mediante:",
+      "options": [
+        "El conocimiento de otras culturas y sus concepciones del tiempo",
+        "El uso del lenguaje temporal y la narración histórica",
+        "El método científico y la experimentación para comprender el entorno",
+        "La formación de ciudadanos críticos con valores democráticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCL (Competencia en Comunicación Lingüística) se desarrolla mediante el uso del lenguaje temporal y la narración histórica. La CP se vincula al conocimiento de otras culturas, y la STEM al método científico."
+    },
+    {
+      "question": "La competencia STEM se desarrolla en el Bloque 4 de CCSS a través de:",
+      "options": [
+        "La narración histórica y el uso del lenguaje temporal específico",
+        "El conocimiento de otras culturas y sus concepciones del tiempo",
+        "El método científico y la experimentación para comprender el entorno",
+        "El uso crítico de herramientas digitales para buscar información histórica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La competencia STEM se desarrolla a través del método científico y la experimentación para comprender el entorno. La CD se vincula al uso crítico de herramientas digitales, y la CCL al lenguaje temporal."
+    },
+    {
+      "question": "Según el tema, ¿cuál de las siguientes afirmaciones sobre los documentos orales es correcta?",
+      "options": [
+        "Son las fuentes más objetivas por ser testimonios directos de los protagonistas",
+        "Actualmente pueden grabarse y conservarse gracias a los avances tecnológicos",
+        "No son válidos como fuentes históricas por su elevada subjetividad",
+        "Se utilizan exclusivamente para trabajar aspectos de la Edad Contemporánea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Actualmente, gracias a los avances tecnológicos, los documentos orales pueden grabarse y conservarse. Son valiosos para trabajar la identidad, el respeto intergeneracional y el legado cultural, aunque deben contrastarse con otras fuentes por su subjetividad."
+    },
+    {
+      "question": "¿Qué hace que los restos materiales sean útiles como fuentes históricas en EP?",
+      "options": [
+        "Son fácilmente reproducibles y accesibles en formato digital",
+        "No presentan subjetividad a diferencia de los documentos orales y escritos",
+        "Permiten comprender los modos de vida del pasado, especialmente cuando no existe documentación escrita u oral",
+        "Pueden utilizarse exclusivamente en los ciclos superiores de EP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los restos materiales (huesos, joyas, construcciones, utensilios) ayudan a comprender los modos de vida del pasado, especialmente cuando no existe documentación escrita u oral sobre ese período. Se pueden trabajar con visitas a museos o materiales manipulativos."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un ejemplo de fuente primaria o directa?",
+      "options": [
+        "Libro de texto histórico sobre la Edad Media",
+        "Enciclopedia sobre las civilizaciones antiguas",
+        "Documental sobre la Revolución Francesa",
+        "Diario personal de un soldado de la I Guerra Mundial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El diario personal de un soldado es una fuente primaria o directa, creada en el momento de los hechos. El libro de texto, la enciclopedia y el documental son fuentes secundarias o indirectas, elaboradas posteriormente a los hechos."
+    },
+    {
+      "question": "Según el tema, la Edad Contemporánea está marcada por:",
+      "options": [
+        "El Renacimiento y el Barroco",
+        "El Románico, el Gótico y el Camino de Santiago",
+        "La I y II Guerra Mundial y la Revolución Industrial",
+        "Los descubrimientos geográficos y la Ilustración"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Edad Contemporánea está marcada por la I y II Guerra Mundial y la Revolución Industrial. El Renacimiento y el Barroco pertenecen a la Edad Moderna, y el Románico y el Gótico a la Edad Media."
+    },
+    {
+      "question": "El artículo que regula los objetivos de etapa en el Decreto 155/2022 es el:",
+      "options": [
+        "Artículo 4",
+        "Artículo 7",
+        "Artículo 16",
+        "Artículo 22"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos de etapa están recogidos en el artículo 7 del Decreto 155/2022. El artículo 16 recoge los principios metodológicos, y el Anexo II epígrafe 2.4 las líneas de actuación para CCSS."
+    },
+    {
+      "question": "¿Cuántos objetivos de etapa tiene el Decreto 155/2022 según se menciona en el tema?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tema menciona que el tiempo histórico se vincula con 'dos de los 15 objetivos de etapa del artículo 7' del Decreto 155/2022, los objetivos H y Ñ."
+    },
+    {
+      "question": "Según el tema, el proceso de enseñanza-aprendizaje del tiempo histórico debe adoptar un enfoque:",
+      "options": [
+        "Exclusivamente histórico y cronológico",
+        "Interdisciplinar y globalizador",
+        "Unidisciplinar centrado exclusivamente en el área de CCSS",
+        "Especializado y técnico basado en el método histórico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proceso de enseñanza-aprendizaje del tiempo histórico debe adoptar un enfoque interdisciplinar y globalizador, relacionándose con otras áreas curriculares como LCL, Matemáticas, CCNN, EF, Plástica, Música y EVCE."
+    },
+    {
+      "question": "¿Con qué área se relaciona el tiempo histórico a través de la integración de juegos tradicionales del pasado?",
+      "options": [
+        "Matemáticas",
+        "Educación Plástica y Visual",
+        "Educación Física",
+        "Educación en Valores Cívicos y Éticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tiempo histórico se vincula con Educación Física al integrar juegos tradicionales del pasado. Con Educación Plástica y Visual se vincula en el análisis de obras de arte como fuentes históricas."
+    },
+    {
+      "question": "La competencia CPSAA desarrollada a través del Bloque 4 de CCSS fomenta:",
+      "options": [
+        "El lenguaje temporal y la narración histórica",
+        "La formación de ciudadanos críticos y comprometidos con los valores democráticos",
+        "La autonomía investigadora y el trabajo en equipo",
+        "El uso del método científico y la experimentación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La CPSAA (Competencia Personal, Social y de Aprender a Aprender) fomenta la autonomía investigadora y el trabajo en equipo. La CC se vincula con la ciudadanía crítica, y la CCL con el lenguaje temporal."
+    },
+    {
+      "question": "¿Con cuál de las siguientes afirmaciones sobre la 'historia como ciencia' como dimensión de temporalidad está de acuerdo el tema?",
+      "options": [
+        "La historia como ciencia solo puede trabajarse en el tercer ciclo de EP",
+        "Aproximar al alumnado al método de recogida y contraste de fuentes históricas",
+        "La historia como ciencia implica únicamente el estudio de documentos escritos",
+        "Solo los historiadores profesionales pueden aplicar el método científico a la historia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dimensión 'historia como ciencia' consiste en aproximar al alumnado al método de recogida y contraste de fuentes históricas. Es una de las dimensiones de temporalidad que deben trabajarse para que el alumnado construya la noción de temporalidad."
+    },
+    {
+      "question": "El objetivo fundamental de enseñar historia en EP, según el tema, es que el alumnado:",
+      "options": [
+        "Memorice las fechas y datos más relevantes de la historia",
+        "Domine la cronología completa de las etapas históricas de la humanidad",
+        "Interprete las características sociales y políticas del presente desde el conocimiento del pasado",
+        "Conozca en profundidad la historia de Galicia antes que la historia universal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El fin de los contenidos sobre el tiempo histórico en EP es que el alumnado pueda interpretar las características sociales y políticas del presente desde el conocimiento del pasado, contribuyendo al desarrollo de la conciencia histórica."
+    },
+    {
+      "question": "La Ley Orgánica 3/2020 (LOMLOE) fue aprobada:",
+      "options": [
+        "El 3 de mayo de 2006",
+        "El 29 de diciembre de 2020",
+        "El 15 de septiembre de 2022",
+        "El 26 de mayo de 2023"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE (Ley Orgánica 3/2020) fue aprobada el 29 de diciembre de 2020. La Ley Orgánica 2/2006 (LOE) fue el 3 de mayo de 2006, y el Decreto 155/2022 el 15 de septiembre de 2022."
+    },
+    {
+      "question": "¿Qué elemento curricular define el nivel competencial esperado al completar la educación básica?",
+      "options": [
+        "Los criterios de evaluación del área de CCSS",
+        "Los descriptores operativos",
+        "El perfil de salida",
+        "Los objetivos de etapa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El perfil de salida define el nivel competencial del alumnado esperado al completar la educación básica, deducido a través de los descriptores operativos. Los criterios de evaluación y los objetivos de etapa son elementos curriculares diferentes."
+    },
+    {
+      "question": "La 'historia regional' en la clasificación por ámbito geográfico se refiere a:",
+      "options": [
+        "Los hechos de un país concreto como España",
+        "Todos los acontecimientos del mundo de forma interconectada",
+        "Una comunidad o región específica como Galicia",
+        "Una zona geográfica muy cercana al alumnado como la localidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La historia regional se refiere a una comunidad o región específica, como Galicia. La historia local se centra en una zona geográfica cercana al alumnado, y la historia nacional estudia los hechos de un país concreto."
+    },
+    {
+      "question": "Según Tuñón de Lara (1985), ¿cuál de los siguientes elementos puede ser fuente histórica?",
+      "options": [
+        "Solo los documentos escritos elaborados con rigor científico",
+        "Únicamente los restos arqueológicos conservados en museos",
+        "Todo testimonio, material o figurado, capaz de proporcionar información sobre la realidad social del pasado",
+        "Solo los testimonios primarios creados en el momento de los hechos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según Tuñón de Lara (1985), la fuente histórica es 'todo testimonio, material o figurado, capaz de proporcionarnos información sobre la realidad social del pasado'. Esta definición abarca tanto fuentes materiales como orales y escritas."
+    },
+    {
+      "question": "¿Cuál de los siguientes instrumentos se menciona en el tema para iniciar al niño en la noción de temporalidad?",
+      "options": [
+        "Mapas históricos y atlas geográficos",
+        "Enciclopedias y libros de historia ilustrados",
+        "Álbum de fotos y árbol genealógico",
+        "Maquetas de civilizaciones y yacimientos virtuales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para trabajar la noción de temporalidad se proponen instrumentos como álbumes de fotos, diarios, líneas personales de vida y el árbol genealógico, partiendo de las vivencias y experiencias del niño donde el ahora, antes y después cobra sentido."
+    },
+    {
+      "question": "Según el tema, el trabajo cooperativo en la atención a la diversidad permite que el alumnado:",
+      "options": [
+        "Trabaje de forma autónoma sin ayuda del docente ni de los iguales",
+        "Se beneficie de las interacciones entre iguales",
+        "Se eliminen automáticamente las diferencias de nivel en el aula",
+        "El docente pueda atender individualmente a cada alumno de forma eficaz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El trabajo colaborativo permite que el alumnado se beneficie de las interacciones entre iguales. Es uno de los elementos de la atención inclusiva a la diversidad junto al DUA, la gestión flexible y la participación de las familias."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el 'tiempo percibido' de Piaget es incorrecta?",
+      "options": [
+        "Corresponde al rango de edad de 6-9 años",
+        "El niño distingue el tiempo físico y sus medidas en horas, días y semanas",
+        "El niño comprende el concepto de duración",
+        "El niño diferencia aspectos cíclicos como las estaciones del año"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La diferenciación de aspectos cíclicos como las estaciones del año corresponde al tiempo concebido (9-11 años), no al tiempo percibido. El tiempo percibido (6-9 años) se caracteriza por distinguir el tiempo físico y el concepto de duración."
+    },
+    {
+      "question": "Las 'metodologías activas' mencionadas en las líneas de actuación del Decreto 155/2022 para CCSS incluyen:",
+      "options": [
+        "La lección magistral y el estudio individual",
+        "Los exámenes escritos y la memorización sistemática",
+        "El aprendizaje-servicio y el trabajo cooperativo",
+        "La evaluación sumativa y los libros de texto convencionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las metodologías activas mencionadas en las líneas de actuación del Decreto 155/2022 incluyen el aprendizaje-servicio y el trabajo cooperativo, como parte de la innovación educativa como estrategia de experimentación y renovación curricular."
+    },
+    {
+      "question": "¿En qué ciclo de EP se introduce específicamente el trabajo por proyectos según el Decreto 155/2022?",
+      "options": [
+        "Primer ciclo",
+        "Segundo ciclo",
+        "Tercer ciclo",
+        "Los tres ciclos de forma transversal y progresiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La iniciación a la investigación y el trabajo por proyectos se introducen en el segundo ciclo, junto al estudio de la Prehistoria y la Edad Antigua. En el tercer ciclo se profundiza con proyectos de mayor complejidad."
+    },
+    {
+      "question": "Los 'descubrimientos e inventos más relevantes' como contenido histórico se trabajan en:",
+      "options": [
+        "El primer ciclo como parte de la historia personal",
+        "El segundo ciclo como contenido histórico",
+        "El tercer ciclo dentro de la Edad Moderna",
+        "Los tres ciclos de forma progresiva con diferente complejidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los descubrimientos e inventos más relevantes se trabajan en el segundo ciclo, junto a la Prehistoria y la Edad Antigua, la iniciación a la investigación y las mujeres y hombres como protagonistas en la historia."
+    },
+    {
+      "question": "Según el tema, los elementos transversales del aprendizaje deben integrarse en la enseñanza del tiempo histórico para:",
+      "options": [
+        "Mejorar los resultados en las evaluaciones externas estandarizadas",
+        "Eliminar las barreras al aprendizaje",
+        "Desarrollar exclusivamente las competencias lingüísticas del alumnado",
+        "Adaptar el currículo a las necesidades del mercado laboral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La integración de los elementos transversales del aprendizaje, junto al DUA, es necesaria para eliminar las barreras al aprendizaje en el marco de la atención inclusiva y la diversidad."
+    },
+    {
+      "question": "¿Cuál es el principal fin de la educación de las Ciencias Sociales según el tema?",
+      "options": [
+        "Transmitir los conocimientos históricos de generación en generación",
+        "Formar ciudadanos activos, responsables y respetuosos con su entorno",
+        "Desarrollar la memoria histórica del alumnado de forma sistemática",
+        "Preservar el patrimonio cultural de cada nación y región"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El fin de la educación de las Ciencias Sociales es formar ciudadanos activos, responsables y respetuosos con su entorno, capaces de comprender la evolución de las sociedades a lo largo del tiempo."
+    },
+    {
+      "question": "El aprendizaje del tiempo histórico exige una intervención educativa que:",
+      "options": [
+        "Sea uniforme y generalizada para toda la clase sin adaptaciones",
+        "Parta de contenidos abstractos para estimular el pensamiento formal",
+        "Sea planificada, progresiva y significativa, partiendo de la realidad más próxima al niño",
+        "Se base exclusivamente en la cronología de los hechos históricos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El aprendizaje del tiempo histórico exige una intervención educativa planificada, progresiva y significativa que parta de la realidad más próxima al niño, permitiéndole observar, percibir, manipular y vivenciar."
+    },
+    {
+      "question": "La 'reflexión metodológica conjunta' como línea de actuación del Decreto 155/2022 implica:",
+      "options": [
+        "La reflexión individual de cada docente sobre su práctica educativa",
+        "Una propuesta común del equipo docente con enfoque global e interdisciplinar",
+        "El análisis de los resultados de las evaluaciones externas del centro",
+        "La coordinación entre EP y ESO para asegurar la continuidad del currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La reflexión metodológica conjunta del equipo docente debe dar lugar a una propuesta común con un enfoque global e interdisciplinar para la enseñanza de las CCSS."
+    },
+    {
+      "question": "¿Cuál de los rasgos de la historia indica que ciertos fenómenos tienden a repetirse siguiendo patrones similares?",
+      "options": [
+        "Carácter científico",
+        "Proceso de cambio constante",
+        "Proceso cíclico",
+        "Interconexión con otras ciencias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El carácter cíclico de la historia indica que ciertos fenómenos tienden a repetirse siguiendo patrones similares. El carácter científico se refiere a su basamento en fuentes, y el proceso de cambio constante a que la realidad actual es fruto de acciones del pasado."
+    },
+    {
+      "question": "Según el tema, el 'legado histórico' como rasgo de la historia expone:",
+      "options": [
+        "La continuidad del pensamiento científico a través de los siglos",
+        "El patrimonio como parte de la identidad cultural del alumnado",
+        "La acumulación de conocimiento histórico en archivos y museos",
+        "La transmisión de las tradiciones orales entre generaciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La importancia del legado histórico como rasgo de la historia expone el patrimonio como parte de la identidad cultural del alumnado, conectando las generaciones pasadas con el presente."
+    },
+    {
+      "question": "¿Cuál de los siguientes autores NO aparece en la bibliografía formal del Tema 8?",
+      "options": [
+        "Díaz, M. (2016)",
+        "Pagès, Joan (2004)",
+        "Piaget (1978)",
+        "Trepat y Comes (2002)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Piaget (1978) se menciona en el cuerpo del tema pero no aparece en la bibliografía formal. La bibliografía formal incluye a Alonso (2010), Díaz (2016), Pagès (2004), Trepat y Comes (2002) y Tuñón de Lara (1985)."
+    },
+    {
+      "question": "El 'tiempo vivido' de Piaget se caracteriza principalmente por:",
+      "options": [
+        "La distinción del tiempo físico y sus medidas en horas, días y semanas",
+        "Las vivencias vinculadas a las rutinas cotidianas y experiencias personales",
+        "La diferenciación de aspectos cíclicos como las estaciones del año",
+        "La adquisición del tiempo abstracto formal y la noción histórica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tiempo vivido (4-6 años) se caracteriza por estar vinculado a las rutinas cotidianas y experiencias personales. Es la fase más básica del desarrollo temporal según Piaget, previa al tiempo percibido y al concebido."
+    },
+    {
+      "question": "¿Cuál de las siguientes competencias desarrolla el alumnado a través del trabajo con líneas del tiempo?",
+      "options": [
+        "Analizar críticamente las fuentes históricas primarias y secundarias",
+        "Comprender las convenciones temporales y ubicar hechos cronológicamente",
+        "Relacionar los cuatro ámbitos de estudio histórico entre sí",
+        "Aplicar el método científico al análisis del pasado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El trabajo con líneas del tiempo desarrolla competencias para identificar unidades de medida del tiempo, comprender las convenciones temporales, ubicar y ordenar cronológicamente los hechos, y visualizar la duración y densidad de los acontecimientos."
+    },
+    {
+      "question": "La 'tarea del docente y del centro' en relación al aprendizaje del tiempo histórico, según las conclusiones del tema, es:",
+      "options": [
+        "Seleccionar los contenidos más relevantes del currículo para cada nivel",
+        "Garantizar los recursos necesarios para que el aprendizaje sea eficaz y transformador",
+        "Priorizar la enseñanza de la historia de Galicia sobre la historia universal",
+        "Supervisar el trabajo de las familias como agentes educativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según las conclusiones del tema, es tarea del docente y del centro educativo garantizar los recursos necesarios para que el aprendizaje del tiempo histórico sea verdaderamente eficaz y transformador."
+    },
+    {
+      "question": "Según el tema, el aprendizaje del tiempo histórico debe permitir al alumnado:",
+      "options": [
+        "Memorizar las fechas y hechos más importantes de la historia",
+        "Conocer, analizar y contrastar el pasado, relacionarlo con el presente y realizar conjeturas sobre el futuro",
+        "Desarrollar exclusivamente la competencia histórica sin conexión con otras áreas",
+        "Acceder directamente a las fuentes históricas primarias sin mediación docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje del tiempo histórico debe permitir al alumnado conocer, analizar y contrastar el pasado, relacionarlo con el presente y realizar conjeturas sobre el futuro. Esto va más allá de la simple memorización de datos."
+    },
+    {
+      "question": "La 'continuidad y el cambio' como dimensión de temporalidad permite al alumnado:",
+      "options": [
+        "Comprender los ciclos históricos y su repetición a lo largo del tiempo",
+        "Identificar qué permanece igual y qué varía a lo largo del tiempo histórico",
+        "Visualizar los cambios físicos del espacio geográfico a través de los siglos",
+        "Relacionar las causas históricas del pasado con hechos del presente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dimensión de continuidad y cambio permite al alumnado identificar qué permanece igual y qué varía a lo largo del tiempo histórico. La causalidad es la dimensión que permite relacionar causas y consecuencias de los hechos."
+    },
+    {
+      "question": "Según el tema, ¿cuál es un rasgo del aprendizaje del tiempo histórico como proceso?",
+      "options": [
+        "Es un proceso simple que se desarrolla uniformemente en todos los niños",
+        "Es un proceso puntual que culmina en una etapa específica del desarrollo",
+        "Es un proceso largo y complejo, condicionado por el desarrollo cognitivo y el pensamiento abstracto",
+        "Es un proceso independiente del desarrollo cognitivo general del niño"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El aprendizaje del tiempo histórico es un proceso largo y complejo, condicionado por el desarrollo cognitivo del alumnado y el pensamiento abstracto, que requiere una intervención educativa planificada y progresiva."
+    },
+    {
+      "question": "La característica de 'inseparable del espacio' del tiempo histórico indica que:",
+      "options": [
+        "La historia solo puede estudiarse en su contexto geográfico original",
+        "Los cambios históricos se observan en el ámbito físico",
+        "El espacio físico determina directamente los hechos históricos",
+        "La geografía y la historia son en realidad la misma disciplina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tiempo histórico es inseparable del espacio al observarse los cambios en el ámbito físico. Esta característica justifica la vinculación entre la didáctica del espacio y la didáctica del tiempo en la enseñanza de las CCSS."
+    },
+    {
+      "question": "El carácter 'relativo' del tiempo histórico significa que:",
+      "options": [
+        "Las fechas históricas son aproximadas y pueden variar según el historiador",
+        "Cada persona y cultura percibe el tiempo de forma diferente",
+        "El tiempo histórico no puede medirse con precisión matemática",
+        "La historia es siempre subjetiva e interpretable desde diferentes perspectivas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El carácter relativo del tiempo histórico indica que cada persona y cultura lo percibe de forma diferente. Esta relatividad es una de las cinco características del tiempo histórico mencionadas en el tema."
+    },
+    {
+      "question": "La interconexión de la historia con otras ciencias, como la sociología, las matemáticas o la antropología, es uno de los:",
+      "options": [
+        "Ámbitos de estudio de los hechos históricos",
+        "Rasgos que definen la historia como disciplina",
+        "Principios metodológicos del Decreto 155/2022",
+        "Objetivos de área del área de CCSS en EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La interconexión con otras ciencias (sociología, matemáticas, antropología) es uno de los rasgos que definen la historia como disciplina. Los ámbitos de estudio son los cuatro campos (social/religioso, político, económico, cultural)."
+    },
+    {
+      "question": "Según el tema, ¿cuál de las siguientes afirmaciones sobre el tiempo concebido de Piaget es correcta?",
+      "options": [
+        "Se da entre los 4-6 años y está vinculado a las rutinas cotidianas",
+        "Se da entre los 6-9 años y permite distinguir el tiempo físico y sus medidas",
+        "Se inicia entre los 9-11 años diferenciando aspectos cíclicos y culmina entre los 11-16 con el tiempo abstracto",
+        "Es el nivel más básico de comprensión temporal en la infancia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tiempo concebido se inicia entre los 9-11 años, diferenciando aspectos cíclicos como las estaciones, y culmina entre los 11 y 16 años con la adquisición del tiempo abstracto formal y la noción de tiempo histórico."
+    },
+    {
+      "question": "La 'historia universal' en la clasificación por ámbito geográfico:",
+      "options": [
+        "Se centra en los hechos de un país concreto con perspectiva global",
+        "Estudia una comunidad o región específica como Galicia",
+        "Abarca todos los acontecimientos del mundo de forma interconectada, diferenciando Oriente y Occidente",
+        "Se refiere a una zona geográfica cercana al alumnado, como la localidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La historia universal abarca todos los acontecimientos del mundo de forma interconectada, diferenciando entre Oriente y Occidente. Es el nivel más amplio de los cuatro ámbitos geográficos de la historia."
+    },
+    {
+      "question": "¿Qué característica tienen los criterios de evaluación del primer ciclo respecto al tiempo histórico?",
+      "options": [
+        "Se orientan al conocimiento de la Prehistoria y la Edad Antigua",
+        "Se orientan al respeto al patrimonio, ordenación de hechos del entorno próximo y conocimiento de grupos sociales con perspectiva de género",
+        "Se centran en la conservación del patrimonio con acciones sostenibles",
+        "Se enfocan en el análisis cronológico desde la Edad Antigua hasta la actualidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación del primer ciclo se orientan al respeto al patrimonio, la ordenación de hechos del entorno próximo, y el conocimiento de grupos sociales y formas de vida con perspectiva de género."
+    },
+    {
+      "question": "Según el tema, la 'causalidad' como dimensión de temporalidad permite al alumnado:",
+      "options": [
+        "Situarse en el punto de vista de personas de otras épocas",
+        "Valorar el patrimonio como herencia de generaciones pasadas",
+        "Entender que los hechos tienen causas y consecuencias",
+        "Conocer los personajes protagonistas de la historia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La causalidad como dimensión de temporalidad permite entender que los hechos tienen causas y consecuencias, lo que es fundamental para desarrollar el pensamiento histórico en el alumnado de EP."
+    },
+    {
+      "question": "La actividad 'La línea de mi vida' para el primer ciclo propone que el alumnado elija entre:",
+      "options": [
+        "Tres y cinco recuerdos significativos",
+        "Cinco y diez momentos importantes del año escolar",
+        "Uno y tres hechos históricos de la localidad",
+        "Diez y quince fotografías de la historia personal familiar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En 'La línea de mi vida', el alumnado elige entre tres y cinco recuerdos significativos y elabora una línea temporal personal situando los hechos en orden cronológico con conceptos como 'antes', 'después' o 'cuando tenía x años'."
+    },
+    {
+      "question": "En 'Entrevistamos a un mayor', los grupos cooperativos se describen como:",
+      "options": [
+        "Grupos homogéneos y del mismo género",
+        "Grupos individuales supervisados por el docente",
+        "Grupos mixtos y heterogéneos",
+        "Grupos de nivel según el rendimiento académico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la actividad 'Entrevistamos a un mayor', los grupos cooperativos son mixtos y heterogéneos. Esta configuración favorece el aprendizaje entre iguales y la diversidad de perspectivas en el proceso de investigación."
+    },
+    {
+      "question": "Según Asensio, Pozo y Carretero (1989), ¿cuál de las siguientes dificultades del aprendizaje histórico se relaciona específicamente con la comprensión de largos periodos?",
+      "options": [
+        "El presentismo",
+        "La subjetividad en la percepción del tiempo",
+        "La dificultad para comprender la duración",
+        "El carácter abstracto de los conceptos históricos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Asensio, Pozo y Carretero identifican específicamente la dificultad para comprender la duración de largos periodos como una de las dificultades en la comprensión del tiempo histórico, distinta del presentismo o la abstracción conceptual."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una dimensión para la construcción de la temporalidad mencionada en el tema?",
+      "options": [
+        "Empatía histórica y relativismo",
+        "Cronología como ciencia exacta e independiente",
+        "Continuidad y cambio",
+        "Valoración del patrimonio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las dimensiones para la construcción de la temporalidad son: empatía histórica y relativismo, conocimiento de personajes, historia como ciencia, vinculación pasado-presente, causalidad, continuidad y cambio, valoración del patrimonio y vida cotidiana. La 'cronología como ciencia exacta' no es una de ellas."
+    },
+    {
+      "question": "La 'historia local' en la clasificación geográfica se define como:",
+      "options": [
+        "La historia de una comunidad autónoma o región",
+        "La historia de un país concreto como España",
+        "La historia centrada en una zona geográfica cercana al alumnado",
+        "La historia personal del alumnado y sus familias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La historia local se centra en una zona geográfica cercana al alumnado. Se diferencia de la historia regional (comunidad o región como Galicia), la historia nacional (un país) y la historia personal del alumnado."
+    },
+    {
+      "question": "Según el tema, ¿cuál de las siguientes afirmaciones sobre la elaboración de líneas del tiempo es correcta?",
+      "options": [
+        "La unidad de medida debe escogerse siempre en siglos para facilitar la comprensión",
+        "Los datos deben escribirse de forma extensa y detallada para ser completos",
+        "Se deben respetar las proporciones matemáticas en la representación gráfica",
+        "Las fechas más modernas se colocan siempre en el extremo izquierdo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la elaboración de la línea del tiempo se debe elaborar la línea organizando los datos de forma ordenada y respetando la proporción matemática en la representación gráfica. Los datos se escriben de forma breve y comprensible."
+    },
+    {
+      "question": "¿Cuál es el ámbito de estudio histórico que abarca los recursos para vivir, la producción, el comercio y los avances tecnológicos?",
+      "options": [
+        "Ámbito social y religioso",
+        "Ámbito político",
+        "Ámbito económico, tecnológico y científico",
+        "Ámbito cultural y estético"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El ámbito económico, tecnológico y científico abarca los recursos para vivir, la producción, el comercio y los avances tecnológicos de cada sociedad. El ámbito político se centra en las formas de gobierno y el ejercicio del poder."
+    },
+    {
+      "question": "Según el tema, la historia se vincula con la Educación Plástica y Visual al:",
+      "options": [
+        "Calcular duraciones y escalas en las líneas del tiempo",
+        "Integrar juegos tradicionales del pasado en las sesiones",
+        "Analizar obras de arte como fuentes históricas",
+        "Adquirir vocabulario temporal y comprensión de textos históricos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Educación Plástica y Visual y la Música y Danza se vinculan al tiempo histórico en el análisis de obras de arte como fuentes históricas y de las expresiones culturales de cada época."
+    },
+    {
+      "question": "La Prehistoria abarca desde:",
+      "options": [
+        "La aparición de la escritura hasta la caída del Imperio Romano",
+        "La evolución del ser humano hasta la aparición de la escritura",
+        "La aparición del Homo sapiens hasta el descubrimiento de América",
+        "Los primeros registros escritos hasta la fundación de Roma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Prehistoria abarca desde la evolución del ser humano hasta la aparición de la escritura, momento en que comienza la Edad Antigua. La aparición de la escritura es el hito que marca el inicio de la Historia."
+    },
+    {
+      "question": "¿Cuál de los siguientes contenidos corresponde específicamente al tercer ciclo en el área de CCSS?",
+      "options": [
+        "Medidas del tiempo: día, semana, mes, año",
+        "Historia personal: líneas de vida y árbol genealógico",
+        "Prehistoria y Edad Antigua con sus expresiones artísticas",
+        "Edad Media: Camino de Santiago, Románico y Gótico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La Edad Media con el Camino de Santiago, el Románico y el Gótico es un contenido del tercer ciclo. Las medidas del tiempo y la historia personal corresponden al primer ciclo, y la Prehistoria y Edad Antigua al segundo ciclo."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO se menciona como dificultad en la comprensión del tiempo histórico según Asensio, Pozo y Carretero (1989)?",
+      "options": [
+        "El carácter abstracto de los conceptos históricos",
+        "La subjetividad en la percepción del tiempo",
+        "La falta de motivación del alumnado hacia la historia",
+        "La tendencia al presentismo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La falta de motivación no aparece entre las dificultades identificadas por Asensio, Pozo y Carretero (1989). Las dificultades identificadas incluyen: carácter abstracto, subjetividad, dificultad de comprensión de la duración, problemas para ordenar hechos, establecer relaciones causales y el presentismo."
+    },
+    {
+      "question": "Según el tema, ¿qué función tienen los documentos orales en relación con la identidad cultural?",
+      "options": [
+        "No tienen función específica en relación a la identidad cultural",
+        "Son valiosos para trabajar la identidad, el respeto intergeneracional y el legado de la cultura",
+        "Solo sirven para documentar aspectos lingüísticos de las comunidades",
+        "Su principal función es contrastar la información de los documentos escritos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los documentos orales son valiosos para trabajar la identidad, el respeto intergeneracional y el legado de la cultura. Actualmente pueden grabarse y conservarse gracias a los avances tecnológicos."
+    },
+    {
+      "question": "La 'innovación educativa' como línea de actuación para el área de CCSS se entiende como:",
+      "options": [
+        "La introducción obligatoria de las TIC en todas las actividades del aula",
+        "Estrategia de experimentación y renovación curricular desarrollando metodologías activas",
+        "La evaluación formativa y continua del alumnado como única herramienta",
+        "La reflexión metodológica conjunta del equipo docente del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La innovación educativa como línea de actuación se entiende como estrategia de experimentación y renovación curricular, desarrollando metodologías activas como el aprendizaje-servicio y el trabajo cooperativo."
+    },
+    {
+      "question": "¿Cuál es el autor que definió el tiempo histórico en 2004 como 'herramienta conceptual'?",
+      "options": [
+        "Trepat y Comes",
+        "Joan Pagès",
+        "Asensio, Pozo y Carretero",
+        "Braudel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Joan Pagès (2004) definió el tiempo histórico como 'una herramienta conceptual que permite comprender e interpretar los cambios y continuidades de las sociedades'. Trepat y Comes (2002) lo definieron como 'la simultaneidad de duraciones, movimientos y cambios'."
+    },
+    {
+      "question": "Según el tema, los principios metodológicos del artículo 16 del Decreto 155/2022 incluyen:",
+      "options": [
+        "La memorización como base del aprendizaje histórico",
+        "Partir de los conocimientos previos y del entorno próximo usando recursos variados que fomenten la investigación",
+        "El uso exclusivo de libros de texto como recurso didáctico principal",
+        "La evaluación sumativa como principal instrumento de seguimiento del aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los principios metodológicos del artículo 16 del Decreto 155/2022 incluyen partir de los conocimientos previos y del entorno próximo, y usar recursos variados que fomenten la investigación y la curiosidad."
+    },
+    {
+      "question": "¿Cuál de las siguientes dimensiones de temporalidad busca comprender cómo vivían y se organizaban las sociedades del pasado?",
+      "options": [
+        "La causalidad histórica",
+        "La empatía histórica y el relativismo",
+        "La vida cotidiana como vía de comprensión histórica",
+        "La continuidad y el cambio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La 'vida cotidiana' es la dimensión de temporalidad que busca comprender cómo vivían, pensaban y organizaban las sociedades del pasado. La empatía histórica se centra en adoptar el punto de vista de otras épocas."
+    },
+    {
+      "question": "En la actividad 'Épocas Teatrales' del tercer ciclo, ¿cuál es el objetivo principal de la dramatización?",
+      "options": [
+        "Mejorar las habilidades comunicativas y artísticas del alumnado",
+        "Recrear el contexto, la forma de vida y los personajes de la época con atención al papel de las mujeres",
+        "Memorizar los hechos históricos más relevantes de la etapa estudiada",
+        "Desarrollar exclusivamente las competencias lingüísticas y comunicativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo de la dramatización en 'Épocas Teatrales' es recrear el contexto, la forma de vida y los personajes de la época con especial atención al papel de las mujeres. Después, se reflexiona colectivamente sobre las relaciones causales con el presente."
+    },
+    {
+      "question": "¿Cuál es la herramienta digital mencionada en el tema para diseñar mapas conceptuales sobre hechos históricos?",
+      "options": [
+        "Canva o ChronoMe",
+        "Quizizz o Kahoot",
+        "Google Arts & Culture",
+        "Gliffy o Easel"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gliffy o Easel se mencionan para diseñar mapas conceptuales sobre hechos históricos. Canva o ChronoMe se usan para líneas del tiempo, y Quizizz/Kahoot/Educaplay/Genially para actividades interactivas."
+    },
+    {
+      "question": "Según el tema, los 'diferentes ritmos y estilos de aprendizaje' deben considerarse en el marco de:",
+      "options": [
+        "Los criterios de evaluación del área de CCSS",
+        "La atención inclusiva y la diversidad del alumnado",
+        "Los recursos didácticos para el tiempo histórico",
+        "Las actividades propuestas por ciclos para el tiempo histórico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Respetar los diferentes ritmos y estilos de aprendizaje es uno de los elementos de la atención inclusiva y la diversidad, regulada por el Decreto 229/2011 y la Orden del 8 de septiembre de 2021."
+    },
+    {
+      "question": "El concepto pilar en la definición de tiempo histórico según Trepat y Comes es:",
+      "options": [
+        "La linealidad y sucesión cronológica de los hechos históricos",
+        "La simultaneidad de duraciones, movimientos y cambios de un colectivo humano",
+        "La interpretación de los cambios y continuidades de las sociedades",
+        "La herramienta conceptual para comprender el pasado, presente y futuro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para Trepat y Comes (2002), el concepto pilar es la 'simultaneidad' de duraciones, movimientos y cambios de un colectivo humano. La idea de herramienta conceptual que relaciona pasado, presente y futuro pertenece a Joan Pagès (2004)."
+    },
+    {
+      "question": "La 'valoración del patrimonio' como dimensión de temporalidad lo define como:",
+      "options": [
+        "La herencia cultural que debe preservarse exclusivamente en museos y yacimientos",
+        "La herencia de generaciones pasadas que debe valorarse",
+        "Los documentos escritos conservados en archivos históricos nacionales",
+        "Las manifestaciones artísticas y culturales de la Edad Contemporánea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La valoración del patrimonio como dimensión de temporalidad lo define como herencia de generaciones pasadas que debe valorarse. Es una de las dimensiones que el alumnado debe desarrollar para construir la noción de temporalidad."
+    },
+    {
+      "question": "¿Qué elemento de la atención inclusiva busca desarrollar la autonomía, la autoestima y la toma de decisiones del alumnado?",
+      "options": [
+        "La gestión flexible de materiales, tiempos y espacios según las necesidades individuales",
+        "El Diseño Universal para el Aprendizaje (DUA)",
+        "El desarrollo específico de la autonomía, la autoestima y la toma de decisiones",
+        "La participación activa de las familias como agentes de información"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El desarrollo de la autonomía, la autoestima y la toma de decisiones se menciona como uno de los elementos de la atención inclusiva, junto al DUA, la gestión flexible y la participación de las familias."
+    },
+    {
+      "question": "La 'participación activa de las familias' en la atención inclusiva se entiende como:",
+      "options": [
+        "La delegación del proceso de enseñanza-aprendizaje a las familias",
+        "Las familias como agentes de información y seguimiento",
+        "La formación de las familias en didáctica de las Ciencias Sociales",
+        "La supervisión de las familias sobre el trabajo y planificación del docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La participación activa de las familias se entiende como su papel de agentes de información y seguimiento del proceso educativo. Es uno de los elementos de la atención inclusiva a la diversidad."
+    },
+    {
+      "question": "Según el tema, las dificultades de comprensión del tiempo histórico identificadas por Asensio, Pozo y Carretero derivan de:",
+      "options": [
+        "La falta de interés del alumnado por los contenidos históricos",
+        "Las altas exigencias cognitivas del tiempo histórico",
+        "La inadecuada formación histórica del profesorado de primaria",
+        "La escasez de recursos didácticos disponibles para trabajar la historia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Asensio, Pozo y Carretero (1989) identifican las dificultades en la comprensión del tiempo histórico como derivadas de sus altas exigencias cognitivas, no de la motivación del alumnado o la formación del profesorado."
+    },
+    {
+      "question": "La 'detección y atención temprana de dificultades de aprendizaje' en el contexto del tiempo histórico se enmarca en:",
+      "options": [
+        "Los principios metodológicos del artículo 16 del Decreto 155/2022",
+        "La atención inclusiva y la diversidad regulada por el Decreto 229/2011",
+        "Los criterios de evaluación del área de CCSS por ciclos",
+        "Los objetivos de área del Bloque 4 'Lecciones del pasado'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La detección y atención temprana de dificultades de aprendizaje se enmarca en la atención inclusiva a la diversidad, regulada por el Decreto 229/2011 y desarrollada por la Orden del 8 de septiembre de 2021."
+    },
+    {
+      "question": "¿Con cuál de las siguientes afirmaciones sobre la enseñanza de la historia está de acuerdo el tema?",
+      "options": [
+        "La enseñanza de la historia debe centrarse en la memorización de datos como base del pensamiento histórico",
+        "La enseñanza de la historia debe ser un espacio de reflexión crítica, pensamiento histórico y formación ciudadana",
+        "La enseñanza de la historia debe priorizarse sobre otras áreas del currículo",
+        "La enseñanza de la historia debe comenzar siempre por los hechos más lejanos en el tiempo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el tema, la enseñanza de la historia no puede reducirse a la memorización de datos, sino que debe ser un espacio de reflexión crítica, pensamiento histórico y formación ciudadana comprometida con los valores democráticos."
+    },
+    {
+      "question": "¿Cuál es el número de funciones que cumplen las fuentes históricas en el proceso educativo según el tema?",
+      "options": [
+        "Dos (motivadora e investigadora)",
+        "Tres (motivadora, investigadora y contextualizadora)",
+        "Cuatro (motivadora, investigadora, contextualizadora y relacional)",
+        "Cinco (motivadora, investigadora, contextualizadora, relacional y evaluadora)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las fuentes o documentos históricos cumplen cuatro funciones en el proceso educativo: motivadora, investigadora, contextualizadora y relacional. No se menciona ninguna quinta función evaluadora."
+    },
+    {
+      "question": "El ámbito político de estudio histórico se centra en:",
+      "options": [
+        "La organización de las sociedades y las clases sociales",
+        "Los recursos para vivir, la producción y el comercio",
+        "Las formas de gobierno, el ejercicio de poder y los estados de paz o conflicto",
+        "La creatividad de un pueblo, su arte y su arquitectura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El ámbito político se centra en las formas de gobierno, el ejercicio de poder y los estados de paz o conflicto. El ámbito social y religioso se ocupa de la organización de las sociedades y las clases sociales."
+    },
+    {
+      "question": "¿Con cuántos objetivos de etapa del Decreto 155/2022 se vincula estrechamente el tiempo histórico?",
+      "options": [
+        "Con uno (el objetivo H)",
+        "Con dos (los objetivos H y Ñ)",
+        "Con tres (los objetivos H, Ñ y otro)",
+        "Con todos los objetivos de etapa de forma transversal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tiempo histórico se vincula estrechamente con dos de los 15 objetivos de etapa del artículo 7 del Decreto 155/2022: el objetivo H (conocer los aspectos fundamentales de las CCSS, la geografía y la historia) y el objetivo Ñ (conocer y valorar las singularidades de Galicia)."
+    },
+    {
+      "question": "La Edad Moderna abarca desde el descubrimiento de América hasta:",
+      "options": [
+        "La caída del Imperio Romano en 456 d.C.",
+        "La II Guerra Mundial en 1945",
+        "La Revolución Francesa en 1789",
+        "La Revolución Industrial en 1760"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Edad Moderna termina con la Revolución Francesa en 1789, acontecimiento con el que inicia la Edad Contemporánea. Comienza con el descubrimiento de América en 1476."
+    },
+    {
+      "question": "Los 'recursos personales' para trabajar el tiempo histórico en el aula incluyen:",
+      "options": [
+        "Libros de historia, enciclopedias y atlas históricos",
+        "Museos, yacimientos arqueológicos y espacios del entorno próximo",
+        "Trivial temático, memory histórico y escape rooms",
+        "El docente, invitados expertos, familias y profesorado especialista de apoyo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los recursos personales incluyen al docente como guía del proceso, a invitados expertos como historiadores, a las familias como fuente de apoyo e información, y al profesorado especialista de apoyo. Los demás son recursos materiales, ambientales o lúdicos."
+    },
+    {
+      "question": "Según el tema, las fuentes secundarias o indirectas se caracterizan por ser:",
+      "options": [
+        "Creadas en el momento de los hechos históricos por sus protagonistas",
+        "Elaboradas posteriormente a los hechos a partir del análisis de fuentes primarias",
+        "Exclusivamente de carácter material y arqueológico",
+        "Documentos orales transmitidos de generación en generación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las fuentes secundarias o indirectas son elaboradas posteriormente a los hechos a partir del análisis de las fuentes primarias. Ejemplos son los libros de texto, las enciclopedias y los documentales históricos."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO se menciona como juego didáctico para el aprendizaje del tiempo histórico?",
+      "options": [
+        "Trivial temático",
+        "Memory histórico",
+        "Videojuego de estrategia histórica",
+        "Role-playing histórico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El videojuego de estrategia histórica no se menciona en el tema. Los juegos didácticos mencionados son: trivial temático, memory histórico, escape rooms, role-playing, juegos de cartas para ordenar acontecimientos y el 'quién es quién'."
+    },
+    {
+      "question": "La biblioteca escolar se menciona en el tema como recurso especialmente adecuado para:",
+      "options": [
+        "Trabajar los restos materiales y objetos arqueológicos",
+        "Introducir los documentos escritos como fuentes históricas, ya que la mayoría se encuentran allí",
+        "Desarrollar actividades de entrevistas con personas mayores",
+        "Elaborar líneas del tiempo colaborativas con el alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La biblioteca se menciona como espacio de aprendizaje interesante para introducir los documentos escritos, ya que la mayor parte de los documentos escritos como fuentes históricas se encuentran en estos espacios."
+    },
+    {
+      "question": "Según el tema, los 'proyectos significativos' como línea de actuación del Decreto 155/2022 deben:",
+      "options": [
+        "Centrarse exclusivamente en los contenidos del Bloque 4 de CCSS",
+        "Partir de los conocimientos previos del alumnado",
+        "Basarse siempre en el trabajo individual del alumno",
+        "Diseñarse únicamente para el tercer ciclo de EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las líneas de actuación del Decreto 155/2022 establecen que la enseñanza debe englobar proyectos significativos que partan de los conocimientos previos del alumnado, avanzando de lo simple y conocido a lo complejo y abstracto."
+    },
+    {
+      "question": "¿Qué tipo de recurso son los yacimientos arqueológicos según la clasificación del tema?",
+      "options": [
+        "Recursos personales",
+        "Recursos materiales o didácticos",
+        "Recursos ambientales",
+        "Recursos TIC"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los yacimientos arqueológicos, junto con los museos, los espacios del entorno próximo y la historia local, son recursos ambientales. Los recursos materiales incluyen libros, enciclopedias y atlas."
+    },
+    {
+      "question": "¿En qué ciclo se trabaja el 'papel de la mujer' como contenido específico del área de CCSS?",
+      "options": [
+        "Solo en el primer ciclo, como introducción a los sujetos históricos",
+        "Solo en el segundo ciclo, con mujeres como protagonistas",
+        "Solo en el tercer ciclo, con el papel de la mujer en las distintas épocas",
+        "En los tres ciclos, con diferente denominación y nivel de complejidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las mujeres y hombres como sujetos históricos se trabajan en el primer ciclo; como protagonistas en la historia, en el segundo; y el papel de la mujer en la Edad Media, Moderna y Contemporánea, en el tercero. Está presente en todos los ciclos."
+    },
+    {
+      "question": "Según el tema, la vinculación entre 'pasado y presente' como dimensión de temporalidad permite:",
+      "options": [
+        "Comprender el patrimonio como herencia de generaciones pasadas",
+        "Establecer la conexión entre los hechos históricos y la realidad actual",
+        "Desarrollar la empatía hacia las personas de otras épocas",
+        "Ordenar los hechos históricos siguiendo criterios cronológicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La vinculación entre pasado y presente como dimensión de temporalidad permite establecer la conexión entre los hechos históricos y la realidad actual. Es distinta de la valoración del patrimonio y de la empatía histórica."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un recurso TIC mencionado en el tema para actividades interactivas en CCSS?",
+      "options": [
+        "Quizizz",
+        "Kahoot",
+        "Educaplay",
+        "Google Arts & Culture"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Google Arts & Culture se menciona para explorar arte, historia y cultura, no para actividades interactivas. Las herramientas para actividades interactivas son Quizizz, Kahoot, Educaplay y Genially."
+    },
+    {
+      "question": "El 'conocimiento de personajes' como dimensión de temporalidad se refiere a:",
+      "options": [
+        "Memorizar los nombres de los personajes históricos más relevantes",
+        "Conocer a los protagonistas de la historia",
+        "Analizar críticamente el papel de las mujeres en la historia",
+        "Estudiar exclusivamente los personajes históricos de Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El 'conocimiento de personajes' como dimensión de temporalidad se refiere al conocimiento de los protagonistas de la historia. Es una de las ocho dimensiones para la construcción de la temporalidad mencionadas en el tema."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos curriculares se menciona en el primer ciclo como parte del tiempo histórico?",
+      "options": [
+        "Fuentes históricas orales, escritas y materiales",
+        "Prehistoria y Edad Antigua con sus expresiones artísticas",
+        "Conceptos temporales básicos: antes, después, durante, presente, pasado y futuro",
+        "Edad Media con el Románico y el Gótico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los conceptos temporales básicos (antes, después, durante, presente, pasado, futuro) son contenidos del primer ciclo, junto a las medidas del tiempo, la historia personal y la historia local. Las fuentes históricas y la Prehistoria corresponden al segundo ciclo."
+    },
+    {
+      "question": "Según el tema, la intervención educativa en el tiempo histórico debe basarse en principios de:",
+      "options": [
+        "Excelencia académica y rendimiento individual",
+        "Normalización e inclusión, atendiendo a la diversidad",
+        "Uniformidad curricular para todos los centros de Galicia",
+        "Competitividad y evaluación continua del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La intervención educativa en el tiempo histórico debe basarse en principios de normalización e inclusión y atender a la diversidad, regulada por el Decreto 229/2011 y la Orden del 8 de septiembre de 2021."
+    },
+    {
+      "question": "¿Con qué área curricular se vincula el tiempo histórico a través del análisis de expresiones culturales como la música y la danza?",
+      "options": [
+        "Educación Física",
+        "Lengua Gallega y Literatura",
+        "Educación en Valores Cívicos y Éticos",
+        "Música y Danza"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El tiempo histórico se vincula con Música y Danza en el análisis de las expresiones culturales de cada época. Con Educación Plástica y Visual se vincula en el análisis de obras de arte, y con EF en la integración de juegos tradicionales del pasado."
+    },
+    {
+      "question": "Según el tema, ¿cuál de las siguientes afirmaciones sobre la 'historia personal' como contenido es correcta?",
+      "options": [
+        "La historia personal se trabaja en todos los ciclos de EP con diferente complejidad",
+        "La historia personal como líneas de vida, biografía y árbol genealógico se trabaja en el primer ciclo",
+        "La historia personal se introduce en el segundo ciclo a través de las entrevistas a personas mayores",
+        "La historia personal no está incluida en el currículo del Decreto 155/2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La historia personal (líneas de vida, biografía y árbol genealógico) es un contenido del primer ciclo de EP. La actividad 'Entrevistamos a un mayor' del segundo ciclo trabaja testimonios orales sobre el pasado, no directamente la historia personal del alumnado."
+    },
+    {
+      "question": "¿Cuál de los siguientes aspectos caracteriza la vinculación del tiempo histórico con el área de Educación en Valores Cívicos y Éticos?",
+      "options": [
+        "El cálculo de duraciones y escalas en líneas del tiempo",
+        "La comprensión de procesos temporales evolutivos de los seres vivos",
+        "La comprensión y valoración del patrimonio cultural",
+        "La adquisición de vocabulario temporal y comprensión de textos históricos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La vinculación con Educación en Valores Cívicos y Éticos se produce al comprender y valorar el patrimonio cultural. Con Matemáticas se trabaja el cálculo de duraciones, con CCNN los procesos evolutivos, y con LCL el vocabulario temporal."
+    },
+    {
+      "question": "El programa 'Educación patrimonial' mencionado en el tema pertenece a:",
+      "options": [
+        "Los objetivos de etapa del Decreto 155/2022",
+        "El Plan Proxecta+ de la Consellería de Educación",
+        "Las líneas de actuación para el área de CCSS",
+        "Los criterios de evaluación del tercer ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Educación patrimonial' es uno de los proyectos del Plan Proxecta+ impulsado por la Consellería de Educación, Ciencia, Universidades y Formación Profesional, junto a 'Proxecto didáctico Antonio Fraguas' y 'Vexo Veo Xacobeo'."
+    },
+    {
+      "question": "Según el tema, los conceptos 'cambio, ritmo, duración, periodicidad y causalidad' son:",
+      "options": [
+        "Las perspectivas historiográficas principales del análisis histórico",
+        "Las dimensiones de la temporalidad establecidas en el Decreto 155/2022",
+        "Conceptos ligados al tiempo histórico que requieren comprensión",
+        "Los rasgos fundamentales de la historia como disciplina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cambio, ritmo, duración, periodicidad y causalidad son conceptos ligados al tiempo histórico que requieren comprensión, según las características del tiempo histórico descritas en el tema. Son parte del lenguaje temporal específico del tiempo histórico."
+    },
+    {
+      "question": "La Prehistoria y la Edad Antigua se estudian en el Decreto 155/2022 junto a:",
+      "options": [
+        "El Camino de Santiago, el Románico y el Gótico",
+        "Las fuentes históricas, la iniciación a la investigación y los descubrimientos e inventos",
+        "Las medidas del tiempo, la historia personal y local",
+        "La Edad Contemporánea y las expresiones artísticas de Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo, la Prehistoria y la Edad Antigua se estudian junto a las fuentes históricas, la iniciación a la investigación, el trabajo por proyectos, los descubrimientos e inventos y las mujeres y hombres como protagonistas en la historia."
+    },
+    {
+      "question": "¿Cuál de los siguientes autores pertenece exclusivamente a la bibliografía formal del Tema 8?",
+      "options": [
+        "Piaget (1978)",
+        "Braudel (1958)",
+        "Alonso, S. (2010)",
+        "Asensio, Pozo y Carretero (1989)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alonso, S. (2010) aparece en la bibliografía formal del tema (Didáctica de las Ciencias Sociales para la Educación Primaria). Piaget, Braudel y Asensio, Pozo y Carretero se citan en el cuerpo del texto pero no en la bibliografía formal."
+    },
+    {
+      "question": "Según las conclusiones del tema, el aprendizaje del tiempo histórico debe fomentar la:",
+      "options": [
+        "Memorización de datos históricos y fechas clave",
+        "Iniciativa, el espíritu emprendedor y la competencia de aprender a aprender",
+        "Especialización temprana en el área de CCSS",
+        "Dependencia del docente como única fuente de conocimiento histórico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según las conclusiones del tema, el aprendizaje del tiempo histórico debe fomentar la iniciativa, el espíritu emprendedor y la competencia de aprender a aprender, junto a la reflexión crítica y la formación ciudadana."
+    },
+    {
+      "question": "La Orden de 26 de mayo de 2023 desarrolla:",
+      "options": [
+        "El Decreto 229/2011 sobre atención a la diversidad en Galicia",
+        "La LOMLOE en el ámbito de la Comunidad Autónoma de Galicia",
+        "El Decreto 155/2022 sobre el currículo de EP en Galicia y regula la evaluación",
+        "Los programas educativos del Plan Proxecta+ de la Consellería"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación y el currículo de la educación primaria en Galicia, y regula la evaluación en esa etapa educativa."
+    },
+    {
+      "question": "La función 'relacional' de las fuentes históricas en el proceso educativo consiste en:",
+      "options": [
+        "Promover la curiosidad por el pasado y la comprensión de la diversidad de testimonios",
+        "Potenciar habilidades de análisis, reflexión y el espíritu crítico",
+        "Ayudar a situar los hechos en su tiempo y lugar concreto",
+        "Establecer conexiones entre diferentes hechos, sujetos y épocas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La función relacional de las fuentes históricas establece conexiones entre diferentes hechos, sujetos y épocas. La motivadora promueve la curiosidad, la investigadora potencia el análisis crítico, y la contextualizadora sitúa los hechos en su contexto."
+    },
+    {
+      "question": "¿Con qué áreas lingüísticas se vincula el tiempo histórico a través de la adquisición de vocabulario temporal y la comprensión de textos históricos?",
+      "options": [
+        "Solo con la Lengua Castellana y Literatura (LCL)",
+        "Con LCL, LGL y LE (Lengua Extranjera)",
+        "Solo con la Lengua Gallega y Literatura (LGL)",
+        "Con LCL y LGL exclusivamente, no con LE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tiempo histórico se vincula con las áreas lingüísticas LCL (Lengua Castellana y Literatura), LGL (Lengua Gallega y Literatura) y LE (Lengua Extranjera) en la adquisición de vocabulario temporal y la comprensión de textos históricos."
+    },
+    {
+      "question": "Según el tema, ¿cuál es el «objetivo» del uso de las fuentes históricas en el proceso educativo?",
+      "options": [
+        "Memorizar los hechos históricos más relevantes de cada etapa",
+        "Acercar al alumnado al conocimiento del pasado mediante el análisis crítico de diferentes fuentes",
+        "Clasificar las fuentes en primarias y secundarias para su correcto uso académico",
+        "Desarrollar exclusivamente la competencia digital del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo del uso de las fuentes históricas en educación es acercar al alumnado al conocimiento del pasado mediante el análisis crítico de diferentes fuentes históricas que permiten reconstruir la historia."
+    },
+    {
+      "question": "El Renacimiento y el Barroco se estudian en EP dentro de los contenidos de:",
+      "options": [
+        "El primer ciclo, como manifestaciones artísticas de la historia local",
+        "El segundo ciclo, como expresiones artísticas de la Prehistoria",
+        "El tercer ciclo, dentro del estudio de la Edad Moderna",
+        "Los tres ciclos, con diferente profundidad en cada uno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Renacimiento y el Barroco son contenidos del tercer ciclo, incluidos en el estudio de la Edad Moderna. En este ciclo también se trabajan la Edad Media (Románico, Gótico, Camino de Santiago) y la Edad Contemporánea."
+    }
+  ]
+}

@@ -1,0 +1,1966 @@
+{
+  "title": "Tema 18. Desarrollo y características del proceso lector en la Educación Primaria",
+  "description": "Preguntas de nivel avanzado sobre el proceso lector en EP, estrategias de comprensión lectora y planes de fomento de la lectura en Galicia.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿En qué artículo de la LOMLOE se establece que la comprensión lectora debe trabajarse de forma transversal en todas las áreas?",
+      "options": [
+        "Artículo 19",
+        "Artículo 16",
+        "Artículo 113",
+        "Artículo 71"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19 de la LOMLOE señala que la comprensión lectora, la expresión oral y escrita y la comunicación audiovisual deben trabajarse de forma transversal en todas las áreas. El artículo 16 corresponde a principios pedagógicos del Decreto 155/2022, el 113 a las bibliotecas escolares, y el 71 al alumnado NEAE."
+    },
+    {
+      "question": "Según el Decreto 155/2022, ¿en qué artículo se establece como finalidad de la EP el facilitar al alumnado los aprendizajes de la lectura y la escritura?",
+      "options": [
+        "Artículo 4",
+        "Artículo 7",
+        "Artículo 16",
+        "Artículo 33"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 del Decreto 155/2022 recoge como finalidad de la EP facilitar al alumnado los aprendizajes de la expresión y comprensión oral, la lectura y la escritura para garantizar una formación integral. El artículo 7 establece los objetivos de etapa, el 16 los principios pedagógicos, y el 33 los planes obligatorios relacionados con la lectura."
+    },
+    {
+      "question": "El objetivo de etapa 'e' del Decreto 155/2022 que hace referencia al desarrollo de hábitos de lectura se encuentra en el artículo:",
+      "options": [
+        "Artículo 7",
+        "Artículo 4",
+        "Artículo 16",
+        "Artículo 6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 7 del Decreto 155/2022 establece como objetivo de etapa 'e' conocer y utilizar de manera apropiada la Lengua gallega y la Lengua Castellana y desarrollar hábitos de lectura. El artículo 4 recoge la finalidad, el 16 los principios pedagógicos y el 6 las orientaciones pedagógicas."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se establece que cada centro debe incorporar un tiempo diario de lectura y práctica de la oratoria?",
+      "options": [
+        "Artículo 16",
+        "Artículo 7",
+        "Artículo 33",
+        "Artículo 4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 del Decreto 155/2022, dedicado a los principios pedagógicos, señala que para fomentar el hábito y el dominio de la lectura cada centro docente debe incorporar un tiempo diario de lectura y práctica de la oratoria. El artículo 33 establece los planes obligatorios, no el tiempo diario de lectura."
+    },
+    {
+      "question": "¿A qué bloque temático vinculan las áreas de LCL y LGL la organización de la lectura en la Educación Primaria?",
+      "options": [
+        "Bloque 3 'Comunicación Escrita'",
+        "Bloque 1 'Comunicación Oral'",
+        "Bloque 2 'Conocimiento de la Lengua'",
+        "Bloque 4 'Educación Literaria'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las áreas de LCL y LGL organizan la lectura en torno al Bloque 3 'Comunicación Escrita'. Los otros bloques mencionados también existen en la estructura curricular, pero la lectura como comunicación escrita se organiza específicamente en ese bloque."
+    },
+    {
+      "question": "El descriptor operativo de la CCL relacionado con la lectura recogido en el Anexo I del Decreto 155/2022 es el:",
+      "options": [
+        "Segundo descriptor",
+        "Primer descriptor",
+        "Tercer descriptor",
+        "Cuarto descriptor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El segundo descriptor operativo de la CCL en el Anexo I del Decreto 155/2022 establece que el alumno comprende, interpreta y valora textos orales, escritos, signados o multimodales para participar activamente en contextos cotidianos y para construir conocimiento."
+    },
+    {
+      "question": "El objetivo de área OBJ4 del Anexo II del Decreto 155/2022 relacionado con la lectura hace referencia a:",
+      "options": [
+        "Comprender textos escritos y multimodales, identificando el sentido general y la información implícita",
+        "Desarrollar hábitos de lectura y el gusto por la literatura",
+        "Leer en voz alta con entonación y fluidez adecuadas",
+        "Utilizar la biblioteca escolar como recurso de aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo OBJ4 del Anexo II del Decreto 155/2022 establece comprender textos escritos y multimodales, identificando el sentido general y la información implícita, reflexionando sobre aspectos formales y de contenido, para construir conocimiento y responder a necesidades comunicativas."
+    },
+    {
+      "question": "Según el Real Decreto 157/2022, ¿qué habilidad debe desarrollarse en el tercer ciclo de la Educación Primaria en relación con la lectura?",
+      "options": [
+        "Autonomía para interpretar significados profundos como el doble sentido o la ironía",
+        "Motivación y acceso a la información explícita",
+        "Realización de inferencias directas y análisis de elementos no textuales",
+        "Dominio de la ruta fonológica y los procesos decodificadores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022 establece que el tercer ciclo debe culminar con la autonomía para interpretar significados profundos como el doble sentido o la ironía. El primer ciclo se centra en motivación e información explícita, y el segundo ciclo avanza hacia inferencias directas y análisis de elementos no textuales."
+    },
+    {
+      "question": "¿Qué define Prado (2004) y Teresa Neira como lectura?",
+      "options": [
+        "Un proceso activo con el cual reproducimos, a través de palabras, la forma y contenido de un mensaje escrito con signos gráficos",
+        "Un proceso cognitivo que implica la activación de conocimientos previos para interpretar y comprender la información",
+        "La capacidad de traducir símbolos en palabras y frases con significado",
+        "Un proceso interactivo entre el lector y el texto que reconstruye significados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prado (2004) y Teresa Neira definen la lectura como un proceso activo con el cual reproducimos a través de palabras la forma y contenido de un mensaje escrito con signos gráficos. Colomer y Camps (1990) destacan el proceso cognitivo y la activación de conocimientos previos."
+    },
+    {
+      "question": "Según Colomer y Camps (1990), ¿cuántos elementos principales implica el acto de leer?",
+      "options": [
+        "Activación de conocimientos previos, mantener atención y motivación, y generar preguntas sobre lo leído",
+        "Decodificación, comprensión y evaluación crítica",
+        "Percepción, procesamiento léxico y comprensión semántica",
+        "Traducción de símbolos, retención en memoria y recuperación del significado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Colomer y Camps (1990) concretan que el acto de leer requiere de un proceso cognitivo que implica: la activación de los conocimientos previos para interpretar y comprender la información, mantener la atención y la motivación, y generar preguntas sobre lo que se está leyendo."
+    },
+    {
+      "question": "La célebre frase de Cassany et al. (1994) 'leer es comprender un texto' se acompaña de tres principios: 'aprender a leer', 'leer para aprender' y:",
+      "options": [
+        "Aprender a aprender con la lectura",
+        "Leer para disfrutar",
+        "Comprender para aprender",
+        "Leer para comunicar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany et al. (1994) formulan que hay que 'aprender a leer, leer para aprender y aprender a aprender con la lectura'. Estos tres principios reflejan la progresión del lector desde la adquisición básica hasta el uso autónomo de la lectura como herramienta metacognitiva."
+    },
+    {
+      "question": "¿En qué rango de edad sitúa Frith (1985) la fase logográfica del proceso lector?",
+      "options": [
+        "Entre 2 y 5 años",
+        "Entre 5 y 6 años",
+        "Entre 6 y 7 años",
+        "Entre 7 y 8 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Frith (1985) sitúa la fase logográfica entre los 2 y 5 años, cuando el niño se interesa por el mundo escrito y reconoce globalmente palabras familiares como su propio nombre, logotipos o nombres de personajes conocidos. La fase alfabética comienza sobre los 5-6 años y la ortográfica sobre los 7-8 años."
+    },
+    {
+      "question": "¿Qué caracteriza específicamente la fase alfabética según Frith (1985)?",
+      "options": [
+        "El niño desarrolla la ruta fonológica y domina los procesos decodificadores, aunque pueden aparecer dificultades de automatización",
+        "El niño reconoce globalmente palabras familiares como su propio nombre",
+        "Los procesos decodificadores están automatizados y se logra una lectura fluida",
+        "El niño consolida un léxico interno al leer los vocablos repetidamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La fase alfabética, sobre los 5-6 años, se caracteriza porque el niño desarrolla la ruta fonológica y domina los procesos decodificadores mejorando la eficacia lectora. Sin embargo, pueden aparecer dificultades de automatización ocasionando lectura lenta, silabeante, con errores de exactitud y problemas de comprensión."
+    },
+    {
+      "question": "¿Cuándo se inicia típicamente la fase ortográfica según Frith (1985) y qué implica?",
+      "options": [
+        "Sobre los 7-8 años, cuando los procesos decodificadores están automatizados y se consolida un léxico interno",
+        "Sobre los 5-6 años, cuando el niño desarrolla la ruta fonológica",
+        "Entre los 2-5 años, cuando se reconocen palabras globalmente",
+        "Sobre los 9-10 años, cuando se alcanza la lectura crítica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La fase ortográfica comienza sobre los 7-8 años. En ella los procesos decodificadores están automatizados, se reconocen palabras con mayor rapidez y se logra una lectura fluida, consolidándose un léxico interno al leer los vocablos repetidamente."
+    },
+    {
+      "question": "Cuetos (2008) identifica cuatro procesos fundamentales en la lectura. ¿Cuál es el punto de partida?",
+      "options": [
+        "Los procesos perceptivos",
+        "El procesamiento léxico",
+        "El procesamiento sintáctico",
+        "El procesamiento semántico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cuetos (2008) señala que los procesos perceptivos constituyen el punto de partida, con la recogida y análisis del mensaje a través de los sentidos. Los mecanismos perceptivos extraen la información gráfica y la almacenan en la memoria icónica. A continuación viene el procesamiento léxico, luego el sintáctico y finalmente el semántico."
+    },
+    {
+      "question": "¿En qué tipo de memoria se almacena brevemente la información gráfica antes de ser analizada en los procesos perceptivos?",
+      "options": [
+        "Memoria icónica",
+        "Memoria de trabajo",
+        "Memoria auditiva",
+        "Memoria de largo plazo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los mecanismos perceptivos extraen la información gráfica y la almacenan brevemente en la memoria icónica, para que después la información más relevante pase a la memoria de trabajo para su análisis. La memoria de trabajo es la que permite retener el inicio de una oración hasta el final."
+    },
+    {
+      "question": "¿Cuáles son las dos vías del procesamiento léxico en la lectura según Cuetos (2008)?",
+      "options": [
+        "La ruta visual o léxica y la ruta fonológica",
+        "La ruta semántica y la ruta sintáctica",
+        "La ruta directa y la ruta indirecta",
+        "La ruta gráfica y la ruta auditiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El procesamiento léxico permite identificar las letras y combinarlas para formar palabras con significado a través de dos vías complementarias: la ruta visual o léxica, que funciona mediante el reconocimiento directo de palabras conocidas, y la ruta fonológica, imprescindible para leer palabras desconocidas o pseudopalabras."
+    },
+    {
+      "question": "En la ruta visual o léxica, ¿qué pasos se activan adicionalmente cuando se quiere leer en voz alta?",
+      "options": [
+        "El almacén léxico fonológico y el almacén de pronunciación",
+        "El análisis grafémico y la asignación de fonemas",
+        "El léxico auditivo y el mecanismo de conversión grafema-fonema",
+        "El sistema semántico y la memoria icónica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la ruta visual, para la lectura silenciosa se activan el análisis visual, el léxico visual y el sistema semántico. Para leer en voz alta se activan adicionalmente el almacén léxico fonológico y el almacén de pronunciación."
+    },
+    {
+      "question": "¿Para qué tipo de palabras es imprescindible la ruta fonológica según el modelo de Cuetos?",
+      "options": [
+        "Palabras desconocidas o pseudopalabras",
+        "Palabras familiares y frecuentes",
+        "Palabras largas con más de tres sílabas",
+        "Palabras con irregularidades ortográficas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La ruta fonológica es imprescindible para leer palabras desconocidas o pseudopalabras. Mediante esta vía se identifican las letras, se aplica el mecanismo de conversión grafema-fonema y se pasa al léxico auditivo. La ruta visual o léxica funciona mejor para palabras conocidas y frecuentes."
+    },
+    {
+      "question": "¿Cuáles son las tres claves presentes en la oración para el procesamiento sintáctico según el modelo de Cuetos?",
+      "options": [
+        "Orden de palabras y signos de puntuación, palabras funcionales, y significado de las palabras en contexto",
+        "Ritmo, entonación y pausas en la lectura oral",
+        "Estructura morfológica, categoría gramatical y función sintáctica",
+        "Cohesión léxica, coherencia textual y progresión temática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El procesamiento sintáctico utiliza como claves: el orden de las palabras y los signos de puntuación; el uso de palabras funcionales como artículos, conjunciones y preposiciones; y el significado de las palabras en el contexto. Estas claves permiten extraer el mensaje adecuado de la oración."
+    },
+    {
+      "question": "¿En qué proceso culmina el acto lector según Cuetos (2008) y en qué consiste?",
+      "options": [
+        "El procesamiento semántico, donde el lector extrae el mensaje global e integra con sus conocimientos previos",
+        "El procesamiento sintáctico, donde se comprenden las relaciones entre palabras",
+        "El procesamiento léxico, donde se identifican las palabras y su significado",
+        "Los procesos perceptivos, donde se analiza la información visual del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso lector culmina con el procesamiento semántico, donde el lector extrae el mensaje global de la oración y lo integra con sus conocimientos previos con el fin de comprender la información. Este es el último de los cuatro procesos identificados por Cuetos (2008)."
+    },
+    {
+      "question": "Según Smith (1990), ¿qué factor influye especialmente en la velocidad de la lectura?",
+      "options": [
+        "La familiaridad del lector con el tema del texto",
+        "La longitud de las oraciones del texto",
+        "La tipografía y el formato de presentación del texto",
+        "El nivel de dificultad del vocabulario empleado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Smith (1990) destaca que la velocidad en la lectura será mayor si el lector está familiarizado con el tema. Esto se relaciona con los conocimientos previos del lector como característica que afecta al proceso de comprensión lectora."
+    },
+    {
+      "question": "¿Cómo se define la lectura atendiendo a su naturaleza constructiva e inferencial?",
+      "options": [
+        "El lector reconstruye el significado global del texto a partir de sus conocimientos y experiencias previas",
+        "El lector decodifica mecánicamente los signos gráficos para obtener información literal",
+        "El lector identifica las palabras clave del texto y las relaciona entre sí",
+        "El lector sigue la secuencia lógica del texto para comprenderlo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La lectura es un proceso constructivo e inferencial en el que el lector reconstruye el significado global del texto a partir de sus conocimientos y experiencias previas. No es una mera decodificación mecánica, sino una construcción activa de significado."
+    },
+    {
+      "question": "¿En cuántos tipos se clasifican las DEA de la lectura en función de los errores principales que manifiestan?",
+      "options": [
+        "Cuatro tipos: de superficie, fonológicas, mixtas y de comprensión lectora",
+        "Tres tipos: fonológicas, visuales y mixtas",
+        "Dos tipos: de reconocimiento y de comprensión",
+        "Cinco tipos: visual, auditiva, mixta, comprensiva y expresiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las DEA de la lectura se clasifican en cuatro tipos: las 'de superficie' o dislexias (errores de percepción y discriminación viso-espacial), las fonológicas (errores lingüísticos), las mixtas (combinan errores de ambos tipos) y las de comprensión lectora (afectan específicamente a la comprensión)."
+    },
+    {
+      "question": "¿Qué tipo de errores caracterizan las DEA de la lectura denominadas 'de superficie' o dislexias?",
+      "options": [
+        "Errores de percepción y discriminación viso-espacial",
+        "Errores lingüísticos en la conversión grafema-fonema",
+        "Errores de comprensión del significado del texto",
+        "Errores combinados de tipo visual y fonológico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las DEA 'de superficie' o dislexias se caracterizan por errores de percepción y discriminación viso-espacial. Las fonológicas presentan errores lingüísticos, las mixtas combinan errores de ambos tipos, y las de comprensión lectora afectan específicamente a la comprensión."
+    },
+    {
+      "question": "Según la normativa, ¿quién lleva a cabo la evaluación inicial para la detección temprana de dificultades lectoras?",
+      "options": [
+        "El tutor, mediante la observación en el aula",
+        "El especialista en PT o AL",
+        "La jefatura de estudios",
+        "El Departamento de Orientación (DO)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es el tutor quien realiza la detección temprana mediante la observación en el aula y el desarrollo de la evaluación inicial. Tras ello, deriva el caso al DO para que la jefatura elabore la evaluación psicopedagógica, cuyos resultados se recogen en el informe psicopedagógico."
+    },
+    {
+      "question": "¿Qué documento elabora la jefatura de estudios tras la derivación al DO de un caso de posible DEA lectora?",
+      "options": [
+        "La evaluación psicopedagógica, con conclusiones en el informe psicopedagógico",
+        "El plan de intervención individualizado",
+        "La adaptación curricular significativa",
+        "El dictamen de escolarización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tras la derivación al DO, la jefatura elabora la evaluación psicopedagógica y recoge las conclusiones en el informe psicopedagógico. Este proceso sigue lo establecido en la Orden del 8 de septiembre de 2021."
+    },
+    {
+      "question": "¿En qué artículo de la LOMLOE se incluye al alumnado con trastornos de atención o de aprendizaje como NEAE?",
+      "options": [
+        "Artículo 71",
+        "Artículo 19",
+        "Artículo 113",
+        "Artículo 2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 71 de la LOMLOE incluye como alumnado con necesidades específicas de apoyo educativo (NEAE) a los que presentan trastornos de atención o de aprendizaje, pudiendo englobarse en ellos las Dificultades Específicas de Aprendizaje (DEA) en la lectura, la escritura o el cálculo."
+    },
+    {
+      "question": "¿Qué déficit en la fase de comprensión lectora está relacionado con la escaseza de vocabulario o la sintaxis pobre?",
+      "options": [
+        "Déficit en el lenguaje hablado",
+        "Déficit metacognitivo y de autorregulación",
+        "Déficit en la coordinación ejecutiva de activación",
+        "Déficit en la elaboración de estrategias lectoras espontáneas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas en la fase de comprensión incluyen déficits en el lenguaje hablado, manifestados con escaseza de vocabulario o sintaxis pobre. Los déficits metacognitivos afectan a la autorregulación, los de coordinación ejecutiva a la activación en la memoria de largo plazo."
+    },
+    {
+      "question": "Palincsar y Brown (1984) señalan tres condiciones para la comprensión lectora desde una perspectiva constructivista. ¿Cuáles son?",
+      "options": [
+        "Claridad y coherencia del texto, conocimiento previo del lector, y uso de estrategias lectoras",
+        "Motivación, atención sostenida y velocidad lectora",
+        "Decodificación, vocabulario y fluidez lectora",
+        "Objetivos de lectura, activación previa y síntesis posterior"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Palincsar y Brown (1984) destacan que la comprensión es producto de: la claridad y coherencia del contenido del texto; el conocimiento previo del lector que permita atribuir significado al texto; y el uso de estrategias lectoras para mejorar la comprensión, corregir errores y recordar lo leído."
+    },
+    {
+      "question": "¿Cómo organiza Solé (1992) las estrategias de lectura?",
+      "options": [
+        "En tres momentos: antes de la lectura, durante y después",
+        "En dos fases: reconocimiento y comprensión",
+        "En cuatro etapas: prelectura, lectura, poslectura y evaluación",
+        "En función de los tipos de texto: narrativo, expositivo y argumentativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Solé (1992) organiza las estrategias en tres momentos de la lectura: previas a la lectura, durante y después. Esto pone el énfasis en la importancia de que el docente enfoque la enseñanza de la lectura en todas sus fases, no solo en el acto lector en sí."
+    },
+    {
+      "question": "¿Cuál es el fin principal de las estrategias antes de la lectura según Solé (1992)?",
+      "options": [
+        "Activar los conocimientos previos e identificar los objetivos",
+        "Corregir los errores de comprensión durante el proceso lector",
+        "Resumir y recapitular el contenido para asegurar la comprensión",
+        "Formular inferencias y comprobar la propia comprensión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias antes de la lectura tienen como fin activar los conocimientos previos e identificar los objetivos. Entre ellas se incluyen: motivar hacia la lectura, establecer los objetivos, actualizar conocimientos previos, establecer predicciones y generar preguntas previas."
+    },
+    {
+      "question": "¿Qué estrategia previa a la lectura permite que los alumnos identifiquen lo que saben y lo que necesitan aprender?",
+      "options": [
+        "Generar preguntas previas",
+        "Establecer predicciones sobre el texto",
+        "Actualizar los conocimientos previos",
+        "Motivar hacia la lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Generar preguntas antes de la lectura ayuda a que los alumnos identifiquen lo que saben y lo que necesitan aprender o repasar sobre el tema. El establecimiento de predicciones se basa en ilustraciones y títulos, y la actualización de conocimientos previos parte de información general del texto."
+    },
+    {
+      "question": "Durante la lectura compartida, ¿qué tipos de actividades se realizan según las estrategias de lectura?",
+      "options": [
+        "Formular predicciones, plantear preguntas, aclarar dudas y resumir ideas del texto",
+        "Identificar la idea principal, elaborar resúmenes y responder preguntas literales",
+        "Leer en voz alta, recitar y memorizar fragmentos del texto",
+        "Analizar la estructura, evaluar el contenido y establecer juicios críticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Durante la lectura compartida se realizan actividades como formular predicciones, plantear preguntas, aclarar dudas y resumir las ideas del texto. En la lectura independiente, es el alumno quien impone su ritmo, y el docente proporciona materiales con preguntas intercaladas o textos con errores."
+    },
+    {
+      "question": "¿Qué diferencia fundamentalmente la lectura compartida de la lectura independiente?",
+      "options": [
+        "En la lectura compartida el docente guía con actividades; en la independiente el alumno impone su ritmo",
+        "La lectura compartida es oral y la independiente es silenciosa",
+        "La lectura compartida usa textos literarios y la independiente usa textos informativos",
+        "La lectura compartida es grupal y la independiente es estrictamente individual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la lectura compartida el docente guía actividades como formular predicciones y aclarar dudas, mientras que en la lectura independiente es el alumno quien impone su ritmo y trata el texto para sus fines. El docente proporciona materiales preparados para apoyar la lectura independiente."
+    },
+    {
+      "question": "¿Qué estrategia después de la lectura consiste en encontrar el tema principal, desechar información repetitiva y agrupar ideas?",
+      "options": [
+        "Elaboración de resúmenes",
+        "Identificación de la idea principal",
+        "Formulación y respuesta de preguntas",
+        "Establecimiento de inferencias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La elaboración de resúmenes implica identificar las ideas principales, desechar la información trivial y repetitiva, agrupar ideas y elaborar una frase-resumen. La identificación de la idea principal es un paso diferente que consiste en señalar el tema central del texto."
+    },
+    {
+      "question": "¿Qué tipos de preguntas se deben formular tras la lectura según las estrategias de comprensión?",
+      "options": [
+        "Preguntas de lectura literal, de búsqueda en el texto y de elaboración personal",
+        "Preguntas cerradas, abiertas y de opción múltiple",
+        "Preguntas de memorización, de comprensión y de aplicación",
+        "Preguntas sobre vocabulario, estructura y contenido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tras la lectura se deben formular preguntas vinculadas con los objetivos: preguntas de lectura literal (información explícita), de búsqueda en el texto (requieren localizar información) y de elaboración personal (requieren conocimiento y opinión del lector)."
+    },
+    {
+      "question": "¿Qué establece el artículo 2.2 de la LOMLOE respecto a la lectura y las bibliotecas escolares?",
+      "options": [
+        "Recoge el fomento de la lectura y el uso de las bibliotecas como factores que favorecen la calidad de la enseñanza",
+        "Obliga a todos los centros a disponer de una biblioteca escolar",
+        "Establece el tiempo mínimo diario de lectura en la Educación Primaria",
+        "Define los planes de lectura como documentos obligatorios del PE"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 2.2 de la LOMLOE recoge el fomento de la lectura y el uso de las bibliotecas como dos de los factores que favorecen la calidad de la enseñanza. El artículo 113 de la misma ley indica que todos los centros públicos deben disponer de una biblioteca escolar."
+    },
+    {
+      "question": "¿En qué artículo de la LOMLOE se establece que todos los centros públicos deben disponer de una biblioteca escolar?",
+      "options": [
+        "Artículo 113",
+        "Artículo 2.2",
+        "Artículo 71",
+        "Artículo 19"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 113 de la LOMLOE indica que todos los centros públicos deben disponer de una biblioteca escolar que contribuya al fomento de la lectura, al acceso a la información y a otros recursos para el aprendizaje, funcionando como espacio abierto a la comunidad educativa."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se establecen los dos planes obligatorios relacionados con la lectura?",
+      "options": [
+        "Artículo 33",
+        "Artículo 16",
+        "Artículo 7",
+        "Artículo 4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 33 del Decreto 155/2022 establece dos planes obligatorios relacionados con la lectura que deben integrarse en el Proyecto Educativo y sus concreciones anuales en la PGA: el Plan de Biblioteca y el Plan de Lectura (ahora denominado PLEA)."
+    },
+    {
+      "question": "¿Cuál es la denominación completa del PLEA según la Resolución del 16 de octubre de 2025?",
+      "options": [
+        "Plan de Lectura, Escritura y Acceso a la Información",
+        "Plan de Lectura, Escritura y Aprendizaje",
+        "Plan de Lectura, Evaluación y Alfabetización",
+        "Plan de Lectura, Expresión y Autonomía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PLEA son las siglas de Plan de Lectura, Escritura y Acceso a la Información. Se define como el documento de centro que integra todas las intervenciones destinadas al fomento de la lectura, escritura, y de las habilidades en el uso y tratamiento de la información, así como la comunicación del conocimiento como apoyo a la adquisición de las CC."
+    },
+    {
+      "question": "¿Cuántos objetivos tiene el PLEA según la Resolución del 16 de octubre de 2025?",
+      "options": [
+        "Ocho objetivos",
+        "Cinco objetivos",
+        "Seis objetivos",
+        "Siete objetivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PLEA tiene ocho objetivos: mejorar la competencia lectora y fomentar la lectura crítica; sistematizar la práctica lectora diaria; mejorar la producción de textos escritos; favorecer las alfabetizaciones múltiples; implementar la competencia lectora desde todas las áreas; consolidar las bibliotecas escolares; implicar a la comunidad educativa; y promover herramientas de diagnóstico."
+    },
+    {
+      "question": "¿Cuál es uno de los objetivos del PLEA relacionado con las alfabetizaciones múltiples?",
+      "options": [
+        "Favorecer las alfabetizaciones múltiples (visual, informacional y mediática) y fomentar el uso crítico de la información",
+        "Desarrollar la competencia digital en el uso de plataformas educativas",
+        "Mejorar la expresión oral y escrita en lengua extranjera",
+        "Fomentar el uso de recursos audiovisuales en el aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Uno de los ocho objetivos del PLEA es favorecer las alfabetizaciones múltiples (visual, informacional y mediática) y fomentar el uso crítico de la información. Esto va más allá de la lectura convencional para incluir la competencia informacional y mediática."
+    },
+    {
+      "question": "¿Cuántos minutos diarios de lectura recomienda el Plan de Biblioteca según la Resolución del 1 de septiembre de 2025?",
+      "options": [
+        "Entre 20 y 30 minutos diarios",
+        "Entre 15 y 20 minutos diarios",
+        "Entre 30 y 45 minutos diarios",
+        "Entre 10 y 15 minutos diarios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Resolución del 1 de septiembre de 2025 establece que la biblioteca escolar debe ser facilitadora del tiempo diario de lectura que el PLEA demanda para cada centro escolar de entre 20-30 minutos diarios, recomendablemente a primera hora de la mañana o después del recreo."
+    },
+    {
+      "question": "¿Cuándo se recomienda realizar el tiempo diario de lectura según la Resolución del 1 de septiembre de 2025?",
+      "options": [
+        "A primera hora de la mañana o después del recreo",
+        "Al final de la jornada escolar",
+        "Durante el recreo o en el tiempo de tutoria",
+        "En el horario de biblioteca o de aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Resolución del 1 de septiembre de 2025 recomienda que el tiempo diario de lectura de entre 20-30 minutos se realice a primera hora de la mañana o después del recreo, momentos considerados más apropiados para la concentración lectora."
+    },
+    {
+      "question": "¿En qué año se inició el Plan de Lectura, Información y Aprendizaje (LIA) de la Xunta de Galicia?",
+      "options": [
+        "En 2010",
+        "En 2005",
+        "En 2015",
+        "En 2021"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA fue iniciado en el año 2010 con el fin de fortalecer la presencia y organización de las bibliotecas escolares como fuente de recursos y espacios inclusivos y formativos. Actualmente se encuentra en su tercera fase: Plan LIA 2021-2025."
+    },
+    {
+      "question": "¿En qué período se desarrolla la tercera fase del Plan LIA?",
+      "options": [
+        "2021-2025",
+        "2010-2015",
+        "2015-2020",
+        "2025-2030"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA cuenta con tres fases divididas por años, siendo la tercera fase el Plan LIA 2021-2025. La primera fase comenzó en 2010 y las subsiguientes cubrieron períodos de aproximadamente cinco años."
+    },
+    {
+      "question": "¿Cuántos 'puntos estelares' se identifican en el Plan LIA 2021-2025 para la consecución de sus objetivos?",
+      "options": [
+        "Siete puntos estelares",
+        "Cinco puntos estelares",
+        "Ocho puntos estelares",
+        "Seis puntos estelares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA 2021-2025 identifica 7 puntos estelares: implementar la Red de Bibliotecas Escolares Gallegas (BEGA); reforzar una Biblioteca social; establecer Redes de Acción; avanzar en Bibliotecas Creativas; fomentar la Lectura; fomentar las competencias ALFIN/AMI; y contribuir a la Formación e Innovación Educativa."
+    },
+    {
+      "question": "¿Qué es la Red BEGA en el contexto del Plan LIA 2021-2025?",
+      "options": [
+        "La Red de Bibliotecas Escolares Gallegas",
+        "La Base de Evaluación de la Gestión de Aprendizaje",
+        "La Red de Bibliotecas de Educación en Galicia y Asturias",
+        "El Banco de Experiencias en Gestión de Aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "BEGA son las siglas de Red de Bibliotecas Escolares Gallegas, que es el primer punto estelar del Plan LIA 2021-2025. También existe BEGA E-LBE.2, una plataforma para el préstamo de libros electrónicos y recursos educativos."
+    },
+    {
+      "question": "¿Qué plataforma se utiliza en Galicia para la gestión de las bibliotecas escolares?",
+      "options": [
+        "KOHA-Bescolares",
+        "BEGA E-LBE.2",
+        "PLAMBE",
+        "Plan LIA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "KOHA-Bescolares es la plataforma de gestión de la biblioteca escolar en Galicia. BEGA E-LBE.2 es la plataforma para el préstamo de libros electrónicos y recursos educativos. PLAMBE es el Plan de Mejora de las Bibliotecas Escolares de Galicia."
+    },
+    {
+      "question": "¿Cómo se denomina el plan que promueve la actualización de recursos y espacios de las bibliotecas para el acceso igualitario a la cultura?",
+      "options": [
+        "Plan de Mejora de las Bibliotecas Escolares de Galicia (PLAMBE)",
+        "Plan de Lectura, Información y Aprendizaje (LIA)",
+        "Plan de Lectura, Escritura y Acceso a la Información (PLEA)",
+        "Red de Bibliotecas Escolares Gallegas (BEGA)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan de Mejora de las Bibliotecas Escolares de Galicia (PLAMBE) promueve la actualización de recursos y espacios de las bibliotecas para el acceso igualitario a la cultura, a la lectura, la escritura y la alfabetización múltiple. Se origina en el marco del Plan LIA."
+    },
+    {
+      "question": "¿Qué programas incluye el PLAMBE para el fomento de la lectura y la biblioteca escolar?",
+      "options": [
+        "Clubs de Lectura, Radio na Biblio, Biblioteca Creativa, Lectura e Familia y Bibliotecas Escolares Solidarias",
+        "Bibliotecas Creativas, BEGA E-LBE.2, KOHA-Bescolares y Plan ALFIN",
+        "Clubs de Lectura, Plan LIA, PLEA y Plan de Biblioteca",
+        "Radio na Biblio, Lectura e Familia, Plan LIA y KOHA-Bescolares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PLAMBE incluye programas como Clubs de Lectura, Radio na Biblio, Biblioteca Creativa, Lectura e Familia y Bibliotecas Escolares Solidarias. BEGA E-LBE.2 y KOHA-Bescolares son plataformas digitales, no programas del PLAMBE."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se definen las orientaciones pedagógicas?",
+      "options": [
+        "Artículo 6",
+        "Artículo 7",
+        "Artículo 16",
+        "Artículo 33"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las orientaciones pedagógicas como las indicaciones para orientar al profesorado en el diseño y planificación de las estrategias, procedimientos y acciones docentes para favorecer el aprendizaje del alumnado."
+    },
+    {
+      "question": "¿Cuáles son las tres formas de leer que el docente debe mostrar como parte del carácter funcional de la lectura?",
+      "options": [
+        "Leer para obtener información, leer para aprender y leer por placer",
+        "Leer en voz alta, leer en silencio y leer de forma compartida",
+        "Leer textos literarios, informativos y multimodales",
+        "Leer individual, en parejas y en grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El docente debe mostrar el carácter funcional de la lectura con tres estrategias: leer para obtener información, para aprender y por placer. Estas tres funciones de la lectura deben integrarse en las situaciones reales de uso que diseñe el maestro."
+    },
+    {
+      "question": "Según las orientaciones pedagógicas del Decreto 155/2022, ¿qué debe hacerse antes de la lectura en el aula?",
+      "options": [
+        "Presentar el objetivo y activar los conocimientos previos y la motivación",
+        "Enseñar a utilizar estrategias de comprensión",
+        "Incidir en el análisis del texto",
+        "Elaborar resúmenes e identificar las ideas principales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Antes de la lectura se debe presentar el objetivo y activar los conocimientos previos y la motivación de los discentes. Durante la lectura se enseñan estrategias de comprensión, y al final se incide en el análisis del texto."
+    },
+    {
+      "question": "¿Qué afirma la cita de Francesco Tonucci mencionada en la conclusión del tema?",
+      "options": [
+        "'Leer y escribir es el mejor regalo para tus hijos'",
+        "'Enseñar a leer y escribir es regalar las llaves para comprender el mundo'",
+        "'Un buen lector comienza a formarse cuando todavía no sabe leer'",
+        "'La lectura es el camino hacia el conocimiento y la libertad'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Francesco Tonucci, psicopedagogo y dibujante, afirma que 'leer y escribir es el mejor regalo para tus hijos'. La cita de Cassany et al. sobre 'las llaves para comprender el mundo' es diferente, y la afirmación sobre que el buen lector se forma antes de saber leer aparece en las orientaciones pedagógicas."
+    },
+    {
+      "question": "¿Qué tipo de lectura permite al alumnado relacionar lo que lee con lo que ya sabe según el papel activo del alumno?",
+      "options": [
+        "Una lectura activa, crítica y creativa",
+        "Una lectura literal y reproductiva",
+        "Una lectura guiada por el docente",
+        "Una lectura fonológica y decodificadora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El alumnado tiene un papel activo, crítico y creativo para relacionar lo que lee con lo que ya sabe. Esto contrasta con una lectura meramente literal o reproductiva, y supone un enfoque constructivista donde el lector construye significado."
+    },
+    {
+      "question": "Según las orientaciones pedagógicas, ¿qué tipos de agrupación se deben organizar para la lectura?",
+      "options": [
+        "Lectura individual, lectura en pequeño grupo y lectura colectiva",
+        "Lectura compartida, lectura guiada y lectura independiente",
+        "Lectura en voz alta, lectura silenciosa y lectura coral",
+        "Lectura entre iguales, lectura tutorizada y lectura autónoma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones pedagógicas señalan la importancia de organizar diferentes tipos de lectura: lectura individual, lectura en pequeño grupo y lectura colectiva. Esto permite trabajar la lectura en distintos contextos y con diferentes propósitos."
+    },
+    {
+      "question": "¿Cuál es el argumento para no esperar a que un niño sepa leer para motivarlo por la lectura?",
+      "options": [
+        "Un buen lector comienza a formarse cuando todavía no sabe leer",
+        "La motivación lectora es anterior al aprendizaje formal de la lectura",
+        "Los hábitos lectores se consolidan en la etapa preescolar",
+        "La lectura compartida en familia precede al aprendizaje escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones pedagógicas destacan que no hay que esperar a que un niño sepa leer para motivarlo por la lectura, ya que un buen lector comienza a formarse cuando todavía no sabe leer. Por tanto, el docente debe adaptar actividades y motivar hacia la lectura desde etapas tempranas."
+    },
+    {
+      "question": "¿Cuál es el fin último que se persigue al trabajar la lectura según las orientaciones pedagógicas del Decreto 155/2022?",
+      "options": [
+        "Que los alumnos identifiquen la lectura como fuente de placer",
+        "Que los alumnos alcancen una velocidad lectora adecuada",
+        "Que los alumnos dominen la decodificación de todos los tipos de texto",
+        "Que los alumnos sean capaces de resumir cualquier texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El fin último es que los alumnos identifiquen la lectura como fuente de placer. Para ello es fundamental el contacto con la biblioteca del centro y de aula, la construcción de una biblioteca personal y el trabajo con variedad de textos y tipologías."
+    },
+    {
+      "question": "¿Qué tipo de dificultad en la fase de reconocimiento afecta específicamente a la conversión grafema-fonema?",
+      "options": [
+        "Déficit en la conversión grafema-fonema",
+        "Déficit en la identificación de rasgos discriminativos",
+        "Déficit en la automatización del reconocimiento",
+        "Déficit en las habilidades de segmentación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los déficits de la fase de reconocimiento, el déficit en la conversión grafema-fonema afecta específicamente a la correspondencia entre letras y sonidos. Se distingue del déficit en la segmentación (separar unidades lingüísticas) y del déficit en la identificación de rasgos discriminativos (distinguir letras similares)."
+    },
+    {
+      "question": "¿Qué competencias ALFIN y AMI se mencionan en relación con los objetivos del Plan LIA?",
+      "options": [
+        "Competencia en Alfabetización Informacional (ALFIN) y Alfabetización Mediática e Informacional (AMI)",
+        "Competencia en Aprendizaje Funcional Integrado (ALFIN) y Aprendizaje Multimedia Interactivo (AMI)",
+        "Competencia en Análisis de la Información (ALFIN) y Acceso a Medios Informativos (AMI)",
+        "Competencia en Alfabetización Lectora Inicial (ALFIN) y Asesoramiento Mediático Institucional (AMI)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ALFIN hace referencia a la competencia en Alfabetización Informacional (habilidades para buscar, evaluar y usar información) y AMI a la Alfabetización Mediática e Informacional (comprensión crítica de los medios). Ambas son objetivos del Plan LIA para el desarrollo de la biblioteca escolar."
+    },
+    {
+      "question": "¿Qué dos tipos de habilidades implica la lectura según la distinción establecida en el apartado conceptual del tema?",
+      "options": [
+        "Habilidades de traducción y habilidades de comprensión",
+        "Habilidades perceptivas y habilidades metacognitivas",
+        "Habilidades fonológicas y habilidades semánticas",
+        "Habilidades decodificadoras y habilidades evaluativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La lectura implica dos tipos de habilidades: las habilidades de traducción (representar las letras escritas con su sonido) y las habilidades de comprensión (asimilar lo escrito vinculándolo con los conocimientos previos para adquirir nueva información). Esta distinción es fundamental para entender las DEA."
+    },
+    {
+      "question": "¿Qué aspecto de la formación integral del individuo se desarrolla mediante la lectura según el tema?",
+      "options": [
+        "La expresión oral, el vocabulario, la creatividad, la comprensión y las reglas de escritura",
+        "La memoria, la atención, la concentración y las habilidades matemáticas",
+        "La inteligencia emocional, la empatía y las habilidades sociales",
+        "La autonomía, la responsabilidad y el espíritu crítico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A través de la lectura se desarrolla la expresión oral, el vocabulario, la creatividad y la comprensión; se asimilan reglas de escritura como la ortografía; y se fomenta el interés por la cultura y la lectura como fuente de ocio y aprendizaje, contribuyendo a la formación integral del individuo."
+    },
+    {
+      "question": "¿Qué normativa regula la atención a la diversidad del alumnado en Galicia según el tema?",
+      "options": [
+        "La Orden del 8 de septiembre de 2021 que desarrolla el Decreto 229/2011",
+        "El Decreto 155/2022 en su artículo 33",
+        "La LOMLOE en su artículo 71",
+        "El Real Decreto 157/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden del 8 de septiembre de 2021 por la que se desarrolla el Decreto 229/2011, de 7 de diciembre, regula la atención a la diversidad del alumnado en los centros docentes de la Comunidad Autónoma de Galicia, siendo la referencia para los procedimientos de detección y evaluación de las DEA."
+    },
+    {
+      "question": "¿Cuál es el primer paso en el proceso lector según la ruta visual, antes de acceder al sistema semántico?",
+      "options": [
+        "El análisis visual de la palabra para compararla e identificarla en el léxico visual",
+        "La activación del almacén léxico fonológico para preparar la pronunciación",
+        "La aplicación del mecanismo de conversión grafema-fonema",
+        "La recuperación del sonido de la palabra desde el léxico auditivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la ruta visual, el proceso comienza con un análisis visual de la palabra, que luego se compara e identifica con las unidades almacenadas en el léxico visual. Solo después se accede al sistema semántico para recuperar el significado. La conversión grafema-fonema pertenece a la ruta fonológica."
+    },
+    {
+      "question": "¿A qué hace referencia el ODS4 de la Agenda 2030 mencionado en la introducción del tema?",
+      "options": [
+        "Educación de Calidad, que promueve la alfabetización y la igualdad de oportunidades",
+        "Igualdad de Género en el acceso a la educación",
+        "Trabajo Decente y Crecimiento Económico a través de la formación",
+        "Reducción de las Desigualdades en el sistema educativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ODS4 'Educación de Calidad' de la Agenda 2030 promueve una educación que garantice la alfabetización y la igualdad de oportunidades para todos. El tema de la lectura en Educación Primaria se vincula con este objetivo al contribuir a la alfabetización universal."
+    },
+    {
+      "question": "¿Cuál es la relación entre el PLEA y la PGA según el artículo 33 del Decreto 155/2022?",
+      "options": [
+        "El PLEA debe integrarse en el PE y sus concreciones anuales en la PGA",
+        "La PGA incluye el PLEA como documento independiente y autónomo",
+        "El PLEA sustituye a la PGA en lo relativo a la lectura",
+        "La PGA establece los objetivos del PLEA para cada curso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 33 del Decreto 155/2022, los dos planes obligatorios (Plan de Biblioteca y PLEA) deben integrarse en el Proyecto Educativo (PE) y sus concreciones anuales en la Programación General Anual (PGA), siendo documentos del centro, no independientes."
+    },
+    {
+      "question": "¿Qué elemento es fundamental para evitar que el alumnado ignore palabras o fragmentos que no comprende durante la lectura?",
+      "options": [
+        "Estrategias que corrijan las lagunas o errores de comprensión",
+        "La lectura compartida con el docente como guía permanente",
+        "El uso de diccionarios y materiales de referencia accesibles",
+        "La selección de textos con vocabulario conocido por el alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Durante la lectura es importante atender a estrategias que corrijan las lagunas o los errores de comprensión, evitando que el alumnado ignore palabras o fragmentos que no comprende. Esto se logra discutiendo objetivos, trabajando con materiales de dificultad moderada y enseñando a inferir y realizar conjeturas."
+    },
+    {
+      "question": "¿Qué distingue las DEA mixtas de las fonológicas y las de superficie en la lectura?",
+      "options": [
+        "Las mixtas combinan errores viso-espaciales y lingüísticos de los dos tipos anteriores",
+        "Las mixtas afectan a la comprensión mientras que las otras afectan al reconocimiento",
+        "Las mixtas son más graves que las fonológicas pero menos que las de superficie",
+        "Las mixtas aparecen más tardíamente que los otros tipos de DEA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las DEA mixtas combinan errores de percepción y discriminación viso-espacial (propios de las 'de superficie') con errores lingüísticos (propios de las fonológicas). No se distinguen por gravedad o momento de aparición, sino por el tipo de errores que combinan."
+    },
+    {
+      "question": "¿Cuál es el objetivo del procesamiento léxico en el modelo de Cuetos (2008)?",
+      "options": [
+        "Identificar las letras y combinarlas para formar palabras con significado",
+        "Extraer la información gráfica y almacenarla en la memoria icónica",
+        "Comprender las relaciones de las palabras en su conjunto",
+        "Integrar el mensaje del texto con los conocimientos previos del lector"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El procesamiento léxico permite identificar las letras y combinarlas para formar palabras con significado. Se sitúa entre los procesos perceptivos (que extraen información gráfica) y el procesamiento sintáctico (que comprende relaciones entre palabras) y semántico (que integra el significado global)."
+    },
+    {
+      "question": "¿Qué papel desempeña la memoria de trabajo en los procesos perceptivos de la lectura?",
+      "options": [
+        "Permite retener el inicio de una oración hasta el final para extraer el significado completo",
+        "Almacena temporalmente la información gráfica antes de analizarla",
+        "Activa los conocimientos previos necesarios para comprender el texto",
+        "Recupera el significado de las palabras almacenadas en el léxico mental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La memoria de trabajo, que recibe la información más relevante de la memoria icónica, es la que permite retener el inicio de una oración hasta el final y extraer el significado completo. Sin ella no sería posible comprender oraciones largas o complejas."
+    },
+    {
+      "question": "¿Qué normativa autonómica de Galicia establece la ordenación y el currículo de educación primaria referenciada en el tema?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 229/2011, de 7 de diciembre",
+        "Orden de 26 de mayo de 2023",
+        "Resolución del 16 de octubre de 2025"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, es la norma autonómica gallega que establece la ordenación y el currículo de la educación primaria en Galicia. El Decreto 229/2011 regula la atención a la diversidad, y la Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022 y regula la evaluación."
+    },
+    {
+      "question": "¿Cuál es el descriptor operativo de la CCL más directamente vinculado con la lectura en el Decreto 155/2022?",
+      "options": [
+        "Comprende, interpreta y valora textos orales, escritos, signados o multimodales para participar activamente en contextos cotidianos",
+        "Produce textos escritos y multimodales con corrección, coherencia y adecuación al contexto",
+        "Interactúa de forma oral, escrita o multimodal de manera coherente y adecuada en diferentes contextos",
+        "Utiliza el lenguaje como herramienta de comunicación, aprendizaje y regulación de la conducta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El segundo descriptor operativo de la CCL, que es el directamente vinculado con la lectura según el tema, establece que el alumno comprende, interpreta y valora textos orales, escritos, signados o multimodales para participar activamente en contextos cotidianos y para construir conocimiento."
+    },
+    {
+      "question": "¿Cuál es el papel del docente descrito en las orientaciones pedagógicas en relación con la selección de materiales lectores?",
+      "options": [
+        "Seleccionar y graduar los libros según las características del alumnado y orientarlo individualmente",
+        "Proporcionar un listado de lecturas obligatorias adaptadas al nivel del curso",
+        "Elaborar materiales propios adaptados a los intereses del grupo clase",
+        "Seguir las indicaciones del PLEA y del Plan de Biblioteca para la selección de textos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El papel del docente incluye adaptar las actividades, motivar hacia la lectura, seleccionar y graduar los libros según las características del alumnado, orientarlo individualmente y colaborar con las familias en la adquisición del hábito lector."
+    },
+    {
+      "question": "¿Qué se define en el tema como el 'objetivo y fin último de la lectura' según Prado (2004)?",
+      "options": [
+        "La comprensión del texto",
+        "La fluidez lectora y la velocidad de procesamiento",
+        "El desarrollo del hábito lector y el gusto por los libros",
+        "La decodificación precisa y automática de los signos gráficos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Prado (2004), la comprensión del texto debe ser el objetivo y fin último de la lectura. Esto es coherente con la perspectiva constructivista de Cassany que sostiene que 'leer es comprender un texto' y que el proceso lector va más allá de la mera decodificación."
+    },
+    {
+      "question": "¿A qué hace referencia la 'claridad y coherencia del contenido del texto' como condición de la comprensión lectora según Palincsar y Brown (1984)?",
+      "options": [
+        "Que la estructura del texto resulte familiar y que su léxico, sintaxis y cohesión interna tengan un nivel aceptable",
+        "Que el texto no contenga errores gramaticales ni vocabulario desconocido",
+        "Que el texto sea breve y esté organizado con párrafos claramente diferenciados",
+        "Que el texto presente información nueva de forma ordenada y progresiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Palincsar y Brown (1984) especifican que la claridad y coherencia del contenido del texto incluye que su estructura resulte familiar y que su léxico, sintaxis y cohesión interna posean un nivel aceptable. Esta condición se sitúa al lado del conocimiento previo del lector y el uso de estrategias."
+    },
+    {
+      "question": "¿Cuál es el primer ciclo de la Educación Primaria debe centrarse en la lectura según el Real Decreto 157/2022?",
+      "options": [
+        "La motivación y el acceso a la información explícita",
+        "La realización de inferencias directas y el análisis de elementos no textuales",
+        "La autonomía para interpretar significados profundos como la ironía",
+        "El dominio de la decodificación grafema-fonema y la fluidez lectora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022 establece una progresión por ciclos: el primer ciclo debe centrarse en la motivación y el acceso a la información explícita; el segundo avanza hacia las inferencias directas y el análisis de elementos no textuales; y el tercero culmina con la autonomía para interpretar significados profundos."
+    },
+    {
+      "question": "¿Cuándo culminan las distintas medidas de intervención frente a las DEA de la lectura según el tema?",
+      "options": [
+        "En la individualización de la enseñanza, el uso de recursos variados y la intervención de especialistas en PT y AL",
+        "En la elaboración de adaptaciones curriculares significativas para cada alumno",
+        "En la derivación al servicio de orientación para diagnóstico y tratamiento",
+        "En el establecimiento de grupos de desdoble específicos para el apoyo lector"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las medidas de intervención ante las DEA de la lectura deben orientarse a: individualizar la enseñanza ante las necesidades lectoras de cada niño, usar recursos de lectura variados y contar con la intervención de los especialistas en PT (Pedagogía Terapéutica) y AL (Audición y Lenguaje)."
+    },
+    {
+      "question": "¿Qué aspecto metacognitivo dificulta la comprensión lectora en alumnos con DEA?",
+      "options": [
+        "Déficits metacognitivos y de autorregulación de la comprensión",
+        "Déficits en la velocidad de procesamiento de la información",
+        "Déficits en la memoria de trabajo y la atención sostenida",
+        "Déficits en la capacidad de síntesis e inferencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los problemas de la fase de comprensión se incluyen los déficits metacognitivos y de autorregulación de la comprensión, que impiden que el alumno monitorice su propia comprensión y adopte estrategias para corregir los errores. Esto es diferente a los déficits en la elaboración de estrategias espontáneas."
+    },
+    {
+      "question": "¿Qué competencias se desarrollan según el tema a través del Plan LIA en relación con las bibliotecas escolares?",
+      "options": [
+        "Las competencias ALFIN (Alfabetización Informacional) y AMI (Alfabetización Mediática e Informacional)",
+        "Las competencias lingüística, digital y de aprender a aprender",
+        "Las competencias cívica, lectora y cultural",
+        "Las competencias matemática, científica y tecnológica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA busca fortalecer las bibliotecas escolares para el desarrollo del currículo y las competencias ALFIN (Alfabetización Informacional) y AMI (Alfabetización Mediática e Informacional), que suponen habilidades para buscar, evaluar y usar críticamente la información."
+    },
+    {
+      "question": "¿Qué tres tipos de conocimientos previos del lector afectan a la comprensión lectora según el tema?",
+      "options": [
+        "Conocimientos sobre el tipo de texto y su organización, y conocimientos sobre el tema y el mundo en general",
+        "Conocimientos lingüísticos, textuales y enciclopédicos",
+        "Conocimientos fonológicos, semánticos y pragmáticos",
+        "Conocimientos sobre el autor, el género y el contexto histórico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema distingue dos tipos de conocimientos previos del lector: los que hacen referencia al contacto anterior con el tipo de texto (su organización y estructura) y los conocimientos referidos al tema escrito y al mundo en general. Smith (1990) destaca que la familiaridad con el tema aumenta la velocidad lectora."
+    },
+    {
+      "question": "¿Cómo se denomina el plan que el Decreto 155/2022 obliga a incluir en el PE junto con el PLEA?",
+      "options": [
+        "Plan de Biblioteca",
+        "Plan LIA",
+        "Plan PLAMBE",
+        "Plan de Fomento Lector"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 33 del Decreto 155/2022 establece dos planes obligatorios: el Plan de Biblioteca y el PLEA (anteriormente Plan de Lectura). El Plan LIA y el PLAMBE son iniciativas de la Consellería, no planes obligatorios del centro establecidos por el Decreto 155/2022."
+    },
+    {
+      "question": "¿Cuál es la finalidad del Plan de Biblioteca según el tema?",
+      "options": [
+        "La promoción de la biblioteca como centro de referencia de recursos para la lectura, la información y el aprendizaje",
+        "La gestión y catalogación de los fondos bibliográficos del centro",
+        "El préstamo de libros electrónicos y recursos educativos digitales",
+        "La formación de los alumnos en el uso de la biblioteca"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan de Biblioteca tiene como finalidad la promoción de la biblioteca escolar como centro de referencia de recursos para la lectura, la información y el aprendizaje. Es diferente de la mera gestión de fondos (que correspondería a KOHA-Bescolares) o el préstamo digital (BEGA E-LBE.2)."
+    },
+    {
+      "question": "¿Cuántos años de rango etario cubre la fase logográfica descrita por Frith (1985)?",
+      "options": [
+        "Tres años (de 2 a 5 años)",
+        "Un año (de 5 a 6 años)",
+        "Dos años (de 6 a 8 años)",
+        "Cuatro años (de 4 a 8 años)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La fase logográfica cubre el rango de 2 a 5 años, lo que equivale a tres años. La fase alfabética cubre aproximadamente un año (5-6 años) y la ortográfica comienza sobre los 7-8 años."
+    },
+    {
+      "question": "¿Cuál de los siguientes déficits de la fase de reconocimiento lector implica dificultad para separar unidades lingüísticas?",
+      "options": [
+        "Déficit en las habilidades de segmentación",
+        "Déficit en la conversión grafema-fonema",
+        "Déficit en la identificación de los rasgos discriminativos",
+        "Déficit en la automatización del reconocimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El déficit en las habilidades de segmentación implica dificultad para separar y delimitar unidades lingüísticas como sílabas, palabras o morfemas. Es diferente del déficit en la conversión grafema-fonema (correspondencia letra-sonido) y del déficit en la identificación de rasgos discriminativos (distinción de letras similares)."
+    },
+    {
+      "question": "¿Qué norma autonómica gallega regula la evaluación en la Educación Primaria publicada en el DOG?",
+      "options": [
+        "La Orden de 26 de mayo de 2023 que desarrolla el Decreto 155/2022",
+        "El Decreto 155/2022, de 15 de septiembre",
+        "La Resolución del 16 de octubre de 2025",
+        "La Orden del 8 de septiembre de 2021"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 por la que se desarrolla el Decreto 155/2022 regula también la evaluación en la educación primaria en Galicia, publicada en el DOG 111, de 13 de junio de 2023. La Resolución del 16 de octubre de 2025 regula el PLEA, no la evaluación."
+    },
+    {
+      "question": "¿En qué número del Diario Oficial de Galicia (DOG) se publicó el Decreto 155/2022?",
+      "options": [
+        "DOG número 183, de 26 de septiembre de 2022",
+        "DOG número 111, de 13 de junio de 2023",
+        "DOG número 52, de 2 de marzo de 2022",
+        "DOG número 340, de 30 de diciembre de 2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, se publicó en el DOG número 183, de 26 de septiembre de 2022, páginas 49595 a 50009. El DOG número 111 corresponde a la Orden de evaluación de 2023, y el BOE 340 corresponde a la LOMLOE."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre 'aprender a leer' y 'leer para aprender' en relación con las DEA?",
+      "options": [
+        "'Aprender a leer' implica reconocimiento de letras y palabras; 'leer para aprender' implica comprensión de frases para acceder al significado",
+        "'Aprender a leer' es propio de la Educación Infantil y 'leer para aprender' de la Primaria",
+        "'Aprender a leer' usa la ruta fonológica y 'leer para aprender' usa la ruta visual",
+        "'Aprender a leer' es una fase logográfica y 'leer para aprender' es una fase ortográfica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Aprender a leer' implica identificar y reconocer letras y palabras para avanzar hacia una lectura fluida y el reconocimiento lector. 'Leer para aprender' se centra en la comprensión de las frases para acceder al significado del texto. Cada uno puede presentar DEA específicas: de reconocimiento o de comprensión."
+    },
+    {
+      "question": "¿Cuál es la concepción de la lectura que subyace a la afirmación de Cassany de que 'leer es comprender un texto'?",
+      "options": [
+        "Una concepción que prioriza la comprensión sobre la mera decodificación",
+        "Una concepción que equipara la lectura con la pronunciación correcta",
+        "Una concepción que reduce la lectura a la reconocimiento de signos gráficos",
+        "Una concepción que centra la lectura en la velocidad y fluidez lectora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La afirmación de Cassany et al. (1994) de que 'leer es comprender un texto' subyace a una concepción que prioriza la comprensión sobre la mera decodificación. Esta visión implica que no es suficiente con pronunciar las palabras; el acto lector culmina cuando el lector construye significado a partir del texto."
+    },
+    {
+      "question": "¿Cuál de estos programas del PLAMBE implica específicamente la participación de la familia en la lectura?",
+      "options": [
+        "Lectura e Familia",
+        "Clubs de Lectura",
+        "Bibliotecas Escolares Solidarias",
+        "Radio na Biblio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El programa 'Lectura e Familia' del PLAMBE es el que implica específicamente la participación de la familia en las actividades lectoras. Los Clubs de Lectura son colectivos de lectores, las Bibliotecas Escolares Solidarias tienen un enfoque social, y Radio na Biblio es un proyecto de comunicación escolar."
+    },
+    {
+      "question": "Según las orientaciones pedagógicas, ¿cómo debe abordarse la lectura para conectar la decodificación con el significado?",
+      "options": [
+        "Centrando la lectura en la comprensión, conectando la decodificación grafema-fonema con el significado para encontrar sentido al texto",
+        "Priorizando la fluidez lectora antes de trabajar la comprensión en profundidad",
+        "Enseñando primero las reglas de decodificación y luego las estrategias de comprensión",
+        "Utilizando únicamente textos con vocabulario conocido para garantizar la comprensión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones pedagógicas indican que la lectura debe centrarse en la comprensión, conectando la decodificación grafema-fonema con el significado, ayudando a encontrar sentido al texto. Esto evita que la decodificación sea un fin en sí misma, desconectada del significado."
+    },
+    {
+      "question": "¿Qué tipo de texto se menciona explícitamente en el Decreto 155/2022 al hablar de estrategias de comprensión lectora?",
+      "options": [
+        "Todo tipo de textos e imágenes, en cualquier soporte y formato",
+        "Textos literarios de la tradición oral y escrita gallega y castellana",
+        "Textos narrativos, expositivos y argumentativos",
+        "Textos impresos y textos digitales interactivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 del Decreto 155/2022 señala que es relevante desarrollar estrategias de comprensión lectora de todo tipo de textos e imágenes, en cualquier soporte y formato. Esta formulación amplia incluye textos digitales, multimodales e imágenes, no solo textos escritos convencionales."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre las medidas de intervención de PT y AL ante las DEA de la lectura?",
+      "options": [
+        "PT se ocupa de la pedagogía terapéutica para dificultades de aprendizaje y AL de audición y lenguaje para dificultades de habla y lenguaje",
+        "PT trabaja las dificultades de comprensión y AL las dificultades de reconocimiento lector",
+        "PT interviene en la fase fonológica y AL en la fase ortográfica del proceso lector",
+        "PT atiende a alumnos con DEA leve y AL a alumnos con DEA grave"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PT (especialista en Pedagogía Terapéutica) trabaja con alumnos con dificultades generales de aprendizaje, mientras que el AL (especialista en Audición y Lenguaje) se centra en dificultades de habla, lenguaje y comunicación. Ambos colaboran en los casos de DEA lectora, complementando sus intervenciones."
+    },
+    {
+      "question": "¿Qué norma regula actualmente la organización y funcionamiento de las bibliotecas escolares en Galicia en el curso 2025/26?",
+      "options": [
+        "Resolución del 1 de septiembre de 2025 de la Dirección General de Ordenación e Innovación Educativa",
+        "Decreto 155/2022, de 15 de septiembre",
+        "Resolución del 16 de octubre de 2025",
+        "Orden de 26 de mayo de 2023"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Resolución del 1 de septiembre de 2025 de la Dirección General de Ordenación e Innovación Educativa dicta instrucciones para el desarrollo de la organización y funcionamiento de las bibliotecas escolares en el curso académico 2025/26. La Resolución del 16 de octubre de 2025 regula el PLEA."
+    },
+    {
+      "question": "¿Cuál es la función de la memoria icónica en el procesamiento lector según Cuetos (2008)?",
+      "options": [
+        "Almacenar brevemente la información gráfica antes de pasar a la memoria de trabajo",
+        "Retener el significado de las palabras ya identificadas",
+        "Mantener activa la representación fonológica de las palabras",
+        "Integrar la información visual con los conocimientos previos del lector"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La memoria icónica almacena brevemente la información gráfica extraída por los mecanismos perceptivos. Después, la información más relevante pasa a la memoria de trabajo para su análisis. La memoria icónica es una memoria sensorial de muy corta duración, previa al procesamiento léxico."
+    },
+    {
+      "question": "¿Qué documento de centro debe integrar todas las intervenciones destinadas al fomento de la lectura, escritura y acceso a la información según la Resolución del 16 de octubre de 2025?",
+      "options": [
+        "El PLEA (Plan de Lectura, Escritura y Acceso a la Información)",
+        "El Plan de Biblioteca escolar",
+        "La Programación General Anual (PGA)",
+        "El Proyecto Educativo (PE)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PLEA se define como el documento de centro que integra todas las intervenciones destinadas al fomento de la lectura, escritura, y de las habilidades en el uso y en el tratamiento de la información y también a la comunicación del conocimiento como apoyo a la adquisición de las CC."
+    },
+    {
+      "question": "¿Cuál de los siguientes objetivos del Plan LIA 2021-2025 se relaciona con la biblioteca como espacio digital?",
+      "options": [
+        "Reforzar el papel de la biblioteca escolar como espacio estratégico de acceso al conocimiento en la era digital",
+        "Implementar la Red de Bibliotecas Escolares Gallegas (BEGA)",
+        "Avanzar en la creación de Bibliotecas Creativas",
+        "Contribuir a la creación de una sociedad lectora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo 'Reforzar el papel de la biblioteca escolar como un espacio estratégico de acceso al conocimiento de la era digital' aborda específicamente la dimensión digital. Implementar BEGA es el primer punto estelar, las Bibliotecas Creativas son el cuarto, y la sociedad lectora es el último objetivo."
+    },
+    {
+      "question": "¿Qué objetivo del Plan LIA 2021-2025 hace referencia explícita al profesorado como destinatario?",
+      "options": [
+        "Facilitar al profesorado recursos y oportunidades para la renovación de las prácticas educativas",
+        "Contribuir a la creación de una sociedad lectora mediante experiencias lectoras de calidad",
+        "Incentivar el uso de las bibliotecas escolares por la comunidad educativa",
+        "Apoyar la adquisición de las competencias clave del currículo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo 'Facilitar al profesorado recursos y oportunidades para la renovación de las prácticas educativas' se dirige explícitamente al profesorado como destinatario. Los otros objetivos se dirigen a la comunidad educativa en general, al alumnado o a la biblioteca como espacio."
+    },
+    {
+      "question": "¿Cuáles son las dos competencias citadas en el tema que el Plan LIA busca desarrollar mediante las bibliotecas escolares?",
+      "options": [
+        "ALFIN (Alfabetización Informacional) y AMI (Alfabetización Mediática e Informacional)",
+        "CCL (Competencia en Comunicación Lingüística) y CD (Competencia Digital)",
+        "CPSAA (Competencia Personal, Social y de Aprender a Aprender) y CCL",
+        "CEC (Competencia en Conciencia y Expresión Cultural) y CCEC"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA fue iniciado para fortalecer las bibliotecas escolares en el desarrollo del currículo y las competencias ALFIN (Alfabetización Informacional) y AMI (Alfabetización Mediática e Informacional). Estas competencias no se denominan de la misma forma que las CC del currículo (CCL, CD, etc.)."
+    },
+    {
+      "question": "¿Cuál es la característica principal de la fase logográfica que la distingue de la fase alfabética?",
+      "options": [
+        "En la logográfica se reconocen globalmente palabras familiares sin análisis letra a letra; en la alfabética se dominan los procesos decodificadores",
+        "La logográfica implica leer palabras completas y la alfabética leer sílaba a sílaba",
+        "La logográfica es más avanzada que la alfabética en el proceso de adquisición",
+        "La logográfica desarrolla la ruta visual y la alfabética la ruta fonológica exclusivamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La fase logográfica se caracteriza por el reconocimiento global de palabras familiares sin análisis letra a letra (como logos y nombres conocidos). La fase alfabética implica el dominio de los procesos decodificadores mediante la ruta fonológica. No son equivalentes a leer por sílabas vs. palabras completas."
+    },
+    {
+      "question": "¿Qué papel tienen los juegos y los logotipos en la fase logográfica?",
+      "options": [
+        "Son elementos importantes para el reconocimiento global de palabras en esta fase",
+        "Se usan para introducir las reglas de correspondencia grafema-fonema",
+        "Sirven para practicar la segmentación silábica previa a la lectura",
+        "Facilitan la automatización de los procesos decodificadores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase logográfica, los juegos, logotipos, nombres de dibujos animados o cuentos conocidos son elementos importantes para el reconocimiento global de palabras. Esta fase no implica análisis fonológico; el niño reconoce la palabra como una imagen global, no decodificando letra a letra."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la ruta visual y la ruta fonológica en lo relativo al acceso al sistema semántico?",
+      "options": [
+        "La ruta visual accede directamente al sistema semántico a través del léxico visual; la ruta fonológica pasa primero por el léxico auditivo",
+        "Solo la ruta visual accede al sistema semántico; la fonológica permite únicamente pronunciar",
+        "La ruta fonológica es más rápida para acceder al significado que la ruta visual",
+        "Ambas rutas acceden al sistema semántico a través del mismo proceso de análisis visual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La ruta visual accede al sistema semántico directamente desde el léxico visual (reconocimiento de la palabra como unidad visual). La ruta fonológica convierte las letras en sonidos y pasa por el léxico auditivo. En la ruta fonológica no hay acceso directo al sistema semántico sino mediación fonológica."
+    },
+    {
+      "question": "¿Qué proceso psicológico de la lectura permite comprender las relaciones de las palabras en su conjunto para entender el mensaje escrito?",
+      "options": [
+        "El procesamiento sintáctico",
+        "El procesamiento semántico",
+        "El procesamiento léxico",
+        "Los procesos perceptivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El procesamiento sintáctico permite comprender las relaciones de las palabras en su conjunto para entender el mensaje escrito. Para ello utiliza claves como el orden de las palabras, los signos de puntuación, las palabras funcionales y el significado contextual. El procesamiento semántico integra el significado global."
+    },
+    {
+      "question": "¿Qué tipo de textos deben trabajarse en el aula según las orientaciones pedagógicas para el desarrollo de la lectura?",
+      "options": [
+        "Gran variedad de textos de diferentes tipologías y formatos",
+        "Preferentemente textos literarios adecuados a la edad del alumnado",
+        "Textos informativos y académicos relacionados con las áreas curriculares",
+        "Textos digitales e interactivos acordes con la competencia digital"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones pedagógicas señalan que las actividades de la lectura deben abarcar gran variedad de textos de diferentes tipologías y formatos. Esto incluye textos literarios e informativos, en diferentes soportes y formatos, conectando con el enfoque multimodal del currículo."
+    },
+    {
+      "question": "¿Qué aspecto de la naturaleza del texto puede dificultar la comprensión lectora?",
+      "options": [
+        "Una organización confusa o mal estructurada del texto",
+        "Un vocabulario excesivamente simple y repetitivo",
+        "Una extensión muy reducida del texto",
+        "El uso de un único tipo textual a lo largo del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las características internas del texto relacionadas con su estructura, extensión y contenido condicionan su comprensión. Un texto confuso o mal organizado dificultará la comprensión, mientras que uno con organización clara y coherente la facilitará. La simplicidad del vocabulario generalmente facilita la comprensión, no la dificulta."
+    },
+    {
+      "question": "¿Cuál es el objetivo del PLEA relacionado con la práctica lectora sistemática en el centro?",
+      "options": [
+        "Sistematizar la práctica lectora diaria en todos los niveles de la etapa",
+        "Establecer un tiempo mínimo de 30 minutos de lectura diaria",
+        "Organizar actividades de lectura semanales en la biblioteca escolar",
+        "Garantizar que todos los alumnos lean al menos un libro al mes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El segundo objetivo del PLEA es sistematizar la práctica lectora diaria en todos los niveles de la etapa, no solo fijar un tiempo mínimo. La Resolución del 1 de septiembre de 2025 concreta ese tiempo entre 20-30 minutos, pero el objetivo del PLEA es más amplio, orientado a la sistematización en todos los niveles."
+    },
+    {
+      "question": "¿Qué estrategia de antes de la lectura consiste en compartir información general sobre el texto y destacar ilustraciones y títulos?",
+      "options": [
+        "Actualizar los conocimientos previos",
+        "Establecer predicciones sobre el texto",
+        "Generar preguntas previas",
+        "Establecer los objetivos de la lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Actualizar los conocimientos previos se logra dando una información general de lo que se va a leer o destacando ilustraciones y títulos. Establecer predicciones también usa ilustraciones y títulos, pero el fin es anticipar el contenido. La diferencia está en que actualizar conocimientos activa lo que ya se sabe, y establecer predicciones anticipa lo que viene."
+    },
+    {
+      "question": "¿Qué técnica durante la lectura consiste en proporcionar textos con errores para que los alumnos los encuentren?",
+      "options": [
+        "Una técnica de lectura independiente con materiales preparados por el docente",
+        "Una técnica de lectura compartida guiada por el docente",
+        "Una técnica de lectura en parejas con corrección mutua",
+        "Una técnica de lectura crítica y evaluativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Proporcionar textos que contienen errores para encontrarlos es una de las técnicas de lectura independiente en la que el docente prepara materiales específicos. En la lectura compartida es el docente quien guía predicciones y preguntas, siendo diferente de los materiales preparados para la lectura independiente."
+    },
+    {
+      "question": "Según las estrategias después de la lectura, ¿qué debe hacer el docente para enseñar a identificar la idea principal?",
+      "options": [
+        "Explicar en qué consiste y su utilidad, recordar el objetivo de lectura, explicar la intención del autor, señalar el tema y discutir la idea principal",
+        "Proporcionar un modelo de resumen y pedir a los alumnos que lo repliquen",
+        "Formular preguntas sobre el contenido del texto para que los alumnos infieran la idea principal",
+        "Subrayar las palabras clave del texto para ayudar a identificar la idea central"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para enseñar a identificar la idea principal, el docente debe: explicar en qué consiste y su utilidad, recordar el objetivo de lectura, explicar la intención del autor, señalar el tema y discutir si son otros los objetivos de la lectura que llevan a otra idea principal. Este proceso activo es diferente de simplemente subrayar o usar modelos."
+    },
+    {
+      "question": "¿Cuál de los siguientes déficits en la fase de comprensión lectora afecta a la capacidad de activar esquemas y organizar información?",
+      "options": [
+        "Déficit en la elaboración de estrategias lectoras de manera espontánea, oportuna y eficaz",
+        "Déficit en el lenguaje hablado con escaseza de vocabulario",
+        "Déficit metacognitivo y de autorregulación",
+        "Déficit en la coordinación ejecutiva de activación en la memoria de largo plazo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El déficit en la elaboración de estrategias lectoras incluye dificultades para activar esquemas generales, conocimientos previos y sobre la estructura del texto, así como para seleccionar y organizar información relevante de manera espontánea, oportuna y eficaz. El déficit metacognitivo afecta a la consciencia y regulación del propio proceso."
+    },
+    {
+      "question": "¿Qué tipo de preguntas de comprensión requieren el uso de conocimiento y la opinión personal del lector?",
+      "options": [
+        "Preguntas de elaboración personal",
+        "Preguntas de lectura literal",
+        "Preguntas de búsqueda en el texto",
+        "Preguntas inferenciales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las preguntas de elaboración personal requieren el uso de conocimiento y la opinión del lector, más allá de la información presente en el texto. Las preguntas de lectura literal se responden con información explícita del texto y las de búsqueda requieren localizar información específica."
+    },
+    {
+      "question": "¿Qué implica elaborar un resumen según las estrategias de comprensión lectora?",
+      "options": [
+        "Identificar las ideas principales, desechar la información trivial y conservar el significado",
+        "Parafrasear el texto con las propias palabras sin omitir información",
+        "Subrayar las partes más importantes del texto y copiarlas",
+        "Ordenar cronológicamente los eventos narrados en el texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Resumir un texto implica identificar las ideas principales y desechar la información trivial conservando el significado. No se trata de parafrasear todo, sino de seleccionar, agrupar y reducir la información manteniendo los conceptos esenciales. Los alumnos deben practicar conjuntamente con el docente antes de hacerlo de forma autónoma."
+    },
+    {
+      "question": "¿Qué relación tiene la lectura con la Competencia Clave en Comunicación Lingüística (CCL) según el Decreto 155/2022?",
+      "options": [
+        "La CCL supone interactuar de forma oral, escrita o multimodal de manera coherente y adecuada en diferentes contextos",
+        "La CCL se centra exclusivamente en la lectura y escritura de textos académicos",
+        "La CCL implica el dominio del sistema lingüístico en su dimensión fonológica y morfológica",
+        "La CCL abarca el conocimiento de la lengua materna y las lenguas extranjeras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La CCL, según el Decreto 155/2022, supone interactuar de forma oral, escrita o multimodal de manera coherente y adecuada en diferentes contextos. Esta definición amplia incluye la lectura como una de sus dimensiones, junto con la expresión oral, la escritura y la comunicación multimodal."
+    },
+    {
+      "question": "¿Qué aspecto del papel del docente en la lectura enfatiza la colaboración con las familias?",
+      "options": [
+        "La colaboración con las familias en la adquisición del hábito lector",
+        "La selección de libros para la biblioteca familiar del alumnado",
+        "La comunicación de los resultados de la evaluación lectora a las familias",
+        "La implicación de las familias en las actividades del Plan de Biblioteca"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El papel del docente incluye colaborar con las familias en la adquisición del hábito lector, reconociendo que la lectura no es solo un proceso escolar sino que también se desarrolla en el hogar. Esto conecta con el objetivo del PLEA de implicar a toda la comunidad educativa."
+    },
+    {
+      "question": "¿Cuál es la relación entre la biblioteca de aula y la biblioteca del centro según las orientaciones pedagógicas?",
+      "options": [
+        "Ambas son espacios necesarios para que el alumnado se familiarice con los libros y construya su biblioteca personal",
+        "La biblioteca de aula sustituye a la biblioteca del centro para los alumnos de los primeros ciclos",
+        "La biblioteca del centro gestiona los fondos y la de aula proporciona libros de uso diario",
+        "La biblioteca de aula se usa para lectura independiente y la del centro para lectura guiada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones pedagógicas señalan que es fundamental el contacto con la biblioteca del centro y de aula de forma que el alumnado se familiarice con estos espacios y construya su propia biblioteca personal. Ambas se complementan para fomentar el hábito lector."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos citados en las estrategias antes de la lectura ayuda a activar la motivación del alumnado?",
+      "options": [
+        "Favorecer la motivación para la lectura de forma que el alumnado comprenda la tarea y encuentre interés en ella",
+        "Establecer predicciones sobre el texto a partir de ilustraciones y títulos",
+        "Generar preguntas sobre lo que ya saben los alumnos",
+        "Presentar el objetivo específico de la lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La motivación para la lectura es una estrategia previa específica que busca que el alumnado comprenda la tarea y encuentre interés en ella. Las predicciones activan expectativas sobre el contenido, las preguntas activan conocimientos previos, y los objetivos dan dirección a la lectura; pero la motivación actúa sobre el interés afectivo."
+    },
+    {
+      "question": "¿Cuál es la implicación práctica de que la lectura sea un proceso 'constructivo e inferencial'?",
+      "options": [
+        "El lector activamente reconstruye el significado usando sus conocimientos y experiencias, no solo extrae información del texto",
+        "El lector sigue las instrucciones del texto para construir el significado paso a paso",
+        "El lector infiere el significado de las palabras desconocidas por el contexto",
+        "El lector construye un resumen mental del texto a medida que avanza en la lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Que la lectura sea constructiva e inferencial implica que el lector activamente reconstruye el significado usando sus conocimientos y experiencias previas, no solo extrae la información que está explícitamente en el texto. El significado no está en el texto, sino que se construye en la interacción entre el texto y el lector."
+    },
+    {
+      "question": "¿Qué función tiene el almacén léxico fonológico en la lectura en voz alta según la ruta visual?",
+      "options": [
+        "Almacenar la representación fonológica de las palabras para poder pronunciarlas en voz alta",
+        "Convertir los grafemas en fonemas para identificar la palabra",
+        "Identificar la palabra por su sonido antes de acceder al significado",
+        "Verificar que la pronunciación coincide con la representación almacenada en el léxico visual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El almacén léxico fonológico, que se activa adicionalmente cuando se quiere leer en voz alta, almacena la representación fonológica de las palabras para poder pronunciarlas. Se distingue del mecanismo de conversión grafema-fonema (propio de la ruta fonológica) porque opera con palabras ya identificadas."
+    },
+    {
+      "question": "Según el artículo 113 de la LOMLOE, ¿cuál debe ser la función de la biblioteca escolar en relación con la comunidad educativa?",
+      "options": [
+        "Funcionar como espacio abierto a la comunidad educativa para el fomento de la lectura, el acceso a la información y el aprendizaje",
+        "Gestionar el préstamo de materiales bibliográficos para el alumnado y el profesorado",
+        "Coordinar los planes de lectura de todos los centros educativos de la zona",
+        "Proporcionar formación al profesorado en el uso de recursos bibliográficos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 113 de la LOMLOE, la biblioteca escolar debe contribuir al fomento de la lectura, al acceso a la información y a otros recursos para el aprendizaje, funcionando como espacio abierto a la comunidad educativa. Va más allá del préstamo de materiales para convertirse en un espacio comunitario."
+    },
+    {
+      "question": "¿Cuál es el orden correcto de los cuatro procesos psicológicos en la lectura según Cuetos (2008)?",
+      "options": [
+        "Procesos perceptivos → Procesamiento léxico → Procesamiento sintáctico → Procesamiento semántico",
+        "Procesamiento léxico → Procesos perceptivos → Procesamiento semántico → Procesamiento sintáctico",
+        "Procesos perceptivos → Procesamiento sintáctico → Procesamiento léxico → Procesamiento semántico",
+        "Procesamiento semántico → Procesamiento sintáctico → Procesamiento léxico → Procesos perceptivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El orden correcto según Cuetos (2008) es: 1) Procesos perceptivos (punto de partida, extracción de información gráfica), 2) Procesamiento léxico (identificación de palabras), 3) Procesamiento sintáctico (relaciones entre palabras), 4) Procesamiento semántico (significado global e integración con conocimientos previos)."
+    },
+    {
+      "question": "¿Cuál es el papel que Uta Frith asigna a la ciencia en el estudio de las fases del proceso lector?",
+      "options": [
+        "Propuso en 1985 tres fases para la adquisición de la lectura: logográfica, alfabética y ortográfica",
+        "Desarrolló en 1990 el modelo de doble ruta para explicar los procesos léxicos",
+        "Identificó en 1984 las estrategias de comprensión lectora antes, durante y después de la lectura",
+        "Formuló en 1994 la teoría constructivista de la comprensión lectora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Uta Frith, como científica, propuso en 1985 las tres fases para la adquisición de la lectura: logográfica, alfabética y ortográfica. El modelo de doble ruta se asocia a otros autores; las estrategias de comprensión lectora son de Solé (1992); y la teoría constructivista de la comprensión de Palincsar y Brown (1984)."
+    },
+    {
+      "question": "¿Qué implica el objetivo del Plan LIA 2021-2025 de 'Reforzar una Biblioteca Social'?",
+      "options": [
+        "Avanzar hacia una biblioteca escolar inclusiva y de uso comunitario",
+        "Crear redes sociales digitales vinculadas a las bibliotecas escolares",
+        "Establecer convenios con bibliotecas municipales y públicas",
+        "Fomentar el voluntariado en la gestión de las bibliotecas escolares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El punto estelar 'Reforzar una Biblioteca social' del Plan LIA 2021-2025 está vinculado con el objetivo de avanzar hacia una biblioteca escolar inclusiva que sirva como espacio comunitario. Esto conecta con el objetivo del mismo plan de incentivar el uso de las bibliotecas por la comunidad educativa."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el Plan LIA y el PLAMBE en el sistema educativo gallego?",
+      "options": [
+        "El Plan LIA es el programa marco de la Consellería y el PLAMBE es el plan que promueve la actualización de recursos y espacios de las bibliotecas",
+        "El Plan LIA regula el tiempo diario de lectura y el PLAMBE los fondos bibliográficos",
+        "El Plan LIA se dirige al alumnado y el PLAMBE al profesorado",
+        "El Plan LIA tiene carácter obligatorio y el PLAMBE es voluntario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA (iniciado en 2010) es el programa marco de la Consellería para las bibliotecas escolares, y en su contexto surge el PLAMBE (Plan de Mejora de las Bibliotecas Escolares de Galicia), que promueve específicamente la actualización de recursos y espacios para el acceso igualitario a la cultura y la alfabetización múltiple."
+    },
+    {
+      "question": "¿Cuál es el enfoque que subyace a las tres fases de estrategias lectoras de Solé (1992)?",
+      "options": [
+        "La enseñanza de la lectura debe abarcar todas sus fases, no solo el acto lector en sí",
+        "La comprensión lectora se construye principalmente durante la lectura",
+        "Las estrategias previas son más importantes que las estrategias posteriores",
+        "El docente debe intervenir especialmente en las estrategias de comprensión posteriores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La organización en tres momentos de Solé (1992) pone el énfasis en la importancia de que el docente enfoque la enseñanza de la lectura en todas sus fases, no solo durante la lectura. Esto contrasta con enfoques que solo trabajan la comprensión durante o después del acto lector."
+    },
+    {
+      "question": "¿Cuál de los objetivos del PLEA aborda específicamente la consolidación de las bibliotecas escolares?",
+      "options": [
+        "Consolidar las bibliotecas escolares como centros de recursos para el aprendizaje, gozo de la lectura y desarrollo de habilidades escritoras",
+        "Implicar a toda la comunidad educativa para favorecer el hábito lector",
+        "Promover el uso de herramientas de diagnóstico y evaluación de la competencia lectora",
+        "Implementar y reforzar la competencia lectora desde todas las áreas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El sexto objetivo del PLEA es consolidar las bibliotecas escolares como centros de recursos para el aprendizaje, gozo de la lectura y para el desarrollo de habilidades escritoras y de acceso a la información. Los otros objetivos mencionados son el séptimo, el octavo y el quinto respectivamente."
+    },
+    {
+      "question": "¿Qué diferencia la evaluación psicopedagógica de la evaluación inicial en el proceso de detección de DEA?",
+      "options": [
+        "La evaluación inicial la hace el tutor en el aula; la psicopedagógica la elabora la jefatura de estudios con el DO",
+        "La evaluación inicial es sumativa y la psicopedagógica es formativa",
+        "La evaluación inicial detecta dificultades generales y la psicopedagógica solo trastornos graves",
+        "La evaluación inicial se realiza al inicio del curso y la psicopedagógica al final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación inicial la realiza el tutor mediante la observación en el aula para la detección temprana. Si se detectan dificultades, el caso se deriva al DO para que la jefatura elabore la evaluación psicopedagógica, cuyos resultados se recogen en el informe psicopedagógico."
+    },
+    {
+      "question": "¿Qué aspecto de las características del texto afecta a la comprensión lectora además de su estructura?",
+      "options": [
+        "La extensión y el contenido de la información",
+        "La tipografía y el diseño gráfico del texto",
+        "El soporte en que se presenta el texto",
+        "El autor y el contexto de producción del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las características internas del texto relacionadas con su estructura, extensión y contenido de la información condicionan su comprensión. Aunque la tipografía y el soporte pueden influir, el tema específicamente menciona estructura, extensión y contenido como las características internas relevantes."
+    },
+    {
+      "question": "¿Qué describe el cuarto punto estelar del Plan LIA 2021-2025?",
+      "options": [
+        "Avanzar en las Bibliotecas Creativas",
+        "Establecer Redes de Acción, colaboración y evaluación",
+        "Fomentar las competencias ALFIN/AMI",
+        "Implementar la Red de Bibliotecas Escolares Gallegas (BEGA)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cuarto punto estelar del Plan LIA 2021-2025 es 'Avanzar en las Bibliotecas Creativas'. El primero es implementar BEGA, el segundo reforzar la Biblioteca social, el tercero establecer Redes de Acción, y el sexto fomentar las competencias ALFIN/AMI."
+    },
+    {
+      "question": "¿Qué concepto utilizan Colomer y Camps (1990) para referirse al papel activo del lector en el proceso de lectura?",
+      "options": [
+        "Un proceso cognitivo que implica la activación de los conocimientos previos para interpretar y comprender la información",
+        "Un proceso activo de reproducción de la forma y contenido del mensaje escrito",
+        "Un proceso interactivo entre el lector y el texto para reconstruir significados",
+        "Un proceso constructivo e inferencial basado en las experiencias del lector"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Colomer y Camps (1990) concretan que el acto de leer requiere un proceso cognitivo que implica la activación de los conocimientos previos para interpretar y comprender la información, mantener la atención y la motivación y generar preguntas. Prado (2004) describe la lectura como proceso activo de reproducción."
+    },
+    {
+      "question": "¿Cuál es el rol específico de los signos de puntuación en el procesamiento sintáctico?",
+      "options": [
+        "Son claves presentes en la oración que ayudan a extraer el significado adecuado del texto",
+        "Indican las pausas y la entonación en la lectura oral",
+        "Marcan los límites entre las unidades léxicas del texto",
+        "Señalan el énfasis y la importancia de ciertos segmentos del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el procesamiento sintáctico, los signos de puntuación son claves presentes en la oración junto al orden de las palabras y las palabras funcionales para extraer el significado adecuado. Si bien también regulan la entonación oral, en el procesamiento sintáctico su función principal es contribuir a la comprensión de la estructura oracional."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el segundo y el primer ciclo de la EP según el Real Decreto 157/2022 en materia de lectura?",
+      "options": [
+        "El segundo ciclo avanza hacia las inferencias directas y el análisis de elementos no textuales, mientras que el primero se centra en la motivación y el acceso a la información explícita",
+        "El segundo ciclo trabaja la lectura oral y el primero la lectura silenciosa",
+        "El segundo ciclo introduce la comprensión crítica que el primero aún no trabaja",
+        "El segundo ciclo desarrolla la ruta ortográfica y el primero la ruta fonológica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el Real Decreto 157/2022, el primer ciclo se centra en la motivación y el acceso a la información explícita, y el segundo avanza hacia la realización de inferencias directas y el análisis de elementos no textuales. El tercer ciclo culmina con la autonomía para interpretar significados profundos."
+    },
+    {
+      "question": "¿Cuál es la función de la BEGA E-LBE.2 en el sistema de bibliotecas escolares gallegas?",
+      "options": [
+        "Plataforma para el préstamo de libros electrónicos y recursos educativos",
+        "Sistema de gestión y catalogación de las bibliotecas escolares",
+        "Red de comunicación entre las bibliotecas escolares gallegas",
+        "Portal de formación del profesorado en competencias informacionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "BEGA E-LBE.2 es la plataforma para el préstamo de libros electrónicos (E) y recursos educativos (LBE) en las bibliotecas escolares gallegas. KOHA-Bescolares es el sistema de gestión de la biblioteca escolar, y BEGA es la Red de Bibliotecas Escolares Gallegas."
+    },
+    {
+      "question": "¿Cuál es la relación entre las ideas generales del maestro sobre la lectura y el diseño de las experiencias lectoras?",
+      "options": [
+        "Las ideas generales del maestro sobre la lectura influirán en el diseño de las experiencias",
+        "Las ideas del maestro deben subordinarse a las indicaciones del PLEA",
+        "Las ideas del maestro se aplican solo a la selección de textos literarios",
+        "Las ideas del maestro son irrelevantes si se siguen las orientaciones pedagógicas oficiales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las ideas generales que el maestro tenga de la lectura influirán en el diseño de las experiencias lectoras. Esto subraya la importancia de la formación del docente en didáctica de la lectura y en la concepción de esta como proceso complejo, no solo como decodificación mecánica."
+    },
+    {
+      "question": "¿Cuál es el quinto punto estelar del Plan LIA 2021-2025?",
+      "options": [
+        "Fomentar la Lectura",
+        "Avanzar en las Bibliotecas Creativas",
+        "Fomentar las competencias ALFIN/AMI",
+        "Establecer Redes de Acción, colaboración y evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El quinto punto estelar del Plan LIA 2021-2025 es 'Fomentar la Lectura'. Los 7 puntos estelares son: 1) BEGA, 2) Biblioteca social, 3) Redes de Acción, 4) Bibliotecas Creativas, 5) Fomentar la Lectura, 6) Competencias ALFIN/AMI, 7) Formación e Innovación Educativa."
+    },
+    {
+      "question": "¿Cuál es el séptimo objetivo del PLEA según la Resolución del 16 de octubre de 2025?",
+      "options": [
+        "Implicar a toda la comunidad educativa para favorecer el hábito lector y el gusto por la escritura",
+        "Consolidar las bibliotecas escolares como centros de recursos para el aprendizaje",
+        "Promover el uso de herramientas de diagnóstico y evaluación",
+        "Implementar y reforzar la competencia lectora desde todas las áreas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El séptimo objetivo del PLEA es implicar a toda la comunidad educativa para favorecer el hábito lector y el gusto por la escritura. El sexto es consolidar las bibliotecas escolares, el octavo es promover herramientas de diagnóstico, y el quinto es implementar la competencia lectora desde todas las áreas."
+    },
+    {
+      "question": "¿Cuántos objetivos tiene el Plan LIA 2021-2025 para el fortalecimiento de las bibliotecas escolares según el tema?",
+      "options": [
+        "Ocho objetivos específicos para la tercera fase del Plan LIA",
+        "Siete objetivos articulados en torno a los puntos estelares",
+        "Cinco objetivos principales para el período 2021-2025",
+        "Seis objetivos relacionados con la competencia informacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA 2021-2025 tiene ocho objetivos específicos enumerados en el tema (dotar a los centros de bibliotecas útiles y sostenibles; avanzar hacia una biblioteca inclusiva; mejorar la comprensión y evaluación crítica de la información; apoyar las CC; reforzar la biblioteca como espacio estratégico digital; facilitar recursos al profesorado; incentivar el uso comunitario; y contribuir a la sociedad lectora)."
+    },
+    {
+      "question": "¿Qué concepto de lectura se puede inferir de la afirmación de Cassany et al. (1994) de que enseñar a leer es 'regalar las llaves para comprender, expresarse y participar plenamente en el mundo'?",
+      "options": [
+        "La lectura como instrumento de empoderamiento social, cognitivo y comunicativo del individuo",
+        "La lectura como habilidad técnica de decodificación de signos gráficos",
+        "La lectura como actividad recreativa y de ocio personal",
+        "La lectura como requisito para el éxito académico en las distintas áreas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La metáfora de las 'llaves' de Cassany et al. (1994) implica que la lectura empodera al individuo para comprender el mundo (dimensión cognitiva), expresarse (dimensión comunicativa) y participar plenamente en la sociedad (dimensión social). Va mucho más allá de la mera decodificación o el ocio."
+    },
+    {
+      "question": "¿Qué proceso de la ruta fonológica sigue al análisis grafémico y a la asignación de fonemas?",
+      "options": [
+        "La unión de los fonemas asignados para formar la representación fonológica de la palabra",
+        "El acceso al sistema semántico para recuperar el significado",
+        "La comparación con el léxico visual para identificar la palabra",
+        "La activación del almacén léxico fonológico para la pronunciación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la ruta fonológica, el mecanismo de conversión grafema-fonema incluye: el análisis grafémico, la asignación de fonemas y su unión. Después de la unión de fonemas se pasa al léxico auditivo donde se articulan. El acceso al sistema semántico y el léxico visual son propios de la ruta visual."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico clave que subyace a la afirmación de que 'no hay que esperar a que un niño sepa leer para motivarlo por la lectura'?",
+      "options": [
+        "La motivación lectora precede y acompaña al aprendizaje formal de la lectura",
+        "La lectura se enseña de forma implícita antes que de forma explícita",
+        "La conciencia fonológica se desarrolla antes que la lectura convencional",
+        "La lectura comprensiva precede a la lectura decodificadora en el desarrollo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El principio es que la motivación lectora debe preceder y acompañar al aprendizaje formal de la lectura. Un niño puede y debe desarrollar actitudes positivas hacia la lectura, interés por los libros y comprensión de su función antes de dominar el código. Este principio contrasta con enfoques que esperan a la decodificación para introducir la lectura."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un objetivo específico del Plan LIA 2021-2025 citado en el tema?",
+      "options": [
+        "Sistematizar la práctica lectora diaria en todos los niveles de la etapa",
+        "Dotar a los centros de bibliotecas escolares útiles, estables y sostenibles",
+        "Avanzar hacia una biblioteca escolar inclusiva",
+        "Contribuir a la creación de una sociedad lectora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sistematizar la práctica lectora diaria en todos los niveles de la etapa es un objetivo del PLEA, no del Plan LIA 2021-2025. Los objetivos del Plan LIA se centran en las bibliotecas escolares: dotarlas de recursos, hacerlas inclusivas, fortalecer ALFIN/AMI, crear sociedad lectora, etc."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre las estrategias de comprensión lectora 'establecer predicciones' y 'actualizar conocimientos previos' antes de la lectura?",
+      "options": [
+        "Las predicciones anticipan el contenido futuro del texto; actualizar conocimientos activa lo que ya se sabe sobre el tema",
+        "Las predicciones son más adecuadas para textos narrativos y los conocimientos previos para textos expositivos",
+        "Las predicciones se hacen a partir del título y los conocimientos previos a partir de imágenes",
+        "Las predicciones son estrategias del docente y los conocimientos previos estrategias del alumno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las predicciones anticipan lo que va a contener el texto (se construyen a partir de ilustraciones, títulos, etc.), mientras que actualizar conocimientos previos activa lo que el lector ya sabe sobre el tema para facilitar la comprensión. Ambas son estrategias previas del alumno, no exclusivas de ningún tipo de texto."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre la lectura es más coherente con la perspectiva de Palincsar y Brown (1984)?",
+      "options": [
+        "La comprensión es el resultado de la interacción entre las características del texto, los conocimientos del lector y las estrategias empleadas",
+        "La comprensión depende principalmente de la velocidad de decodificación del lector",
+        "La comprensión se logra fundamentalmente cuando el texto está bien estructurado y es coherente",
+        "La comprensión se desarrolla principalmente durante la lectura y no antes ni después"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Palincsar y Brown (1984) proponen que la comprensión es producto de la interacción de tres condiciones: la claridad y coherencia del texto, el conocimiento previo del lector y el uso de estrategias lectoras. Ninguno de estos factores por sí solo garantiza la comprensión; es la interacción entre todos lo que la produce."
+    },
+    {
+      "question": "¿Qué implica que el PLEA sea el 'documento de centro' para la lectura y la escritura?",
+      "options": [
+        "Que es elaborado y gestionado por el propio centro educativo, integrándose en su PE y PGA",
+        "Que es un documento elaborado por la Administración educativa para cada centro",
+        "Que solo afecta al profesorado del centro, no a la comunidad educativa en general",
+        "Que su contenido es idéntico en todos los centros de la Comunidad Autónoma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Que el PLEA sea el 'documento de centro' implica que es elaborado y gestionado por el propio centro educativo, adaptándose a su contexto específico, e integrándose en el Proyecto Educativo y la PGA. No es un documento elaborado por la Administración ni idéntico en todos los centros."
+    },
+    {
+      "question": "¿Qué argumento justifica el enfoque transversal de la lectura en todas las áreas curriculares?",
+      "options": [
+        "La lectura es una habilidad que se debe trabajar transversalmente en todas las áreas curriculares para su desarrollo integral",
+        "La lectura tiene mayor impacto si se trabaja de forma aislada en las áreas de lengua",
+        "La lectura solo puede desarrollarse plenamente en situaciones comunicativas reales fuera del aula",
+        "La lectura transversal garantiza que todos los alumnos la practiquen el mismo tiempo semanal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema destaca que aunque LCL y LGL abordan la lectura de forma específica, la lectura es una habilidad que debe trabajarse transversalmente en todas las áreas curriculares. Esto es coherente con el artículo 19 de la LOMLOE que establece la transversalidad de la comprensión lectora."
+    },
+    {
+      "question": "¿Cuál es la implicación del artículo 16 del Decreto 155/2022 para la organización del tiempo escolar?",
+      "options": [
+        "Que cada centro debe incorporar un tiempo diario de lectura y práctica de la oratoria",
+        "Que se debe reservar un período semanal para la visita a la biblioteca escolar",
+        "Que la lectura debe ocupar al menos el 20% del tiempo lectivo en todas las áreas",
+        "Que las áreas de LCL y LGL deben incrementar su carga horaria para la lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 del Decreto 155/2022 señala que para fomentar el hábito y el dominio de la lectura cada centro docente debe incorporar un tiempo diario de lectura y práctica de la oratoria. La Resolución del 1 de septiembre de 2025 concreta ese tiempo en 20-30 minutos diarios."
+    },
+    {
+      "question": "¿Qué relación tiene el 'conocimiento previo del lector' con la velocidad lectora según Smith (1990)?",
+      "options": [
+        "La velocidad en la lectura será mayor si el lector está familiarizado con el tema del texto",
+        "La velocidad lectora es independiente del conocimiento previo del lector sobre el tema",
+        "El conocimiento previo ralentiza la lectura porque el lector dedica tiempo a relacionar información",
+        "La velocidad lectora aumenta con el entrenamiento independientemente del tema del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Smith (1990) destaca que la velocidad en la lectura será mayor si el lector está familiarizado con el tema. Esto se debe a que el conocimiento previo facilita la construcción del significado, permitiendo anticipar el contenido y procesar la información con mayor rapidez y eficiencia."
+    },
+    {
+      "question": "¿Cuántos pasos incluye el mecanismo de conversión grafema-fonema de la ruta fonológica?",
+      "options": [
+        "Tres pasos: análisis grafémico, asignación de fonemas y su unión",
+        "Dos pasos: identificación de letras y pronunciación",
+        "Cuatro pasos: análisis visual, análisis grafémico, asignación de fonemas y articulación",
+        "Cinco pasos: percepción, análisis, asignación, unión y pronunciación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El mecanismo de conversión grafema-fonema incluye tres pasos: el análisis grafémico, la asignación de fonemas y su unión. Después de este mecanismo, se pasa al léxico auditivo donde se articulan los sonidos. La identificación de letras forma parte del análisis grafémico."
+    },
+    {
+      "question": "¿Cuál de los siguientes programas del PLAMBE tiene un enfoque social y solidario explícito?",
+      "options": [
+        "Bibliotecas Escolares Solidarias",
+        "Clubs de Lectura",
+        "Radio na Biblio",
+        "Lectura e Familia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las 'Bibliotecas Escolares Solidarias' tienen un enfoque social y solidario explícito en su denominación. Los Clubs de Lectura son grupos de lectura colectiva, Radio na Biblio es un proyecto de comunicación escolar, y Lectura e Familia implica a las familias en la lectura."
+    },
+    {
+      "question": "¿Qué relación existe entre las DEA de lectura 'de superficie' y la discriminación viso-espacial?",
+      "options": [
+        "Las DEA 'de superficie' se manifiestan con errores de percepción y discriminación viso-espacial, como confundir letras por su forma",
+        "Las DEA 'de superficie' solo afectan a la velocidad lectora sin errores en la discriminación visual",
+        "Las DEA 'de superficie' implican dificultades en la ruta fonológica para reconocer las letras",
+        "Las DEA 'de superficie' son las más superficiales y afectan a la comprensión del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las DEA 'de superficie' o dislexias se caracterizan por errores de percepción y discriminación viso-espacial, como confundir letras por su similitud visual (b/d, p/q, etc.). Son diferentes de las fonológicas (errores lingüísticos) y de las de comprensión (que afectan al significado)."
+    },
+    {
+      "question": "¿Cuál es el objetivo del PLEA que conecta directamente con el enfoque competencial del currículo?",
+      "options": [
+        "Implementar y reforzar la competencia lectora, escritora e informacional desde todas las áreas",
+        "Mejorar la competencia lectora de todo el alumnado y fomentar la lectura crítica",
+        "Consolidar las bibliotecas escolares como centros de recursos para el aprendizaje",
+        "Favorecer las alfabetizaciones múltiples y fomentar el uso crítico de la información"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo 'Implementar y reforzar la competencia lectora, escritora e informacional desde todas las áreas' conecta directamente con el enfoque competencial del currículo al trabajar competencias de forma transversal en todas las áreas. El primer objetivo menciona la lectura crítica, pero desde un enfoque más específico de competencia lectora."
+    },
+    {
+      "question": "¿Qué propone Solé (1992) para cada estrategia lectora en relación con el momento de la lectura?",
+      "options": [
+        "Que cada momento de la lectura requiere estrategias específicas y diferenciadas",
+        "Que todas las estrategias pueden aplicarse indistintamente en cualquier momento de la lectura",
+        "Que las estrategias durante la lectura son más efectivas que las anteriores o posteriores",
+        "Que solo las estrategias posteriores garantizan la comprensión profunda del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Solé (1992) propone que cada momento de la lectura requiere estrategias específicas y diferenciadas: antes para activar conocimientos e identificar objetivos, durante para establecer inferencias y controlar la comprensión, y después para recapitular y asegurar el aprendizaje. No hay estrategias universales para todos los momentos."
+    },
+    {
+      "question": "¿Cuál es la implicación de la afirmación de que 'la lectura es un proceso interactivo y cognitivo que involucra al lector y al texto'?",
+      "options": [
+        "El significado se construye en la interacción entre los conocimientos del lector y la información del texto, no solo en el texto",
+        "La lectura requiere que el lector tenga conocimientos equivalentes a los del autor del texto",
+        "La interacción entre lector y texto es posible solo cuando el lector tiene un nivel lector avanzado",
+        "El texto determina el significado y el lector lo recibe de forma pasiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Que la lectura sea un proceso interactivo y cognitivo implica que el significado se construye en la interacción entre los conocimientos del lector y la información del texto. El significado no está únicamente en el texto (visión transmisiva) ni únicamente en el lector (visión constructivista extrema), sino en la interacción de ambos."
+    },
+    {
+      "question": "¿Cuál es el propósito de 'generar preguntas' como estrategia antes de la lectura?",
+      "options": [
+        "Ayudar a los alumnos a identificar lo que saben y lo que necesitan aprender o repasar sobre el tema",
+        "Establecer los criterios de evaluación de la comprensión lectora posterior",
+        "Verificar si los alumnos tienen los conocimientos previos suficientes para comprender el texto",
+        "Motivar al alumnado creando expectativas sobre el contenido del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Generar preguntas antes de la lectura ayuda a que los alumnos identifiquen lo que saben y lo que necesitan aprender o repasar sobre el tema. Aunque también puede motivar, su función principal es metacognitiva: concienciar al alumno sobre su propio conocimiento previo y sus lagunas."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la identificación de la idea principal y la elaboración de resúmenes como estrategias de comprensión?",
+      "options": [
+        "La idea principal identifica el tema central del texto; el resumen condensa todas las ideas principales desechando la información trivial",
+        "La idea principal se identifica antes de la lectura y el resumen después",
+        "La idea principal es adecuada para textos cortos y el resumen para textos largos",
+        "La idea principal es una estrategia del alumno y el resumen una estrategia guiada por el docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La identificación de la idea principal se centra en encontrar el tema central del texto. El resumen es más amplio: condensa todas las ideas principales desechando la información trivial, agrupando ideas y elaborando una síntesis del texto. El resumen incluye la idea principal pero también otras ideas secundarias relevantes."
+    },
+    {
+      "question": "¿Cuál es la diferencia clave entre la ruta visual y la ruta fonológica en el procesamiento léxico?",
+      "options": [
+        "La ruta visual reconoce palabras por su forma global; la fonológica convierte las letras en sonidos para identificar la palabra",
+        "La ruta visual es más rápida para palabras cortas y la fonológica para palabras largas",
+        "La ruta visual se usa para la lectura silenciosa y la fonológica para la lectura oral",
+        "La ruta visual procesa el texto de izquierda a derecha y la fonológica de forma global"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La diferencia fundamental es que la ruta visual reconoce palabras directamente por su forma visual comparándolas con el léxico visual almacenado, mientras que la ruta fonológica convierte las letras en sonidos mediante el mecanismo grafema-fonema. La ruta visual es más eficaz para palabras familiares; la fonológica, para palabras nuevas."
+    },
+    {
+      "question": "¿Cuál de los siguientes objetivos del PLEA aborda específicamente la producción de textos en múltiples formatos?",
+      "options": [
+        "Mejorar la producción de textos escritos en múltiples soportes",
+        "Implementar y reforzar la competencia lectora, escritora e informacional",
+        "Favorecer las alfabetizaciones múltiples y el uso crítico de la información",
+        "Sistematizar la práctica lectora diaria en todos los niveles"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tercer objetivo del PLEA es específicamente 'Mejorar la producción de textos escritos en múltiples soportes', abordando la escritura en formatos variados. El quinto objetivo aborda la competencia lectora, escritora e informacional desde todas las áreas, y el cuarto las alfabetizaciones múltiples."
+    },
+    {
+      "question": "¿Qué se entiende por 'déficit en la coordinación ejecutiva de activación en la memoria de largo plazo' como dificultad de comprensión lectora?",
+      "options": [
+        "Dificultad para activar y coordinar los conocimientos almacenados en la memoria a largo plazo durante la comprensión",
+        "Dificultad para recordar lo que se ha leído al finalizar el texto",
+        "Dificultad para memorizar textos y reproducirlos de forma literal",
+        "Dificultad para mantener activa la información de inicio del texto hasta el final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El déficit en la coordinación ejecutiva de activación en la memoria de largo plazo implica dificultad para activar y coordinar los conocimientos relevantes almacenados en la memoria a largo plazo que son necesarios para la comprensión. Se distingue de los déficits en la memoria de trabajo (que mantiene información activa durante la lectura)."
+    },
+    {
+      "question": "¿En qué se diferencia la definición del PLEA de la de un plan de lectura tradicional?",
+      "options": [
+        "El PLEA integra además de la lectura, la escritura y el acceso y tratamiento de la información",
+        "El PLEA se limita al fomento de la lectura literaria y el gusto por los libros",
+        "El PLEA es un documento de la Administración, no del centro educativo",
+        "El PLEA sustituye al Plan de Biblioteca en los centros que lo implementen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PLEA supera el concepto de plan de lectura tradicional porque integra también la escritura y el acceso y tratamiento de la información, además del fomento de la lectura. Es un documento más amplio que aborda las habilidades informacionales y comunicativas en conjunto. El Plan de Biblioteca sigue siendo obligatorio junto al PLEA."
+    },
+    {
+      "question": "¿Cuál es la implicación pedagógica de que la fase ortográfica consolide un 'léxico interno'?",
+      "options": [
+        "El alumno reconoce palabras por su representación ortográfica almacenada, sin necesidad de decodificación letra a letra",
+        "El alumno aprende las reglas ortográficas para escribir correctamente las palabras",
+        "El alumno construye un vocabulario de palabras que puede leer en voz alta con fluidez",
+        "El alumno almacena en la memoria las palabras más frecuentes del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La consolidación de un léxico interno en la fase ortográfica implica que el alumno reconoce palabras por su representación ortográfica global almacenada en la memoria, sin necesidad de decodificación letra a letra. Esto corresponde a la ruta visual o léxica del modelo de Cuetos y explica por qué la lectura se vuelve fluida y automática."
+    },
+    {
+      "question": "¿Cuál de los siguientes autores propuso explícitamente el concepto de 'estrategias lectoras' organizadas en tres momentos?",
+      "options": [
+        "Solé (1992)",
+        "Palincsar y Brown (1984)",
+        "Cuetos (2008)",
+        "Frith (1985)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Solé (1992) es quien organiza las estrategias en tres momentos de la lectura: previas a la lectura, durante y después. Palincsar y Brown (1984) propusieron las condiciones de la comprensión lectora desde una perspectiva constructivista. Cuetos (2008) propuso los cuatro procesos psicológicos. Frith (1985) propuso las tres fases del proceso lector."
+    },
+    {
+      "question": "¿Cuál es la función específica del Plan de Biblioteca respecto al PLEA según el tema?",
+      "options": [
+        "La biblioteca escolar debe ser facilitadora de todas las actuaciones del PLEA",
+        "El Plan de Biblioteca establece los objetivos de lectura que el PLEA debe implementar",
+        "El Plan de Biblioteca precede al PLEA en la secuencia de planes obligatorios del centro",
+        "El Plan de Biblioteca y el PLEA son documentos independientes sin relación funcional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Resolución del 1 de septiembre de 2025 establece que la biblioteca escolar debe ser facilitadora de todas las actuaciones del PLEA. Esto significa que el Plan de Biblioteca tiene una función de apoyo y soporte a las acciones del PLEA, incluyendo el tiempo diario de lectura."
+    },
+    {
+      "question": "¿Qué tipo de déficit en la fase de reconocimiento se relaciona con la dificultad para distinguir letras visualmente similares?",
+      "options": [
+        "Déficit en la identificación de los rasgos discriminativos de las letras y palabras",
+        "Déficit en la conversión grafema-fonema",
+        "Déficit en las habilidades de segmentación",
+        "Déficit en la automatización del reconocimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El déficit en la identificación de los rasgos discriminativos de las letras y palabras implica dificultad para distinguir letras que son visualmente similares (como 'b' y 'd', o 'p' y 'q'). Es diferente del déficit en la conversión grafema-fonema (correspondencia letra-sonido) y del déficit en la segmentación (separación de unidades)."
+    },
+    {
+      "question": "¿Cuál es la diferencia conceptual entre 'leer para obtener información' y 'leer para aprender'?",
+      "options": [
+        "'Leer para obtener información' busca datos concretos; 'leer para aprender' persigue la adquisición de nuevos conocimientos y conceptos",
+        "'Leer para obtener información' usa textos informativos y 'leer para aprender' usa textos académicos",
+        "'Leer para obtener información' es una actividad individual y 'leer para aprender' es colectiva",
+        "No hay diferencia; ambos términos describen el mismo tipo de lectura funcional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aunque relacionadas, las orientaciones pedagógicas distinguen 'leer para obtener información' (búsqueda de datos específicos y concretos) de 'leer para aprender' (proceso más profundo de adquisición de nuevos conocimientos y conceptos que se integran con los previos). Junto a estas se añade 'leer por placer'."
+    },
+    {
+      "question": "¿Qué función cumple el 'análisis visual' en la ruta visual del procesamiento léxico?",
+      "options": [
+        "Analizar la forma visual de la palabra para compararla con las unidades almacenadas en el léxico visual",
+        "Convertir los rasgos visuales de las letras en sus equivalentes fonológicos",
+        "Extraer la información gráfica del texto para almacenarla en la memoria icónica",
+        "Identificar el significado de la palabra directamente a partir de su forma ortográfica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El análisis visual en la ruta visual analiza la forma visual de la palabra para poder compararla e identificarla con las unidades almacenadas en el léxico visual. Este paso precede a la identificación en el léxico visual y al acceso al sistema semántico. No convierte a fonemas (eso es la ruta fonológica) ni extrae a la memoria icónica (eso son los procesos perceptivos)."
+    },
+    {
+      "question": "¿Qué aspecto del proceso lector destaca específicamente Cuetos (2008) respecto a la memoria de trabajo?",
+      "options": [
+        "La memoria de trabajo permite retener el inicio de una oración hasta el final para extraer el significado completo",
+        "La memoria de trabajo almacena el léxico visual de todas las palabras conocidas",
+        "La memoria de trabajo es la responsable del procesamiento semántico profundo del texto",
+        "La memoria de trabajo activa los conocimientos previos necesarios para la comprensión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cuetos (2008) destaca que la memoria de trabajo es la que permite retener el inicio de una oración hasta el final y extraer el significado completo. Sin este almacenamiento temporal activo, no sería posible comprender oraciones que se extienden a lo largo de varias palabras o cláusulas."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos es específico de la lectura independiente (no de la lectura compartida) según las estrategias durante la lectura?",
+      "options": [
+        "El alumno impone su propio ritmo y el docente proporciona materiales con preguntas intercaladas o textos con errores",
+        "El docente formula predicciones y plantea preguntas sobre el texto",
+        "El docente aclara dudas y resume las ideas del texto con el alumnado",
+        "El alumno y el docente leen juntos el texto en voz alta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la lectura independiente, el alumno impone su ritmo y el docente proporciona materiales preparados: preguntas a lo largo del texto, textos con errores, textos con palabras que faltan o resúmenes en fragmentos. En la lectura compartida es el docente quien guía activamente predicciones, preguntas y aclaraciones."
+    },
+    {
+      "question": "¿Cuál es la secuencia correcta del proceso de elaboración de un resumen según las estrategias de comprensión?",
+      "options": [
+        "Encontrar el tema principal → desechar información repetitiva → agrupar ideas → elaborar una frase-resumen",
+        "Leer el texto → subrayar palabras clave → escribir el resumen → revisar",
+        "Identificar la idea principal → resumir los párrafos → eliminar detalles → redactar",
+        "Activar conocimientos previos → leer → seleccionar ideas → comparar con el texto original"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de comprensión lectora proponen esta secuencia para elaborar un resumen: encontrar el tema principal, desechar información repetitiva, agrupar ideas y elaborar una frase-resumen. Esta secuencia progresiva va de la identificación global a la síntesis específica."
+    },
+    {
+      "question": "¿Qué papel desempeñan las palabras funcionales (artículos, conjunciones, preposiciones) en el procesamiento sintáctico?",
+      "options": [
+        "Son claves que ayudan a comprender las relaciones entre los elementos de la oración para extraer el significado correcto",
+        "Indican la categoría gramatical de las palabras léxicas que las acompañan",
+        "Facilitan la segmentación del texto en unidades de significado",
+        "Permiten identificar el tema y el rema de cada oración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las palabras funcionales (artículos, conjunciones, preposiciones) son claves en el procesamiento sintáctico que ayudan a comprender las relaciones entre los elementos de la oración para extraer el significado correcto. Junto al orden de las palabras y los signos de puntuación, permiten interpretar la estructura sintáctica del enunciado."
+    },
+    {
+      "question": "¿Cuál es el enfoque de la lectura que subyace al objetivo de 'diseñar situaciones reales de uso de la lectura'?",
+      "options": [
+        "Un enfoque funcional y comunicativo de la lectura como herramienta para la vida cotidiana",
+        "Un enfoque académico de la lectura como habilidad para el aprendizaje de las áreas",
+        "Un enfoque lúdico de la lectura como actividad de ocio y entretenimiento",
+        "Un enfoque analítico de la lectura como objeto de estudio lingüístico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El diseño de situaciones reales de uso de la lectura responde a un enfoque funcional y comunicativo que concibe la lectura como una herramienta para la vida cotidiana. Las tres funciones explicitadas (obtener información, aprender y por placer) corresponden a usos reales y auténticos de la lectura."
+    },
+    {
+      "question": "¿Cuál de los siguientes aspectos no está incluido en la definición del PLEA como 'documento de centro'?",
+      "options": [
+        "La gestión económica de los fondos bibliográficos de la biblioteca escolar",
+        "El fomento de la lectura y la escritura",
+        "Las habilidades en el uso y tratamiento de la información",
+        "La comunicación del conocimiento como apoyo a las CC"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La definición del PLEA incluye las intervenciones para el fomento de la lectura, escritura, habilidades en el uso y tratamiento de la información y la comunicación del conocimiento como apoyo a las CC. La gestión económica de los fondos bibliográficos no forma parte del PLEA; esa es una función administrativa del Plan de Biblioteca."
+    },
+    {
+      "question": "¿Cuál es el argumento de Frith (1985) para diferenciar la fase ortográfica de la alfabética?",
+      "options": [
+        "En la ortográfica los procesos decodificadores están automatizados y el lector reconoce palabras con mayor rapidez que en la alfabética",
+        "En la ortográfica el lector aprende las reglas ortográficas y en la alfabética las reglas fonológicas",
+        "En la ortográfica la lectura es oral y en la alfabética es silenciosa",
+        "En la ortográfica se inicia el reconocimiento global y en la alfabética la decodificación letra a letra"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La diferencia clave es que en la fase ortográfica los procesos decodificadores están automatizados, lo que permite reconocer palabras con mayor rapidez que en la fase alfabética, donde la decodificación aún requiere esfuerzo consciente. La fase ortográfica no implica aprender reglas ortográficas, sino automatizar el reconocimiento."
+    },
+    {
+      "question": "¿Qué relación establece el tema entre los conocimientos previos del lector y la comprensión lectora?",
+      "options": [
+        "Los conocimientos previos permiten atribuir significado al texto, facilitando su comprensión",
+        "Los conocimientos previos pueden interferir con la comprensión cuando contradice la información del texto",
+        "Los conocimientos previos son menos importantes que las estrategias lectoras para la comprensión",
+        "Los conocimientos previos solo facilitan la comprensión si el lector es consciente de ellos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los conocimientos previos del lector permiten atribuir significado al texto, facilitando su comprensión. Tanto los conocimientos sobre el tipo de texto y su estructura como los conocimientos sobre el tema y el mundo contribuyen a que el lector construya el significado del texto de forma eficiente."
+    },
+    {
+      "question": "¿Cuál es el último objetivo del PLEA según la Resolución del 16 de octubre de 2025?",
+      "options": [
+        "Promover el uso de herramientas de diagnóstico y evaluación de la competencia lectora, escritora e informacional",
+        "Implicar a toda la comunidad educativa para favorecer el hábito lector",
+        "Consolidar las bibliotecas escolares como centros de recursos para el aprendizaje",
+        "Sistematizar la práctica lectora diaria en todos los niveles de la etapa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El octavo y último objetivo del PLEA es promover el uso de herramientas de diagnóstico y evaluación de la competencia lectora, escritora e informacional. El séptimo es implicar a la comunidad educativa, el sexto es consolidar las bibliotecas y el segundo es sistematizar la práctica lectora."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre la lectura es más coherente con la perspectiva expresada en la conclusión del tema?",
+      "options": [
+        "La lectura es un conjunto de conocimientos, habilidades y estrategias que implican la reflexión y comprensión del texto",
+        "La lectura es fundamentalmente un proceso mecánico de decodificación de signos gráficos",
+        "La lectura se desarrolla completamente durante la Educación Primaria y se automatiza en secundaria",
+        "La lectura es una habilidad innata que se activa con la maduración biológica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema afirma explícitamente que la lectura no es una mera descodificación mecánica sino un conjunto de conocimientos, habilidades y estrategias que implican la reflexión y comprensión del texto, y que se van desarrollando a través de diferentes etapas a lo largo de la vida."
+    },
+    {
+      "question": "¿Cuál de los objetivos del Plan LIA 2021-2025 hace referencia a los valores de ciudadanía?",
+      "options": [
+        "Incentivar el uso de las bibliotecas escolares por la comunidad educativa para la vivencia de los valores de ciudadanía",
+        "Avanzar hacia una biblioteca escolar inclusiva",
+        "Contribuir a la creación de una sociedad lectora",
+        "Reforzar el papel de la biblioteca como espacio estratégico de acceso al conocimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo 'Incentivar el uso de las bibliotecas escolares por la comunidad educativa para la vivencia de los valores de ciudadanía' es el que hace referencia explícita a los valores de ciudadanía. Avanzar hacia una biblioteca inclusiva, contribuir a la sociedad lectora y reforzar el espacio digital son objetivos distintos."
+    },
+    {
+      "question": "¿Cuál es la característica más específica de la fase logográfica que la diferencia del mero reconocimiento de imágenes?",
+      "options": [
+        "El niño reconoce palabras escritas de forma global, no solo imágenes, aunque sin analizar cada letra",
+        "El niño reconoce únicamente imágenes asociadas a palabras, no las palabras escritas",
+        "El niño comienza a establecer correspondencias entre letras y sonidos de forma sistemática",
+        "El niño identifica la forma global de las palabras y puede escribirlas aunque no leerlas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La característica específica de la fase logográfica es que el niño reconoce palabras escritas de forma global (como unidades visuales completas), no solo imágenes. Aunque aún no analiza las letras individualmente, hay reconocimiento de la forma escrita de palabras familiares como el propio nombre o logotipos."
+    },
+    {
+      "question": "¿Qué implica el quinto objetivo del PLEA en relación con las áreas curriculares?",
+      "options": [
+        "Que la competencia lectora, escritora e informacional debe desarrollarse desde todas las áreas, no solo desde las áreas de lengua",
+        "Que todas las áreas deben incluir actividades específicas de lectura literaria",
+        "Que el PLEA es un documento que afecta exclusivamente a las áreas de LCL y LGL",
+        "Que cada área debe tener su propio plan lector integrado en el PLEA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El quinto objetivo del PLEA establece implementar y reforzar la competencia lectora, escritora e informacional desde todas las áreas. Esto implica un enfoque transversal donde todas las áreas contribuyen al desarrollo de estas competencias, no solo LCL y LGL, coherente con el artículo 19 de la LOMLOE."
+    }
+  ]
+}

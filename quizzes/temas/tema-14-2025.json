@@ -1,0 +1,2208 @@
+{
+  "title": "Tema 14. Lengua Castellana y Literatura en Educación Primaria",
+  "description": "Preguntas sobre el área de LCL en EP: enfoque, características, propuestas metodológicas, planes obligatorios y proyectos de innovación.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Cuál es el objetivo principal del área de Lengua Castellana y Literatura (LCL) en la Educación Primaria?",
+      "options": [
+        "Dotar al alumnado de competencias comunicativas, plurilingües e interculturales desarrollando las habilidades de hablar, escuchar, leer, comprender y escribir",
+        "Desarrollar únicamente la comprensión lectora en lengua castellana como base del aprendizaje",
+        "Enseñar gramática y ortografía como fundamento lingüístico del currículo",
+        "Fomentar la producción de textos escritos formales en distintos géneros discursivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo es dotar al alumnado de competencias comunicativas, plurilingües e interculturales desarrollando las habilidades de hablar, escuchar, leer, comprender y escribir para desenvolverse en distintos contextos."
+    },
+    {
+      "question": "Según el texto, ¿qué tratamiento curricular reciben la LCL y la LGL en la Educación Primaria en Galicia?",
+      "options": [
+        "La LGL tiene mayor número de sesiones semanales que la LCL en todos los cursos",
+        "La LCL tiene carácter prioritario sobre la LGL al ser la lengua oficial del Estado",
+        "Ambas presentan un tratamiento curricular equivalente en la Educación Primaria",
+        "La LGL se integra en la LCL sin diferenciación curricular específica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LCL coexiste con la LGL en Galicia, presentando ambas un tratamiento curricular equivalente en la Educación Primaria."
+    },
+    {
+      "question": "¿Cuál es el marco legislativo central que regula el currículo de LCL en la Comunidad Autónoma de Galicia?",
+      "options": [
+        "LOMCE y Decreto 130/2007, de 28 de junio",
+        "LOMLOE y Decreto 155/2022, de 15 de septiembre",
+        "LOE y Decreto 79/2010, de 20 de mayo",
+        "LOGSE y Real Decreto 157/2022, de 1 de marzo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El marco legislativo central es la LOMLOE (Ley Orgánica 3/2020) y el Decreto 155/2022, de 15 de septiembre, que establece la ordenación y el currículo de la EP en Galicia."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se recoge la finalidad de la Educación Primaria relativa a la expresión, comprensión oral, lectura y escritura?",
+      "options": [
+        "Artículo 2",
+        "Artículo 4",
+        "Artículo 6",
+        "Artículo 7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4 del Decreto 155/2022 recoge la finalidad de la EP de facilitar los aprendizajes de la expresión y comprensión oral, la lectura y la escritura."
+    },
+    {
+      "question": "¿Cuál es el objetivo de etapa del Decreto 155/2022 más directamente vinculado al área de LCL?",
+      "options": [
+        "Objetivo \"a\": desarrollar la capacidad para comunicarse con otras culturas",
+        "Objetivo \"c\": conocer y apreciar los valores del entorno natural",
+        "Objetivo \"e\": conocer y utilizar la lengua gallega y castellana y desarrollar hábitos de lectura",
+        "Objetivo \"h\": valorar la higiene y la salud y respetar el deporte"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de LCL se vincula estrechamente con el objetivo \"e\" del artículo 7, que expone la necesidad de que el alumnado conozca y utilice adecuadamente la lengua castellana y gallega y desarrolle hábitos de lectura."
+    },
+    {
+      "question": "¿Qué decreto regula el plurilingüismo en la enseñanza no universitaria de Galicia?",
+      "options": [
+        "Decreto 79/2010, de 20 de mayo",
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 229/2011, de 7 de diciembre",
+        "Decreto 374/1996, de 17 de octubre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 79/2010, de 20 de mayo, regula el plurilingüismo en la enseñanza no universitaria de Galicia."
+    },
+    {
+      "question": "¿Cuántas sesiones semanales tienen LCL y LGL en todos los cursos de Educación Primaria según el Decreto 155/2022?",
+      "options": [
+        "Tres sesiones semanales",
+        "Cuatro sesiones semanales",
+        "Cinco sesiones semanales",
+        "Dos sesiones semanales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el Anexo III del Decreto 155/2022, LCL y LGL cuentan con cuatro sesiones semanales en todos los cursos de Educación Primaria."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 79/2010 establece la distribución equitativa de las áreas que se imparten en gallego y castellano?",
+      "options": [
+        "Artículo 4",
+        "Artículo 6",
+        "Artículo 8",
+        "Artículo 10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 79/2010 establece la distribución equitativa de las áreas que se imparten en gallego y castellano."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 79/2010, ¿qué área se imparte en castellano?",
+      "options": [
+        "Ciencias de la Naturaleza",
+        "Ciencias Sociales",
+        "Matemáticas",
+        "Educación Artística"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 6 del Decreto 79/2010 establece que Matemáticas se imparte en castellano, mientras que CCNN y CCSS se imparten en gallego."
+    },
+    {
+      "question": "¿Qué áreas se imparten en gallego según el artículo 6 del Decreto 79/2010?",
+      "options": [
+        "Matemáticas y Educación Artística",
+        "Ciencias de la Naturaleza y Ciencias Sociales",
+        "Educación Física y Valores Cívicos",
+        "Ciencias Sociales y Matemáticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 6 del Decreto 79/2010, las Ciencias de la Naturaleza y las Ciencias Sociales se imparten en gallego. Matemáticas se imparte en castellano."
+    },
+    {
+      "question": "¿En qué anexo del Decreto 155/2022 se recoge el número de sesiones semanales de LCL?",
+      "options": [
+        "Artículo 16",
+        "Artículo 33",
+        "Anexo III",
+        "Anexo II"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El número de sesiones semanales de las áreas, incluida la LCL, se recoge en el Anexo III del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué tipo de enfoque adopta la LCL para que el alumnado pueda resolver situaciones comunicativas de su vida diaria?",
+      "options": [
+        "Enfoque gramatical y normativo centrado en las reglas de la lengua",
+        "Enfoque comunicativo y funcional",
+        "Enfoque literario y creativo centrado en géneros textuales",
+        "Enfoque cognitivo basado en el desarrollo psicoevolutivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 establece que el currículo de LCL adopta un enfoque comunicativo y funcional para que el alumnado resuelva situaciones comunicativas de su vida diaria."
+    },
+    {
+      "question": "¿Qué tres características definen el enfoque competencial del área de LCL?",
+      "options": [
+        "Comunicativo, literario y gramatical",
+        "Transversal, dinámico e integral",
+        "Funcional, normativo y cultural",
+        "Digital, inclusivo y plurilingüe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El enfoque competencial del área de LCL se caracteriza por su transversalidad, dinamismo y carácter integral, en coherencia con el currículo de la EP."
+    },
+    {
+      "question": "¿Qué tipo de lectura promueve el área de LCL según el Decreto 155/2022?",
+      "options": [
+        "Una lectura centrada en textos literarios clásicos de la tradición hispánica",
+        "Una lectura inclusiva y no sexista que fomente la igualdad de género",
+        "Una lectura orientada principalmente a la comprensión literal de textos informativos",
+        "Una lectura basada en textos digitales y contenidos audiovisuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 establece que el área de LCL debe promover una lectura inclusiva y no sexista que fomente la igualdad de género."
+    },
+    {
+      "question": "¿Cuál es la característica del área de LCL que la convierte en un área instrumental junto con las Matemáticas?",
+      "options": [
+        "Su carácter europeo del contenido al integrarse en sistemas educativos europeos",
+        "Su finalidad comunicativa como principal medio de comunicación social",
+        "Su carácter instrumental al permitir la adquisición de conocimientos a través de la comprensión y expresión de la información",
+        "Su capacidad reguladora de la conducta para organizar las propias acciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de LCL tiene un carácter instrumental que, junto con las Matemáticas, permite la adquisición de conocimientos a través de la comprensión y expresión de la información, justificando su presencia transversal."
+    },
+    {
+      "question": "¿Cuál es la característica del área de LCL que describe su función para organizar, guiar y controlar las propias acciones y las ajenas?",
+      "options": [
+        "Carácter formativo como instrumento básico del pensamiento",
+        "Carácter instrumental para la adquisición de conocimientos",
+        "Carácter regulador de la conducta",
+        "Carácter europeo del contenido"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El carácter regulador de la conducta del área de LCL se refiere a su uso para organizar, guiar y controlar las propias acciones y las ajenas."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 recoge los elementos transversales que el área de LCL debe promover?",
+      "options": [
+        "Artículo 3",
+        "Artículo 6",
+        "Artículo 16",
+        "Artículo 17"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El artículo 17 del Decreto 155/2022 recoge los elementos transversales que el área de LCL debe trabajar, como la comprensión lectora, la expresión oral y escrita o la comunicación audiovisual."
+    },
+    {
+      "question": "¿Cómo define el artículo 6 del Decreto 155/2022 las orientaciones pedagógicas?",
+      "options": [
+        "Como el conjunto de objetivos, competencias, contenidos, métodos y criterios de evaluación del área",
+        "Como las indicaciones para orientar al profesorado en el diseño y planificación de estrategias con la finalidad de favorecer el aprendizaje del alumnado",
+        "Como los criterios de evaluación que miden el desempeño competencial del alumnado",
+        "Como los recursos didácticos recomendados para la intervención educativa en el área"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las orientaciones pedagógicas como las indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes para favorecer el aprendizaje."
+    },
+    {
+      "question": "¿Qué teoría justifica que la enseñanza de LCL parta del nivel de desarrollo psicoevolutivo del alumnado?",
+      "options": [
+        "La teoría del aprendizaje significativo de Ausubel",
+        "La teoría del desarrollo cognitivo de Piaget",
+        "La teoría de la Zona de Desarrollo Próximo de Vygotsky",
+        "La teoría del aprendizaje cooperativo de Johnson y Johnson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La teoría del desarrollo cognitivo de Piaget justifica que la enseñanza parta del nivel de desarrollo psicoevolutivo del alumnado."
+    },
+    {
+      "question": "¿A qué autor se atribuye el concepto de Zona de Desarrollo Próximo (ZDP) en las propuestas metodológicas de LCL?",
+      "options": [
+        "Piaget",
+        "Ausubel",
+        "Cassany",
+        "Vygotsky"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El concepto de Zona de Desarrollo Próximo (ZDP) es atribuido a Vygotsky. Las propuestas metodológicas del área buscan trabajar esta ZDP para potenciar el desarrollo del alumnado."
+    },
+    {
+      "question": "¿Cómo se realiza la graduación entre ciclos en el área de LCL?",
+      "options": [
+        "En función del número de palabras y la extensión de las actividades escritas",
+        "En función de la complejidad de los textos trabajados",
+        "En función del tipo de metodología empleada en cada ciclo",
+        "En función de los géneros literarios abordados en cada nivel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La graduación entre ciclos en el área de LCL se realiza en función de la complejidad de los textos, conforme al enfoque competencial y al currículo en espiral."
+    },
+    {
+      "question": "¿Qué establece el artículo 16 del Decreto 155/2022 en relación con la lectura para todos los centros?",
+      "options": [
+        "El plan de lectura anual que cada centro debe elaborar e integrar en su PGA",
+        "El tiempo diario de lectura y práctica de la oratoria que se demanda para todos los centros",
+        "Los criterios de evaluación de la comprensión lectora por ciclos y niveles",
+        "Los proyectos de innovación vinculados a la lectura en que los centros pueden participar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16 del Decreto 155/2022 demanda el tiempo diario de lectura y práctica de la oratoria para todos los centros educativos de la etapa."
+    },
+    {
+      "question": "¿Qué tipo de propuesta metodológica garantiza la progresión gradual de los aprendizajes conforme al currículo en espiral?",
+      "options": [
+        "La repetición sistemática de actividades con el mismo nivel de dificultad",
+        "El diseño de situaciones de aprendizaje contextualizadas que integren todos los bloques del currículo",
+        "La evaluación sumativa al final de cada unidad didáctica para medir el progreso",
+        "La elaboración de materiales diferenciados por niveles dentro del mismo grupo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El diseño de situaciones de aprendizaje contextualizadas que integren todos los bloques del currículo garantiza la progresión gradual conforme al enfoque competencial y al currículo en espiral."
+    },
+    {
+      "question": "¿Qué marco pedagógico para la atención a la diversidad se menciona explícitamente en las propuestas metodológicas de LCL?",
+      "options": [
+        "Plan de Atención a la Diversidad (PAD)",
+        "Plan de Acción Tutorial (PAT)",
+        "Diseño Universal para el Aprendizaje (DUA)",
+        "Programa de Refuerzo y Apoyo Educativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las propuestas metodológicas de LCL mencionan explícitamente el Diseño Universal para el Aprendizaje (DUA) para atender a la diversidad del alumnado respetando ritmos, estilos y necesidades."
+    },
+    {
+      "question": "¿Cuáles son los principios pedagógicos en que se basan las propuestas metodológicas generales del área de LCL?",
+      "options": [
+        "Los del artículo 16 del Decreto 155/2022 y las aportaciones de Cassany et al. (1994) y Pérez y Zayas (2007)",
+        "Los del artículo 17 del Decreto 155/2022 y las aportaciones de Piaget y Vygotsky",
+        "Los del artículo 6 del Decreto 155/2022 y las aportaciones de Ausubel y Johnson",
+        "Los del artículo 33 del Decreto 155/2022 y las aportaciones de Prado (2004)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las propuestas metodológicas generales se basan en los principios pedagógicos del artículo 16 del Decreto 155/2022 y en las aportaciones de Cassany, Luna y Sanz (1994) y Pérez y Zayas (2007)."
+    },
+    {
+      "question": "¿En qué año publicaron Cassany, Luna y Sanz la obra \"Enseñar Lengua\"?",
+      "options": [
+        "1989",
+        "1994",
+        "1997",
+        "2004"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cassany, D., Luna, M. y Sanz, G. publicaron \"Enseñar Lengua\" en 1994 en Barcelona: Grao."
+    },
+    {
+      "question": "¿En qué año publicaron Pérez y Zayas su obra sobre la competencia en comunicación lingüística?",
+      "options": [
+        "2004",
+        "2005",
+        "2007",
+        "2010"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pérez, P. y Zayas, F. publicaron \"Competencia en comunicación lingüística\" en 2007 en Madrid: Alianza Editorial."
+    },
+    {
+      "question": "¿Qué tipo de grupos promueve el aprendizaje cooperativo según Johnson y Johnson en el área de LCL?",
+      "options": [
+        "Grupos homogéneos por nivel de rendimiento académico",
+        "Grupos heterogéneos",
+        "Grupos elegidos libremente por el alumnado según afinidad",
+        "Grupos variables según el tipo de tarea comunicativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje cooperativo (Johnson y Johnson) favorece el desarrollo de la comunicación organizando tareas en grupos heterogéneos para alcanzar un objetivo común."
+    },
+    {
+      "question": "¿Qué metodología permite trabajar la comprensión lectora, la expresión oral y escrita y el vocabulario en otras áreas del currículo con carácter interdisciplinar?",
+      "options": [
+        "Aprendizaje Basado en Proyectos (ABP)",
+        "Aprendizaje cooperativo en grupos heterogéneos",
+        "Las Unidades Integradas",
+        "El Aprendizaje-servicio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las Unidades Integradas permiten trabajar desde un carácter interdisciplinar la comprensión lectora, la expresión oral y escrita y el vocabulario en otras áreas del currículo."
+    },
+    {
+      "question": "¿En qué se diferencia el Aprendizaje Basado en Problemas (ABPr) del Aprendizaje Basado en Proyectos (ABP) según el texto?",
+      "options": [
+        "El ABPr culmina en un producto final significativo mientras que el ABP busca solucionar un problema concreto",
+        "El ABPr busca la solución a un problema a través de tareas de investigación y comunicación de hipótesis, mientras que el ABP parte de cuestiones del entorno y culmina en un producto final",
+        "El ABPr se centra en la comprensión lectora mientras que el ABP se centra en la expresión escrita",
+        "No hay diferencias metodológicas significativas entre ambas metodologías según el texto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ABP parte de cuestiones del entorno próximo y culmina en un producto final significativo. El ABPr busca la solución a un problema a través de tareas de investigación, formulación de hipótesis y comunicación de datos y conclusiones."
+    },
+    {
+      "question": "¿Qué papel adopta el docente en todas las metodologías activas descritas para el área de LCL?",
+      "options": [
+        "Instructor y evaluador de conocimientos lingüísticos",
+        "Mediador y guía que diseña situaciones de aprendizaje significativas",
+        "Director y controlador del proceso de aprendizaje del aula",
+        "Facilitador de recursos tecnológicos exclusivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En todas las metodologías activas, el docente adopta un rol de mediador y guía, diseñando situaciones de aprendizaje significativas y seleccionando recursos variados."
+    },
+    {
+      "question": "¿Qué metodología específica del área de LCL combina el aprendizaje con un servicio a la comunidad?",
+      "options": [
+        "Aprendizaje Basado en Proyectos",
+        "Aprendizaje cooperativo",
+        "Aprendizaje-servicio",
+        "Metacognición"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El aprendizaje-servicio combina el aprendizaje con un servicio a la comunidad, favoreciendo el uso pragmático del lenguaje mediante la interacción con agentes externos."
+    },
+    {
+      "question": "¿Para qué sirve la metacognición en el área de LCL según las propuestas metodológicas?",
+      "options": [
+        "Para evaluar al alumnado de forma externa y objetiva mediante rúbricas",
+        "Para que el alumnado reflexione sobre su propio aprendizaje, valore su comprensión y seleccione estrategias de mejora",
+        "Para que el docente planifique las unidades didácticas del área",
+        "Para analizar los textos literarios con criterios estéticos y críticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La metacognición resulta esencial para que el alumnado reflexione sobre su propio aprendizaje, valore su comprensión de textos, revise sus producciones escritas y seleccione estrategias de mejora."
+    },
+    {
+      "question": "¿Cuántos planes obligatorios establece el artículo 33 del Decreto 155/2022 en todos los centros educativos?",
+      "options": [
+        "Tres planes",
+        "Dos planes",
+        "Cuatro planes",
+        "Un plan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 33 del Decreto 155/2022 establece dos planes obligatorios en todos los centros: el PLEA y el Plan de Biblioteca."
+    },
+    {
+      "question": "¿Cómo se denomina el plan que promueve la lectura, la escritura y las habilidades en el uso y tratamiento de la información?",
+      "options": [
+        "Plan de Mejora de Bibliotecas Escolares de Galicia (PLAMBE)",
+        "Plan de Lectura, Información y Aprendizaje (LIA)",
+        "Plan de Lectura, Escritura y Acceso a la Información (PLEA)",
+        "Plan de Biblioteca escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Plan de Lectura, Escritura y Acceso a la Información (PLEA) tiene como objetivo la promoción y fomento de la lectura, la escritura y las habilidades en el uso y tratamiento de la información."
+    },
+    {
+      "question": "¿En qué artículo de la Orden de 26 de mayo de 2023 se regula el PLEA?",
+      "options": [
+        "Artículo 10",
+        "Artículo 12",
+        "Artículo 13",
+        "Artículo 16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PLEA se regula en el artículo 12 de la Orden de 26 de mayo de 2023, además de en la Resolución del 16 de octubre de 2025."
+    },
+    {
+      "question": "¿En qué artículo de la Orden de 26 de mayo de 2023 se recoge el Plan de Biblioteca escolar?",
+      "options": [
+        "Artículo 10",
+        "Artículo 12",
+        "Artículo 13",
+        "Artículo 17"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Plan de Biblioteca se recoge en el artículo 13 de la Orden de 26 de mayo de 2023."
+    },
+    {
+      "question": "¿En qué resolución se regula específicamente el PLEA, además del artículo 12 de la Orden de 26 de mayo?",
+      "options": [
+        "Resolución del 5 de junio de 2025",
+        "Resolución del 16 de octubre de 2025",
+        "Resolución del 26 de mayo de 2023",
+        "Resolución del 15 de septiembre de 2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PLEA está regulado en la Resolución del 16 de octubre de 2025 y en el artículo 12 de la Orden de 26 de mayo de 2023."
+    },
+    {
+      "question": "¿Cómo concibe el Plan de Biblioteca la biblioteca escolar?",
+      "options": [
+        "Como un espacio de almacenamiento y préstamo de libros de texto curriculares",
+        "Como un centro de recursos para la lectura, la información y el aprendizaje",
+        "Como un espacio de apoyo exclusivo para el área de LCL y LGL",
+        "Como un recurso digital para el acceso a contenidos curriculares en red"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Plan de Biblioteca concibe la biblioteca escolar como un centro de recursos para la lectura, la información y el aprendizaje."
+    },
+    {
+      "question": "¿En qué documentos del centro deben integrarse el PLEA y el Plan de Biblioteca según el artículo 121 de la LOMLOE?",
+      "options": [
+        "En la Programación Didáctica y el Plan de Contingencia del centro",
+        "En el Proyecto Curricular de Centro y la Programación de Aula",
+        "En el Proyecto Educativo de Centro y concretarse anualmente en la PGA",
+        "En el Reglamento de Organización y Funcionamiento y el Plan de Convivencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ambos planes deben integrarse en el Proyecto Educativo del centro y concretarse anualmente en la Programación General Anual (PGA), según el artículo 121 de la LOMLOE."
+    },
+    {
+      "question": "¿Qué proyecto de innovación de la Xunta de Galicia orienta a fortalecer la presencia de las bibliotecas escolares como fuente de recursos?",
+      "options": [
+        "Plan de Mejora de Bibliotecas Escolares de Galicia (PLAMBE)",
+        "Plan de Lectura, Información y Aprendizaje (LIA)",
+        "Plan de Lectura, Escritura y Acceso a la Información (PLEA)",
+        "Plan Proxecta+"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Plan de Lectura, Información y Aprendizaje (LIA) orienta a fortalecer la presencia y organización de las bibliotecas escolares como fuente de recursos y espacios inclusivos y formativos."
+    },
+    {
+      "question": "¿Qué competencias desarrolla el Plan LIA en las bibliotecas escolares?",
+      "options": [
+        "Competencias digitales y matemáticas",
+        "Competencias ALFIN (Alfabetización Informacional) y AMI",
+        "Competencias lingüísticas y sociales",
+        "Competencias ciudadanas y emprendedoras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Plan LIA está orientado a desarrollar las competencias ALFIN (Alfabetización Informacional) y AMI (Alfabetización Mediática e Informacional) en las bibliotecas escolares."
+    },
+    {
+      "question": "¿Qué promueve el Plan de Mejora de Bibliotecas Escolares de Galicia (PLAMBE)?",
+      "options": [
+        "La formación especializada del profesorado en gestión de bibliotecas escolares",
+        "La digitalización completa de los fondos bibliográficos de los centros",
+        "La actualización de recursos y espacios de las bibliotecas para el acceso igualitario a la cultura, la lectura y la alfabetización múltiple",
+        "La creación de nuevas bibliotecas en centros sin infraestructuras adecuadas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El PLAMBE promueve la actualización de recursos y espacios de las bibliotecas para el acceso igualitario a la cultura, la lectura, la escritura y la alfabetización múltiple."
+    },
+    {
+      "question": "¿Cuál de los siguientes programas NO pertenece al PLAMBE, sino que es un programa educativo independiente?",
+      "options": [
+        "Clubs de Lectura",
+        "Radio na Biblio",
+        "Innova-Lab",
+        "Lectura e Familia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Innova-Lab (modalidad Leo-lab) es un programa educativo independiente del PLAMBE. Los programas del PLAMBE son: Clubs de Lectura, Radio na Biblio, Biblioteca Creativa, Lectura e Familia y Bibliotecas Escolares Solidarias."
+    },
+    {
+      "question": "¿Qué programa educativo incluye la modalidad denominada \"Leo-lab\"?",
+      "options": [
+        "Plan Proxecta+",
+        "PLAMBE",
+        "Innova-Lab",
+        "PROA+"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El programa Innova-Lab incluye la modalidad Leo-lab, orientada al fomento de la lectura."
+    },
+    {
+      "question": "¿Cuál es el objetivo del programa educativo PROA+ mencionado en el texto?",
+      "options": [
+        "Mejorar la competencia matemática del alumnado con dificultades",
+        "Mejorar la competencia lingüística del alumnado",
+        "Fomentar el uso de las bibliotecas escolares como espacio de aprendizaje",
+        "Desarrollar el pensamiento computacional a través del lenguaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El programa PROA+ tiene como objetivo mejorar la competencia lingüística del alumnado."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un programa del Plan Proxecta+ mencionado en el texto?",
+      "options": [
+        "Leo-lab",
+        "Radio na Biblio",
+        "Fitofaladoiro",
+        "Clubs de Lectura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fitofaladoiro es un programa del Plan Proxecta+ mencionado en el texto. Otro programa del mismo plan es Nos Tamén Creamos."
+    },
+    {
+      "question": "¿Qué otro programa del Plan Proxecta+ se menciona en el texto además de Fitofaladoiro?",
+      "options": [
+        "Biblioteca Creativa",
+        "Nos Tamén Creamos",
+        "Lectura e Familia",
+        "Bibliotecas Escolares Solidarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Además de Fitofaladoiro, el texto menciona \"Nos Tamén Creamos\" como otro programa del Plan Proxecta+."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 define el currículo de la Educación Primaria?",
+      "options": [
+        "Artículo 4",
+        "Artículo 6",
+        "Artículo 16",
+        "Artículo 17"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define el currículo como el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de la EP."
+    },
+    {
+      "question": "¿Cuántas competencias clave establece el Decreto 155/2022 en el currículo de la Educación Primaria?",
+      "options": [
+        "Seis competencias clave",
+        "Siete competencias clave",
+        "Ocho competencias clave",
+        "Diez competencias clave"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 155/2022 recoge ocho competencias clave en su artículo 8, en coherencia con las competencias para el aprendizaje permanente de la UE."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 define las competencias clave?",
+      "options": [
+        "Artículo 4",
+        "Artículo 6",
+        "Artículo 8",
+        "Artículo 16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las competencias clave como los desempeños imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 recoge el listado de las ocho competencias clave?",
+      "options": [
+        "Artículo 6",
+        "Artículo 8",
+        "Artículo 16",
+        "Artículo 17"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 8 del Decreto 155/2022 recoge las ocho competencias clave del currículo de la Educación Primaria."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 indica que las actividades deben favorecer el desarrollo simultáneo de más de una competencia clave?",
+      "options": [
+        "Artículo 6",
+        "Artículo 8",
+        "Artículo 16",
+        "Artículo 17"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 16 del Decreto 155/2022 indica que las actividades deben favorecer el desarrollo simultáneo de más de una competencia clave, pues no puede establecerse una conexión exclusiva con una única área."
+    },
+    {
+      "question": "¿Con qué recomendación de la Unión Europea se adaptan las competencias clave al sistema educativo español?",
+      "options": [
+        "Recomendación del Consejo de la UE del 18 de diciembre de 2006",
+        "Recomendación del Consejo de la UE del 22 de mayo de 2018",
+        "Recomendación del Consejo de la UE del 24 de noviembre de 2020",
+        "Recomendación del Consejo de la UE del 15 de septiembre de 2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las competencias clave son la adaptación al sistema educativo de las competencias para el aprendizaje permanente establecidas en la Recomendación del Consejo de la UE del 22 de mayo de 2018."
+    },
+    {
+      "question": "¿Dónde aparecen recogidas las competencias clave y sus descriptores operativos?",
+      "options": [
+        "En los objetivos de área del Decreto 155/2022",
+        "En el perfil de salida del alumnado",
+        "En los criterios de evaluación del Decreto 155/2022",
+        "En la Orden de 26 de mayo de 2023"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las competencias clave aparecen recogidas en el perfil de salida del alumnado, que define el nivel competencial esperado al completar la educación básica a través de los descriptores operativos."
+    },
+    {
+      "question": "¿Qué término sustituye la LOMLOE a las \"competencias básicas\" de la LOE?",
+      "options": [
+        "Competencias fundamentales",
+        "Destrezas básicas del aprendizaje",
+        "Competencias clave",
+        "Competencias esenciales del currículo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE sustituye el término \"competencias básicas\" de la LOE por el de \"competencias clave\", adaptándose a la terminología europea."
+    },
+    {
+      "question": "¿Con qué competencia clave se relaciona más estrechamente el área de LCL?",
+      "options": [
+        "Competencia Digital (CD)",
+        "Competencia Plurilingüe (CP)",
+        "Competencia en Comunicación Lingüística (CCL)",
+        "Competencia Personal, Social y de Aprender a Aprender (CPSAA)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de LCL se relaciona estrechamente con la Competencia en Comunicación Lingüística (CCL), favoreciendo el desarrollo de la competencia comunicativa oral y escrita para comprender, interpretar y expresar hechos, pensamientos u opiniones."
+    },
+    {
+      "question": "¿Qué actividades desarrollan la Competencia en Comunicación Lingüística (CCL) en el área de LCL?",
+      "options": [
+        "Actividades de cálculo matemático y resolución de problemas con enunciados textuales",
+        "Debates, tertulias, exposiciones orales y comprensión de textos orales, audiovisuales y escritos",
+        "Actividades de búsqueda digital y uso de procesadores de texto básicos",
+        "Canciones, dramatizaciones y actividades de expresión corporal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCL se desarrolla mediante debates, tertulias, exposiciones orales, comprensión de textos orales audiovisuales y radiofónicos, creación de textos de diferente tipología y técnicas de tratamiento de la información."
+    },
+    {
+      "question": "¿Qué promueve la Competencia Plurilingüe (CP) en el contexto del área de LCL en Galicia?",
+      "options": [
+        "El aprendizaje de lenguas extranjeras como prioritario sobre las lenguas cooficiales",
+        "El uso de diferentes lenguas, tanto orales como signadas, de manera eficiente para el aprendizaje y la comunicación",
+        "La traducción automática entre las dos lenguas cooficiales de Galicia",
+        "El mantenimiento de la lengua materna frente a las lenguas de aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Competencia Plurilingüe (CP) busca usar diferentes lenguas, tanto orales como signadas, de manera eficiente y apropiada para el aprendizaje y la comunicación. En LCL se fomenta el castellano en consonancia con el Decreto 79/2010."
+    },
+    {
+      "question": "¿Cómo contribuye el área de LCL al desarrollo de la competencia STEM?",
+      "options": [
+        "Enseñando conceptos matemáticos a través de textos literarios de divulgación científica",
+        "Facilitando la comprensión de enunciados para la resolución de problemas matemáticos y la interpretación y expresión de datos numéricos",
+        "Desarrollando el pensamiento científico mediante proyectos de investigación lingüística",
+        "Integrando la tecnología en la producción de textos escritos multimodales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LCL contribuye a la competencia STEM facilitando la comprensión de enunciados matemáticos, la interpretación y expresión de datos numéricos, y la comprensión de sucesos y fenómenos medioambientales."
+    },
+    {
+      "question": "¿Qué capacita al alumnado la Competencia Digital (CD) a través del área de LCL?",
+      "options": [
+        "Programar aplicaciones y crear contenidos digitales interactivos",
+        "Buscar, seleccionar e interpretar información en internet de forma segura y crítica, y usar herramientas digitales básicas de composición de textos",
+        "Diseñar páginas web con contenido lingüístico y literario",
+        "Analizar el impacto de las redes sociales en el lenguaje y la comunicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de LCL contribuye a la Competencia Digital (CD) capacitando al alumnado para buscar, seleccionar e interpretar información en internet de forma segura y crítica, y para utilizar herramientas digitales básicas de composición de textos."
+    },
+    {
+      "question": "¿Qué habilidades específicas mejoran la Competencia Personal, Social y de Aprender a Aprender (CPSAA) en LCL?",
+      "options": [
+        "La ortografía, la caligrafía y la presentación formal de textos escritos",
+        "La mejora de la velocidad lectora y la comprensión de mensajes",
+        "La expresión oral en debates y exposiciones formales ante el grupo",
+        "El análisis de textos literarios clásicos con criterios críticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La mejora de la velocidad lectora y la comprensión de mensajes son habilidades para optimizar la CPSAA en el área de LCL."
+    },
+    {
+      "question": "¿Por qué el lenguaje contribuye a la Competencia Ciudadana (CC)?",
+      "options": [
+        "Porque permite aprender normas de convivencia escolar y código de conducta",
+        "Porque es el vehículo esencial para la convivencia, el respeto y el ejercicio de una ciudadanía activa, eliminando prejuicios y estereotipos",
+        "Porque facilita el aprendizaje de la historia constitucional y los derechos ciudadanos",
+        "Porque ayuda a comprender la normativa educativa vigente y su aplicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El lenguaje es un vehículo esencial para la convivencia, el respeto, el entendimiento entre personas, el ejercicio de una ciudadanía activa y la comprensión de distintos puntos de vista, valorando todas las lenguas y eliminando prejuicios."
+    },
+    {
+      "question": "¿Qué función del lenguaje contribuye al desarrollo de la Competencia Emprendedora (CE)?",
+      "options": [
+        "La corrección gramatical en la producción de textos formales y académicos",
+        "Ayudar al alumnado a regular su propia actividad, transformar ideas en actos y colaborar con los demás",
+        "La comprensión de textos económicos y empresariales de distintos ámbitos",
+        "El uso del lenguaje para la negociación y la argumentación en contextos laborales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El lenguaje contribuye a la Competencia Emprendedora ayudando al alumnado a regular la propia actividad para ser más autónomos en la toma de decisiones, transformar ideas en actos y colaborar con los demás."
+    },
+    {
+      "question": "¿Cómo desarrolla el área de LCL la Competencia en Conciencia y Expresión Culturales (CCEC)?",
+      "options": [
+        "Estudiando la gramática comparada de las diferentes lenguas europeas",
+        "A través de la lectura y valoración de obras literarias de diferentes épocas y culturas, y de otras manifestaciones artísticas que usan el lenguaje",
+        "Mediante el análisis crítico de manifestaciones artísticas contemporáneas en soporte digital",
+        "Fomentando la creación de obras artísticas originales del alumnado en distintos formatos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCEC se desarrolla mediante la lectura y valoración de obras literarias de diferentes épocas y culturas y de manifestaciones artísticas como el cine y el teatro, promoviendo el respeto por la diversidad lingüística y cultural."
+    },
+    {
+      "question": "¿Qué manifestaciones artísticas que usan el lenguaje como instrumento se mencionan en relación con la CCEC?",
+      "options": [
+        "La fotografía y la arquitectura",
+        "El cine y el teatro",
+        "La pintura y la escultura",
+        "La música y la danza"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona el cine y el teatro como manifestaciones artísticas que utilizan el lenguaje como instrumento fundamental y que contribuyen al desarrollo de la CCEC."
+    },
+    {
+      "question": "¿Qué habilidades promueve la CPSAA en el área de LCL mediante el acceso al conocimiento por el lenguaje?",
+      "options": [
+        "Argumentar en público, convencer a otros y gestionar conflictos interpersonales",
+        "Describir, narrar, sintetizar, argumentar y tomar decisiones",
+        "Leer, escribir, escuchar y hablar en lenguas diversas del entorno",
+        "Analizar, comparar, clasificar e interpretar textos de distintas tipologías"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A través del lenguaje como medio de representación del mundo, se favorecen habilidades como describir, narrar, sintetizar, argumentar y tomar decisiones, esenciales para la CPSAA."
+    },
+    {
+      "question": "¿Qué uso del lenguaje en internet promueve el área de LCL en relación con la Competencia Digital?",
+      "options": [
+        "Un uso creativo para la producción de contenidos multimedia originales",
+        "Un uso seguro, crítico y responsable para buscar y seleccionar información",
+        "Un uso técnico orientado a la programación y la automatización de procesos",
+        "Un uso colaborativo para el trabajo en redes sociales con fines educativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LCL contribuye a la CD capacitando al alumnado para buscar, seleccionar e interpretar información en internet de forma segura, crítica y responsable."
+    },
+    {
+      "question": "¿Qué aporta el área de Educación Física al desarrollo del lenguaje no verbal en relación con la LCL?",
+      "options": [
+        "La lectura de textos deportivos y reglamentos oficiales",
+        "La adquisición del lenguaje no verbal a través de la expresión corporal",
+        "La comprensión de consignas orales complejas en actividades físicas",
+        "La escritura de crónicas deportivas y análisis de resultados competitivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de Educación Física complementa la adquisición del lenguaje no verbal a través de la expresión corporal y favorece la expresión oral y la escucha mediante el respeto de normas y la interacción en juegos."
+    },
+    {
+      "question": "¿A qué área del currículo contribuye la LCL en la comprensión del lenguaje matemático y la descripción de razonamientos?",
+      "options": [
+        "Ciencias Sociales",
+        "Educación Artística",
+        "Matemáticas",
+        "Proyecto Competencial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LCL contribuye al área de Matemáticas en la comprensión del lenguaje matemático, la descripción de razonamientos y procesos, y la lectura e interpretación de problemas."
+    },
+    {
+      "question": "¿Qué función tienen la expresión y la comprensión oral y escrita en el área de Proyecto Competencial?",
+      "options": [
+        "Son fundamentales para el desarrollo de proyectos propios del área",
+        "Son secundarias respecto a las competencias digitales en proyectos interdisciplinares",
+        "Se limitan al registro escrito de los resultados obtenidos en los proyectos",
+        "Se trabajan de forma específica en el bloque 3 del área de LCL"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La expresión y la comprensión oral y escrita son fundamentales para el desarrollo de proyectos propios del área de Proyecto Competencial."
+    },
+    {
+      "question": "¿En qué actividades del área de Educación Artística interviene el lenguaje según el texto?",
+      "options": [
+        "En la composición musical y el dibujo técnico con terminología específica",
+        "En la valoración y análisis de manifestaciones artísticas, canciones y dramatizaciones, favoreciendo el vocabulario y las destrezas lingüísticas",
+        "En la interpretación de partituras y la lectura de pentagrama musical",
+        "En la fotografía digital y el diseño gráfico con herramientas TIC"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En Educación Artística, el lenguaje interviene en la valoración y análisis de manifestaciones artísticas, así como en actividades como canciones y dramatizaciones que favorecen la ampliación del vocabulario y el desarrollo de destrezas lingüísticas."
+    },
+    {
+      "question": "¿Qué contribución hace el área de LCL a los valores cívicos y éticos?",
+      "options": [
+        "La comprensión de normas legales y textos jurídicos de aplicación ciudadana",
+        "La comunicación para resolver conflictos a través del diálogo, la escucha y la exposición de argumentos",
+        "El análisis crítico de situaciones éticas a través de textos filosóficos y morales",
+        "La producción de manifiestos y textos persuasivos sobre los derechos humanos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La comunicación es esencial para resolver conflictos a través del diálogo, la escucha y la exposición de argumentos, aspectos propios del área de Valores Cívicos y Éticos."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece que la EP se organiza en áreas con carácter global e integrador?",
+      "options": [
+        "Artículo 3",
+        "Artículo 6",
+        "Artículo 16",
+        "Artículo 17"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 3 del Decreto 155/2022 establece que la EP se organiza en áreas con un carácter global e integrador, desarrollando en todas ellas la competencia comunicativa."
+    },
+    {
+      "question": "¿Cuáles de los siguientes elementos tienen carácter transversal en todas las áreas según el artículo 17 del Decreto 155/2022?",
+      "options": [
+        "La competencia matemática, la digital y la lingüística",
+        "La comprensión lectora, la expresión oral y escrita y la comunicación audiovisual",
+        "La educación literaria, la reflexión sobre la lengua y la alfabetización mediática",
+        "La competencia plurilingüe, la ciudadana y la emprendedora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 17 del Decreto 155/2022, la comprensión lectora, la expresión oral y escrita y la comunicación audiovisual tienen carácter transversal y se abordan en todas las áreas."
+    },
+    {
+      "question": "¿Qué elementos transversales integra el área de LCL según el artículo 17 del Decreto 155/2022?",
+      "options": [
+        "La inteligencia emocional, la educación financiera y la educación vial",
+        "La competencia digital, la creatividad, el espíritu científico, la resolución pacífica de conflictos y el desarrollo sostenible",
+        "La historia de España, la geografía de Galicia y la educación intercultural",
+        "El trabajo en equipo, la autonomía personal y el pensamiento crítico exclusivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LCL integra elementos transversales como la competencia digital, la creatividad, el espíritu científico y emprendedor, la resolución pacífica de conflictos, el consumo responsable, el desarrollo sostenible, la salud, la justicia, la igualdad, la democracia y los derechos humanos."
+    },
+    {
+      "question": "¿Qué establece el \"perfil de salida\" del alumnado en el currículo de la EP?",
+      "options": [
+        "Los objetivos de área que el alumnado debe alcanzar en cada ciclo educativo",
+        "El nivel competencial esperado al completar la educación básica",
+        "Los criterios de evaluación de todas las áreas de la Educación Primaria",
+        "Los contenidos mínimos que debe adquirir el alumnado en cada etapa educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El perfil de salida define el nivel competencial esperado al completar la educación básica, deducido a través de los descriptores operativos."
+    },
+    {
+      "question": "¿Cómo se concreta el nivel de desempeño del perfil de salida del alumnado?",
+      "options": [
+        "A través de los criterios de evaluación de cada área curricular",
+        "A través de los descriptores operativos de las competencias clave",
+        "A través de los objetivos de etapa del artículo 7 del Decreto 155/2022",
+        "A través de los contenidos de los seis bloques del área de LCL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El perfil de salida define el nivel competencial esperado al completar la educación básica a través de los descriptores operativos de cada competencia clave."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen las competencias clave?",
+      "options": [
+        "Como los conocimientos, destrezas y actitudes propios de un área curricular",
+        "Como los logros que se espera que alcance el alumnado al finalizar la etapa",
+        "Como los desempeños imprescindibles para que el alumnado progrese con garantías de éxito y afronte los retos globales y locales",
+        "Como los referentes que indican los niveles de desempeño esperados en el alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las competencias clave como los desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo y afrontar los principales retos y desafíos globales y locales."
+    },
+    {
+      "question": "¿Qué tipo de textos se mencionan como producto final del Aprendizaje Basado en Proyectos en LCL?",
+      "options": [
+        "Redacciones académicas, dictados y exámenes orales en distintos formatos",
+        "Comics, podcast, booktrailers, infografías, entrevistas y cartas",
+        "Resúmenes, esquemas, mapas conceptuales y fichas de lectura",
+        "Noticias, reportajes, editoriales y artículos de opinión periodística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ABP culmina en un producto final significativo que posibilita la comunicación en distintos formatos y soportes como comics, podcast, booktrailers, infografías, entrevistas o cartas."
+    },
+    {
+      "question": "¿Qué medios de comunicación se mencionan como contexto real para el Aprendizaje Basado en Proyectos?",
+      "options": [
+        "La radio, la prensa escrita y las revistas especializadas",
+        "La televisión, internet y las redes sociales",
+        "El cine, el teatro y las exposiciones culturales",
+        "Los libros de texto, las enciclopedias y los diccionarios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ABP parte de cuestiones del entorno próximo del alumnado y se vincula a medios de comunicación como la televisión, internet y las redes sociales."
+    },
+    {
+      "question": "¿Qué destrezas lingüísticas desarrolla el aprendizaje-servicio en el área de LCL?",
+      "options": [
+        "La corrección ortográfica y la caligrafía en textos formales",
+        "El uso pragmático del lenguaje mediante la interacción con agentes externos y la adecuación del habla, la escritura y el vocabulario",
+        "La comprensión de textos escritos en diferentes formatos y soportes",
+        "La producción de textos formales para contextos institucionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje-servicio favorece el uso pragmático del lenguaje mediante la interacción con agentes externos y la adecuación del habla, la escritura y el vocabulario a distintas situaciones."
+    },
+    {
+      "question": "¿Qué se trabaja de forma transversal en el área de LCL según el artículo 16 del Decreto 155/2022?",
+      "options": [
+        "La competencia digital, el emprendimiento y la educación financiera",
+        "La comprensión lectora, la expresión oral y escrita, la comunicación audiovisual y el uso de un lenguaje respetuoso y no sexista",
+        "La educación literaria, la reflexión lingüística y la alfabetización mediática e informacional",
+        "Los contenidos de los bloques 1, 2, 3 y 4 del área de LCL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 16 del Decreto 155/2022, se trabajan de forma transversal la comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, y el uso de un lenguaje respetuoso con las diferencias, no sexista y libre de prejuicios."
+    },
+    {
+      "question": "¿Cuántos objetivos de etapa recoge el artículo 7 del Decreto 155/2022, comunes a todas las áreas de la EP?",
+      "options": [
+        "10 objetivos",
+        "12 objetivos",
+        "15 objetivos",
+        "17 objetivos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 7 del Decreto 155/2022 recoge un total de 15 objetivos de etapa, comunes a todas las áreas de la Educación Primaria."
+    },
+    {
+      "question": "¿Cuántos objetivos de área específicos tiene la LCL en el Decreto 155/2022?",
+      "options": [
+        "8 objetivos de área",
+        "9 objetivos de área",
+        "10 objetivos de área",
+        "12 objetivos de área"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de LCL se recogen en el Anexo II, epígrafe 6.2 del Decreto 155/2022, siendo un total de 10 objetivos de área."
+    },
+    {
+      "question": "¿En qué parte del Decreto 155/2022 se recogen los objetivos de área de la LCL?",
+      "options": [
+        "Artículo 7",
+        "Artículo 16",
+        "Anexo II, epígrafe 6.2",
+        "Anexo III"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de LCL se recogen en el Anexo II, epígrafe 6.2 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Cuántos bloques de contenido tiene el área de LCL en el Decreto 155/2022?",
+      "options": [
+        "Cuatro bloques",
+        "Cinco bloques",
+        "Seis bloques",
+        "Siete bloques"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de LCL tiene sus contenidos estructurados en seis bloques de contenido, desarrollados en el Anexo II del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué bloque de contenido del área de LCL aborda la diversidad lingüística y promueve el lenguaje no discriminatorio?",
+      "options": [
+        "Bloque 2 (comunicación oral)",
+        "Bloque 1 (la lengua y sus hablantes)",
+        "Bloque 6 (reflexión sobre la lengua y sus usos)",
+        "Bloque 5 (educación literaria)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Bloque 1 (la lengua y sus hablantes) aborda la diversidad lingüística y cultural del entorno, promoviendo un lenguaje no discriminatorio, respetuoso con las diferencias y no sexista."
+    },
+    {
+      "question": "¿Qué bloque de contenido del área de LCL tiene como finalidad fomentar el gusto por la lectura y la formación lectora?",
+      "options": [
+        "Bloque 3 (comunicación escrita)",
+        "Bloque 4 (alfabetización mediática e informacional)",
+        "Bloque 5 (educación literaria)",
+        "Bloque 6 (reflexión sobre la lengua y sus usos)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Bloque 5 (educación literaria) tiene como finalidad fomentar el gusto por la lectura y la formación lectora."
+    },
+    {
+      "question": "¿Qué bloque de contenido del área de LCL proporciona habilidades para buscar, seleccionar y contrastar información de diversas fuentes documentales?",
+      "options": [
+        "Bloque 2 (comunicación oral)",
+        "Bloque 3 (comunicación escrita)",
+        "Bloque 4 (alfabetización mediática e informacional)",
+        "Bloque 6 (reflexión sobre la lengua y sus usos)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Bloque 4 (alfabetización mediática e informacional) proporciona habilidades para buscar, seleccionar y contrastar información de diversas fuentes documentales."
+    },
+    {
+      "question": "¿Qué bloque de contenido de LCL favorece el conocimiento de la lengua y su organización, contribuyendo a la elaboración de textos coherentes y creativos?",
+      "options": [
+        "Bloque 3 (comunicación escrita)",
+        "Bloque 4 (alfabetización mediática e informacional)",
+        "Bloque 5 (educación literaria)",
+        "Bloque 6 (reflexión sobre la lengua y sus usos)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Bloque 6 (reflexión sobre la lengua y sus usos) favorece el conocimiento de la lengua y su organización, contribuyendo a la elaboración de textos coherentes, correctos y creativos."
+    },
+    {
+      "question": "¿Qué bloque de contenido del área de LCL se centra en el desarrollo de los aspectos propios del lenguaje oral?",
+      "options": [
+        "Bloque 1 (la lengua y sus hablantes)",
+        "Bloque 2 (comunicación oral)",
+        "Bloque 3 (comunicación escrita)",
+        "Bloque 4 (alfabetización mediática e informacional)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Bloque 2 (comunicación oral) se centra en el desarrollo de los aspectos propios del lenguaje oral."
+    },
+    {
+      "question": "¿Qué bloque de LCL recoge la planificación y elaboración de textos escritos atendiendo a la ortografía, el léxico y la estructura discursiva?",
+      "options": [
+        "Bloque 2 (comunicación oral)",
+        "Bloque 3 (comunicación escrita)",
+        "Bloque 5 (educación literaria)",
+        "Bloque 6 (reflexión sobre la lengua y sus usos)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Bloque 3 (comunicación escrita) recoge los aspectos clave del lenguaje escrito para la planificación y elaboración de textos atendiendo a la ortografía, el léxico y la estructura discursiva."
+    },
+    {
+      "question": "¿Cómo define el artículo 6 del Decreto 155/2022 los criterios de evaluación del área de LCL?",
+      "options": [
+        "Como los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario",
+        "Como los referentes que indican los niveles de desempeño esperados en el alumnado en un momento determinado del proceso de aprendizaje",
+        "Como los logros que se espera que alcance el alumnado al finalizar la etapa",
+        "Como los desempeños que el alumnado debe poder desplegar en actividades o situaciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación son los referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a que se refieren los objetivos de cada área en un momento determinado de su aprendizaje."
+    },
+    {
+      "question": "¿Cómo define el artículo 6 del Decreto 155/2022 los contenidos del área de LCL?",
+      "options": [
+        "Como los referentes que indican los niveles de desempeño esperados en el alumnado",
+        "Como los desempeños que el alumnado debe poder desplegar en actividades o situaciones concretas",
+        "Como los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario para adquirir el nivel de desempeño de los criterios de evaluación",
+        "Como las indicaciones para orientar al profesorado en el diseño de estrategias docentes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 6 define los contenidos como los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario para adquirir el nivel de desempeño de los criterios de evaluación y para el logro de los objetivos."
+    },
+    {
+      "question": "¿Cómo define el artículo 6 del Decreto 155/2022 los objetivos de área?",
+      "options": [
+        "Como los referentes que indican los niveles de desempeño esperados en el alumnado",
+        "Como los desempeños que el alumnado debe poder desplegar en actividades o situaciones cuyo abordaje requiere los aprendizajes del área",
+        "Como los conocimientos, destrezas y actitudes propios de un área curricular",
+        "Como las indicaciones para orientar al profesorado en el diseño de estrategias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define los objetivos de área como los desempeños que el alumnado debe poder desplegar en actividades o situaciones cuyo abordaje requiere los aprendizajes asociados a los contenidos de cada área."
+    },
+    {
+      "question": "¿Con qué elementos del Real Decreto 157/2022 se corresponden los objetivos de área del Decreto 155/2022?",
+      "options": [
+        "Con los saberes básicos del RD 157/2022",
+        "Con los criterios de evaluación del RD 157/2022",
+        "Con las competencias específicas del RD 157/2022",
+        "Con los descriptores operativos del RD 157/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de área del Decreto 155/2022 se corresponden con las competencias específicas establecidas en el Real Decreto 157/2022."
+    },
+    {
+      "question": "¿Con qué elementos del Real Decreto 157/2022 se corresponden los contenidos del Decreto 155/2022?",
+      "options": [
+        "Con los saberes básicos del RD 157/2022",
+        "Con los criterios de evaluación del RD 157/2022",
+        "Con las competencias específicas del RD 157/2022",
+        "Con los descriptores operativos del RD 157/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los contenidos del Decreto 155/2022 se corresponden con los saberes básicos establecidos en el Real Decreto 157/2022."
+    },
+    {
+      "question": "¿Cuántas fuentes como mínimo debe buscar, seleccionar y contrastar el alumnado según el OBJ6 del área de LCL?",
+      "options": [
+        "Una fuente documental verificada y actualizada",
+        "Dos o más fuentes documentales",
+        "Tres o más fuentes documentales contrastadas",
+        "Cuatro o más fuentes de distintos soportes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ6 establece: \"Buscar, seleccionar y contrastar información procedente de dos o más fuentes, evaluando su fiabilidad y los riesgos de manipulación y desinformación\"."
+    },
+    {
+      "question": "¿Cuál es el objetivo OBJ1 del área de LCL según el Decreto 155/2022?",
+      "options": [
+        "Comprender textos orales y multimodales identificando el sentido general para construir conocimiento",
+        "Reconocer la diversidad lingüística a partir de las lenguas del alumnado y la realidad plurilingüe de España para rechazar estereotipos y valorar la diversidad",
+        "Producir textos orales y multimodales coherentes y adecuados para participar en interacciones orales",
+        "Leer obras diversas autónomamente construyendo la identidad lectora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ1 es: \"Reconocer la diversidad lingüística a partir de las lenguas del alumnado y la realidad plurilingüe y multicultural de España, para rechazar estereotipos y prejuicios lingüísticos y valorar la diversidad como fuente de riqueza cultural.\""
+    },
+    {
+      "question": "¿Cuál de los objetivos de área se centra en la comprensión de textos escritos y multimodales incluyendo la información implícita?",
+      "options": [
+        "OBJ2 (comprensión de textos orales)",
+        "OBJ3 (producción de textos orales)",
+        "OBJ4",
+        "OBJ5 (producción de textos escritos)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ4 es: \"Comprender textos escritos y multimodales, identificando el sentido general y la información implícita, reflexionando sobre aspectos formales y de contenido, para construir conocimiento y responder a necesidades comunicativas.\""
+    },
+    {
+      "question": "¿Qué objetivo de área de LCL incluye la aplicación de estrategias de planificación, textualización, redacción, revisión y edición?",
+      "options": [
+        "OBJ3",
+        "OBJ4",
+        "OBJ5",
+        "OBJ6"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ5 es: \"Producir textos escritos y multimodales gramatical y ortográficamente correctos, aplicando estrategias de planificación, textualización, redacción, revisión y edición para construir conocimiento y responder a necesidades comunicativas.\""
+    },
+    {
+      "question": "¿Cuál es el OBJ6 del área de LCL según el Decreto 155/2022?",
+      "options": [
+        "Leer y analizar obras o fragmentos literarios identificando géneros literarios y sus convenciones",
+        "Buscar, seleccionar y contrastar información de dos o más fuentes evaluando su fiabilidad y los riesgos de manipulación",
+        "Reflexionar sobre el lenguaje utilizando terminología adecuada para mejorar la conciencia lingüística",
+        "Usar el lenguaje de forma ética y no discriminatoria promoviendo la convivencia democrática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ6 es: \"Buscar, seleccionar y contrastar información procedente de dos o más fuentes, evaluando su fiabilidad y los riesgos de manipulación y desinformación, para transformarla en conocimiento y comunicarla creativamente.\""
+    },
+    {
+      "question": "¿Qué objetivo de área de LCL tiene como finalidad fomentar el gusto por la lectura y la construcción de la identidad lectora?",
+      "options": [
+        "OBJ5",
+        "OBJ6",
+        "OBJ7",
+        "OBJ8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ7 es: \"Leer obras diversas autónomamente compartiendo experiencias de lectura y construyendo la identidad lectora y el gusto por la lectura.\""
+    },
+    {
+      "question": "¿Qué distingue el OBJ7 del OBJ8 en relación con la lectura en el área de LCL?",
+      "options": [
+        "El OBJ7 se centra en textos escritos mientras que el OBJ8 aborda textos orales y multimodales",
+        "El OBJ7 es sobre lectura autónoma para construir la identidad lectora, mientras que el OBJ8 es sobre lectura y análisis literario con identificación de géneros",
+        "El OBJ7 corresponde al primer ciclo y el OBJ8 al tercer ciclo de la EP",
+        "No existen diferencias significativas entre ambos objetivos de lectura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ7 se refiere a la lectura autónoma y la identidad lectora, mientras que el OBJ8 implica \"leer y analizar obras o fragmentos literarios identificando géneros literarios y sus convenciones para reconocer la literatura como manifestación artística\"."
+    },
+    {
+      "question": "¿Qué objetivo de área de LCL está vinculado a la mejora de la conciencia lingüística mediante el uso de terminología adecuada?",
+      "options": [
+        "OBJ6",
+        "OBJ7",
+        "OBJ8",
+        "OBJ9"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El OBJ9 es: \"Reflexionar sobre el lenguaje a través de la producción y comprensión de textos en contextos significativos, utilizando terminología adecuada para mejorar la conciencia lingüística y las destrezas de producción y comprensión oral y escrita.\""
+    },
+    {
+      "question": "¿Cuál es el OBJ10 del área de LCL según el Decreto 155/2022?",
+      "options": [
+        "Reflexionar sobre el lenguaje para mejorar las destrezas de producción y comprensión",
+        "Leer y analizar obras literarias identificando géneros y sus convenciones fundamentales",
+        "Usar el lenguaje de forma ética y no discriminatoria, promoviendo la convivencia democrática y detectando abusos de poder",
+        "Buscar y seleccionar información de diversas fuentes evaluando su fiabilidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ10 es: \"Usar el lenguaje de forma ética y no discriminatoria, promoviendo la convivencia democrática y detectando abusos de poder a través de la palabra.\""
+    },
+    {
+      "question": "¿Qué función tienen los objetivos de área como elemento curricular en el Decreto 155/2022?",
+      "options": [
+        "Son el punto de partida para la selección de métodos didácticos del área",
+        "Son un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos",
+        "Son los referentes finales para la certificación del aprendizaje del alumnado",
+        "Son la base para la organización de las unidades didácticas del área"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos de área son un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos del área."
+    },
+    {
+      "question": "¿Con qué ODS de la Agenda 2030 se relaciona estrechamente el área de LCL?",
+      "options": [
+        "ODS 3 \"Salud y Bienestar\"",
+        "ODS 4 \"Educación de Calidad\"",
+        "ODS 10 \"Reducción de las Desigualdades\"",
+        "ODS 16 \"Paz, Justicia e Instituciones Sólidas\""
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de LCL se relaciona estrechamente con el ODS 4 \"Educación de Calidad\" de la Agenda 2030 aprobada por la ONU en 2015."
+    },
+    {
+      "question": "¿En qué año aprobó la ONU la Agenda 2030 con sus 17 Objetivos de Desarrollo Sostenible?",
+      "options": [
+        "2012",
+        "2015",
+        "2018",
+        "2020"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Agenda 2030 fue aprobada por la ONU en el año 2015 e incluye 17 Objetivos de Desarrollo Sostenible."
+    },
+    {
+      "question": "¿Cuántos Objetivos de Desarrollo Sostenible incluye la Agenda 2030 aprobada por la ONU?",
+      "options": [
+        "15 ODS",
+        "17 ODS",
+        "19 ODS",
+        "21 ODS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Agenda 2030 aprobada por la ONU en 2015 incluye 17 Objetivos de Desarrollo Sostenible."
+    },
+    {
+      "question": "¿Qué aspecto destacan los criterios de evaluación de LCL sobre las habilidades lingüísticas evaluadas?",
+      "options": [
+        "Evaluar únicamente la producción escrita del alumnado en situaciones formales",
+        "Evaluar los aprendizajes lingüísticos en situaciones comunicativas contextualizadas atendiendo a todas las habilidades, incluyendo el lenguaje no verbal",
+        "Evaluar la comprensión de textos orales radiofónicos y audiovisuales de actualidad",
+        "Evaluar el uso de las TIC para buscar y representar información de manera autónoma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación destacan: evaluar los aprendizajes lingüísticos en situaciones comunicativas contextualizadas atendiendo a todas las habilidades de hablar, escuchar, leer, escribir y comprender, incluyendo el lenguaje no verbal."
+    },
+    {
+      "question": "¿Cuáles son las cinco habilidades lingüísticas que se deben evaluar en situaciones comunicativas contextualizadas?",
+      "options": [
+        "Leer, escribir, escuchar, hablar y pensar",
+        "Hablar, escuchar, leer, escribir y comprender",
+        "Leer, escribir, escuchar, hablar y traducir",
+        "Producir, comprender, analizar, sintetizar y evaluar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las cinco habilidades lingüísticas que deben evaluarse en situaciones contextualizadas son: hablar, escuchar, leer, escribir y comprender, además del lenguaje no verbal."
+    },
+    {
+      "question": "¿Qué aspecto de los criterios de evaluación de LCL implica reconocer los estereotipos lingüísticos?",
+      "options": [
+        "La evaluación de la ortografía, la gramática y la acentuación del alumnado",
+        "El reconocimiento de prejuicios y estereotipos lingüísticos y culturales",
+        "La valoración del uso responsable de la biblioteca escolar",
+        "La evaluación de la comprensión de textos multimodales en distintos soportes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación incluyen reconocer prejuicios y estereotipos lingüísticos y culturales, en coherencia con el OBJ1 del área."
+    },
+    {
+      "question": "¿Qué aspectos formales de la lengua recogen los criterios de evaluación de LCL?",
+      "options": [
+        "La ortografía, la gramática y la acentuación",
+        "La fonética, la morfología y la sintaxis exclusivamente",
+        "El léxico, el vocabulario y la semántica",
+        "La pragmática, el discurso y la estilística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los criterios de evaluación de LCL incluyen el uso adecuado de la ortografía, la gramática y la acentuación."
+    },
+    {
+      "question": "¿Qué papel otorgan los criterios de evaluación de LCL a la biblioteca escolar?",
+      "options": [
+        "Como recurso auxiliar para la lectura en el tiempo libre del alumnado",
+        "Valorar el uso de la biblioteca escolar comprendiendo su organización",
+        "Como espacio prioritario para el trabajo de todos los bloques de contenido del área",
+        "Como alternativa digital para el acceso a recursos informacionales en red"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación incluyen valorar el uso de la biblioteca escolar comprendiendo su organización, en coherencia con el Plan de Biblioteca."
+    },
+    {
+      "question": "¿Con qué elementos del Real Decreto 157/2022 se corresponden los bloques de contenido del Decreto 155/2022?",
+      "options": [
+        "Con las competencias específicas del RD 157/2022",
+        "Con los criterios de evaluación del RD 157/2022",
+        "Con los saberes básicos del RD 157/2022",
+        "Con los descriptores operativos del RD 157/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los contenidos del Decreto 155/2022 se corresponden con los saberes básicos del Real Decreto 157/2022, de 1 de marzo."
+    },
+    {
+      "question": "¿A través de qué elemento curricular se conectan los contenidos y los objetivos de área en el currículo de LCL?",
+      "options": [
+        "Las competencias clave y el perfil de salida del alumnado",
+        "Las competencias específicas del Real Decreto 157/2022",
+        "Las orientaciones pedagógicas del artículo 6",
+        "Los criterios de evaluación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los contenidos y los objetivos de área se conectan a través de los criterios de evaluación, que describen lo que se quiere valorar y que el alumnado debe alcanzar."
+    },
+    {
+      "question": "¿Cómo se organiza el currículo del área de LCL en torno a las habilidades lingüísticas?",
+      "options": [
+        "En torno a la gramática, la ortografía, la lectura, la escritura y la literatura",
+        "En torno a hablar, escuchar, leer, comprender y escribir",
+        "En torno a la comprensión oral, la expresión oral, la comprensión escrita, la expresión escrita y la reflexión",
+        "En torno a la fonología, la morfología, la sintaxis, el léxico y la pragmática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El currículo de LCL se organiza en torno a las habilidades de hablar, escuchar, leer, comprender y escribir, según el Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué característica distintiva tiene el área de LCL al integrarse la enseñanza de las lenguas en los sistemas educativos europeos?",
+      "options": [
+        "Carácter plurilingüe reconocido internacionalmente",
+        "Carácter intercultural en el tratamiento de las lenguas",
+        "Carácter europeo del contenido",
+        "Carácter internacional y multilateral del currículo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de LCL posee un carácter europeo del contenido al integrarse la enseñanza de las lenguas en los sistemas educativos de la mayoría de los países europeos."
+    },
+    {
+      "question": "¿Qué justifica la interdisciplinariedad y la presencia transversal del área de LCL en todas las áreas del currículo?",
+      "options": [
+        "Su carácter formativo como instrumento básico del pensamiento para representar la realidad",
+        "Su carácter instrumental al permitir la adquisición de conocimientos a través de la comprensión y expresión de la información",
+        "Su carácter regulador de la conducta para organizar y guiar las propias acciones",
+        "Su finalidad comunicativa como principal medio de comunicación social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El carácter instrumental del área de LCL —que permite la adquisición de conocimientos a través de la comprensión y expresión de la información— justifica su interdisciplinariedad y presencia transversal en todas las áreas."
+    },
+    {
+      "question": "¿Qué papel tiene el aprendizaje cooperativo según Johnson y Johnson en el desarrollo de la comunicación oral?",
+      "options": [
+        "Desarrolla la competencia lectora mediante la lectura compartida en grupos",
+        "Favorece la comunicación organizando tareas, compartiendo opiniones, resolviendo conflictos y escuchando activamente",
+        "Promueve la escritura colaborativa de textos multimodales en distintos formatos",
+        "Fomenta la reflexión individual sobre el propio proceso de aprendizaje lingüístico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje cooperativo (Johnson y Johnson) favorece el desarrollo de la comunicación organizando tareas, compartiendo opiniones, resolviendo conflictos y escuchando activamente para alcanzar un objetivo común."
+    },
+    {
+      "question": "¿Qué tipo de aprendizaje promueven las Unidades Integradas en el área de LCL?",
+      "options": [
+        "Un aprendizaje centrado en la lectura de textos literarios en todas las áreas curriculares",
+        "Un aprendizaje interdisciplinar que trabaja la comprensión lectora, la expresión y el vocabulario en otras áreas",
+        "Un aprendizaje digital para el uso responsable de los entornos virtuales de aprendizaje",
+        "Un aprendizaje transversal de la competencia plurilingüe en todas las áreas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Unidades Integradas permiten trabajar con carácter interdisciplinar la comprensión lectora, la expresión oral y escrita y el vocabulario en otras áreas del currículo."
+    },
+    {
+      "question": "¿Qué medidas pedagógicas prevé el currículo de LCL para prevenir dificultades de aprendizaje?",
+      "options": [
+        "La repetición de contenidos y la ampliación de ejercicios de refuerzo individuales",
+        "La aplicación del DUA y los apoyos y refuerzos para la prevención de dificultades",
+        "La reducción del nivel de exigencia para el alumnado con dificultades de aprendizaje",
+        "La separación del alumnado en grupos de nivel homogéneo para atender sus necesidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las propuestas metodológicas incluyen la aplicación del DUA y de apoyos y refuerzos para la prevención de dificultades, respetando ritmos, estilos y necesidades."
+    },
+    {
+      "question": "¿Qué características debe tener la metodología del área de LCL según el artículo 16 del Decreto 155/2022?",
+      "options": [
+        "Expositiva, directiva y centrada en los contenidos del libro de texto",
+        "Comunicativa, inclusiva, activa y participativa con enfoque globalizador e interdisciplinar",
+        "Gramatical, normativa y centrada en la corrección formal del lenguaje",
+        "Repetitiva, sistemática y basada en la práctica constante de destrezas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La metodología de LCL debe tener un enfoque globalizador e interdisciplinar, y ser comunicativa, inclusiva, activa y participativa, dirigida al logro de objetivos y competencias."
+    },
+    {
+      "question": "¿Qué importancia tiene la detección temprana de dificultades en lectura y escritura según la conclusión del tema?",
+      "options": [
+        "Permite clasificar al alumnado en grupos de nivel para una enseñanza diferenciada y eficiente",
+        "Es esencial para dar una respuesta educativa eficaz, preventiva y ajustada a las necesidades del alumnado",
+        "Permite justificar adaptaciones curriculares significativas en etapas educativas posteriores",
+        "Facilita la derivación temprana a servicios especializados externos al centro educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La conclusión destaca la necesidad de detectar de forma temprana las posibles dificultades en la adquisición de la lectura y la escritura y de dar una respuesta educativa eficaz, preventiva y ajustada."
+    },
+    {
+      "question": "¿Qué papel juega el lenguaje como \"eje vertebrador\" del aprendizaje según la conclusión del tema?",
+      "options": [
+        "Es una asignatura más del currículo con objetivos lingüísticos específicos",
+        "Es el eje vertebrador del pensamiento, la comunicación y el acceso al conocimiento, siendo la base del proceso de aprendizaje",
+        "Es exclusivamente una herramienta de comunicación social entre iguales en el aula",
+        "Es principalmente un instrumento para el acceso a los contenidos de los recursos digitales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la conclusión, el lenguaje se configura como el eje vertebrador del pensamiento, la comunicación y el acceso al conocimiento, siendo la base del proceso de aprendizaje."
+    },
+    {
+      "question": "¿Qué concepto pedagógico se relaciona con el uso de libros próximos a los gustos e intereses del alumnado para fomentar la lectura?",
+      "options": [
+        "Aprendizaje significativo de Ausubel",
+        "Identidad lectora",
+        "Zona de Desarrollo Próximo de Vygotsky",
+        "Currículo en espiral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área persigue el desarrollo de la formación lectora mediante la promoción del hábito y la identidad lectora a través de obras próximas a los gustos e intereses de los discentes."
+    },
+    {
+      "question": "¿Qué implica integrar el DUA en la enseñanza del área de LCL según la conclusión del tema?",
+      "options": [
+        "Reducir el número de adaptaciones curriculares individualizadas necesarias en el aula",
+        "Garantizar la accesibilidad a los conocimientos y personalizar la enseñanza",
+        "Simplificar los criterios de evaluación para el alumnado con necesidades específicas",
+        "Sustituir los materiales curriculares convencionales por recursos digitales accesibles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Integrar el DUA es clave para garantizar la accesibilidad a los conocimientos y personalizar la enseñanza, según la conclusión del tema."
+    },
+    {
+      "question": "¿Cuál es la diferencia conceptual entre \"currículo\" y \"orientaciones pedagógicas\" según el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Las orientaciones son obligatorias mientras que el currículo es indicativo para los centros",
+        "El currículo es el conjunto de objetivos, competencias, contenidos, métodos y criterios; las orientaciones son indicaciones para el diseño de estrategias docentes",
+        "Las orientaciones son más generales que el currículo, que es específico por áreas curriculares",
+        "El currículo está definido por el Estado y las orientaciones las establece la Comunidad Autónoma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 define el currículo como el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación; las orientaciones pedagógicas son las indicaciones para orientar al profesorado en el diseño y planificación de estrategias."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre el enfoque comunicativo y funcional de la LCL y la vida cotidiana del alumnado?",
+      "options": [
+        "El enfoque se centra en situaciones formales de comunicación institucional y académica",
+        "Permite al alumnado resolver situaciones comunicativas de su vida diaria y relacionarse y expresarse en cualquier contexto",
+        "Se limita a situaciones comunicativas dentro del ámbito escolar",
+        "Se centra principalmente en la comunicación escrita para contextos académicos formales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El enfoque comunicativo y funcional busca que el alumnado pueda resolver situaciones comunicativas de su vida diaria, relacionarse y expresarse en cualquier contexto."
+    },
+    {
+      "question": "¿Cuál de los siguientes programas educativos NO se menciona en el texto del tema?",
+      "options": [
+        "Fitofaladoiro",
+        "Nos Tamén Creamos",
+        "Leo-lab",
+        "Escola de Pais"
+      ],
+      "correctAnswer": 3,
+      "explanation": "\"Escola de Pais\" no se menciona en el texto del tema. Los programas mencionados son: Fitofaladoiro, Nos Tamén Creamos, Leo-lab (Innova-Lab), PROA+ y los del PLAMBE."
+    },
+    {
+      "question": "¿Qué relación existe entre el OBJ9 y la mejora de las destrezas de producción y comprensión en LCL?",
+      "options": [
+        "El OBJ9 evalúa las destrezas a través de exámenes escritos y pruebas orales formales",
+        "El OBJ9 busca reflexionar sobre el lenguaje usando terminología adecuada para mejorar la conciencia lingüística y las destrezas de producción y comprensión",
+        "El OBJ9 promueve el análisis gramatical como fin en sí mismo del aprendizaje lingüístico",
+        "El OBJ9 desarrolla la lectura literaria como medio para mejorar las destrezas lingüísticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ9 es: \"Reflexionar sobre el lenguaje a través de la producción y comprensión de textos en contextos significativos, utilizando terminología adecuada para mejorar la conciencia lingüística y las destrezas de producción y comprensión oral y escrita.\""
+    },
+    {
+      "question": "¿Cuál es la relación entre los criterios de evaluación y los objetivos de área en el currículo de LCL?",
+      "options": [
+        "Los criterios de evaluación son más amplios que los objetivos de área y los engloban",
+        "Los criterios de evaluación derivan directamente de los bloques de contenido del área",
+        "Los criterios de evaluación conectan los contenidos y los objetivos de área",
+        "Los criterios de evaluación son independientes de los objetivos de área y se definen por separado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los contenidos y los objetivos de área se conectan a través de los criterios de evaluación, describen lo que se quiere valorar y que el alumnado debe alcanzar en conocimientos y competencias."
+    },
+    {
+      "question": "¿Qué propuesta metodológica específica de LCL permite formular hipótesis y comunicar datos y conclusiones?",
+      "options": [
+        "Aprendizaje cooperativo en grupos heterogéneos",
+        "Aprendizaje-servicio con agentes externos a la comunidad",
+        "Aprendizaje Basado en Problemas (ABPr)",
+        "Metacognición para revisar el proceso de aprendizaje"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Aprendizaje Basado en Problemas (ABPr) busca la solución a un problema a través de tareas de investigación, formulación de hipótesis y comunicación de datos y conclusiones."
+    },
+    {
+      "question": "¿Cuál es el marco de referencia que da coherencia al enfoque competencial del área de LCL?",
+      "options": [
+        "El perfil de salida del alumnado al finalizar la Educación Primaria",
+        "El currículo de la EP configurado en base al desarrollo de las ocho CC",
+        "El Real Decreto 157/2022 que establece las enseñanzas mínimas",
+        "Los descriptores operativos de cada competencia clave del sistema educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de LCL posee un enfoque competencial en coherencia con el currículo de la EP que se configura en base al desarrollo de las ocho competencias clave."
+    },
+    {
+      "question": "¿Qué función tiene el lenguaje como \"medio de información\" para el alumnado según el texto?",
+      "options": [
+        "Permite al alumnado acceder exclusivamente a textos académicos e informativos verificados",
+        "Actúa como medio para conocer el mundo y preparar al alumnado para la participación activa en la sociedad",
+        "Funciona como herramienta técnica para la búsqueda de información en entornos digitales",
+        "Permite la transmisión de mensajes científicos y tecnológicos en lenguaje especializado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área potencia la interacción global con las personas y el entorno, actuando como medio de información para conocer el mundo y preparando al alumnado para la participación activa en la sociedad."
+    },
+    {
+      "question": "¿Qué afirma el artículo 4 del Decreto 155/2022 sobre la finalidad de la Educación Primaria?",
+      "options": [
+        "Desarrollar las ocho competencias clave del currículo básico de forma progresiva",
+        "Facilitar los aprendizajes de la expresión y comprensión oral, la lectura y la escritura para garantizar una formación integral",
+        "Preparar al alumnado para el acceso a la ESO mediante la adquisición de contenidos básicos",
+        "Promover el plurilingüismo y la interculturalidad en el alumnado de Educación Primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4 del Decreto 155/2022 recoge como finalidad de la EP facilitar los aprendizajes de la expresión y de la comprensión oral, la lectura y la escritura para garantizar una formación integral."
+    },
+    {
+      "question": "¿Cuál caracteriza el enfoque del área de LCL de forma completa según el texto?",
+      "options": [
+        "Gramatical, literario y ortográfico, centrado en la corrección formal",
+        "Competencial (transversal, dinámico, integral), comunicativo y funcional, e integrado en el tratamiento de las lenguas",
+        "Normativo, prescriptivo y centrado en la corrección formal del lenguaje",
+        "Cognitivo, constructivista y centrado en el desarrollo psicoevolutivo del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de LCL tiene un enfoque competencial (caracterizado por transversalidad, dinamismo y carácter integral), un enfoque comunicativo y funcional, y un enfoque integrado en el tratamiento de las lenguas para el plurilingüismo y la interculturalidad."
+    },
+    {
+      "question": "¿Qué subraya el texto sobre el dominio del alumnado en las dos lenguas cooficiales de Galicia?",
+      "options": [
+        "Se prioriza la lengua gallega como lengua vehicular del sistema educativo gallego",
+        "La LOMLOE destaca la importancia de que el alumnado alcance un dominio pleno y equivalente en ambas lenguas",
+        "El castellano tiene presencia mayoritaria al ser la lengua oficial del Estado español",
+        "El dominio de cada lengua se desarrolla en etapas educativas diferenciadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE destaca la importancia de que el alumnado alcance un dominio pleno y equivalente en ambas lenguas, cuya estructuración se planificará según el Decreto 79/2010."
+    },
+    {
+      "question": "¿Sobre qué tiene autonomía los centros educativos en cuanto a la lengua de impartición, según el Decreto 79/2010?",
+      "options": [
+        "Sobre todas las áreas sin excepción, con libertad total de elección de lengua",
+        "Sobre las áreas no asignadas explícitamente al gallego o castellano, respetando un reparto equilibrado en horas semanales",
+        "Solo sobre las áreas artísticas y de Educación Física del currículo",
+        "Solo sobre las áreas lingüísticas (LCL y LGL) del currículo de primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 79/2010 otorga autonomía a los centros para decidir la lengua del resto de áreas (las no asignadas explícitamente), siempre que se respete un reparto equilibrado en horas semanales."
+    },
+    {
+      "question": "¿Qué elemento curricular permite medir el desempeño del alumnado en el área de LCL?",
+      "options": [
+        "Los objetivos de área del Decreto 155/2022",
+        "Los contenidos de los seis bloques del área",
+        "Los criterios de evaluación",
+        "Los descriptores operativos del perfil de salida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los criterios de evaluación son los referentes para medir el desempeño del alumnado en el área de LCL, indicando los niveles esperados en un momento determinado del proceso de aprendizaje."
+    },
+    {
+      "question": "¿Qué aspecto de la formación lectora del área de LCL persigue la promoción del hábito lector?",
+      "options": [
+        "La lectura intensiva de obras literarias clásicas de la literatura española",
+        "La promoción del hábito y la identidad lectora a través de obras próximas a los gustos e intereses del alumnado",
+        "La lectura digital de contenidos multimedia en diferentes soportes tecnológicos",
+        "La lectura extensiva de textos informativos para el acceso a la información científica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área persigue el desarrollo de la formación lectora mediante la promoción del hábito y la identidad lectora a través de obras próximas a los gustos e intereses de los discentes."
+    },
+    {
+      "question": "¿Qué capacidades del área de Ciencias de la Naturaleza y Sociales se vinculan con la LCL?",
+      "options": [
+        "La memorización de hechos científicos, históricos y geográficos fundamentales",
+        "La interpretación de fuentes históricas o mapas, la búsqueda de información científica y la expresión oral en debates y exposiciones",
+        "La resolución de problemas matemáticos en contextos naturales y sociales",
+        "La creación de infografías y presentaciones digitales sobre temas científicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El lenguaje es esencial para acceder a la información de CCNN y CCSS, interpretar fuentes históricas, mapas y gráficos, buscar información científica, y para la expresión oral en exposiciones, debates o explicaciones de resultados."
+    },
+    {
+      "question": "¿Qué tipo de evaluación del alumnado demandan los criterios de evaluación del área de LCL?",
+      "options": [
+        "Fundamentalmente sumativa y centrada en pruebas escritas al final de cada trimestre",
+        "Centrada en situaciones comunicativas contextualizadas atendiendo a todas las habilidades lingüísticas",
+        "Principalmente cuantitativa basada en pruebas escritas objetivas y estandarizadas",
+        "Individual y sin contemplar actividades de evaluación oral o grupal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación de LCL destacan: evaluar los aprendizajes en situaciones comunicativas contextualizadas atendiendo a todas las habilidades lingüísticas de hablar, escuchar, leer, escribir y comprender."
+    },
+    {
+      "question": "¿Qué herramientas tecnológicas se mencionan como recursos para la enseñanza del área de LCL?",
+      "options": [
+        "Programas de diseño gráfico y edición de vídeo para la producción de textos multimodales",
+        "Las TIC y los Entornos Virtuales de Aprendizaje (EVA)",
+        "Aplicaciones de traducción automática y diccionarios digitales en línea",
+        "Plataformas de streaming educativo y repositorios de podcasts institucionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las propuestas metodológicas mencionan integrar las TIC y los EVA (Entornos Virtuales de Aprendizaje) como parte de la intervención educativa del área."
+    },
+    {
+      "question": "¿Qué relación existe entre los objetivos de área de LCL y los criterios de evaluación en el currículo?",
+      "options": [
+        "Los criterios de evaluación derivan directamente de los objetivos de área sin intermediación",
+        "Los objetivos de área y los criterios de evaluación son equivalentes y se usan indistintamente",
+        "Los objetivos de área son un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos",
+        "Los objetivos de área están subordinados a los criterios de evaluación del Decreto estatal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de área son un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos del currículo."
+    },
+    {
+      "question": "¿Qué implica el \"carácter global e integrador\" de la EP según el artículo 3 del Decreto 155/2022?",
+      "options": [
+        "Que todas las áreas se impartan en la misma lengua vehicular del centro",
+        "Que el lenguaje se utilice como instrumento de comunicación, adquisición y transmisión del conocimiento en todas las áreas",
+        "Que los contenidos de todas las áreas se integren en proyectos interdisciplinares obligatorios",
+        "Que la evaluación sea global y no diferenciada por áreas curriculares en la EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 3 del Decreto 155/2022 establece que la EP se organiza con un carácter global e integrador, desarrollando en todas las áreas la competencia comunicativa mediante el uso del lenguaje como instrumento de comunicación, adquisición y transmisión del conocimiento."
+    },
+    {
+      "question": "¿Cuál es la razón principal por la que la LCL se considera la base del proceso de aprendizaje?",
+      "options": [
+        "Por ser una de las materias con más horas semanales en el currículo de primaria",
+        "Por ser el eje vertebrador del pensamiento, la comunicación y el acceso al conocimiento",
+        "Por ser obligatoria en todos los sistemas educativos de los países europeos",
+        "Por ser la lengua cooficial con mayor número de hablantes en el territorio español"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El lenguaje se configura como el eje vertebrador del pensamiento, la comunicación y el acceso al conocimiento, siendo la base del proceso de aprendizaje, según la conclusión del tema."
+    },
+    {
+      "question": "¿Cuáles son las dos áreas curriculares con carácter especialmente instrumental en la Educación Primaria?",
+      "options": [
+        "LCL y Ciencias Sociales",
+        "LCL y Matemáticas",
+        "Matemáticas y Educación Física",
+        "LGL y Educación Artística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de LCL y las Matemáticas son las dos áreas instrumentales de la EP, pues permiten la adquisición de conocimientos a través de la comprensión, expresión e interpretación de la información."
+    },
+    {
+      "question": "¿Cuál es la fecha del Decreto 155/2022 que establece el currículo de la EP en Galicia?",
+      "options": [
+        "15 de septiembre de 2022",
+        "20 de mayo de 2010",
+        "26 de septiembre de 2022",
+        "1 de marzo de 2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 es de fecha 15 de septiembre de 2022. Se publicó en el DOG número 183, de 26 de septiembre de 2022."
+    },
+    {
+      "question": "¿En qué número del DOG y fecha se publicó el Decreto 155/2022?",
+      "options": [
+        "DOG 183, de 26 de septiembre de 2022",
+        "DOG 97, de 25 de mayo de 2010",
+        "BOE 52, de 2 de marzo de 2022",
+        "BOE 340, de 30 de diciembre de 2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 se publicó en el DOG número 183, de 26 de septiembre de 2022, páginas 49595 a 50009."
+    },
+    {
+      "question": "¿En qué fecha se publicó la LOMLOE (Ley Orgánica 3/2020)?",
+      "options": [
+        "3 de mayo de 2006",
+        "20 de mayo de 2010",
+        "29 de diciembre de 2020",
+        "15 de septiembre de 2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE es la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación."
+    },
+    {
+      "question": "¿En qué BOE y con qué número se publicó la LOMLOE?",
+      "options": [
+        "BOE 340, de 30 de diciembre de 2020",
+        "BOE 52, de 2 de marzo de 2022",
+        "BOE 183, de 26 de septiembre de 2022",
+        "BOE 97, de 25 de mayo de 2010"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE se publicó en el BOE número 340, de 30 de diciembre de 2020, páginas 122868 a 122953."
+    },
+    {
+      "question": "¿Cuál es la fecha del Real Decreto 157/2022 que establece las enseñanzas mínimas de la EP?",
+      "options": [
+        "1 de enero de 2022",
+        "1 de marzo de 2022",
+        "2 de marzo de 2022",
+        "15 de septiembre de 2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real Decreto 157/2022 es de 1 de marzo de 2022, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria."
+    },
+    {
+      "question": "¿En qué BOE y número se publicó el Real Decreto 157/2022?",
+      "options": [
+        "BOE 340, de 30 de diciembre de 2020",
+        "BOE 52, de 2 de marzo de 2022",
+        "BOE 97, de 25 de mayo de 2010",
+        "BOE 183, de 26 de septiembre de 2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real Decreto 157/2022 se publicó en el BOE número 52, de 2 de marzo de 2022, páginas 24386 a 24504."
+    },
+    {
+      "question": "¿Cuál es la fecha de la Orden que desarrolla el Decreto 155/2022 y regula la evaluación en la EP?",
+      "options": [
+        "15 de septiembre de 2022",
+        "1 de marzo de 2022",
+        "26 de mayo de 2023",
+        "16 de octubre de 2025"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022 y regula la evaluación en la Educación Primaria en Galicia."
+    },
+    {
+      "question": "¿En qué DOG se publicó la Orden de 26 de mayo de 2023 que desarrolla el Decreto 155/2022?",
+      "options": [
+        "DOG 111, de 13 de junio de 2023",
+        "DOG 183, de 26 de septiembre de 2022",
+        "DOG 97, de 25 de mayo de 2010",
+        "DOG 340, de 30 de diciembre de 2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 se publicó en el DOG número 111, de 13 de junio de 2023, páginas 36230 a 36270."
+    },
+    {
+      "question": "¿Cuándo se publicó el Decreto 79/2010 sobre el plurilingüismo en Galicia?",
+      "options": [
+        "20 de mayo de 2010 (fecha del Decreto)",
+        "25 de mayo de 2010 (fecha del DOG)",
+        "15 de septiembre de 2022",
+        "1 de marzo de 2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 79/2010 es de 20 de mayo de 2010. Se publicó en el DOG número 97, de 25 de mayo de 2010."
+    },
+    {
+      "question": "¿En qué DOG se publicó el Decreto 79/2010 sobre el plurilingüismo en Galicia?",
+      "options": [
+        "DOG 97, de 25 de mayo de 2010",
+        "DOG 111, de 13 de junio de 2023",
+        "DOG 183, de 26 de septiembre de 2022",
+        "DOG 340, de 30 de diciembre de 2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 79/2010, de 20 de mayo, se publicó en el DOG número 97, de 25 de mayo de 2010, páginas 9242 a 9247."
+    },
+    {
+      "question": "¿Qué aspecto de las propuestas metodológicas de LCL garantiza la motivación del alumnado?",
+      "options": [
+        "La corrección sistemática de todos los errores ortográficos y gramaticales",
+        "Mostrar el carácter funcional del área y adquirir un \"saber hacer\" del lenguaje",
+        "La realización de exámenes frecuentes para consolidar los aprendizajes lingüísticos",
+        "La explicación gramatical detallada de las reglas de la lengua castellana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para garantizar la motivación, se propone mostrar el carácter funcional del área y adquirir un \"saber hacer\" del lenguaje, relacionando los aprendizajes con situaciones reales."
+    },
+    {
+      "question": "¿Qué relación se establece entre la LCL y el área de Matemáticas en cuanto al lenguaje matemático?",
+      "options": [
+        "La LCL enseña el lenguaje matemático como código lingüístico específico del área",
+        "La LCL contribuye a la comprensión del lenguaje matemático, la descripción de razonamientos y la lectura e interpretación de problemas",
+        "Las Matemáticas apoyan el desarrollo de la lógica lingüística en el área de LCL",
+        "Ambas áreas comparten los mismos criterios de evaluación para textos matemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LCL contribuye al área de Matemáticas facilitando la comprensión del lenguaje matemático, la descripción de razonamientos y procesos, y la lectura e interpretación de problemas, fomentando la escucha activa."
+    },
+    {
+      "question": "¿Cuál es el papel de la comunicación en el área de Valores Cívicos y Éticos según el texto?",
+      "options": [
+        "Facilitar la comprensión de textos jurídicos y normas legales de aplicación ciudadana",
+        "Es esencial para resolver conflictos a través del diálogo, la escucha y la exposición de argumentos",
+        "Permite el análisis filosófico de dilemas éticos mediante textos argumentativos complejos",
+        "Promueve la elaboración de manifiestos ciudadanos y textos de denuncia social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La comunicación es esencial para resolver conflictos a través del diálogo, la escucha y la exposición de argumentos, aspectos del área de Valores Cívicos y Éticos."
+    },
+    {
+      "question": "¿Qué vinculación tiene el área de LCL con las Ciencias Sociales según el texto?",
+      "options": [
+        "La LCL aporta el lenguaje matemático para la interpretación de datos estadísticos",
+        "El lenguaje es esencial para acceder a la información de las CCSS, interpretar fuentes históricas, mapas y gráficos y favorecer la expresión oral",
+        "La LCL se limita a facilitar la lectura de textos históricos en distintos soportes",
+        "El área de CCSS proporciona el vocabulario específico para las tareas de LCL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El lenguaje es esencial para acceder a la información de las CCSS, interpretar fuentes históricas, mapas y gráficos, buscar información, y favorecer la expresión oral en exposiciones, debates o explicaciones de resultados."
+    },
+    {
+      "question": "¿Qué promueve el aprendizaje basado en proyectos (ABP) en LCL al partir de cuestiones del entorno próximo?",
+      "options": [
+        "El trabajo aislado de la gramática y la ortografía en contextos funcionales del entorno",
+        "La comunicación en distintos formatos y soportes culminando en un producto final significativo vinculado a la realidad social",
+        "La evaluación de la comprensión lectora a través de proyectos de investigación bibliográfica",
+        "El aprendizaje memorístico de estructuras lingüísticas a través de proyectos colaborativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ABP parte de cuestiones del entorno próximo del alumnado y culmina en un producto final significativo vinculado a la realidad social o a medios de comunicación, posibilitando la comunicación en distintos formatos."
+    },
+    {
+      "question": "¿Qué distingue el enfoque integrado en el tratamiento de las lenguas del enfoque comunicativo en LCL?",
+      "options": [
+        "El enfoque integrado se centra en la LCL, mientras que el comunicativo abarca todas las lenguas",
+        "El enfoque integrado busca el plurilingüismo y la interculturalidad integrando las diferentes lenguas; el comunicativo se centra en resolver situaciones de la vida diaria",
+        "El enfoque integrado es más restrictivo y normativo que el comunicativo",
+        "No existen diferencias metodológicas sustantivas entre ambos enfoques"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El enfoque integrado en el tratamiento de las lenguas favorece el plurilingüismo y la interculturalidad. El enfoque comunicativo y funcional busca que el alumnado resuelva situaciones comunicativas de su vida diaria."
+    },
+    {
+      "question": "¿Qué establece el artículo 6 del Decreto 79/2010 respecto a la autonomía de los centros para la lengua de impartición?",
+      "options": [
+        "Los centros son totalmente libres de elegir la lengua de impartición de todas las áreas",
+        "Los centros pueden decidir la lengua de las áreas no asignadas explícitamente, siempre respetando un reparto equilibrado en horas semanales",
+        "Los centros solo pueden elegir la lengua de las áreas artísticas y de Educación Física",
+        "Los centros no tienen autonomía alguna sobre la lengua de impartición de las áreas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 79/2010 otorga autonomía a los centros para decidir la lengua de las áreas no asignadas explícitamente (ni al gallego ni al castellano), siempre que se respete un reparto equilibrado en horas semanales."
+    },
+    {
+      "question": "¿Qué papel tiene el aprendizaje-servicio en el desarrollo del lenguaje pragmático del alumnado?",
+      "options": [
+        "Permite el trabajo de la corrección gramatical en textos formales para agentes externos",
+        "Favorece el uso pragmático del lenguaje mediante la interacción con agentes externos y la adecuación del habla, la escritura y el vocabulario a distintas situaciones",
+        "Promueve la comprensión lectora de textos complejos a través de proyectos solidarios",
+        "Desarrolla la metacognición sobre el proceso de escritura en contextos reales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje-servicio combina el aprendizaje con un servicio a la comunidad, favoreciendo el uso pragmático del lenguaje mediante la interacción con agentes externos y la adecuación del habla, la escritura y el vocabulario."
+    },
+    {
+      "question": "¿Cuántos tipos de objetivos diferencia el texto en el currículo de LCL?",
+      "options": [
+        "Dos tipos: objetivos de etapa y objetivos de área",
+        "Tres tipos: ODS, objetivos de etapa y objetivos de área",
+        "Cuatro tipos: ODS, de etapa, de área y de ciclo",
+        "Dos tipos: objetivos generales y objetivos específicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto diferencia tres tipos de objetivos: los 17 ODS de la Agenda 2030, los objetivos de etapa (artículo 7 del Decreto 155/2022) y los objetivos de área (Anexo II, epígrafe 6.2)."
+    },
+    {
+      "question": "¿Qué aspecto de la evaluación en LCL implica la valoración de la comprensión y producción de textos orales?",
+      "options": [
+        "Valorar únicamente la pronunciación y la entonación en textos formales orales",
+        "Valorar la comprensión y producción de textos orales incluyendo su planificación y adecuación a las situaciones comunicativas",
+        "Valorar la memorización y recitación de textos literarios en exposiciones orales",
+        "Valorar la transcripción y el análisis gramatical de textos orales del entorno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación incluyen valorar la comprensión y producción de textos orales y escritos procedentes de diversas fuentes, incluyendo su planificación, redacción, revisión y adecuación a las diferentes situaciones comunicativas."
+    },
+    {
+      "question": "¿Cuál es la definición de \"objetivos de etapa\" según el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Los desempeños imprescindibles para que el alumnado progrese en su itinerario formativo",
+        "Los logros que se espera que alcance el alumnado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las CC",
+        "Los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario",
+        "Los referentes que indican los niveles de desempeño esperados en el alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define los objetivos de etapa como los logros que se espera que alcance el alumnado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las CC."
+    },
+    {
+      "question": "¿Qué capacidades del área de Educación Artística vinculadas al lenguaje se mencionan en el texto?",
+      "options": [
+        "La composición musical con vocabulario técnico especializado",
+        "La ampliación del vocabulario y el desarrollo de destrezas lingüísticas a través de canciones y dramatizaciones",
+        "La lectura de partituras y el análisis de letras de canciones",
+        "El diseño gráfico y la fotografía con descripción verbal de imágenes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En Educación Artística, actividades como canciones y dramatizaciones favorecen la ampliación del vocabulario y el desarrollo de destrezas lingüísticas: escucha, habla, lectura, escritura y comprensión."
+    },
+    {
+      "question": "¿Qué papel tiene la LCL en el acceso a la información de las Ciencias de la Naturaleza?",
+      "options": [
+        "Permite la memorización de conceptos científicos a través de textos técnicos",
+        "Permite acceder a la información, interpretar fuentes, buscar información científica y expresar resultados en exposiciones y debates",
+        "Se limita a facilitar la producción de informes científicos escritos",
+        "Proporciona el vocabulario específico de las ciencias naturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El lenguaje es esencial para acceder a la información de las CCNN, interpretar fuentes, buscar información científica, y para la expresión oral en exposiciones, debates o explicaciones de resultados."
+    },
+    {
+      "question": "¿Cuál de los siguientes autores publicó en 2004 la obra \"Didáctica de la lengua y la literatura para educar en el siglo XXI\"?",
+      "options": [
+        "Cassany",
+        "Pérez y Zayas",
+        "Ausubel",
+        "Prado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Prado, J. (2004). \"Didáctica de la lengua y la literatura para educar en el siglo XXI\". Madrid: Editorial La Muralla, SA."
+    },
+    {
+      "question": "¿Qué uso seguro y responsable de las TIC promueve el área de LCL según el Decreto 155/2022?",
+      "options": [
+        "El uso técnico orientado a la programación y creación de contenidos digitales propios",
+        "La comprensión y producción de mensajes tecnológicos con un uso seguro, eficaz y responsable de las TIC",
+        "El uso exclusivo de plataformas institucionales verificadas para el acceso a la información",
+        "El desarrollo de habilidades de ciberseguridad básica para entornos digitales educativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 establece que el área promueve la comprensión y producción de todo tipo de mensaje incluidos los tecnológicos, fomentando un uso seguro, eficaz y responsable de las TIC."
+    },
+    {
+      "question": "¿Cómo denomina el texto a la formación integral que persigue la enseñanza del área de LCL según la conclusión?",
+      "options": [
+        "Formación académica orientada al acceso a la educación secundaria obligatoria",
+        "Adquisición de competencias lingüísticas básicas para la vida cotidiana del alumnado",
+        "Educación de calidad favorecedora del pleno desarrollo de la personalidad, la autonomía y la participación activa",
+        "Dominio progresivo de los contenidos de los seis bloques del área de LCL"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La conclusión establece que la intervención educativa contribuye a una educación de calidad favorecedora del pleno desarrollo de la personalidad, la autonomía y la participación activa del alumnado."
+    },
+    {
+      "question": "¿Cuál es la finalidad del OBJ8 del área de LCL al leer obras o fragmentos literarios?",
+      "options": [
+        "Desarrollar la velocidad lectora y la comprensión inferencial de textos complejos",
+        "Reconocer la literatura como manifestación artística y fuente de placer, conocimiento y creación de textos propios",
+        "Memorizar los principales autores y obras de la literatura española y gallega",
+        "Analizar las figuras retóricas y los recursos estilísticos de los textos literarios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ8 busca \"leer y analizar obras o fragmentos literarios identificando géneros literarios y sus convenciones fundamentales, para reconocer la literatura como manifestación artística y fuente de placer, conocimiento y creación de textos propios\"."
+    },
+    {
+      "question": "¿Qué aspecto de la producción escrita enfatiza el OBJ5 del área de LCL?",
+      "options": [
+        "La lectura y comprensión de textos escritos de diferentes tipologías discursivas",
+        "La aplicación de estrategias de planificación, textualización, redacción, revisión y edición",
+        "La búsqueda y selección de información para la producción de textos argumentativos",
+        "El análisis crítico de textos escritos procedentes de los medios de comunicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ5 destaca la aplicación de estrategias de planificación, textualización, redacción, revisión y edición para construir conocimiento y responder a necesidades comunicativas."
+    },
+    {
+      "question": "¿Qué elemento curricular es el principal responsable de describir lo que se quiere valorar en el aprendizaje del alumnado en LCL?",
+      "options": [
+        "Los objetivos de área del Decreto 155/2022",
+        "Los contenidos de los seis bloques del área",
+        "Los criterios de evaluación",
+        "Los descriptores operativos del perfil de salida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los criterios de evaluación describen lo que se quiere valorar y que el alumnado debe alcanzar, en conocimientos y competencias, en las situaciones o actividades a que se refieren los objetivos."
+    },
+    {
+      "question": "¿Cómo contribuye el área de LCL al ODS 4 \"Educación de Calidad\" de la Agenda 2030?",
+      "options": [
+        "Garantizando la equidad de género en el acceso a la educación primaria en Galicia",
+        "Desarrollando competencias comunicativas, lingüísticas y culturales para una formación integral de calidad",
+        "Fomentando el acceso universal a la educación mediante el uso de tecnologías digitales",
+        "Promoviendo la educación plurilingüe como objetivo del sistema educativo gallego"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de LCL se relaciona con el ODS 4 \"Educación de Calidad\" al desarrollar competencias comunicativas, lingüísticas y culturales que contribuyen a una formación integral de calidad."
+    },
+    {
+      "question": "¿Qué plantea el OBJ3 del área de LCL en cuanto a la producción oral?",
+      "options": [
+        "Escuchar activamente en interacciones orales para desarrollar la comprensión comunicativa",
+        "Producir textos orales y multimodales coherentes y adecuados para expresar ideas y participar en interacciones orales",
+        "Analizar los elementos pragmáticos de las interacciones orales del entorno familiar",
+        "Evaluar la calidad de las interacciones orales en diferentes situaciones comunicativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ3 es: \"Producir textos orales y multimodales coherentes y adecuados para expresar ideas, construir conocimiento y participar en interacciones orales\"."
+    },
+    {
+      "question": "¿Qué promueve el OBJ1 del área de LCL en relación con los estereotipos lingüísticos?",
+      "options": [
+        "Analizar y clasificar los estereotipos lingüísticos presentes en los medios de comunicación",
+        "Rechazar los estereotipos y prejuicios lingüísticos y valorar la diversidad como fuente de riqueza cultural",
+        "Superar los estereotipos mediante el aprendizaje de la lengua estándar o normativa",
+        "Identificar los estereotipos de género presentes en las obras literarias clásicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ1 establece reconocer la diversidad lingüística \"para rechazar estereotipos y prejuicios lingüísticos y valorar la diversidad como fuente de riqueza cultural\"."
+    },
+    {
+      "question": "¿Qué elemento curricular es un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos del área de LCL?",
+      "options": [
+        "Las competencias clave del artículo 8 del Decreto 155/2022",
+        "Las competencias específicas del Real Decreto 157/2022",
+        "Los objetivos de área del epígrafe 6.2 del Anexo II",
+        "Las orientaciones pedagógicas del artículo 6 del Decreto 155/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de área son un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos del área."
+    },
+    {
+      "question": "¿Qué condición impone la LOMLOE sobre el dominio de las lenguas cooficiales en Galicia?",
+      "options": [
+        "El alumnado debe alcanzar un dominio prioritario en la lengua gallega al finalizar la EP",
+        "El alumnado debe alcanzar un dominio pleno y equivalente en ambas lenguas cooficiales",
+        "El castellano debe tener mayor presencia curricular por ser la lengua oficial del Estado",
+        "El dominio de cada lengua se evaluará de forma diferenciada al finalizar cada ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE destaca la importancia de que el alumnado alcance un dominio pleno y equivalente en las dos lenguas cooficiales, cuya estructuración se planificará según el Decreto 79/2010."
+    },
+    {
+      "question": "¿Cuál es la relación entre el modelo globalizador en LCL y el carácter interdisciplinar y transversal del área?",
+      "options": [
+        "El modelo globalizador prioriza el área lingüística sobre el resto de áreas del currículo",
+        "La enseñanza de LCL debe partir de un modelo globalizador en que los contenidos se trabajen de forma interdisciplinar y transversal",
+        "El modelo globalizador globaliza los contenidos de todos los ciclos en una única programación",
+        "El carácter interdisciplinar se limita a la relación entre LCL y LGL como áreas lingüísticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 3 del Decreto 155/2022 establece que la EP tiene carácter global e integrador; en consecuencia, la enseñanza de LCL debe partir de un modelo globalizador en que los contenidos se trabajen de forma interdisciplinar y transversal."
+    },
+    {
+      "question": "¿Qué competencia clave desarrolla la LCL al capacitar al alumnado para hacer un uso seguro y crítico de internet?",
+      "options": [
+        "Competencia en Comunicación Lingüística (CCL)",
+        "Competencia Plurilingüe (CP)",
+        "Competencia Digital (CD)",
+        "Competencia Personal, Social y de Aprender a Aprender (CPSAA)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de LCL contribuye a la Competencia Digital (CD) al capacitar al alumnado para buscar, seleccionar e interpretar información en internet de forma segura, crítica y responsable."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre la LCL y la Educación Física en cuanto al lenguaje?",
+      "options": [
+        "La LCL aporta vocabulario técnico específico para la comprensión de reglas deportivas",
+        "La EF complementa la adquisición del lenguaje no verbal a través de la expresión corporal y favorece la expresión oral mediante el respeto de normas en juegos",
+        "La EF facilita la comprensión de consignas orales complejas como habilidad lingüística",
+        "La LCL desarrolla la capacidad de leer y producir textos deportivos en distintos soportes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de Educación Física complementa la adquisición del lenguaje no verbal a través de la expresión corporal y favorece la expresión oral y la escucha mediante el respeto de normas y la interacción en juegos."
+    },
+    {
+      "question": "¿Qué establece el OBJ2 del área de LCL?",
+      "options": [
+        "Producir textos orales y multimodales coherentes para participar en interacciones orales",
+        "Comprender textos orales y multimodales identificando el sentido general, valorando aspectos formales y de contenido para construir el conocimiento",
+        "Comprender textos escritos y multimodales identificando el sentido general y la información implícita",
+        "Leer obras diversas autónomamente construyendo la identidad lectora y el gusto por la lectura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ2 es: \"Comprender textos orales y multimodales identificando el sentido general, valorando aspectos formales y de contenido básicos para construir el conocimiento y responder a necesidades comunicativas\"."
+    },
+    {
+      "question": "¿Cuál de los siguientes programas del PLAMBE NO se menciona en el texto?",
+      "options": [
+        "Clubs de Lectura",
+        "Bibliotecas Escolares Solidarias",
+        "Innova-Lab",
+        "Biblioteca Creativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Innova-Lab no es un programa del PLAMBE. Los programas del PLAMBE mencionados son: Clubs de Lectura, Radio na Biblio, Biblioteca Creativa, Lectura e Familia y Bibliotecas Escolares Solidarias."
+    },
+    {
+      "question": "¿Cómo contribuye la LCL a la Competencia en Conciencia y Expresión Culturales (CCEC) a través de la literatura?",
+      "options": [
+        "Estudiando la historia de la literatura española de forma cronológica y memorística",
+        "Promoviendo el respeto y reconocimiento de la pluralidad lingüística y cultural de España a través de obras de diferentes épocas y culturas",
+        "Analizando exclusivamente las obras literarias de la tradición gallega y castellana",
+        "Fomentando la creación literaria original del alumnado como única vía de expresión cultural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LCL desarrolla la CCEC a través de la lectura y valoración de obras literarias de diferentes épocas y culturas, promoviendo el respeto y reconocimiento de la pluralidad lingüística y cultural de España."
+    },
+    {
+      "question": "¿Cuántos tipos de conocimientos, destrezas y actitudes integran los bloques de contenido del área de LCL?",
+      "options": [
+        "Solo conocimientos teóricos y destrezas procedimentales",
+        "Conocimientos, destrezas y actitudes en torno a las habilidades de hablar, escuchar, leer, comprender y escribir",
+        "Únicamente conocimientos conceptuales sobre la lengua y la literatura",
+        "Destrezas comunicativas y actitudes valorativas, sin incluir conocimientos declarativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los bloques de contenido del área de LCL integran conocimientos, actitudes y destrezas en torno a las habilidades de hablar, escuchar, leer, comprender y escribir."
+    },
+    {
+      "question": "¿Con qué elemento curricular están directamente relacionados los objetivos de área de LCL del Decreto 155/2022?",
+      "options": [
+        "Con los saberes básicos del Real Decreto 157/2022",
+        "Con los criterios de evaluación del Decreto 155/2022",
+        "Con las competencias específicas del Real Decreto 157/2022",
+        "Con los descriptores operativos de las competencias clave"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de área se corresponden con las competencias específicas establecidas en el Real Decreto 157/2022, de 1 de marzo."
+    },
+    {
+      "question": "¿Qué tipo de comunicación fomenta el área de LCL para el desarrollo de la Competencia Ciudadana?",
+      "options": [
+        "La comunicación institucional y formal para el ejercicio de derechos y deberes",
+        "La comunicación que permite la convivencia, el respeto, el entendimiento y el ejercicio de una ciudadanía activa",
+        "La comunicación técnica para el acceso a servicios y recursos comunitarios",
+        "La comunicación política para la participación en órganos de representación escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LCL aporta a la Competencia Ciudadana siendo el lenguaje un vehículo esencial para la convivencia, el respeto, el entendimiento entre personas y el ejercicio de una ciudadanía activa."
+    },
+    {
+      "question": "¿Qué característica fundamental tiene el área de LCL al contribuir al desarrollo intelectual del alumnado como instrumento del pensamiento?",
+      "options": [
+        "Carácter instrumental para la adquisición de conocimientos transversales",
+        "Carácter formativo al contribuir al desarrollo intelectual como instrumento básico del pensamiento para representar, comprender e interpretar la realidad",
+        "Carácter regulador de la conducta para organizar y guiar las propias acciones",
+        "Carácter europeo del contenido al integrarse en los sistemas educativos europeos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El carácter formativo del área se concreta en su contribución al desarrollo intelectual del alumnado como instrumento básico del pensamiento para representar, comprender e interpretar la realidad."
+    },
+    {
+      "question": "¿Qué requiere la intervención en el área de LCL según el objetivo de etapa \"e\" del Decreto 155/2022?",
+      "options": [
+        "Que el alumnado desarrolle las ocho competencias clave del currículo de EP",
+        "Que el alumnado conozca y utilice de manera apropiada la lengua gallega y castellana y desarrolle hábitos de lectura",
+        "Que el alumnado alcance un dominio pleno de lengua extranjera al finalizar la EP",
+        "Que el alumnado produzca textos escritos correctos en todos los géneros discursivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo de etapa \"e\" del artículo 7 del Decreto 155/2022 exige que el alumnado conozca y utilice de manera apropiada la lengua gallega y la lengua castellana y desarrolle hábitos de lectura."
+    },
+    {
+      "question": "¿Qué establece el artículo 33 del Decreto 155/2022 en relación con los planes de los centros educativos?",
+      "options": [
+        "La obligatoriedad de un Plan de Acción Tutorial (PAT) en todos los centros",
+        "La obligatoriedad del Plan de Lectura, Escritura y Acceso a la Información (PLEA) y del Plan de Biblioteca",
+        "La obligatoriedad de un Plan de Atención a la Diversidad (PAD) en todos los centros",
+        "La obligatoriedad de un Plan de Convivencia y un Plan de Integración de las TIC"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 33 del Decreto 155/2022 establece como obligatorios en todos los centros el Plan de Lectura, Escritura y Acceso a la Información (PLEA) y el Plan de Biblioteca."
+    },
+    {
+      "question": "¿Cuál es la razón por la que la LCL tiene un carácter instrumental en el currículo de la EP?",
+      "options": [
+        "Porque tiene el mayor número de horas semanales de entre todas las áreas del currículo",
+        "Porque permite la adquisición de conocimientos a través de la comprensión y expresión de la información, siendo clave para el aprendizaje de todas las áreas",
+        "Porque es la única área obligatoria en todos los países del sistema educativo europeo",
+        "Porque sus contenidos son la base de los exámenes de acceso a la educación secundaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de LCL tiene un carácter instrumental al ser, junto con las Matemáticas, un área que permite la adquisición de conocimientos a través de la comprensión y expresión de la información, lo que justifica su presencia transversal."
+    },
+    {
+      "question": "¿Cómo describe el texto la relación entre la lectura y la escritura y el desarrollo integral del alumnado?",
+      "options": [
+        "Son contenidos optativos que complementan el desarrollo lingüístico del alumnado",
+        "Son aprendizajes instrumentales esenciales para el desarrollo integral y la formación personal, social y académica",
+        "Son destrezas básicas que solo se trabajan en el área de LCL y LGL",
+        "Son habilidades propias del primer ciclo que se consolidan en el segundo ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La lectura y la escritura como aprendizajes instrumentales resultan esenciales para el desarrollo integral del alumnado y para su formación personal, social y académica."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE exige que el PLEA y el Plan de Biblioteca se concreten anualmente en la Programación General Anual?",
+      "options": [
+        "Artículo 91",
+        "Artículo 107",
+        "Artículo 121",
+        "Artículo 132"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 121 de la LOMLOE establece que ambos planes deben integrarse en el Proyecto Educativo del centro y concretarse anualmente en la Programación General Anual (PGA)."
+    },
+    {
+      "question": "¿Qué objetivo del área de LCL está más directamente relacionado con la lucha contra la desinformación digital?",
+      "options": [
+        "OBJ5 (producción de textos escritos gramatical y ortográficamente correctos)",
+        "OBJ6 (búsqueda, selección y contraste de información evaluando fiabilidad y riesgos de manipulación)",
+        "OBJ8 (lectura y análisis de obras literarias identificando géneros)",
+        "OBJ10 (uso ético y no discriminatorio del lenguaje)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ6 incluye explícitamente \"evaluando su fiabilidad y los riesgos de manipulación y desinformación\", lo que lo vincula directamente a la lucha contra la desinformación digital."
+    }
+  ]
+}

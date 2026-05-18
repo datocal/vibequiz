@@ -1,39 +1,8 @@
 ---
-description: Generate a quiz from provided content (PDF, webpage, article, etc.)
+description: Generate a quiz from a single file (PDF, doc, markdown, etc.)
 ---
 
-You are an expert quiz generation assistant. Your task is to create a high-quality, educational quiz in JSON format from source content provided by the user.
-
-## Multi-File Mode (Parallel Agents)
-
-**Before doing anything else**, check if the user provided multiple source files (e.g., `@file1.pdf @file2.pdf` or a list of files).
-
-If **more than one file** is detected:
-
-1. Announce: "Detected N files — launching N parallel agents."
-2. For each file, spawn a **background Agent** with this prompt (fill in the specifics):
-
-   ```
-   You are generating a quiz for the vibequiz project.
-   Read `.claude/commands/generate-quiz.md` for the full instructions and follow them exactly.
-
-   Parameters:
-   - File: [file path]
-   - Category: [category]
-   - Difficulty: [difficulty]
-   - Questions: [num_questions]
-
-   IMPORTANT: Complete all steps including saving the quiz file, but SKIP the manifest update (Step 5 point 3). The manifest will be updated separately after all agents finish.
-   ```
-
-3. Wait for **all agents to complete**.
-4. Collect the list of generated filenames and their categories from agent results.
-5. Do a **single manifest update** for all new files at once (read manifest, add all filenames, write once).
-6. Report a summary: which quizzes were created, question counts, any failures.
-
-If only **one file** is provided, continue with the normal single-file workflow below.
-
----
+You are an expert quiz generation assistant. Generate a high-quality educational quiz from a single source file. For multiple files in parallel, use `/generate-quiz-multi`.
 
 ## Usage
 
@@ -42,402 +11,180 @@ If only **one file** is provided, continue with the normal single-file workflow 
 ```
 
 **Parameters:**
-- `<category>` (required): The category for the quiz (e.g., "temas", "normativa", "protocolos")
-- `[difficulty]` (optional): Difficulty level - "easy", "medium", or "hard" (default: "hard")
-- `[num_questions]` (optional): Number of questions to generate (default: 200)
-- `@content` (required): One or more source files, or pasted content
+- `<category>` (required): e.g., "temas", "normativa", "protocolos"
+- `[difficulty]` (optional): "easy", "medium", or "hard" (default: "hard")
+- `[num_questions]` (optional): number of questions (default: 200)
+- `@content`: file reference
 
 **Examples:**
 ```
 /generate-quiz temas @tema4.pdf
 /generate-quiz normativa medium @decreto.pdf
 /generate-quiz protocolos easy 50 @protocolo-urgencias.pdf
-
-# Multiple files (parallel mode — all must share the same category/difficulty):
-/generate-quiz temas hard @tema1.pdf @tema2.pdf @tema3.pdf
 ```
 
-## Step 0: Convert Document to Markdown (if needed)
+---
 
-If the source content is a PDF, `.doc`, or `.docx` file, convert it to markdown using `markitdown` **before reading it**:
+## Step 0: Preflight
 
-```bash
+Verify `markitdown` is installed:
+```
+markitdown --version
+```
+If it fails, stop: "markitdown is not installed. Run: `pip install 'markitdown[all]'`"
+
+## Step 1: Convert and read source
+
+If the source is a PDF, `.doc`, or `.docx`, convert it first:
+```
 markitdown input.pdf -o input.md
-# or
-markitdown input.docx -o input.md
+```
+Read the `.md` file as source content. Note the temp path — you will delete it at the end.
+
+If already `.md` or plain text, read it directly.
+
+## Step 2: Parse and confirm
+
+1. Extract category, difficulty (default: "hard"), num_questions (default: 200)
+2. Derive the slug from the filename: `tema-4-trastornos.pdf` → `tema-4-trastornos`
+3. Extract quiz title from the document (first H1 or prominent heading; fall back to slug)
+4. Read `quiz-schema.json` and `QUIZ-FORMAT.md`
+5. Confirm parameters with the user:
+   ```
+   File:       [filename]
+   Category:   [category]
+   Title:      [title]
+   Difficulty: [difficulty]
+   Questions:  [num_questions]
+   Batches:    [ceil(num_questions / 50)]
+   ```
+
+## Step 3: Generate questions in batches
+
+Split [num_questions] into batches of up to 50. For each batch:
+1. Generate up to 50 questions following the quality rules below.
+2. Write the batch to `quizzes/temp/[slug]-part1.json`, `[slug]-part2.json`, etc.
+   Each part file must be a complete valid quiz JSON with the same title/description/category/difficulty.
+
+## Step 4: Merge with a Python script
+
+Write the following script to `quizzes/temp/[slug]-merge.py` (replace `[slug]` and `[category]` with actual values):
+
+```python
+import json, glob, os
+parts = sorted(glob.glob("quizzes/temp/[slug]-part*.json"))
+questions = []
+meta = None
+for p in parts:
+    with open(p, encoding="utf-8") as f:
+        d = json.load(f)
+    if meta is None:
+        meta = {k: v for k, v in d.items() if k != "questions"}
+    questions.extend(d["questions"])
+meta["questions"] = questions
+os.makedirs("quizzes/[category]", exist_ok=True)
+with open("quizzes/[category]/[slug].json", "w", encoding="utf-8") as f:
+    json.dump(meta, f, ensure_ascii=False, indent=2)
+print(f"Merged {len(questions)} questions into quizzes/[category]/[slug].json")
 ```
 
-Then read the resulting `.md` file as the source content for quiz generation. Delete the temporary markdown file after reading.
+Run: `python quizzes/temp/[slug]-merge.py`
 
-## Step 1: Parse Command and Extract Information
+Verify the printed count matches [num_questions].
 
-1. **Parse parameters** from the user message:
-   - Extract category (first parameter after command, required)
-   - Extract difficulty (default: "hard" if not specified)
-   - Extract number of questions (default: 200 if not specified)
-   - Get source content from file or pasted content
+## Step 5: Clean up
 
-2. **Extract title from content automatically**:
-   - Look for the document title in the first few lines/pages
-   - Check for headers, PDF metadata, or prominent headings
-   - Common patterns: "TEMA X:", "Decreto", "Orden", first H1/title
-   - If no clear title found, derive from filename (e.g., "tema4.pdf" → "Tema 4")
-   - Clean and format the title appropriately
+```powershell
+Remove-Item quizzes/temp/[slug]-part*.json
+Remove-Item quizzes/temp/[slug]-merge.py
+# If you converted a PDF/doc:
+Remove-Item [file-without-ext].md
+```
 
-3. **Show extracted parameters** to user for confirmation:
-   ```
-   Detected parameters:
-   - Category: [category]
-   - Title: [extracted title]
-   - Difficulty: [difficulty]
-   - Questions: [num_questions]
+## Step 6: Update manifest
 
-   Proceeding with quiz generation...
-   ```
+- Read `quizzes/manifest.json`
+- Add `[slug].json` to the category's `quizzes` array
+- Write the manifest back
 
-**Note on Large Quizzes (>50 questions):**
-Since the default is 200 questions, you will typically need to:
-1. Split the generation into multiple batches of maximum 50 questions each
-2. Generate separate quiz files for each batch
-3. Merge them using jq into a single final quiz file
-This approach ensures better quality and avoids context limitations.
+## Step 7: Present results
 
-## Step 2: Read Schema and Guidelines
+1. Success message with full output path
+2. Stats: question count, difficulty, category, number of batches
+3. 2–3 sample questions from different sections
 
-Before generating, read these files to understand the format:
-- Read `quiz-schema.json` - For structure validation rules
-- Read `QUIZ-FORMAT.md` - For examples and best practices
+---
 
-## Step 3: Generate the Quiz
+## Question Quality Rules
 
-Based on the source content, create questions following these guidelines:
-
-### Question Quality Standards
-
-**Good Questions:**
-- Test understanding of key concepts, not trivial memorization
-- Have one definitively correct answer
-- Are clearly worded without ambiguity
-- Cover different aspects of the content
-- Match the specified difficulty level
-
-**Creating Options (CRITICAL - READ CAREFULLY):**
-- Provide exactly 4 options per question
-- 1 correct answer
-- 3 plausible distractors that are genuinely challenging
-
-**AVOID OBVIOUS WRONG ANSWERS:**
-- ❌ NEVER use words like "solo", "únicamente", "siempre", "nunca", "nada", "todo"
+**Creating options (CRITICAL):**
+- Provide exactly 4 options: 1 correct + 3 plausible distractors
+- ❌ NEVER use "solo", "únicamente", "siempre", "nunca", "nada", "todo"
 - ❌ NEVER make one option much longer/shorter than others
 - ❌ NEVER include obviously absurd or unrelated options
-- ❌ NEVER use negatives in only one option ("No se puede...", "Es imposible...")
-
-**CREATE REALISTIC DISTRACTORS:**
-- ✅ Use specific data that is close to the correct answer (e.g., 35-50 dB vs 40-60 dB vs 25-45 dB)
-- ✅ All options should be similar length and structure
-- ✅ Use concepts from the same topic area (e.g., different types of hearing aids, not random unrelated items)
+- ❌ NEVER use negatives in only one option ("No se puede…", "Es imposible…")
+- ✅ Use specific data close to the correct answer (e.g., 35-50 dB vs 40-60 dB vs 25-45 dB)
+- ✅ All options similar length and structure
+- ✅ Distractors from the same topic area as the correct answer
 - ✅ Include common misconceptions or partial truths
-- ✅ Use related terms that could be confused (e.g., "conductiva" vs "neurosensorial" vs "mixta")
-- ✅ Make the user need to know the specific content, not just eliminate obvious wrong answers
+- ✅ Use related terms that could be confused
 
-**Writing Explanations:**
-- Explain WHY the correct answer is right
-- Reference the source material when possible
-- Clarify why common wrong answers are incorrect
-- Add context that enhances learning
-- Keep explanations educational and concise (10-1000 characters)
+**Difficulty calibration:**
+- easy: direct facts, basic definitions, recognition
+- medium: application, comparisons, cause and effect
+- hard: analysis, edge cases, specific numbers/ranges, distinguishing similar concepts, multi-step reasoning
 
-### Difficulty Calibration
+**Tricky questions (hard/medium):**
+1. All options from same category/topic
+2. Similar wording and length
+3. Specific data that's close but different (e.g., "25-30" vs "30-35" vs "35-40" vs "40-45")
+4. Distractors are real concepts from the content, just not the answer to this question
 
-**Easy:**
-- Direct facts from the content
-- Basic definitions and concepts
-- Recognition-based questions
+**Explanations:** explain WHY the correct answer is right; clarify why wrong answers are wrong; 10-1000 characters.
 
-**Medium:**
-- Application of concepts
-- Comparisons and relationships
-- Understanding cause and effect
+---
 
-**Hard:**
-- Analysis and synthesis
-- Edge cases and nuances
-- Deep conceptual understanding
-- Multi-step reasoning
-- Specific data/numbers from the content (ranges, percentages, exact terms)
-- Distinguishing between similar concepts
-- Require knowing the exact wording/details from the source
-
-### Creating "A Pillar" (Tricky) Questions
-
-For hard/medium quizzes, make questions that require real knowledge:
-
-**Key Principles:**
-1. All options should be from the same category/topic
-2. Use similar wording and length for all options
-3. Include specific data that's close but different
-4. Make distractors be real concepts from the content, just incorrect for this question
-
-**Example patterns:**
-- Numbers/ranges: "25-30" vs "30-35" vs "35-40" vs "40-45"
-- Similar terms: "Type A", "Type B", "Type C", "Type D" (all real types from content)
-- Sequential items: "First step", "Second step", "Third step" (asking which comes when)
-- Close definitions: All describe similar concepts, but only one is correct for the specific question
-
-## Step 4: Create the JSON File(s)
-
-### For Regular Quizzes (≤50 questions)
-
-Generate valid JSON matching this structure:
+## JSON Format
 
 ```json
 {
-  "title": "Engaging, descriptive title",
-  "description": "Clear description of what the quiz tests (10-500 chars)",
+  "title": "string",
+  "description": "string (10-500 chars)",
   "category": "lowercase-with-hyphens",
   "difficulty": "easy|medium|hard",
   "questions": [
     {
-      "question": "Clear, specific question?",
-      "options": [
-        "Option 1",
-        "Option 2",
-        "Option 3",
-        "Option 4"
-      ],
+      "question": "string",
+      "options": ["string", "string", "string", "string"],
       "correctAnswer": 0,
-      "explanation": "Educational explanation referencing source material"
+      "explanation": "string"
     }
   ]
 }
 ```
 
-**CRITICAL VALIDATION:**
-- ✅ `correctAnswer` MUST be a NUMBER (0-3), NOT a string
-- ✅ `options` must have 2-6 items (recommend 4)
-- ✅ `category` must be lowercase with hyphens only
-- ✅ `difficulty` must be exactly: "easy", "medium", or "hard"
-- ✅ All strings must meet min/max length requirements
-- ✅ `explanation` is optional but STRONGLY recommended
+CRITICAL: `correctAnswer` must be a NUMBER (0-3), never a string.
 
-### For Large Quizzes (>50 questions)
-
-When the user requests more than 50 questions, follow this process:
-
-**Step 4a: Split Generation**
-1. Calculate number of batches needed (e.g., 120 questions = 3 batches of 40 questions)
-2. Divide the source content into logical sections if possible
-3. Generate separate quiz files for each batch:
-   - `quizzes/temp/[quiz-name]-part1.json` (questions 1-50)
-   - `quizzes/temp/[quiz-name]-part2.json` (questions 51-100)
-   - `quizzes/temp/[quiz-name]-part3.json` (questions 101-...)
-
-**Step 4b: Generate Each Batch**
-For each batch:
-1. Create a complete valid quiz JSON with the same metadata (title, description, category, difficulty)
-2. Generate up to 50 questions from the corresponding section of content
-3. Save to the temporary part file
-4. Inform the user of progress
-
-**Step 4c: Merge with jq**
-Once all parts are generated, merge them using jq:
-
-```bash
-# Merge all parts into a single quiz file
-jq -s '
-  {
-    title: .[0].title,
-    description: .[0].description,
-    category: .[0].category,
-    difficulty: .[0].difficulty,
-    questions: (map(.questions) | add)
-  }
-' quizzes/temp/[quiz-name]-part*.json > quizzes/[category]/[quiz-name].json
-
-# Clean up temporary files
-rm quizzes/temp/[quiz-name]-part*.json
-```
-
-**Step 4d: Verify Merged Result**
-1. Check the merged file has the correct total number of questions
-2. Validate the JSON structure
-3. Ensure no duplicate questions
-4. Confirm all questions are properly formatted
-
-## Step 5: Save and Register
-
-1. **Generate filename**: Convert title to lowercase-with-hyphens format
-   - Example: "World Geography" → `world-geography.json`
-
-2. **Save the quiz**:
-   - For regular quizzes: Write to `quizzes/[category]/[filename].json`
-   - For large quizzes: Use the merged file from Step 4c
-
-3. **Update manifest**:
-   - Read `quizzes/manifest.json`
-   - Find the appropriate category in the `categories` array
-   - Add the new filename to that category's `quizzes` array
-   - Write back the updated manifest
-
-4. **Validate**: Ensure the JSON is valid and follows the schema
-   - For large quizzes, verify the total question count matches expectations
-
-## Step 6: Present Results
-
-Show the user:
-
-1. **Success message** with the filename
-2. **Generation method**:
-   - For regular quizzes: "Generated in single batch"
-   - For large quizzes: "Generated in X batches and merged successfully"
-3. **Sample questions** (show 2-3 questions as preview from different parts if merged)
-4. **Stats**:
-   - Total number of questions generated
-   - Difficulty level
-   - Category used
-   - Number of batches (if applicable)
-5. **Testing instructions**:
-   ```
-   To test your quiz:
-   1. Start local server: python -m http.server 8000
-   2. Open browser: http://localhost:8000
-   3. Find your quiz in the list or try Random Party mode
-   ```
+---
 
 ## Quality Checklist
 
-Before finalizing, verify:
-
-- [ ] All questions are answerable from the source content
-- [ ] Distractors are plausible but clearly incorrect
-- [ ] **NO options use words like "solo", "únicamente", "siempre", "nunca"**
-- [ ] **All 4 options have similar length and structure**
-- [ ] **Cannot answer by elimination - need to know the content**
-- [ ] **Distractors use specific data/terms from the same topic area**
+Before finishing, verify:
+- [ ] All questions answerable from source content
+- [ ] Distractors plausible but clearly incorrect
+- [ ] No options use "solo", "únicamente", "siempre", "nunca"
+- [ ] All 4 options have similar length and structure
+- [ ] Cannot answer by elimination — need to know the content
+- [ ] Distractors use specific data/terms from the same topic area
 - [ ] Explanations add educational value
-- [ ] No ambiguous or trick questions
-- [ ] Proper grammar and spelling throughout
 - [ ] JSON is valid and schema-compliant
-- [ ] correctAnswer is a NUMBER for all questions
-- [ ] Category matches the content topic
-- [ ] Difficulty matches target audience
+- [ ] `correctAnswer` is a NUMBER for all questions
 
-## Example Interaction
-
-**Example 1: Simple usage with defaults**
-
-**User**: `/generate-quiz temas @tema4.pdf`
-
-**Assistant**:
-```
-Detected parameters:
-- Category: temas
-- Title: Tema 4: Trastornos del Lenguaje (extracted from PDF)
-- Difficulty: hard (default)
-- Questions: 200 (default)
-
-Proceeding with quiz generation...
-```
-
-[Reads schema files]
-[Generates 4 batches of 50 questions each]
-[Generates part 1 - saves to quizzes/temp/tema-4-trastornos-del-lenguaje-part1.json]
-[Generates part 2 - saves to quizzes/temp/tema-4-trastornos-del-lenguaje-part2.json]
-[Generates part 3 - saves to quizzes/temp/tema-4-trastornos-del-lenguaje-part3.json]
-[Generates part 4 - saves to quizzes/temp/tema-4-trastornos-del-lenguaje-part4.json]
-[Merges all parts using jq]
-[Saves merged file to quizzes/temas/tema-4-trastornos-del-lenguaje.json]
-[Cleans up temporary files]
-[Updates manifest]
-
-Great! I've created your quiz: `quizzes/temas/tema-4-trastornos-del-lenguaje.json`
-
-**Sample Questions:**
-1. ¿Cuál es la característica principal de la afasia de Broca?
-2. ¿Qué estructura cerebral se ve afectada en la disfasia?
-
-**Quiz Stats:**
-- Questions: 200
-- Difficulty: hard
-- Category: temas
-- Generation: 4 batches merged
-
-**Test your quiz:**
-```bash
-python -m http.server 8000
-# Visit http://localhost:8000
-```
-
-**Example 2: Custom difficulty and questions**
-
-**User**: `/generate-quiz normativa medium 100 @decreto-229-2011.pdf`
-
-**Assistant**:
-```
-Detected parameters:
-- Category: normativa
-- Title: Decreto 229/2011 (extracted from PDF)
-- Difficulty: medium
-- Questions: 100
-
-Proceeding with quiz generation...
-```
-
-[Generates 2 batches of 50 questions each]
-[Merges and saves to quizzes/normativa/decreto-229-2011.json]
-[Updates manifest]
-
-Great! I've created your quiz: `quizzes/normativa/decreto-229-2011.json`
-
-**Quiz Stats:**
-- Questions: 100
-- Difficulty: medium
-- Category: normativa
-- Generation: 2 batches merged
-
-## Advanced Options
-
-**Overriding Defaults:**
-- Specify difficulty: `/generate-quiz temas easy @content`
-- Specify question count: `/generate-quiz temas 50 @content`
-- Specify both: `/generate-quiz temas medium 150 @content`
-
-**Additional Customization:**
-If the user wants further customization, they can also request:
-
-- **Focus on specific sections**: "Generate questions only about chapters 3-5"
-- **Question type emphasis**: "More application questions, fewer definitions"
-- **Multiple quizzes**: "Create beginner and advanced versions"
-- **Refinement**: User can ask to regenerate with different difficulty or focus
-- **Large quiz batching**: For very large content, split into logical sections (chapters, topics) when generating batches
-- **Custom batch size**: User can request different batch sizes (e.g., 30 questions per batch instead of 50)
-- **Manual title**: If title extraction fails or is incorrect, user can specify: "Use title 'Custom Title' instead"
+---
 
 ## Error Handling
 
-If generation fails or produces invalid JSON:
-1. Check the source content is clear and focused
-2. Verify all required fields are present
-3. Ensure correctAnswer uses numbers, not strings
-4. Validate against schema requirements
-5. Offer to regenerate with corrections
-
-For large quizzes specifically:
-1. If a batch fails, regenerate just that batch (don't restart all batches)
-2. If merge fails, check that all part files exist and have valid JSON
-3. Ensure the temp directory exists before generating parts
-4. Verify jq is available on the system
-5. Check that all parts have consistent metadata (title, category, difficulty)
-
-## Important Reminders
-
-- **Always read the schema files first** - Don't rely on memory
-- **Validate correctAnswer is a NUMBER** - Most common error
-- **Create realistic distractors** - Not obviously wrong options
-- **Write educational explanations** - They add significant value
-- **Update the manifest** - Quiz won't appear without this
-- **Test the output** - Verify JSON is valid before finishing
-- **For large quizzes (>50 questions)**: Always use the batch + merge approach
-- **Create temp directory if needed**: `mkdir -p quizzes/temp` before generating batches
-- **Clean up after merging**: Remove all part files to avoid clutter
-- **Verify question count**: After merging, confirm total matches expected number
+- If a batch fails, regenerate just that batch
+- If merge produces wrong count, re-read parts and recount
+- Ensure `correctAnswer` uses numbers, not strings
+- Validate against quiz-schema.json before updating the manifest

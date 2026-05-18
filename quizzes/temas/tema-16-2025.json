@@ -1,0 +1,2109 @@
+{
+  "title": "Tema 16. La educación literaria en el contexto escolar",
+  "description": "Preguntas de nivel avanzado sobre educación literaria, literatura infantil y juvenil, géneros literarios, estrategias didácticas y bibliotecas escolares en Educación Primaria.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según Cassany et al. (1994), ¿cómo se define la competencia literaria en el marco de la educación literaria?",
+      "options": [
+        "La capacidad para interpretar textos literarios y disfrutar de ellos",
+        "El dominio de los recursos estilísticos y figuras retóricas en la redacción",
+        "La habilidad para memorizar y recitar obras de la tradición oral",
+        "La aptitud para analizar comparativamente obras de distintos géneros literarios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany et al. (1994) definen la competencia literaria como la capacidad para interpretar textos literarios y disfrutar de ellos. Esta competencia es el segundo paso al que se llega una vez asentado el hábito lector y requiere un trabajo a largo plazo tanto del alumno como del docente."
+    },
+    {
+      "question": "¿En qué bloque de contenido del área de LCL recoge el Decreto 155/2022 la educación literaria?",
+      "options": [
+        "Bloque 5",
+        "Bloque 3",
+        "Bloque 6",
+        "Bloque 4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 organiza el área de LCL en 6 bloques de contenido, destinando el Bloque 5 específicamente a la educación literaria, cuyo objetivo principal es fomentar el gusto por la lectura y la formación lectora."
+    },
+    {
+      "question": "Según Roig (2012), ¿qué es la Educación Literaria desde un punto de vista metodológico?",
+      "options": [
+        "Una metodología que proporciona saberes culturales, literarios y sociales para descubrir preferencias y establecer criterios artísticos",
+        "Un método de enseñanza centrado en la memorización de obras literarias canónicas",
+        "Una estrategia de fomento lector basada exclusivamente en la lectura autónoma",
+        "Un enfoque didáctico que prioriza el análisis gramatical de textos literarios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Roig (2012) define la Educación Literaria como una metodología que proporciona un conjunto de saberes culturales, literarios y sociales que permite descubrir las preferencias y gustos por los tipos de libros y autores, así como establecer criterios para la elaboración de obras artísticas."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece la finalidad de la Educación Primaria en relación con la lectura y la escritura?",
+      "options": [
+        "Artículo 4",
+        "Artículo 6",
+        "Artículo 7",
+        "Artículo 12"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 del Decreto 155/2022 recoge la finalidad de la EP, que incluye facilitar al alumnado los aprendizajes de la expresión y comprensión oral, la lectura y la escritura para garantizar una formación integral que contribuya al pleno desarrollo de su personalidad."
+    },
+    {
+      "question": "¿Qué principio pedagógico del Decreto 155/2022 establece el tiempo diario de lectura en los centros escolares?",
+      "options": [
+        "El quinto principio pedagógico del artículo 16",
+        "El tercer principio pedagógico del artículo 14",
+        "El séptimo principio pedagógico del artículo 18",
+        "El cuarto principio pedagógico del artículo 16"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El quinto principio pedagógico del artículo 16 del Decreto 155/2022, junto con la Resolución del 16 de octubre de 2015, establece el tiempo diario de lectura para cada centro escolar, elemento clave para construir personalidades lectoras."
+    },
+    {
+      "question": "Según el Decreto 155/2022, ¿cómo se definen las competencias clave en el artículo 6?",
+      "options": [
+        "Como desempeños imprescindibles para que el alumnado progrese con garantías de éxito en su itinerario formativo y afronte los principales retos globales y locales",
+        "Como objetivos generales de etapa que el alumnado debe alcanzar al finalizar la Educación Primaria",
+        "Como estándares de aprendizaje evaluables vinculados a cada área curricular",
+        "Como indicadores de logro que permiten medir el rendimiento académico del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las CC como los desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo y afrontar los principales retos y desafíos globales y locales."
+    },
+    {
+      "question": "¿A qué recomendación europea responde la adaptación de las competencias clave al sistema educativo español?",
+      "options": [
+        "Recomendación del Consejo de la Unión Europea del 22 de mayo de 2018",
+        "Recomendación del Consejo de la Unión Europea del 18 de diciembre de 2006",
+        "Recomendación del Parlamento Europeo del 15 de enero de 2016",
+        "Recomendación de la Comisión Europea del 20 de noviembre de 2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las CC son la adaptación al sistema educativo de las competencias para el aprendizaje permanente establecidas en la Recomendación del Consejo de la Unión Europea del 22 de mayo de 2018, y aparecen recogidas en el perfil de salida del alumnado."
+    },
+    {
+      "question": "¿Con qué objetivo de área del Decreto 155/2022 se relaciona más directamente la educación literaria al contemplar la lectura autónoma y la construcción de la identidad lectora?",
+      "options": [
+        "OBJ7: leer obras diversas autónomamente compartiendo experiencias de lectura y construyendo la identidad lectora",
+        "OBJ5: comprender y producir textos de distinta tipología con corrección gramatical",
+        "OBJ3: desarrollar la expresión oral con fluidez y adecuación al contexto comunicativo",
+        "OBJ9: usar las TIC para buscar, seleccionar y compartir información de forma crítica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación literaria se relaciona con el OBJ7 al 'leer obras diversas autónomamente compartiendo experiencias de lectura y construyendo la identidad lectora y el gusto por la lectura', y también con el OBJ8 al analizar obras identificando géneros literarios."
+    },
+    {
+      "question": "¿Con qué objetivo de desarrollo sostenible de la Agenda 2030 se vincula la educación literaria?",
+      "options": [
+        "ODS4 'Educación de Calidad', al garantizar la alfabetización y el acceso igualitario a la cultura",
+        "ODS10 'Reducción de las desigualdades', al promover la inclusión educativa",
+        "ODS3 'Salud y bienestar', al favorecer el bienestar emocional a través de la lectura",
+        "ODS8 'Trabajo decente y crecimiento económico', al desarrollar competencias para el empleo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación literaria se vincula con el ODS4 'Educación de Calidad', que garantiza la alfabetización de las personas y el acceso igualitario a la cultura desde la educación."
+    },
+    {
+      "question": "Según el Decreto 155/2022, ¿qué artículo define los contenidos como el conjunto de conocimientos, destrezas y actitudes de una área?",
+      "options": [
+        "Artículo 6",
+        "Artículo 7",
+        "Artículo 4",
+        "Artículo 13"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 del Decreto 155/2022 define los contenidos como el conjunto de conocimientos, destrezas y actitudes propios de una área o cuyo aprendizaje es necesario para adquirir el nivel de desempeño indicado en los criterios de evaluación y el logro de los objetivos del área."
+    },
+    {
+      "question": "¿Qué objetivo de etapa del artículo 7 del Decreto 155/2022 se corresponde directamente con la educación literaria?",
+      "options": [
+        "Objetivo 'e': conocer y utilizar apropiadamente la lengua gallega y castellana y desarrollar hábitos de lectura en ambas lenguas",
+        "Objetivo 'b': desarrollar hábitos de trabajo individual y en equipo y actitudes de confianza",
+        "Objetivo 'g': conocer los aspectos fundamentales de las Ciencias de la Naturaleza y la Historia",
+        "Objetivo 'i': iniciarse en las tecnologías de la información y la comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo 'e' del artículo 7 del Decreto 155/2022 se corresponde directamente con la educación literaria al establecer que el alumnado debe 'conocer y utilizar de manera apropiada la lengua gallega y la lengua castellana y desarrollar hábitos de lectura en ambas lenguas'."
+    },
+    {
+      "question": "¿Qué competencia clave se relaciona más estrechamente con el conocimiento y valoración de otras culturas, autores y generaciones a través de la literatura?",
+      "options": [
+        "Competencia en Conciencia y Expresión Culturales (CCEC)",
+        "Competencia en Comunicación Lingüística (CCL)",
+        "Competencia Plurilingüe (CP)",
+        "Competencia Personal, Social y de Aprender a Aprender (CPSAA)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La CCEC se relaciona estrechamente con la educación literaria porque esta fomenta el conocimiento y la valoración de otras culturas, autores y generaciones, apreciando la función estética y creativa de la lengua y de las ilustraciones de las historias."
+    },
+    {
+      "question": "¿Qué competencia clave favorece la educación literaria a través del contacto con textos literarios de distintas lenguas?",
+      "options": [
+        "Competencia Plurilingüe (CP)",
+        "Competencia en Comunicación Lingüística (CCL)",
+        "Competencia Ciudadana (CC)",
+        "Competencia en Conciencia y Expresión Culturales (CCEC)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El contacto con textos literarios de distintas lenguas favorece la Competencia Plurilingüe (CP), ya que permite al alumnado desarrollarse en diferentes sistemas lingüísticos y culturales."
+    },
+    {
+      "question": "Según Cerillo y García (1992), ¿cuáles son los géneros literarios más habituales en Educación Primaria?",
+      "options": [
+        "La lírica o poesía, la narrativa y la dramatización",
+        "La novela, el cuento y el teatro",
+        "La épica, la lírica y la didáctica",
+        "El cómic, la narrativa y la poesía folclórica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cerillo y García (1992) destacan como géneros más habituales en EP la lírica o poesía, la narrativa y la dramatización. Cassany et al. (1994) añaden el cómic como género adicional."
+    },
+    {
+      "question": "¿Cómo clasifica Ana Pelegrín los cuentos según las edades en Educación Primaria?",
+      "options": [
+        "De fórmula (2-5 años), de animales (4-7 años), maravillosos (5-7 años) y de la vida real (8 años en adelante)",
+        "Iniciación (3-5 años), transición (5-8 años), consolidación (8-10 años) y autonomía (10 años en adelante)",
+        "Simbólicos (2-4 años), realistas (4-7 años), fantásticos (7-9 años) e históricos (9 años en adelante)",
+        "Sensoriomotor (0-3 años), preoperacional (3-6 años), concreto (6-9 años) y formal (9 años en adelante)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ana Pelegrín clasifica los cuentos según las edades en: de fórmula (2-5 años), de animales (4-7 años), maravillosos (de 5-7 años) y de la vida real (de 8 años en adelante), progresión que respeta el desarrollo cognitivo del niño."
+    },
+    {
+      "question": "¿Qué subclasificación distingue la lírica en el contexto de la literatura infantil y juvenil?",
+      "options": [
+        "Poesía de tradición oral o folclore, y poemas de autor",
+        "Poesía épica y poesía lírica personal",
+        "Poesía rimada y poesía en verso libre",
+        "Poesía narrativa y poesía dramática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La lírica se subclasifica en poesía de tradición oral o folclore (nanas, trabalenguas, retahílas, adivinanzas y canciones que se transmiten oralmente) y poemas de autor (escritos por adultos con temas relacionados con el entorno del niño)."
+    },
+    {
+      "question": "¿Qué habilidades desarrolla específicamente la poesía según el contenido del tema?",
+      "options": [
+        "La imaginación, la expresión emocional, la comunicación, la autoestima y el desarrollo de la escucha, la lectura y la escritura",
+        "La comprensión inferencial, el pensamiento lógico, la memoria y la planificación textual",
+        "La competencia morfosintáctica, el vocabulario técnico y la corrección ortográfica",
+        "La fluidez lectora, la velocidad de procesamiento y la decodificación fonológica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La poesía favorece la imaginación, la expresión emocional, la comunicación y la autoestima, además de desarrollar la escucha, la lectura y la escritura, constituyendo así un género literario de gran valor didáctico integral."
+    },
+    {
+      "question": "Según Cassany et al. (1994), ¿cómo se define la narrativa en el contexto de la literatura infantil?",
+      "options": [
+        "Textos en prosa donde se narran hechos reales o fantásticos con personajes en un tiempo y lugar definidos",
+        "Composiciones donde se expresan sentimientos y emociones con finalidad estética usando recursos rítmicos",
+        "Representaciones de historias a través del diálogo y la expresión corporal para un público",
+        "Secuencias de viñetas que combinan dibujo y texto para contar una historia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany et al. (1994) definen la narrativa como textos en prosa donde se narran hechos reales o fantásticos con unos personajes en un tiempo y lugar definidos, caracterizándose por su extensión y desarrollo sencillo y su utilidad para entretener o enseñar."
+    },
+    {
+      "question": "¿Qué tipos de narrativa se distinguen dentro del género narrativo en la literatura infantil y juvenil?",
+      "options": [
+        "Épico-narrativos (cuento, novela, épica) y narrativa de transmisión oral (mitos, leyendas, fábulas)",
+        "Narrativa de ficción (cuento, novela) y narrativa de no ficción (biografía, crónica)",
+        "Narrativa breve (cuento, microrrelato) y narrativa extensa (novela, epopeya)",
+        "Narrativa realista (cuentos de la vida real) y narrativa fantástica (cuentos maravillosos)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dentro de la narrativa se distinguen los épico-narrativos (cuento, novela y épica) y la narrativa de transmisión oral (mitos, leyendas o fábulas). Roig (2012) subraya el interés de introducir la narrativa oral tradicional gallega para acercar la cultura e historia."
+    },
+    {
+      "question": "¿Qué elementos define la dramatización o teatro como género literario diferenciador frente a otros géneros?",
+      "options": [
+        "La representación de historias a través del diálogo y expresión corporal ante un público, combinando guion escrito con elementos escénicos",
+        "La narración de hechos en prosa con personajes y trama definidos para ser leídos individualmente",
+        "La expresión de sentimientos mediante versos rítmicos con figuras retóricas para ser recitados",
+        "La combinación de dibujo y texto en viñetas secuenciadas para transmitir una historia visual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La dramatización o teatro consiste en la representación de historias a través del diálogo y la expresión corporal para ser representadas ante un público, combinando la expresión lingüística (guion/lenguaje oral) con elementos escénicos como iluminación, decorados, vestuario y música."
+    },
+    {
+      "question": "¿Cómo se clasifican las obras dramáticas según la presencia o ausencia de actores?",
+      "options": [
+        "Obras con actores (drama, comedia, tragedia, tragicomedia, entremés) y obras sin actores (marionetas, teatro de sombras)",
+        "Obras de texto (drama, comedia) y obras de movimiento (pantomima, danza)",
+        "Obras clásicas (tragedia griega, comedia latina) y obras modernas (teatro del absurdo, musical)",
+        "Obras para interior (drama de cámara) y obras para exterior (teatro al aire libre)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las obras dramáticas se clasifican en obras con actores (drama, comedia, tragedia, tragicomedia o entremés) y obras sin actores, que emplean elementos simbólicos como las marionetas o el teatro de sombras."
+    },
+    {
+      "question": "¿Qué aplicación digital se menciona específicamente para la creación de viñetas de cómic en el aula?",
+      "options": [
+        "Pixton",
+        "Canva",
+        "StoryBird",
+        "Book Creator"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pixton se menciona específicamente como aplicación útil en el aula para crear viñetas de cómic, fomentando la creatividad e imaginación del alumnado. El uso del cómic se ha reforzado con la tecnología digital que facilita su diseño."
+    },
+    {
+      "question": "¿Qué doble función cumplen las estrategias y técnicas de la literatura infantil y juvenil según el texto?",
+      "options": [
+        "Función literaria (formar lectores competentes de diversos géneros) y función lingüística (desarrollar habilidades de comprensión, producción y expresión oral y escrita)",
+        "Función cultural (conocer el patrimonio literario) y función lúdica (entretener al alumnado)",
+        "Función evaluativa (medir la competencia lectora) y función motivadora (despertar el interés lector)",
+        "Función normativa (cumplir el currículo) y función creativa (fomentar la escritura autónoma)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias y técnicas de la literatura infantil y juvenil cumplen una función literaria para formar lectores competentes de diversos géneros que compartan sus lecturas, y una función lingüística para desarrollar habilidades de comprensión, producción y expresión oral y escrita."
+    },
+    {
+      "question": "¿En qué tres bloques se agrupan las estrategias didácticas de la educación literaria?",
+      "options": [
+        "Estrategias previas (establecer objetivos), durante la lectura (revisar comprensión) y posteriores (resumir y sintetizar)",
+        "Estrategias de motivación, estrategias de comprensión y estrategias de evaluación",
+        "Estrategias individuales, estrategias cooperativas y estrategias autónomas",
+        "Estrategias orales, estrategias escritas y estrategias multimodales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias didácticas se agrupan en tres bloques: previas a la lectura (establecer objetivos y activar conocimientos previos), durante la lectura (revisar y comprobar la comprensión) y posteriores (resumir, sintetizar y ampliar la información)."
+    },
+    {
+      "question": "¿Qué técnica propuesta por Gianni Rodari consiste en unir dos palabras o conceptos sin relación aparente para crear historias imaginativas?",
+      "options": [
+        "El binomio fantástico",
+        "La ensalada de cuentos",
+        "Los cuentos al revés",
+        "Los finales alternativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El binomio fantástico, propuesto por Gianni Rodari, consiste en unir dos palabras o conceptos que aparentemente no guardan relación entre sí para crear historias imaginativas, estimulando la creatividad y el pensamiento divergente."
+    },
+    {
+      "question": "¿Qué técnica literaria propone mezclar personajes, lugares o situaciones de cuentos conocidos para crear una historia propia?",
+      "options": [
+        "La ensalada de cuentos",
+        "El binomio fantástico",
+        "Los cuentos encadenados",
+        "Los cuentos al revés"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La ensalada de cuentos permite mezclar personajes, lugares o situaciones de cuentos conocidos para crear una historia propia con creatividad, siendo una técnica especialmente motivadora para el alumnado de EP."
+    },
+    {
+      "question": "¿Qué técnica literaria fomenta la expresión oral, la escucha activa y la cohesión del grupo mediante la construcción colectiva de una historia?",
+      "options": [
+        "Los cuentos encadenados",
+        "Los cuentos al revés",
+        "Los finales alternativos",
+        "El binomio fantástico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cuentos encadenados son aquellos en los que la historia se construye de forma colectiva, fomentando la expresión oral, la escucha activa y la cohesión del grupo, siendo una técnica especialmente valiosa para trabajar competencias sociales."
+    },
+    {
+      "question": "¿Qué material manipulativo específico se menciona como recurso para la narrativa, consistente en dados con imágenes para contar historias?",
+      "options": [
+        "Storycubes",
+        "Flashcards narrativas",
+        "Cartas de Propp",
+        "Pictogramas de secuencias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los storycubes se mencionan como recurso para la narrativa, permitiendo al alumnado contar una historia a partir de las imágenes que aparecen en los dados, estimulando la creatividad y la expresión oral."
+    },
+    {
+      "question": "¿Qué práctica literaria propia de Galicia se menciona como actividad de poesía consistente en rimas cantadas improvisadas?",
+      "options": [
+        "Las regueifas",
+        "Las cantigas de amigo",
+        "Los alalás",
+        "Las muiñeiras rimadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las regueifas son rimas cantadas improvisadas características de Galicia que se mencionan como actividad poética para practicar en el aula, conectando la tradición cultural gallega con el desarrollo de la creatividad lingüística."
+    },
+    {
+      "question": "¿Qué son los caligramas en el contexto de las actividades de poesía?",
+      "options": [
+        "Poemas cuya disposición gráfica forma visualmente la figura del tema que tratan",
+        "Poemas cantados que combinan melodía y texto de forma improvisada",
+        "Colecciones de poemas elaborados colectivamente por el grupo-clase",
+        "Grabaciones de poemas realizadas con medios tecnológicos en el aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los caligramas son poemas cuya disposición tipográfica forma visualmente la figura del tema tratado, siendo una actividad mencionada en el texto como recurso para 'llenar las paredes del aula', combinando expresión literaria y plástica."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE establece la obligatoriedad de que todos los centros cuenten con una biblioteca escolar?",
+      "options": [
+        "Artículo 113",
+        "Artículo 93",
+        "Artículo 121",
+        "Artículo 105"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE en el artículo 113 establece que todos los centros deben contar con una biblioteca escolar e integrar en el Proyecto Educativo el PLEA y un Plan de Biblioteca."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se concreta el Plan de Biblioteca escolar?",
+      "options": [
+        "Artículo 33",
+        "Artículo 12",
+        "Artículo 25",
+        "Artículo 40"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 33 del Decreto 155/2022 y el artículo 13 de la Orden de 26 de mayo concretan el plan de biblioteca, concibiéndola como un centro de recursos para la lectura, la información y el aprendizaje y como un espacio de encuentro entre alumnado, profesorado y familias."
+    },
+    {
+      "question": "¿Qué programa informático ofrece la Xunta de Galicia para la gestión de las bibliotecas escolares?",
+      "options": [
+        "KOHA",
+        "Sirius",
+        "Abies",
+        "BiblioGal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Xunta ofrece el programa KOHA para la gestión de bibliotecas escolares, junto con la plataforma digital E-LBE.2 para el préstamo de libros y recursos educativos."
+    },
+    {
+      "question": "¿Cuál es la plataforma digital que ofrece la Xunta para el préstamo de libros y recursos educativos en bibliotecas escolares?",
+      "options": [
+        "E-LBE.2",
+        "BibliGal Digital",
+        "LecturaNET",
+        "EducaLib Online"
+      ],
+      "correctAnswer": 0,
+      "explanation": "E-LBE.2 es la plataforma digital que ofrece la Xunta para el préstamo de libros y recursos educativos, complementando el programa KOHA de gestión de bibliotecas escolares."
+    },
+    {
+      "question": "¿Qué significa el acrónimo PLAMBE en el contexto de las bibliotecas escolares gallegas?",
+      "options": [
+        "Plan de Mejora de las Bibliotecas Escolares de Galicia",
+        "Plan de Lectura, Alfabetización y Mejora de Bibliotecas Educativas",
+        "Programa de Animación Lectora en Medios Bibliotecarios Escolares",
+        "Plan de Modernización de Bibliotecas Escolares de Galicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "PLAMBE significa Plan de Mejora de las Bibliotecas Escolares de Galicia, que promueve la actualización de recursos y espacios de las bibliotecas para garantizar el acceso igualitario a la cultura, la lectura, la escritura y la alfabetización múltiple."
+    },
+    {
+      "question": "¿Qué programas específicos pueden integrar los centros participantes en el PLAMBE?",
+      "options": [
+        "Clubs de Lectura, Radio na Biblio, Biblioteca Creativa, Lectura e Familia, Bibliotecas Escolares Solidarias",
+        "Plan Lector, Biblioteca Digital, Mediadores de Lectura, Familias Lectoras, Red de Autores",
+        "Lecturas Compartidas, Cine en la Biblio, Taller de Escritura, Maratón Lector, Biblioteca Verde",
+        "Club Literario, Booktube Escolar, Prensa en el Aula, Lectura en Familia, Biblioteca Inclusiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los centros integrados en el PLAMBE pueden participar en programas como Clubs de Lectura, Radio na Biblio, Biblioteca Creativa, Lectura e Familia o Bibliotecas Escolares Solidarias."
+    },
+    {
+      "question": "¿Cuál es el lema de las bibliotecas escolares gallegas para el curso 2025/2026?",
+      "options": [
+        "'Contra a desinformación: bibliotecas'",
+        "'Ler é vivir: bibliotecas para todos'",
+        "'Bibliotecas: pontes ao coñecemento'",
+        "'Palabras que transforman: bibliotecas abertas'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El lema de las bibliotecas escolares gallegas para el curso 2025/2026 es 'Contra a desinformación: bibliotecas', que subraya su papel como escudo contra la desinformación gracias a sus recursos fiables y la guía experta de sus bibliotecarios."
+    },
+    {
+      "question": "¿Qué competencias desarrolla específicamente el Plan LIA según sus objetivos?",
+      "options": [
+        "Las competencias ALFIN (Alfabetización Informacional) y AMI (Alfabetización Mediática e Informacional)",
+        "Las competencias digitales y las competencias en comunicación lingüística",
+        "Las competencias matemáticas y las competencias en ciencia y tecnología",
+        "Las competencias sociales y las competencias de iniciativa emprendedora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA está orientado a reforzar la presencia y organización de las bibliotecas escolares para el desarrollo del currículo y las competencias ALFIN (Alfabetización Informacional) y AMI (Alfabetización Mediática e Informacional)."
+    },
+    {
+      "question": "¿Qué institución promueve el Plan LIA según el texto?",
+      "options": [
+        "La Consellería de Cultura, Educación, Formación Profesional y Universidades",
+        "El Ministerio de Educación y Formación Profesional",
+        "La Agencia para la Calidad del Sistema Universitario de Galicia",
+        "La Fundación Barrié de la Maza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA surge en Galicia e integra las actuaciones de la Consellería de Cultura, Educación, Formación Profesional y Universidades, orientado a reforzar la presencia y organización de las bibliotecas escolares."
+    },
+    {
+      "question": "¿Qué significa el acrónimo PLEA según la normativa educativa vigente?",
+      "options": [
+        "Plan de Lectura, Escritura y Acceso a la Información",
+        "Plan de Lectura, Expresión y Aprendizaje Autónomo",
+        "Programa de Lectura, Escritura y Alfabetización",
+        "Plan de Lectura, Escritura y Actividades de Aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "PLEA significa Plan de Lectura, Escritura y Acceso a la Información, cuyo objetivo es promover y fomentar la lectura, la escritura y las habilidades en el uso, tratamiento y producción de la información, en apoyo de la adquisición de las CC."
+    },
+    {
+      "question": "¿A partir de qué curso escolar deben los centros desarrollar el PLEA según la Resolución del 16 de septiembre de 2025?",
+      "options": [
+        "Curso 2026/2027",
+        "Curso 2025/2026",
+        "Curso 2027/2028",
+        "Curso 2024/2025"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la Resolución del 16 de septiembre de 2025, todos los centros deben elaborar un Plan de Lectura, Escritura y Acceso a la Información (PLEA) a desarrollar a partir del curso 2026/2027."
+    },
+    {
+      "question": "¿Qué aspectos deben considerarse para la creación y organización de una biblioteca de aula según el texto?",
+      "options": [
+        "Adecuación psicoevolutiva de los libros, colocación accesible y organizada, y establecimiento de un servicio de préstamo",
+        "Variedad de géneros literarios, presupuesto anual de adquisiciones y actualización periódica del fondo",
+        "Espacio físico disponible, criterios estéticos de decoración y participación de las familias en las donaciones",
+        "Número de alumnos por aula, preferencias lectoras del tutor y disponibilidad horaria para la lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para la creación y organización de la biblioteca de aula deben considerarse: que los libros sean adecuados al desarrollo psicoevolutivo de los niños, que estén colocados en estanterías de fácil acceso y organizados por categorías, y que se establezca un servicio de préstamo."
+    },
+    {
+      "question": "Según Colomer (2009), ¿qué función desempeña el servicio de préstamo de la biblioteca de aula?",
+      "options": [
+        "Favorece la difusión de prácticas lectoras",
+        "Garantiza el control del material bibliográfico del aula",
+        "Permite la evaluación de los hábitos lectores del alumnado",
+        "Asegura la equidad en el acceso a los recursos de lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Colomer (2009), el servicio de préstamo de la biblioteca de aula favorece la difusión de prácticas lectoras, siendo un elemento fundamental para promover el hábito lector más allá del horario escolar."
+    },
+    {
+      "question": "¿Qué ventaja específica de la biblioteca de aula está relacionada con el fomento de actitudes de cuidado del material?",
+      "options": [
+        "Fomenta hábitos de responsabilidad al cuidar el material",
+        "Favorece el contacto con libros y el funcionamiento de las bibliotecas",
+        "Permite el acceso rápido y continuo a una diversidad de materiales",
+        "Desarrolla hábitos de consulta como fuente de placer e información"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una de las ventajas específicas de la biblioteca de aula es que fomenta hábitos de responsabilidad al cuidar el material, contribuyendo al desarrollo de valores y actitudes positivas hacia los recursos compartidos."
+    },
+    {
+      "question": "¿Qué resolución establece las instrucciones para el desarrollo de la organización y funcionamiento de las bibliotecas escolares para el curso 2025/2026?",
+      "options": [
+        "Resolución del 1 de septiembre de 2025",
+        "Resolución del 16 de septiembre de 2025",
+        "Resolución del 16 de octubre de 2025",
+        "Resolución del 1 de octubre de 2025"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Resolución del 1 de septiembre de 2025 dicta las instrucciones para el desarrollo de la organización y el funcionamiento de las bibliotecas escolares en los centros docentes no universitarios para el curso 2025/2026."
+    },
+    {
+      "question": "¿Qué normativa redefine el concepto del plan de lectura mediante el PLEA según el artículo 33 del Decreto 155/2022?",
+      "options": [
+        "La Resolución del 16 de octubre de 2025",
+        "La Resolución del 1 de septiembre de 2025",
+        "La Orden de 26 de mayo de 2023",
+        "La Resolución del 16 de septiembre de 2025"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Resolución del 16 de octubre de 2025 redefine la concepción del plan de lectura mediante el Plan de Lectura, Escritura y Acceso a la Información (PLEA), actualizando lo establecido en el artículo 33 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones describe correctamente las funciones de la biblioteca escolar según el texto?",
+      "options": [
+        "Recopilar documentación, organizar recursos, establecer canales de difusión, desarrollar actividades de fomento lector y actuar como enlace con fuentes externas",
+        "Custodiar el material bibliográfico, supervisar el uso de recursos tecnológicos y coordinar el plan de convivencia del centro",
+        "Gestionar el préstamo interbibliotecario, catalogar fondos digitales y elaborar el proyecto curricular de área",
+        "Formar al profesorado en competencia digital, coordinar los planes de refuerzo y gestionar los recursos económicos del centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las funciones principales de la biblioteca escolar incluyen: recopilar documentación del centro, organizar recursos para que sean accesibles, establecer canales de difusión, constituir un ámbito para capacitar al alumnado en el uso de fuentes de información, desarrollar actividades de fomento lector y actuar como enlace con fuentes externas."
+    },
+    {
+      "question": "¿Qué actividades específicas se mencionan para potenciar la animación lectora desde la biblioteca escolar?",
+      "options": [
+        "Visitas de autores, exposiciones bibliográficas, juegos y concursos de lectura, libroforum, clubs de lectura y celebraciones como el Día del Libro",
+        "Talleres de escritura creativa, olimpiadas de matemáticas, concursos de ciencias y ferias tecnológicas",
+        "Proyecciones de películas, conferencias de expertos, torneos deportivos y excursiones culturales",
+        "Actividades de robótica, programación informática, diseño gráfico y fabricación digital"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades para potenciar la animación lectora desde la biblioteca incluyen: visitas de autores o a bibliotecas de la localidad, exposiciones bibliográficas, juegos y concursos de lectura, teatro, libroforum, clubs de lectura, creaciones literarias, y actividades relacionadas con el Día del Libro y el Día Internacional del Libro Infantil y Juvenil."
+    },
+    {
+      "question": "¿Qué autor defiende que la práctica lectora autónoma tiene su origen en la biblioteca de centro o de aula?",
+      "options": [
+        "Colomer (2009)",
+        "Cassany et al. (1994)",
+        "Cerillo y García (1992)",
+        "Roig (2012)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Colomer (2009) señala que la práctica lectora autónoma tiene origen en la biblioteca de centro o de aula, destacando así la importancia de estos espacios para el desarrollo del hábito lector independiente."
+    },
+    {
+      "question": "¿Qué autores subrayan la importancia de introducir la literatura desde los primeros cursos de Educación Primaria?",
+      "options": [
+        "Cerillo y García (1992)",
+        "Cassany, Luna y Sanz (1994)",
+        "Colomer (2009)",
+        "Prado (2004)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cerillo y García (1992) remarcan la importancia de introducir la literatura desde los primeros cursos de Educación Primaria, pues es en esta etapa cuando los discentes se inician en el mundo de la lectura."
+    },
+    {
+      "question": "¿Cuál es la cita de Francesco Tonucci sobre la lectura que aparece en la conclusión del tema?",
+      "options": [
+        "'Leer y escribir es el mejor regalo para tus hijos'",
+        "'La lectura es el espejo del alma humana'",
+        "'Un lector vive mil vidas antes de morir'",
+        "'Los libros son amigos que nunca te abandonan'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Francesco Tonucci es citado en la conclusión con la frase 'leer y escribir es el mejor regalo para tus hijos', poniendo de manifiesto el valor de la literatura como herencia educativa y emocional."
+    },
+    {
+      "question": "¿Qué define la biblioteca escolar como espacio de interacción según sus principios recogidos en el texto?",
+      "options": [
+        "Un lugar de aprendizaje, de encuentro y de interacción que recoge amplia variedad de recursos y adopta gestión centralizada en colaboración con las bibliotecas de aula",
+        "Un depósito de materiales bibliográficos organizados por materias con acceso restringido al profesorado",
+        "Un espacio de trabajo individual donde el alumnado puede estudiar en silencio y acceder a recursos",
+        "Un servicio complementario de custodia de materiales que apoya las actividades extraescolares del centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los principios de las bibliotecas escolares destaca que son un lugar de aprendizaje, de encuentro y de interacción, recogiendo una amplia variedad de recursos bibliográficos, informativos y didácticos y adoptando el papel de gestión centralizada en permanente contacto con las bibliotecas de aula."
+    },
+    {
+      "question": "¿Qué importancia otorga Colomer (2009) a la presentación de la literatura infantil y juvenil en las estrategias didácticas?",
+      "options": [
+        "Otorga vital importancia a promover la curiosidad y la motivación creando experiencias placenteras de lectura de diversos géneros y autores",
+        "Considera fundamental la evaluación sistemática de la comprensión lectora tras cada lectura",
+        "Destaca la necesidad de seguir un programa de lectura secuenciado y obligatorio para todos los alumnos",
+        "Prioriza la formación del profesorado en estrategias de lectura compartida y animación bibliotecaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Colomer (2009) otorga vital importancia a promover la curiosidad y la motivación creando experiencias placenteras de lectura de diversos géneros y autores, aspectos esenciales para desarrollar el hábito lector autónomo."
+    },
+    {
+      "question": "¿Qué metodologías activas recomienda el texto para trabajar la literatura en el aula de Educación Primaria?",
+      "options": [
+        "El aprendizaje cooperativo, las tareas integradas y el trabajo por proyectos",
+        "La enseñanza directa, el aprendizaje memorístico y los ejercicios de repetición",
+        "La gamificación, el aprendizaje basado en problemas y el aula invertida",
+        "El método Montessori, el aprendizaje por descubrimiento y la pedagogía Waldorf"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto recomienda incluir el aprendizaje cooperativo, las tareas integradas y el trabajo por proyectos para la lectura o creación de fragmentos literarios, en coherencia con el enfoque globalizador e interdisciplinar de la educación literaria."
+    },
+    {
+      "question": "¿En qué epígrafe del Anexo II del Decreto 155/2022 se establece el valor de la literatura dentro de la enseñanza de LCL?",
+      "options": [
+        "Epígrafe 6.1",
+        "Epígrafe 3.2",
+        "Epígrafe 5.1",
+        "Epígrafe 7.3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Anexo II epígrafe 6.1 del Decreto 155/2022 establece que dentro de la enseñanza del área de LCL, la literatura adquiere un valor significativo como producto de expresión artística y como medio de relación con otras manifestaciones artísticas y culturales de Galicia y del mundo."
+    },
+    {
+      "question": "¿Qué enfoque metodológico debe regir la educación literaria según Cassany et al. (1994), integrándola en todas las áreas curriculares?",
+      "options": [
+        "Un enfoque globalizador e interdisciplinar",
+        "Un enfoque comunicativo y funcional",
+        "Un enfoque analítico-crítico de los textos literarios",
+        "Un enfoque basado en la gamificación y la tecnología"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Conforme a Cassany et al. (1994), la educación literaria debe regirse por un enfoque globalizador e interdisciplinar que la integre en todas las áreas curriculares, pues la competencia literaria aborda la lectura, la escucha, el análisis y la valoración de conceptos que se refuerzan en distintas disciplinas."
+    },
+    {
+      "question": "Según el texto, ¿qué debe incluir la selección de lecturas que realice el docente para garantizar experiencias lectoras de calidad?",
+      "options": [
+        "Lecturas lúdicas, cercanas a los gustos del alumnado, variadas y adecuadas a su madurez y comprensión",
+        "Lecturas del canon literario universal ordenadas cronológicamente por período histórico",
+        "Lecturas centradas en la gramática, el vocabulario y la corrección ortográfica",
+        "Lecturas seleccionadas por el equipo directivo en función del proyecto educativo del centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para garantizar experiencias lectoras de calidad, el docente debe seleccionar lecturas lúdicas, cercanas a los gustos del alumnado, variadas y adecuadas a su madurez y comprensión, teniendo en cuenta que la literatura no es solo leer, sino también crear textos."
+    },
+    {
+      "question": "¿Qué finalidad tiene específicamente el Bloque 5 de LCL del Decreto 155/2022 en relación con la educación literaria?",
+      "options": [
+        "Fomentar el gusto por la lectura y la formación lectora a través de la lectura y creación de textos de diferente tipología, valorando el sentido estético y la creatividad",
+        "Desarrollar la competencia ortográfica y gramatical mediante el análisis de textos literarios canónicos",
+        "Garantizar el conocimiento del patrimonio literario universal y la historia de la literatura",
+        "Promover la comprensión lectora mediante pruebas estandarizadas de nivel nacional e internacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 5 de LCL tiene como objetivo principal fomentar el gusto por la lectura y la formación lectora a través de la lectura y creación de textos de diferente tipología, valorando el sentido estético y la creatividad y usando recursos de la biblioteca de centro y de aula."
+    },
+    {
+      "question": "¿Qué característica de la narrativa la distingue de la poesía según Cassany et al. (1994)?",
+      "options": [
+        "Su formato en prosa, con personajes situados en un tiempo y lugar definidos",
+        "El uso de recursos rítmicos y melódicos con finalidad estética",
+        "La representación mediante diálogo y expresión corporal ante un público",
+        "La combinación de imágenes y texto secuenciados en viñetas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La narrativa se caracteriza por ser textos en prosa donde se narran hechos reales o fantásticos con personajes en un tiempo y lugar definidos. La poesía, en cambio, usa recursos rítmicos y melódicos con finalidad estética, y el teatro se basa en el diálogo y la expresión corporal."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el cómic como género literario es más precisa según el texto?",
+      "options": [
+        "Cuenta una historia combinando dibujo y texto en viñetas, y su uso se ha reforzado con la tecnología digital",
+        "Es un género exclusivamente visual sin componente verbal que narra historias mediante secuencias de imágenes",
+        "Es una modalidad de narrativa oral transformada en imágenes para facilitar la comprensión lectora",
+        "Se trata de un subgénero de la dramatización que emplea elementos gráficos en lugar de actores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cómic, añadido por Cassany et al. (1994), se caracteriza por contar una historia combinando el dibujo y el texto en viñetas. Su uso se ha reforzado con la tecnología digital que facilita su diseño, con aplicaciones como Pixton para el aula."
+    },
+    {
+      "question": "¿Qué diferencia fundamental existe entre los cuentos épico-narrativos y la narrativa de transmisión oral?",
+      "options": [
+        "Los épico-narrativos incluyen cuento, novela y épica; la transmisión oral abarca mitos, leyendas y fábulas",
+        "Los épico-narrativos son ficciones inventadas; la transmisión oral recoge historias verídicas documentadas",
+        "Los épico-narrativos emplean verso; la narrativa de transmisión oral usa prosa coloquial",
+        "Los épico-narrativos son de autoría conocida; la transmisión oral es de autoría colectiva y anónima"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dentro de la narrativa se distinguen los épico-narrativos (cuento, novela y épica) y la narrativa de transmisión oral (mitos, leyendas o fábulas). No se define por la veracidad ni por el uso del verso, sino por su forma de transmisión y tipología textual."
+    },
+    {
+      "question": "¿Qué habilidades socioemocionales desarrolla específicamente el cuento en el alumnado?",
+      "options": [
+        "Desarrolla empatía por los personajes y adopción de valores y pautas de comportamiento",
+        "Fomenta la competencia argumentativa y el pensamiento crítico ante dilemas éticos",
+        "Desarrolla la comprensión inferencial y la capacidad de síntesis de información",
+        "Mejora la fluidez lectora y la precisión en la decodificación de palabras complejas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cuento favorece el desarrollo cognitivo a través de la atención, memoria, imaginación, creatividad y razonamiento, y también desarrolla habilidades socioemocionales al fomentar empatía por los personajes y la adopción de valores y pautas de comportamiento."
+    },
+    {
+      "question": "¿Qué objetivo persigue la técnica de los 'cuentos al revés' en el aula de Educación Primaria?",
+      "options": [
+        "Cambiar el orden de la historia o invertir los papeles de los personajes para reflexionar sobre las distintas formas de contar una historia",
+        "Narrar la historia de fin a inicio para trabajar la comprensión de las estructuras temporales",
+        "Sustituir el narrador omnisciente por un narrador personaje para explorar la perspectiva narrativa",
+        "Transformar el género del texto cambiando de prosa a verso para desarrollar la creatividad lingüística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cuentos al revés proponen cambiar el orden de la historia o invertir los papeles de los personajes, reflexionando sobre las distintas formas que existen de contar una historia, desarrollando el pensamiento creativo y la flexibilidad narrativa."
+    },
+    {
+      "question": "¿Qué diferencia a la novela del cuento dentro de los géneros épico-narrativos?",
+      "options": [
+        "La novela es una narrativa más extensa que los cuentos",
+        "La novela está destinada a adultos mientras el cuento se dirige a niños",
+        "La novela incluye siempre elementos fantásticos mientras el cuento puede ser realista",
+        "La novela requiere mayor complejidad lingüística que el cuento en todos los casos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La novela es una narrativa más extensa que los cuentos, siendo esta su principal característica diferenciadora dentro de los géneros épico-narrativos, ambos incluidos en la narrativa trabajada en Educación Primaria."
+    },
+    {
+      "question": "¿Qué menciona el texto como elemento que diferencia el teatro del teatro de marionetas o sombras en la clasificación dramática?",
+      "options": [
+        "El teatro con actores usa a personas para interpretar los roles, mientras que el teatro de marionetas o sombras emplea elementos simbólicos sin actores reales",
+        "El teatro con actores requiere un guion fijo, mientras el teatro de marionetas permite la improvisación total",
+        "El teatro con actores se dirige a adultos, mientras el teatro de marionetas está diseñado exclusivamente para niños",
+        "El teatro con actores utiliza un escenario formal, mientras el teatro de marionetas puede desarrollarse en cualquier espacio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las obras dramáticas se clasifican en obras con actores (drama, comedia, tragedia, tragicomedia o entremés) y obras sin actores, que emplean elementos simbólicos como las marionetas o el teatro de sombras, siendo ambas modalidades válidas en el aula de EP."
+    },
+    {
+      "question": "¿Qué aspecto subraya Roig (2012) sobre la necesidad de incluir la narrativa oral tradicional gallega en el aula?",
+      "options": [
+        "El interés de introducirla para acercar la cultura e historia de Galicia al alumnado",
+        "La obligatoriedad de trabajarla según la normativa autonómica vigente de Galicia",
+        "La superioridad literaria de la narrativa oral gallega frente a la narrativa escrita",
+        "La facilidad de comprensión de la narrativa oral frente a la narrativa escrita para niños pequeños"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Roig (2012) subraya el interés de introducir la narrativa oral tradicional gallega, con el fin de acercar la cultura e historia, conectando así la literatura con la identidad cultural del alumnado gallego."
+    },
+    {
+      "question": "¿Qué tipo de textos recomiendan el Decreto 155/2022 y los autores del tema para trabajar la literatura en el aula?",
+      "options": [
+        "Textos en lengua castellana y gallega, adecuados a los intereses y necesidades del alumnado en distintos soportes",
+        "Textos del canon literario universal organizados por período histórico y nivel de complejidad",
+        "Textos de actualidad extraídos de medios de comunicación seleccionados por su interés informativo",
+        "Textos adaptados pedagógicamente con vocabulario simplificado y estructuras sintácticas básicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, se debe trabajar a partir de textos en lengua castellana y gallega, adecuados a los intereses y necesidades del alumnado en distintos soportes, utilizando las bibliotecas de aula, de centro y virtuales como centro de actividades literarias."
+    },
+    {
+      "question": "¿Cuántos objetivos de desarrollo sostenible establece la Agenda 2030?",
+      "options": [
+        "17 objetivos",
+        "10 objetivos",
+        "20 objetivos",
+        "15 objetivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Agenda 2030 establece 17 objetivos de desarrollo sostenible, siendo el ODS4 'Educación de Calidad' el que se vincula directamente con la educación literaria al garantizar la alfabetización y el acceso igualitario a la cultura."
+    },
+    {
+      "question": "¿Qué artículo de la Orden de 26 de mayo concreta la concepción de la biblioteca escolar como centro de recursos?",
+      "options": [
+        "Artículo 13",
+        "Artículo 12",
+        "Artículo 10",
+        "Artículo 15"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 13 de la Orden de 26 de mayo, junto con el artículo 33 del Decreto 155/2022, concreta la concepción de la biblioteca escolar como un centro de recursos para la lectura, la información y el aprendizaje."
+    },
+    {
+      "question": "¿Qué objetivo del Plan LIA se refiere específicamente a la renovación de las prácticas educativas del profesorado?",
+      "options": [
+        "Facilitar al profesorado recursos y oportunidades para la renovación de las prácticas educativas mediante metodologías activas",
+        "Dotar a los centros de bibliotecas escolares útiles, estables y sostenibles",
+        "Mejorar la comprensión, el uso y la evaluación crítica de la información en distintos formatos",
+        "Contribuir a la creación de una sociedad lectora mediante experiencias lectoras de calidad compartidas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Uno de los objetivos del Plan LIA es facilitar al profesorado recursos y oportunidades para la renovación de las prácticas educativas mediante metodologías activas, conectando así la formación docente con la mejora de las bibliotecas escolares."
+    },
+    {
+      "question": "¿Qué objetivo del Plan LIA se relaciona con los valores democráticos y la participación ciudadana?",
+      "options": [
+        "Incentivar el uso de las bibliotecas escolares por la comunidad educativa para la vivencia de los valores de ciudadanía y la construcción del conocimiento",
+        "Avanzar hacia una biblioteca escolar inclusiva",
+        "Contribuir a la creación de una sociedad lectora mediante experiencias lectoras compartidas",
+        "Reforzar el papel de la biblioteca escolar como espacio estratégico de acceso al conocimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo del Plan LIA de incentivar el uso de las bibliotecas escolares por la comunidad educativa para la vivencia de los valores de ciudadanía y la construcción del conocimiento conecta directamente con la dimensión democrática y participativa de la educación."
+    },
+    {
+      "question": "¿Qué resolución establece que la lectura reflexiva y crítica de la literatura contribuye al aprendizaje de valores?",
+      "options": [
+        "El texto del tema, al relacionar la educación literaria con la Competencia Ciudadana mediante la lectura reflexiva y crítica que facilita el aprendizaje de valores y problemas éticos",
+        "La Resolución del 1 de septiembre de 2025 sobre organización de bibliotecas escolares",
+        "La Resolución del 16 de octubre de 2015 sobre el tiempo diario de lectura",
+        "La Resolución del 16 de septiembre de 2025 sobre el PLEA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, la educación literaria contribuye a la Competencia Ciudadana (CC) mediante la lectura reflexiva y crítica, facilitando el aprendizaje de valores y problemas éticos, dimensión que conecta la literatura con la formación ética del alumnado."
+    },
+    {
+      "question": "¿Qué característica define la transversalidad en relación con el perfil de salida del alumnado?",
+      "options": [
+        "La transversalidad es inherente al perfil de salida porque todos los aprendizajes contribuyen a su consecución y al desarrollo de las CC",
+        "La transversalidad implica que todas las áreas curriculares evalúan las mismas competencias con los mismos criterios",
+        "La transversalidad exige que cada área curricular dedique al menos un 20% del tiempo a contenidos compartidos con otras áreas",
+        "La transversalidad requiere que los equipos docentes programen conjuntamente al menos una unidad didáctica integrada por trimestre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La transversalidad es inherente al perfil de salida porque todos los aprendizajes contribuyen a su consecución y al desarrollo de las CC. El perfil de salida define el nivel competencial esperado al completar la educación básica."
+    },
+    {
+      "question": "¿Qué rol se atribuye a las familias en las estrategias didácticas de la educación literaria?",
+      "options": [
+        "Actúan como modelos y referentes lectores, y se recomienda favorecer su comunicación y participación",
+        "Son responsables de supervisar la realización de las lecturas obligatorias en el hogar",
+        "Tienen la función de donar libros a la biblioteca de aula y participar en su catalogación",
+        "Se les asigna la tarea de evaluar el progreso lector de sus hijos mediante registros de lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para acercar al alumnado a la literatura infantil y juvenil, se recomienda favorecer la comunicación y participación de las familias como modelos y referentes lectores, reconociendo su papel fundamental en la formación del hábito lector."
+    },
+    {
+      "question": "¿Qué tipo de lectura se menciona específicamente en el texto como actividad para trabajar la dramatización en el aula?",
+      "options": [
+        "Las lecturas expresivas",
+        "Las lecturas silenciosas individuales",
+        "Las lecturas compartidas en voz alta por el docente",
+        "Las lecturas estratégicas con paradas metacognitivas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para acercar al alumnado al teatro se proponen las lecturas expresivas entre otras actividades como dramatizar historias, usar el teatro de sombras o marionetas, juegos de mímica, completar diálogos y diseñar decorados."
+    },
+    {
+      "question": "¿Qué actividades específicas de narrativa menciona el texto además de las técnicas creativas?",
+      "options": [
+        "Poner títulos a historias, cambiar inicios de cuentos, ilustrar historias, realizar fichas bibliográficas, ordenar secuencias de imágenes",
+        "Crear mapas conceptuales de los textos, analizar la estructura narrativa y elaborar resúmenes formales",
+        "Representar teatralmente los cuentos, crear bandas sonoras para las historias y diseñar portadas de libros",
+        "Comparar versiones de un mismo cuento en distintas culturas y elaborar análisis comparativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para trabajar la narrativa se mencionan actividades como poner títulos a las historias, cambiar los inicios de cuentos, ilustrar una historia, realizar fichas bibliográficas, desarrollar descripciones del entorno o de personajes, contar historias con storycubes u ordenando secuencias de imágenes."
+    },
+    {
+      "question": "¿Por qué Cerillo y García (1992) subrayan específicamente el uso de técnicas lúdicas en la poesía?",
+      "options": [
+        "Porque despliegan la imaginación y la creatividad del alumnado",
+        "Porque facilitan la memorización de los poemas y la pronunciación correcta",
+        "Porque permiten la evaluación de la comprensión lectora de forma no invasiva",
+        "Porque cumplen los criterios de evaluación del Bloque 5 del Decreto 155/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cerillo y García (1992) subrayan la importancia de técnicas lúdicas en la poesía porque despliegan la imaginación y creatividad del alumnado, siendo el componente lúdico esencial para motivar la aproximación a este género literario."
+    },
+    {
+      "question": "¿Qué afirma el texto sobre la selección de libros para lectura en el aula de narrativa?",
+      "options": [
+        "Es aconsejable no obligar a leer un único libro sino que el alumno elija según sus intereses, e introducir mecánicas como lecturas conjuntas o mesas redondas",
+        "Es necesario establecer un listado de lecturas obligatorias graduadas por dificultad lectora para cada curso",
+        "Conviene seleccionar exclusivamente obras del patrimonio literario gallego y español reconocidas por su calidad",
+        "Resulta fundamental que todas las lecturas del aula estén vinculadas a los contenidos curriculares de las demás áreas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto aconseja no obligar al alumnado a leer un único libro, sino que elija lecturas según sus intereses, e introducir mecánicas como lecturas conjuntas o mesas redondas, respetando así la autonomía lectora del alumnado."
+    },
+    {
+      "question": "¿Qué relación existe entre la competencia literaria y el hábito lector según el texto?",
+      "options": [
+        "La competencia literaria es el segundo paso al que se llega una vez asentado el hábito lector",
+        "El hábito lector es consecuencia directa del desarrollo de la competencia literaria",
+        "La competencia literaria y el hábito lector se desarrollan simultáneamente y son interdependientes",
+        "El hábito lector precede siempre a la competencia literaria que se desarrolla en la educación secundaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, la competencia literaria definida por Cassany et al. (1994) es el segundo paso al que se llega una vez asentado el hábito lector, siendo una labor a largo plazo que requiere del alumno y del docente."
+    },
+    {
+      "question": "¿Qué permite la estrategia posterior a la lectura de 'resumir, sintetizar y ampliar la información'?",
+      "options": [
+        "Atender a lo fundamental del texto y establecer la idea principal en base a los objetivos de lectura",
+        "Corregir errores de comprensión mediante interpretaciones alternativas del texto",
+        "Activar los conocimientos previos del alumnado para facilitar la comprensión del texto",
+        "Planificar la lectura organizando el tiempo y los recursos necesarios para completarla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias posteriores a la lectura dirigidas a resumir, sintetizar y ampliar la información permiten atender a lo fundamental del texto y establecer la idea principal en base a los objetivos de lectura fijados previamente."
+    },
+    {
+      "question": "¿Qué estrategia previa a la lectura tiene como propósito favorecer un aprendizaje significativo?",
+      "options": [
+        "Establecer objetivos de lectura, comprender los propósitos lectores y activar los conocimientos previos",
+        "Revisar y comprobar la propia comprensión para corregir errores mediante interpretaciones",
+        "Resumir, sintetizar y ampliar la información atendiendo a lo fundamental del texto",
+        "Evaluar el contenido del texto realizando comprobaciones de comprensión periódicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias previas a la lectura están orientadas a establecer objetivos de lectura, comprender los propósitos lectores y activar los conocimientos previos que favorezcan un aprendizaje significativo y muestren los beneficios de la literatura."
+    },
+    {
+      "question": "¿Qué permite la estrategia durante la lectura de 'revisar y comprobar la propia comprensión'?",
+      "options": [
+        "Corregir errores mediante interpretaciones, evaluar el contenido del texto y realizar comprobaciones a través de la revisión periódica y la autointerrogación",
+        "Activar los conocimientos previos y relacionar el texto con las experiencias personales del lector",
+        "Resumir el contenido del texto y establecer la idea principal para facilitar su memorización",
+        "Ampliar la información con otros textos y fuentes para enriquecer la comprensión del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estrategia durante la lectura de revisar y comprobar la propia comprensión permite corregir errores mediante interpretaciones, evaluar el contenido del texto y realizar comprobaciones de la comprensión a través de la revisión periódica y la autointerrogación."
+    },
+    {
+      "question": "¿Qué ley orgánica modificó la LOE 2/2006 según la base normativa del tema?",
+      "options": [
+        "La Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)",
+        "La Ley Orgánica 8/2013, de 9 de diciembre (LOMCE)",
+        "La Ley Orgánica 1/2004, de 28 de diciembre (LOCE)",
+        "La Ley Orgánica 10/2002, de 23 de diciembre (LCCE)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE), es la que modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, constituyendo la base normativa fundamental del tema."
+    },
+    {
+      "question": "¿En qué fecha fue publicado el Decreto 155/2022 que establece la ordenación y currículo de Educación Primaria en Galicia?",
+      "options": [
+        "El 15 de septiembre de 2022, publicado en el DOG del 26 de septiembre de 2022",
+        "El 1 de marzo de 2022, publicado en el BOE del 2 de marzo de 2022",
+        "El 26 de mayo de 2023, publicado en el DOG del 13 de junio de 2023",
+        "El 29 de diciembre de 2020, publicado en el BOE del 30 de diciembre de 2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 fue dictado el 15 de septiembre de 2022 y publicado en el Diario Oficial de Galicia (DOG) número 183, del 26 de septiembre de 2022, estableciendo la ordenación y el currículo de la educación primaria en Galicia."
+    },
+    {
+      "question": "¿Qué obra de Colomer (2009) recoge sus reflexiones sobre la educación literaria y las bibliotecas escolares?",
+      "options": [
+        "'La educación literaria' en 'Lectura y bibliotecas escolares', publicado por la Fundación Santillana",
+        "'La formación del lector literario' publicado por la editorial Barcanova",
+        "'Andar entre libros' publicado por el Fondo de Cultura Económica",
+        "'Introducción a la literatura infantil y juvenil actual' publicado por Síntesis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Colomer (2009) publicó 'La educación literaria' en la obra colectiva 'Lectura y bibliotecas escolares', editada por la Fundación Santillana y coordinada por Inés Miret y Cristina Armendano, siendo la referencia bibliográfica citada en el tema."
+    },
+    {
+      "question": "¿Qué obra de Cassany, Luna y Sanz (1994) es la referencia bibliográfica del tema para la literatura y competencia literaria?",
+      "options": [
+        "'Enseñar Lengua', publicada por Graó en Barcelona",
+        "'Describir el escribir', publicada por Paidós en Barcelona",
+        "'Reparar la escritura', publicada por Graó en Barcelona",
+        "'La cocina de la escritura', publicada por Anagrama en Barcelona"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La referencia de Cassany, Luna y Sanz para el tema es 'Enseñar Lengua', publicada por la editorial Graó en Barcelona en 1994, obra fundamental en la didáctica de la lengua y la literatura en el contexto hispanohablante."
+    },
+    {
+      "question": "¿Qué múltiples finalidades tiene la educación literaria según el texto?",
+      "options": [
+        "Favorecer el aprendizaje de la lengua, desarrollar el sentido crítico, aumentar el vocabulario, fomentar el gusto lector y configurar la personalidad literaria",
+        "Memorizar obras del patrimonio literario, desarrollar la competencia ortográfica y mejorar la velocidad lectora",
+        "Preparar para los exámenes de certificación lingüística, desarrollar la comprensión lectora y mejorar la redacción académica",
+        "Conocer la historia de la literatura, dominar los géneros literarios y adquirir el vocabulario literario técnico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación literaria presenta múltiples finalidades: favorecer el aprendizaje de la lengua, desarrollar el sentido crítico, la imaginación y la creatividad, aumentar y perfeccionar el vocabulario, fomentar el gusto por la lectura y configurar la personalidad literaria del alumnado."
+    },
+    {
+      "question": "¿Qué tipos de actividades de lectura se recomiendan integrar en el aula según el texto?",
+      "options": [
+        "Lectura guiada, acompañada y dramatizada con la entonación y ritmo adecuados, recitados y juegos retóricos",
+        "Lectura silenciosa cronometrada, lectura en voz alta por turnos y lectura en parejas con corrección mutua",
+        "Lectura de textos informativos, textos narrativos y textos poéticos en proporciones iguales",
+        "Lectura comprensiva con cuestionarios, lectura expresiva con grabación y lectura analítica con subrayado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto recomienda introducir actividades de lectura guiada, acompañada y dramatizada con la entonación y ritmo adecuados, recitados y juegos retóricos, además de la creación de textos propios con intención lúdica, artística y creativa."
+    },
+    {
+      "question": "¿Qué contribución hace la Competencia Personal, Social y de Aprender a Aprender (CPSAA) a través de la educación literaria?",
+      "options": [
+        "La educación literaria favorece la adquisición de nuevos aprendizajes de forma autónoma",
+        "La educación literaria mejora el trabajo en equipo y la resolución pacífica de conflictos",
+        "La educación literaria desarrolla la inteligencia emocional y el autoconcepto positivo",
+        "La educación literaria potencia el pensamiento crítico y la toma de decisiones informadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación literaria contribuye a la CPSAA porque favorece la adquisición de nuevos aprendizajes de forma autónoma, desarrollando así la capacidad de aprender a aprender que es esencial para el aprendizaje a lo largo de la vida."
+    },
+    {
+      "question": "¿Qué definición de literatura infantil y juvenil ofrece Cassany et al. (1994)?",
+      "options": [
+        "Aquella dirigida a lectores desde la infancia hasta la adolescencia a través de obras que buscan proporcionar placer y distracción",
+        "El conjunto de obras escritas por niños y jóvenes que expresan su visión particular del mundo",
+        "Los textos literarios seleccionados por criterios pedagógicos para ser utilizados en el ámbito escolar",
+        "La producción literaria de calidad estética reconocida por la crítica especializada en literatura infantil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany et al. (1994) definen la literatura infantil y juvenil como aquella dirigida a lectores desde la infancia hasta la adolescencia a través de obras que buscan proporcionar placer y distracción."
+    },
+    {
+      "question": "¿Qué objetivo del Plan LIA se relaciona directamente con la lucha contra la desinformación?",
+      "options": [
+        "Mejorar la comprensión, el uso y la evaluación crítica de la información en distintos formatos",
+        "Dotar a los centros de bibliotecas escolares útiles, estables y sostenibles",
+        "Reforzar el papel de la biblioteca escolar como espacio estratégico de acceso al conocimiento",
+        "Avanzar hacia una biblioteca escolar inclusiva y accesible para todo el alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo del Plan LIA de 'mejorar la comprensión, el uso y la evaluación crítica de la información en distintos formatos' conecta directamente con el lema del curso 2025/2026 'Contra a desinformación: bibliotecas', desarrollando el pensamiento crítico informacional."
+    },
+    {
+      "question": "¿Qué artículo de la Orden de 26 de mayo regula el plan de lectura en relación con el Decreto 155/2022?",
+      "options": [
+        "Artículo 12",
+        "Artículo 13",
+        "Artículo 10",
+        "Artículo 33"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 12 de la Orden de 26 de mayo, junto con el artículo 33 del Decreto 155/2022, regula el plan de lectura, cuya concepción ha sido redefinida por la Resolución del 16 de octubre de 2025 mediante el PLEA."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del PLEA según su definición en el texto?",
+      "options": [
+        "Promover y fomentar la lectura, la escritura y las habilidades en el uso, tratamiento y producción de la información, en apoyo de la adquisición de las CC",
+        "Evaluar anualmente el nivel competencial del alumnado en comprensión lectora y expresión escrita",
+        "Garantizar la disponibilidad de recursos bibliográficos actualizados en todas las bibliotecas escolares",
+        "Coordinar las actuaciones de fomento lector entre los centros educativos y las bibliotecas municipales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo del PLEA es promover y fomentar la lectura, la escritura y las habilidades en el uso, tratamiento y producción de la información, en apoyo de la adquisición de las CC, convirtiéndose en el instrumento planificador de la lectura en los centros."
+    },
+    {
+      "question": "¿Qué ventaja de la biblioteca de aula la define como 'espacio dinamizador para actividades y experiencias lectoras'?",
+      "options": [
+        "Son un espacio dinamizador para actividades y experiencias lectoras que complementen los contenidos curriculares, conformando un centro de recursos para organizar la actividad del aula",
+        "Permiten desarrollar hábitos de consulta de libros como fuente de placer y de búsqueda de información",
+        "Facilitan el contacto de los discentes con los libros y el funcionamiento de las bibliotecas",
+        "Aseguran el acceso rápido y continuo a una diversidad de materiales bibliográficos y digitales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una de las ventajas de la biblioteca de aula es que constituye un espacio dinamizador para actividades y experiencias lectoras que complementen los contenidos curriculares, conformando un centro de recursos para organizar la actividad del aula."
+    },
+    {
+      "question": "¿Qué definición de la lectura ofrecen Prado (2004) y Teresa Neira en el texto?",
+      "options": [
+        "Un proceso activo con el cual reproducimos a través de palabras la forma y contenido de un mensaje escrito con signos gráficos",
+        "Una habilidad cognitiva compleja que implica decodificar, comprender e interpretar textos escritos",
+        "Una competencia comunicativa que integra los procesos de decodificación, comprensión y valoración crítica",
+        "Un proceso interactivo entre el lector y el texto que genera significados nuevos a través de la inferencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prado (2004) y Teresa Neira definen la lectura como un proceso activo con el cual reproducimos a través de palabras la forma y contenido de un mensaje escrito con signos gráficos, siendo esta definición la base para comprender su importancia en la educación literaria."
+    },
+    {
+      "question": "¿Qué diferencia existe entre los criterios de evaluación y los objetivos de área según el Decreto 155/2022?",
+      "options": [
+        "Los criterios de evaluación indican los niveles de desempeño esperados en situaciones concretas, mientras los objetivos de área describen las metas generales de aprendizaje",
+        "Los criterios de evaluación son elaborados por el docente de forma autónoma, mientras los objetivos de área son fijados por la administración",
+        "Los criterios de evaluación se aplican al final de la etapa, mientras los objetivos de área se evalúan trimestralmente",
+        "Los criterios de evaluación evalúan las competencias clave, mientras los objetivos de área evalúan los contenidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los criterios de evaluación actúan como puente entre contenidos y objetivos de área, indicando los niveles de desempeño esperados en el alumnado en situaciones o actividades a las que se refieren los objetivos en un momento determinado del proceso de aprendizaje."
+    },
+    {
+      "question": "¿Qué establece la Resolución del 16 de octubre de 2015 en relación con la lectura en los centros escolares?",
+      "options": [
+        "Establece el tiempo diario de lectura para cada centro escolar",
+        "Regula la organización y funcionamiento de las bibliotecas escolares en Galicia",
+        "Define los criterios para la elaboración del PLEA en los centros educativos",
+        "Establece el programa de animación lectora para las bibliotecas de aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Resolución del 16 de octubre de 2015, junto con el quinto principio pedagógico del artículo 16 del Decreto 155/2022, establece el tiempo diario de lectura para cada centro escolar, elemento fundamental para construir personalidades lectoras."
+    },
+    {
+      "question": "¿Cuántos bloques de contenido organiza el área de LCL según el Decreto 155/2022?",
+      "options": [
+        "6 bloques de contenido",
+        "5 bloques de contenido",
+        "7 bloques de contenido",
+        "4 bloques de contenido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El área de LCL se organiza en 6 bloques de contenido recogidos en el epígrafe 6.3. del Anexo II del Decreto 155/2022, siendo el Bloque 5 el dedicado específicamente a la educación literaria."
+    },
+    {
+      "question": "¿Qué aspecto de la biblioteca escolar subraya su papel abierto al exterior mediante las TIC?",
+      "options": [
+        "Estar abierta al exterior manteniendo contacto con el entorno social y cultural y con otras instituciones educativas a través de las TIC",
+        "Disponer de una página web institucional para la difusión de sus actividades y recursos",
+        "Ofrecer acceso a plataformas digitales de préstamo de libros electrónicos a toda la comunidad educativa",
+        "Participar en redes de bibliotecas escolares nacionales e internacionales para el intercambio de recursos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Uno de los principios de las bibliotecas escolares es que estén abiertas al exterior manteniendo el contacto con el entorno social y cultural y con otras instituciones educativas a través de las TIC, superando los límites físicos del centro."
+    },
+    {
+      "question": "¿Cuántas competencias clave desarrolla la Educación Literaria en total según el Decreto 155/2022?",
+      "options": [
+        "Contribuye a las 8 CC, aunque destaca especialmente con 5 de ellas (CCL, CP, CCEC, CC, CPSAA)",
+        "Desarrolla exclusivamente las 3 CC de carácter comunicativo (CCL, CP, CCEC)",
+        "Contribuye a las 6 CC más relevantes para la etapa de Educación Primaria",
+        "Se relaciona directamente con 4 CC, siendo la STEM la única competencia no vinculada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Educación Literaria contribuye a la adquisición de cada una de las 8 CC, aunque destaca su estrecha relación con cinco de ellas: CCL, CP, CCEC, CC (Ciudadana) y CPSAA."
+    },
+    {
+      "question": "¿Qué objetivo del Plan LIA se centra en la accesibilidad e igualdad en las bibliotecas escolares?",
+      "options": [
+        "Avanzar hacia una biblioteca escolar inclusiva",
+        "Dotar a los centros de bibliotecas escolares útiles, estables y sostenibles",
+        "Contribuir a la creación de una sociedad lectora mediante experiencias lectoras de calidad",
+        "Apoyar la adquisición de las CC para favorecer el éxito académico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo del Plan LIA de 'avanzar hacia una biblioteca escolar inclusiva' se centra en garantizar que las bibliotecas sean accesibles para todo el alumnado, independientemente de sus necesidades o características."
+    },
+    {
+      "question": "¿Qué descripción de la biblioteca escolar ofrece el texto en relación con su papel ante el alumnado, profesorado y familias?",
+      "options": [
+        "Un espacio de encuentro entre alumnado, profesorado y familias que fomente la comunicación, la creatividad, la autonomía, los aprendizajes, el trabajo colaborativo y los intercambios culturales",
+        "Un servicio exclusivo para el alumnado que garantiza el acceso igualitario a los recursos bibliográficos del centro",
+        "Un espacio de trabajo individual para el estudio silencioso y la realización de tareas escolares fuera del aula",
+        "Un centro de recursos para el profesorado que apoya la preparación de materiales curriculares y la programación docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La biblioteca escolar es concebida como un espacio de encuentro entre alumnado, profesorado y familias que fomente la comunicación, la creatividad, la autonomía, los aprendizajes, el trabajo colaborativo y los intercambios culturales en el centro."
+    },
+    {
+      "question": "¿Qué objetivo de área del Decreto 155/2022 vincula la educación literaria con el análisis de géneros literarios y sus convenciones fundamentales?",
+      "options": [
+        "OBJ8: leer y analizar obras o fragmentos literarios identificando géneros literarios y sus convenciones fundamentales, para reconocer la literatura como manifestación artística",
+        "OBJ6: comprender textos de distinta tipología, identificando sus características formales y su función comunicativa",
+        "OBJ4: leer con fluidez y entonación adecuadas diferentes tipos de textos en lengua castellana y gallega",
+        "OBJ3: expresarse oralmente de forma coherente y adecuada en diferentes situaciones comunicativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ8 se vincula con la educación literaria al establecer 'leer y analizar obras o fragmentos literarios identificando géneros literarios y sus convenciones fundamentales, para reconocer la literatura como manifestación artística y fuente de placer, conocimiento y creación de textos propios'."
+    },
+    {
+      "question": "¿Qué criterios de evaluación del Bloque 5 de LCL se mencionan en el texto para la educación literaria?",
+      "options": [
+        "Valorar textos literarios como fuente de ocio, leer autónomamente según intereses, compartir experiencias lectoras, reproducir textos sencillos, reconocer recursos del lenguaje literario e identificar la biblioteca como escenario",
+        "Analizar la estructura narrativa de los textos, identificar recursos estilísticos y comparar obras de distintos géneros",
+        "Evaluar la calidad estética de las obras, argumentar las preferencias lectoras y elaborar críticas literarias fundamentadas",
+        "Dominar la ortografía y la gramática en los textos creados, utilizar vocabulario variado y respetar las normas tipográficas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los criterios de evaluación del Bloque 5 se enfocan en: valorar los textos literarios como fuente de ocio e información, leer autónomamente según intereses, compartir experiencias lectoras, reproducir textos sencillos a partir de modelos, reconocer recursos del lenguaje literario e identificar la biblioteca como escenario de actividades."
+    },
+    {
+      "question": "¿Qué aspecto de la LIJ la convierte en herramienta clave para acercar al alumnado a la interculturalidad según Roig (2012)?",
+      "options": [
+        "Engloba una variedad de géneros literarios que uno de los objetivos de la educación literaria debe ser perseguir para acercar al alumnado a la interculturalidad",
+        "Está escrita exclusivamente por autores de distintas nacionalidades y culturas del mundo",
+        "Incorpora personajes y escenarios de múltiples culturas en todos sus géneros y tipologías",
+        "Utiliza una lengua universal que elimina las barreras culturales entre los lectores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Roig (2012) señala que la LIJ engloba una variedad de géneros literarios a incluir en las aulas para acercar al alumnado a la interculturalidad, siendo este uno de los objetivos que debe perseguir la educación literaria."
+    },
+    {
+      "question": "¿Cómo clasifica Roig (2012) la literatura según su autoría?",
+      "options": [
+        "Literatura creada para niños por autores profesionales y obras creadas por los propios niños",
+        "Literatura de tradición oral y literatura escrita de autor",
+        "Literatura clásica y literatura contemporánea para la infancia",
+        "Literatura de calidad reconocida y literatura de entretenimiento popular"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Roig (2012), la literatura se puede clasificar en literatura creada para niños, por autores profesionales, y obras creadas por los propios niños, contemplando así tanto la producción adulta dirigida a la infancia como la producción infantil."
+    },
+    {
+      "question": "¿Qué tipo de transmisión caracteriza al folclore poético como la nana o el trabalenguas?",
+      "options": [
+        "La oralidad, pues se transmiten por tradición oral de generación en generación",
+        "La escritura, pues fueron recopilados y publicados por investigadores folclóricos",
+        "La representación escénica, pues se interpretan en festividades y celebraciones colectivas",
+        "La enseñanza formal, pues se incluyen en los libros de texto desde los primeros cursos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La poesía de tradición oral o folclore se transmite por la oralidad, siendo esta su característica definitoria que la diferencia de los poemas de autor. Incluye nanas, trabalenguas, retahílas, adivinanzas y canciones."
+    },
+    {
+      "question": "¿Qué elementos escénicos se mencionan explícitamente en el texto como propios de la dramatización teatral?",
+      "options": [
+        "La iluminación, los decorados, el vestuario, la música y la interpretación por actores",
+        "El guion escrito, el espacio escénico, el vestuario y la dirección artística",
+        "Los efectos de sonido, la iluminación, el maquillaje y el atrezo",
+        "La escenografía, el movimiento corporal, la voz y la expresión facial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La dramatización combina la expresión lingüística (guion escrito o lenguaje oral) con elementos escénicos como la iluminación, los decorados, el vestuario, la música y la interpretación por actores."
+    },
+    {
+      "question": "¿Qué aspectos del desarrollo favorece específicamente la dramatización según el texto?",
+      "options": [
+        "El desarrollo emocional y social, la expresión plástica, visual y musical, la comunicación, la creatividad, la imaginación, la autoestima y el conocimiento",
+        "El desarrollo lógico-matemático, la memorización de textos y la pronunciación correcta",
+        "La comprensión lectora, el enriquecimiento del vocabulario y la corrección gramatical",
+        "El pensamiento crítico, la resolución de problemas y la toma de decisiones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A nivel didáctico, la dramatización favorece el desarrollo emocional y social, la expresión plástica, visual y musical, la comunicación, la creatividad, la imaginación, la autoestima y el conocimiento, siendo un género de gran valor integral."
+    },
+    {
+      "question": "¿Qué modalidades de teatro sin actores se citan explícitamente en el texto como recursos dramáticos para el aula?",
+      "options": [
+        "Las marionetas y el teatro de sombras",
+        "El teatro de objetos y el teatro de papel",
+        "Los títeres y el teatro de máscaras",
+        "El teatro de imágenes y el teatro de siluetas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto cita explícitamente las marionetas y el teatro de sombras como modalidades de obras dramáticas sin actores que emplean elementos simbólicos, siendo ambas muy utilizadas en el aula de Educación Primaria."
+    },
+    {
+      "question": "¿Qué propuestas específicas de actividades de teatro se mencionan para el aula de EP?",
+      "options": [
+        "Dramatizar historias, usar el teatro de sombras o marionetas, juegos de mímica, lecturas expresivas, completar o transformar diálogos y diseñar decorados",
+        "Escribir guiones teatrales, montar una obra de teatro completa y representarla ante el colegio",
+        "Analizar obras de teatro clásico, memorizar fragmentos y estudiar la historia del teatro",
+        "Ver representaciones teatrales profesionales, comentarlas y elaborar críticas teatrales escritas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para acercar al alumnado al teatro se propone dramatizar historias, usar el teatro de sombras o marionetas, juegos de mímica, lecturas expresivas, completar o transformar diálogos y diseñar decorados."
+    },
+    {
+      "question": "¿Cuál de las siguientes actividades se menciona como propia del trabajo de poesía en el aula?",
+      "options": [
+        "Crear pareados y rimas siguiendo un modelo, grabar poemas y hacer un poemario colectivo",
+        "Analizar la estructura métrica de los poemas y clasificarlos por tipo de rima",
+        "Memorizar poemas del canon literario para recitarlos en actos del centro",
+        "Comparar poemas de distintas épocas y culturas para identificar sus características comunes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades de poesía incluyen realizar lecturas expresivas o ilustraciones de poemas, crear pareados y rimas siguiendo un modelo, grabar poemas, hacer un poemario colectivo, llenar las paredes del aula con caligramas o practicar regueifas en Galicia."
+    },
+    {
+      "question": "¿Cuál de los siguientes enunciados describe con mayor precisión la función del docente en las estrategias de educación literaria?",
+      "options": [
+        "Seleccionar lecturas lúdicas, adecuadas a la madurez del alumnado, y garantizar que la literatura incluya también la creación de textos",
+        "Evaluar el nivel lector de cada alumno y diseñar itinerarios de lectura individualizados",
+        "Transmitir el conocimiento sobre los géneros literarios y sus características formales de modo expositivo",
+        "Coordinar con las familias las lecturas en casa y verificar su cumplimiento mediante registros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El docente debe seleccionar lecturas lúdicas, cercanas a los gustos del alumnado, variadas y adecuadas a su madurez y comprensión, teniendo en cuenta que la literatura no es solo leer, sino también crear textos para expresar ideas, sentimientos y experiencias."
+    },
+    {
+      "question": "¿Qué elemento de las estrategias didácticas permite al alumnado aprender las 'particularidades discursivas, textuales y lingüísticas'?",
+      "options": [
+        "La lectura como práctica que permite aprender las particularidades discursivas, textuales y lingüísticas y reflexionar sobre los usos del lenguaje en distintos contextos",
+        "El análisis gramatical sistemático de los textos literarios trabajados en clase",
+        "La memorización de fragmentos literarios representativos de los distintos géneros",
+        "La comparación de textos literarios con textos informativos y normativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La lectura permite al alumnado aprender las particularidades discursivas, textuales y lingüísticas y reflexionar sobre los usos del lenguaje en distintos contextos, siendo una de las funciones lingüísticas de las estrategias de educación literaria."
+    },
+    {
+      "question": "¿Qué acción recomienda el texto respecto a los programas institucionales de fomento de lectura?",
+      "options": [
+        "Participar en programas institucionales de fomento de la lectura para acercar la LIJ al alumnado",
+        "Crear programas propios de centro adaptados a las necesidades específicas del alumnado",
+        "Evaluar críticamente los programas institucionales antes de aplicarlos en el aula",
+        "Combinar los programas institucionales con recursos propios del docente de forma equilibrada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para acercar al alumnado a la literatura infantil y juvenil, el texto recomienda participar en programas institucionales de fomento de lectura, junto con favorecer la comunicación y participación de las familias como modelos lectores."
+    },
+    {
+      "question": "¿Qué diferencia a los 'finales alternativos' de los 'cuentos al revés' como técnicas didácticas?",
+      "options": [
+        "Los finales alternativos modifican solo el desenlace de un cuento conocido, mientras los cuentos al revés cambian el orden o invierten los roles de los personajes",
+        "Los finales alternativos se trabajan con textos propios del alumno, mientras los cuentos al revés parten de obras clásicas",
+        "Los finales alternativos desarrollan la comprensión lectora, mientras los cuentos al revés trabajan la expresión oral",
+        "Los finales alternativos son individuales, mientras los cuentos al revés se realizan siempre en grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los finales alternativos invitan a modificar solo el desenlace de un cuento conocido, mientras los cuentos al revés proponen cambiar el orden de la historia o invertir los papeles de los personajes, reflexionando sobre las distintas formas de contar una historia."
+    },
+    {
+      "question": "¿Cuál es el origen conceptual del 'binomio fantástico' y en qué consiste precisamente?",
+      "options": [
+        "Propuesto por Gianni Rodari, consiste en unir dos palabras o conceptos sin relación aparente para crear historias imaginativas",
+        "Propuesto por Bruno Bettelheim, consiste en analizar los significados simbólicos de las parejas de personajes en los cuentos",
+        "Propuesto por Gianni Rodari, consiste en combinar dos géneros literarios distintos en una misma producción textual",
+        "Propuesto por Vladimir Propp, consiste en identificar los dos elementos narrativos esenciales de cualquier cuento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El binomio fantástico fue propuesto por Gianni Rodari y consiste en unir dos palabras o conceptos que aparentemente no guardan relación entre sí para crear historias imaginativas, siendo una técnica fundamental de la creatividad narrativa."
+    },
+    {
+      "question": "¿Qué tipos de textos incluyen las bibliotecas de aula según la definición del texto?",
+      "options": [
+        "Libros, revistas, periódicos y/o materiales impresos apropiados a la edad y nivel de los alumnos",
+        "Exclusivamente libros de ficción y no ficción adecuados al nivel lector del alumnado",
+        "Materiales en soporte papel y digital, incluyendo libros electrónicos y recursos web",
+        "Libros de texto, libros de lectura y materiales de refuerzo curricular del nivel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las bibliotecas de aula están constituidas por un conjunto de recursos (libros, revistas, periódicos y/o materiales impresos) apropiados a la edad y nivel de los alumnos del aula y permanentemente accesibles para todos."
+    },
+    {
+      "question": "¿Qué criterio de organización se recomienda para la biblioteca de aula según el texto?",
+      "options": [
+        "Colocar los libros en estanterías de fácil acceso y organizados según categorías o criterios establecidos, reservando un espacio para novedades o prensa diaria",
+        "Ordenar los libros alfabéticamente por título y autor, siguiendo criterios bibliotecarios profesionales",
+        "Clasificar los materiales por nivel de dificultad lectora con códigos de colores visibles para el alumnado",
+        "Organizar los libros según las unidades didácticas del curso, rotándolos al comienzo de cada trimestre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los libros de la biblioteca de aula deben estar colocados en estanterías de fácil acceso y organizados según categorías o criterios establecidos, reservando un espacio para novedades o prensa diaria, facilitando así el acceso autónomo del alumnado."
+    },
+    {
+      "question": "¿Qué característica de los libros de la biblioteca de aula es determinante según el desarrollo psicoevolutivo del alumnado?",
+      "options": [
+        "Que los libros sean adecuados al desarrollo psicoevolutivo de los niños, a sus intereses, necesidades y a su nivel sociocultural",
+        "Que los libros presenten una dificultad lectora ligeramente superior al nivel actual del alumnado",
+        "Que los libros estén escritos en la lengua vehicular del centro para favorecer la comprensión",
+        "Que los libros estén avalados por organismos especializados en literatura infantil y juvenil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El primer aspecto a considerar en la creación de la biblioteca de aula es que los libros sean adecuados al desarrollo psicoevolutivo de los niños, a sus intereses, necesidades y a su nivel sociocultural, respetando así las características evolutivas del alumnado."
+    },
+    {
+      "question": "¿Qué función principal identifica el texto en las bibliotecas escolares en relación con la formación del alumnado en el uso de fuentes de información?",
+      "options": [
+        "Constituir un ámbito adecuado para capacitar al alumnado para usar distintas fuentes de información colaborando con los docentes",
+        "Ofrecer cursos de formación en competencia digital para el alumnado y el profesorado del centro",
+        "Gestionar las suscripciones a bases de datos académicas y plataformas educativas digitales",
+        "Proporcionar orientación bibliográfica personalizada a cada alumno para sus trabajos escolares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre las funciones de la biblioteca escolar se incluye constituir un ámbito adecuado para capacitar al alumnado para usar distintas fuentes de información, colaborando con los docentes para la consecución de los objetivos pedagógicos."
+    },
+    {
+      "question": "¿Qué función de la biblioteca escolar está relacionada con la orientación de necesidades curriculares?",
+      "options": [
+        "Establecer canales de difusión para satisfacer las necesidades curriculares y culturales y ofrecer orientación",
+        "Recopilar la documentación o materiales del centro para su custodia y preservación",
+        "Organizar los recursos para que sean accesibles y utilizables por toda la comunidad educativa",
+        "Actuar como enlace con otras fuentes y servicios de información externos al centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre las funciones de la biblioteca escolar figura establecer canales de difusión para satisfacer las necesidades curriculares y culturales del centro y ofrecer orientación, conectando así los recursos disponibles con las demandas del proceso educativo."
+    },
+    {
+      "question": "¿Qué actividades específicamente relacionadas con celebraciones deben organizar las bibliotecas escolares según el texto?",
+      "options": [
+        "Actividades relacionadas con el Día del Libro y el Día Internacional del Libro Infantil y Juvenil",
+        "Actividades vinculadas con el Día Internacional de la Alfabetización y el Día del Idioma",
+        "Actividades relacionadas con el Día de la Biblioteca y el Día del Libro en Gallego",
+        "Actividades conmemorativas del aniversario de autores clásicos de la literatura universal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las bibliotecas escolares también deben organizar actividades relacionadas con celebraciones como el Día del Libro y el Día Internacional del Libro Infantil y Juvenil, integrando así las efemérides culturales en su programa de animación lectora."
+    },
+    {
+      "question": "¿Cuál es la definición más precisa de lo que es la épica dentro de los géneros épico-narrativos?",
+      "options": [
+        "Forma parte de los géneros épico-narrativos junto al cuento y la novela, distinguiéndose como narrativa extensa de carácter heroico",
+        "Es una modalidad de poesía narrativa que relata hazañas de héroes en verso",
+        "Es el género literario más antiguo que combina los elementos de la narrativa y la lírica",
+        "Es un subgénero de la dramatización que narra historias de contenido histórico y mitológico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el texto, la épica forma parte de los géneros épico-narrativos junto al cuento y la novela. La épica se distingue como narrativa de carácter heroico, diferenciándose del cuento (breve) y la novela (extensa en prosa)."
+    },
+    {
+      "question": "¿Qué relación establece el Decreto 155/2022 entre la CCL y la educación literaria?",
+      "options": [
+        "La CCL no solo busca reflexionar sobre el funcionamiento de la lengua, sino también apreciar la dimensión estética del lenguaje y disfrutar de la cultura literaria",
+        "La CCL se desarrolla exclusivamente mediante la lectura comprensiva de textos informativos y argumentativos",
+        "La CCL requiere el dominio de los géneros literarios como condición previa para la comunicación eficaz",
+        "La CCL establece que la educación literaria debe limitarse al estudio de la literatura en lengua castellana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece que la CCL no solo busca reflexionar sobre el funcionamiento de la lengua, sino también apreciar la dimensión estética del lenguaje y disfrutar de la cultura literaria, siendo esta la base del desarrollo de la competencia literaria."
+    },
+    {
+      "question": "¿Cómo describe el texto la educación literaria en relación con el proceso de enseñanza-aprendizaje?",
+      "options": [
+        "Como el proceso de enseñanza-aprendizaje de las habilidades y destrezas necesarias para leer de forma competente textos literarios",
+        "Como el conjunto de actividades didácticas orientadas a la adquisición del hábito lector en la etapa escolar",
+        "Como la metodología que garantiza el acceso igualitario de todo el alumnado a la cultura literaria",
+        "Como el itinerario formativo que va desde la decodificación lectora hasta la producción de textos literarios propios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el ámbito educativo, cuando se habla de Educación Literaria se hace referencia al proceso de enseñanza-aprendizaje de las habilidades y destrezas necesarias para leer de forma competente textos literarios."
+    },
+    {
+      "question": "¿Qué papel atribuye el texto al OBJ8 del Decreto 155/2022 en relación con la creación textual?",
+      "options": [
+        "Reconocer la literatura como manifestación artística y fuente de placer, conocimiento y creación de textos propios",
+        "Utilizar los textos literarios como modelo para mejorar la competencia ortográfica y gramatical",
+        "Elaborar textos literarios propios siguiendo las convenciones formales de cada género",
+        "Producir textos creativos en distintos formatos digitales para compartirlos con la comunidad educativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ8 establece 'leer y analizar obras o fragmentos literarios identificando géneros literarios y sus convenciones fundamentales, para reconocer la literatura como manifestación artística y fuente de placer, conocimiento y creación de textos propios'."
+    },
+    {
+      "question": "¿Qué importancia otorga el texto al tiempo diario de lectura en la construcción de la personalidad lectora?",
+      "options": [
+        "Es fundamental para construir personalidades lectoras, siendo establecido tanto por el artículo 16 del Decreto 155/2022 como por la Resolución del 16 de octubre de 2015",
+        "Es recomendable pero no obligatorio, quedando a criterio de cada centro su implementación según su proyecto educativo",
+        "Es esencial principalmente en los primeros ciclos de EP, reduciéndose su importancia en los últimos cursos",
+        "Es suficiente con el tiempo dedicado a la lectura en el área de LCL sin necesidad de un tiempo específico adicional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para construir personalidades lectoras es importante aprovechar el tiempo diario de lectura que tanto el quinto principio pedagógico del artículo 16 del Decreto 155/2022 como la Resolución del 16 de octubre de 2015 establecen para cada centro escolar."
+    },
+    {
+      "question": "¿Qué aspectos cognitivos favorece específicamente el cuento según el texto?",
+      "options": [
+        "El desarrollo cognitivo a través de la atención, la memoria, la imaginación, la creatividad y el razonamiento",
+        "La adquisición del código escrito, la fluidez lectora y la precisión en la decodificación",
+        "El pensamiento lógico-deductivo, la resolución de problemas y el razonamiento abstracto",
+        "La memoria episódica, el pensamiento secuencial y la comprensión de relaciones causales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cuento favorece el desarrollo cognitivo a través de la atención, la memoria, la imaginación, la creatividad y el razonamiento, además de las habilidades socioemocionales, constituyendo un recurso de gran valor para el desarrollo integral del niño."
+    },
+    {
+      "question": "¿Cuál es el significado del acrónimo LIA en el contexto de las bibliotecas escolares gallegas?",
+      "options": [
+        "Lectura, Información y Aprendizaje",
+        "Lectura, Investigación y Autonomía",
+        "Literatura Infantil y de Aula",
+        "Lectura Integrada y Activa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "LIA son las siglas de Lectura, Información y Aprendizaje, siendo el Plan de Lectura, Información y Aprendizaje (Plan LIA) el que integra las actuaciones de la Consellería orientadas a reforzar la presencia y organización de las bibliotecas escolares gallegas."
+    },
+    {
+      "question": "¿Qué competencias ALFIN y AMI desarrolla el Plan LIA según el texto?",
+      "options": [
+        "ALFIN: Alfabetización Informacional; AMI: Alfabetización Mediática e Informacional",
+        "ALFIN: Alfabetización Funcional e Informática; AMI: Aprendizaje Multimedia Integrado",
+        "ALFIN: Alfabetización Filosófica y Narrativa; AMI: Autonomía Mediática e Intelectual",
+        "ALFIN: Aprendizaje en Formatos Impresos y Nuevos; AMI: Alfabetización en Medios Impresos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA está orientado a desarrollar las competencias ALFIN (Alfabetización Informacional) y AMI (Alfabetización Mediática e Informacional), contribuyendo así a formar ciudadanos críticos y competentes en el uso de la información."
+    },
+    {
+      "question": "¿Qué subraya el texto sobre la importancia de los primeros años de vida para el desarrollo del gusto literario?",
+      "options": [
+        "Los primeros años de vida son fundamentales para que el niño desarrolle su gusto por la literatura, siendo la EP la etapa donde los discentes se inician en el mundo de la lectura",
+        "Los primeros años de vida son relevantes pero es la EP media (3º y 4º) cuando se consolida el gusto literario",
+        "Los primeros años de vida son importantes para la decodificación lectora, mientras el gusto literario se desarrolla en la etapa adolescente",
+        "Los primeros años de vida determinan el nivel lector pero no necesariamente el gusto por la literatura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los primeros años de vida son fundamentales para que el niño desarrolle su gusto por la literatura. Por ello, Cerillo y García (1992) remarcan la importancia de introducirla desde los primeros cursos de EP, pues es en esta etapa cuando los discentes se inician en el mundo de la lectura."
+    },
+    {
+      "question": "¿Qué tipo de soporte señala el texto para trabajar textos literarios con el alumnado de EP?",
+      "options": [
+        "Distintos soportes, utilizando las bibliotecas de aula, de centro y virtuales como centro de actividades literarias",
+        "Exclusivamente soportes impresos para garantizar la concentración y el trabajo sistemático con el texto",
+        "Preferentemente soportes digitales por su mayor motivación y accesibilidad para el alumnado actual",
+        "Soportes mixtos papel-digital combinados de forma equilibrada en proporción 50/50"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que se debe trabajar a partir de textos en distintos soportes, utilizando las bibliotecas de aula, de centro y virtuales como centro de actividades literarias, promoviendo así la diversidad de formatos lectores."
+    },
+    {
+      "question": "¿Qué establece el texto como requisito para que la biblioteca de aula sea 'permanentemente accesible' para el alumnado?",
+      "options": [
+        "Los materiales deben estar colocados en estanterías de fácil acceso, organizados según categorías y disponibles para todos los alumnos",
+        "La biblioteca debe tener un horario de apertura amplio que incluya el tiempo del recreo y las horas de tutoría",
+        "El docente debe autorizar el acceso a los materiales mediante un sistema de préstamo controlado",
+        "Los materiales deben estar catalogados digitalmente para que el alumnado pueda localizarlos de forma autónoma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La accesibilidad permanente de la biblioteca de aula se garantiza mediante la colocación de los libros en estanterías de fácil acceso, organizados según categorías o criterios establecidos, y con materiales apropiados a la edad y nivel de los alumnos."
+    },
+    {
+      "question": "¿Qué considera el texto que es imprescindible que el profesorado haga para que el alumnado descubra sus intereses lectores?",
+      "options": [
+        "Que introduzca los soportes y géneros literarios de forma progresiva y variada para que el alumnado descubra sus propios intereses y aprenda a seleccionar lecturas",
+        "Que evalúe periódicamente las preferencias lectoras del alumnado para adaptar las propuestas de lectura",
+        "Que forme a los alumnos en el uso de criterios de selección crítica de lecturas desde los primeros cursos",
+        "Que coordine con las familias el seguimiento de las lecturas realizadas en casa y en el aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema establece que resulta imprescindible que el profesorado introduzca los soportes y géneros literarios de forma progresiva y variada, permitiendo que el alumnado descubra sus propios intereses lectores y aprenda a seleccionar lecturas acordes a ellos."
+    },
+    {
+      "question": "¿Qué argumentan Cerillo y García (1992) sobre la relación entre la escuela y el gusto por la literatura?",
+      "options": [
+        "Remarcan la importancia de introducir la literatura desde los primeros cursos de EP, pues es en esta etapa cuando los discentes se inician en el mundo de la lectura",
+        "Sostienen que el gusto por la literatura es innato y la escuela debe respetar el ritmo natural de cada alumno",
+        "Afirman que la familia es el agente principal en el desarrollo del gusto literario y la escuela cumple un papel secundario",
+        "Defienden que la educación literaria debe iniciarse en la Educación Secundaria cuando el alumnado tiene mayor madurez cognitiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cerillo y García (1992) remarcan la importancia de introducir la literatura desde los primeros cursos de EP, pues es en esta etapa cuando los discentes se inician en el mundo de la lectura, siendo la escuela el espacio fundamental para este desarrollo."
+    },
+    {
+      "question": "¿Qué afirma el texto sobre la autonomía lectora como objetivo final de la educación literaria?",
+      "options": [
+        "Desde la escuela se pretende construir personalidades lectoras con hábito y autonomía lectora como fuente de placer",
+        "La autonomía lectora se desarrolla exclusivamente en el entorno familiar mediante el hábito de lectura en casa",
+        "La autonomía lectora es un objetivo secundario que se alcanza tras dominar los géneros literarios principales",
+        "La autonomía lectora se evalúa únicamente mediante pruebas de comprensión lectora estandarizadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Desde la escuela se pretende construir personalidades lectoras con hábito y autonomía lectora como fuente de placer, siendo este el objetivo fundamental de la educación literaria en la EP."
+    },
+    {
+      "question": "¿Qué menciona el texto sobre la interculturalidad en relación con la educación literaria?",
+      "options": [
+        "La educación literaria debe basarse en la diversidad de autores y géneros y la interculturalidad, poniendo el foco de las experiencias lectoras en las bibliotecas escolares",
+        "La interculturalidad se trabaja específicamente mediante la lectura de textos en lengua gallega y castellana",
+        "La interculturalidad se limita al conocimiento de la literatura de los países de habla hispana",
+        "La interculturalidad requiere la introducción de textos en su lengua original sin traducir para preservar su valor cultural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para alcanzar el objetivo de construir personalidades lectoras, el texto establece que es fundamental una educación literaria basada en la diversidad de autores y géneros y la interculturalidad, poniendo el foco de las experiencias lectoras en las bibliotecas escolares."
+    },
+    {
+      "question": "¿Cuántas competencias clave integra el perfil de salida del alumnado según el sistema educativo vigente?",
+      "options": [
+        "8 competencias clave",
+        "6 competencias clave",
+        "7 competencias clave",
+        "10 competencias clave"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El perfil de salida integra 8 competencias clave adaptadas al sistema educativo a partir de las competencias para el aprendizaje permanente de la Recomendación del Consejo de la UE del 22 de mayo de 2018."
+    },
+    {
+      "question": "¿De qué forma se concibe la biblioteca de aula como 'centro de recursos' según el texto?",
+      "options": [
+        "Como un espacio dinamizador para actividades y experiencias lectoras que complementen los contenidos curriculares, conformando un centro de recursos para organizar la actividad del aula",
+        "Como un depósito de materiales de referencia que el alumnado consulta para sus trabajos de investigación",
+        "Como un espacio de almacenamiento de materiales bibliográficos complementarios al libro de texto",
+        "Como un recurso exclusivamente para la lectura libre y voluntaria durante los tiempos de ocio del aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La biblioteca de aula es un espacio dinamizador para actividades y experiencias lectoras que complementen los contenidos curriculares, conformando un centro de recursos para organizar la actividad del aula, superando la función de simple depósito de libros."
+    },
+    {
+      "question": "¿Qué resolución del 1 de septiembre de 2025 tiene como ámbito de aplicación según el texto?",
+      "options": [
+        "Los centros docentes no universitarios de titularidad de la Consellería de Educación, Ciencia, Universidades y Formación Profesional",
+        "Todos los centros educativos de la Comunidad Autónoma de Galicia, incluidos los de titularidad privada",
+        "Los centros de Educación Infantil y Primaria de la red pública de la Xunta de Galicia",
+        "Los centros de Educación Primaria y Secundaria Obligatoria de titularidad pública de Galicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Resolución del 1 de septiembre de 2025 dicta instrucciones para el desarrollo de la organización y funcionamiento de las bibliotecas escolares en los centros docentes no universitarios de titularidad de la Consellería de Educación, Ciencia, Universidades y Formación Profesional para el curso 2025/2026."
+    },
+    {
+      "question": "¿Qué valor añade el PLAMBE a las bibliotecas escolares gallegas según el texto?",
+      "options": [
+        "Promueve la actualización de recursos y espacios de las bibliotecas para garantizar el acceso igualitario a la cultura, la lectura, la escritura y la alfabetización múltiple",
+        "Establece los criterios técnicos para la catalogación y gestión automatizada de los fondos bibliográficos",
+        "Financia la adquisición de nuevos fondos bibliográficos y recursos digitales para las bibliotecas escolares",
+        "Certifica la calidad de las bibliotecas escolares que cumplen con los estándares educativos establecidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PLAMBE promueve la actualización de recursos y espacios de las bibliotecas para garantizar el acceso igualitario a la cultura, a la lectura, la escritura y la alfabetización múltiple, siendo el instrumento para la mejora continua de las bibliotecas escolares gallegas."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre el PLEA y el Proyecto Educativo de los centros?",
+      "options": [
+        "La LOMLOE establece en el artículo 113 que todos los centros deben integrar en el Proyecto Educativo el PLEA y un Plan de Biblioteca",
+        "El PLEA es un documento autónomo que complementa el Proyecto Educativo pero es gestionado independientemente",
+        "El PLEA sustituye al plan de lectura anterior y se incorpora como anexo del Proyecto Curricular de Centro",
+        "El PLEA es elaborado por la biblioteca escolar de forma independiente y aprobado por el Consejo Escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE en el artículo 113 establece que todos los centros deben integrar en el Proyecto Educativo tanto el PLEA como un Plan de Biblioteca, siendo ambos documentos parte del proyecto educativo del centro."
+    },
+    {
+      "question": "¿Qué fuentes de información menciona el texto como recursos para las bibliotecas de aula y centro?",
+      "options": [
+        "Bibliotecas de aula, de centro y virtuales como centros de actividades literarias",
+        "Bibliotecas físicas, hemerotecas digitales y archivos históricos documentales",
+        "Bibliotecas escolares, bibliotecas municipales y plataformas de lectura electrónica",
+        "Bibliotecas de aula, bases de datos académicas y recursos de internet seleccionados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona las bibliotecas de aula, de centro y virtuales como centros de actividades literarias donde trabajar textos en distintos soportes, contemplando así tanto los espacios físicos como los entornos digitales."
+    },
+    {
+      "question": "¿En qué se diferencia la función de 'recopilar' de la función de 'organizar' en la biblioteca escolar?",
+      "options": [
+        "Recopilar se refiere a reunir la documentación o materiales del centro, mientras organizar implica hacerlos accesibles y utilizables",
+        "Recopilar significa adquirir nuevos fondos, mientras organizar supone catalogarlos según normas bibliotecarias",
+        "Recopilar implica conservar materiales históricos del centro, mientras organizar facilita su préstamo",
+        "Recopilar engloba materiales digitales y físicos, mientras organizar solo se aplica a los fondos impresos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre las funciones de la biblioteca escolar, recopilar se refiere a reunir la documentación o materiales del centro, mientras que organizar los recursos tiene como fin que sean accesibles y utilizables por la comunidad educativa."
+    },
+    {
+      "question": "¿Qué aporta el trabajo cooperativo específicamente a la educación literaria según el texto?",
+      "options": [
+        "Favorece la lectura y creación de fragmentos literarios de forma colaborativa, junto con las tareas integradas y el trabajo por proyectos",
+        "Permite evaluar de forma formativa el nivel de comprensión lectora de todos los miembros del grupo",
+        "Garantiza la igualdad de oportunidades lectoras entre alumnado con distintos niveles de competencia",
+        "Desarrolla la autonomía lectora individual a través de la responsabilidad compartida en el grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto recomienda incluir el aprendizaje cooperativo, las tareas integradas y el trabajo por proyectos para la lectura o creación de fragmentos literarios, aprovechando la dimensión social del aprendizaje para enriquecer la experiencia literaria."
+    },
+    {
+      "question": "¿Qué establece el artículo 4 del Decreto 155/2022 respecto a la escritura como aprendizaje de la EP?",
+      "options": [
+        "Facilitar al alumnado los aprendizajes de la expresión y de la comprensión oral, la lectura y la escritura, a fin de garantizar una formación integral",
+        "Garantizar que todos los alumnos alcancen un nivel básico de escritura al finalizar el primer ciclo de EP",
+        "Establecer el tiempo mínimo dedicado a la escritura en cada una de las áreas del currículo",
+        "Regular los criterios de evaluación de la expresión escrita en las distintas etapas de la Educación Primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece que la finalidad de la EP es facilitar al alumnado los aprendizajes de la expresión y de la comprensión oral, la lectura y la escritura a fin de garantizar una formación integral que contribuya al pleno desarrollo de su personalidad."
+    },
+    {
+      "question": "¿Cuál es la obra de referencia de Prado (2004) citada en el tema?",
+      "options": [
+        "'Didáctica de la lengua y la literatura para educar en el siglo XXI', publicada por La Muralla",
+        "'Fundamentos de la educación literaria', publicada por Síntesis en Madrid",
+        "'La enseñanza de la literatura en la era digital', publicada por Octaedro en Barcelona",
+        "'Competencia literaria y enseñanza de la lengua', publicada por Graó en Barcelona"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La obra de Prado (2004) citada en el tema es 'Didáctica de la lengua y la literatura para educar en el siglo XXI', publicada por Editorial La Muralla en Madrid, siendo una referencia fundamental en la didáctica de la lengua en el ámbito español."
+    },
+    {
+      "question": "¿En qué publicación y en qué número aparece el artículo de Roig (2012) sobre educación literaria citado en el tema?",
+      "options": [
+        "En la revista 'Educação', volumen 35, número 3, páginas 362-370",
+        "En la revista 'Lenguaje y Textos', volumen 18, número 2, páginas 45-60",
+        "En la revista 'Didáctica de la Lengua y la Literatura', volumen 12, número 1, páginas 78-95",
+        "En la revista 'Literatura Infantil y Juvenil', volumen 8, número 4, páginas 112-128"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo de Roig (2012) 'Educación literaria. Literatura infantil y juvenil. Una propuesta multicultural' fue publicado en la revista 'Educaçao', volumen 35, número 3, páginas 362-370."
+    },
+    {
+      "question": "¿En qué número del Diario Oficial de Galicia y en qué páginas se publicó el Decreto 155/2022?",
+      "options": [
+        "DOG número 183, del 26 de septiembre de 2022, páginas 49595 a 50009",
+        "DOG número 111, del 13 de junio de 2023, páginas 36230 a 36270",
+        "DOG número 52, del 2 de marzo de 2022, páginas 24386 a 24504",
+        "DOG número 340, del 30 de diciembre de 2020, páginas 122868 a 122953"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 fue publicado en el DOG número 183, del 26 de septiembre de 2022, páginas 49595 a 50009. La Orden de 26 de mayo de 2023 se publicó en el DOG número 111, del 13 de junio de 2023."
+    },
+    {
+      "question": "¿Qué elemento define el 'perfil de salida' del alumnado en el sistema educativo vigente?",
+      "options": [
+        "Define el nivel competencial esperado al completar la educación básica, deducido a través de los descriptores operativos",
+        "Establece los objetivos mínimos que el alumnado debe alcanzar al finalizar cada etapa educativa",
+        "Determina los contenidos esenciales que el alumnado debe dominar al concluir la Educación Primaria",
+        "Fija los criterios de evaluación comunes a todas las áreas al término de la escolarización obligatoria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El perfil de salida define el nivel competencial esperado al completar la educación básica, deducido a través de los descriptores operativos. Las CC aparecen recogidas en este perfil de salida."
+    },
+    {
+      "question": "¿Qué son los 'descriptores operativos' en el marco del perfil de salida?",
+      "options": [
+        "Los indicadores a partir de los cuales se deduce el nivel competencial esperado al completar la educación básica",
+        "Los objetivos específicos que concretan las competencias clave para cada área curricular",
+        "Los instrumentos de evaluación que permiten medir el grado de adquisición de las CC",
+        "Las actividades tipo que el alumnado debe realizar para demostrar el dominio de las CC"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los descriptores operativos son los indicadores a través de los cuales se deduce el nivel competencial esperado al completar la educación básica, recogido en el perfil de salida del alumnado según el Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué tipo de materiales incluye específicamente la biblioteca escolar según el texto?",
+      "options": [
+        "Una amplia variedad de recursos bibliográficos, informativos y didácticos",
+        "Exclusivamente recursos en formato impreso seleccionados por su valor educativo",
+        "Materiales curriculares de todas las áreas organizados por nivel y curso",
+        "Fondos literarios y científicos actualizados según los programas oficiales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los principios de las bibliotecas escolares destaca que recogen una amplia variedad de recursos bibliográficos, informativos y didácticos, superando el concepto de biblioteca como simple almacén de libros."
+    },
+    {
+      "question": "¿Qué función de 'gestión centralizada' se atribuye a la biblioteca escolar en relación con las aulas?",
+      "options": [
+        "Adopta el papel de gestión centralizada en permanente contacto y colaboración con las bibliotecas de aula",
+        "Centraliza todos los recursos bibliográficos del centro eliminando las bibliotecas de aula individuales",
+        "Gestiona centralizadamente el préstamo de todos los materiales disponibles en las aulas del centro",
+        "Coordina de forma centralizada los planes de lectura de todos los tutores del centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La biblioteca escolar adopta el papel de gestión centralizada en permanente contacto y colaboración con las bibliotecas de aula, actuando como espacio coordinador de los recursos y actividades lectoras del centro."
+    },
+    {
+      "question": "¿Qué relación establece la biblioteca escolar con el programa de enseñanza y aprendizaje según el texto?",
+      "options": [
+        "Proporciona un tiempo determinado para la lectura que sirve como apoyo al programa de enseñanza y aprendizaje",
+        "Desarrolla un programa paralelo de animación lectora desvinculado del currículo formal del centro",
+        "Sustituye en algunos momentos al programa de enseñanza regular mediante actividades de animación lectora",
+        "Evalúa el nivel de comprensión lectora del alumnado complementando la evaluación curricular del aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las bibliotecas tienen por objetivo proporcionar un tiempo determinado para la lectura que sirve como apoyo al programa de enseñanza y aprendizaje, además de asegurar el acceso a recursos y promover competencias para su uso."
+    },
+    {
+      "question": "¿En qué se diferencia la función de 'actuar como enlace' de la función de 'difusión' en la biblioteca escolar?",
+      "options": [
+        "El enlace conecta con fuentes y servicios de información externos al centro, mientras la difusión satisface necesidades curriculares y culturales internas",
+        "El enlace implica la cooperación formal con otras bibliotecas, mientras la difusión supone la publicidad de los recursos propios",
+        "El enlace crea redes interbibliotecarias, mientras la difusión diseña actividades de animación lectora para el alumnado",
+        "El enlace gestiona recursos digitales externos, mientras la difusión organiza los fondos impresos del centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Actuar como enlace significa conectar con otras fuentes y servicios de información externos al centro, mientras que establecer canales de difusión tiene por objetivo satisfacer las necesidades curriculares y culturales internas y ofrecer orientación."
+    },
+    {
+      "question": "¿Qué aspecto de los poemas de autor los distingue de los folclóricos según el texto?",
+      "options": [
+        "Son escritos por adultos con temas relacionados con el entorno del niño, a diferencia del folclore que se transmite oralmente",
+        "Utilizan un lenguaje más elaborado y recursos literarios más complejos que los poemas folclóricos",
+        "Tienen una autoría individual conocida mientras los folclóricos son de autoría colectiva anónima",
+        "Se publican en libros y colecciones mientras los folclóricos se transmiten exclusivamente de forma oral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los poemas de autor son escritos por adultos con temas relacionados con el entorno del niño, diferenciándose de la poesía de tradición oral o folclore (nanas, trabalenguas, retahílas, adivinanzas, canciones) que se transmite por la oralidad."
+    },
+    {
+      "question": "¿Qué afirmación del texto distingue más claramente la narrativa de la poesía y el teatro?",
+      "options": [
+        "La narrativa utiliza la prosa, la poesía emplea recursos rítmicos y melódicos, y el teatro se basa en el diálogo y la expresión corporal",
+        "La narrativa es el género más extendido en EP, la poesía es el más antiguo y el teatro el más motivador",
+        "La narrativa es accesible a todas las edades, la poesía requiere cierta madurez y el teatro necesita recursos espaciales específicos",
+        "La narrativa desarrolla la comprensión, la poesía trabaja la expresión y el teatro fomenta la sociabilización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La narrativa se define como textos en prosa donde se narran hechos, la poesía usa recursos rítmicos y melódicos con finalidad estética, y la dramatización consiste en la representación de historias a través del diálogo y la expresión corporal, siendo estas las diferencias formales fundamentales."
+    },
+    {
+      "question": "¿Qué capacidad desarrolla específicamente la educación literaria en relación con la Competencia en Comunicación Lingüística?",
+      "options": [
+        "El enriquecimiento del lenguaje oral y escrito que permite comprender y crear textos con intención literaria",
+        "El dominio de las normas ortográficas y gramaticales de la lengua castellana y gallega",
+        "La adquisición de vocabulario técnico específico de los géneros y corrientes literarias",
+        "El desarrollo de la fluidez lectora y la velocidad de procesamiento de textos escritos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En relación con la CCL, el enriquecimiento del lenguaje oral y escrito a través de la educación literaria permite comprender y crear textos con intención literaria, siendo esta la contribución específica a dicha competencia."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre la educación literaria y la Competencia Ciudadana?",
+      "options": [
+        "La lectura reflexiva y crítica facilita el aprendizaje de valores y problemas éticos, contribuyendo así a la CC",
+        "La educación literaria desarrolla la participación democrática y el conocimiento de las instituciones políticas",
+        "La literatura fomenta el respeto a la diversidad cultural y lingüística como base de la ciudadanía activa",
+        "Los textos literarios son el principal vehículo para la educación en valores y la convivencia democrática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación literaria contribuye a la Competencia Ciudadana (CC) mediante la lectura reflexiva y crítica, que facilita el aprendizaje de valores y problemas éticos, desarrollando así la dimensión ética y cívica del alumnado."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los mitos, leyendas y fábulas como subgéneros de la narrativa de transmisión oral?",
+      "options": [
+        "El texto no establece diferencias entre ellos, sino que los cita conjuntamente como parte de la narrativa de transmisión oral",
+        "Los mitos tienen origen divino, las leyendas son de origen histórico y las fábulas tienen finalidad moral",
+        "Los mitos son de tradición universal, las leyendas son locales o regionales y las fábulas tienen personajes animales",
+        "Los mitos son narrativas largas, las leyendas son de extensión media y las fábulas son textos muy breves"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto cita los mitos, leyendas y fábulas conjuntamente como ejemplos de narrativa de transmisión oral, sin establecer diferencias entre ellos en este contexto. Roig (2012) los menciona juntos al subrayar el interés de introducir la narrativa oral tradicional gallega."
+    },
+    {
+      "question": "¿Qué menciona el texto específicamente sobre el uso de la tecnología digital en relación con el cómic?",
+      "options": [
+        "La tecnología digital ha reforzado el uso del cómic en el aula al facilitar su diseño, con aplicaciones como Pixton",
+        "La tecnología digital permite crear cómics interactivos con efectos de sonido y animación",
+        "La tecnología digital ha transformado el cómic en un género multimedia que combina texto, imagen y vídeo",
+        "La tecnología digital facilita la distribución y acceso a cómics digitales desde las bibliotecas escolares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El uso del cómic se ha reforzado con la tecnología digital que facilita su diseño, siendo Pixton la aplicación mencionada específicamente como útil en el aula para crear viñetas fomentando la creatividad e imaginación."
+    },
+    {
+      "question": "¿Qué objetivo del Plan LIA se relaciona directamente con el éxito académico del alumnado?",
+      "options": [
+        "Apoyar la adquisición de las CC para favorecer el éxito académico y actitudes positivas hacia el aprendizaje",
+        "Dotar a los centros de bibliotecas escolares útiles, estables y sostenibles",
+        "Contribuir a la creación de una sociedad lectora mediante experiencias lectoras de calidad",
+        "Facilitar al profesorado recursos para la renovación de las prácticas educativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Uno de los objetivos del Plan LIA es apoyar la adquisición de las CC para favorecer el éxito académico y actitudes positivas hacia el aprendizaje, vinculando directamente el trabajo bibliotecario con los resultados educativos."
+    },
+    {
+      "question": "¿Qué objetivo del Plan LIA se centra específicamente en la era digital?",
+      "options": [
+        "Reforzar el papel de la biblioteca escolar como un espacio estratégico de acceso al conocimiento de la era digital",
+        "Mejorar la comprensión, el uso y la evaluación crítica de la información en distintos formatos",
+        "Avanzar hacia una biblioteca escolar inclusiva que incorpore recursos digitales accesibles",
+        "Facilitar al profesorado recursos tecnológicos para la renovación de las prácticas educativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo del Plan LIA de reforzar el papel de la biblioteca escolar como un espacio estratégico de acceso al conocimiento de la era digital la posiciona como recurso clave en el contexto de la sociedad de la información."
+    },
+    {
+      "question": "¿Qué dimensión de la lectura subraya Prado (2004) al definirla como 'proceso activo'?",
+      "options": [
+        "Su carácter de reconstrucción activa del significado del mensaje escrito por parte del lector",
+        "La necesidad de desarrollar la velocidad y la precisión en la decodificación de los signos gráficos",
+        "La importancia de la motivación lectora para garantizar la participación activa del lector",
+        "El papel del lector como productor activo de nuevos textos a partir de los leídos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al definir la lectura como un proceso activo, Prado (2004) y Teresa Neira destacan que el lector no es un receptor pasivo sino que reproduce activamente la forma y contenido del mensaje escrito, siendo esta la dimensión activa de la lectura."
+    },
+    {
+      "question": "¿Qué diferencia fundamental existe entre el 'hábito lector' y la 'competencia literaria' según la secuencia descrita en el texto?",
+      "options": [
+        "El hábito lector es el primer paso que se desarrolla antes, y la competencia literaria es el segundo paso que se alcanza una vez asentado el hábito",
+        "El hábito lector se desarrolla en la familia y la competencia literaria se construye exclusivamente en la escuela",
+        "El hábito lector implica frecuencia de lectura y la competencia literaria supone dominio de técnicas de análisis textual",
+        "El hábito lector corresponde a la EP y la competencia literaria se desarrolla en la Educación Secundaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, el hábito lector es el primer paso que se desarrolla, siendo la competencia literaria el segundo paso al que se llega una vez asentado el hábito lector. Esta secuencia es una labor a largo plazo que requiere tanto del alumno como del docente."
+    },
+    {
+      "question": "¿Qué artículo de la Orden de 26 de mayo de 2023 tiene relación con el plan de lectura en EP?",
+      "options": [
+        "El artículo 12, que junto al artículo 33 del Decreto 155/2022 regula el plan de lectura redefinido mediante el PLEA",
+        "El artículo 13, que concreta el Plan de Biblioteca escolar como centro de recursos de aprendizaje",
+        "El artículo 10, que establece los criterios de evaluación en el área de LCL para toda la etapa",
+        "El artículo 15, que regula las actividades de animación lectora en las bibliotecas escolares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 12 de la Orden de 26 de mayo, junto con el artículo 33 del Decreto 155/2022, regula el plan de lectura, cuya concepción ha sido redefinida por la Resolución del 16 de octubre de 2025 mediante el PLEA."
+    },
+    {
+      "question": "¿Qué aspectos describe el texto como parte de la dimensión 'recreativa' de la biblioteca escolar?",
+      "options": [
+        "Actúa como espacio recreativo, informativo y de educación permanente con actividades de animación a la lectura",
+        "Organiza torneos de lectura, clubes de juegos de mesa y actividades de ocio digital para el alumnado",
+        "Gestiona el espacio de recreo literario con lecturas libres, juegos de palabras y actividades lúdicas",
+        "Facilita la lectura voluntaria durante los recreos y horas libres en un ambiente informal y motivador"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La biblioteca escolar actúa como espacio recreativo, informativo y de educación permanente con actividades de animación a la lectura, combinando así las funciones culturales y formativas con la dimensión lúdica y de disfrute."
+    },
+    {
+      "question": "¿Cuál de estas afirmaciones sobre los cuentos maravillosos de Pelegrín es más precisa?",
+      "options": [
+        "Se recomiendan para el rango de 5 a 7 años, situándolos entre los cuentos de animales y los de la vida real",
+        "Se recomiendan para el rango de 3 a 6 años como primer contacto con la ficción fantástica",
+        "Se recomiendan para el rango de 6 a 9 años por la complejidad de sus tramas fantásticas",
+        "Se recomiendan a partir de los 8 años por su riqueza simbólica y sus elementos de iniciación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ana Pelegrín clasifica los cuentos maravillosos como apropiados para el rango de 5 a 7 años, situándolos después de los cuentos de animales (4-7 años) y antes de los cuentos de la vida real (a partir de los 8 años)."
+    },
+    {
+      "question": "¿En qué se distingue la función 'recreativa' de la función 'informativa' de la biblioteca escolar?",
+      "options": [
+        "La recreativa se asocia con actividades de animación lectora para el disfrute, mientras la informativa facilita el acceso a recursos que satisfacen necesidades de conocimiento",
+        "La recreativa solo incluye lectura de ficción, mientras la informativa gestiona recursos de no ficción",
+        "La recreativa está destinada al alumnado en horario extraescolar, mientras la informativa apoya el trabajo curricular",
+        "La recreativa prioriza el fomento del hábito lector y la informativa desarrolla la competencia investigadora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La función recreativa de la biblioteca escolar se relaciona con las actividades de animación lectora para el disfrute y el entretenimiento, mientras la función informativa facilita el acceso a recursos que satisfacen las necesidades de conocimiento del alumnado y la comunidad educativa."
+    },
+    {
+      "question": "¿Cuál es la función principal de la educación literaria según se desprende del objetivo del Bloque 5 del Decreto 155/2022?",
+      "options": [
+        "Fomentar el gusto por la lectura y la formación lectora a través de la lectura y creación de textos de diferente tipología, valorando el sentido estético y la creatividad",
+        "Garantizar que el alumnado domine los géneros literarios y sus características formales al finalizar la EP",
+        "Asegurar el conocimiento del patrimonio literario universal y de las principales corrientes literarias históricas",
+        "Desarrollar la comprensión lectora mediante la lectura sistemática de textos literarios graduados por dificultad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La función principal de la educación literaria recogida en el objetivo del Bloque 5 del Decreto 155/2022 es fomentar el gusto por la lectura y la formación lectora a través de la lectura y creación de textos de diferente tipología, valorando el sentido estético y la creatividad."
+    },
+    {
+      "question": "¿Qué ley regula el Real Decreto 157/2022 en el ámbito de la educación primaria española?",
+      "options": [
+        "Establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal",
+        "Establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia",
+        "Establece los objetivos, contenidos y criterios de evaluación del área de Lengua Castellana y Literatura",
+        "Establece el marco normativo para las bibliotecas escolares en todos los centros del Estado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal, siendo el marco de referencia a partir del cual las comunidades autónomas como Galicia desarrollan su propio decreto curricular."
+    },
+    {
+      "question": "¿En qué número del BOE y en qué páginas se publicó el Real Decreto 157/2022?",
+      "options": [
+        "BOE número 52, del 2 de marzo de 2022, páginas 24386 a 24504",
+        "BOE número 183, del 26 de septiembre de 2022, páginas 49595 a 50009",
+        "BOE número 340, del 30 de diciembre de 2020, páginas 122868 a 122953",
+        "BOE número 111, del 13 de junio de 2023, páginas 36230 a 36270"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022 fue publicado en el BOE número 52, del 2 de marzo de 2022, páginas 24386 a 24504, mientras que la LOMLOE (LO 3/2020) se publicó en el BOE número 340 y el Decreto 155/2022 en el DOG número 183."
+    },
+    {
+      "question": "¿Qué importancia tiene el carácter 'inclusivo' como objetivo del Plan LIA para las bibliotecas escolares?",
+      "options": [
+        "Implica que la biblioteca debe ser accesible y adecuada para todo el alumnado, incluyendo a quienes tienen necesidades específicas de apoyo educativo",
+        "Significa que la biblioteca debe albergar materiales de todas las culturas y lenguas presentes en el centro",
+        "Exige que la biblioteca esté abierta a toda la comunidad educativa, incluyendo familias y entorno social",
+        "Requiere que la biblioteca incorpore recursos digitales y físicos en igualdad para todos los perfiles de usuarios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo del Plan LIA de avanzar hacia una biblioteca escolar inclusiva implica que la biblioteca sea accesible y adecuada para todo el alumnado, incluyendo a quienes tienen necesidades específicas de apoyo educativo, garantizando la equidad en el acceso a la cultura y la lectura."
+    },
+    {
+      "question": "¿En qué epígrafe del Anexo II del Decreto 155/2022 se organizan los bloques de contenido del área de LCL?",
+      "options": [
+        "Epígrafe 6.3",
+        "Epígrafe 6.1",
+        "Epígrafe 5.2",
+        "Epígrafe 7.1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los bloques de contenido del área de LCL, incluyendo el Bloque 5 de Educación Literaria, se recogen en el epígrafe 6.3. del Anexo II del Decreto 155/2022, mientras que el valor de la literatura dentro de la enseñanza de LCL se establece en el epígrafe 6.1."
+    },
+    {
+      "question": "¿Qué tipo de actividades de animación lectora puede organizar la biblioteca escolar según el texto?",
+      "options": [
+        "Actividades como clubs de lectura, libroforum, cursos de escritura creativa, cine en la biblioteca, guías de lectura y creaciones literarias y plásticas",
+        "Exclusivamente actividades de préstamo de libros, exposiciones bibliográficas y encuentros con autores",
+        "Actividades de gamificación literaria, escape rooms temáticos y maratones de lectura en voz alta",
+        "Actividades vinculadas al currículo formal como preparación de trabajos y proyectos de investigación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La biblioteca puede organizar diversas actividades de animación lectora: visitas de autores o a bibliotecas locales, exposiciones bibliográficas, juegos y concursos de lectura, cursos de fotografía, teatro o escritura creativa, hora de encuentro, debates, cine en la biblioteca, libroforum, clubs de lectura, guías de lectura y creaciones literarias y plásticas."
+    },
+    {
+      "question": "¿Qué dimensión pedagógica resalta el texto al mencionar que la literatura es 'herramienta de entretenimiento, disfrute y crecimiento personal'?",
+      "options": [
+        "La dimensión humanística de la literatura que trasciende lo académico y tiene valor en sí misma como experiencia vital",
+        "La dimensión instrumental de la literatura como recurso para desarrollar las competencias lingüísticas del alumnado",
+        "La dimensión cultural de la literatura como transmisora del patrimonio literario a las nuevas generaciones",
+        "La dimensión evaluativa de la literatura como indicador del nivel de desarrollo cognitivo del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión subraya que la literatura es una herramienta de entretenimiento, disfrute y crecimiento personal, resaltando su dimensión humanística que va más allá de lo meramente académico, siendo también un medio de desarrollo personal y emocional."
+    },
+    {
+      "question": "¿Qué perspectiva aporta el texto sobre la creación de textos como parte de la educación literaria?",
+      "options": [
+        "La literatura no es solo leer, sino también crear textos para expresar ideas, sentimientos y experiencias",
+        "La creación de textos es un objetivo secundario que se trabaja solo cuando el alumnado ha adquirido el hábito lector",
+        "La creación textual se limita a la reproducción y adaptación de modelos literarios existentes",
+        "La creación de textos es responsabilidad exclusiva del área de LCL y no debe integrarse en otras áreas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto establece que la literatura no es solo leer, sino también crear textos para expresar ideas, sentimientos y experiencias, siendo la creación textual un componente fundamental de la educación literaria junto a la lectura."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre las bibliotecas escolares y el ODS4?",
+      "options": [
+        "Las bibliotecas, a través del Plan LIA y el PLAMBE, deben dinamizar la lectura a favor de la consecución del ODS4 'Educación de Calidad'",
+        "Las bibliotecas deben integrar los ODS en su fondo documental para que el alumnado los conozca",
+        "Las bibliotecas son el espacio donde se trabajan transversalmente todos los ODS de la Agenda 2030",
+        "Las bibliotecas desarrollan el ODS4 exclusivamente mediante actividades de fomento de la alfabetización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto concluye que las bibliotecas, a través de los planes establecidos en el PE, del Plan LIA y del PLAMBE, deben ser las encargadas de dinamizar la lectura mediante actividades que afiancen hábitos lectores, competencias escritoras y habilidades de autoaprendizaje a favor de la consecución del ODS4."
+    },
+    {
+      "question": "¿Qué define el carácter 'estable y sostenible' de las bibliotecas escolares como objetivo del Plan LIA?",
+      "options": [
+        "La primera meta del Plan LIA es dotar a los centros de bibliotecas escolares útiles, estables y sostenibles, garantizando su continuidad y funcionalidad",
+        "La estabilidad implica que las bibliotecas mantengan sus fondos inalterados sin depender de donaciones externas",
+        "La sostenibilidad exige que las bibliotecas usen materiales reciclados y apliquen criterios de economía circular",
+        "La estabilidad supone que los fondos se actualicen con periodicidad fija garantizada por la administración educativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El primer objetivo del Plan LIA es dotar a los centros de bibliotecas escolares útiles, estables y sostenibles, garantizando así su continuidad, funcionalidad y permanencia como recurso educativo a largo plazo."
+    },
+    {
+      "question": "¿Qué relación existe entre el Plan LIA, el PLAMBE y las bibliotecas escolares gallegas?",
+      "options": [
+        "En el marco del Plan LIA surge el PLAMBE, que concreta medidas para la actualización de recursos y espacios de las bibliotecas garantizando el acceso igualitario",
+        "El Plan LIA y el PLAMBE son planes independientes que se aplican de forma simultánea sin jerarquía entre ellos",
+        "El PLAMBE es la versión anterior del Plan LIA, que lo sustituyó incorporando las nuevas exigencias digitales",
+        "El Plan LIA se aplica a todos los centros mientras el PLAMBE solo afecta a los centros con excelencia educativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el marco del Plan LIA surge el Plan de Mejora de las Bibliotecas Escolares de Galicia (PLAMBE), que concreta medidas para la actualización de recursos y espacios de las bibliotecas, siendo el PLAMBE el instrumento de implementación del Plan LIA."
+    },
+    {
+      "question": "¿Por qué el texto considera que las bibliotecas son el foco de las experiencias lectoras en la educación literaria?",
+      "options": [
+        "Porque son espacios para la lectura, la escritura y el acceso a la información, favoreciendo el desarrollo de las competencias clave",
+        "Porque disponen de los fondos bibliográficos necesarios para trabajar todos los géneros literarios del currículo",
+        "Porque son gestionadas por especialistas en literatura infantil y juvenil que orientan las lecturas del alumnado",
+        "Porque permiten evaluar de forma objetiva el progreso lector del alumnado mediante registros de préstamo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto establece que las bibliotecas escolares son espacios para la lectura, la escritura y el acceso a la información, favoreciendo el desarrollo de las competencias clave, lo que las convierte en el foco de las experiencias lectoras de la educación literaria."
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre el Plan LIA y el PLAMBE en cuanto a su propósito?",
+      "options": [
+        "El Plan LIA integra las actuaciones de la Consellería para reforzar bibliotecas como fuentes de recursos, mientras el PLAMBE promueve específicamente la actualización de recursos y espacios de las bibliotecas",
+        "El Plan LIA se dirige a toda la comunidad educativa y el PLAMBE solo afecta a los centros con mayores necesidades",
+        "El Plan LIA establece objetivos estratégicos a largo plazo y el PLAMBE fija metas operativas anuales",
+        "El Plan LIA es de aplicación estatal y el PLAMBE es la adaptación gallega del plan nacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA integra las actuaciones de la Consellería orientadas a reforzar la presencia y organización de las bibliotecas escolares como fuentes de recursos y espacios inclusivos, mientras el PLAMBE, surgido en su marco, se centra específicamente en promover la actualización de recursos y espacios."
+    },
+    {
+      "question": "¿Por qué el texto considera la educación literaria como un 'pilar fundamental' de la formación del alumnado?",
+      "options": [
+        "Porque forma lectores competentes, autónomos y críticos, siendo la literatura una herramienta de entretenimiento, disfrute y crecimiento personal",
+        "Porque es la base del rendimiento académico en todas las áreas curriculares al desarrollar la comprensión lectora",
+        "Porque garantiza el conocimiento del patrimonio literario y cultural de la humanidad para las futuras generaciones",
+        "Porque es el área del currículo con mayor número de horas lectivas en la Educación Primaria gallega"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema destaca la relevancia de la educación literaria como un pilar fundamental para formar lectores competentes, autónomos y críticos, siendo la literatura una herramienta de entretenimiento, disfrute y crecimiento personal."
+    },
+    {
+      "question": "¿Qué información sobre las bibliotecas escolares de Galicia está disponible en la página web de la Xunta?",
+      "options": [
+        "Toda la información sobre las bibliotecas escolares de Galicia y acciones formativas para el profesorado",
+        "Los fondos catalogados de todas las bibliotecas escolares de Galicia y el sistema de préstamo interbibliotecario",
+        "Los resultados anuales del PLAMBE y los indicadores de calidad de las bibliotecas escolares",
+        "El directorio de responsables de biblioteca escolar de todos los centros educativos de Galicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Toda la información sobre las bibliotecas escolares de Galicia se encuentra disponible en la página web de la Xunta 'Bibliotecas escolares', donde también se ofrecen acciones formativas para el profesorado."
+    },
+    {
+      "question": "¿Qué URL recoge el texto como referencia para acceder a la información sobre las bibliotecas escolares gallegas?",
+      "options": [
+        "https://www.edu.xunta.gal/biblioteca/blog/",
+        "https://www.edu.xunta.gal/portal/node/47534",
+        "https://www.xunta.gal/bibliotecas-escolares",
+        "https://www.edu.xunta.gal/bibliotecas/"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La URL https://www.edu.xunta.gal/biblioteca/blog/ es la que recoge el texto como página web de la Xunta donde se encuentra toda la información sobre las bibliotecas escolares de Galicia y las acciones formativas para el profesorado."
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones describe con mayor precisión los principios generales de la biblioteca escolar según el texto?",
+      "options": [
+        "Lugar de aprendizaje, encuentro e interacción; amplia variedad de recursos; gestión centralizada coordinada con las aulas; apertura al exterior mediante TIC",
+        "Espacio físico bien dotado; catálogo actualizado; personal especializado; horario de apertura amplio",
+        "Recursos bibliográficos actualizados; servicio de préstamo eficiente; actividades de animación lectora regulares",
+        "Gestión autónoma; presupuesto propio; coordinación con la biblioteca municipal; formación continua del bibliotecario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los principios de las bibliotecas escolares recogidos en el texto son: constituir un lugar de aprendizaje, de encuentro y de interacción; recoger una amplia variedad de recursos; adoptar el papel de gestión centralizada en colaboración con las bibliotecas de aula; y estar abierta al exterior manteniendo contacto con otras instituciones mediante TIC."
+    },
+    {
+      "question": "¿Qué imagen de la biblioteca escolar transmite el lema gallego para 2025/2026 'Contra a desinformación: bibliotecas'?",
+      "options": [
+        "Las bibliotecas como escudo contra la desinformación, gracias a sus recursos fiables y la guía experta de sus bibliotecarios",
+        "Las bibliotecas como espacio de debate democrático donde se contrastan distintas fuentes de información",
+        "Las bibliotecas como garantes de la libertad de prensa y el acceso igualitario a la información",
+        "Las bibliotecas como alternativa crítica a las redes sociales en la formación de la opinión pública"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El lema 'Contra a desinformación: bibliotecas' subraya el papel de las bibliotecas como un escudo contra la desinformación, gracias a sus recursos fiables y la guía experta de sus bibliotecarios, posicionándolas como agentes de pensamiento crítico en la era de la información."
+    },
+    {
+      "question": "¿Qué ventajas diferenciales aporta la biblioteca de aula frente a la biblioteca escolar de centro?",
+      "options": [
+        "Mayor acceso rápido y continuo, mayor proximidad al alumnado, posibilidad de integrar los materiales en la actividad cotidiana del aula y fomento del hábito de cuidado del material",
+        "Mayor variedad de fondos bibliográficos, servicio de catalogación profesional y gestión especializada",
+        "Mayor conexión con otras instituciones culturales, acceso a bases de datos y participación en programas institucionales",
+        "Mayor presupuesto de adquisiciones, posibilidad de solicitar préstamos interbibliotecarios y atención personalizada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La biblioteca de aula aporta ventajas diferenciales como: mayor acceso rápido y continuo a los materiales, mayor proximidad al alumnado favoreciendo el contacto con los libros, posibilidad de integrar los recursos en la actividad cotidiana del aula, y fomento de hábitos de responsabilidad en el cuidado del material."
+    },
+    {
+      "question": "¿Qué elemento de la poesía la vincula con la expresión oral y la comunicación según el texto?",
+      "options": [
+        "La poesía favorece la escucha, la lectura y la escritura, además de la expresión emocional y la comunicación",
+        "La poesía se basa en la oralidad primaria que precede a la escritura en la historia de la humanidad",
+        "La poesía utiliza el ritmo y la melodía que facilitan la memorización y la recitación en voz alta",
+        "La poesía está estrechamente vinculada a la música y la danza en la tradición de transmisión oral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que la poesía favorece la imaginación, la expresión emocional, la comunicación y la autoestima, además de desarrollar la escucha, la lectura y la escritura, siendo estas capacidades las que vinculan la poesía con la expresión oral y la comunicación."
+    },
+    {
+      "question": "¿Qué valor educativo añade el texto a la Educación Literaria más allá del estrictamente académico?",
+      "options": [
+        "Es un pilar para formar lectores competentes, autónomos y críticos, y una herramienta de entretenimiento, disfrute y crecimiento personal con valor como herencia educativa y emocional",
+        "Prepara al alumnado para acceder con éxito a los estudios secundarios y universitarios posteriores",
+        "Garantiza la adquisición de las competencias lingüísticas necesarias para el mundo profesional futuro",
+        "Desarrolla el sentido estético que permite al alumnado apreciar y crear obras artísticas de valor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema destaca que la educación literaria tiene valor como pilar para formar lectores competentes, autónomos y críticos, siendo la literatura una herramienta de entretenimiento, disfrute y crecimiento personal. Como señala Tonucci, 'leer y escribir es el mejor regalo para tus hijos', poniendo de manifiesto su valor como herencia educativa y emocional."
+    }
+  ]
+}

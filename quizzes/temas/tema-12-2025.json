@@ -1,0 +1,2296 @@
+{
+  "title": "Tema 12. Educación Artística en Educación Primaria",
+  "description": "Área de Educación Artística en EP: enfoque, características, competencias clave, objetivos, contenidos, criterios de evaluación y relación con otras áreas. Decreto 155/2022 y marco LOMLOE.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se recogen la EPV y la MD como dos disciplinas académicas independientes con sus propios objetivos y criterios de evaluación?",
+      "options": [
+        "Artículo 9",
+        "Artículo 12",
+        "Artículo 6",
+        "Artículo 4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 9 del Decreto 155/2022 recoge EPV y MD como dos disciplinas académicas independientes. El artículo 12 es el que permite a los centros agruparlas en el ámbito de Educación Artística."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 permite a los centros agrupar EPV y MD en el ámbito de Educación Artística haciendo uso de su autonomía?",
+      "options": [
+        "Artículo 4",
+        "Artículo 9",
+        "Artículo 12",
+        "Artículo 16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 12 del Decreto 155/2022, junto con el artículo 4 de la Orden de 26 de mayo de 2023, establece que los centros pueden agrupar EPV y MD en el ámbito de Educación Artística en el uso de su autonomía."
+    },
+    {
+      "question": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022. ¿En qué artículo de dicha Orden se recoge la posibilidad de agrupar áreas en ámbitos?",
+      "options": [
+        "Artículo 9",
+        "Artículo 6",
+        "Artículo 4",
+        "Artículo 12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 4 de la Orden de 26 de mayo de 2023 establece la posibilidad de agrupar las áreas en ámbitos. Complementa lo indicado en el artículo 12 del Decreto 155/2022."
+    },
+    {
+      "question": "Según el artículo 4 del Decreto 155/2022, ¿cuál es el fin de la Educación Primaria en relación con la creatividad?",
+      "options": [
+        "Desarrollar la creatividad como principio pedagógico transversal de cada área",
+        "Dotar al alumnado de aprendizajes de la creatividad y el sentido artístico para garantizar una formación integral",
+        "Integrar la creatividad como competencia específica de la Educación Artística",
+        "Fomentar la creatividad mediante proyectos interdisciplinares de carácter obligatorio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4 establece como fin de la EP dotar al alumnado de los aprendizajes de la creatividad y el sentido artístico a fin de garantizar una formación integral que contribuya al pleno desarrollo de su personalidad."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se recoge la creatividad como principio pedagógico?",
+      "options": [
+        "Artículo 4",
+        "Artículo 16",
+        "Artículo 17",
+        "Artículo 6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La creatividad se recoge como principio pedagógico en el artículo 16 del Decreto 155/2022. El artículo 4 la recoge como fin de la EP y el artículo 17 como elemento transversal."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se recoge la creatividad como elemento transversal?",
+      "options": [
+        "Artículo 16",
+        "Artículo 7",
+        "Artículo 17",
+        "Artículo 9"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 17 del Decreto 155/2022 recoge la creatividad como elemento transversal. El artículo 16 la recoge como principio pedagógico y el artículo 4 como fin de la EP."
+    },
+    {
+      "question": "Según Eisner (2003), ¿cuál es la función fundamental de las artes en la educación?",
+      "options": [
+        "Desarrollar la memoria visual y auditiva del alumnado mediante la imitación de obras clásicas",
+        "Ampliar la manera de ver y comprender el mundo, enseñando a pensar con sensibilidad e imaginación",
+        "Favorecer la integración curricular de todas las áreas a través de proyectos artísticos",
+        "Reforzar las competencias matemáticas mediante el uso de proporciones y geometría en el arte"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Eisner (2003) señala que las artes son fundamentales para ampliar la manera de ver y comprender el mundo, enseñando a los niños a pensar con sensibilidad e imaginación con el fin de expresarse y adquirir nuevas experiencias de aprendizaje."
+    },
+    {
+      "question": "¿Cuántas sesiones semanales tiene asignadas el área de EPV en todos los cursos de Educación Primaria según el Anexo III del Decreto 155/2022?",
+      "options": [
+        "Dos sesiones semanales",
+        "Una sesión semanal",
+        "Sesión y media semanal",
+        "Tres sesiones quincenales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el Anexo III del Decreto 155/2022, tanto EPV como MD tienen una sesión semanal cada una en todos los cursos de la Educación Primaria, con tratamiento igualitario."
+    },
+    {
+      "question": "¿Quién imparte el área de Educación Plástica y Visual en Educación Primaria según la normativa?",
+      "options": [
+        "Un docente especialista en artes plásticas",
+        "Un maestro generalista",
+        "Un docente especialista en cultura y patrimonio",
+        "Un maestro con habilitación en educación artística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La EPV es impartida por un maestro generalista, mientras que la MD es impartida por un docente especialista en música. Esto se menciona en el artículo 12 del Real Decreto 132/2010."
+    },
+    {
+      "question": "¿En qué Real Decreto y artículo se establece que el área de Música y Danza debe ser impartida por un docente especialista en música?",
+      "options": [
+        "Real Decreto 157/2022, artículo 9",
+        "Real Decreto 132/2010, artículo 12",
+        "Real Decreto 132/2010, artículo 6",
+        "Real Decreto 157/2022, artículo 12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 12 del Real Decreto 132/2010, de 12 de febrero, establece los requisitos mínimos de los centros y especifica que la MD debe ser impartida por un docente especialista en música."
+    },
+    {
+      "question": "¿Cuál es el propósito principal de las áreas de EPV y MD según el tema?",
+      "options": [
+        "Promover la percepción y la expresión estética para el desarrollo de la identidad personal y cultural",
+        "Desarrollar las competencias matemáticas y lingüísticas a través del lenguaje artístico",
+        "Garantizar el acceso al patrimonio cultural local a través de la expresión plástica y musical",
+        "Fomentar la imaginación y la creatividad como herramientas para el aprendizaje significativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El propósito de EPV y MD es promover la percepción y la expresión estética para el desarrollo de la identidad personal y cultural del alumnado y la imaginación."
+    },
+    {
+      "question": "El enfoque competencial de las áreas artísticas se caracteriza por tres rasgos. ¿Cuáles son?",
+      "options": [
+        "Globalidad, integración y evaluación continua",
+        "Transversalidad, dinamismo y carácter integral",
+        "Creatividad, sensibilidad y pensamiento divergente",
+        "Interdisciplinariedad, flexibilidad y progresión cognitiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El enfoque competencial de las áreas de EPV y MD se caracteriza por su transversalidad, dinamismo y carácter integral, además de desarrollar estrategias cognitivas y la creatividad."
+    },
+    {
+      "question": "¿Qué tipo de actividades debe dejar de lado la educación artística según el enfoque señalado en el tema?",
+      "options": [
+        "Las actividades cooperativas en grupos heterogéneos y los proyectos interdisciplinares",
+        "La imitación de obras y las actividades mecánicas como el solfeo o la reproducción de notas",
+        "Las audiciones musicales y la lectura crítica de imágenes en publicidad",
+        "Las visitas a centros de interés y los proyectos de innovación educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El docente debe promover que la educación artística deje de lado la imitación de obras o actividades mecánicas (como el solfeo o reproducción de notas) para dar cabida a la imaginación y el pensamiento divergente."
+    },
+    {
+      "question": "¿Qué dimensiones abarca la Educación Artística según el tema?",
+      "options": [
+        "Sensorial, intelectual, emocional, afectiva, social y estética",
+        "Cognitiva, procedimental, actitudinal, lingüística y cultural",
+        "Visual, auditiva, kinestésica, táctil y olfativa",
+        "Personal, interpersonal, cívica, digital y matemática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Educación Artística abarca múltiples dimensiones sensoriales, intelectuales, emocionales, afectivas, sociales y estéticas."
+    },
+    {
+      "question": "¿Cuál es la definición de currículo establecida en el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "El conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de la EP",
+        "Los desempeños que se consideran imprescindibles para que el alumnado progrese en su itinerario formativo",
+        "Los referentes que indican los niveles de desempeño esperados en actividades y situaciones de aprendizaje",
+        "Los principios pedagógicos que orientan el diseño y la planificación de las estrategias docentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 del Decreto 155/2022 define el currículo como el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de la EP."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen los métodos pedagógicos?",
+      "options": [
+        "Los principios que orientan la selección de contenidos y su secuenciación por ciclos y cursos",
+        "Las indicaciones para orientar al profesorado en el diseño y planificación de estrategias docentes para favorecer el aprendizaje",
+        "Los desempeños imprescindibles para que el alumnado progrese con garantías de éxito en su itinerario formativo",
+        "Los criterios que permiten valorar el nivel de desempeño del alumnado en cada bloque de contenido"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 define los métodos pedagógicos como las indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes con la finalidad de favorecer el aprendizaje."
+    },
+    {
+      "question": "¿A qué teoría hace referencia el tema cuando señala que las propuestas metodológicas deben partir de los conocimientos previos del alumnado?",
+      "options": [
+        "La teoría constructivista de Piaget sobre el desarrollo psicoevolutivo",
+        "La teoría sociocultural de Vygotsky sobre la Zona de Desarrollo Próximo",
+        "La teoría del aprendizaje significativo de Ausubel",
+        "La teoría del pensamiento divergente de Guilford"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tema hace referencia a la teoría del aprendizaje significativo de Ausubel cuando señala que las propuestas deben partir de los conocimientos previos del alumnado."
+    },
+    {
+      "question": "¿Qué autores son citados en el tema en relación con el desarrollo psicoevolutivo y la Zona de Desarrollo Próximo?",
+      "options": [
+        "Ausubel y Eisner",
+        "Agra y Salido",
+        "Piaget y Vygotsky",
+        "Elichiry y Regatky"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tema cita a Piaget (desarrollo psicoevolutivo) y Vygotsky (Zona de Desarrollo Próximo) como referentes para diseñar situaciones que unan conocimientos previos con nuevas experiencias."
+    },
+    {
+      "question": "Según Agra (2007), ¿qué elemento organizativo es clave para el aprendizaje artístico?",
+      "options": [
+        "La planificación de situaciones de aprendizaje que fomenten el pensamiento divergente",
+        "La organización de los materiales y los espacios",
+        "La integración de las TIC en el acceso y la creación artística",
+        "La conexión entre los contenidos artísticos y los conocimientos previos del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Agra (2007) insiste en que la organización de los materiales y espacios es clave para el aprendizaje artístico, además de plantear situaciones que fomenten el pensamiento divergente."
+    },
+    {
+      "question": "Según Elichiry y Regatky (2010), ¿a qué elementos debe ir ligado el proceso de aprendizaje creativo?",
+      "options": [
+        "A la planificación, el diseño y la toma de decisiones autónomas del alumnado",
+        "A la motivación, la curiosidad y el deseo de aprender",
+        "A la experimentación, la observación y la indagación sensorial",
+        "A la reflexión, la autoevaluación y el sentido crítico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Elichiry y Regatky (2010) señalan que el proceso de aprendizaje creativo debe ir ligado a la motivación, la curiosidad y el deseo de aprender."
+    },
+    {
+      "question": "¿Cuál de las siguientes aplicaciones se menciona en el tema para la edición de vídeos mediante TIC?",
+      "options": [
+        "GarageBand",
+        "Gimp",
+        "MovieMaker",
+        "Audacity"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tema menciona MovieMaker para editar vídeos, Gimp para editar fotos y GarageBand para componer melodías, como ejemplos de TIC en la educación artística."
+    },
+    {
+      "question": "¿Qué aplicación se menciona en el tema para la edición de fotografías en el contexto de las TIC?",
+      "options": [
+        "MovieMaker",
+        "GarageBand",
+        "Gimp",
+        "Scratch"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gimp es la aplicación citada para editar fotos. MovieMaker es para vídeos y GarageBand para melodías."
+    },
+    {
+      "question": "¿Qué siglas corresponden al Diseño Universal para el Aprendizaje mencionado en el tema?",
+      "options": [
+        "DCA",
+        "DUA",
+        "DAU",
+        "UDA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DUA corresponde al Diseño Universal para el Aprendizaje, que permite atender los diferentes ritmos, estilos, motivaciones y necesidades del alumnado."
+    },
+    {
+      "question": "¿Qué proyecto de la Xunta de Galicia consiste en realizar una obra operística?",
+      "options": [
+        "Polos Creativos",
+        "Red Planea de Arte y Escuela",
+        "Programa LÓVA",
+        "Cinema en Curso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Programa LÓVA consiste en realizar una obra operística. Los Polos Creativos fomentan la experimentación y creatividad, y la Red Planea de Arte y Escuela introduce técnicas de arte."
+    },
+    {
+      "question": "¿En qué modalidad del proyecto Innova-Lab se trabaja la Educación Artística según el tema?",
+      "options": [
+        "Lab-Creativo",
+        "Science-lab",
+        "Art-lab",
+        "Digital-lab"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los proyectos Innova-Lab en su modalidad Art-lab son uno de los proyectos de innovación de la Xunta de Galicia relacionados con la Educación Artística."
+    },
+    {
+      "question": "¿En qué año y por qué organización fue aprobada la Agenda 2030 de los ODS?",
+      "options": [
+        "En 2015 por la Unión Europea",
+        "En 2018 por el Consejo de Europa",
+        "En 2015 por la ONU",
+        "En 2020 por la UNESCO"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Agenda 2030 fue aprobada por la ONU en 2015. La Recomendación del Consejo de la UE sobre competencias clave es del 22 de mayo de 2018."
+    },
+    {
+      "question": "¿Cuáles son los ODS que desarrolla la Educación Artística según el tema?",
+      "options": [
+        "ODS 3, ODS 4 y ODS 10",
+        "ODS 4, ODS 5 y ODS 12",
+        "ODS 1, ODS 4 y ODS 17",
+        "ODS 4, ODS 8 y ODS 16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Educación Artística desarrolla el ODS 4 'Educación de Calidad', el ODS 5 'Igualdad de Género' y el ODS 12 'Producción y Consumo Responsable'."
+    },
+    {
+      "question": "¿Cuántos objetivos de etapa recoge el artículo 7 del Decreto 155/2022?",
+      "options": [
+        "12 objetivos",
+        "10 objetivos",
+        "15 objetivos",
+        "8 objetivos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 7 del Decreto 155/2022 recoge 15 objetivos de la etapa de Educación Primaria."
+    },
+    {
+      "question": "¿A qué objetivo de etapa del artículo 7 del Decreto 155/2022 contribuye la Educación Artística en relación con la creatividad, la iniciativa y el esfuerzo?",
+      "options": [
+        "Objetivo 'a'",
+        "Objetivo 'b'",
+        "Objetivo 'j'",
+        "Objetivo 'f'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo 'b' implica desarrollar hábitos de trabajo individual y de equipo, esfuerzo, responsabilidad y actitudes como la creatividad, la iniciativa, la curiosidad y el interés."
+    },
+    {
+      "question": "¿A qué objetivo de etapa del artículo 7 contribuye la Educación Artística en relación con las representaciones y expresiones artísticas?",
+      "options": [
+        "Objetivo 'b'",
+        "Objetivo 'g'",
+        "Objetivo 'j'",
+        "Objetivo 'm'"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El objetivo 'j' implica utilizar diferentes representaciones y expresiones artísticas e iniciarse en la construcción de propuestas visuales y audiovisuales."
+    },
+    {
+      "question": "¿En qué epígrafe y anexo del Decreto 155/2022 se recogen los 4 objetivos del área de EPV?",
+      "options": [
+        "Anexo II, epígrafe 10.2",
+        "Anexo III, epígrafe 5.2",
+        "Anexo II, epígrafe 5.2",
+        "Anexo I, epígrafe 5.2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los 4 objetivos de EPV se recogen en el Anexo II, epígrafe 5.2 del Decreto 155/2022. Los objetivos de MD se encuentran en el epígrafe 10.2."
+    },
+    {
+      "question": "¿Cuántos objetivos de área tiene el área de Música y Danza según el Decreto 155/2022?",
+      "options": [
+        "4 objetivos",
+        "6 objetivos",
+        "3 objetivos",
+        "5 objetivos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El área de MD tiene 5 objetivos de área recogidos en el epígrafe 10.2 del Anexo II del Decreto 155/2022, mientras que EPV tiene 4 objetivos."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un objetivo exclusivo del área de MD (no presente en EPV)?",
+      "options": [
+        "Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas",
+        "Reconocer los elementos básicos del lenguaje musical a través de la percepción y análisis",
+        "Expresar ideas, sentimientos y emociones creativamente experimentando con medios digitales",
+        "Participar en el diseño, elaboración y difusión de producciones artísticas valorando el proceso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ2 de MD 'Reconocer los elementos básicos del lenguaje musical a través de la percepción y análisis de diferentes fragmentos y obras' es exclusivo de MD. Los demás objetivos tienen equivalentes en EPV."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen los contenidos?",
+      "options": [
+        "Los referentes que indican los niveles de desempeño esperados en situaciones de aprendizaje",
+        "Los desempeños que el alumnado debe poder desplegar en actividades cuyo abordaje requiere los aprendizajes del área",
+        "Los conocimientos, destrezas y actitudes cuyo aprendizaje es necesario para adquirir el nivel de desempeño de los criterios",
+        "El conjunto de objetivos, competencias y métodos pedagógicos que orientan el proceso de enseñanza"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los contenidos se definen como los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario para adquirir el nivel de desempeño de los criterios de evaluación y para el logro de los objetivos."
+    },
+    {
+      "question": "¿Con qué elemento del Real Decreto 157/2022 se corresponden los contenidos del Decreto 155/2022?",
+      "options": [
+        "Con las competencias específicas",
+        "Con los criterios de evaluación",
+        "Con los saberes básicos",
+        "Con los descriptores operativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los contenidos del Decreto 155/2022 se corresponden con los saberes básicos del Real Decreto 157/2022. Los objetivos de área se corresponden con las competencias específicas."
+    },
+    {
+      "question": "¿Cuántos bloques de contenido tienen las áreas de EPV y MD y a qué se orientan los bloques 1 y 3?",
+      "options": [
+        "3 bloques; los bloques 1 y 3 se orientan a la creación e interpretación",
+        "4 bloques; los bloques 1 y 3 se orientan a la percepción y análisis",
+        "4 bloques; los bloques 1 y 3 se orientan a la expresión y comunicación",
+        "5 bloques; los bloques 1 y 3 se orientan a la percepción sensorial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hay 4 bloques de contenido. Los bloques 1 (Educación plástica y visual) y 3 (Educación Audiovisual) se orientan a la percepción y análisis. Los bloques 2 y 4 se orientan a la creación e interpretación."
+    },
+    {
+      "question": "¿A qué se orienta el bloque 4 de los contenidos de las áreas de EPV y MD?",
+      "options": [
+        "A la percepción y análisis de manifestaciones culturales y artísticas",
+        "A la Educación Audiovisual y la comprensión crítica",
+        "A la creación e interpretación en artes escénicas y performativas",
+        "A la Educación Musical y los códigos convencionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El bloque 4 se refiere a la 'Educación en artes escénicas y performativas' y se orienta a la creación e interpretación, al igual que el bloque 2."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen los criterios de evaluación?",
+      "options": [
+        "Los desempeños que el alumnado debe poder desplegar en actividades cuyo abordaje requiere los aprendizajes del área",
+        "Los referentes que indican los niveles de desempeño esperados en las situaciones o actividades a que se refieren los objetivos",
+        "Los conocimientos, destrezas y actitudes cuyo aprendizaje es necesario para adquirir el nivel competencial esperado",
+        "Los principios pedagógicos que orientan la planificación de estrategias y acciones docentes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación son los referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a que se refieren los objetivos de cada área en un momento determinado de su aprendizaje."
+    },
+    {
+      "question": "¿Cómo se definen las competencias clave según el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Los logros que se espera que alcance el alumnado al finalizar la etapa vinculados a la adquisición de las competencias",
+        "Los referentes que indican los niveles de desempeño esperados en situaciones de aprendizaje de cada área",
+        "Los desempeños que se consideran imprescindibles para que el alumnado progrese con garantías de éxito en su itinerario formativo",
+        "Los conocimientos, destrezas y actitudes cuyo aprendizaje es necesario para la adquisición del perfil de salida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el artículo 6, las CC son los desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo y afrontar los principales retos y desafíos globales y locales."
+    },
+    {
+      "question": "Las competencias clave son la adaptación al sistema educativo español de las competencias para el aprendizaje permanente establecidas en una Recomendación europea. ¿De qué fecha es dicha Recomendación?",
+      "options": [
+        "22 de mayo de 2016",
+        "29 de diciembre de 2020",
+        "22 de mayo de 2018",
+        "1 de marzo de 2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las CC son la adaptación de las competencias para el aprendizaje permanente de la Recomendación del Consejo de la Unión Europea del 22 de mayo de 2018."
+    },
+    {
+      "question": "¿A través de qué elemento se deducen los descriptores operativos del perfil de salida del alumnado?",
+      "options": [
+        "Los criterios de evaluación de cada área y etapa educativa",
+        "El perfil de salida que define el nivel competencial esperado al completar la educación básica",
+        "Los objetivos de área recogidos en el Anexo II del Decreto 155/2022",
+        "Los saberes básicos establecidos en el Real Decreto 157/2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los descriptores operativos se deducen a través del perfil de salida del alumnado, que define el nivel competencial esperado al completar la educación básica."
+    },
+    {
+      "question": "¿A cuántas competencias clave deben contribuir simultáneamente las actividades educativas según el artículo 16 del Decreto 155/2022?",
+      "options": [
+        "A las cuatro competencias clave vinculadas específicamente a cada área",
+        "A más de una de las ocho competencias clave, sin poder establecerse conexión exclusiva con una única área",
+        "A las competencias clave establecidas en el perfil de salida de cada etapa educativa",
+        "A las tres competencias clave prioritarias de cada bloque de contenido"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16 del Decreto 155/2022 indica que las actividades deben favorecer el desarrollo simultáneo de más de una de las ocho CC, pues no puede establecerse una conexión exclusiva con una única área."
+    },
+    {
+      "question": "¿Qué competencia clave es la principal aportación de las áreas de EPV y MD?",
+      "options": [
+        "Competencia Personal, Social y Aprender a Aprender (CPSAA)",
+        "Competencia en Comunicación Lingüística (CCL)",
+        "Competencia en Conciencia y Expresiones Culturales (CCEC)",
+        "Competencia Emprendedora (CE)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La CCEC (Competencia en Conciencia y Expresiones Culturales) es la principal aportación de las áreas artísticas, favoreciendo la percepción visual y auditiva, el patrimonio cultural y la expresión creativa."
+    },
+    {
+      "question": "¿A qué competencia clave contribuyen las áreas artísticas al exigir planificar, explorar y elegir recursos con flexibilidad, autonomía y esfuerzo en proyectos artísticos?",
+      "options": [
+        "Competencia Personal, Social y Aprender a Aprender (CPSAA)",
+        "Competencia Ciudadana (CC)",
+        "Competencia Emprendedora (CE)",
+        "Competencia en Conciencia y Expresiones Culturales (CCEC)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La realización de proyectos u obras artísticas exige planificar, explorar y elegir recursos con flexibilidad, autonomía y esfuerzo, lo que contribuye a la Competencia Emprendedora (CE)."
+    },
+    {
+      "question": "¿A qué competencia clave contribuyen las áreas artísticas al promover la aceptación de normas sociales, el cuidado del material, la cooperación y la responsabilidad?",
+      "options": [
+        "Competencia Emprendedora (CE)",
+        "Competencia Ciudadana (CC)",
+        "Competencia Personal, Social y Aprender a Aprender (CPSAA)",
+        "Competencia en Conciencia y Expresiones Culturales (CCEC)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La aceptación de normas sociales, el cuidado del material, la cooperación y la responsabilidad son aspectos propios de la Competencia Ciudadana (CC)."
+    },
+    {
+      "question": "¿Cómo contribuye específicamente el área de MD a la Competencia Matemática (STEM)?",
+      "options": [
+        "Mediante el uso de proporciones geométricas en el diseño de instrumentos musicales",
+        "A través del análisis de formas, tamaños y perspectivas en la composición musical",
+        "Mediante el uso de compases, escalas o notaciones musicales",
+        "A través del estudio de la acústica y la física del sonido en el entorno escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de MD contribuye a los conocimientos matemáticos al utilizar compases, escalas o notaciones musicales. La EPV aporta a la STEM mediante conocimientos geométricos y de medida."
+    },
+    {
+      "question": "¿Cuál es el decreto de plurilingüismo de Galicia que regula la lengua de impartición de las áreas, incluidas EPV y MD?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 229/2011, de 7 de diciembre",
+        "Decreto 79/2010, de 20 de mayo",
+        "Decreto 374/1996, de 17 de octubre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 79/2010, de 20 de mayo, regula el plurilingüismo en la enseñanza no universitaria de Galicia. Su artículo 6 establece el proyecto lingüístico de cada centro."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 79/2010 se regula la lengua de impartición de las áreas en los centros educativos de Galicia?",
+      "options": [
+        "Artículo 12",
+        "Artículo 4",
+        "Artículo 9",
+        "Artículo 6"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El artículo 6 del Decreto 79/2010 establece el proyecto lingüístico de cada centro, que determina si las áreas artísticas se imparten en castellano, gallego o inglés."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece que la EP se organiza en áreas con carácter global e integrador?",
+      "options": [
+        "Artículo 6",
+        "Artículo 3",
+        "Artículo 16",
+        "Artículo 9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 3 del Decreto 155/2022 establece que la EP se organiza en áreas con un carácter global e integrador."
+    },
+    {
+      "question": "¿Con qué área se relaciona la Educación Artística en lo referente al grafismo en escritura y gesto gráfico?",
+      "options": [
+        "Ciencias Sociales",
+        "Matemáticas",
+        "Lenguas (Castellana, Gallega y Extranjera)",
+        "Educación Física"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Educación Artística se relaciona con las áreas de Lengua Castellana, Lengua Gallega y Lengua Extranjera en el desarrollo del grafismo en escritura y gesto gráfico (EPV) y el movimiento y postura (MD)."
+    },
+    {
+      "question": "¿Con qué área curricular se relaciona la Educación Artística al trabajar la elaboración e interpretación de planos y maquetas?",
+      "options": [
+        "Matemáticas",
+        "Educación Física",
+        "Ciencias Sociales y Ciencias de la Naturaleza",
+        "Educación en Valores Cívicos y Éticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La elaboración e interpretación de planos y maquetas es un contenido común con las Ciencias Sociales y las Ciencias de la Naturaleza."
+    },
+    {
+      "question": "¿En qué curso de EP se imparte el área de Educación en Valores Cívicos y Éticos, con la que comparte contenidos la Educación Artística?",
+      "options": [
+        "4º de EP",
+        "5º de EP",
+        "6º de EP",
+        "3º de EP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Educación en Valores Cívicos y Éticos se imparte en 6º de EP y comparte con la Educación Artística actitudes de convivencia, respeto y trabajo en equipo, así como la diversidad y el patrimonio cultural."
+    },
+    {
+      "question": "¿Qué contenido de Educación Física es también contenido del bloque 4 de la Educación Artística?",
+      "options": [
+        "La psicomotricidad gruesa y la coordinación motriz",
+        "La expresión corporal y el lenguaje no verbal mediante la danza",
+        "El juego deportivo reglado y la actividad física saludable",
+        "La orientación espacial y las actividades en el medio natural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La danza es contenido del bloque 4 de la EF complementado con la expresión corporal y el lenguaje no verbal, lo que establece la conexión entre la Educación Artística y la Educación Física."
+    },
+    {
+      "question": "¿Qué proyecto del Museo Reina Sofía se menciona en el tema, en qué año se realizó y qué combinaba?",
+      "options": [
+        "'Arte en movimiento', 2008, combinaba pintura y escultura",
+        "'Si fuera un movimiento', 2010, combinaba danza y movimiento para reinterpretar obras artísticas",
+        "'Savia en acción', 2012, combinaba música y artes plásticas",
+        "'Cuerpo y color', 2015, combinaba fotografía y expresión corporal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proyecto 'si fuera un movimiento' del Museo Reina Sofía se realizó en 2010 y combinó danza y movimiento para reinterpretar obras artísticas."
+    },
+    {
+      "question": "¿Qué recurso educativo del Museo Reina Sofía ofrece actividades breves basadas en el tacto, el oído, el lenguaje o el equilibrio tratando el entorno como si fuera un museo?",
+      "options": [
+        "Arte en Curso",
+        "Innova-Lab",
+        "Savia",
+        "Planea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Savia es el recurso del Museo Reina Sofía que ofrece actividades breves basadas en el tacto, el oído, el lenguaje o el equilibrio, tratando el entorno como si fuera un museo."
+    },
+    {
+      "question": "¿Cuál de las siguientes características NO se menciona en el tema como propia del área de MD en el primer ciclo de EP?",
+      "options": [
+        "El uso de instrumentos de percusión para favorecer la exploración",
+        "La introducción de los códigos musicales convencionales",
+        "El uso de la canción para combinar palabra y música",
+        "El baile y el juego dramático para la desinhibición y expresión personal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La introducción de los códigos musicales convencionales es característica del segundo ciclo, no del primero. En el primer ciclo se trabaja la canción, los instrumentos de percusión, y el baile y juego dramático."
+    },
+    {
+      "question": "¿Qué aspecto se enfatiza específicamente en el tercer ciclo de EP para el área de EPV?",
+      "options": [
+        "El esquematismo y el desarrollo de la psicomotricidad fina",
+        "La introducción de texturas, formas tridimensionales y maquetas",
+        "La lectura crítica de imágenes en publicidad, prensa y televisión",
+        "La observación del entorno y la percepción de formas y volúmenes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el tercer ciclo de EPV se enfatiza la lectura crítica de imágenes en publicidad, prensa o televisión, así como el trabajo con volúmenes, la fotografía y variaciones del color."
+    },
+    {
+      "question": "¿Qué característica del alumnado en el primer ciclo de EP describe el inicio del proceso en EPV según el tema?",
+      "options": [
+        "La observación y percepción mejorada del entorno artístico",
+        "El trabajo con volumen tridimensional mediante maquetas y collages",
+        "El esquematismo: dibujar ideas con formas básicas como círculos o líneas",
+        "La lectura crítica e interpretación de imágenes visuales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el primer ciclo, el alumnado inicia el esquematismo, dibujando ideas con formas básicas como círculos o líneas. La intervención se centra en el color, el volumen y la psicomotricidad fina."
+    },
+    {
+      "question": "¿Qué elementos se introducen en el segundo ciclo de EP para el área de EPV?",
+      "options": [
+        "La fotografía y las variaciones del color con efectos de luz y contrastes",
+        "El esquematismo con formas básicas y el trabajo de psicomotricidad fina",
+        "Las texturas, formas, volúmenes y lo tridimensional con maquetas o collages",
+        "La lectura crítica de imágenes y el trabajo intensivo con volúmenes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el segundo ciclo de EPV se introducen texturas, formas, volúmenes y lo tridimensional con la creación de maquetas o collages, mejorando la percepción del entorno a través de la observación."
+    },
+    {
+      "question": "¿Qué se amplía en el tercer ciclo del área de MD en relación con la escucha musical?",
+      "options": [
+        "El uso de la canción para combinar palabra y música con diferentes culturas",
+        "La exploración de las posibilidades de la voz y la introducción de códigos musicales",
+        "El disfrute de la escucha abarcando diferentes estilos y culturas, y el análisis de la música en los medios",
+        "La participación activa en audiciones y el uso de instrumentos de percusión complejos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el tercer ciclo de MD se amplía el disfrute de la escucha abarcando diferentes estilos y culturas, se analiza la música de los medios de comunicación y se afianza la coordinación rítmica."
+    },
+    {
+      "question": "¿Qué se introduce en el segundo ciclo de MD en relación con los contenidos musicales?",
+      "options": [
+        "Los instrumentos de percusión y el juego dramático para la desinhibición",
+        "Los códigos musicales convencionales y las posibilidades de la voz y el movimiento",
+        "El disfrute de la escucha de diferentes estilos y culturas musicales",
+        "La coordinación rítmica compleja y la danza y dramatización avanzadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo de MD se potencia el disfrute musical mediante audiciones, la participación activa, se exploran las posibilidades de la voz y el movimiento, y se introducen los códigos musicales convencionales."
+    },
+    {
+      "question": "¿Cuántos medios de expresión estructuran el área de MD según el tema?",
+      "options": [
+        "Dos: la voz y el canto, y los instrumentos musicales",
+        "Cuatro: voz, instrumentos, movimiento y expresión plástica",
+        "Tres: la voz y el canto, los instrumentos y el movimiento y la danza",
+        "Cinco: voz, canto, instrumentos, danza y dramatización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de MD se estructura en tres medios de expresión: la voz y el canto, los instrumentos y el movimiento y la danza."
+    },
+    {
+      "question": "¿Qué concepto sustituye el término de competencias clave al de competencias básicas de la LOE?",
+      "options": [
+        "Los descriptores operativos del perfil de salida",
+        "Las competencias clave establecidas por la LOMLOE",
+        "Las competencias para el aprendizaje permanente de la UE",
+        "Los desempeños competenciales del Decreto 155/2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El concepto de competencias clave (establecido por la LOMLOE) sustituye al término de competencias básicas de la LOE anterior."
+    },
+    {
+      "question": "¿Qué metodología específica de la Educación Artística consiste en trabajar con materiales como arcillas, collage o pintura, y técnicas como modelado, puntillismo, ensamblaje o grabado?",
+      "options": [
+        "Aprendizaje basado en proyectos",
+        "Trabajo de taller",
+        "Aprendizaje creativo",
+        "Aprendizaje basado en problemas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El trabajo de taller, destacado por Salido (2017), es donde el alumnado experimenta con materiales (arcillas, collage o pintura), técnicas (modelado, puntillismo, ensamblaje o grabado) y espacios (mesa húmeda, mesa de dibujo, mesa de construcción)."
+    },
+    {
+      "question": "¿Qué metodología específica culmina en un producto final como respuesta a una cuestión del entorno próximo?",
+      "options": [
+        "El aprendizaje basado en problemas",
+        "El trabajo de taller",
+        "El aprendizaje cooperativo en grupos heterogéneos",
+        "El aprendizaje basado en proyectos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El aprendizaje basado en proyectos culmina en un producto final como respuesta a una cuestión del entorno próximo. El ABP (basado en problemas) busca soluciones para problemas concretos."
+    },
+    {
+      "question": "¿Qué autor destaca los museos como espacios que acercan el patrimonio y el arte a la escuela?",
+      "options": [
+        "Eisner (2003)",
+        "Agra (2007)",
+        "Salido (2017)",
+        "Elichiry y Regatky (2010)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Salido (2017) destaca los museos como espacios que acercan el patrimonio y el arte a la escuela, y también describe el trabajo de taller como metodología eficaz."
+    },
+    {
+      "question": "¿Qué rol debe adoptar el docente en el proceso de aprendizaje artístico según el tema?",
+      "options": [
+        "Instructor y transmisor directo de conocimientos artísticos técnicos",
+        "Evaluador del producto final y garante de la correcta ejecución técnica",
+        "Mediador y guía que selecciona situaciones de aprendizaje y recursos artísticos",
+        "Facilitador de recursos digitales y gestor de proyectos cooperativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El docente debe adoptar un rol de mediador y guía, seleccionando situaciones de aprendizaje adecuadas y recursos artísticos que favorezcan la exploración, la manipulación y la creatividad."
+    },
+    {
+      "question": "¿Cuál de las siguientes es la definición correcta de los objetivos de área según el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Los logros que se espera que alcance el alumnado al finalizar la etapa cuya consecución está vinculada a las CC",
+        "Los desempeños que el alumnado debe poder desplegar en actividades cuyo abordaje requiere los aprendizajes asociados a los contenidos",
+        "Los referentes que indican los niveles de desempeño esperados en situaciones o actividades a que se refieren los objetivos",
+        "Los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario para el logro de los objetivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos de área son los desempeños que el alumnado debe poder desplegar en actividades o situaciones cuyo abordaje requiere los aprendizajes asociados a los contenidos de cada área o ámbito."
+    },
+    {
+      "question": "¿Qué son los objetivos de etapa según el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Los desempeños que el alumnado debe poder desplegar en actividades o situaciones de aprendizaje del área",
+        "Los logros que se espera que alcance el alumnado al finalizar la etapa y cuya consecución está vinculada a las CC",
+        "Los referentes que indican los niveles de desempeño esperados en un momento determinado del aprendizaje",
+        "Los desempeños imprescindibles para que el alumnado progrese con garantías en su itinerario formativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos de etapa se definen como los logros que se espera que alcance el alumnado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las competencias clave."
+    },
+    {
+      "question": "¿Qué elemento actúa como conexión entre el perfil de salida, los criterios de evaluación y los contenidos?",
+      "options": [
+        "Los saberes básicos del Real Decreto 157/2022",
+        "Los descriptores operativos del perfil de salida",
+        "Los objetivos de área o competencias específicas",
+        "Los principios pedagógicos del artículo 16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de área (correspondientes a las competencias específicas del RD 157/2022) son el elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un ejemplo de espacio de trabajo del taller en EPV mencionado en el tema?",
+      "options": [
+        "Mesa húmeda",
+        "Mesa de dibujo",
+        "Mesa de construcción",
+        "Mesa de edición digital"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El tema menciona como espacios del taller la mesa húmeda, la mesa de dibujo y la mesa de construcción. La mesa de edición digital no se menciona como espacio de taller."
+    },
+    {
+      "question": "¿Qué se valora en los criterios de evaluación de EPV en relación con la creación e interpretación de propuestas audiovisuales?",
+      "options": [
+        "La calidad técnica y el dominio del lenguaje visual en la producción audiovisual",
+        "El respeto mostrando empatía hacia las ideas, sentimientos y emociones de los demás",
+        "El conocimiento del patrimonio audiovisual y su contextualización histórica",
+        "La capacidad de análisis crítico de las manifestaciones audiovisuales del entorno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En EPV se valora el respeto en la creación e interpretación de propuestas audiovisuales, mostrando empatía hacia las ideas, sentimientos y emociones de los demás."
+    },
+    {
+      "question": "¿Qué se valora en los criterios de evaluación de MD en relación con el lenguaje musical?",
+      "options": [
+        "La identificación, clasificación, descripción y representación de elementos y lenguaje de la música",
+        "La expresión creativa mediante el sonido, el cuerpo y los medios digitales",
+        "El uso responsable de las TIC para la búsqueda de información artística",
+        "La participación en proyectos de producción musical valorando el proceso colectivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En MD se valora la identificación visual y auditiva, la clasificación, la descripción y la representación de elementos y lenguaje de la música."
+    },
+    {
+      "question": "¿Qué aprendizaje creativo específico se menciona en el tema que impulsa el pensamiento divergente mediante la exploración del sonido con materiales reciclados?",
+      "options": [
+        "Diseñar un mapa emocional con colores, texturas, formas y sonidos",
+        "Crear instrumentos inventados con materiales reciclados explorando su sonido",
+        "Desarrollar una obra operística mediante el programa LÓVA",
+        "Reinterpretar obras artísticas mediante danza y movimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un ejemplo de aprendizaje creativo mencionado es crear instrumentos inventados con materiales reciclados explorando su sonido, que impulsa el pensamiento divergente y la flexibilidad mental."
+    },
+    {
+      "question": "¿Qué ejemplo de aprendizaje creativo relacionado con la representación emocional se menciona en el tema?",
+      "options": [
+        "Representar la historia de la localidad mediante arte, música o movimiento",
+        "Buscar soluciones para reducir el ruido en el centro escolar",
+        "Diseñar un mapa emocional con colores, texturas, formas y sonidos para representar emociones",
+        "Crear composiciones audiovisuales con la aplicación GarageBand"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diseñar un mapa emocional con colores, texturas, formas y sonidos para representar emociones es el ejemplo de aprendizaje creativo relacionado con la representación emocional."
+    },
+    {
+      "question": "¿Qué ejemplo de aprendizaje basado en problemas se menciona en el tema?",
+      "options": [
+        "Representar la historia de la localidad mediante arte, música o movimiento",
+        "Crear instrumentos inventados con materiales reciclados",
+        "Buscar soluciones para reducir el ruido en el centro escolar",
+        "Visitar el Museo Reina Sofía para reinterpretar obras mediante danza"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El aprendizaje basado en problemas se ejemplifica con actividades donde se buscan soluciones para reducir el ruido en el centro escolar."
+    },
+    {
+      "question": "¿Con qué elemento pedagógico se puede combinar el trabajo de taller en la Educación Artística según el tema?",
+      "options": [
+        "El aprendizaje individual y la autoevaluación del proceso creativo",
+        "El aprendizaje cooperativo en grupos heterogéneos y las unidades integradas",
+        "Las visitas a centros de interés y los proyectos de innovación de la Xunta",
+        "El uso del DUA y la atención a los ritmos individuales de aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El trabajo de taller puede combinarse con el aprendizaje cooperativo en grupos heterogéneos y unidades integradas que conecten varias áreas orientadas a una tarea final común."
+    },
+    {
+      "question": "¿Qué aspecto del currículo artístico refuerza el carácter global e integrador de la Educación Artística según el tema?",
+      "options": [
+        "El tratamiento igualitario de EPV y MD con una sesión semanal para cada área",
+        "La perspectiva de género incorporando la contribución de las mujeres a las artes",
+        "La creatividad recogida como fin, principio pedagógico y elemento transversal",
+        "La profundización progresiva de los contenidos adaptada al desarrollo cognitivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La creatividad recogida en el artículo 4 (fin), artículo 16 (principio pedagógico) y artículo 17 (elemento transversal) refuerza el carácter global e integrador de la Educación Artística."
+    },
+    {
+      "question": "¿Qué perspectiva debe incorporar el currículo de las áreas artísticas según el tema?",
+      "options": [
+        "La perspectiva intercultural para integrar manifestaciones de diferentes países",
+        "La perspectiva digital para fomentar el uso de TIC en la creación artística",
+        "La perspectiva de género incorporando la contribución de las mujeres a las artes",
+        "La perspectiva medioambiental para el uso de materiales sostenibles y reciclados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los contenidos de las áreas artísticas deben tratarse bajo la perspectiva de género, incorporando y normalizando la contribución de las mujeres a la evolución de las artes plásticas, visuales y sonoras."
+    },
+    {
+      "question": "¿Cómo contribuyen las áreas artísticas a la Competencia Plurilingüe (CP)?",
+      "options": [
+        "Incorporando vocabulario artístico específico en varias lenguas al análisis de obras",
+        "Pudiendo impartirse en castellano, gallego o inglés según el proyecto lingüístico del centro",
+        "Utilizando letras de canciones en diferentes idiomas para el aprendizaje musical",
+        "Favoreciendo la traducción de textos sobre arte y patrimonio cultural internacional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las áreas artísticas facilitan la Competencia Plurilingüe al poder impartirse en castellano, gallego o inglés según el Proyecto lingüístico de cada centro, siguiendo el artículo 6 del Decreto 79/2010."
+    },
+    {
+      "question": "¿Qué habilidades lingüísticas desarrollan las áreas artísticas para contribuir a la Competencia en Comunicación Lingüística (CCL)?",
+      "options": [
+        "La comprensión lectora de textos normativos y la redacción de análisis artísticos",
+        "El aumento del vocabulario específico, la mejora de la comunicación y las habilidades discursivas",
+        "El uso del lenguaje artístico como código alternativo al lenguaje verbal convencional",
+        "La interpretación de textos literarios mediante representaciones plásticas y musicales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las áreas artísticas enriquecen la CCL a través del aumento del vocabulario específico, la mejora de la comunicación, las habilidades discursivas (tono, respiración, descripción, argumentación) y el lenguaje no verbal."
+    },
+    {
+      "question": "¿Cómo contribuye el área de EPV a la Competencia Matemática y STEM?",
+      "options": [
+        "Mediante el uso de notaciones musicales y compases en la composición visual",
+        "A través de conocimientos geométricos y de medida en arquitectura, escultura y pintura",
+        "Utilizando algoritmos digitales para la creación de obras artísticas generativas",
+        "Mediante el análisis estadístico de las tendencias en el arte contemporáneo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de EPV contribuye a la STEM mediante conocimientos geométricos y de medida presentes en la arquitectura, la escultura y la pintura, así como la percepción y organización del espacio."
+    },
+    {
+      "question": "¿Cuál de los siguientes proyectos de la Xunta de Galicia tiene como objetivo fomentar la experimentación y la creatividad en los centros educativos?",
+      "options": [
+        "Programa LÓVA",
+        "Red Planea de Arte y Escuela",
+        "Polos Creativos",
+        "Plan Proxecta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los Polos Creativos son el proyecto de la Xunta de Galicia diseñado para fomentar la experimentación y la creatividad en los centros. El Programa LÓVA consiste en realizar una obra operística."
+    },
+    {
+      "question": "¿Qué elementos transversales recoge el artículo 17 del Decreto 155/2022 que deben abordarse en todas las áreas curriculares?",
+      "options": [
+        "La creatividad, el pensamiento científico, el consumo responsable y la igualdad de género",
+        "Los objetivos de desarrollo sostenible, el patrimonio cultural y la educación para la ciudadanía",
+        "La comprensión lectora, la expresión oral y escrita, la competencia digital y la creatividad",
+        "El multilingüismo, la inclusión educativa, la orientación profesional y la salud"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 17 establece como elementos transversales, entre otros: la comprensión lectora, la expresión oral y escrita, la competencia digital, la comunicación audiovisual, la creatividad, el espíritu científico y el desarrollo sostenible."
+    },
+    {
+      "question": "¿Cuál es el ODS vinculado a la 'Producción y Consumo Responsable' que desarrolla la Educación Artística?",
+      "options": [
+        "ODS 4",
+        "ODS 5",
+        "ODS 12",
+        "ODS 17"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El ODS 12 'Producción y Consumo Responsable' es uno de los tres ODS que desarrolla la Educación Artística, junto con el ODS 4 'Educación de Calidad' y el ODS 5 'Igualdad de Género'."
+    },
+    {
+      "question": "¿Qué área artística requiere conocimientos geométricos y de medida presentes en la arquitectura, la escultura y la pintura, según el tema?",
+      "options": [
+        "El área de Música y Danza",
+        "El área de Educación Plástica y Visual",
+        "El área de Educación Audiovisual",
+        "El área de Artes Escénicas y Performativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de EPV requiere de conocimientos geométricos y de medida presentes en la arquitectura, la escultura y la pintura, así como de percepción y organización del espacio."
+    },
+    {
+      "question": "¿Qué conexión con el área de Matemáticas comparte la Educación Artística relacionada con el tiempo y el ritmo?",
+      "options": [
+        "El tiempo como magnitud y elemento escénico, y como cualidad musical de ritmo y duración",
+        "El uso de fracciones y proporciones para la creación de composiciones musicales",
+        "La aplicación de la simetría y las transformaciones geométricas en obras plásticas",
+        "El análisis estadístico de las frecuencias sonoras y las propiedades de la luz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Educación Artística se relaciona con Matemáticas en el tiempo como magnitud y elemento escénico y como cualidad musical de ritmo y duración, además de nociones espaciales."
+    },
+    {
+      "question": "¿Cómo contribuye específicamente la CPSAA (Competencia Personal, Social y Aprender a Aprender) en las áreas artísticas?",
+      "options": [
+        "Mediante la planificación de proyectos artísticos con flexibilidad y autonomía personal",
+        "A través de la experimentación, la observación, la indagación sensorial y la manipulación",
+        "Desarrollando actitudes de cooperación, respeto y aceptación de normas sociales",
+        "Favoreciendo la percepción visual y auditiva y el conocimiento del patrimonio cultural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las áreas artísticas estimulan la CPSAA a través de la experimentación, la observación, la indagación sensorial (sonidos, texturas, formas, espacios) y la manipulación de objetos e instrumentos."
+    },
+    {
+      "question": "¿Qué nociones espaciales integra la Educación Artística mencionadas en el tema?",
+      "options": [
+        "Derecha-izquierda, norte-sur, horizontal-vertical",
+        "Arriba-abajo, dentro-fuera, largo-corto",
+        "Grande-pequeño, cerca-lejos, rápido-lento",
+        "Alto-bajo, fuerte-suave, claro-oscuro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Educación Artística engloba nociones espaciales de arriba-abajo, dentro-fuera o largo-corto, que son contenidos comunes con el área de Matemáticas."
+    },
+    {
+      "question": "¿Cuántos objetivos tiene el área de Educación Plástica y Visual según el Decreto 155/2022?",
+      "options": [
+        "5 objetivos",
+        "6 objetivos",
+        "3 objetivos",
+        "4 objetivos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El área de EPV tiene 4 objetivos de área recogidos en el Anexo II, epígrafe 5.2 del Decreto 155/2022. El área de MD tiene 5 objetivos."
+    },
+    {
+      "question": "¿Cuál de los siguientes objetivos de EPV hace referencia a la participación en la difusión de producciones artísticas?",
+      "options": [
+        "OBJ1: Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas",
+        "OBJ2: Investigar sobre manifestaciones culturales y artísticas disfrutando su valor",
+        "OBJ3: Expresar ideas, sentimientos y emociones creativamente experimentando con medios",
+        "OBJ4: Participar en el diseño, elaboración y difusión de producciones artísticas plásticas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El OBJ4 de EPV es: 'Participar en el diseño, elaboración y difusión de producciones artísticas plásticas y visuales valorando el proceso y asumiendo roles para desarrollar la creatividad, la autoría y el sentido de pertenencia'."
+    },
+    {
+      "question": "¿Cuál es el OBJ2 del área de Música y Danza en el Decreto 155/2022?",
+      "options": [
+        "Investigar sobre manifestaciones culturales y artísticas musicales disfrutando su valor",
+        "Reconocer los elementos básicos del lenguaje musical a través de la percepción y análisis",
+        "Expresar ideas, sentimientos y emociones experimentando con el sonido y los medios digitales",
+        "Descubrir propuestas artísticas musicales de diferentes géneros, estilos y culturas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ2 de MD es: 'Reconocer los elementos básicos del lenguaje musical, a través de la percepción y análisis de diferentes fragmentos y obras'. Este objetivo no tiene equivalente en EPV."
+    },
+    {
+      "question": "¿Qué significa que el currículo de las áreas artísticas presente un carácter socializador?",
+      "options": [
+        "Que promueve el trabajo cooperativo en grupos y la responsabilidad colectiva",
+        "Que promueve el respeto a la diversidad cultural y a las producciones de los demás",
+        "Que facilita la integración del alumnado con necesidades educativas especiales",
+        "Que fomenta la participación en eventos artísticos de la comunidad educativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El carácter socializador de los contenidos promueve el respeto a la diversidad cultural y a las producciones de los demás, a la vez que integra la observación y la escucha del entorno cercano."
+    },
+    {
+      "question": "¿Cuál es la fecha de publicación del Decreto 155/2022 en el Diario Oficial de Galicia?",
+      "options": [
+        "15 de septiembre de 2022",
+        "26 de septiembre de 2022",
+        "29 de diciembre de 2022",
+        "13 de junio de 2023"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque el Decreto 155/2022 tiene fecha de 15 de septiembre de 2022, se publicó en el Diario Oficial de Galicia número 183, de 26 de septiembre de 2022."
+    },
+    {
+      "question": "¿Cuál es la fecha de publicación en el DOG de la Orden de 26 de mayo de 2023 que desarrolla el Decreto 155/2022?",
+      "options": [
+        "26 de mayo de 2023",
+        "1 de junio de 2023",
+        "13 de junio de 2023",
+        "26 de septiembre de 2023"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden de 26 de mayo de 2023 se publicó en el Diario Oficial de Galicia número 111, de 13 de junio de 2023."
+    },
+    {
+      "question": "¿Cuál de los siguientes conceptos se corresponde con las competencias específicas del Real Decreto 157/2022?",
+      "options": [
+        "Los criterios de evaluación del Decreto 155/2022",
+        "Los contenidos del Decreto 155/2022",
+        "Los objetivos de área del Decreto 155/2022",
+        "Los objetivos de etapa del Decreto 155/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de área del Decreto 155/2022 se corresponden con las competencias específicas establecidas en el Real Decreto 157/2022."
+    },
+    {
+      "question": "¿A qué ley modifica la LOMLOE (Ley Orgánica 3/2020)?",
+      "options": [
+        "La Ley Orgánica 1/1990 (LOGSE)",
+        "La Ley Orgánica 10/2002 (LOCE)",
+        "La Ley Orgánica 2/2006 (LOE)",
+        "La Ley Orgánica 8/2013 (LOMCE)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE (Ley Orgánica 3/2020, de 29 de diciembre) modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)."
+    },
+    {
+      "question": "¿Cuál es la fecha de publicación del Real Decreto 132/2010 que establece los requisitos mínimos de los centros educativos?",
+      "options": [
+        "12 de marzo de 2010",
+        "12 de febrero de 2010",
+        "20 de mayo de 2010",
+        "1 de marzo de 2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real Decreto 132/2010 tiene fecha de 12 de febrero de 2010 (aunque se publicó en el BOE de 12 de marzo de 2010)."
+    },
+    {
+      "question": "¿Qué perspectiva pedagógica caracteriza el enfoque global del área de Educación Artística en relación con el proceso de aprendizaje?",
+      "options": [
+        "El enfoque reproductivo centrado en la adquisición de técnicas artísticas específicas",
+        "El enfoque globalizador e interdisciplinar comunicativo, inclusivo, activo y participativo",
+        "El enfoque competencial basado en la evaluación de productos artísticos terminados",
+        "El enfoque transmisivo orientado a la transmisión del patrimonio cultural local"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La metodología debe partir de un enfoque globalizador e interdisciplinar y ser comunicativa, inclusiva, activa y participativa dirigida al logro de objetivos y de las CC."
+    },
+    {
+      "question": "¿Qué diferencia existe entre el concepto de 'activismo' y 'actividad' en las propuestas metodológicas artísticas?",
+      "options": [
+        "El activismo implica participación social y el actividad implica tarea escolar",
+        "Las actividades tienen sentido pedagógico definido; el activismo carece de propósito formativo claro",
+        "El activismo desarrolla el pensamiento divergente y la actividad desarrolla el convergente",
+        "Las actividades son individuales y el activismo es colectivo y comunitario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tema señala que se debe diferenciar actividad de activismo, dotando a las tareas artísticas de sentidos a través de metodologías activas que permitan al alumnado aprender a aprender planificando, diseñando y tomando decisiones."
+    },
+    {
+      "question": "¿Qué contenido de EPV se trabaja en el segundo ciclo mediante la creación de maquetas o collages?",
+      "options": [
+        "La fotografía y las variaciones del color con efectos de luz",
+        "El esquematismo y las formas básicas de representación gráfica",
+        "Lo tridimensional y la percepción del entorno a través de texturas y volúmenes",
+        "La lectura crítica de imágenes en publicidad y medios de comunicación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el segundo ciclo se trabaja lo tridimensional (maquetas, collages) profundizando en la percepción del entorno a través de la observación e introduciendo texturas, formas y volúmenes."
+    },
+    {
+      "question": "¿Qué instrumento de evaluación permite medir el nivel competencial al completar la educación básica?",
+      "options": [
+        "Los criterios de evaluación del Decreto 155/2022",
+        "Los objetivos de etapa del artículo 7 del Decreto 155/2022",
+        "El perfil de salida deducido a través de los descriptores operativos",
+        "Los saberes básicos del Real Decreto 157/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El perfil de salida del alumnado, que define el nivel competencial esperado al completar la educación básica deducido a través de los descriptores operativos, permite medir el nivel competencial."
+    },
+    {
+      "question": "¿Qué tipo de pensamiento desarrolla el aprendizaje creativo en la Educación Artística?",
+      "options": [
+        "Pensamiento convergente, analítico y deductivo",
+        "Pensamiento divergente con flexibilidad mental y originalidad",
+        "Pensamiento metacognitivo y reflexivo sobre el propio aprendizaje",
+        "Pensamiento lógico-matemático mediante la resolución de problemas artísticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje creativo impulsa el pensamiento divergente involucrando flexibilidad mental y originalidad, fomentando la expresión libre, la improvisación, la creatividad y la indagación."
+    },
+    {
+      "question": "¿Qué contenidos de las áreas artísticas son comunes con el área de Ciencias Sociales y Ciencias de la Naturaleza?",
+      "options": [
+        "Las formas, tamaños, perspectivas y medidas de las obras artísticas",
+        "La valoración por el entorno cultural y el respeto a manifestaciones de otras culturas",
+        "El desarrollo del grafismo y la escritura como formas de comunicación artística",
+        "La coordinación rítmica y la expresión corporal en el movimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La valoración por el entorno y lo cultural, el respeto y la convivencia, y el conocimiento de producciones y expresiones de otras culturas son contenidos comunes con Ciencias Sociales y Ciencias de la Naturaleza."
+    },
+    {
+      "question": "¿Qué se menciona en el tema sobre la contribución de la Educación Artística al método científico?",
+      "options": [
+        "El desarrollo del pensamiento lógico mediante la comparación de técnicas artísticas",
+        "La elaboración de criterios para seleccionar materiales es beneficiosa para el método científico",
+        "El análisis experimental de las propiedades físicas de los materiales plásticos",
+        "La formulación de hipótesis sobre los efectos estéticos de las técnicas artísticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La elaboración de criterios para seleccionar materiales en la Educación Artística es beneficiosa para el método científico, estableciendo conexión con Ciencias Sociales y Ciencias de la Naturaleza."
+    },
+    {
+      "question": "¿Cuál es el número del BOE en el que se publicó el Real Decreto 157/2022?",
+      "options": [
+        "BOE número 62",
+        "BOE número 183",
+        "BOE número 52",
+        "BOE número 340"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Real Decreto 157/2022 se publicó en el Boletín Oficial del Estado número 52, de 2 de marzo de 2022."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un proyecto mencionado en el Plan Proxecta de la Xunta de Galicia relacionado con la Educación Artística?",
+      "options": [
+        "Cinema en Curso",
+        "Fotografía en Curso",
+        "LÓVA",
+        "Art-lab de Innova-Lab"
+      ],
+      "correctAnswer": 2,
+      "explanation": "LÓVA (obra operística) es un programa independiente, no forma parte del Plan Proxecta. Cinema en Curso y Fotografía en Curso sí son iniciativas dentro del Plan Proxecta."
+    },
+    {
+      "question": "¿Qué se analiza en el tercer ciclo de MD en relación con los medios de comunicación?",
+      "options": [
+        "El uso de las TIC para buscar información sobre manifestaciones musicales internacionales",
+        "La coordinación rítmica compleja en la danza y la dramatización",
+        "La música de los medios de comunicación en anuncios de televisión o radio",
+        "El patrimonio musical y dancístico de diferentes estilos y épocas históricas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el tercer ciclo de MD se analiza la música de los medios de comunicación, concretamente en anuncios de televisión o radio, además de ampliarse el disfrute de la escucha."
+    },
+    {
+      "question": "¿Cuál es la norma autonómica que desarrolla el Decreto 155/2022 y regula la evaluación en la etapa de Educación Primaria en Galicia?",
+      "options": [
+        "Decreto 79/2010, de 20 de mayo",
+        "Real Decreto 132/2010, de 12 de febrero",
+        "Orden de 26 de mayo de 2023",
+        "Real Decreto 157/2022, de 1 de marzo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden de 26 de mayo de 2023 es la norma autonómica que desarrolla el Decreto 155/2022 y regula la evaluación en la etapa de Educación Primaria en Galicia."
+    },
+    {
+      "question": "¿Qué relación tiene el área de Educación Física con la Educación Artística en el tema del tiempo y el ritmo?",
+      "options": [
+        "La duración, el ritmo y las secuencias de las actividades motrices conectan ambas áreas",
+        "La psicomotricidad gruesa y la coordinación bilateral son compartidas por las dos áreas",
+        "Los juegos populares y el deporte reglado se relacionan con la expresión artística",
+        "El acondicionamiento físico y la resistencia son previos a la danza escénica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tratamiento del tiempo en la Educación Artística se relaciona con el área de Educación Física en lo referente a la duración, ritmo y secuencias de las actividades motrices."
+    },
+    {
+      "question": "¿Qué habilidades de Educación Física son necesarias para el dibujo, el recortado o tocar instrumentos musicales?",
+      "options": [
+        "La resistencia cardiovascular y la fuerza muscular",
+        "La conciencia espacial y la psicomotricidad",
+        "La coordinación oculomanual y la flexibilidad",
+        "El equilibrio estático y la capacidad respiratoria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La conciencia espacial y la psicomotricidad trabajadas en la EF son necesarias para el dibujo, el recortado o tocar instrumentos musicales."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos del currículo de EPV corresponde al bloque 2 según el Decreto 155/2022?",
+      "options": [
+        "Percepción y análisis de la Educación Plástica y Visual",
+        "Creación e interpretación de la Educación Musical",
+        "Creación e interpretación de la Educación Plástica y Visual",
+        "Percepción y análisis de la Educación Audiovisual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El bloque 2 corresponde a la Educación Plástica y Visual y se centra en la creación e interpretación. El bloque 1 aborda la percepción y análisis de la EPV."
+    },
+    {
+      "question": "¿A qué se refiere el bloque 3 de los contenidos de las áreas artísticas?",
+      "options": [
+        "A la Educación Musical, percepción y análisis",
+        "A la Educación Audiovisual, percepción y análisis",
+        "A las Artes Escénicas y Performativas, creación e interpretación",
+        "A la Educación Plástica y Visual, creación e interpretación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El bloque 3 se refiere a la Educación Audiovisual y se orienta a la percepción y análisis. El bloque 4 trata las Artes Escénicas y Performativas orientándose a la creación e interpretación."
+    },
+    {
+      "question": "¿Cuál de los siguientes pares de bloques favorece el desarrollo de capacidades de percepción, reconocimiento y observación sensorial?",
+      "options": [
+        "Bloque 1 y Bloque 2",
+        "Bloque 2 y Bloque 4",
+        "Bloque 1 y Bloque 3",
+        "Bloque 3 y Bloque 4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El primer y tercer bloque de EPV y MD favorecen el desarrollo de capacidades de percepción, reconocimiento y observación sensorial, esenciales para analizar manifestaciones culturales y artísticas."
+    },
+    {
+      "question": "¿Cuál de los siguientes pares de bloques promueve la expresión creativa mediante la exploración de códigos, materiales, instrumentos y técnicas?",
+      "options": [
+        "Bloque 1 y Bloque 3",
+        "Bloque 2 y Bloque 4",
+        "Bloque 1 y Bloque 2",
+        "Bloque 3 y Bloque 4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El segundo y cuarto bloque promueven la expresión creativa mediante la exploración y uso creativo de diversos códigos, materiales, instrumentos y técnicas propios de las artes visuales y musicales."
+    },
+    {
+      "question": "¿Con qué elemento del Real Decreto 157/2022 se corresponden los objetivos de área del Decreto 155/2022?",
+      "options": [
+        "Con los saberes básicos",
+        "Con los criterios de evaluación",
+        "Con los descriptores operativos",
+        "Con las competencias específicas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los objetivos de área del Decreto 155/2022 se corresponden con las competencias específicas establecidas en el Real Decreto 157/2022."
+    },
+    {
+      "question": "¿Qué tipo de conocimientos, destrezas y actitudes integra el currículo de EPV y MD según el tema?",
+      "options": [
+        "Conceptuales, procedimentales y actitudinales",
+        "Conocimientos, destrezas y actitudes",
+        "Saberes, habilidades y valores",
+        "Capacidades, destrezas y competencias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los contenidos de EPV y MD integran conocimientos, actitudes y destrezas, organizados en 4 bloques de contenido desarrollados en el Anexo II del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué característica del currículo de las áreas artísticas garantiza que los contenidos avancen de lo concreto hasta el pensamiento abstracto?",
+      "options": [
+        "El carácter socializador de los contenidos artísticos",
+        "La perspectiva de género en la presentación de los contenidos",
+        "La profundización progresiva de los contenidos según el desarrollo cognitivo",
+        "La interdisciplinariedad de los contenidos con otras áreas del currículo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El currículo artístico se ha diseñado considerando la profundización progresiva de los contenidos y el desarrollo cognitivo y emocional del alumnado, avanzando de lo concreto hasta el pensamiento abstracto."
+    },
+    {
+      "question": "¿Qué objetivo de área de EPV hace referencia a la investigación sobre manifestaciones culturales y artísticas?",
+      "options": [
+        "OBJ1: Descubrir propuestas artísticas de diferentes géneros y culturas",
+        "OBJ2: Investigar sobre manifestaciones culturales y artísticas disfrutando su valor",
+        "OBJ3: Expresar ideas y sentimientos creativamente con medios digitales",
+        "OBJ4: Participar en el diseño y difusión de producciones artísticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ2 de EPV es: 'Investigar sobre manifestaciones culturales y artísticas plásticas y visuales, disfrutando su valor y desarrollando el pensamiento y la sensibilidad artística propia'."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una característica exclusiva del OBJ3 de EPV frente al OBJ4 de MD?",
+      "options": [
+        "Expresar ideas, sentimientos y emociones creativamente",
+        "Experimentar con el sonido, el cuerpo y los medios digitales",
+        "Experimentar con el sonido, la imagen y los medios digitales para crear obras propias",
+        "Participar del diseño, elaboración y difusión de producciones artísticas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ3 de EPV menciona experimentar con 'el sonido, la imagen y los medios digitales', mientras que el OBJ4 de MD menciona 'el sonido, el cuerpo y los medios digitales'. La diferencia clave es 'imagen' vs. 'cuerpo'."
+    },
+    {
+      "question": "¿Cuál es el objetivo 5 (OBJ5) exclusivo del área de MD que no tiene equivalente en EPV?",
+      "options": [
+        "Descubrir propuestas artísticas musicales de diferentes géneros y culturas",
+        "Investigar sobre manifestaciones culturales artísticas musicales disfrutando su valor",
+        "Reconocer los elementos básicos del lenguaje musical a través de la percepción",
+        "Participar del diseño, elaboración y difusión de producciones artísticas musicales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El OBJ5 de MD es: 'Participar del diseño, elaboración y difusión de producciones artísticas musicales y dancísticas, valorando el proceso y asumiendo roles para desarrollar la creatividad, la autoría y el sentido de pertenencia'. EPV tiene un OBJ4 equivalente, pero MD tiene un OBJ2 adicional sin equivalente en EPV."
+    },
+    {
+      "question": "¿Qué habilidades desarrolla la Educación Artística según el tema además de las cognitivas e intelectuales?",
+      "options": [
+        "Memoria a largo plazo, imaginación, creatividad, motricidad, socialización y cooperación",
+        "Comprensión lectora, expresión escrita, razonamiento lógico y pensamiento crítico",
+        "Orientación espacial, coordinación bilateral, equilibrio y resistencia aeróbica",
+        "Resolución de problemas matemáticos, pensamiento computacional y habilidades digitales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Educación Artística desarrolla habilidades como atención, percepción, inteligencia, memoria, imaginación, creatividad, autonomía, resolución de problemas, motricidad, expresión, socialización, cooperación y comunicación."
+    },
+    {
+      "question": "¿Cuál fue el cambio histórico en la percepción de la Educación Artística que menciona el tema?",
+      "options": [
+        "Pasó de ser un área de imitación mecánica a convertirse en un área de pensamiento divergente",
+        "Pasó de considerarse un área de poca relevancia a incorporar la creatividad como elemento clave",
+        "Pasó de ser impartida por especialistas a ser integrada en el currículo generalista",
+        "Pasó de centrarse en el patrimonio local a abarcar manifestaciones culturales internacionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tradicionalmente, la Educación Artística fue considerada un área de poca relevancia por la falta de recursos y formación pedagógica. Con el tiempo, esta visión cambió incorporando la creatividad como un elemento clave en la legislación educativa."
+    },
+    {
+      "question": "¿Qué tipo de lenguaje utilizan EPV y MD respectivamente?",
+      "options": [
+        "EPV utiliza el lenguaje corporal y MD el lenguaje audiovisual",
+        "EPV utiliza el lenguaje plástico y MD el lenguaje musical",
+        "EPV utiliza el lenguaje visual y MD el lenguaje escénico y performativo",
+        "EPV utiliza el lenguaje gráfico y MD el lenguaje rítmico-corporal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de Educación Artística engloba EPV centrada en el lenguaje plástico y MD centrada en el lenguaje musical, con el propósito de promover la percepción y la expresión estética."
+    },
+    {
+      "question": "¿Cuál de los siguientes criterios de evaluación pertenece al área de MD según el tema?",
+      "options": [
+        "El reconocimiento de propuestas artísticas plásticas a través de la recepción activa",
+        "El respeto en la creación e interpretación de propuestas audiovisuales con empatía",
+        "La expresión a través de manifestaciones artísticas plásticas experimentando lenguajes",
+        "El uso del lenguaje musical para interpretar propuestas vocales e instrumentales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El uso del lenguaje musical para interpretar propuestas musicales vocales e instrumentales es un criterio de evaluación específico del área de MD, no de EPV."
+    },
+    {
+      "question": "¿Cuál es el principal criterio de evaluación de EPV relacionado con la producción artística según el tema?",
+      "options": [
+        "La producción de obras a través del cuerpo, el sonido, la imagen o medios digitales",
+        "El uso del lenguaje musical para interpretar propuestas vocales e instrumentales",
+        "La expresión a través de manifestaciones artísticas plásticas experimentando diferentes lenguajes",
+        "La identificación y clasificación de elementos y lenguaje de la música"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un criterio de evaluación de EPV es la expresión a través de manifestaciones artísticas plásticas y visuales, experimentando diferentes lenguajes e instrumentos."
+    },
+    {
+      "question": "¿Qué criterio de evaluación de MD relacionado con las TIC se menciona en el tema?",
+      "options": [
+        "El uso de las TIC para buscar información sobre manifestaciones culturales y artísticas escénicas",
+        "El uso de aplicaciones como GarageBand para componer y diseñar obras musicales",
+        "La edición de vídeos y audios mediante herramientas digitales en proyectos artísticos",
+        "La búsqueda de partituras y recursos musicales mediante plataformas digitales educativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En MD se valora el uso de las TIC para buscar información sobre manifestaciones culturales y artísticas escénicas y performativas."
+    },
+    {
+      "question": "¿Qué proyecto de aprendizaje basado en proyectos se menciona como ejemplo en el tema?",
+      "options": [
+        "Crear instrumentos inventados con materiales reciclados para explorar el sonido",
+        "Diseñar un mapa emocional con colores, texturas, formas y sonidos",
+        "Pensar y desarrollar una forma de representar la historia de la localidad mediante arte, música o movimiento",
+        "Buscar soluciones artísticas para reducir el ruido en el centro escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El ejemplo de ABP es pensar y desarrollar una forma de representar la historia de la localidad mediante arte, música o movimiento, que culmina en un producto final."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos transversales del artículo 17 del Decreto 155/2022 NO se menciona explícitamente en el tema?",
+      "options": [
+        "La comprensión lectora y la expresión oral y escrita",
+        "La competencia digital y la comunicación audiovisual",
+        "La orientación profesional y el emprendimiento",
+        "La creatividad y el espíritu científico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tema menciona la comprensión lectora, expresión oral y escrita, CD, comunicación audiovisual, creatividad, espíritu científico, consumo responsable, desarrollo sostenible, educación para la salud, justicia, igualdad y democracia, pero no la orientación profesional."
+    },
+    {
+      "question": "¿Qué autor y obra se cita en el tema en relación con la educación artística en la escuela?",
+      "options": [
+        "Eisner (2003): The Arts and the Creation of Mind",
+        "Agra (2007): La educación artística en la escuela",
+        "Salido (2017): La Educación Artística en el contexto de las competencias clave",
+        "Elichiry y Regatky (2010): Aproximación a la educación artística en la escuela"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Agra (2007) publicó 'La educación artística en la escuela' (Barcelona: Grao), destacando la planificación de situaciones de aprendizaje y la organización de materiales y espacios."
+    },
+    {
+      "question": "¿En qué revista publicaron Elichiry y Regatky (2010) su trabajo sobre educación artística?",
+      "options": [
+        "Arte, Individuo y sociedad",
+        "National Council of Teachers of English",
+        "Anuario de investigadores",
+        "Cuadernos de Pedagogía"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Elichiry y Regatky (2010) publicaron 'Aproximación a la educación artística en la escuela' en el Anuario de investigadores, XVII, 129-134."
+    },
+    {
+      "question": "¿En qué revista publicó Eisner (2003) su trabajo sobre las artes y la mente?",
+      "options": [
+        "Arte, Individuo y sociedad",
+        "National Council of Teachers of English",
+        "Anuario de investigadores",
+        "Journal of Arts Education"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Eisner (2003) publicó 'The Arts and the Creation of Mind' en National Council of Teachers of English, volumen 80(5), páginas 340-344."
+    },
+    {
+      "question": "¿En qué revista y volumen publicó Salido (2017) su trabajo sobre Educación Artística y competencias clave?",
+      "options": [
+        "Anuario de investigadores, XVII",
+        "Arte, Individuo y sociedad, 29(2)",
+        "National Council of Teachers of English, 80(5)",
+        "Cuadernos de Pedagogía, 47(3)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Salido (2017) publicó en Arte, Individuo y sociedad, volumen 29(2), páginas 349-368, su trabajo sobre Educación Artística y competencias clave."
+    },
+    {
+      "question": "¿Cuál es la función de los elementos del entorno próximo mencionados (fotografía, cine, publicidad, vestuario, escultura) en la metodología artística?",
+      "options": [
+        "Son modelos de referencia que el alumnado debe imitar para desarrollar técnicas artísticas",
+        "Son medios del entorno que las TIC favorecen el acceso a ellos en la educación artística",
+        "Son recursos del patrimonio cultural que el alumnado visita en centros de interés",
+        "Son criterios de evaluación para valorar el nivel de análisis crítico del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las TIC favorecen el acceso a medios del entorno como la fotografía, el cine, la publicidad, el vestuario o la escultura, enriqueciendo el acceso y la creación artística."
+    },
+    {
+      "question": "¿Cuál de los siguientes objetivos del área de MD se centra en el descubrimiento de propuestas artísticas de diferentes culturas?",
+      "options": [
+        "OBJ2: Reconocer los elementos básicos del lenguaje musical",
+        "OBJ3: Investigar sobre manifestaciones culturales artísticas musicales",
+        "OBJ1: Descubrir propuestas artísticas musicales de diferentes géneros, estilos, épocas y culturas",
+        "OBJ5: Participar del diseño, elaboración y difusión de producciones artísticas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ1 de MD es: 'Descubrir propuestas artísticas musicales y dancísticas de diferentes géneros, estilos, épocas y culturas, desarrollando la curiosidad, la sensibilidad, el pensamiento crítico y el respeto por la diversidad'."
+    },
+    {
+      "question": "¿Qué documento recoge el nivel competencial esperado al completar la educación básica y es fuente de los descriptores operativos?",
+      "options": [
+        "El Anexo II del Decreto 155/2022",
+        "El perfil de salida del alumnado",
+        "Los criterios de evaluación de cada etapa",
+        "El Real Decreto 157/2022 de enseñanzas mínimas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El perfil de salida del alumnado define el nivel competencial esperado al completar la educación básica, y es de este perfil de donde se deducen los descriptores operativos."
+    },
+    {
+      "question": "¿Qué aspecto diferencia la contribución de EPV de la de MD a la Competencia STEM?",
+      "options": [
+        "EPV aporta conocimientos de geometría y medida; MD aporta compases, escalas y notaciones",
+        "EPV trabaja la estadística visual; MD trabaja la acústica y física del sonido",
+        "EPV desarrolla la tecnología digital; MD desarrolla las matemáticas del ritmo",
+        "EPV trabaja el pensamiento computacional; MD trabaja el análisis de frecuencias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "EPV requiere conocimientos geométricos y de medida presentes en arquitectura, escultura y pintura; MD contribuye a los conocimientos matemáticos mediante el uso de compases, escalas o notaciones musicales."
+    },
+    {
+      "question": "¿Qué menciona el tema sobre la observación y la escucha en el carácter socializador de las áreas artísticas?",
+      "options": [
+        "La observación y la escucha del entorno cercano ponen en valor lo local y accesible",
+        "La observación y la escucha son criterios de evaluación del bloque 1 de cada área",
+        "La observación y la escucha desarrollan la empatía y el pensamiento crítico intercultural",
+        "La observación y la escucha son los medios de expresión fundamentales del área de MD"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los contenidos integran la observación y la escucha del entorno cercano, poniendo en valor lo local y accesible, dentro del carácter socializador de las áreas artísticas."
+    },
+    {
+      "question": "¿Cuál de las siguientes técnicas artísticas NO se menciona en el tema como parte del trabajo de taller?",
+      "options": [
+        "Modelado",
+        "Puntillismo",
+        "Ensamblaje",
+        "Acuarela"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El tema menciona como técnicas del taller: modelado, puntillismo, ensamblaje y grabado. La acuarela no se menciona explícitamente entre las técnicas de taller."
+    },
+    {
+      "question": "¿Cuál de los siguientes materiales NO se menciona explícitamente en el tema como material del trabajo de taller en EPV?",
+      "options": [
+        "Arcillas",
+        "Collage",
+        "Pintura",
+        "Plastilina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El tema menciona como materiales del taller arcillas, collage y pintura. La plastilina no se menciona explícitamente en el trabajo de taller."
+    },
+    {
+      "question": "¿Qué distingue el aprendizaje basado en proyectos del aprendizaje basado en problemas en el tema?",
+      "options": [
+        "El ABP en proyectos parte del entorno próximo; el ABP en problemas parte de textos teóricos",
+        "El ABP en proyectos culmina en un producto final; el ABP en problemas busca soluciones a situaciones concretas",
+        "El ABP en proyectos es colectivo; el ABP en problemas es individual y reflexivo",
+        "El ABP en proyectos desarrolla el pensamiento convergente; el ABP en problemas el divergente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje basado en proyectos culmina en un producto final como respuesta a una cuestión del entorno. El aprendizaje basado en problemas busca soluciones para situaciones concretas (como reducir el ruido en el centro)."
+    },
+    {
+      "question": "¿Cuál es el fin de la Educación Primaria en Galicia según el artículo 4 del Decreto 155/2022 en relación con el desarrollo personal?",
+      "options": [
+        "Garantizar una formación integral que contribuya al pleno desarrollo de la personalidad del alumnado",
+        "Desarrollar las competencias clave para afrontar los retos globales y locales del siglo XXI",
+        "Promover la adquisición de los objetivos de desarrollo sostenible de la Agenda 2030",
+        "Favorecer la inclusión educativa y la atención a la diversidad del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 establece como fin dotar al alumnado de los aprendizajes de la creatividad y el sentido artístico a fin de garantizar una formación integral que contribuya al pleno desarrollo de su personalidad."
+    },
+    {
+      "question": "¿Qué posibilidades de la voz y el movimiento se exploran en el segundo ciclo de MD?",
+      "options": [
+        "La canción para combinar palabra y música y el baile para la desinhibición",
+        "Las posibilidades de la voz y el movimiento del cuerpo, potenciando el disfrute musical",
+        "La coordinación rítmica compleja con trabajo avanzado de danza y dramatización",
+        "El disfrute de la escucha de diferentes estilos y culturas y el análisis crítico musical"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo de MD se exploran las posibilidades de la voz y el movimiento del cuerpo, se potencia el disfrute musical mediante audiciones y la participación activa, y se introducen los códigos musicales convencionales."
+    },
+    {
+      "question": "¿Qué relación establece el tema entre Educación Artística y Matemáticas en relación con las formas y medidas?",
+      "options": [
+        "La experimentación con frecuencias sonoras y ondas musicales",
+        "La experimentación con formas, tamaños, perspectivas o medidas",
+        "El análisis de proporciones en la arquitectura histórica y contemporánea",
+        "El uso de la geometría fractal en la creación de obras de arte abstracto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Son contenidos comunes con Matemáticas lo relacionado con la experimentación con formas, tamaños, perspectivas o medidas, así como el tiempo como magnitud."
+    },
+    {
+      "question": "¿Qué herramienta didáctica permite al alumnado 'aprender a aprender' planificando, diseñando, proponiendo y tomando decisiones en la Educación Artística?",
+      "options": [
+        "Las visitas a museos y centros de interés artístico y cultural",
+        "Las metodologías activas que doten de sentido a las tareas artísticas",
+        "El trabajo de taller con materiales y técnicas específicas del área",
+        "Los proyectos de innovación educativa de la Xunta de Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las metodologías activas son las que permiten al alumnado aprender a aprender, planificando, diseñando, proponiendo y tomando decisiones. Agra (2007) insiste en diferenciar actividad de activismo."
+    },
+    {
+      "question": "¿Cuántos cursos comprende la Educación Primaria en los que EPV y MD tienen una sesión semanal cada una?",
+      "options": [
+        "Cuatro cursos (1º a 4º de EP)",
+        "Cinco cursos (1º a 5º de EP)",
+        "Seis cursos (1º a 6º de EP)",
+        "Tres cursos (4º a 6º de EP)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el Anexo III del Decreto 155/2022, EPV y MD tienen una sesión semanal en todos los cursos de la EP, que comprende seis cursos (de 1º a 6º)."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un ejemplo de metodología activa para la Educación Artística mencionado en el tema?",
+      "options": [
+        "Aprendizaje basado en proyectos",
+        "Aprendizaje creativo",
+        "Trabajo de taller",
+        "Aprendizaje memorístico y reproductivo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El aprendizaje memorístico y reproductivo no se menciona como metodología activa. El tema cita el aprendizaje creativo, el aprendizaje basado en proyectos, el aprendizaje basado en problemas, el trabajo de taller y el aprendizaje cooperativo."
+    },
+    {
+      "question": "¿Qué elemento artístico se enfatiza en el primer ciclo de MD como favorecedor de la desinhibición y expresión personal?",
+      "options": [
+        "Las audiciones musicales y la participación activa en grupo",
+        "Los códigos musicales convencionales y la lectura de partituras",
+        "El baile y el juego dramático",
+        "La coordinación rítmica compleja mediante la danza"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el primer ciclo de MD, el baile y el juego dramático ayudan a la desinhibición y expresión personal del alumnado."
+    },
+    {
+      "question": "¿Qué instrumentos son los más adecuados en el primer ciclo de MD y por qué?",
+      "options": [
+        "Los instrumentos de viento porque favorecen el desarrollo de la capacidad respiratoria",
+        "Los instrumentos de cuerda porque introducen los códigos musicales convencionales",
+        "Los instrumentos de percusión porque favorecen la exploración",
+        "Los instrumentos digitales porque facilitan el acceso a la tecnología musical"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los instrumentos de percusión son los más adecuados en el primer ciclo porque favorecen la exploración del sonido, además de ser apropiados para el nivel psicoevolutivo del alumnado."
+    },
+    {
+      "question": "¿Qué red de proyectos de la Xunta de Galicia introduce varias técnicas de arte en los centros educativos?",
+      "options": [
+        "Polos Creativos",
+        "Red Planea de Arte y Escuela",
+        "Programa LÓVA",
+        "Plan Proxecta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Red Planea de Arte y Escuela es el proyecto de la Xunta que introduce varias técnicas de arte en los centros educativos."
+    },
+    {
+      "question": "¿Cuáles son los tres tipos de objetivos que estructuran las áreas académicas según el tema?",
+      "options": [
+        "Objetivos generales, específicos y didácticos",
+        "Objetivos de desarrollo sostenible, de etapa y de área",
+        "Objetivos de etapa, de ciclo y de unidad didáctica",
+        "Objetivos competenciales, curriculares y evaluativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tema organiza los objetivos en tres tipos: objetivos de desarrollo sostenible (ODS), objetivos de etapa y objetivos de área."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre los objetivos de área es correcta?",
+      "options": [
+        "Son los logros que se espera que alcance el alumnado al finalizar la etapa educativa",
+        "Son el elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos",
+        "Son los referentes que indican los niveles de desempeño esperados en momentos determinados",
+        "Son los desempeños imprescindibles para que el alumnado progrese en su itinerario formativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos de área son el elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos, y se corresponden con las competencias específicas del RD 157/2022."
+    },
+    {
+      "question": "¿A qué conclusión artística y filosófica llega el tema en su sección de conclusión?",
+      "options": [
+        "La creatividad es el elemento clave que diferencia la educación artística de otras áreas del currículo",
+        "La expresión artística es inherente y natural al ser humano y su riqueza pedagógica debe aprovecharse",
+        "La interdisciplinariedad de la Educación Artística garantiza el desarrollo de todas las competencias clave",
+        "La evaluación de los procesos artísticos es tan importante como la evaluación de los productos finales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La conclusión del tema destaca que la expresión artística es inherente y natural al ser humano, y que su enorme riqueza pedagógica exige aprovecharla para fomentar la imaginación, la creatividad y la expresión."
+    },
+    {
+      "question": "¿Qué tipo de procesos genera la percepción y creación de obras artísticas según la conclusión del tema?",
+      "options": [
+        "Procesos de integración curricular y coordinación docente interdisciplinar",
+        "Procesos de transferencia a otros ámbitos intelectuales, sensoriales, motrices y sociales",
+        "Procesos de adquisición de las competencias clave del perfil de salida",
+        "Procesos de evaluación formativa y sumativa del desarrollo artístico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La percepción y creación de obras artísticas plásticas, visuales y sonoras favorece nuevas formas de sentir, pensar, actuar y relacionarse, generando procesos de transferencia a otros ámbitos intelectuales, sensoriales, motrices y sociales."
+    },
+    {
+      "question": "¿Cuál es la fecha de la LOMLOE?",
+      "options": [
+        "3 de mayo de 2006",
+        "29 de diciembre de 2020",
+        "15 de septiembre de 2022",
+        "1 de marzo de 2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE es la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006 de Educación."
+    },
+    {
+      "question": "¿Cuál es la fecha del Real Decreto 157/2022 que establece las enseñanzas mínimas de Educación Primaria?",
+      "options": [
+        "15 de septiembre de 2022",
+        "29 de diciembre de 2020",
+        "12 de febrero de 2010",
+        "1 de marzo de 2022"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Real Decreto 157/2022 tiene fecha de 1 de marzo de 2022 y establece la ordenación y las enseñanzas mínimas de la Educación Primaria."
+    },
+    {
+      "question": "¿Qué relación existe entre los criterios de evaluación del Decreto 155/2022 y el Anexo II?",
+      "options": [
+        "Los criterios de evaluación determinan el nivel de desempeño en cada bloque de contenido del Anexo II",
+        "Los criterios de evaluación sustituyen a los objetivos de área recogidos en el Anexo II",
+        "Los criterios de evaluación son el desarrollo detallado de los principios pedagógicos del Anexo II",
+        "Los criterios de evaluación se corresponden con los saberes básicos del Anexo II"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los criterios de evaluación describen lo que se quiere valorar y lo que el alumnado debe alcanzar en conocimientos y competencias en cada bloque de contenido del Anexo II del Decreto 155."
+    },
+    {
+      "question": "¿Cuántos objetivos tiene el área de MD en comparación con la de EPV según el Decreto 155/2022?",
+      "options": [
+        "MD tiene 4 objetivos, igual que EPV",
+        "MD tiene 3 objetivos, uno menos que EPV",
+        "MD tiene 5 objetivos, uno más que EPV",
+        "MD tiene 6 objetivos, dos más que EPV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de MD tiene 5 objetivos de área (recogidos en el epígrafe 10.2 del Anexo II), mientras que EPV tiene 4 objetivos (recogidos en el epígrafe 5.2). La diferencia es el OBJ2 de MD sobre el lenguaje musical."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO forma parte de los elementos que se deben explorar en el currículo artístico según el Decreto 155/2022?",
+      "options": [
+        "Distintos lenguajes, artes y disciplinas",
+        "Técnicas plásticas, visuales y audiovisuales",
+        "Fórmulas matemáticas y sistemas de medida artística",
+        "Técnicas sonoras y corporales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El currículo busca que el alumnado explore distintos lenguajes, artes y disciplinas, así como técnicas plásticas, visuales, audiovisuales, sonoras y corporales. Las fórmulas matemáticas no son contenido artístico específico."
+    },
+    {
+      "question": "¿Cuáles son las páginas del DOG en que se publicó el Decreto 155/2022?",
+      "options": [
+        "Páginas 24386 a 24504",
+        "Páginas 49595 a 50009",
+        "Páginas 36230 a 36270",
+        "Páginas 122868 a 122953"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 se publicó en el DOG número 183, de 26 de septiembre de 2022, en las páginas 49595 a 50009."
+    },
+    {
+      "question": "¿En qué número del BOE se publicó la LOMLOE (Ley Orgánica 3/2020)?",
+      "options": [
+        "BOE 52",
+        "BOE 62",
+        "BOE 183",
+        "BOE 340"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOMLOE se publicó en el Boletín Oficial del Estado número 340, de 30 de diciembre de 2020."
+    },
+    {
+      "question": "¿Cuál es el número del BOE en que se publicó el Real Decreto 132/2010?",
+      "options": [
+        "BOE 340",
+        "BOE 52",
+        "BOE 62",
+        "BOE 183"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Real Decreto 132/2010 se publicó en el Boletín Oficial del Estado número 62, de 12 de marzo de 2010."
+    },
+    {
+      "question": "¿Cuál de las siguientes habilidades NO se menciona en el tema como desarrollada por la Educación Artística?",
+      "options": [
+        "Memoria a corto y largo plazo",
+        "Resolución de problemas",
+        "Pensamiento computacional",
+        "Autonomía e iniciativa personal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tema menciona atención, percepción, inteligencia, memoria, imaginación, creatividad, autonomía, iniciativa, exploración, creación, resolución de problemas, motricidad, socialización, cooperación y comunicación. El pensamiento computacional no se cita."
+    },
+    {
+      "question": "¿Qué elemento del currículo artístico es el que conecta los conocimientos previos del alumnado con las nuevas experiencias según Piaget y Vygotsky?",
+      "options": [
+        "Los criterios de evaluación y los descriptores operativos del perfil de salida",
+        "Las situaciones de aprendizaje basadas en el nivel psicoevolutivo y la Zona de Desarrollo Próximo",
+        "Las metodologías activas y los proyectos interdisciplinares de innovación",
+        "Los contenidos del Anexo II y los objetivos de área del Decreto 155/2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es fundamental partir del nivel del desarrollo psicoevolutivo del alumnado y su Zona de Desarrollo Próximo (Piaget y Vygotsky), con situaciones que permitan unir los conocimientos previos con las nuevas experiencias."
+    },
+    {
+      "question": "¿Qué tipo de lenguaje no verbal menciona el tema como común entre las áreas de Lenguas y la Educación Artística?",
+      "options": [
+        "El grafismo en escritura y gesto gráfico (EPV) y el movimiento y la postura (MD)",
+        "El lenguaje corporal y la expresión facial en la dramatización artística",
+        "La comunicación audiovisual y el uso de imágenes como texto alternativo",
+        "La señal sonora y el ritmo como formas de comunicación no verbal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las áreas de Lenguas comparten con la Educación Artística el desarrollo del grafismo en escritura y gesto gráfico en EPV, y el movimiento y la postura en MD, como parte del lenguaje no verbal."
+    },
+    {
+      "question": "¿En qué consiste el Plan Proxecta de la Xunta de Galicia en relación con la Educación Artística?",
+      "options": [
+        "Es un programa de formación docente en técnicas artísticas contemporáneas",
+        "Es un plan que incluye iniciativas como Cinema en Curso y Fotografía en Curso",
+        "Es una red de centros de interés artístico con visitas programadas a museos",
+        "Es un proyecto de dotación de recursos artísticos digitales para los centros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Plan Proxecta de la Xunta de Galicia incluye, dentro del ámbito artístico, iniciativas como Cinema en Curso y Fotografía en Curso."
+    },
+    {
+      "question": "¿Qué aspecto de la Educación Artística facilita el acceso al patrimonio cultural y su valoración?",
+      "options": [
+        "La perspectiva de género incorporando la contribución de las mujeres a las artes",
+        "El carácter interdisciplinar que conecta la Educación Artística con otras áreas",
+        "La percepción y creación de obras artísticas que permiten entender y respetar el patrimonio",
+        "El uso de las TIC para la búsqueda de información sobre manifestaciones culturales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La percepción y creación de obras artísticas es un saber fundamental para entender y respetar el patrimonio cultural, ofreciendo una nueva mirada del mundo a través de sonidos, colores, formas y texturas."
+    },
+    {
+      "question": "¿A qué artículo del Decreto 155/2022 corresponde la definición de los principios pedagógicos que sustentan las propuestas metodológicas?",
+      "options": [
+        "Artículo 6",
+        "Artículo 7",
+        "Artículo 16",
+        "Artículo 17"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 16 del Decreto 155/2022 recoge los principios pedagógicos que sirven de base para las propuestas metodológicas generales de EPV y MD, citados junto con las aportaciones de Agra y Elichiry y Regatky."
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre el OBJ1 de EPV y el OBJ1 de MD?",
+      "options": [
+        "EPV se centra en géneros y estilos; MD se centra en épocas y culturas",
+        "EPV menciona propuestas artísticas plásticas y visuales; MD menciona propuestas musicales y dancísticas",
+        "EPV desarrolla la sensibilidad; MD desarrolla el pensamiento crítico",
+        "EPV trabaja la creatividad; MD trabaja el respeto a la diversidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La diferencia entre los OBJ1 es el tipo de propuestas artísticas: EPV se refiere a propuestas artísticas 'plásticas y visuales', mientras que MD se refiere a propuestas 'musicales y dancísticas'. El resto de la formulación es prácticamente idéntica."
+    },
+    {
+      "question": "¿Qué afirma el artículo 16 del Decreto 155/2022 sobre la relación entre las CC y las áreas?",
+      "options": [
+        "Cada área tiene asignadas competencias clave específicas de forma exclusiva",
+        "Las actividades deben favorecer el desarrollo simultáneo de más de una CC sin conexión exclusiva con una área",
+        "Las CC se trabajan de forma secuencial según la progresión de los ciclos educativos",
+        "Las CC se distribuyen entre las áreas según la carga horaria semanal de cada una"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16 indica que las actividades deben favorecer el desarrollo simultáneo de más de una de las ocho CC, pues no puede establecerse una conexión exclusiva con una única área."
+    },
+    {
+      "question": "¿Qué ODS de la Agenda 2030 está relacionado con la 'Igualdad de Género' que desarrolla la Educación Artística?",
+      "options": [
+        "ODS 4",
+        "ODS 5",
+        "ODS 8",
+        "ODS 12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ODS 5 corresponde a 'Igualdad de Género'. La Educación Artística lo desarrolla al incorporar la perspectiva de género y la contribución de las mujeres a las artes."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un elemento que caracteriza el carácter global e integrador de la Educación Artística según el tema?",
+      "options": [
+        "La creatividad recogida en los artículos 4, 16 y 17 del Decreto 155/2022",
+        "La conexión con el resto de áreas facilitando un modelo metodológico interdisciplinar",
+        "La distribución igualitaria de la carga horaria con otras áreas curriculares",
+        "La posibilidad de agrupar EPV y MD en el ámbito de Educación Artística"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La distribución igualitaria de la carga horaria no es mencionada como elemento del carácter global e integrador. Lo que caracteriza a la EA como área integrada es la creatividad en múltiples artículos, la interdisciplinariedad y la posibilidad de agrupación en ámbito."
+    },
+    {
+      "question": "¿Cómo define el tema el concepto de 'área integrada' en relación con EPV y MD?",
+      "options": [
+        "Como un área única que fusiona completamente EPV y MD eliminando sus especificidades",
+        "Como el ámbito resultante de agrupar EPV y MD que los centros pueden crear en el uso de su autonomía",
+        "Como la coordinación obligatoria entre los docentes de EPV y MD en todos los centros",
+        "Como el enfoque interdisciplinar que conecta EPV y MD con otras áreas del currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de Educación Artística como área integrada es el ámbito resultante de agrupar EPV y MD, que los centros pueden crear en el uso de su autonomía según el artículo 12 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué contribución específica hace el OBJ4 de MD al desarrollo de la Competencia Emprendedora?",
+      "options": [
+        "Investigar sobre manifestaciones culturales asumiendo roles en el proceso creativo",
+        "Reconocer los elementos musicales para planificar y diseñar producciones artísticas",
+        "Participar del diseño, elaboración y difusión de producciones artísticas asumiendo roles",
+        "Descubrir propuestas artísticas de diferentes géneros para desarrollar la curiosidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ4 de MD (participar en el diseño, elaboración y difusión de producciones artísticas asumiendo roles) contribuye a la Competencia Emprendedora al exigir planificar, explorar y elegir recursos con autonomía."
+    },
+    {
+      "question": "¿Cuál de los siguientes artículos del Decreto 155/2022 define los objetivos de etapa como 'los logros que se espera que alcance el alumnado al finalizar la etapa'?",
+      "options": [
+        "Artículo 4",
+        "Artículo 7",
+        "Artículo 6",
+        "Artículo 16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de etapa se definen en el artículo 6 del Decreto 155/2022 como 'los logros que se espera que alcance el alumnado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las CC'. El artículo 7 los recoge (lista los 15 objetivos)."
+    },
+    {
+      "question": "¿Cuál es la característica metodológica que según Agra (2007) permite al alumnado desarrollar creatividad, imaginación y sensibilidad artística?",
+      "options": [
+        "La integración de las TIC en la búsqueda de información y la creación artística",
+        "La planificación de situaciones de aprendizaje o proyectos que fomenten el pensamiento divergente",
+        "La organización adecuada de materiales y espacios en el aula de Educación Artística",
+        "Las visitas a centros de interés como museos y teatros de la comunidad local"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Agra (2007) resalta la necesidad de planificar situaciones de aprendizaje o proyectos que fomenten un pensamiento divergente favorecedor de la creatividad, la imaginación y la sensibilidad artística."
+    },
+    {
+      "question": "¿Qué competencia clave se desarrolla específicamente al trabajar el vocabulario artístico específico y las habilidades de descripción y argumentación?",
+      "options": [
+        "Competencia en Conciencia y Expresiones Culturales (CCEC)",
+        "Competencia Personal, Social y Aprender a Aprender (CPSAA)",
+        "Competencia en Comunicación Lingüística (CCL)",
+        "Competencia Plurilingüe (CP)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las áreas artísticas enriquecen la Competencia en Comunicación Lingüística (CCL) a través del aumento de vocabulario específico, la mejora de la comunicación, y las habilidades discursivas como la descripción y la argumentación."
+    },
+    {
+      "question": "¿Cuántas páginas abarca la publicación del Decreto 155/2022 en el DOG?",
+      "options": [
+        "88 páginas (de la 36230 a la 36270 aprox.)",
+        "415 páginas (de la 49595 a la 50009 aprox.)",
+        "119 páginas (de la 24386 a la 24504 aprox.)",
+        "86 páginas (de la 122868 a la 122953 aprox.)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 se publicó en el DOG en las páginas 49595 a 50009, lo que supone aproximadamente 415 páginas, reflejando la extensión del currículo de EP en Galicia."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos NO figura entre las habilidades discursivas que la Educación Artística desarrolla para la CCL?",
+      "options": [
+        "El tono y la respiración",
+        "La descripción y las argumentaciones",
+        "El lenguaje no verbal",
+        "La comprensión de textos literarios"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El tema menciona que las áreas artísticas mejoran las habilidades discursivas mediante el tono, la respiración, la descripción, las argumentaciones y el lenguaje no verbal. La comprensión de textos literarios no se cita en este contexto."
+    },
+    {
+      "question": "¿Cuál es la principal aportación de la CCEC que distingue a las áreas artísticas de otras áreas del currículo?",
+      "options": [
+        "El conocimiento de las TIC y su aplicación en la producción artística digital",
+        "La percepción visual y auditiva, el conocimiento del patrimonio y la expresión creativa mediante lenguaje plástico y musical",
+        "El desarrollo de la ciudadanía activa y el respeto a la diversidad cultural",
+        "La comprensión y valoración de los textos literarios relacionados con el arte"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCEC es la principal aportación de las áreas artísticas: favorecen la percepción visual y auditiva, el conocimiento del patrimonio cultural y la expresión creativa mediante el lenguaje plástico y musical."
+    },
+    {
+      "question": "¿Qué aspecto del OBJ3 de EPV lo diferencia del OBJ4 de MD?",
+      "options": [
+        "OBJ3 de EPV menciona 'la imagen'; OBJ4 de MD menciona 'el cuerpo'",
+        "OBJ3 de EPV menciona 'el diseño'; OBJ4 de MD menciona 'la elaboración'",
+        "OBJ3 de EPV incluye 'la difusión'; OBJ4 de MD incluye 'la difusión y la autoría'",
+        "OBJ3 de EPV se centra en 'la creatividad'; OBJ4 de MD en 'el proceso'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ3 de EPV menciona experimentar 'con el sonido, la imagen y los medios digitales', mientras que el OBJ4 de MD menciona 'el sonido, el cuerpo y los medios digitales'. La diferencia clave es 'la imagen' (EPV) vs. 'el cuerpo' (MD)."
+    },
+    {
+      "question": "¿Cuántos bloques tiene el área de EPV y cómo se denominan los bloques 1 y 2?",
+      "options": [
+        "3 bloques: percepción, creación y audiovisual",
+        "4 bloques: bloque 1 'Educación Plástica y Visual-percepción', bloque 2 'Educación Musical-creación'",
+        "4 bloques: bloque 1 'Educación Plástica y Visual-percepción', bloque 2 'Educación Plástica y Visual-creación'",
+        "5 bloques: plástico, musical, audiovisual, escénico y digital"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las áreas tienen 4 bloques. El bloque 1 corresponde a 'Educación Plástica y Visual' (percepción y análisis) y el bloque 2 a 'Educación Plástica y Visual' (creación e interpretación). Los bloques 3 y 4 son Audiovisual y Artes Escénicas."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el bloque 1 y el bloque 2 en la estructura de contenidos de las áreas artísticas?",
+      "options": [
+        "El bloque 1 es de EPV y el bloque 2 es de MD, ambos sobre contenidos de la misma disciplina",
+        "El bloque 1 se centra en la percepción y análisis, mientras el bloque 2 se centra en la creación e interpretación",
+        "El bloque 1 es audiovisual y el bloque 2 es de artes escénicas y performativas",
+        "El bloque 1 trabaja contenidos de primer ciclo y el bloque 2 de segundo ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El bloque 1 (Educación Plástica y Visual) se centra en la percepción y análisis, mientras que el bloque 2 (Educación Musical) se centra en la creación e interpretación. Ambos pertenecen a la misma área artística pero con distinta orientación."
+    },
+    {
+      "question": "¿Cómo se denomina el bloque 2 de contenidos de las áreas artísticas en el Decreto 155/2022?",
+      "options": [
+        "'Educación Plástica y Visual-creación e interpretación'",
+        "'Educación Audiovisual-percepción y análisis'",
+        "'Educación Musical-creación e interpretación'",
+        "'Artes Escénicas y Performativas-creación e interpretación'"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El bloque 2 corresponde a la 'Educación Musical' y se centra en la creación e interpretación. El bloque 1 es 'Educación Plástica y Visual' (percepción), el 3 es 'Audiovisual' (percepción) y el 4 es 'Artes Escénicas' (creación)."
+    },
+    {
+      "question": "¿Cuál de las siguientes competencias clave NO se menciona explícitamente en el tema como desarrollada por las áreas artísticas?",
+      "options": [
+        "Competencia en Conciencia y Expresiones Culturales (CCEC)",
+        "Competencia Matemática y en Ciencia, Tecnología e Ingeniería (STEM)",
+        "Competencia Emprendedora (CE)",
+        "Competencia Lectora (CL)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El tema menciona CCEC, CE, CC, CPSAA, STEM, CD, CCL y CP como competencias desarrolladas por las áreas artísticas. La 'Competencia Lectora' no aparece como competencia clave autónoma en el marco de la LOMLOE."
+    },
+    {
+      "question": "¿Cuál es la importancia del DUA (Diseño Universal para el Aprendizaje) en la Educación Artística?",
+      "options": [
+        "Garantiza la accesibilidad a los recursos digitales para el alumnado con discapacidad",
+        "Permite atender los diferentes ritmos, estilos, motivaciones y necesidades del alumnado",
+        "Establece criterios de evaluación adaptados a las necesidades educativas del alumnado",
+        "Facilita la inclusión del alumnado extranjero mediante el uso de materiales multilingües"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El DUA permite usar distintos métodos que atienden los diferentes ritmos, estilos, motivaciones y necesidades del alumnado, siendo fundamental para garantizar la accesibilidad al aprendizaje artístico."
+    },
+    {
+      "question": "¿Qué contribución hace el área de EPV a la CD (Competencia Digital)?",
+      "options": [
+        "El uso de software de notación musical y edición de partituras",
+        "La búsqueda de información, imágenes o vídeos sobre arte y la composición y diseño digital",
+        "La programación informática mediante herramientas de pensamiento computacional",
+        "El uso seguro de redes sociales para difundir producciones artísticas escolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las áreas artísticas contribuyen a la CD al integrar tecnologías para buscar información, imágenes o vídeos sobre arte y música, o para componer y diseñar, desde un uso seguro y responsable."
+    },
+    {
+      "question": "¿Qué relación señala el tema entre la conclusión del proceso artístico y los objetivos curriculares?",
+      "options": [
+        "La intervención debe abordarse desde un enfoque global orientado a las CC, ODS y criterios de evaluación",
+        "La evaluación de los productos artísticos garantiza el logro de los objetivos de etapa",
+        "La creatividad como fin, principio y elemento transversal asegura el desarrollo integral",
+        "Los proyectos artísticos deben culminar en producciones que demuestren el dominio de las CC"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión establece que la intervención debe abordarse desde un enfoque global, integrador e interdisciplinar, dirigido a las CC, al logro de los objetivos (de etapa y área) y a los ODS, tomando como referencia los contenidos y criterios de evaluación."
+    },
+    {
+      "question": "¿Qué impacto tiene la Educación Artística en la forma en que los niños perciben la realidad según el tema?",
+      "options": [
+        "Desarrolla la capacidad analítica y el pensamiento crítico sobre el entorno social",
+        "Ofrece una nueva mirada del mundo permitiendo percibir sonidos, colores, formas y texturas",
+        "Favorece la comprensión de los fenómenos naturales a través de la representación artística",
+        "Refuerza la memoria sensorial y la capacidad de concentración en el aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La educación artística ofrece una nueva mirada del mundo, permitiendo percibir sonidos, colores, formas o texturas, a la vez que es un saber fundamental para entender y respetar el patrimonio cultural."
+    },
+    {
+      "question": "¿Cuál de los siguientes artículos legislativos contiene la definición de los objetivos de área?",
+      "options": [
+        "Artículo 7 del Decreto 155/2022",
+        "Artículo 4 del Decreto 155/2022",
+        "Artículo 6 del Decreto 155/2022",
+        "Artículo 16 del Decreto 155/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 6 del Decreto 155/2022 contiene las definiciones de todos los elementos curriculares: currículo, CC, objetivos de etapa, objetivos de área, contenidos, métodos pedagógicos y criterios de evaluación."
+    },
+    {
+      "question": "¿Qué aspecto específico se trabaja en el tercer ciclo de EPV que no se trabaja en los ciclos anteriores?",
+      "options": [
+        "La psicomotricidad fina mediante técnicas variadas con materiales divergentes",
+        "La fotografía y las variaciones del color incorporando efectos de luz y contrastes",
+        "El trabajo tridimensional con maquetas y la percepción de texturas y volúmenes",
+        "El esquematismo y el dibujo de ideas con formas básicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el tercer ciclo de EPV se intensifica el trabajo con volúmenes y se introduce la fotografía y las variaciones del color incorporando efectos de luz y contrastes, lo cual es específico de este ciclo."
+    },
+    {
+      "question": "¿Qué especifica el artículo 16 del Decreto 155/2022 sobre el número de competencias que deben desarrollar las actividades simultáneamente?",
+      "options": [
+        "Las actividades deben favorecer el desarrollo de las ocho CC de forma secuencial",
+        "Las actividades deben favorecer el desarrollo de al menos cuatro CC de forma simultánea",
+        "Las actividades deben favorecer el desarrollo simultáneo de más de una CC",
+        "Las actividades deben favorecer el desarrollo de todas las CC vinculadas al área"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 16 especifica que las actividades deben favorecer el desarrollo simultáneo de más de una de las ocho CC, sin que pueda establecerse una conexión exclusiva con una única área."
+    },
+    {
+      "question": "¿Cuál de los objetivos de MD hace referencia explícita al aprendizaje de la danza?",
+      "options": [
+        "OBJ1: Descubrir propuestas artísticas musicales y dancísticas de diferentes géneros y culturas",
+        "OBJ2: Reconocer los elementos básicos del lenguaje musical a través de la percepción",
+        "OBJ3: Investigar sobre manifestaciones culturales artísticas musicales y dancísticas",
+        "OBJ4: Expresar ideas y emociones experimentando con el sonido, el cuerpo y los medios digitales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ1 de MD hace referencia explícita a las propuestas artísticas 'musicales y dancísticas', siendo el único objetivo que incluye tanto la música como la danza en su formulación."
+    },
+    {
+      "question": "¿Qué señala el tema sobre la percepción y el análisis en los bloques impares (1 y 3) de las áreas artísticas?",
+      "options": [
+        "Promueven la expresión creativa mediante el uso de códigos y materiales artísticos",
+        "Favorecen el desarrollo de capacidades de percepción, reconocimiento y observación sensorial",
+        "Integran la educación audiovisual y las artes escénicas en un enfoque performativo",
+        "Desarrollan los criterios de evaluación del Anexo II del Decreto 155/2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El primer y tercer bloque favorecen el desarrollo de capacidades de percepción, reconocimiento y observación sensorial, esenciales para analizar y comprender las distintas manifestaciones culturales y artísticas del entorno."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los objetivos de área y los objetivos de etapa según el artículo 6?",
+      "options": [
+        "Los de etapa se logran al finalizar la EP; los de área son los desempeños por bloque de contenidos",
+        "Los de etapa son los logros al finalizar la etapa vinculados a CC; los de área son los desempeños en actividades del área",
+        "Los de etapa son nacionales; los de área son autonómicos y específicos de cada materia",
+        "Los de etapa evalúan el perfil de salida; los de área evalúan los criterios de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos de etapa son 'los logros que se espera que alcance el alumnado al finalizar la etapa vinculados a las CC', mientras que los objetivos de área son 'los desempeños que el alumnado debe poder desplegar en actividades cuyo abordaje requiere los aprendizajes del área'."
+    },
+    {
+      "question": "¿Qué desarrollo psicoevolutivo corresponde al alumnado del primer ciclo de EP en EPV, según el tema?",
+      "options": [
+        "El pensamiento abstracto y la representación simbólica compleja de la realidad",
+        "La observación detallada del entorno y la percepción tridimensional",
+        "El esquematismo: dibujar ideas con formas básicas como círculos o líneas",
+        "La lectura crítica de imágenes y el análisis de la publicidad visual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el primer ciclo, el alumnado inicia el esquematismo, caracterizado por dibujar ideas con formas básicas como círculos o líneas, lo que refleja el nivel de desarrollo psicoevolutivo de esta etapa."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre la relación entre Educación Artística y Educación Física es incorrecta según el tema?",
+      "options": [
+        "La danza es contenido del bloque 4 de EF complementario de la expresión corporal",
+        "La conciencia espacial y la psicomotricidad trabajadas en EF son necesarias para el dibujo",
+        "Las actividades de resistencia y fuerza de EF se relacionan con el control del gesto artístico",
+        "El tiempo como duración y ritmo es un contenido común entre EA y EF"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tema no menciona las actividades de resistencia y fuerza de EF como relacionadas con la Educación Artística. Sí menciona la danza, la conciencia espacial, la psicomotricidad y el tiempo/ritmo como elementos comunes."
+    },
+    {
+      "question": "¿Cuál es la denominación exacta del área resultante de la agrupación de EPV y MD según el artículo 12 del Decreto 155/2022?",
+      "options": [
+        "Área de Artes y Expresión",
+        "Área de Educación Artística",
+        "Área de Cultura y Patrimonio",
+        "Área de Expresión Artística y Cultural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el artículo 12 del Decreto 155/2022 y el artículo 4 de la Orden de 26 de mayo de 2023, el área resultante de agrupar EPV y MD se denomina 'Educación Artística'."
+    },
+    {
+      "question": "¿Cuáles son las páginas del DOG donde se publicó la Orden de 26 de mayo de 2023?",
+      "options": [
+        "Páginas 49595 a 50009",
+        "Páginas 24386 a 24504",
+        "Páginas 36230 a 36270",
+        "Páginas 122868 a 122953"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Orden de 26 de mayo de 2023 se publicó en el DOG número 111, de 13 de junio de 2023, en las páginas 36230 a 36270."
+    },
+    {
+      "question": "¿Cuál de los siguientes proyectos de la Xunta de Galicia tiene por objeto acercar el patrimonio artístico mediante técnicas específicas de arte contemporáneo?",
+      "options": [
+        "Polos Creativos",
+        "Programa LÓVA",
+        "Red Planea de Arte y Escuela",
+        "Plan Proxecta - Cinema en Curso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Red Planea de Arte y Escuela introduce varias técnicas de arte en los centros educativos, acercando el patrimonio artístico al alumnado."
+    },
+    {
+      "question": "¿Cuál es la expresión que utiliza el tema para describir la misión de la Educación Artística en relación con el patrimonio?",
+      "options": [
+        "Conservar y transmitir el patrimonio cultural a las nuevas generaciones",
+        "Valorar y disfrutar de todas las manifestaciones artísticas fomentando el interés por la creación",
+        "Integrar el patrimonio local y global en el currículo de forma transversal",
+        "Analizar críticamente las manifestaciones artísticas del entorno cercano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CCEC enseña a valorar y disfrutar de todas las manifestaciones artísticas fomentando el interés por la creación empleando la imaginación y creatividad."
+    },
+    {
+      "question": "¿Qué número de bloques de contenido integran conocimientos, actitudes y destrezas en las áreas artísticas?",
+      "options": [
+        "2 bloques: percepción y creación",
+        "3 bloques: plástico, musical y audiovisual",
+        "4 bloques relacionados entre sí",
+        "5 bloques: plástico, musical, audiovisual, escénico y digital"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EPV y la MD se organizan en 4 bloques de contenido relacionados entre sí y desarrollados en el Anexo II del Decreto 155/2022, integrando conocimientos, actitudes y destrezas."
+    },
+    {
+      "question": "¿Cuál es la aportación específica del OBJ1 de EPV al desarrollo de actitudes según su formulación?",
+      "options": [
+        "Investigar sobre manifestaciones culturales disfrutando su valor y sensibilidad artística",
+        "Descubrir propuestas artísticas desarrollando la curiosidad, la sensibilidad, el pensamiento crítico y el respeto",
+        "Expresar ideas y emociones creativamente experimentando con el sonido y la imagen",
+        "Participar en producciones artísticas valorando el proceso y la autoría"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ1 de EPV es: 'Descubrir propuestas artísticas plásticas y visuales de diferentes géneros, estilos, épocas y culturas desarrollando la curiosidad, la sensibilidad, el pensamiento crítico y el respeto por la diversidad'."
+    },
+    {
+      "question": "¿Cuál es el papel de la Red Planea en el contexto de los proyectos artísticos de la Xunta de Galicia?",
+      "options": [
+        "Desarrollar proyectos de innovación Art-lab en centros de educación primaria",
+        "Introducir varias técnicas de arte en los centros educativos",
+        "Impulsar la experimentación y la creatividad a través de polos de innovación",
+        "Facilitar la realización de obras operísticas con el alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Red Planea de Arte y Escuela es el proyecto de la Xunta de Galicia que introduce varias técnicas de arte en los centros educativos."
+    },
+    {
+      "question": "¿Cuántos artículos del Decreto 155/2022 menciona el tema en relación con la creatividad?",
+      "options": [
+        "Dos artículos: el artículo 4 y el artículo 16",
+        "Tres artículos: el artículo 4, el artículo 16 y el artículo 17",
+        "Cuatro artículos: el artículo 4, 9, 16 y 17",
+        "Tres artículos: el artículo 6, el artículo 12 y el artículo 16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tema menciona la creatividad en tres artículos del Decreto 155/2022: el artículo 4 (fin de la EP), el artículo 16 (principio pedagógico) y el artículo 17 (elemento transversal)."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos conecta los objetivos de área de EPV con el Real Decreto 157/2022?",
+      "options": [
+        "Los saberes básicos del RD 157/2022 se corresponden con los objetivos de área",
+        "Los criterios de evaluación del RD 157/2022 se corresponden con los objetivos de área",
+        "Las competencias específicas del RD 157/2022 se corresponden con los objetivos de área",
+        "Los descriptores operativos del RD 157/2022 se corresponden con los objetivos de área"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de área del Decreto 155/2022 se corresponden con las competencias específicas establecidas en el Real Decreto 157/2022 de enseñanzas mínimas."
+    },
+    {
+      "question": "¿Cuál es la fecha del Decreto 79/2010 que regula el plurilingüismo en Galicia?",
+      "options": [
+        "15 de septiembre de 2010",
+        "12 de febrero de 2010",
+        "20 de mayo de 2010",
+        "26 de septiembre de 2010"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 79/2010 es de 20 de mayo de 2010, por el que se regula el plurilingüismo en la enseñanza no universitaria de Galicia."
+    },
+    {
+      "question": "¿Qué indica el tema sobre la perspectiva desde la que se trabajan los contenidos artísticos en relación con las aportaciones históricas?",
+      "options": [
+        "Desde una perspectiva cronológica que abarca desde el arte clásico hasta el contemporáneo",
+        "Desde una perspectiva de género, incorporando y normalizando la contribución de las mujeres",
+        "Desde una perspectiva intercultural que integra manifestaciones artísticas internacionales",
+        "Desde una perspectiva crítica que analiza el valor comercial y patrimonial del arte"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los contenidos deben tratarse bajo la perspectiva de género, incorporando y normalizando la contribución de las mujeres a la evolución de las artes plásticas, visuales y sonoras."
+    }
+  ]
+}

@@ -1,0 +1,2098 @@
+{
+  "title": "Tema 15: Intervención educativa en la reflexión sobre el lenguaje y lectoescritura",
+  "description": "Preguntas de nivel avanzado sobre la intervención educativa en la reflexión sistemática sobre el lenguaje en Educación Primaria, el contexto comunicativo, los textos y la adquisición de la lectura y la escritura.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según Monfort y Juárez (1991), ¿cuáles son los tres factores que intervienen en el uso del lenguaje?",
+      "options": [
+        "Factores biológicos, cognitivos y sociales",
+        "Factores lingüísticos, extralingüísticos y paralingüísticos",
+        "Factores fonológicos, morfológicos y sintácticos",
+        "Factores genéticos, ambientales y culturales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Monfort y Juárez (1991) distinguen tres factores en el uso del lenguaje: los biológicos (relacionados con los órganos del cuerpo), los cognitivos (vinculados a las capacidades intelectuales) y los sociales (asociados al entorno socioeconómico, familiar y escolar). Los otros grupos de factores pertenecen a otros marcos teóricos."
+    },
+    {
+      "question": "¿Qué postura defiende Chomsky en su teoría innatista respecto a la adquisición del lenguaje?",
+      "options": [
+        "Da importancia a los factores biológicos y a la inteligencia y creatividad del individuo más que al aprendizaje y la imitación",
+        "Sostiene que el pensamiento se desarrolla antes que el lenguaje y que depende de él",
+        "Resalta el papel social del lenguaje como herramienta que influye en el pensamiento",
+        "Defiende que el lenguaje se adquiere principalmente a través de la imitación de los adultos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chomsky, en su teoría innatista, da importancia a los factores biológicos y a la inteligencia y creatividad del individuo, más que al aprendizaje y la imitación. La opción b corresponde a Piaget (teoría constructivista), la c a Vygotsky (teoría comunicativa) y la d a las teorías conductistas."
+    },
+    {
+      "question": "Según el texto, ¿qué teoría defiende Piaget sobre la relación entre lenguaje y pensamiento?",
+      "options": [
+        "Que el pensamiento se desarrolla antes que el lenguaje y que depende de él, contribuyendo al desarrollo cognitivo",
+        "Que el lenguaje se desarrolla antes que el pensamiento y lo condiciona",
+        "Que lenguaje y pensamiento se desarrollan de manera completamente independiente",
+        "Que el lenguaje y el pensamiento emergen simultáneamente como resultado de la interacción social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Piaget, desde la teoría constructivista, sostiene que el pensamiento se desarrolla antes que el lenguaje y que depende de él, contribuyendo al desarrollo cognitivo. Vygotsky, en cambio, resalta el papel social del lenguaje como herramienta que influye en el pensamiento."
+    },
+    {
+      "question": "Entre los 8 y los 12 años, ¿cuál es la base piagetiana que sustenta el desarrollo del lenguaje según el texto?",
+      "options": [
+        "La etapa de operaciones concretas, donde el pensamiento evoluciona de lo concreto a operaciones mentales más complejas",
+        "La etapa sensoriomotora, donde el niño construye esquemas mediante la acción directa",
+        "La etapa preoperacional, donde predomina el pensamiento simbólico e intuitivo",
+        "La etapa de operaciones formales, donde se desarrolla el pensamiento abstracto hipotético"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que entre los 8 y 12 años, tomando como base la etapa de operaciones concretas de Piaget, el pensamiento evoluciona de lo concreto a operaciones mentales más complejas, mejorando la sintaxis y la gramática. Las otras etapas corresponden a rangos de edad distintos."
+    },
+    {
+      "question": "¿Qué habilidades lingüísticas adquieren los niños hacia los 12 años según el texto?",
+      "options": [
+        "Organizan y planifican en silencio, leen sin verbalizar, adquieren la voz pasiva y aprenden a cambiar de registro lingüístico",
+        "Aprenden a leer y escribir por primera vez e inician la reflexión en voz alta",
+        "Desarrollan exclusivamente la comprensión lectora y el vocabulario específico",
+        "Mejoran la comunicación oral y enriquecen el vocabulario mediante el juego"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hacia los 12 años, los niños comienzan a organizar y planificar en silencio, leen y piensan sin verbalizar, adquieren la voz pasiva, aprenden a cambiar de registro lingüístico según el contexto, desarrollan el conocimiento metalingüístico y usan recursos expresivos. Estas habilidades son propias de esta franja de edad."
+    },
+    {
+      "question": "¿Cuáles son los tipos de contexto comunicativo que distingue el texto?",
+      "options": [
+        "Lingüístico, situacional, físico y cultural",
+        "Formal, informal, institucional y personal",
+        "Oral, escrito, gestual y audiovisual",
+        "Intrapersonal, interpersonal, grupal y masivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que el contexto comunicativo puede ser lingüístico, situacional, físico o cultural. Las otras clasificaciones pertenecen a distintos modelos de análisis de la comunicación pero no son las categorías que aparecen en el texto."
+    },
+    {
+      "question": "Según el texto, ¿qué función cumple la retroalimentación en el proceso comunicativo?",
+      "options": [
+        "Asegura la interacción y continuidad del intercambio comunicativo, reflejando la reacción del receptor",
+        "Establece el código lingüístico común entre emisor y receptor",
+        "Filtra las interferencias o barreras que distorsionan el mensaje",
+        "Define el canal por el que se transmite la información"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La retroalimentación asegura la interacción y continuidad del intercambio comunicativo, reflejando la reacción del receptor, positiva o negativa. El código es el conjunto de reglas propias de cada sistema de signos, el canal es el medio de transmisión, y las interferencias son perturbaciones de la señal."
+    },
+    {
+      "question": "Según Cassany et al. (1994) siguiendo a Bernárdez (1982), ¿cómo se define el texto?",
+      "options": [
+        "Conjunto de signos orales o escritos producto de la actividad verbal humana que conforman una unidad de sentido y discurso produciéndose en cualquier contexto comunicativo",
+        "Secuencia de oraciones gramaticalmente correctas que transmiten una información coherente",
+        "Cualquier mensaje lingüístico producido en una situación formal de comunicación escrita",
+        "Unidad mínima de comunicación que puede ser oral o escrita con intención expresiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany et al. (1994), siguiendo a Bernárdez (1982), definen el texto como un conjunto de signos orales o escritos producto de la actividad verbal humana que conforman una unidad de sentido y discurso, produciéndose en cualquier contexto comunicativo. Las otras definiciones son incompletas o incorrectas."
+    },
+    {
+      "question": "¿Cuántas propiedades del texto destaca Cassany et al. (1994) y cuáles son?",
+      "options": [
+        "Seis: adecuación, coherencia, cohesión, presentación, estilismo y puntuación",
+        "Cuatro: coherencia, cohesión, adecuación y corrección gramatical",
+        "Cinco: adecuación, coherencia, cohesión, corrección y estilismo",
+        "Seis: adecuación, coherencia, cohesión, presentación, estilismo e intencionalidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany et al. (1994) destacan seis propiedades del texto: adecuación, coherencia, cohesión, presentación, estilismo y, dentro de la cohesión, la puntuación como elemento esencial. La puntuación se incluye dentro de la propiedad de cohesión, no como propiedad independiente."
+    },
+    {
+      "question": "¿Qué propiedad textual hace referencia a la capacidad para escoger entre distintas posibilidades la que más se ajuste a la situación comunicativa, finalidad o receptor?",
+      "options": [
+        "La adecuación",
+        "La coherencia",
+        "La cohesión",
+        "El estilismo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La adecuación es la capacidad para escoger entre distintas posibilidades aquella que más se ajuste a la situación comunicativa, finalidad o receptor. La coherencia se refiere a la estructuración lógica de la información, la cohesión al uso adecuado de gramática y conectores, y el estilismo a la capacidad expresiva del texto."
+    },
+    {
+      "question": "¿Qué propiedad del texto incluye el dominio del léxico y recursos retóricos para dar riqueza, variedad y precisión a los textos?",
+      "options": [
+        "El estilismo",
+        "La adecuación",
+        "La cohesión",
+        "La coherencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El estilismo alude a la capacidad expresiva del texto a través del dominio del léxico y recursos retóricos que den una mayor riqueza, variedad y precisión a los textos. Se puede trabajar mediante ampliación de vocabulario, sinónimos y antónimos, o creación de poesías y canciones."
+    },
+    {
+      "question": "¿Cuántos ámbitos de uso del lenguaje distinguen Cassany, Luna y Sanz (1994)?",
+      "options": [
+        "Siete ámbitos: personal, familiar o de amistades, académico, laboral, social, gregario y literario",
+        "Cinco ámbitos: personal, académico, profesional, social y literario",
+        "Seis ámbitos: personal, familiar, escolar, laboral, público y artístico",
+        "Cuatro ámbitos: íntimo, social, formal e institucional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany, Luna y Sanz (1994) destacan siete ámbitos de uso: personal, familiar o de amistades, académico, laboral, social, gregario y literario. Cada uno tiene características propias de formalidad, destinatario y tipología textual."
+    },
+    {
+      "question": "¿Cuál es la característica que diferencia el ámbito gregario del ámbito social según Cassany et al.?",
+      "options": [
+        "El ámbito gregario usa lenguaje especializado propio de entes públicas, mientras el social se desarrolla ante audiencias numerosas y heterogéneas con textos públicos",
+        "El ámbito gregario es exclusivamente oral, mientras el social es principalmente escrito",
+        "El ámbito gregario pertenece a contextos informales, mientras el social es siempre formal",
+        "El ámbito gregario está vinculado al ocio, mientras el social a la participación ciudadana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ámbito gregario hace referencia a textos con lenguaje especializado propio de entes públicas, mientras que el ámbito social se desarrolla ante audiencias numerosas y heterogéneas con textos públicos como artículos de revista o debates. El ámbito literario, no el gregario, se vincula al ocio."
+    },
+    {
+      "question": "¿Cuál es el propósito fundamental de los textos académicos según el texto?",
+      "options": [
+        "Demostrar los conocimientos del alumnado",
+        "Fomentar la creatividad y la expresión personal del alumnado",
+        "Desarrollar la comprensión de textos de la vida cotidiana",
+        "Facilitar la comunicación entre iguales en el entorno escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El propósito de los textos académicos es demostrar los conocimientos del alumnado. Su contenido proviene de otros textos como manuales o exposiciones del profesor, se producen fuera de contexto siendo abstractos y alejados de los alumnos, y su destinatario habitual es el docente."
+    },
+    {
+      "question": "¿Qué tres características deben cumplir los textos seleccionados para trabajar con el alumnado según el texto?",
+      "options": [
+        "Motivar al alumnado, ser variados en temática y tipología, y ser completos y auténticos de la vida real",
+        "Ser breves, estar adaptados al nivel lector y pertenecer al ámbito académico",
+        "Tener estructura clara, vocabulario sencillo y temática curricular",
+        "Ser graduados en dificultad, ser accesibles digitalmente y estar validados por expertos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textos seleccionados para trabajar con el alumnado deben tratar temas que los motiven, ser variados en temática y tipología, y ser completos y auténticos de la vida real (no solo creados para el aula). Estas tres características garantizan una selección textual rica y significativa."
+    },
+    {
+      "question": "Al iniciar el trabajo con un tipo de texto, ¿qué secuencia metodológica propone el texto?",
+      "options": [
+        "Primero actividades de comprensión y después de producción, visualizando un modelo de texto",
+        "Primero actividades de producción libre y después de análisis y corrección",
+        "Primero actividades individuales y después colaborativas, partiendo del texto completo",
+        "Primero actividades orales y después escritas, comenzando por los textos más simples"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al iniciar el trabajo con un tipo de texto se deben realizar primero actividades de comprensión y después de producción, de forma que se visualice un modelo de texto. En las primeras edades de lectoescritura estas actividades deben encaminarse a completar, transformar o inventar partes de un texto modelo."
+    },
+    {
+      "question": "Según Prado (2004) y Teresa Neira, ¿cómo se define la escritura?",
+      "options": [
+        "Un proceso mecánico mediante el cual se aprende a representar las palabras con claridad para que puedan ser leídas y comprendidas por otras personas con el mismo código lingüístico",
+        "Un proceso activo con el cual reproducimos a través de palabras la forma y contenido de un mensaje escrito con signos gráficos",
+        "Una habilidad comunicativa que integra el pensamiento, la motricidad fina y la conciencia fonológica",
+        "Un proceso creativo mediante el cual el alumnado expresa sus ideas, emociones y conocimientos de forma autónoma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prado (2004) y Teresa Neira definen la escritura como un proceso mecánico mediante el cual se aprende a representar las palabras con claridad para que puedan ser leídas y comprendidas por otras personas con el mismo código lingüístico. La definición del proceso activo de reproducción corresponde a la lectura."
+    },
+    {
+      "question": "¿A qué edad aproximada alcanzan los niños la madurez para abordar con éxito el proceso lectoescritor?",
+      "options": [
+        "Entre los 5 y 6 años, gracias a su capacidad de simbolización, dominio del lenguaje oral, psicomotricidad y equilibrio emocional",
+        "Entre los 4 y 5 años, cuando el pensamiento simbólico ya está consolidado",
+        "Entre los 6 y 7 años, una vez que el sistema nervioso central ha madurado suficientemente",
+        "Entre los 7 y 8 años, al inicio de la etapa de operaciones concretas según Piaget"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los 5 y 6 años los niños alcanzan cierta madurez para abordar con éxito el proceso lectoescritor, gracias a su capacidad de simbolización, dominio del lenguaje oral, desarrollo de la psicomotricidad fina y gruesa, la percepción y el equilibrio emocional."
+    },
+    {
+      "question": "¿Qué mecanismos influyen en la adquisición de la lectoescritura según el texto?",
+      "options": [
+        "Mecanismos neurolingüísticos, psicolingüísticos y sociolingüísticos",
+        "Mecanismos cognitivos, afectivos y motores",
+        "Mecanismos perceptivos, lingüísticos y metacognitivos",
+        "Mecanismos fonológicos, semánticos y pragmáticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la adquisición de la lectoescritura influyen mecanismos neurolingüísticos (procesos perceptivos que almacenan información a corto plazo), psicolingüísticos o cognitivos (descifran la realidad y establecen relaciones sintácticas y semánticas) y sociolingüísticos (influencia de la interacción social y cultural)."
+    },
+    {
+      "question": "¿Qué teóricos están asociados a los mecanismos sociolingüísticos en la adquisición de la lectoescritura?",
+      "options": [
+        "Nemirovsky, Teberosky y Teresa Neira, que destacan la naturaleza social de la lengua",
+        "Piaget y Emilia Ferreiro, que defienden la construcción activa del conocimiento",
+        "Chomsky y Lenneberg, que defienden la base biológica del lenguaje",
+        "Vygotsky y Bruner, que enfatizan el rol del adulto mediador"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Relacionado con los mecanismos sociolingüísticos, el texto menciona a Nemirovsky, Teberosky y Teresa Neira, quienes destacan la naturaleza social de la lengua y cómo la interacción social, cultural y el contexto influyen en su adquisición. Piaget y Emilia Ferreiro se asocian a los mecanismos psicolingüísticos."
+    },
+    {
+      "question": "¿Cuántas fases para el aprendizaje de la lectura propuso Uta Frith (1985) y cómo se llaman?",
+      "options": [
+        "Tres fases: logográfica, alfabética y ortográfica",
+        "Cuatro fases: presilábica, silábica, silábico-alfabética y alfabética",
+        "Tres fases: global, analítica y sintética",
+        "Dos fases: decodificación y comprensión lectora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Uta Frith (1985) propuso tres fases para el aprendizaje de la lectura: la logográfica (2-5 años), la alfabética (5-6 años) y la ortográfica (7-8 años). Las cuatro fases presilábica, silábica, etc., corresponden al modelo de Ferreiro y Teberosky para la escritura."
+    },
+    {
+      "question": "¿Qué caracteriza la fase logográfica de la lectura según Uta Frith?",
+      "options": [
+        "El niño de entre 2-5 años se interesa por el mundo escrito y reconoce globalmente palabras familiares como el propio nombre",
+        "El niño desarrolla la ruta fonológica y domina los procesos decodificadores mejorando la eficacia lectora",
+        "Los procesos decodificadores están automatizados y se logra una lectura fluida",
+        "El niño distingue las letras por su forma pero no puede decodificar fonológicamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase logográfica, el niño de entre 2-5 años se interesa por el mundo escrito, reconociendo globalmente palabras familiares como el propio nombre. Son importantes los juegos, logotipos, nombres de dibujos animados o cuentos conocidos. La fase b corresponde a la fase alfabética y la c a la ortográfica."
+    },
+    {
+      "question": "¿Qué dificultades pueden aparecer en la fase alfabética de la lectura?",
+      "options": [
+        "Dificultades de automatización que ocasionan una lectura lenta, silabeante, con errores de exactitud y problemas de comprensión",
+        "Dificultades de discriminación visual que impiden reconocer las letras del alfabeto",
+        "Dificultades de memoria a corto plazo que impiden retener las palabras leídas",
+        "Dificultades de conciencia fonémica que bloquean la asociación entre fonemas y grafemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase alfabética (5-6 años), aunque el niño desarrolla la ruta fonológica, pueden aparecer dificultades de automatización que ocasionan una lectura lenta, silabeante, con errores de exactitud y problemas de comprensión. Estas dificultades son características de esta transición."
+    },
+    {
+      "question": "¿Qué ocurre en la fase ortográfica de la lectura según Uta Frith?",
+      "options": [
+        "Los procesos decodificadores están automatizados, se reconocen palabras con mayor rapidez y se logra una lectura fluida consolidando un léxico interno",
+        "El niño comienza a aplicar las reglas ortográficas básicas para escribir correctamente",
+        "El niño desarrolla por primera vez la conciencia fonológica y la segmentación silábica",
+        "Los procesos de comprensión lectora se desarrollan por encima de los de decodificación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase ortográfica (sobre los 7-8 años), los procesos decodificadores están automatizados, se reconocen palabras con mayor rapidez y se logra una lectura fluida, consolidando un léxico interno al leer los vocablos repetidamente. Esta automatización libera recursos cognitivos para la comprensión."
+    },
+    {
+      "question": "Según Ferreiro y Teberosky (1979), ¿cuáles son las tres fases de adquisición de la escritura?",
+      "options": [
+        "Grafismos primitivos y pseudoletras, escritura silábica y escritura alfabética",
+        "Presilábica, silábica y silábico-alfabética",
+        "Garabato, escritura no convencional y escritura convencional",
+        "Pictográfica, ideográfica y fonográfica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ferreiro y Teberosky (1979) señalan tres fases: la de grafismos primitivos y pseudoletras (escritura inicial sin relación sonido-escritura), la escritura silábica (el niño descubre la relación entre lengua oral y escrita) y la escritura alfabética (correspondencia exacta entre letra y fonema)."
+    },
+    {
+      "question": "¿Qué caracteriza la fase de escritura silábica según Ferreiro y Teberosky?",
+      "options": [
+        "El niño descubre la relación que existe entre la lengua oral y la escrita, asociando sonidos con grafías",
+        "Existe una correspondencia exacta entre letra y fonema, aunque con errores ortográficos",
+        "No existe relación entre sonido y escritura, aunque comienzan a identificarse algunas letras",
+        "El niño utiliza grafías convencionales para representar textos completos sin segmentación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de escritura silábica, el niño descubre la relación que existe entre la lengua oral y la escrita, asociando sonidos con grafías. La fase a) sin relación sonido-escritura corresponde a la de grafismos primitivos, y la b) de correspondencia exacta letra-fonema corresponde a la escritura alfabética."
+    },
+    {
+      "question": "¿Cuáles son los tres métodos para la enseñanza de la lectoescritura que destaca Cassany et al. (1994)?",
+      "options": [
+        "Métodos sintéticos, métodos analíticos o globales y métodos mixtos",
+        "Método fonético, método global y método comunicativo",
+        "Método alfabético, método silábico y método global natural",
+        "Método deductivo, método inductivo y método constructivista"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany et al. (1994) distingue tres métodos: los sintéticos (parten de unidades mínimas), los analíticos o globales (parten del texto completo) y los mixtos (combinan los anteriores). Los métodos alfabético, fonético y silábico son subdivisiones de los métodos sintéticos."
+    },
+    {
+      "question": "¿Cuáles son las tres subdivisiones de los métodos sintéticos para la enseñanza de la lectoescritura?",
+      "options": [
+        "El método alfabético, el método fónico o fonético y el método silábico",
+        "El método global, el método natural y el método ecológico",
+        "El método deductivo, el método inductivo y el método analítico",
+        "El método auditivo, el método visual y el método cinestésico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los métodos sintéticos se dividen en: el alfabético (comienza por el nombre de la letra), el fónico o fonético (enseña la pronunciación del fonema) y el silábico (parte del aprendizaje de sílabas directas e inversas). Los métodos global, natural y ecológico pertenecen a los métodos analíticos."
+    },
+    {
+      "question": "¿Qué diferencia existe entre el método alfabético y el método fónico en los métodos sintéticos?",
+      "options": [
+        "El alfabético comienza por el nombre de la letra, mientras el fónico enseña la pronunciación del fonema",
+        "El alfabético parte de palabras completas, mientras el fónico parte de sílabas",
+        "El alfabético se centra en la escritura, mientras el fónico se centra en la lectura",
+        "El alfabético utiliza material impreso, mientras el fónico se basa en recursos auditivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La diferencia clave es que el método alfabético comienza por el aprendizaje del nombre de la letra (be, ce, de...), mientras que el método fónico enseña la pronunciación de la letra, es decir, el fonema (b, k, d...), primero vocales y después consonantes."
+    },
+    {
+      "question": "Según Piaget y Decroly, ¿cuál es la crítica a los métodos sintéticos de lectoescritura?",
+      "options": [
+        "Parten de contenidos abstractos y poco significativos para el niño, generando un aprendizaje mecánico y poco motivador",
+        "Descuidan la percepción auditiva y limitan el descubrimiento personal y la comunicación oral",
+        "Son demasiado lentos en el proceso de decodificación y dificultan la comprensión lectora",
+        "Dependen en exceso del contexto familiar y no pueden generalizarse a todos los entornos escolares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Piaget y Decroly critican los métodos sintéticos porque parten de contenidos abstractos y poco significativos para el niño, generando un aprendizaje mecánico y poco motivador. La crítica de descuidar la percepción auditiva corresponde a los métodos analíticos o globales."
+    },
+    {
+      "question": "¿Cuál es el principal enfoque del método global de Decroly?",
+      "options": [
+        "La percepción visual de los signos y la integración de la lectura y la escritura en todas las actividades escolares",
+        "La descomposición fonética de las palabras partiendo del sonido de cada letra",
+        "La memorización de sílabas directas e inversas para combinarlas en palabras",
+        "La producción de textos colectivos a partir de actividades orales previas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El método global de Decroly se enfoca en la percepción visual de los signos y la integración de la lectura y la escritura en todas las actividades escolares. La producción de textos colectivos a partir de actividades orales corresponde al método global natural de Freinet."
+    },
+    {
+      "question": "¿Cuál es la ventaja principal de los métodos analíticos o globales según el texto?",
+      "options": [
+        "Respetan cómo piensa el niño psicológicamente, dando significado a la lectoescritura mediante la participación activa",
+        "Garantizan una adquisición sólida de los mecanismos de decodificación fonológica",
+        "Permiten un progreso más rápido en la escritura convencional con normas ortográficas",
+        "Facilitan la intervención del docente al seguir una secuencia estructurada y progresiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La ventaja de los métodos analíticos o globales es que respetan cómo piensa el niño psicológicamente, dando significado a la lectoescritura mediante la participación activa. Sin embargo, su inconveniente es que descuidan la percepción auditiva y limitan el descubrimiento personal."
+    },
+    {
+      "question": "¿Cuál es el inconveniente señalado de los métodos analíticos o globales?",
+      "options": [
+        "Descuidan la percepción auditiva y limitan el descubrimiento personal y la comunicación oral, al ser textos mayoritariamente elegidos por el profesor",
+        "Generan un aprendizaje mecánico y poco motivador al partir de unidades abstractas",
+        "Son poco adecuados para niños con dificultades visuales o problemas de discriminación gráfica",
+        "No se adaptan bien a los diferentes ritmos de aprendizaje del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El inconveniente de los métodos analíticos o globales es que descuidan la percepción auditiva y limitan el descubrimiento personal y la comunicación oral, al ser los textos mayoritariamente elegidos por el profesor. El aprendizaje mecánico es la crítica a los métodos sintéticos."
+    },
+    {
+      "question": "¿En qué consisten los métodos mixtos de lectoescritura?",
+      "options": [
+        "Son la unión de los métodos sintéticos y analíticos, partiendo de una concepción global y enseñando simultáneamente el sonido de letras y sílabas",
+        "Combinan la enseñanza oral y escrita de manera paralela desde el inicio del proceso",
+        "Alternan el trabajo individual con el trabajo colectivo en la enseñanza de la lectoescritura",
+        "Integran el uso de las TIC con los métodos tradicionales de enseñanza de la lectoescritura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los métodos mixtos son la unión de los métodos sintéticos y analíticos para aprovechar sus ventajas. Parten de una concepción global poniendo al alumnado en contacto con textos completos, enseñando simultáneamente el sonido de las letras y sílabas."
+    },
+    {
+      "question": "¿A qué objetivo de área del Decreto 155/2022 se relaciona la intervención en la lectura según el texto?",
+      "options": [
+        "Objetivo de área 4: comprender textos escritos y multimodales, identificando el sentido general e información implícita, para construir conocimiento y responder a necesidades comunicativas",
+        "Objetivo de área 5: producir textos escritos y multimodales gramaticalmente correctos, aplicando estrategias de planificación, textualización, redacción y revisión",
+        "Objetivo de área 3: conocer el funcionamiento del sistema lingüístico para comprender y producir textos en distintas situaciones",
+        "Objetivo de área 6: valorar la lengua como medio de comunicación e instrumento de aprendizaje y enriquecimiento personal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La intervención en la lectura se relaciona con el objetivo de área 4 del Anexo II del Decreto 155/2022: comprender textos escritos y multimodales, identificando el sentido general y la información implícita, reflexionando sobre aspectos formales y de contenido. El objetivo 5 corresponde a la escritura."
+    },
+    {
+      "question": "¿Qué actividades caracterizan el desarrollo de la competencia lectora en el primer ciclo de Educación Primaria?",
+      "options": [
+        "Actividades motivadoras para localizar, entender e integrar información relevante, realizar inferencias, integrar elementos no verbales y practicar la lectura silenciosa y en voz alta con apoyo visual",
+        "Actividades de lectura crítica y autónoma, valorando textos variados y captando dobles sentidos o ironías",
+        "Actividades para identificar elementos textuales y no textuales como tipografías y subrayados, comprendiendo textos de distintos ámbitos",
+        "Actividades de análisis morfosintáctico de textos y comprensión de vocabulario específico de distintas áreas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo de EP, el desarrollo de la competencia lectora se inicia con actividades motivadoras que enseñan a localizar, entender e integrar información relevante, realizar inferencias, integrar elementos no verbales, y practicar la lectura silenciosa y en voz alta con apoyo visual. La opción b corresponde al tercer ciclo y la c al segundo."
+    },
+    {
+      "question": "¿Cuáles son las tres partes del proceso estructurado de enseñanza de la escritura según el texto?",
+      "options": [
+        "Planificación, redacción y revisión",
+        "Motivación, producción y evaluación",
+        "Planificación, textualización y publicación",
+        "Exploración, elaboración y presentación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La enseñanza de la escritura es un proceso estructurado en tres partes: planificación (clarificar el objetivo, reflexionar sobre el destinatario y organizar ideas), redacción (producir el texto cuidando coherencia, cohesión y normas) y revisión (mejorar el texto, detectar incoherencias y reformular)."
+    },
+    {
+      "question": "¿Qué se realiza en la fase de planificación del proceso de escritura?",
+      "options": [
+        "Se clarifica el objetivo comunicativo, se reflexiona sobre el destinatario y se organizan y estructuran las ideas con esquemas o notas",
+        "Se produce el texto en palabras cuidando la coherencia, la cohesión y las normas gráficas y sintácticas",
+        "Se mejora el texto, se detectan incoherencias y se reformulan aspectos de contenido y forma",
+        "Se seleccionan los materiales de apoyo y se define el destinatario y el canal de comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la planificación se clarifica el objetivo comunicativo, se reflexiona sobre el destinatario y se organizan y estructuran las ideas con esquemas o notas. La producción del texto corresponde a la redacción, y la mejora del texto a la revisión."
+    },
+    {
+      "question": "¿Cuánto tiempo de lectura diaria demanda la Resolución del 16 de octubre de 2025 y los principios pedagógicos del Decreto 155/2022 para cada centro escolar?",
+      "options": [
+        "Entre 20 y 30 minutos diarios de lectura",
+        "Entre 15 y 20 minutos diarios de lectura",
+        "Entre 30 y 45 minutos diarios de lectura",
+        "Entre 25 y 35 minutos diarios de lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Resolución del 16 de octubre de 2025 y los principios pedagógicos del artículo 16 del Decreto 155/2022 demandan entre 20 y 30 minutos de tiempo diario de lectura para cada centro escolar. Este tiempo debe integrarse transversalmente en todas las áreas."
+    },
+    {
+      "question": "¿Cuál es el objetivo del Plan de Lectura, Escritura y Acceso a la Información (PLEA)?",
+      "options": [
+        "Fomentar la lectura, la escritura y las habilidades en el uso, tratamiento y producción de la información, en apoyo de la adquisición de las competencias clave",
+        "Promover la actualización de recursos y espacios de las bibliotecas para el acceso igualitario a la cultura",
+        "Fortalecer la presencia y organización de las bibliotecas escolares como fuente de recursos inclusivos",
+        "Impulsar el préstamo de libros electrónicos y recursos educativos en las bibliotecas escolares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PLEA tiene como objetivo fomentar la lectura, la escritura y las habilidades en el uso, el tratamiento y la producción de la información, en apoyo de la adquisición de las competencias clave. Está regulado en la Resolución del 16 de octubre de 2025 y en el artículo 12 de la Orden de 26 de mayo."
+    },
+    {
+      "question": "¿Dónde está recogido el Plan de Lectura, Escritura y Acceso a la Información (PLEA) dentro del Decreto 155/2022?",
+      "options": [
+        "En el artículo 33 del Decreto 155/2022, entre los planes obligatorios relacionados con la lectura",
+        "En el artículo 16 del Decreto 155/2022, dentro de los principios pedagógicos de la etapa",
+        "En el Anexo II del Decreto 155/2022, como parte de los objetivos de área de LCL",
+        "En el artículo 7 del Decreto 155/2022, como objetivo de etapa relacionado con la lengua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PLEA está recogido en el artículo 33 del Decreto 155/2022, entre los planes obligatorios relacionados con la lectura de los centros docentes. El artículo 16 recoge los principios pedagógicos y el artículo 7 los objetivos de etapa."
+    },
+    {
+      "question": "¿En qué artículo de la Orden de 26 de mayo se regula el Plan de Biblioteca?",
+      "options": [
+        "En el artículo 13 de la Orden de 26 de mayo",
+        "En el artículo 12 de la Orden de 26 de mayo",
+        "En el artículo 33 de la Orden de 26 de mayo",
+        "En el artículo 16 de la Orden de 26 de mayo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan de Biblioteca está recogido en el artículo 13 de la Orden de 26 de mayo. El artículo 12 de la misma Orden regula el PLEA (Plan de Lectura, Escritura y Acceso a la Información)."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del Plan de Lectura, Información y Aprendizaje (LIA) de la Xunta de Galicia?",
+      "options": [
+        "Fortalecer la presencia y organización de las bibliotecas escolares como fuente de recursos y espacios inclusivos y formativos para el desarrollo del currículo y las competencias ALFIN y AMI",
+        "Promover la actualización de recursos y espacios de las bibliotecas para el acceso igualitario a la cultura y la alfabetización múltiple",
+        "Facilitar el préstamo de libros electrónicos y recursos educativos ampliando la oferta de las bibliotecas escolares gallegas",
+        "Mejorar la competencia lingüística del alumnado con dificultades de aprendizaje en contextos desfavorecidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA está orientado a fortalecer la presencia y organización de las bibliotecas escolares como fuente de recursos y espacios inclusivos y formativos para el desarrollo del currículo y las competencias ALFIN y AMI. El PLAMBE se centra en la actualización de recursos y la BEGA LBE-2 en el préstamo electrónico."
+    },
+    {
+      "question": "¿Cuál es el propósito del Plan de Mejora de las Bibliotecas Escolares de Galicia (PLAMBE)?",
+      "options": [
+        "Promover la actualización de recursos y espacios de las bibliotecas para el acceso igualitario a la cultura, la lectura, la escritura y la alfabetización múltiple",
+        "Fortalecer las bibliotecas escolares como espacios inclusivos para el desarrollo de las competencias ALFIN y AMI",
+        "Facilitar el préstamo de libros electrónicos y recursos educativos en las bibliotecas escolares gallegas",
+        "Fomentar la competencia lectora mediante programas de innovación educativa en los centros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PLAMBE promueve la actualización de recursos y espacios de las bibliotecas para el acceso igualitario a la cultura, la lectura, la escritura y la alfabetización múltiple. El Plan LIA se centra en fortalecer las bibliotecas como espacios inclusivos y la BEGA LBE-2 en el préstamo electrónico."
+    },
+    {
+      "question": "¿Qué programas pueden desarrollar los centros participantes en el PLAMBE?",
+      "options": [
+        "Clubs de Lectura, Radio na Biblio, Biblioteca Creativa, Lectura e Familia y Bibliotecas Escolares Solidarias",
+        "Innova-Lab, PROA+ y Plan Proxecta con Fitofaladoiro y Nos Tamén Creamos",
+        "Leo-lab, Pasapalabra Digital y Lecturas en Familia",
+        "BEGA LBE-2, Clubs de Lectura Digitales y Feria del Libro Escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los centros participantes en el PLAMBE pueden participar en programas como Clubs de Lectura, Radio na Biblio, Biblioteca Creativa, Lectura e Familia y Bibliotecas Escolares Solidarias. Innova-Lab y PROA+ son otros programas educativos distintos al PLAMBE."
+    },
+    {
+      "question": "¿Qué es la plataforma BEGA LBE-2 y cuál es su función?",
+      "options": [
+        "Facilita el préstamo de libros electrónicos y recursos educativos, ampliando la oferta de las bibliotecas escolares gallegas y fomentando la competencia lectora",
+        "Es una red social educativa para que los alumnos compartan sus lecturas y reseñas literarias",
+        "Proporciona acceso a bases de datos bibliográficas para el profesorado en formación permanente",
+        "Gestiona el catálogo colectivo de las bibliotecas escolares gallegas y coordina los préstamos interbibliotecarios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La plataforma BEGA LBE-2 facilita el préstamo de libros electrónicos y recursos educativos, ampliando la oferta de las bibliotecas escolares gallegas y fomentando la competencia lectora. No es una red social educativa ni gestiona préstamos interbibliotecarios."
+    },
+    {
+      "question": "¿Cuál es el objetivo de etapa vinculado al uso de la lengua que recoge el artículo 7 del Decreto 155/2022?",
+      "options": [
+        "El objetivo 'e': conocer y utilizar de manera adecuada la lengua castellana y la lengua gallega, y desarrollar hábitos de lectura",
+        "El objetivo 'd': conocer los elementos básicos de la cultura gallega y su relación con las culturas del mundo",
+        "El objetivo 'f': adquirir en lengua castellana y gallega las habilidades básicas de comunicación oral y escrita",
+        "El objetivo 'g': iniciarse en el uso de las tecnologías de la información y la comunicación para aprender"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 7 del Decreto 155/2022 recoge el objetivo de etapa 'e': conocer y utilizar de manera adecuada la lengua castellana y la lengua gallega y desarrollar hábitos de lectura. Este objetivo se relaciona directamente con los contenidos del Tema 15."
+    },
+    {
+      "question": "¿Qué norma regula el plurilingüismo en la enseñanza no universitaria de Galicia?",
+      "options": [
+        "El Decreto 79/2010, de 20 de mayo, para el plurilingüismo en la enseñanza no universitaria de Galicia",
+        "El Decreto 155/2022, de 15 de septiembre, por el que se establece el currículo de EP en Galicia",
+        "La LOMLOE (Ley Orgánica 3/2020, de 29 de diciembre)",
+        "La Orden de 26 de mayo de 2023 que desarrolla el Decreto 155/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estructuración de las lenguas en el centro escolar se planificará en atención a lo establecido en el Decreto 79/2010, de 20 de mayo, para el plurilingüismo en la enseñanza no universitaria de Galicia. El Decreto 155/2022 regula la ordenación y el currículo de EP en Galicia."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la EP recogida en el artículo 4 del Decreto 155/2022 en relación con la lengua?",
+      "options": [
+        "Facilitar al alumnado los aprendizajes de la expresión y comprensión oral, la lectura y la escritura, garantizando una formación integral y preparándolo para la ESO",
+        "Asegurar que el alumnado alcance un nivel equivalente en castellano y gallego para acceder al mercado laboral",
+        "Desarrollar en el alumnado las competencias comunicativas necesarias para participar en una sociedad multicultural",
+        "Promover el uso de las lenguas cooficiales en todos los ámbitos de la vida cotidiana del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 del Decreto 155/2022 recoge que la finalidad de la EP es, entre otros, facilitar al alumnado los aprendizajes de la expresión y de la comprensión oral, la lectura y la escritura, a fin de garantizar una formación integral y prepararlo para cursar con aprovechamiento la ESO."
+    },
+    {
+      "question": "¿Cuál es el carácter del área de Lengua Castellana y Literatura (LCL) según Prado (2004)?",
+      "options": [
+        "Carácter instrumental, al proporcionar habilidades lingüísticas para hablar, escuchar, leer, escribir y comprender",
+        "Carácter formativo, al desarrollar el pensamiento crítico y la capacidad de análisis textual",
+        "Carácter comunicativo, al favorecer la interacción social en diferentes contextos",
+        "Carácter transversal, al integrarse en todas las áreas del currículo de Educación Primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prado (2004) destaca que el área de LCL tiene carácter instrumental, ya que proporciona las habilidades lingüísticas para hablar, escuchar, leer, escribir y comprender. Este carácter instrumental implica que el LCL es la base para el aprendizaje en todas las demás áreas."
+    },
+    {
+      "question": "¿Qué principios generales deben seguir las actividades de reflexión lingüística según el texto?",
+      "options": [
+        "Partir de la lengua más familiar, tener un objetivo claro, promover la experimentación y reflexión sobre formas lingüísticas, enfocarse en modificaciones de textos y usar terminología común y funcional",
+        "Partir de los contenidos del currículo, ser graduadas en dificultad, fomentar la memorización de reglas y emplear terminología lingüística precisa",
+        "Ser individuales, partir de textos académicos, centrarse en el análisis gramatical y emplear términos técnicos como lexema y morfema",
+        "Partir de textos literarios canónicos, promover la deducción de reglas gramaticales y priorizar la corrección ortográfica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades de reflexión lingüística deben partir de la lengua más familiar, tener un objetivo claro, promover la experimentación y reflexión sobre formas lingüísticas, enfocarse en modificaciones de textos para observar cambios de significado, y usar terminología común y funcional, evitando sobrecargar con términos complejos como lexema o semantema."
+    },
+    {
+      "question": "¿Cuál es el papel del docente en el proceso de enseñanza-aprendizaje de la lectura y la escritura según el texto?",
+      "options": [
+        "Adoptar un enfoque globalizador y significativo, actuar como modelo experto de lectura y escritura, y desarrollar actividades que partan de situaciones reales de uso",
+        "Seleccionar los textos más adecuados al nivel del alumnado y corregir sistemáticamente todos los errores producidos",
+        "Diseñar actividades progresivas que vayan de las unidades mínimas al texto completo, priorizando la corrección formal",
+        "Evaluar el producto final de la escritura e identificar las dificultades individuales para aplicar refuerzo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El docente debe adoptar un enfoque globalizador y significativo (leer es comprender y escribir es producir), actuar como modelo experto de lectura y escritura, y desarrollar actividades que partan de situaciones reales de uso, fomentando el carácter funcional de la lectoescritura."
+    },
+    {
+      "question": "¿Qué estrategias de lectura antes de leer se recomiendan en el texto?",
+      "options": [
+        "Despertar la motivación y activar los conocimientos previos mediante la observación de una imagen de la lectura o realizar hipótesis sobre el tema",
+        "Elaborar un resumen del texto e identificar las ideas principales antes de la lectura detallada",
+        "Releer párrafos difíciles e inferir el significado de palabras desconocidas por el contexto",
+        "Analizar el texto identificando hechos reales o imaginarios y elaborando un esquema de contenidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Antes de la lectura es beneficioso despertar la motivación y activar los conocimientos previos mediante la observación de una imagen de la lectura o realizar hipótesis sobre el tema. Las estrategias de releer e inferir son estrategias durante la lectura, y el resumen y la identificación de hechos son estrategias después."
+    },
+    {
+      "question": "¿Qué estrategias de lectura se aplican durante la lectura según el texto?",
+      "options": [
+        "Releer, inferir el significado y consultar diccionarios",
+        "Despertar la motivación y realizar hipótesis sobre el tema",
+        "Elaborar un resumen e identificar dobles sentidos y connotaciones",
+        "Observar imágenes y activar los conocimientos previos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Durante la lectura deben aplicarse estrategias de comprensión como releer, inferir el significado de palabras desconocidas y consultar diccionarios. Las estrategias antes de la lectura incluyen despertar la motivación y activar conocimientos previos, y las estrategias después incluyen elaborar resúmenes e identificar dobles sentidos."
+    },
+    {
+      "question": "¿Cuál es la importancia del trabajo en grupo en la comprensión y producción de textos según el texto?",
+      "options": [
+        "Facilita la discusión, el contraste de ideas sobre el contenido y la mejora conjunta de las producciones",
+        "Permite que el docente dedique más tiempo a los alumnos con dificultades de aprendizaje",
+        "Asegura que todos los alumnos produzcan textos con una estructura y calidad homogénea",
+        "Reduce la carga de corrección del docente al distribuir la responsabilidad entre el grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El trabajo en grupo es beneficioso para la comprensión y producción de un texto porque facilita la discusión, el contraste de ideas sobre el contenido y la mejora conjunta de las producciones. La evaluación debe integrarse en todo el proceso de aprendizaje, no solo en el producto final."
+    },
+    {
+      "question": "¿Qué juegos de mesa se mencionan en el texto como útiles para crear un buen ambiente lectoescritor?",
+      "options": [
+        "Cifras y letras, Scrabble, Pasapalabra y Tutifruti",
+        "Apalabrados, Bingo de letras, Boggle y Pictionary",
+        "Dominó de sílabas, Memory de palabras, Hangman y Wordle",
+        "Jenga de letras, Trivial, Quoridor y Dobble"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona específicamente cifras y letras, Scrabble, Pasapalabra y Tutifruti como juegos de mesa útiles para crear un buen ambiente lectoescritor en el aula, siendo actividades lúdicas y basadas en el juego."
+    },
+    {
+      "question": "¿Qué aplicaciones digitales menciona el texto para trabajar la escritura en el aula?",
+      "options": [
+        "PowerPoint, Microsoft Word, Genially, Pixton y Storybird",
+        "Kahoot, Quizlet, Padlet, Canva y Book Creator",
+        "Google Docs, Edmodo, Socrative, Prezi y Flipgrid",
+        "Scratch, Minecraft Education, Code.org, Scratch Jr y Tinkercad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona PowerPoint, Microsoft Word, Genially, Pixton y Storybird como aplicaciones digitales útiles para crear textos en el aula. Kahoot, Quizlet y las demás opciones son herramientas digitales pero no son las mencionadas específicamente en el texto."
+    },
+    {
+      "question": "¿Qué cita de Francesco Tonucci recoge el texto en la conclusión?",
+      "options": [
+        "\"Leer y escribir es el mejor regalo para tus hijos\"",
+        "\"La lectura es la puerta de entrada al conocimiento y la libertad\"",
+        "\"Enseñar a leer es regalar a los alumnos las llaves del mundo\"",
+        "\"Un niño que lee será un adulto que piensa y un ciudadano que actúa\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "El psicopedagogo y dibujante Francesco Tonucci comenta que \"leer y escribir es el mejor regalo para tus hijos\". Esta cita recoge la esencia del tema: el lenguaje no es solo una herramienta académica, sino la base de la comunicación, el pensamiento y las relaciones humanas."
+    },
+    {
+      "question": "¿Cuál es la cita final de Cassany et al. (1994) que aparece en la conclusión del tema?",
+      "options": [
+        "Las sociedades dependen del lenguaje como medio de comunicación, y enseñar a leer y escribir es regalar a los alumnos las llaves para comprender, expresarse y participar plenamente en el mundo",
+        "Leer y escribir es el mejor regalo para tus hijos, pues abre las puertas del conocimiento y la libertad",
+        "El docente debe ser un modelo experto de lectura y escritura que guíe al alumnado hacia la autonomía comunicativa",
+        "La escuela es el espacio social donde el alumnado aprende a interactuar y a resolver problemas comunicativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La cita final del tema pertenece a Cassany et al. (1994): las sociedades dependen del lenguaje como medio de comunicación, y enseñar a leer y escribir es regalar a los alumnos las llaves para comprender, expresarse y participar plenamente en el mundo. La cita de Tonucci es la de apertura de la conclusión."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los mecanismos neurolingüísticos y psicolingüísticos en la adquisición de la lectoescritura?",
+      "options": [
+        "Los neurolingüísticos se refieren a procesos perceptivos de recogida y almacenamiento de información a corto plazo, mientras los psicolingüísticos ayudan a descifrar la realidad y a establecer relaciones sintácticas y semánticas",
+        "Los neurolingüísticos analizan el cerebro y los procesos cognitivos superiores, mientras los psicolingüísticos estudian los sonidos del lenguaje",
+        "Los neurolingüísticos se ocupan del lenguaje escrito y los psicolingüísticos del lenguaje oral",
+        "Los neurolingüísticos son innatos mientras los psicolingüísticos se desarrollan mediante la interacción social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los mecanismos neurolingüísticos hacen referencia a los procesos perceptivos con los que se recoge información por los sentidos, almacenándose a corto plazo. Los mecanismos psicolingüísticos o cognitivos ayudan a descifrar la realidad y a establecer relaciones sintácticas y semánticas, siendo Piaget y Emilia Ferreiro los teóricos asociados."
+    },
+    {
+      "question": "Según el texto, ¿en qué se diferencia el método global natural de Freinet del método global de Decroly?",
+      "options": [
+        "Freinet considera la lectura como un medio de comunicación motivando a crear textos colectivos a partir de actividades orales, mientras Decroly se enfoca en la percepción visual de los signos",
+        "Freinet parte de sílabas directas para llegar al texto completo, mientras Decroly parte del texto para descomponerlo",
+        "Freinet utiliza exclusivamente materiales manipulativos, mientras Decroly emplea principalmente textos impresos",
+        "Freinet prioriza la escritura sobre la lectura, mientras Decroly integra ambas habilidades de manera simultánea"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El método global natural de Freinet considera la lectura como un medio de comunicación, motivando al alumnado a crear textos colectivos comunes a partir de actividades orales antes de ejercicios de copia o reconocimiento de palabras. Decroly se enfoca en la percepción visual de los signos e integra lectura y escritura en todas las actividades."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la lectura como proceso activo y la escritura como proceso mecánico según Prado (2004) y Teresa Neira?",
+      "options": [
+        "La lectura es un proceso activo de reproducción a través de palabras de la forma y contenido de un mensaje escrito, mientras la escritura es un proceso mecánico de representación de palabras con claridad para ser leídas",
+        "La lectura es un proceso pasivo de decodificación, mientras la escritura es un proceso activo de creación de significados",
+        "La lectura implica procesamiento semántico y la escritura procesamiento fonológico",
+        "La lectura es receptiva y la escritura productiva, siendo ambas procesos activos y conscientes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prado (2004) y Teresa Neira definen la lectura como un proceso activo con el cual se reproduce la forma y contenido de un mensaje escrito, y la escritura como un proceso mecánico para representar palabras con claridad. Esta distinción no implica que la lectura sea pasiva, sino que activa recursos de comprensión."
+    },
+    {
+      "question": "¿Cuál es la competencia clave (CC) que se desarrolla principalmente a través del trabajo con el texto según el artículo 8 del Decreto 155/2022?",
+      "options": [
+        "La Competencia en Comunicación Lingüística (CCL), una de las ocho competencias clave",
+        "La Competencia Digital (CD), orientada al uso de herramientas tecnológicas",
+        "La Competencia Personal, Social y de Aprender a Aprender (CPSAA)",
+        "La Competencia Ciudadana (CC), vinculada a la participación democrática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que el texto tiene un carácter fundamentalmente comunicativo y pragmático, facilitando el desarrollo de la CCL (Competencia en Comunicación Lingüística), una de las ocho competencias clave del artículo 8 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Cuál es el referente en el proceso comunicativo y cómo se diferencia del mensaje?",
+      "options": [
+        "El referente es la realidad o tema al que hace referencia el mensaje, mientras el mensaje constituye el contenido de la información en sí",
+        "El referente es el destinatario implícito del mensaje, mientras el mensaje es su forma lingüística",
+        "El referente es el canal por el que viaja el mensaje y el mensaje es el contenido codificado",
+        "El referente es el código lingüístico y el mensaje es el acto concreto de comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El referente es la realidad o tema a la que hace referencia el mensaje, mientras que el mensaje constituye el contenido de la información. Esta distinción es fundamental: el mensaje es la información codificada, y el referente es la realidad extralingüística sobre la que trata ese mensaje."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la fuente y el emisor en el proceso comunicativo según el texto?",
+      "options": [
+        "La fuente es el lugar donde proviene la información, mientras el emisor es quien codifica el mensaje e inicia la comunicación",
+        "La fuente es la persona que origina el mensaje y el emisor es el canal por el que se transmite",
+        "La fuente produce el mensaje no lingüístico y el emisor lo transforma en un mensaje lingüístico",
+        "La fuente es la institución que genera la información y el emisor es el individuo que la difunde"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La fuente es el lugar donde proviene la información, mientras el emisor es quien codifica el mensaje e inicia la comunicación, dirigiéndose a un receptor. Son elementos distintos del proceso comunicativo aunque en comunicaciones simples pueden coincidir."
+    },
+    {
+      "question": "¿Qué bloque del currículo del Decreto 155/2022 se menciona específicamente en relación con la intervención educativa en lectura y escritura?",
+      "options": [
+        "El Bloque 3 \"Comunicación escrita\" del Anexo II del Decreto 155/2022",
+        "El Bloque 1 \"Comunicación oral\" del Anexo II del Decreto 155/2022",
+        "El Bloque 4 \"Reflexión sobre el sistema lingüístico\" del Anexo II del Decreto 155/2022",
+        "El Bloque 2 \"Educación literaria\" del Anexo II del Decreto 155/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que la intervención se centra en desarrollar los aprendizajes del Bloque 3 \"Comunicación escrita\" del Anexo II del Decreto 155/2022. La graduación de los aprendizajes entre ciclos se establece en función de la complejidad de los textos, los contextos de uso y las habilidades de producción e interpretación."
+    },
+    {
+      "question": "¿Cómo describe el texto el lenguaje de los textos académicos en cuanto a sus características formales?",
+      "options": [
+        "Lenguaje preciso, objetivo y específico de la materia a tratar, con registro formal y estructura abierta",
+        "Lenguaje sencillo, accesible y cercano, con estructura narrativa y registro informal",
+        "Lenguaje literario, con recursos retóricos y figuras estilísticas propias del género",
+        "Lenguaje técnico y altamente especializado, con estructura rígida y sin posibilidad de variación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textos académicos se elaboran con un lenguaje preciso, objetivo y específico de la materia a tratar, con un registro formal y una estructura abierta. Su producción suele estar limitada por el tiempo y lugar del aula o del hogar, y su destinatario habitual es el docente."
+    },
+    {
+      "question": "¿Qué afirma Vygotsky sobre la relación entre niños y contextos alfabetizados antes de la escolarización?",
+      "options": [
+        "Entre los 2 y 5 años los discentes ya se encuentran inmersos en contextos alfabetizados, habiendo tenido contacto significativo con los textos, especialmente a través de la familia",
+        "Que los niños no pueden desarrollar conocimientos sobre el lenguaje escrito hasta que reciben instrucción formal",
+        "Que el aprendizaje de la lectoescritura depende exclusivamente de la madurez neurológica del niño",
+        "Que los niños solo saben lo que se les enseña en la escuela, sin influencia del entorno familiar previo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vygotsky defiende que entre los 2 y 5 años los discentes ya se encuentran inmersos en contextos alfabetizados, habiendo tenido contacto significativo con los textos, especialmente a través de la familia. La postura contraria (que los niños solo saben lo que se les enseña en la escuela) es la que el texto contrasta con la de Vygotsky."
+    },
+    {
+      "question": "¿Qué propiedades del texto trabajan las actividades de \"juego de roles simulando diferentes entornos y receptores\" y la \"escritura de cartas a diferentes entidades\"?",
+      "options": [
+        "La adecuación, al trabajar el grado de formalidad y la adaptación al receptor y contexto comunicativo",
+        "La coherencia, al estructurar lógicamente la información según el destinatario",
+        "La cohesión, al usar conectores y mecanismos de referencia apropiados al contexto",
+        "El estilismo, al enriquecer el vocabulario y los recursos expresivos según el receptor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El juego de roles y la escritura de cartas a diferentes entidades trabajan la adecuación, que es la capacidad para escoger entre distintas posibilidades aquella que más se ajuste a la situación comunicativa, finalidad o receptor. Estas actividades permiten discernir sobre el grado de formalidad adecuado a cada contexto."
+    },
+    {
+      "question": "¿Qué actividad relacionada con la coherencia menciona el texto como ejemplo concreto para trabajarla en el aula?",
+      "options": [
+        "Extraer ideas principales de un texto, identificar su estructura, realizar resúmenes u ordenar frases para formar un texto propio",
+        "Transformar oraciones simples en un texto cohesionado aplicando la gramática adecuadamente",
+        "Ampliar el vocabulario mediante sinónimos y antónimos y crear poesías y canciones",
+        "Discernir sobre el grado de formalidad e identificar contextos para usar \"usted\" o \"tú\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para trabajar la coherencia (estructuración y ordenación lógica de la información), las actividades habituales son extraer ideas principales de un texto, identificar su estructura, realizar resúmenes u ordenar frases para formar un texto propio. La transformación de oraciones corresponde a la cohesión."
+    },
+    {
+      "question": "¿Qué aspecto incluye Cassany et al. (1994) dentro de la propiedad de cohesión que resulta esencial para entender un texto?",
+      "options": [
+        "La puntuación, que es esencial para entender un texto",
+        "La caligrafía, que garantiza la legibilidad del texto",
+        "El vocabulario, que aporta precisión y variedad al texto",
+        "La estructura textual, que organiza la información de forma lógica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dentro de la propiedad de cohesión, Cassany et al. (1994) incluyen la puntuación como elemento esencial para entender un texto. La cohesión se basa en el uso adecuado de la gramática y de los conectores que relacionan las ideas del texto."
+    },
+    {
+      "question": "¿En qué ciclo de Educación Primaria los alumnos identifican elementos textuales y no textuales como tipografías y subrayados?",
+      "options": [
+        "En el segundo ciclo de Educación Primaria",
+        "En el primer ciclo de Educación Primaria",
+        "En el tercer ciclo de Educación Primaria",
+        "En la transición entre el segundo y tercer ciclo de Educación Primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo ciclo de EP, el alumnado identifica elementos textuales y no textuales, como tipografías y subrayados, y comprende textos de distintos ámbitos. En el primer ciclo se desarrollan actividades de comprensión básica con apoyo visual, y en el tercero se desarrolla la lectura crítica y autónoma."
+    },
+    {
+      "question": "¿Qué habilidad lectora caracteriza el tercer ciclo de Educación Primaria según el texto?",
+      "options": [
+        "La lectura crítica y autónoma, valorando textos variados y captando dobles sentidos o ironías",
+        "La localización de información relevante y la realización de inferencias con apoyo visual",
+        "La identificación de elementos textuales y no textuales y la comprensión de textos de distintos ámbitos",
+        "La automatización de los procesos decodificadores y la consolidación del léxico interno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el tercer ciclo de EP, los alumnos desarrollan la lectura crítica y autónoma, valorando textos variados y captando dobles sentidos o ironías. El primer ciclo trabaja la localización e inferencia básica, y el segundo ciclo la identificación de elementos textuales y no textuales."
+    },
+    {
+      "question": "¿Cómo describe el texto la graduación de los aprendizajes de lectoescritura entre ciclos de EP?",
+      "options": [
+        "Se establece en función de la complejidad de los textos, los contextos de uso, las habilidades de producción e interpretación y el manejo del metalenguaje",
+        "Se determina por la edad y el nivel de desarrollo cognitivo del alumnado según la teoría piagetiana",
+        "Se organiza a partir de la dificultad fonológica de los textos y la extensión de las producciones escritas",
+        "Se gradúa por los tipos de texto trabajados, pasando de narrativos a descriptivos y argumentativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La graduación de los aprendizajes entre ciclos se establece en función de la complejidad de los textos, los contextos de uso, las habilidades de producción e interpretación y el manejo del metalenguaje. Esta gradación permite una progresión coherente a lo largo de la etapa de EP."
+    },
+    {
+      "question": "¿Qué programas de innovación relacionados con la lectura menciona el texto además del Plan LIA y el PLAMBE?",
+      "options": [
+        "Innova-Lab en la modalidad Leo-lab, PROA+ para mejorar la competencia lingüística y el Plan Proxecta+ con programas como Fitofaladoiro o Nos Tamén Creamos",
+        "Clubs de Lectura, Radio na Biblio, Biblioteca Creativa y Lectura e Familia",
+        "BEGA LBE-2, Bibliotecas Escolares Solidarias y Plan de Biblioteca",
+        "PLEA, PLAMBE y programas de alfabetización digital para el profesorado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Además del Plan LIA y el PLAMBE, el texto menciona otros programas educativos como Innova-Lab en la modalidad Leo-lab, PROA+ para mejorar la competencia lingüística y el Plan Proxecta+ con programas como Fitofaladoiro o Nos Tamén Creamos. Los Clubs de Lectura y Radio na Biblio son programas del PLAMBE."
+    },
+    {
+      "question": "Según el texto, ¿qué perspectiva defienden Piaget y Emilia Ferreiro sobre la adquisición de la lectoescritura?",
+      "options": [
+        "Que el niño construye activamente su conocimiento sobre la escritura, poniendo a prueba hipótesis más allá de la simple copia",
+        "Que la adquisición de la lectoescritura es principalmente un proceso social mediado por adultos y compañeros",
+        "Que la madurez neurológica es el factor determinante para iniciar el proceso lectoescritor",
+        "Que la imitación de modelos escritos adultos es la base del aprendizaje de la escritura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Piaget y Emilia Ferreiro, asociados a los mecanismos psicolingüísticos, defienden que el niño construye activamente su conocimiento. Además, Ferreiro y Teberosky (1979) señalan que el niño aprende poniendo a prueba sus hipótesis sobre la escritura, más allá de la simple copia."
+    },
+    {
+      "question": "¿Qué queda limitado en la fase de grafismos primitivos y pseudoletras según el texto?",
+      "options": [
+        "No existe relación entre sonido y escritura, aunque comienzan a identificarse algunas letras y números",
+        "El niño solo puede representar palabras familiares como su nombre de manera global",
+        "La escritura se limita a la reproducción de sílabas directas con correspondencia fonema-grafema",
+        "El niño puede escribir de izquierda a derecha pero no distingue entre letras y números"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de grafismos primitivos y pseudoletras, la escritura inicial no muestra relación entre sonido y escritura, aunque comienzan a identificarse algunas letras y números. Esta fase precede a la escritura silábica, en la que el niño empieza a descubrir la relación entre lengua oral y escrita."
+    },
+    {
+      "question": "¿Qué habilidades desarrolla el alumnado en la fase de escritura alfabética que comienza con la Educación Primaria?",
+      "options": [
+        "Realiza una correspondencia exacta entre letra y fonema, aunque pueden existir errores ortográficos y de segmentación, y va dominando normas ortográficas, caligrafía y velocidad escritora",
+        "Descubre la relación entre la lengua oral y la escrita, asociando sonidos con grafías aisladas",
+        "Identifica globalmente palabras familiares y reconoce su nombre escrito entre otras palabras",
+        "Aplica la ruta fonológica de decodificación de manera automatizada sin errores de exactitud"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Con el inicio de la EP, los niños comienzan la fase de escritura alfabética realizando una correspondencia exacta entre letra y fonema, aunque pueden existir errores ortográficos y de segmentación. A partir de esta etapa van dominando las normas ortográficas, la caligrafía y la velocidad escritora."
+    },
+    {
+      "question": "¿Cuál es el papel que otorga el texto a la familia en el desarrollo de la lectoescritura?",
+      "options": [
+        "Junto con la intencionalidad del profesorado, es fundamental en el proceso de aprender a leer y escribir entre los 6 y 8 años, y proporciona el contacto significativo con textos entre los 2 y 5 años",
+        "La familia es un contexto secundario cuya influencia queda limitada por el trabajo sistemático del centro escolar",
+        "La familia interviene exclusivamente en el fomento del hábito lector, sin participar en el proceso de enseñanza",
+        "La familia compensa las deficiencias del sistema escolar proporcionando un entorno lingüístico rico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La familia tiene un papel fundamental: entre los 6 y 8 años, el proceso de aprender a leer y escribir requiere intencionalidad por parte del profesorado y las familias. Además, Vygotsky destaca que entre los 2 y 5 años los niños ya han tenido contacto significativo con textos, especialmente a través de la familia."
+    },
+    {
+      "question": "¿Cuáles son los requisitos de madurez que permiten a los niños de 5-6 años abordar con éxito el proceso lectoescritor?",
+      "options": [
+        "Capacidad de simbolización, dominio del lenguaje oral, desarrollo de la psicomotricidad fina y gruesa, la percepción y el equilibrio emocional",
+        "Madurez neurológica, conciencia fonológica, discriminación visual y motricidad fina",
+        "Desarrollo del pensamiento lógico-matemático, memoria de trabajo, atención sostenida y lenguaje oral",
+        "Lateralidad definida, esquema corporal consolidado, orientación espacio-temporal y lenguaje oral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto especifica que entre los 5 y 6 años los niños alcanzan la madurez necesaria gracias a su capacidad de simbolización, dominio del lenguaje oral, desarrollo de la psicomotricidad fina y gruesa, la percepción y el equilibrio emocional. Estos son los factores mencionados textualmente."
+    },
+    {
+      "question": "¿Cómo describe el texto la lectoescritura como concepto integrador?",
+      "options": [
+        "Es el proceso de aprendizaje planificado y sistemático en el que lectura y escritura se aprenden paralelamente",
+        "Es el conjunto de habilidades lingüísticas básicas que incluyen hablar, escuchar, leer y escribir",
+        "Es la capacidad para decodificar y codificar mensajes escritos en el mismo sistema de signos",
+        "Es el proceso por el cual el niño interioriza las convenciones del sistema de escritura de su lengua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La lectoescritura es el proceso de aprendizaje planificado y sistemático en el que lectura y escritura se aprenden paralelamente. Esta definición enfatiza su carácter integrador, ya que no se trata de aprender primero a leer y luego a escribir, sino de ambas habilidades de manera simultánea."
+    },
+    {
+      "question": "¿Qué actividades de lectura para el aula menciona explícitamente el texto?",
+      "options": [
+        "Crear un espacio de lectura variado, decorar el aula con carteles, preparar escenarios para representar cuentos, leer titulares de periódicos y leer o escuchar poemas, adivinanzas o canciones",
+        "Realizar clubes de lectura, participar en concursos literarios, elaborar reseñas y crear revistas escolares",
+        "Practicar la lectura en voz alta cronometrada, realizar análisis de textos y construir mapas conceptuales",
+        "Leer textos multimodales, analizar anuncios publicitarios, ver documentales y debatir sobre noticias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona específicamente: crear un espacio de lectura con variedad de materiales, decorar el aula con carteles y avisos, preparar escenarios para representar cuentos o teatros de sombras, leer en voz alta títulos de periódicos para generar interés, y leer o escuchar poemas, adivinanzas o canciones."
+    },
+    {
+      "question": "¿Qué ejemplos de actividades de escritura menciona el texto en el aula?",
+      "options": [
+        "Enseñar a enviar un mensaje, elaborar infografías de recetas, redactar circulares, crear artículos para la web o revista escolar, realizar \"ensalada de cuentos\" y redactar bibliografías, cartas o anuncios",
+        "Escribir diarios de aprendizaje, redactar cuentos creativos, elaborar carteles de clase y escribir correos electrónicos",
+        "Completar textos con huecos, ordenar párrafos desordenados, reescribir textos cambiando el punto de vista y elaborar presentaciones digitales",
+        "Copiar textos modelo, hacer dictados, escribir al dictado y corregir textos con errores ortográficos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona específicamente: enseñar a enviar un mensaje, elaborar infografías de recetas de cocina, redactar circulares para el centro, crear artículos para la web o la revista escolar, realizar \"ensalada de cuentos\" integrando personajes favoritos, y redactar bibliografías, cartas o anuncios."
+    },
+    {
+      "question": "¿Qué propósito formativo tiene para el alumnado el trabajo con actividades de lectura según el texto?",
+      "options": [
+        "Formar personalidades lectoras capaces de adquirir un hábito y gusto por la lectura y compartir sus experiencias",
+        "Mejorar la velocidad lectora y la comprensión de textos académicos en todas las áreas del currículo",
+        "Desarrollar la competencia comunicativa oral y escrita para participar en situaciones formales",
+        "Alcanzar los estándares de competencia lectora establecidos en las pruebas internacionales como PISA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo de las actividades de lectura es formar personalidades lectoras capaces de adquirir un hábito y gusto por la lectura y compartir sus experiencias. Este objetivo formativo va más allá de la competencia técnica lectora, apuntando al desarrollo de la identidad lectora."
+    },
+    {
+      "question": "¿Cuál de los siguientes textos pertenece al ámbito personal de uso del lenguaje según Cassany et al.?",
+      "options": [
+        "Los diarios personales",
+        "Las conversaciones telefónicas con amigos",
+        "Los currículums y entrevistas de trabajo",
+        "Los artículos de revista y debates públicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ámbito personal incluye textos destinados a uno mismo, como los diarios. Las conversaciones telefónicas con amigos pertenecen al ámbito familiar o de amistades, los currículums y entrevistas al ámbito laboral, y los artículos de revista y debates al ámbito social."
+    },
+    {
+      "question": "¿Qué ámbito de uso del lenguaje corresponde al registro informal propio de conversaciones por redes sociales?",
+      "options": [
+        "El ámbito familiar o de amistades, que emplea un lenguaje poco formal",
+        "El ámbito personal, que incluye textos destinados a uno mismo",
+        "El ámbito social, que se desarrolla ante audiencias numerosas y heterogéneas",
+        "El ámbito literario, que engloba textos vinculados al ocio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ámbito familiar o de amistades emplea un lenguaje poco formal, como en conversaciones telefónicas o por redes sociales. El ámbito personal incluye textos para uno mismo como diarios, el social se desarrolla ante audiencias heterogéneas y el literario incluye textos de ocio como novelas o chistes."
+    },
+    {
+      "question": "¿Qué tipo de texto se produce en el ámbito laboral según Cassany et al.?",
+      "options": [
+        "Textos con lenguaje específico y formal vinculados al ámbito profesional, como currículums y entrevistas",
+        "Textos con lenguaje especializado propio de entes públicas y administraciones",
+        "Textos dirigidos a audiencias numerosas y heterogéneas como artículos de revista",
+        "Textos personales con lenguaje informal como mensajes de móvil y correos entre compañeros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ámbito laboral está vinculado al ámbito profesional, con lenguaje específico y formal como en currículums y entrevistas. El ámbito gregario corresponde a textos con lenguaje especializado propio de entes públicas, y el ámbito social a textos dirigidos a audiencias numerosas."
+    },
+    {
+      "question": "¿Cuál es la teoría de Vygotsky sobre el lenguaje que aparece en el texto?",
+      "options": [
+        "La teoría comunicativa, que resalta el papel social del lenguaje como herramienta que influye en el pensamiento y las relaciones sociales",
+        "La teoría innatista, que da importancia a los factores biológicos y a la creatividad del individuo",
+        "La teoría constructivista, que sostiene que el pensamiento se desarrolla antes que el lenguaje",
+        "La teoría interaccionista, que enfatiza el papel del adulto mediador en el desarrollo lingüístico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vygotsky defiende la teoría comunicativa, que resalta el papel social del lenguaje como herramienta que influye en el pensamiento y las relaciones sociales. La teoría innatista es de Chomsky y la constructivista de Piaget. La teoría interaccionista es una etiqueta que no aparece en el texto."
+    },
+    {
+      "question": "¿Qué ocurre entre los 6 y 8 años en el desarrollo del lenguaje según el texto?",
+      "options": [
+        "Los niños aprenden a leer y escribir, proceso que requiere intencionalidad del profesorado y las familias, se mejora la comunicación, se enriquece el vocabulario y se reflexiona en voz alta desarrollando el pensamiento verbal",
+        "El lenguaje se desarrolla a través de experiencias sociales, la lectura y los contenidos escolares",
+        "Los niños comienzan a organizar y planificar en silencio y desarrollan el conocimiento metalingüístico",
+        "Adquieren la voz pasiva y aprenden a cambiar de registro lingüístico según el contexto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los 6 y 8 años, los niños aprenden a leer y escribir (proceso que requiere intencionalidad del profesorado y las familias), mejora la comunicación, se enriquece el vocabulario y se reflexiona en voz alta desarrollando el pensamiento verbal. Entre los 8 y 12 años el lenguaje se desarrolla mediante experiencias sociales."
+    },
+    {
+      "question": "¿Cuál es la razón por la que el docente debe conocer las características de los textos académicos según el texto?",
+      "options": [
+        "Para evitar su explotación excesiva y no apartar otros textos más funcionales y cotidianos",
+        "Para seleccionar los más adecuados al nivel del alumnado y garantizar su comprensión",
+        "Para diseñar actividades de producción graduadas en función de la complejidad textual",
+        "Para evaluar adecuadamente las producciones escritas del alumnado en el contexto académico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que es necesario que el docente conozca las características de los textos académicos para evitar su explotación excesiva y no apartar otros textos más funcionales y cotidianos. El texto académico tiene sus limitaciones al ser abstracto y alejado del contexto de los alumnos."
+    },
+    {
+      "question": "¿Cuáles son las estrategias que debe aplicar el alumnado para elaborar textos académicos?",
+      "options": [
+        "Estrategias para seleccionar y reestructurar los contenidos buscando mayor claridad y precisión, como resúmenes, exámenes, esquemas o tomar apuntes",
+        "Estrategias de planificación, redacción y revisión propias del proceso de escritura creativa",
+        "Estrategias de comprensión lectora como inferir significados, releer y consultar diccionarios",
+        "Estrategias retóricas para enriquecer el texto con recursos expresivos y ampliar el vocabulario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para elaborar textos académicos, el alumnado debe aplicar estrategias para seleccionar y reestructurar los contenidos buscando mayor claridad y precisión. Esto se refuerza enseñando a realizar resúmenes, exámenes, esquemas o a tomar apuntes, actividades típicas del ámbito académico."
+    },
+    {
+      "question": "¿Por qué es importante que el alumnado comprenda el objetivo de la tarea en el proceso de lectura y escritura?",
+      "options": [
+        "Para darle sentido a la actividad y que las actividades partan del texto como unidad base con textos de diversa tipología, reales y funcionales",
+        "Para que pueda autoevaluar su proceso y detectar sus propios errores de comprensión y producción",
+        "Para que ajuste su nivel de esfuerzo y dedicación en función de la complejidad de la tarea",
+        "Para que establezca conexiones entre los textos trabajados y los contenidos de otras áreas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es esencial que el discente comprenda el objetivo de la tarea para darle sentido, y que las actividades partan del texto como unidad base con el manejo de textos de diversa tipología, reales y funcionales. Esta comprensión del objetivo es clave para el aprendizaje significativo."
+    },
+    {
+      "question": "¿Cuál es la función de los materiales de apoyo en el proceso de enseñanza de la escritura?",
+      "options": [
+        "Contribuyen a una escritura más cuidada y correcta; ejemplos son diccionarios, fichas o textos modelo",
+        "Sirven para que el alumnado practique de forma autónoma sin necesidad de la guía del docente",
+        "Permiten al docente reducir el tiempo de corrección y dedicarlo a actividades de comprensión",
+        "Facilitan la evaluación diagnóstica del nivel inicial del alumnado antes de iniciar la instrucción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El uso de materiales de apoyo como diccionarios, fichas o textos modelo contribuye a una escritura más cuidada y correcta. Son herramientas que apoyan el proceso de producción escrita del alumnado, complementando la instrucción directa del docente."
+    },
+    {
+      "question": "¿Cómo debe enfocarse la evaluación del proceso de aprendizaje de la escritura según el texto?",
+      "options": [
+        "En todo el proceso de aprendizaje y no solo en el producto final, integrando la revisión en grupo como práctica habitual y haciendo públicas las producciones del alumnado",
+        "En la corrección sistemática de errores ortográficos y gramaticales para garantizar la corrección formal",
+        "En la valoración del producto final mediante rúbricas que contemplen coherencia, cohesión y adecuación",
+        "En la autoevaluación individual del alumnado a través de portfolios de escritura personales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación debe enfocarse en todo el proceso de aprendizaje y no solo en el producto final, integrando la revisión en grupo como práctica habitual para favorecer el aprendizaje autónomo y haciendo públicas las producciones del alumnado para reforzar su funcionalidad y el carácter social de la escritura."
+    },
+    {
+      "question": "¿Cómo concibe el Plan de Biblioteca escolar según el artículo 13 de la Orden de 26 de mayo?",
+      "options": [
+        "Como un centro de recursos para la lectura, la información y el aprendizaje",
+        "Como un espacio inclusivo y formativo para el desarrollo del currículo y las competencias ALFIN y AMI",
+        "Como un repositorio de libros electrónicos y recursos educativos para el préstamo al alumnado",
+        "Como un espacio para actualizar los recursos y garantizar el acceso igualitario a la cultura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan de Biblioteca, recogido en el artículo 13 de la Orden de 26 de mayo, concibe la biblioteca escolar como un centro de recursos para la lectura, la información y el aprendizaje. El Plan LIA es el que la concibe como espacio inclusivo y formativo para las competencias ALFIN y AMI."
+    },
+    {
+      "question": "¿Cuál es el marco del ODS señalado en el texto y cómo se relaciona con el área de LCL?",
+      "options": [
+        "El ODS4 \"Educación de Calidad\", que busca una educación para todos que permita desarrollar la alfabetización",
+        "El ODS4 \"Reducción de las Desigualdades\", que promueve el acceso igualitario a la educación",
+        "El ODS10 \"Educación Inclusiva\", que garantiza el aprendizaje en igualdad de condiciones",
+        "El ODS17 \"Alianzas para lograr los objetivos\", que coordina la educación entre instituciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona el ODS4 \"Educación de Calidad\", que busca una educación para todos y todas que permita desarrollar la alfabetización. Este objetivo se relaciona directamente con el área de LCL y con el desarrollo de la competencia lectora y escritora en Educación Primaria."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el ámbito literario y el ámbito social de uso del lenguaje según Cassany et al.?",
+      "options": [
+        "El literario engloba textos unidos al ocio como novelas, poesías o chistes, mientras el social se desarrolla ante audiencias numerosas y heterogéneas con textos públicos como artículos de revista",
+        "El literario es formal y el social es informal, ambos destinados a grandes audiencias",
+        "El literario se produce exclusivamente por escrito y el social es principalmente oral",
+        "El literario pertenece a contextos escolares y el social a contextos extraescolares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ámbito literario engloba textos unidos al ocio como novelas, poesías o chistes. El ámbito social se desarrolla ante audiencias numerosas y heterogéneas con textos públicos como artículos de revista o debates. La distinción principal es el propósito: ocio frente a participación pública."
+    },
+    {
+      "question": "¿Qué importancia tiene la enseñanza de la lengua vinculada al contexto sociocultural según el texto?",
+      "options": [
+        "La enseñanza de la lengua no puede desligarse del contexto sociocultural en el que acontece, siendo el contexto comunicativo el conjunto de medios lingüísticos y no lingüísticos que determinan el sentido",
+        "El contexto sociocultural es un factor complementario que enriquece pero no determina el aprendizaje lingüístico",
+        "El contexto sociocultural solo influye en la adquisición de la lengua oral, no en la lengua escrita",
+        "El contexto sociocultural debe ser neutralizado en el aula para garantizar una enseñanza igualitaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto afirma explícitamente que la enseñanza de la lengua no puede desligarse del contexto sociocultural en el que acontece. El contexto comunicativo es el conjunto de medios lingüísticos y no lingüísticos, junto con las situaciones que rodean la transmisión del mensaje y determinan su sentido."
+    },
+    {
+      "question": "¿Qué afirma el texto sobre la terminología en las actividades de reflexión lingüística?",
+      "options": [
+        "Conviene que sea común y funcional, evitando sobrecargar al alumnado de términos complejos como lexema, monema o semantema",
+        "Debe ser precisa y técnica para que el alumnado adquiera el metalenguaje lingüístico desde las primeras etapas",
+        "Debe adaptarse al nivel evolutivo del alumnado, introduciendo gradualmente los términos gramaticales",
+        "La terminología es un aspecto secundario que no debe condicionar el diseño de las actividades lingüísticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En cuanto a la terminología en las actividades de reflexión lingüística, conviene que sea común y funcional, evitando sobrecargar al alumnado de términos complejos como lexema, monema o semantema. El objetivo es la reflexión sobre el uso, no la memorización de terminología técnica."
+    },
+    {
+      "question": "¿Cuál es la relevancia de la \"presentación\" como propiedad textual para la comunicación oral?",
+      "options": [
+        "Para la comunicación oral implica el dominio de la voz y el lenguaje corporal, y se puede trabajar con actividades de respeto del turno de palabra o réplicas",
+        "Para la comunicación oral la presentación no es relevante, ya que se aplica exclusivamente a textos escritos",
+        "En la comunicación oral, la presentación se centra únicamente en la entonación y la velocidad del habla",
+        "La presentación oral se trabaja exclusivamente a través de exposiciones formales ante la clase"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La presentación consiste en cómo se presenta el texto e incluye para la comunicación oral el dominio de la voz y el lenguaje corporal. Se puede trabajar a través de actividades de respeto del turno de palabra o réplicas, además de caligrafía y exposiciones. Esta propiedad abarca tanto la dimensión escrita como la oral."
+    },
+    {
+      "question": "¿Cuál es el papel que otorga el texto a la escuela en el desarrollo del lenguaje?",
+      "options": [
+        "Es un espacio social fundamental donde el alumnado aprende a interactuar, aplicar reglas de comunicación y desarrollar habilidades que acompañarán toda su vida",
+        "Es el único contexto de aprendizaje del lenguaje formal, siendo el entorno familiar responsable solo del lenguaje informal",
+        "Es el espacio donde se transmiten las normas gramaticales y ortográficas de la lengua estándar",
+        "Es el ambiente donde se corrigen los usos lingüísticos incorrectos adquiridos en el entorno familiar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema destaca que la escuela desempeña un papel fundamental como espacio social donde el alumnado aprende a interactuar, aplicar reglas de comunicación y desarrollar habilidades que acompañarán toda su vida. El lenguaje es la base de la comunicación, el pensamiento y las relaciones humanas."
+    },
+    {
+      "question": "¿Cuál de estos textos pertenece al ámbito académico de uso del lenguaje según Cassany et al.?",
+      "options": [
+        "Un examen o una redacción escolar, propios del contexto escolar con tendencia a la formalidad",
+        "Un diario personal donde el alumno reflexiona sobre sus experiencias cotidianas",
+        "Una conversación telefónica entre dos compañeros de clase para quedar",
+        "Un artículo publicado en la revista del colegio para las familias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ámbito académico es propio de la escuela y tiende a la formalidad, incluyendo textos como exámenes o redacciones. El diario personal corresponde al ámbito personal, la conversación telefónica al ámbito familiar o de amistades, y el artículo para familias podría encuadrarse en el ámbito social."
+    },
+    {
+      "question": "¿Cómo se trabaja el estilismo como propiedad textual en el aula según el texto?",
+      "options": [
+        "Mediante ampliación de vocabulario, sinónimos y antónimos, o creación de poesías, canciones y regueifas gallegas",
+        "Mediante actividades para discernir sobre el grado de formalidad e identificar el contexto comunicativo",
+        "Mediante transformación de oraciones simples en textos cohesionados con conectores adecuados",
+        "Mediante actividades de respeto del turno de palabra, caligrafía y exposiciones orales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El estilismo se trabaja mediante ampliación de vocabulario, sinónimos y antónimos, o creación de poesías, canciones y regueifas gallegas, desarrollando así la capacidad expresiva a través del dominio del léxico y recursos retóricos. La adecuación se trabaja con actividades de formalidad, la cohesión con transformación de oraciones."
+    },
+    {
+      "question": "¿Qué ley orgánica destaca la importancia de que el alumnado alcance un dominio pleno y equivalente de la lengua castellana y la lengua cooficial?",
+      "options": [
+        "La LOMLOE (Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006)",
+        "El Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación y el currículo de EP en Galicia",
+        "El Real Decreto 157/2022, de 1 de marzo, por el que se establecen las enseñanzas mínimas de EP",
+        "La Orden de 26 de mayo de 2023 que desarrolla el Decreto 155/2022 y regula la evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE (Ley Orgánica 3/2020) destaca la importancia de que el alumnado alcance un dominio pleno y equivalente de la lengua castellana y la lengua cooficial. El Decreto 155/2022 es la norma autonómica que desarrolla el currículo de EP en Galicia y establece sus objetivos."
+    },
+    {
+      "question": "¿Cuál es la fecha y el rango normativo del Decreto que regula el currículo de Educación Primaria en Galicia?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia",
+        "Decreto 79/2010, de 20 de mayo, para el plurilingüismo en la enseñanza no universitaria de Galicia",
+        "Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria",
+        "Orden de 26 de mayo de 2023 por la que se desarrolla el Decreto 155/2022 y se regula la evaluación en EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia. El Decreto 79/2010 regula el plurilingüismo y el Real Decreto 157/2022 es la normativa básica estatal sobre enseñanzas mínimas."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el Plan LIA y el PLAMBE en cuanto a su enfoque?",
+      "options": [
+        "El Plan LIA fortalece la presencia y organización de las bibliotecas escolares como espacios inclusivos para las competencias ALFIN y AMI, mientras el PLAMBE promueve la actualización de recursos y espacios para el acceso igualitario a la cultura",
+        "El Plan LIA se dirige al profesorado en formación permanente, mientras el PLAMBE se dirige directamente al alumnado",
+        "El Plan LIA es un programa voluntario de adhesión, mientras el PLAMBE es de obligado cumplimiento para los centros",
+        "El Plan LIA se centra en el préstamo de libros electrónicos y el PLAMBE en la dotación de fondos bibliográficos físicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan LIA está orientado a fortalecer la presencia y organización de las bibliotecas escolares como fuente de recursos inclusivos y formativos para el currículo y las competencias ALFIN y AMI. El PLAMBE promueve la actualización de recursos y espacios de las bibliotecas para el acceso igualitario a la cultura y la alfabetización múltiple."
+    },
+    {
+      "question": "¿Qué competencias informacionales menciona el texto en relación con las bibliotecas escolares gallegas?",
+      "options": [
+        "Las competencias ALFIN (Alfabetización Informacional) y AMI (Alfabetización Mediática e Informacional)",
+        "La Competencia Digital (CD) y la Competencia en Comunicación Lingüística (CCL)",
+        "La competencia lectora y la competencia escritora como componentes de la CCL",
+        "Las competencias del siglo XXI: pensamiento crítico, creatividad, colaboración y comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona las competencias ALFIN (Alfabetización Informacional) y AMI (Alfabetización Mediática e Informacional) en el contexto del Plan LIA y su objetivo de fortalecer las bibliotecas escolares. Estas competencias se relacionan con la capacidad de buscar, evaluar y usar la información de manera eficaz."
+    },
+    {
+      "question": "¿Cuál es la fecha de publicación de la Resolución que regula el PLEA y el tiempo de lectura diaria?",
+      "options": [
+        "La Resolución del 16 de octubre de 2025",
+        "La Resolución del 26 de mayo de 2023",
+        "La Resolución del 15 de septiembre de 2022",
+        "La Resolución del 1 de marzo de 2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona que el PLEA está regulado en la Resolución del 16 de octubre de 2025 y en el artículo 12 de la Orden de 26 de mayo. Esta misma Resolución establece los principios pedagógicos que demandan entre 20 y 30 minutos de tiempo diario de lectura para cada centro escolar."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la fuente y la situación en el proceso comunicativo?",
+      "options": [
+        "La fuente es el lugar de donde proviene la información, mientras la situación es el tiempo y el lugar donde se produce el acto comunicativo",
+        "La fuente es el canal de transmisión y la situación es el contexto social del intercambio",
+        "La fuente es quien origina el mensaje y la situación es el tema sobre el que versa",
+        "La fuente es el receptor potencial y la situación es el código lingüístico empleado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La fuente es el lugar donde proviene la información, mientras que la situación es el tiempo y el lugar donde se produce el acto comunicativo. Ambos son elementos distintos del proceso comunicativo: la fuente remite al origen de la información y la situación al contexto espacio-temporal del intercambio."
+    },
+    {
+      "question": "¿Cuál es el argumento principal del texto para justificar la reflexión sistemática sobre el lenguaje en la EP?",
+      "options": [
+        "Durante la EP los niños desarrollan una capacidad creciente de abstracción que les permite aproximarse a la lengua de forma más reflexiva, conociendo algunos rasgos de su funcionamiento",
+        "El currículo establece una progresión de contenidos gramaticales que deben ser abordados sistemáticamente en cada ciclo",
+        "Los resultados de las pruebas de diagnóstico muestran deficiencias en el conocimiento gramatical del alumnado",
+        "La reflexión sobre el lenguaje es imprescindible para superar las pruebas de acceso a la ESO"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El argumento principal es que durante la EP los niños van desarrollando una capacidad creciente de abstracción que les permite aproximarse a la lengua que usan de forma más reflexiva, conociendo algunos de los rasgos de su funcionamiento. Por eso el docente debe estimular la reflexión y el análisis de los productos lingüísticos."
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre los factores sociales del lenguaje y los cognitivos según Monfort y Juárez?",
+      "options": [
+        "Los factores sociales están asociados al entorno socioeconómico, familiar y escolar, mientras los cognitivos están vinculados a las capacidades intelectuales",
+        "Los factores sociales influyen en la competencia pragmática y los cognitivos en la competencia lingüística",
+        "Los factores sociales determinan el vocabulario adquirido y los cognitivos la gramática",
+        "Los factores sociales son modificables por la escuela y los cognitivos son innatos e inmutables"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Monfort y Juárez, los factores sociales están asociados al entorno socioeconómico, familiar y escolar, mientras los cognitivos están vinculados a las capacidades intelectuales. Los factores biológicos, por su parte, se relacionan con los órganos del cuerpo."
+    },
+    {
+      "question": "¿Cuál es el propósito del docente al estimular la reflexión lingüística de manera integrada según el texto?",
+      "options": [
+        "Trabajarla de forma integrada con la comunicación oral y escrita, estimulando la reflexión y el análisis de los productos lingüísticos",
+        "Enseñar sistemáticamente las categorías gramaticales y las normas de uso de la lengua",
+        "Corregir los errores lingüísticos del alumnado y desarrollar la conciencia metalingüística",
+        "Preparar al alumnado para el análisis sintáctico y morfológico propio de la ESO"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El docente es el encargado de estimular la reflexión y el análisis de los productos lingüísticos, trabajándolos de forma integrada con la comunicación oral y escrita. No se trata de enseñar gramática de forma aislada, sino de reflexionar sobre el lenguaje en uso."
+    },
+    {
+      "question": "¿Qué tipo de actividades de reflexión lingüística se deben iniciar mediante \"exploración, búsqueda y observación activa de regularidades\"?",
+      "options": [
+        "Actividades que permitan observar cómo cambian los significados al realizar modificaciones en los textos, partiendo de una exploración intuitiva hacia un análisis más sistemático",
+        "Actividades de memorización de reglas gramaticales a través de la observación de ejemplos en textos",
+        "Actividades de clasificación de palabras por categorías gramaticales observando sus propiedades formales",
+        "Actividades de deducción de normas ortográficas a partir de la observación de palabras correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades de reflexión lingüística deben promover la experimentación y la reflexión sobre las formas lingüísticas, empezando de manera intuitiva y avanzando hacia un análisis más sistemático, mediante tareas de exploración, búsqueda y observación activa de regularidades en el uso de la lengua."
+    },
+    {
+      "question": "¿Cuál es el objetivo formativo que indica el texto para la competencia escritora partiendo del contexto interpersonal en el aula?",
+      "options": [
+        "Organizar y compartir información, adquiriendo estrategias para expresarse por escrito de forma coherente a través de textos relacionados con la experiencia del alumnado y otras áreas",
+        "Desarrollar la creatividad y la expresión personal del alumnado mediante la escritura de textos literarios",
+        "Aprender a producir distintos tipos de textos formales respetando las convenciones del género",
+        "Automatizar las normas ortográficas y el uso de los signos de puntuación en producciones escritas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El desarrollo de la competencia escritora parte del contexto interpersonal en el aula con la intención de organizar y compartir información. El alumnado va adquiriendo estrategias para expresarse por escrito de forma coherente, a través de textos relacionados con su experiencia y con otras áreas, automatizando normas ortográficas."
+    },
+    {
+      "question": "¿Cuáles son los elementos del proceso de planificación que señala el texto como parte de la enseñanza de la escritura?",
+      "options": [
+        "Clarificar el objetivo comunicativo, reflexionar sobre el destinatario y organizar y estructurar las ideas con esquemas o notas",
+        "Seleccionar el tipo textual, determinar la extensión del texto y buscar información relevante",
+        "Elegir el vocabulario adecuado, revisar la gramática y planificar los recursos expresivos",
+        "Definir el propósito lector, activar conocimientos previos y formular hipótesis sobre el contenido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la planificación de la escritura se clarifica el objetivo comunicativo, se reflexiona sobre el destinatario y se organizan y estructuran las ideas con esquemas o notas. La selección del vocabulario y la revisión gramatical corresponden más a la fase de redacción y revisión."
+    },
+    {
+      "question": "¿Qué ocurre en la fase de redacción del proceso de escritura según el texto?",
+      "options": [
+        "Se produce un texto en palabras cuidando la coherencia, la cohesión y normas gráficas, sintácticas, semánticas y contextuales",
+        "Se clarifica el objetivo comunicativo y se organizan las ideas con esquemas o notas",
+        "Se mejora el texto, se detectan incoherencias y se reformulan aspectos de contenido y forma",
+        "Se presenta el texto al destinatario y se evalúa su impacto comunicativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La redacción supone producir un texto en palabras cuidando la coherencia, la cohesión y las normas gráficas, sintácticas, semánticas y contextuales. La planificación es la fase anterior (organización de ideas) y la revisión es la fase posterior (mejora y corrección del texto)."
+    },
+    {
+      "question": "¿Cómo describe el texto el enfoque globalizador y significativo de la lectoescritura?",
+      "options": [
+        "Considerando que leer es comprender y escribir es producir, ajustando la intervención a los intereses y necesidades del alumnado",
+        "Integrando la lectura y la escritura en todas las áreas del currículo de forma transversal",
+        "Partiendo de textos globales para descomponerlos progresivamente en unidades menores",
+        "Vinculando la lectoescritura a proyectos interdisciplinares que conecten todas las áreas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El enfoque globalizador y significativo considera que leer es comprender y escribir es producir. La intervención debe ajustarse a los intereses, motivaciones y necesidades del alumnado, actuando el docente como modelo experto y desarrollando actividades que partan de situaciones reales de uso."
+    },
+    {
+      "question": "¿Qué estrategias se aplican después de la lectura según el texto?",
+      "options": [
+        "Analizar el texto identificando hechos reales o imaginarios, elaborar un resumen o identificar dobles sentidos o connotaciones sexistas",
+        "Releer, inferir el significado de palabras desconocidas y consultar diccionarios",
+        "Despertar la motivación y activar los conocimientos previos mediante hipótesis",
+        "Observar imágenes del texto y predecir el tema del que va a tratar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Después de la lectura se puede analizar el texto identificando hechos reales o imaginarios, elaborando un resumen o identificando dobles sentidos o connotaciones sexistas. Las estrategias durante la lectura incluyen releer e inferir significados, y las estrategias antes incluyen activar conocimientos previos y hacer hipótesis."
+    },
+    {
+      "question": "¿En qué consiste el carácter funcional de la lectoescritura que el docente debe fomentar?",
+      "options": [
+        "Desarrollar actividades que partan de situaciones reales de uso, fomentando la aplicación de la lectoescritura para la vida cotidiana",
+        "Garantizar que el alumnado alcance los niveles mínimos de velocidad lectora y producción escrita",
+        "Asegurar que todas las actividades de lectoescritura cumplan con los criterios de evaluación del currículo",
+        "Priorizar los textos de uso frecuente en el ámbito académico sobre otros tipos de textos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El carácter funcional de la lectoescritura implica desarrollar actividades que partan de situaciones reales de uso, fomentando que la lectura y la escritura sean herramientas útiles para la vida cotidiana y no solo para el ámbito escolar. El docente debe actuar como modelo experto y ajustarse a los intereses del alumnado."
+    },
+    {
+      "question": "¿Cuál es el propósito de las tres lecturas distintas: leer para obtener información, para aprender y para disfrutar?",
+      "options": [
+        "Son propósitos lectores que determinan las estrategias a aplicar y resulta esencial definirlos antes de iniciar la lectura para guiar el proceso",
+        "Son niveles de comprensión lectora que se desarrollan progresivamente a lo largo de la EP",
+        "Son los tres tipos de texto que el alumnado debe trabajar en las distintas áreas del currículo",
+        "Son enfoques metodológicos para la enseñanza de la lectura en los tres ciclos de EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Leer para obtener información, para aprender y para disfrutar son propósitos lectores distintos que determinan las estrategias a aplicar. Es esencial definir el propósito lector y guiar el proceso con actividades antes, durante y después de la lectura, ya que el propósito orienta toda la actividad lectora."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre reflexión lingüística intuitiva y sistemática según el texto?",
+      "options": [
+        "Las actividades de reflexión lingüística deben empezar de manera intuitiva y avanzar hacia un análisis más sistemático, siguiendo el proceso natural de apropiación de la lengua",
+        "La reflexión intuitiva se produce espontáneamente en el uso comunicativo y la sistemática solo en clases de gramática",
+        "La reflexión intuitiva corresponde al primer ciclo y la sistemática al tercer ciclo de EP",
+        "La reflexión intuitiva trabaja el lenguaje oral y la sistemática el lenguaje escrito"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades de reflexión lingüística deben promover la experimentación comenzando de manera intuitiva y avanzando hacia un análisis más sistemático. Este proceso gradual respeta el desarrollo cognitivo del alumnado, pasando de la reflexión espontánea al análisis más estructurado."
+    },
+    {
+      "question": "¿En qué contexto se producen principalmente los textos académicos escritos por los niños según el texto?",
+      "options": [
+        "Surgen principalmente en la escuela, aunque también se producen en el hogar con limitaciones de tiempo y lugar",
+        "Se producen exclusivamente en el aula bajo la supervisión directa del docente",
+        "Se generan tanto en la escuela como en contextos extraescolares de manera autónoma",
+        "Surgen principalmente del entorno familiar y se llevan al aula para su corrección"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La mayoría de textos académicos escritos por los niños surgen en la escuela, aunque también pueden producirse fuera del contexto del aula. Su producción suele estar limitada por el tiempo y lugar del aula o del hogar, y su contenido proviene de otros textos como manuales o exposiciones del profesor."
+    },
+    {
+      "question": "¿Por qué el texto académico puede resultar problemático si se trabaja en exceso en el aula?",
+      "options": [
+        "Por ser abstracto y alejado de los alumnos, puede apartar otros textos más funcionales y cotidianos que resultan igualmente importantes para el desarrollo comunicativo",
+        "Porque su lenguaje técnico y su estructura rígida dificultan la comprensión del alumnado",
+        "Porque fomenta una actitud pasiva y receptiva en el alumnado frente a la información",
+        "Porque no desarrolla la creatividad ni la expresión personal del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que el docente debe conocer las características del texto académico para evitar su explotación excesiva y no apartar otros textos más funcionales y cotidianos. Su abstracción y alejamiento del contexto de los alumnos pueden limitar el desarrollo de competencias comunicativas más amplias."
+    },
+    {
+      "question": "¿Cuál es la característica que diferencia los textos académicos de los textos cotidianos en cuanto a su origen?",
+      "options": [
+        "El contenido de los textos académicos proviene de otros textos como manuales o exposiciones del profesor, mientras los textos cotidianos surgen de la experiencia directa",
+        "Los textos académicos son creados exclusivamente por el docente, mientras los cotidianos son producidos por el alumnado",
+        "Los textos académicos tienen siempre un destinatario institucional, mientras los cotidianos se dirigen a personas concretas",
+        "Los textos académicos siguen una estructura fija y preestablecida, mientras los cotidianos tienen estructura libre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El contenido de los textos académicos proviene de otros textos (como manuales o exposiciones del profesor) y se producen fuera de contexto siendo abstractos y alejados de los alumnos. En contraste, los textos seleccionados para trabajar con el alumnado deben ser completos y auténticos de la vida real."
+    },
+    {
+      "question": "¿Cómo afecta la naturaleza transversal de la lectura y la escritura al trabajo docente según el texto?",
+      "options": [
+        "Es fundamental trabajar la lectura y la escritura en todas las áreas, siendo un tema transversal, junto con el tiempo diario de lectura de 20-30 minutos",
+        "El trabajo transversal de la lectoescritura debe coordinarse con el especialista de LCL en cada área",
+        "La transversalidad implica que cada área es responsable de desarrollar la comprensión de textos específicos de su disciplina",
+        "El trabajo transversal sustituye las actividades específicas de LCL en los ciclos superiores de EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es fundamental trabajar la lectura y la escritura en todas las áreas como tema transversal, complementando el tiempo diario de lectura de entre 20 y 30 minutos que establece la Resolución del 16 de octubre de 2025 y el artículo 16 del Decreto 155/2022 para cada centro escolar."
+    },
+    {
+      "question": "¿Cuál es la condición que permite a los niños de entre 6 y 8 años reflexionar en voz alta y desarrollar el pensamiento verbal?",
+      "options": [
+        "El proceso de aprender a leer y escribir, que requiere intencionalidad del profesorado y las familias y un esfuerzo cognitivo del alumno",
+        "El inicio de la escolarización formal y la interacción con iguales en contextos académicos",
+        "La transición de la etapa de operaciones concretas a las operaciones formales según Piaget",
+        "La exposición a textos complejos que requieren procesos de análisis y síntesis cognitiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los 6 y 8 años, el proceso de aprender a leer y escribir (que requiere intencionalidad del profesorado y las familias y un esfuerzo cognitivo del alumno) permite que se mejore la comunicación, se enriquezca el vocabulario y se reflexione en voz alta desarrollando el pensamiento verbal."
+    },
+    {
+      "question": "¿Cuál es la relación entre la fase ortográfica de la lectura y la consolidación del léxico interno?",
+      "options": [
+        "En la fase ortográfica los procesos decodificadores automatizados permiten reconocer palabras con mayor rapidez y consolidar un léxico interno al leer los vocablos repetidamente",
+        "El léxico interno se consolida en la fase alfabética cuando el niño aprende las reglas de correspondencia fonema-grafema",
+        "El léxico interno es independiente de la fase lectora y se desarrolla paralelamente mediante la conversación oral",
+        "La consolidación del léxico interno precede a la fase ortográfica y la posibilita"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase ortográfica (7-8 años), la automatización de los procesos decodificadores permite reconocer palabras con mayor rapidez y lograr una lectura fluida, consolidando un léxico interno al leer los vocablos repetidamente. Este léxico interno es una base de palabras reconocidas globalmente sin necesidad de decodificación."
+    },
+    {
+      "question": "¿Qué diferencia existe entre la fase logográfica y la fase alfabética en cuanto al procesamiento de la información escrita?",
+      "options": [
+        "En la logográfica el reconocimiento es global y visual de palabras familiares, mientras en la alfabética se desarrolla la ruta fonológica para decodificar palabras",
+        "En la logográfica el niño asocia sonidos con grafías y en la alfabética reconoce palabras completas sin decodificación",
+        "En la logográfica el niño usa claves contextuales e imágenes, mientras en la alfabética usa exclusivamente claves visuales",
+        "La logográfica es una fase oral y la alfabética integra la dimensión escrita del lenguaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase logográfica, el niño reconoce globalmente palabras familiares de manera visual (como su propio nombre). En la fase alfabética, el niño desarrolla la ruta fonológica y domina los procesos decodificadores, aprendiendo a convertir grafemas en fonemas de manera sistemática."
+    },
+    {
+      "question": "¿Cuál es la dificultad específica que puede surgir en la fase alfabética de la lectura y qué consecuencias tiene?",
+      "options": [
+        "Las dificultades de automatización que ocasionan una lectura lenta y silabeante, con errores de exactitud y problemas de comprensión que limitan la fluidez lectora",
+        "La confusión entre letras de grafía similar como b/d y p/q, que genera errores de exactitud constantes",
+        "La sobreextensión de reglas fonológicas que produce hipercorrecciones en la lectura",
+        "El agotamiento cognitivo al aplicar conscientemente la decodificación, que limita la retención del contenido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las dificultades específicas de la fase alfabética son las de automatización, que ocasionan una lectura lenta, silabeante, con errores de exactitud y problemas de comprensión. Estas dificultades son consecuencia de que los procesos de decodificación aún no están automatizados, consumiendo recursos cognitivos que deberían dedicarse a la comprensión."
+    },
+    {
+      "question": "¿Cuál es la contribución principal de Ferreiro y Teberosky al conocimiento sobre la adquisición de la escritura?",
+      "options": [
+        "Que el niño aprende poniendo a prueba sus hipótesis sobre la escritura, más allá de la simple copia, y que la adquisición sigue tres fases identificables",
+        "Que la adquisición de la escritura depende fundamentalmente de la madurez neurológica y la psicomotricidad fina",
+        "Que la escritura se aprende mejor a través de la imitación de modelos adultos y la copia sistemática",
+        "Que el aprendizaje de la escritura es anterior al de la lectura y debe ser enseñado primero"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ferreiro y Teberosky (1979) contribuyeron con la idea de que el niño aprende la escritura poniendo a prueba sus hipótesis sobre ella, más allá de la simple copia. También describen las tres fases: grafismos primitivos y pseudoletras, escritura silábica y escritura alfabética."
+    },
+    {
+      "question": "¿Qué aporta el conocimiento de las fases lectoescritoras al docente en su práctica?",
+      "options": [
+        "Le permite diseñar actividades ajustadas a cada etapa, favorecer la evolución individual y detectar de manera temprana posibles dificultades, aplicando medidas de apoyo adecuadas",
+        "Le permite calificar con precisión el nivel lecto-escritor de cada alumno en las evaluaciones trimestrales",
+        "Le ayuda a organizar los grupos de trabajo homogéneos según el nivel de lectoescritura del alumnado",
+        "Le facilita la selección de los métodos más adecuados para toda la clase, garantizando resultados homogéneos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Conocer las fases lectoescritoras es imprescindible para que el docente diseñe actividades ajustadas a cada etapa, favorezca la evolución individual y detecte de manera temprana posibles dificultades, aplicando medidas de apoyo adecuadas. Esto permite una intervención preventiva y personalizada."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre los métodos mixtos es correcta según el texto?",
+      "options": [
+        "Aprovechan las ventajas de los métodos sintéticos y analíticos, poniendo al alumnado en contacto con textos completos y enseñando simultáneamente el sonido de letras y sílabas",
+        "Son métodos centrados exclusivamente en el aprendizaje de la escritura, dejando la lectura para una fase posterior",
+        "Priorizan los aspectos fonológicos de la decodificación sobre los aspectos semánticos y pragmáticos",
+        "Alternan el método global y el sintético en días o semanas distintas para aprovechar sus ventajas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los métodos mixtos son la unión de los métodos sintéticos y analíticos para aprovechar sus ventajas. Parten de una concepción global poniendo al alumnado en contacto con textos completos y enseñando simultáneamente el sonido de las letras y sílabas, no alternando sino integrando ambos enfoques."
+    },
+    {
+      "question": "¿Cuál es el punto de partida de los métodos analíticos o globales en la enseñanza de la lectoescritura?",
+      "options": [
+        "La lectura de un texto completo que se va desfragmentando en palabras y sílabas que le van resultando familiares al niño",
+        "El aprendizaje de las letras individualmente comenzando por las vocales y siguiendo con las consonantes",
+        "La sílaba directa (consonante-vocal) como unidad básica de aprendizaje que se combina en palabras",
+        "El nombre de la letra como punto de partida para su reconocimiento visual y su asociación sonora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los métodos analíticos o globales comienzan por la lectura de un texto completo que se va desfragmentando en palabras y sílabas que le van resultando familiares al niño. Este enfoque contrasta con los métodos sintéticos que parten de las unidades mínimas (letras o sílabas) para llegar al texto."
+    },
+    {
+      "question": "¿Cómo influye el papel del docente en la elección del método de lectoescritura según el texto?",
+      "options": [
+        "Es clave al elegir el método más adecuado, priorizando la motivación, el descubrimiento y la significatividad para el alumnado",
+        "Debe seguir las directrices del centro escolar y el proyecto educativo, independientemente de sus preferencias",
+        "Su papel es secundario ya que el método debe ajustarse al nivel evolutivo del alumnado independientemente del docente",
+        "Debe elegir el método con mayor evidencia científica según las investigaciones en neurolingüística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El papel del docente es clave al elegir el método más adecuado, priorizando la motivación, el descubrimiento y la significatividad para el alumnado. El docente tiene autonomía profesional para adaptar el método a las necesidades concretas de su grupo, siempre priorizando estos criterios pedagógicos."
+    },
+    {
+      "question": "¿En qué se basa el método silábico dentro de los métodos sintéticos?",
+      "options": [
+        "En el aprendizaje de las sílabas directas (consonante-vocal) y después las inversas (vocal-consonante)",
+        "En el aprendizaje del nombre de la letra como punto de entrada al sistema de escritura",
+        "En la enseñanza de la pronunciación del fonema, primero vocales y después consonantes",
+        "En la lectura de textos completos que se analizan en sus componentes silábicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El método silábico parte del aprendizaje de las sílabas directas (consonante-vocal) y después las inversas (vocal-consonante). El método alfabético parte del nombre de la letra y el método fónico de la pronunciación del fonema. Todos son subdivisiones de los métodos sintéticos."
+    },
+    {
+      "question": "¿Cuál es la clave de la lectoescritura según el texto: qué significan las expresiones \"leer es comprender\" y \"escribir es producir\"?",
+      "options": [
+        "Que la lectura y la escritura son procesos activos de construcción de significado y producción comunicativa, no meros procesos mecánicos de decodificación y codificación",
+        "Que la lectura debe valorarse por la comprensión del texto y la escritura por la calidad del producto final",
+        "Que el objetivo final de la lectura es la comprensión lectora y el de la escritura es la producción de textos correctos",
+        "Que la comprensión es el nivel superior de la lectura y la producción es la fase final de la escritura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las expresiones \"leer es comprender\" y \"escribir es producir\" reflejan el enfoque globalizador y significativo: la lectura y la escritura son procesos activos y comunicativos, no simples procesos mecánicos. El docente debe adoptar este enfoque, ajustándose a los intereses del alumnado y partiendo de situaciones reales."
+    },
+    {
+      "question": "¿Cuál es la función de publicar las producciones del alumnado en el proceso de enseñanza de la escritura?",
+      "options": [
+        "Reforzar la funcionalidad y el carácter social de la escritura, ya que el texto adquiere sentido al tener un destinatario real",
+        "Motivar al alumnado mediante el reconocimiento público de su trabajo y el refuerzo positivo",
+        "Facilitar la evaluación comparativa entre las producciones del grupo clase",
+        "Cumplir con los requisitos de la evaluación formativa que demanda el currículo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hacer públicas las producciones del alumnado refuerza la funcionalidad y el carácter social de la escritura. Cuando el texto tiene un destinatario real más allá del docente, la escritura adquiere un sentido comunicativo auténtico, lo que potencia la motivación y la calidad de las producciones."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el desarrollo de la competencia lectora y el de la competencia escritora según el texto?",
+      "options": [
+        "La competencia lectora se inicia en el primer ciclo con actividades motivadoras de comprensión, mientras la competencia escritora parte del contexto interpersonal en el aula con la intención de organizar y compartir información",
+        "La competencia lectora se desarrolla antes que la escritora, siendo esta un proceso que requiere la lectura como prerequisito",
+        "La competencia lectora es receptiva y la escritora productiva, siendo la primera más fácil de desarrollar",
+        "La competencia lectora se evalúa mediante pruebas externas y la escritora mediante la observación directa del docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto describe que el desarrollo de la competencia lectora se inicia en el primer ciclo con actividades motivadoras de comprensión, mientras el de la competencia escritora parte del contexto interpersonal en el aula con la intención de organizar y compartir información, con estrategias para expresarse de forma coherente."
+    },
+    {
+      "question": "¿Qué aspectos trabaja la revisión como fase del proceso de escritura?",
+      "options": [
+        "Mejorar el texto, detectar incoherencias y reformular aspectos de contenido y forma",
+        "Clarificar el objetivo comunicativo y reflexionar sobre el destinatario",
+        "Producir el texto cuidando la coherencia, la cohesión y las normas gráficas",
+        "Seleccionar los materiales de apoyo y organizar las ideas en esquemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La revisión supone mejorar el texto, detectar incoherencias y reformular aspectos de contenido y forma. Es la tercera fase del proceso de escritura, que cierra el ciclo iniciado con la planificación (organización de ideas) y continuado con la redacción (producción del texto)."
+    },
+    {
+      "question": "¿Cuáles son las tres lecturas con propósitos distintos que menciona el texto y cómo se relacionan con las estrategias?",
+      "options": [
+        "Leer para obtener información, para aprender y para disfrutar; cada propósito determina estrategias y actividades específicas antes, durante y después de la lectura",
+        "Leer en voz alta, en silencio y de forma compartida; cada modalidad requiere estrategias de comprensión distintas",
+        "Leer textos literarios, informativos y funcionales; cada tipología exige estrategias de comprensión diferenciadas",
+        "Leer de forma extensiva, intensiva y crítica; cada nivel de profundidad implica estrategias cognitivas diferentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los tres propósitos lectores son: leer para obtener información, para aprender y para disfrutar. Resulta esencial definir el propósito lector y guiar el proceso con actividades antes, durante y después de la lectura. El propósito orienta las estrategias a aplicar y da sentido a la actividad lectora."
+    },
+    {
+      "question": "¿Qué afirmación hace el texto sobre la relación entre las actividades de lectoescritura y las primeras edades?",
+      "options": [
+        "En las primeras edades de lectoescritura las actividades deben encaminarse a completar, transformar o inventar partes de un texto modelo",
+        "En las primeras edades se deben priorizar actividades de copia y reproducción de textos modelo",
+        "En las primeras edades las actividades de producción libre son más eficaces que las de comprensión guiada",
+        "En las primeras edades el trabajo individual es preferible al trabajo en grupo para consolidar los aprendizajes básicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En las primeras edades de lectoescritura, las actividades deben encaminarse a completar, transformar o inventar partes de un texto modelo, siguiendo la secuencia de primero comprensión y después producción. Esto respeta el desarrollo gradual de las capacidades lectoescritoras del alumnado."
+    },
+    {
+      "question": "¿Cómo se define el código en el proceso comunicativo según el texto?",
+      "options": [
+        "El conjunto de reglas propias de cada sistema de signos",
+        "El canal por el que se envía el mensaje",
+        "El conjunto de interferencias que distorsionan la señal",
+        "El contexto lingüístico que determina el significado del mensaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El código es el conjunto de reglas propias de cada sistema de signos. El canal es el medio por el que se envía el mensaje, las interferencias son las perturbaciones que sufre la señal, y el contexto lingüístico es uno de los tipos de contexto comunicativo."
+    },
+    {
+      "question": "¿Cuál es la postura sobre el aprendizaje de la lectoescritura que contrasta con la de Vygotsky según el texto?",
+      "options": [
+        "La postura de que los niños solo saben lo que se les enseña en la escuela, frente a la de Vygotsky que defiende el contacto significativo con textos entre los 2 y 5 años",
+        "La postura de Chomsky que defiende que la adquisición del lenguaje es fundamentalmente innata y biológica",
+        "La postura conductista que defiende que el lenguaje se aprende por imitación y refuerzo",
+        "La postura de Piaget que defiende que el pensamiento precede al lenguaje y condiciona su desarrollo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto contrasta la postura de que los niños solo saben lo que se les enseña en la escuela con la de Vygotsky, quien defiende que entre los 2 y 5 años los discentes ya se encuentran inmersos en contextos alfabetizados, habiendo tenido contacto significativo con los textos especialmente a través de la familia."
+    },
+    {
+      "question": "¿Cuál es la relación entre la lectoescritura y el Decreto 155/2022 en los planes obligatorios de los centros?",
+      "options": [
+        "El artículo 33 del Decreto 155/2022 recoge los planes obligatorios relacionados con la lectura que deben tener los centros docentes, incluyendo el PLEA y el Plan de Biblioteca",
+        "El artículo 16 del Decreto 155/2022 establece los principios pedagógicos que regulan la enseñanza de la lectoescritura",
+        "El Anexo II del Decreto 155/2022 establece los objetivos de área de LCL que orientan la intervención en lectoescritura",
+        "El artículo 7 del Decreto 155/2022 recoge los objetivos de etapa que incluyen el desarrollo de la competencia lectora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 33 del Decreto 155/2022 recoge los planes obligatorios relacionados con la lectura de los centros docentes, entre los que se incluyen el PLEA (Plan de Lectura, Escritura y Acceso a la Información) y el Plan de Biblioteca. El artículo 16 recoge los principios pedagógicos y el artículo 7 los objetivos de etapa."
+    },
+    {
+      "question": "¿Cuál es el papel específico del contexto familiar según Vygotsky para el aprendizaje de la lectoescritura?",
+      "options": [
+        "Proporciona el contacto significativo con los textos entre los 2 y 5 años, cuando el niño ya está inmerso en contextos alfabetizados",
+        "Complementa la instrucción escolar mediante actividades de lectura en voz alta y ayuda con las tareas",
+        "Determina el nivel socioeconómico que condiciona el acceso a materiales de lectura y escritura",
+        "Actúa como contexto de práctica de las habilidades lectoescritoras aprendidas en la escuela"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Vygotsky, entre los 2 y 5 años los niños ya se encuentran inmersos en contextos alfabetizados, habiendo tenido contacto significativo con los textos especialmente a través de la familia. Este contacto previo a la escolarización es fundamental para el posterior aprendizaje formal de la lectoescritura."
+    },
+    {
+      "question": "¿Cuál es la importancia de las TIC en el trabajo de la lectura y la escritura según el texto?",
+      "options": [
+        "Resultan útiles para buscar información, apoyar la comprensión con lectores de texto o diccionarios electrónicos, y crear a través de aplicaciones",
+        "Son herramientas que deben sustituir progresivamente a los materiales impresos en el aula",
+        "Permiten la evaluación automática de la comprensión lectora y la corrección ortográfica",
+        "Facilitan el acceso a textos de mayor complejidad y extensión que los materiales tradicionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las TIC resultan útiles para buscar información, apoyar la comprensión con lectores de texto o diccionarios electrónicos, y crear a través de aplicaciones como PowerPoint, Microsoft Word, Genially, Pixton o Storybird. Son herramientas complementarias que enriquecen el trabajo lectoescritor."
+    },
+    {
+      "question": "¿Cuál de las siguientes actividades menciona el texto como ejemplo de \"ensalada de cuentos\"?",
+      "options": [
+        "Integrar los personajes favoritos de los alumnos en historias elaboradas por ellos mismos",
+        "Mezclar diferentes tipologías textuales en una misma producción escrita",
+        "Combinar fragmentos de distintos cuentos para crear un texto nuevo colectivo",
+        "Crear un texto a partir de ilustraciones de diferentes cuentos ordenadas al azar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La \"ensalada de cuentos\" consiste en integrar los personajes favoritos de los alumnos en historias elaboradas por ellos mismos. Esta es la única definición que aparece en el texto para esta actividad, que se enmarca dentro de las actividades de escritura creativa propuestas para el aula."
+    },
+    {
+      "question": "¿Cuál es la función del canal en el proceso comunicativo?",
+      "options": [
+        "Es el medio por el que se envía el mensaje",
+        "Es la realidad o tema al que hace referencia el mensaje",
+        "Es el conjunto de reglas propias de cada sistema de signos",
+        "Es el lugar donde proviene la información"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El canal es el medio por el que se envía el mensaje. El referente es la realidad o tema al que hace referencia el mensaje, el código es el conjunto de reglas propias del sistema de signos, y la fuente es el lugar donde proviene la información."
+    },
+    {
+      "question": "¿Cuáles son las interferencias o barreras en el proceso comunicativo según el texto?",
+      "options": [
+        "Las perturbaciones que sufre la señal durante el proceso comunicativo",
+        "Las diferencias culturales y lingüísticas entre emisor y receptor que impiden la comprensión",
+        "Los elementos del contexto situacional que desvían la atención del receptor",
+        "Los fallos en la codificación del mensaje por parte del emisor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las interferencias o barreras son las perturbaciones que sufre la señal durante el proceso comunicativo. Son distintas del código (sistema de signos), del referente (realidad representada) y del contexto (circunstancias que rodean la comunicación)."
+    },
+    {
+      "question": "¿Cuáles son los tres factores biológicos, cognitivos y sociales del lenguaje y cómo se aplican a la práctica docente?",
+      "options": [
+        "Los biológicos se refieren a los órganos del cuerpo; los cognitivos a las capacidades intelectuales; los sociales al entorno socioeconómico, familiar y escolar; el docente debe considerar los tres en la intervención",
+        "Los biológicos son innatos e inmodificables; los cognitivos son desarrollables mediante instrucción; los sociales son los únicos modificables por la escuela",
+        "Los biológicos determinan las posibilidades de aprendizaje; los cognitivos el ritmo de adquisición; los sociales el nivel de motivación",
+        "Los biológicos se asocian a la fonología; los cognitivos a la semántica; los sociales a la pragmática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Monfort y Juárez (1991) identifican tres factores: los biológicos (órganos del cuerpo), los cognitivos (capacidades intelectuales) y los sociales (entorno socioeconómico, familiar y escolar). El docente debe tenerlos en cuenta para comprender la variabilidad en la adquisición del lenguaje y diseñar intervenciones ajustadas."
+    },
+    {
+      "question": "¿Qué implica que el área de LCL tenga carácter instrumental según Prado (2004)?",
+      "options": [
+        "Que proporciona las habilidades lingüísticas para hablar, escuchar, leer, escribir y comprender, siendo la base para el aprendizaje en todas las demás áreas",
+        "Que se limita a la enseñanza de las reglas gramaticales y ortográficas del castellano y el gallego",
+        "Que sus contenidos son medios para alcanzar objetivos de otras áreas del currículo",
+        "Que debe evaluarse mediante instrumentos estandarizados que permitan comparar el rendimiento del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El carácter instrumental del área de LCL significa que proporciona las habilidades lingüísticas básicas (hablar, escuchar, leer, escribir y comprender) que son la base para el aprendizaje en todas las demás áreas. Prado (2004) destaca que permite elaborar, emitir y recibir mensajes en diferentes formatos y contextos."
+    },
+    {
+      "question": "¿Qué relación existe entre la teoría constructivista de Piaget y el proceso de adquisición de la lectoescritura?",
+      "options": [
+        "El pensamiento evoluciona de lo concreto a operaciones mentales más complejas entre los 8 y 12 años, lo que mejora la sintaxis y la gramática, y Piaget y Ferreiro defienden que el niño construye activamente su conocimiento",
+        "El lenguaje se desarrolla antes que el pensamiento, por lo que la lectoescritura es previa al desarrollo cognitivo",
+        "El pensamiento formal aparece hacia los 12 años permitiendo la adquisición de la escritura alfabética convencional",
+        "La construcción activa del conocimiento implica que el docente no debe intervenir en el proceso lectoescritor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La teoría constructivista de Piaget sostiene que el pensamiento evoluciona de lo concreto a operaciones más complejas (base de operaciones concretas entre 8-12 años), mejorando la sintaxis y la gramática. Piaget y Ferreiro también coinciden en que el niño construye activamente su conocimiento sobre la escritura."
+    },
+    {
+      "question": "¿Qué especificidad tiene el contexto cultural dentro del contexto comunicativo?",
+      "options": [
+        "El contexto cultural es uno de los cuatro tipos de contexto comunicativo (junto con el lingüístico, situacional y físico) que determinan el sentido del mensaje",
+        "El contexto cultural es el único tipo de contexto que determina el significado de los mensajes no verbales",
+        "El contexto cultural incluye el registro lingüístico del emisor y condiciona su elección de código",
+        "El contexto cultural es el marco ideológico que rodea la comunicación y que no puede cambiarse por la intervención educativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El contexto cultural es uno de los cuatro tipos de contexto comunicativo identificados en el texto (junto con el lingüístico, situacional y físico). El contexto comunicativo en su conjunto es el conjunto de medios lingüísticos y no lingüísticos, junto con las situaciones que rodean la transmisión del mensaje y determinan su sentido."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el texto oral y el texto escrito dentro de la definición de Cassany et al. (1994)?",
+      "options": [
+        "Ambos son textos ya que la definición los incluye: el texto es un conjunto de signos orales o escritos producto de la actividad verbal humana que conforman una unidad de sentido",
+        "Solo los textos escritos cumplen las propiedades textuales de adecuación, coherencia y cohesión",
+        "Los textos orales son efímeros y espontáneos, mientras los escritos son permanentes y planificados",
+        "Los textos orales pertenecen al ámbito familiar o personal y los escritos al ámbito académico o laboral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany et al. (1994), siguiendo a Bernárdez (1982), definen el texto como un conjunto de signos orales o escritos, lo que significa que tanto los textos orales como los escritos son textos y, por tanto, deben cumplir las propiedades textuales. La distinción oral/escrito no determina si algo es texto o no."
+    },
+    {
+      "question": "¿Qué implica que los textos seleccionados para trabajar deben ser \"auténticos\" según el texto?",
+      "options": [
+        "Que deben ser completos y auténticos de la vida real y no solo creados artificialmente para el aula",
+        "Que deben ser textos originales producidos por autores reconocidos, no adaptaciones o simplificaciones",
+        "Que deben pertenecer a géneros textuales existentes y no ser inventados por el docente",
+        "Que su contenido debe ser verídico y contrastable, sin incluir textos de ficción o literarios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textos deben ser completos y auténticos de la vida real y no solo creados para el aula. Esto implica que deben proceder de contextos comunicativos reales (periódicos, cartas, anuncios, etc.), lo que les da un sentido y funcionalidad comunicativa genuinos que los textos artificialmente creados no tienen."
+    },
+    {
+      "question": "¿Cuál es la secuencia metodológica para trabajar la lectura antes, durante y después que propone el texto?",
+      "options": [
+        "Antes: despertar motivación y activar conocimientos previos; durante: aplicar estrategias de comprensión como releer e inferir; después: analizar el texto, elaborar resúmenes e identificar dobles sentidos",
+        "Antes: leer en silencio para formarse una primera impresión; durante: subrayar ideas principales; después: responder preguntas de comprensión",
+        "Antes: presentar vocabulario difícil; durante: leer en voz alta; después: debatir el contenido del texto en grupo",
+        "Antes: proporcionar el contexto histórico del texto; durante: tomar notas; después: comparar con otros textos similares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La secuencia propuesta es: antes (despertar motivación y activar conocimientos previos, observar imágenes, hacer hipótesis), durante (aplicar estrategias de comprensión: releer, inferir, consultar diccionarios) y después (analizar el texto: identificar hechos, elaborar resúmenes, identificar dobles sentidos o connotaciones)."
+    },
+    {
+      "question": "¿Por qué el texto recomienda partir de \"modificaciones en los textos\" en las actividades de reflexión lingüística?",
+      "options": [
+        "Para que el alumnado observe cómo cambian los significados de los mensajes al modificar elementos lingüísticos, favoreciendo la reflexión activa sobre el sistema de la lengua",
+        "Para que el alumnado practique la corrección de errores y mejore la calidad de sus producciones escritas",
+        "Para desarrollar la creatividad del alumnado mediante la reescritura libre y la transformación de textos",
+        "Para que el alumnado contraste versiones diferentes del mismo texto y evalúe cuál es más adecuada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades deben enfocarse en la realización de modificaciones en los textos por parte del alumnado para observar cómo cambian los significados de los mensajes. Este enfoque convierte la reflexión lingüística en una exploración activa del funcionamiento de la lengua, más significativa que la memorización de reglas."
+    },
+    {
+      "question": "¿Cuál es la relación entre el objetivo de área 5 del Decreto 155/2022 y las fases del proceso de escritura?",
+      "options": [
+        "El objetivo 5 menciona estrategias de planificación, textualización, redacción, revisión y edición que se corresponden directamente con las fases del proceso de escritura: planificación, redacción y revisión",
+        "El objetivo 5 establece los estándares de calidad gramatical y ortográfica que deben alcanzar las producciones escritas del alumnado",
+        "El objetivo 5 define las tipologías textuales que deben producir los alumnos en cada ciclo de EP",
+        "El objetivo 5 marca los niveles de competencia escritora que deben alcanzar los alumnos al finalizar cada ciclo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo de área 5 menciona explícitamente estrategias de planificación, textualización, redacción, revisión y edición para construir conocimiento y responder a necesidades comunicativas. Estas fases se corresponden con el proceso de escritura estructurado en planificación, redacción y revisión que describe el texto."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el tiempo de lectura en voz alta y la lectura silenciosa en el primer ciclo de EP?",
+      "options": [
+        "En el primer ciclo se trabajan ambas modalidades: la lectura silenciosa y en voz alta con apoyo visual, como parte de las actividades motivadoras para desarrollar la competencia lectora",
+        "En el primer ciclo solo se trabaja la lectura en voz alta, dejando la silenciosa para el segundo ciclo",
+        "La lectura silenciosa precede a la en voz alta como proceso de comprensión previo a la verbalización",
+        "La lectura en voz alta es para el grupo clase y la silenciosa para el trabajo individual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo se integran tanto la lectura silenciosa como la lectura en voz alta con apoyo visual. Ambas modalidades forman parte de las actividades motivadoras del primer ciclo, ya que contribuyen al desarrollo de la competencia lectora desde diferentes perspectivas complementarias."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre las actividades de comprensión y producción textual según la secuencia propuesta por el texto?",
+      "options": [
+        "Las actividades de comprensión deben realizarse antes que las de producción para que el alumnado visualice primero un modelo de texto y luego lo produzca",
+        "Las actividades de comprensión son orales y las de producción son escritas, siguiendo el orden natural de adquisición",
+        "Las actividades de comprensión son individuales y las de producción son grupales para favorecer el andamiaje",
+        "Las actividades de comprensión pertenecen al primer ciclo y las de producción al segundo y tercer ciclo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al iniciar el trabajo con un tipo de texto, se deben realizar primero actividades de comprensión y después de producción, de forma que se visualice un modelo de texto. Esta secuencia es especialmente importante en las primeras edades de lectoescritura, donde las actividades deben encaminarse a completar, transformar o inventar partes del texto modelo."
+    },
+    {
+      "question": "¿Cuál es la función de la retroalimentación positiva y negativa en el proceso comunicativo?",
+      "options": [
+        "Ambas reflejan la reacción del receptor, asegurando la interacción y continuidad del intercambio comunicativo",
+        "La retroalimentación positiva refuerza el mensaje y la negativa lo cuestiona o rechaza",
+        "La retroalimentación positiva indica comprensión del mensaje y la negativa indica interferencias en el canal",
+        "La retroalimentación positiva corresponde a la comunicación oral y la negativa a la escrita"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La retroalimentación asegura la interacción y continuidad del intercambio comunicativo, reflejando la reacción del receptor, tanto positiva como negativa. En ambos casos, la retroalimentación contribuye al proceso comunicativo al cerrar el circuito de la comunicación y permitir ajustes en el mensaje."
+    },
+    {
+      "question": "¿Cuál es la importancia de la activación de los conocimientos previos antes de la lectura?",
+      "options": [
+        "Junto con la motivación, permite contextualizar el texto y facilitar la comprensión, ya que el lector conecta lo nuevo con lo que ya sabe",
+        "Garantiza que todos los alumnos partan del mismo nivel de conocimientos antes de leer el texto",
+        "Permite al docente identificar qué conceptos necesitan explicación previa antes de comenzar la lectura",
+        "Ayuda al alumnado a verificar si sus conocimientos previos son correctos o si contienen errores conceptuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Antes de leer, despertar la motivación y activar los conocimientos previos (mediante la observación de imágenes o la realización de hipótesis sobre el tema) contextualiza el texto y facilita la comprensión, ya que el lector puede conectar la nueva información con lo que ya sabe. Es fundamental en el enfoque significativo de la lectura."
+    },
+    {
+      "question": "¿Qué diferencia existe entre el ámbito académico y el ámbito laboral según Cassany et al.?",
+      "options": [
+        "El académico es propio de la escuela con tendencia a la formalidad (exámenes, redacciones), mientras el laboral está vinculado al ámbito profesional con lenguaje específico y formal (currículums, entrevistas)",
+        "El académico es exclusivamente oral y el laboral principalmente escrito, con diferente grado de formalidad",
+        "El académico se caracteriza por la creatividad y la expresión personal, mientras el laboral exige precisión técnica",
+        "El académico incluye textos para toda la comunidad educativa y el laboral para audiencias externas al centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ámbito académico es propio de la escuela, tiende a la formalidad e incluye textos como exámenes o redacciones. El ámbito laboral está vinculado al ámbito profesional, con lenguaje específico y formal como en currículums y entrevistas. Ambos son formales pero pertenecen a contextos distintos."
+    },
+    {
+      "question": "¿Cuál es la postura de Piaget y Decroly sobre los métodos sintéticos en comparación con su enfoque sobre el aprendizaje?",
+      "options": [
+        "Critican que parten de contenidos abstractos y poco significativos para el niño, lo que contradice la teoría constructivista que defiende un aprendizaje activo y significativo a partir de lo concreto",
+        "Los apoyan porque permiten una progresión sistemática y ordenada coherente con el desarrollo cognitivo por estadios",
+        "Los cuestionan por excesivamente lentos en el proceso de automatización de la decodificación lectora",
+        "Los valoran por desarrollar la conciencia fonológica, clave para la adquisición de la lectoescritura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Piaget y Decroly critican que los métodos sintéticos parten de contenidos abstractos y poco significativos para el niño, generando un aprendizaje mecánico y poco motivador. Esto contradice la teoría constructivista de Piaget, que defiende que el aprendizaje parte de lo concreto y significativo para avanzar hacia lo abstracto."
+    },
+    {
+      "question": "¿Cuál es la aportación específica del método global natural de Freinet a la enseñanza de la lectoescritura?",
+      "options": [
+        "Considera la lectura como un medio de comunicación y motiva al alumnado a crear textos colectivos comunes a partir de actividades orales, antes de los ejercicios de copia o reconocimiento de palabras",
+        "Se centra en la percepción visual de los signos escritos como base de la comprensión lectora global",
+        "Integra la lectura y la escritura en todas las actividades escolares desde una perspectiva globalizada",
+        "Parte de la descomposición de textos familiares para que el alumnado descubra las unidades menores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El método global natural de Freinet considera la lectura como un medio de comunicación, motivando al alumnado a crear textos colectivos comunes a partir de actividades orales antes de ejercicios de copia o reconocimiento de palabras. La integración en todas las actividades y la percepción visual corresponden al método global de Decroly."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el contenido de los textos académicos y el de los textos cotidianos en el aula?",
+      "options": [
+        "El contenido de los textos académicos proviene de otros textos como manuales o exposiciones del profesor, siendo abstracto y alejado de los alumnos, mientras los cotidianos son auténticos y funcionales de la vida real",
+        "Los textos académicos son más extensos y complejos que los cotidianos, que son breves y sencillos",
+        "Los textos académicos pertenecen al área de LCL y los cotidianos se trabajan en el resto de áreas",
+        "Los textos académicos los selecciona el docente y los cotidianos los aporta el propio alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El contenido de los textos académicos proviene de otros textos como manuales o exposiciones del profesor y se producen fuera de contexto siendo abstractos y alejados de los alumnos. En contraste, los textos seleccionados para trabajar con el alumnado deben ser completos y auténticos de la vida real, no solo creados para el aula."
+    },
+    {
+      "question": "¿Cuál es la relación entre la escritura y la planificación según el proceso de enseñanza descrito?",
+      "options": [
+        "La planificación es la primera fase del proceso de escritura en la que se clarifica el objetivo comunicativo, se reflexiona sobre el destinatario y se organizan y estructuran las ideas con esquemas o notas",
+        "La planificación es un proceso paralelo a la escritura que se desarrolla simultáneamente durante la redacción",
+        "La planificación es propia de los ciclos superiores de EP, mientras en el primer ciclo se escribe directamente",
+        "La planificación consiste en que el docente prepare las actividades de escritura antes de presentarlas al alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación es la primera fase del proceso de escritura. En ella se clarifica el objetivo comunicativo, se reflexiona sobre el destinatario y se organizan y estructuran las ideas con esquemas o notas. Esta planificación previa es fundamental para que la escritura sea un proceso consciente y eficaz."
+    },
+    {
+      "question": "¿Cuál es la relación entre el ODS4 \"Educación de Calidad\" y la enseñanza de la lectoescritura?",
+      "options": [
+        "El ODS4 busca una educación para todos que permita desarrollar la alfabetización, lo que se relaciona directamente con la enseñanza de la lectura y la escritura como base del aprendizaje",
+        "El ODS4 establece los estándares mínimos de competencia lectora que deben alcanzar todos los alumnos",
+        "El ODS4 obliga a los centros a implementar programas específicos de lectoescritura para alumnos desfavorecidos",
+        "El ODS4 garantiza el acceso a materiales de lectura en todos los centros educativos del mundo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ODS4 \"Educación de Calidad\" busca una educación para todos y todas que permita desarrollar la alfabetización. Esta meta se relaciona directamente con la enseñanza de la lectura y la escritura en LCL, ya que la alfabetización es la base de todo aprendizaje posterior y condición para la participación social plena."
+    },
+    {
+      "question": "¿Cuál es el enfoque del texto sobre la evaluación en el proceso de enseñanza de la lectura y la escritura?",
+      "options": [
+        "Debe enfocarse en todo el proceso de aprendizaje y no solo en el producto final, integrando la revisión en grupo y haciendo públicas las producciones para reforzar su funcionalidad social",
+        "Debe basarse en pruebas objetivas estandarizadas que permitan comparar el nivel del alumnado con referencias nacionales",
+        "Debe centrarse en la corrección formal de los textos producidos, identificando y categorizando los errores gramaticales",
+        "Debe realizarse principalmente mediante la autoevaluación del alumnado y el portfolio individual de escritura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación debe enfocarse en todo el proceso de aprendizaje y no solo en el producto final, integrando la revisión en grupo como práctica habitual para favorecer el aprendizaje autónomo, y haciendo públicas las producciones del alumnado para reforzar su funcionalidad y el carácter social de la escritura."
+    },
+    {
+      "question": "¿Qué diferencia existe entre los planes PLEA y Plan de Biblioteca en cuanto a su regulación?",
+      "options": [
+        "El PLEA está regulado en la Resolución del 16 de octubre de 2025 y en el artículo 12 de la Orden de 26 de mayo, mientras el Plan de Biblioteca está recogido en el artículo 13 de esa misma Orden",
+        "El PLEA es obligatorio para todos los centros y el Plan de Biblioteca es opcional o voluntario",
+        "El PLEA es competencia del gobierno central y el Plan de Biblioteca es una iniciativa autonómica de Galicia",
+        "El PLEA se dirige a la competencia lingüística y el Plan de Biblioteca exclusivamente al fomento de la lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PLEA está regulado en la Resolución del 16 de octubre de 2025 y en el artículo 12 de la Orden de 26 de mayo. El Plan de Biblioteca está recogido en el artículo 13 de esa misma Orden. Ambos son planes obligatorios recogidos en el artículo 33 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el PROA+ y el Plan Proxecta+ mencionados en el texto?",
+      "options": [
+        "PROA+ está orientado a mejorar la competencia lingüística, mientras el Plan Proxecta+ incluye programas específicos como Fitofaladoiro o Nos Tamén Creamos",
+        "PROA+ es un programa nacional y el Plan Proxecta+ es una iniciativa propia de la Xunta de Galicia",
+        "PROA+ se dirige a centros con alumnado desfavorecido y el Plan Proxecta+ a centros de alto rendimiento",
+        "PROA+ está centrado en la lectura y el Plan Proxecta+ en la escritura y la producción textual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona PROA+ para mejorar la competencia lingüística y el Plan Proxecta+ con programas como Fitofaladoiro o Nos Tamén Creamos. Ambos son otros programas educativos además del Plan LIA y el PLAMBE, pero el texto no especifica su distinción en términos de ámbito nacional/autonómico o tipo de centro."
+    },
+    {
+      "question": "¿Cómo describe el texto el desarrollo lingüístico entre los 8 y 12 años en relación con la sintaxis y la gramática?",
+      "options": [
+        "El lenguaje se desarrolla a través de experiencias sociales, la lectura y los contenidos escolares, mejorando la sintaxis y la gramática, el uso de tiempos verbales y pronombres, gracias a la base de la etapa de operaciones concretas",
+        "El alumnado adquiere el conocimiento metalingüístico y la voz pasiva, aprendiendo a cambiar de registro lingüístico",
+        "El pensamiento evoluciona de lo concreto a lo abstracto, permitiendo el dominio de la lectura fluida y la escritura alfabética",
+        "Los niños aprenden a leer y escribir y reflexionan en voz alta, desarrollando el pensamiento verbal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los 8 y 12 años, el lenguaje se desarrolla a través de experiencias sociales, la lectura y los contenidos escolares. Tomando como base la etapa de operaciones concretas de Piaget, el pensamiento evoluciona de lo concreto a operaciones mentales más complejas, mejorando la sintaxis y la gramática, el uso de tiempos verbales y pronombres."
+    },
+    {
+      "question": "¿Cuál es la justificación del texto para trabajar la lectoescritura de manera transversal en todas las áreas?",
+      "options": [
+        "La lectura y la escritura son herramientas comunicativas fundamentales para el aprendizaje en todas las áreas, siendo un tema transversal que requiere un tiempo diario de 20-30 minutos en todos los centros",
+        "El currículo establece que el área de LCL debe coordinarse con el resto de áreas para garantizar la coherencia metodológica",
+        "La transversalidad permite optimizar el tiempo escolar al evitar la repetición de las mismas actividades en diferentes áreas",
+        "Los textos multimodales de las distintas áreas requieren el desarrollo de estrategias lectoras específicas de cada disciplina"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La lectura y la escritura son herramientas comunicativas fundamentales para el aprendizaje en todas las áreas, siendo un tema transversal. Además, la Resolución del 16 de octubre de 2025 y el artículo 16 del Decreto 155/2022 establecen un tiempo diario de lectura de entre 20 y 30 minutos para cada centro."
+    },
+    {
+      "question": "¿Cuáles son los tres tipos de mecanismos que influyen en la adquisición de la lectoescritura y qué autores los representan?",
+      "options": [
+        "Neurolingüísticos (procesos perceptivos); psicolingüísticos (Piaget y Emilia Ferreiro); sociolingüísticos (Nemirovsky, Teberosky y Teresa Neira)",
+        "Fonológicos (Chomsky); cognitivos (Piaget); sociales (Vygotsky)",
+        "Neurolingüísticos (Lenneberg); cognitivos (Bruner); socioculturales (Vygotsky)",
+        "Perceptivos (Frith); constructivistas (Ferreiro); comunicativos (Teberosky)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los tres mecanismos son: neurolingüísticos (procesos perceptivos de recogida y almacenamiento de información), psicolingüísticos o cognitivos (Piaget y Emilia Ferreiro, que defienden la construcción activa del conocimiento) y sociolingüísticos (Nemirovsky, Teberosky y Teresa Neira, que destacan la naturaleza social de la lengua)."
+    },
+    {
+      "question": "¿Cuál es la contribución específica de Teresa Neira a la comprensión de la lectoescritura según el texto?",
+      "options": [
+        "Junto a Prado (2004) define la lectura y la escritura, y junto a Nemirovsky y Teberosky destaca la naturaleza social de la lengua y cómo la interacción social, cultural y el contexto influyen en su adquisición",
+        "Propone las tres fases de adquisición de la escritura: grafismos primitivos, escritura silábica y escritura alfabética",
+        "Desarrolla el concepto de lectoescritura como proceso planificado y sistemático de aprendizaje paralelo",
+        "Introduce la noción de mecanismos neurolingüísticos en el estudio de la adquisición de la lectoescritura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Teresa Neira contribuye en dos aspectos: junto a Prado (2004) define la lectura y la escritura, y junto a Nemirovsky y Teberosky destaca la naturaleza social de la lengua y cómo la interacción social, cultural y el contexto influyen en su adquisición. Las fases de escritura son de Ferreiro y Teberosky."
+    },
+    {
+      "question": "¿Cuál es la razón por la que el texto afirma que el lenguaje no es solo una herramienta académica?",
+      "options": [
+        "Porque es la base de la comunicación, el pensamiento y las relaciones humanas, tal como recoge la conclusión del tema",
+        "Porque se usa en todos los ámbitos de la vida, tanto en contextos formales como informales",
+        "Porque su desarrollo es anterior a la escolarización y continúa durante toda la vida del individuo",
+        "Porque integra aspectos biológicos, cognitivos y sociales que van más allá de lo puramente académico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema establece que el lenguaje no es solo una herramienta académica, sino que es la base de la comunicación, el pensamiento y las relaciones humanas, tal como ilustra la cita de Francesco Tonucci. La escuela tiene un papel fundamental como espacio social donde se desarrollan estas habilidades."
+    },
+    {
+      "question": "¿Cuál es la consecuencia de no ajustar la intervención en lectoescritura a los intereses del alumnado?",
+      "options": [
+        "Se dificulta el aprendizaje significativo ya que el enfoque globalizador exige que la intervención se ajuste a los intereses, motivaciones y necesidades del alumnado para que la lectoescritura tenga sentido",
+        "Se produce un retraso en la adquisición de la ruta fonológica y en la automatización de la decodificación",
+        "El alumnado no desarrolla adecuadamente la conciencia fonológica necesaria para la escritura convencional",
+        "Se generan dificultades específicas de aprendizaje al no respetar el ritmo individual del alumno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El enfoque globalizador y significativo de la lectoescritura exige que la intervención se ajuste a los intereses, motivaciones y necesidades del alumnado. No hacerlo dificulta el aprendizaje significativo porque la lectoescritura pierde su sentido comunicativo y funcional, reduciéndose a un ejercicio mecánico."
+    },
+    {
+      "question": "¿Qué postura adopta el texto sobre la relación entre el desarrollo cognitivo y el lingüístico hacia los 12 años?",
+      "options": [
+        "Hacia los 12 años los niños comienzan a organizar y planificar en silencio, adquieren la voz pasiva, aprenden a cambiar de registro y desarrollan el conocimiento metalingüístico, reflejando la madurez cognitiva y lingüística alcanzada",
+        "Hacia los 12 años el desarrollo lingüístico está completamente consolidado y el alumnado puede aprender cualquier sistema de escritura",
+        "Hacia los 12 años el pensamiento formal permite prescindir del apoyo lingüístico y aprender de forma exclusivamente visual",
+        "Hacia los 12 años la interacción social se convierte en el principal motor del desarrollo lingüístico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hacia los 12 años los niños organizan y planifican en silencio, leen y piensan sin verbalizar, adquieren la voz pasiva, aprenden a cambiar de registro lingüístico según el contexto, desarrollan el conocimiento metalingüístico y usan recursos expresivos. Estas habilidades reflejan la madurez cognitiva y lingüística de esta etapa."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la fase de escritura silábica y la escritura alfabética en cuanto al nivel de correspondencia?",
+      "options": [
+        "En la silábica el niño asocia sonidos con grafías de manera parcial (sílabas), mientras en la alfabética realiza una correspondencia exacta entre cada letra y cada fonema",
+        "En la silábica no existe correspondencia entre sonido y escritura, mientras en la alfabética ya existe correspondencia parcial",
+        "En la silábica el niño usa grafías inventadas y en la alfabética usa letras convencionales del alfabeto",
+        "En la silábica el niño puede leer lo que escribe y en la alfabética no, porque el sistema aún no está consolidado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase silábica, el niño descubre la relación entre lengua oral y escrita, asociando sonidos con grafías (una grafía por sílaba). En la fase alfabética, realiza una correspondencia exacta entre letra y fonema, aunque pueden existir errores ortográficos y de segmentación. La segunda fase es más precisa que la primera."
+    },
+    {
+      "question": "¿Cuál es la relación entre el carácter social de la escritura y la práctica de hacer públicas las producciones del alumnado?",
+      "options": [
+        "Hacer públicas las producciones refuerza el carácter social de la escritura porque el texto tiene un destinatario real más allá del docente, dando sentido comunicativo auténtico a la actividad",
+        "La publicación de trabajos es una estrategia de motivación extrínseca que mejora el esfuerzo del alumnado en las producciones escritas",
+        "La publicación permite que el alumnado reciba retroalimentación de sus compañeros y mejore sus habilidades de revisión",
+        "La publicación de trabajos es una forma de evaluación formativa que complementa la corrección del docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hacer públicas las producciones refuerza la funcionalidad y el carácter social de la escritura. Cuando el texto tiene un destinatario real (más allá del docente), la escritura adquiere un sentido comunicativo auténtico, que es uno de los principios del enfoque significativo de la lectoescritura."
+    },
+    {
+      "question": "¿Qué importancia tiene la abstracción creciente durante la EP para la reflexión sobre el lenguaje?",
+      "options": [
+        "Permite que los niños se aproximen a la lengua de forma más reflexiva y conozcan algunos rasgos de su funcionamiento, siendo el docente quien debe estimular este proceso",
+        "Determina el momento en que el alumnado puede aprender las reglas gramaticales de forma explícita",
+        "Permite que el alumnado realice análisis sintácticos y morfológicos de mayor complejidad progresiva",
+        "Facilita que el alumnado transfiera los conocimientos lingüísticos del castellano al gallego y viceversa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Durante la EP los niños van desarrollando una capacidad creciente de abstracción que les permite aproximarse a la lengua que usan de forma más reflexiva, conociendo algunos de los rasgos de su funcionamiento. Por tanto, el docente es el encargado de estimular la reflexión y el análisis de los productos lingüísticos."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la coherencia y la cohesión como propiedades del texto?",
+      "options": [
+        "La coherencia es la estructuración y ordenación lógica de la información, mientras la cohesión se basa en el uso adecuado de la gramática y de los conectores que relacionan las ideas",
+        "La coherencia es una propiedad del contenido y la cohesión de la forma, siendo ambas independientes entre sí",
+        "La coherencia se trabaja con actividades de escritura y la cohesión con actividades de lectura",
+        "La coherencia es una propiedad global del texto y la cohesión es una propiedad local de cada oración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La coherencia es la estructuración y ordenación lógica de la información en un texto (seleccionar y estructurar bien las ideas). La cohesión se basa en el uso adecuado de la gramática y de los conectores que relacionan las ideas del texto, incluyendo la puntuación como elemento esencial."
+    },
+    {
+      "question": "¿Cuál es la razón específica que da el texto para que la lectura sea un proceso activo?",
+      "options": [
+        "La lectura es un proceso activo porque implica reproducir a través de palabras la forma y el contenido de un mensaje escrito con signos gráficos, requiriendo implicación cognitiva del lector",
+        "La lectura es activa porque exige la aplicación de estrategias metacognitivas de monitorización de la comprensión",
+        "La lectura es activa porque el lector construye activamente el significado del texto a partir de sus conocimientos previos",
+        "La lectura es activa porque requiere la decodificación fonológica, proceso cognitivo complejo que exige atención"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prado (2004) y Teresa Neira definen la lectura como un proceso activo con el cual se reproducen a través de palabras la forma y el contenido de un mensaje escrito con signos gráficos. Este carácter activo la distingue de la escritura, definida como proceso mecánico de representación."
+    },
+    {
+      "question": "¿Cuál es la función de los planes obligatorios de los centros en relación con la lectura según el artículo 33 del Decreto 155/2022?",
+      "options": [
+        "Garantizar que todos los centros docentes desarrollen de manera sistemática el fomento de la lectura, la escritura y el acceso a la información, contando con una biblioteca escolar bien organizada",
+        "Establecer los criterios para la adquisición y actualización de los fondos bibliográficos de las bibliotecas escolares",
+        "Coordinar las acciones de fomento lector entre los distintos ciclos y etapas educativas del centro",
+        "Evaluar el nivel de competencia lectora del alumnado y establecer medidas de mejora en función de los resultados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 33 del Decreto 155/2022 recoge los planes obligatorios relacionados con la lectura que deben tener los centros docentes: el PLEA (fomentando la lectura, la escritura y el acceso a la información) y el Plan de Biblioteca (concibiendo la biblioteca escolar como centro de recursos para la lectura, la información y el aprendizaje)."
+    },
+    {
+      "question": "¿Cuál es la aportación específica del contexto sociocultural a la enseñanza del lenguaje según el texto?",
+      "options": [
+        "La enseñanza de la lengua no puede desligarse del contexto sociocultural porque el contexto comunicativo (conjunto de medios lingüísticos y no lingüísticos y situaciones) determina el sentido del mensaje",
+        "El contexto sociocultural determina el vocabulario que el alumnado ya conoce y que el docente debe ampliar",
+        "El contexto sociocultural es el origen de las variedades lingüísticas que el docente debe respetar y valorar",
+        "El contexto sociocultural establece las normas pragmáticas que regulan el uso apropiado de la lengua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La enseñanza de la lengua no puede desligarse del contexto sociocultural porque el contexto comunicativo (conjunto de medios lingüísticos y no lingüísticos junto con las situaciones que rodean la transmisión del mensaje) determina su sentido. Este contexto puede ser lingüístico, situacional, físico o cultural."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre las actividades de escritura relacionadas con la vida cotidiana y las de ámbito académico?",
+      "options": [
+        "Las actividades cotidianas como enviar mensajes, elaborar recetas o crear artículos para la web tienen destinatarios reales y propósitos comunicativos auténticos, mientras las académicas demuestran conocimientos en un contexto más formal",
+        "Las actividades cotidianas son libres y creativas, mientras las académicas siguen estructuras textuales preestablecidas",
+        "Las actividades cotidianas utilizan un registro informal y las académicas un registro formal con lenguaje preciso",
+        "Las actividades cotidianas se realizan fuera del aula y las académicas dentro, condicionadas por el tiempo escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades de escritura cotidianas (enviar mensajes, elaborar infografías de recetas, crear artículos para la web, realizar ensalada de cuentos) tienen destinatarios reales y propósitos comunicativos auténticos. Los textos académicos, en cambio, demuestran los conocimientos del alumnado en un contexto más formal con el docente como destinatario habitual."
+    },
+    {
+      "question": "¿Cuál es el argumento principal del texto para vincular la lectoescritura con los valores del siglo XXI?",
+      "options": [
+        "Se debe fomentar la autonomía, la motivación y la capacidad crítica y reflexiva para resolver problemas comunicativos del siglo XXI, siendo la lectoescritura la base de estas habilidades",
+        "La lectoescritura digital requiere nuevas competencias específicas para el uso de dispositivos tecnológicos",
+        "El siglo XXI exige ciudadanos capaces de procesar grandes volúmenes de información de manera eficiente",
+        "La globalización demanda el dominio de múltiples lenguas y sistemas de escritura desde las primeras etapas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del texto señala que los docentes deben fomentar la autonomía, la motivación y la capacidad crítica y reflexiva para resolver problemas comunicativos del siglo XXI. Cassany et al. (1994) refuerzan esto: las sociedades dependen del lenguaje como medio de comunicación, y leer y escribir son las llaves para comprender, expresarse y participar plenamente en el mundo."
+    },
+    {
+      "question": "¿Cuál es la relación entre el Decreto 155/2022 y el Real Decreto 157/2022 en materia de lectoescritura?",
+      "options": [
+        "El Real Decreto 157/2022 establece la ordenación y enseñanzas mínimas de EP a nivel estatal, mientras el Decreto 155/2022 desarrolla el currículo de EP en Galicia, siendo la norma autonómica la que concreta los objetivos y contenidos específicos",
+        "El Real Decreto 157/2022 regula la evaluación en EP y el Decreto 155/2022 la ordenación curricular",
+        "El Real Decreto 157/2022 es la norma básica que incluye los planes de lectura y el Decreto 155/2022 los desarrolla en Galicia",
+        "El Real Decreto 157/2022 establece las competencias clave y el Decreto 155/2022 los objetivos de área de LCL"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal. El Decreto 155/2022, de 15 de septiembre, desarrolla el currículo de EP específicamente en Galicia, concretando los objetivos de etapa, de área y los contenidos del Anexo II."
+    },
+    {
+      "question": "¿Cuál es la importancia de Francesco Tonucci en el contexto del Tema 15?",
+      "options": [
+        "Es citado en la conclusión como psicopedagogo y dibujante que afirma que \"leer y escribir es el mejor regalo para tus hijos\", ilustrando la esencia del tema sobre el valor del lenguaje",
+        "Es uno de los autores principales del tema cuya teoría sobre la lectoescritura fundamenta las propuestas metodológicas",
+        "Es el autor de la definición de lectoescritura como proceso de aprendizaje planificado y sistemático",
+        "Es el pedagogo que propuso las tres fases de adquisición de la lectura (logográfica, alfabética, ortográfica)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Francesco Tonucci es citado en la conclusión como psicopedagogo y dibujante que afirma que \"leer y escribir es el mejor regalo para tus hijos\". Esta cita sirve para ilustrar la esencia del tema: el lenguaje como base de la comunicación, el pensamiento y las relaciones humanas. Las fases de lectura son de Uta Frith."
+    },
+    {
+      "question": "¿Cuál es la aportación de Cassany et al. (1994) que cierra la conclusión del Tema 15?",
+      "options": [
+        "Afirman que las sociedades dependen del lenguaje como medio de comunicación y que enseñar a leer y escribir es regalar a los alumnos las llaves para comprender, expresarse y participar plenamente en el mundo",
+        "Definen el texto como unidad base de la comunicación lingüística y señalan sus propiedades fundamentales",
+        "Distinguen siete ámbitos de uso del lenguaje que determinan el tipo de texto y el registro apropiado",
+        "Proponen tres métodos para la enseñanza de la lectoescritura que el docente debe conocer y saber aplicar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La cita final del tema es de Cassany et al. (1994): las sociedades dependen del lenguaje como medio de comunicación, y enseñar a leer y escribir es regalar a los alumnos las llaves para comprender, expresarse y participar plenamente en el mundo. Esta cita cierra el tema y subraya el valor transformador de la lectoescritura."
+    }
+  ]
+}

@@ -1,0 +1,2219 @@
+{
+  "title": "Educación en Valores Cívicos y Éticos (Tema 11)",
+  "description": "Quiz sobre el área de Educación en Valores Cívicos y Éticos: enfoque, características, marco legislativo, objetivos, contenidos, criterios de evaluación y relación con otras áreas del currículo en EP.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué ley incorpora el área de Educación en Valores Cívicos y Éticos (EVCE) al currículo de Educación Primaria?",
+      "options": [
+        "Ley Orgánica 2/2006, de 3 de mayo (LOE)",
+        "Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)",
+        "Ley Orgánica 8/2013, de 9 de diciembre (LOMCE)",
+        "Real Decreto 157/2022, de 1 de marzo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE (LO 3/2020, de 29 de diciembre) incorpora el área de EVCE al currículo de EP, sustituyendo a la anterior Educación para la Ciudadanía de la LOE de 2006."
+    },
+    {
+      "question": "¿A qué área anterior sustituye la EVCE en el sistema educativo español?",
+      "options": [
+        "Valores Sociales y Cívicos de la LOMCE en 2013",
+        "Ética y Ciudadanía de la LOE en 2006",
+        "Educación para la Ciudadanía de la LOE en 2006",
+        "Formación Cívica y Ética de la LGE en 1970"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EVCE sustituye a la anterior Educación para la Ciudadanía de la LOE en 2006. La circular informativa de la dirección general determina que todo lo referido a ese área se entiende referido, desde ese momento, a la EVCE."
+    },
+    {
+      "question": "¿En qué curso de Educación Primaria se imparte el área de EVCE según el Decreto 155/2022?",
+      "options": [
+        "5º de EP",
+        "4º y 6º de EP",
+        "6º de EP",
+        "5º y 6º de EP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 155/2022 y su Anexo III establecen que el área de EVCE se desarrolla en 6º curso de EP, con una sesión semanal."
+    },
+    {
+      "question": "¿Cuántas sesiones semanales tiene el área de EVCE según el Anexo III del Decreto 155/2022?",
+      "options": [
+        "Dos sesiones semanales",
+        "Tres sesiones semanales",
+        "Una sesión semanal",
+        "Cuatro sesiones semanales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Anexo III del Decreto 155/2022 establece que el área de EVCE se desarrolla en una sesión semanal en 6º curso de EP."
+    },
+    {
+      "question": "Según Puig (1996), la educación moral implica:",
+      "options": [
+        "La transmisión de normas establecidas por la sociedad democrática",
+        "El respeto a la autoridad y las normas institucionales vigentes",
+        "El aprendizaje de los valores democráticos fundamentales",
+        "La construcción progresiva de una personalidad autónoma capaz de orientar su propia conducta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En palabras de Puig (1996), la educación moral no se reduce a la transmisión de normas, sino que implica la construcción progresiva de una personalidad autónoma capaz de orientar su propia conducta."
+    },
+    {
+      "question": "¿Qué decreto autonómico establece la ordenación y el currículo de la Educación Primaria en Galicia?",
+      "options": [
+        "Decreto 79/2010, de 20 de mayo",
+        "Decreto 229/2011, de 7 de diciembre",
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 374/1996, de 17 de octubre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Galicia, atendiendo al RD 157/2022."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece la finalidad de la etapa de Educación Primaria?",
+      "options": [
+        "Artículo 3",
+        "Artículo 4",
+        "Artículo 6",
+        "Artículo 7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece como finalidad de la etapa una formación integral que contribuya al pleno desarrollo de la personalidad del alumnado y lo prepare para cursar con aprovechamiento la ESO."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la etapa de EP según el artículo 4 del Decreto 155/2022?",
+      "options": [
+        "La adquisición de las competencias clave para el aprendizaje permanente",
+        "El desarrollo de habilidades básicas para la integración social y laboral",
+        "Una formación integral que contribuya al pleno desarrollo de su personalidad y prepararlo para cursar con aprovechamiento la ESO",
+        "El desarrollo de la conciencia democrática y los valores cívicos fundamentales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece que la finalidad de la EP es una formación integral que contribuya al pleno desarrollo de la personalidad y preparar al alumnado para cursar con aprovechamiento la educación secundaria obligatoria."
+    },
+    {
+      "question": "¿Cuáles son las tres dimensiones del desarrollo que abarca la formación integral en el enfoque del área de EVCE?",
+      "options": [
+        "Físico, cognitivo y social",
+        "Intelectual, moral y emocional",
+        "Personal, social y cultural",
+        "Cognitivo, afectivo y conductual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El enfoque de la EVCE parte de una formación integral del alumnado que abarca todas las dimensiones de su desarrollo: intelectual, moral y emocional, otorgando especial relevancia a la dimensión moral y emocional."
+    },
+    {
+      "question": "¿Qué dos dimensiones reciben especial relevancia en el enfoque de la EVCE por su influencia en el aprendizaje?",
+      "options": [
+        "La dimensión cognitiva y la dimensión social",
+        "La dimensión intelectual y la dimensión cultural",
+        "La dimensión moral y la dimensión emocional",
+        "La dimensión corporal y la dimensión cognitiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 155/2022 otorga especial relevancia a la dimensión moral y emocional del desarrollo por su influencia en el aprendizaje del alumnado."
+    },
+    {
+      "question": "¿Cuántas características se citan para el área de EVCE en el Decreto 155/2022?",
+      "options": [
+        "Seis características",
+        "Siete características",
+        "Ocho características",
+        "Cinco características"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 155/2022 recoge ocho características que definen el área de EVCE, desde su dimensión transversal hasta su función de favorecer la convivencia."
+    },
+    {
+      "question": "¿En qué consiste la primera característica del área de EVCE?",
+      "options": [
+        "Constituye un componente esencial de la Educación en Valores",
+        "Parte del derecho al desarrollo intelectual, moral y emocional",
+        "Posee una dimensión transversal",
+        "Se vincula con los ODS de la Agenda 2030"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La primera característica de la EVCE es su dimensión transversal: aunque se trabaja de forma reglada en 6º de EP, sus contenidos están conectados con el resto de áreas y niveles educativos y con los elementos transversales del artículo 17 del Decreto 155/2022."
+    },
+    {
+      "question": "La dimensión transversal de la EVCE significa que, a pesar de trabajarse de forma reglada en 6º de EP:",
+      "options": [
+        "Sus contenidos se integran en todas las áreas sin necesidad de desarrollarse de forma reglada",
+        "Sus contenidos son trabajados por todos los docentes del centro de forma coordinada",
+        "Sus contenidos están conectados con el resto de áreas y niveles educativos, así como con los elementos transversales del artículo 17",
+        "Sus contenidos se trabajan de forma reglada en todos los cursos de EP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La transversalidad de la EVCE implica que, a pesar de tener espacio reglado en 6º EP, sus contenidos están conectados con el resto de áreas y niveles educativos, así como con los elementos transversales del artículo 17 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Cuántos objetivos fundamentales se recogen como sexta característica del área de EVCE?",
+      "options": [
+        "Tres objetivos fundamentales",
+        "Cuatro objetivos fundamentales",
+        "Cinco objetivos fundamentales",
+        "Seis objetivos fundamentales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como sexta característica, el área de EVCE se organiza en torno a cuatro objetivos fundamentales: autoconocimiento y autonomía personal; comprensión de la convivencia democrática; actitudes para la sostenibilidad; y educación emocional."
+    },
+    {
+      "question": "Los cuatro objetivos fundamentales del área de EVCE se despliegan en dos niveles:",
+      "options": [
+        "Conceptual y procedimental",
+        "Individual y social",
+        "Teórico y práctico",
+        "Escolar y extraescolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Como sexta característica, los cuatro objetivos fundamentales del área se despliegan en dos niveles: uno teórico, dirigido al abordaje de conceptos, y otro práctico o instrumental, orientado a promover conductas y actitudes acorde con los valores cívicos y éticos."
+    },
+    {
+      "question": "¿Cuáles son los cuatro objetivos fundamentales de la EVCE recogidos como sexta característica?",
+      "options": [
+        "Ciudadanía, democracia, sostenibilidad y ética",
+        "Autoestima, cooperación, ecología y valores",
+        "Identidad, participación, medio ambiente y empatía",
+        "Autoconocimiento y autonomía personal; comprensión de la convivencia democrática; actitudes para la sostenibilidad; y educación emocional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los cuatro objetivos fundamentales del área son: el autoconocimiento y desarrollo de la autonomía personal; la comprensión de la convivencia democrática; la adopción de actitudes para la sostenibilidad del entorno; y la educación emocional."
+    },
+    {
+      "question": "¿En qué año fue aprobada la Agenda 2030 por la ONU y cuántos ODS contiene?",
+      "options": [
+        "2015, con 18 ODS",
+        "2015, con 17 ODS",
+        "2020, con 17 ODS",
+        "2030, con 15 ODS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Agenda 2030 fue aprobada por la ONU en 2015 y contiene 17 Objetivos de Desarrollo Sostenible (ODS), a los cuales contribuye el área de EVCE."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 recoge los elementos transversales del currículo de EP?",
+      "options": [
+        "Artículo 15",
+        "Artículo 16",
+        "Artículo 17",
+        "Artículo 18"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 17 del Decreto 155/2022 recoge los elementos transversales del currículo de EP, con los que el área de EVCE está conectada como parte de su dimensión transversal."
+    },
+    {
+      "question": "¿Cómo se define el currículo en el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Los principios, fines y objetivos que orientan la acción educativa en la etapa primaria",
+        "El conjunto de enseñanzas y actividades organizadas para el desarrollo integral del alumnado",
+        "Los métodos, recursos y criterios de evaluación del proceso educativo",
+        "El conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de la EP"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El artículo 6 del Decreto 155/2022 define el currículo como el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de la EP."
+    },
+    {
+      "question": "¿Cómo se definen los métodos pedagógicos en el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Las estrategias y recursos utilizados por el docente para facilitar el aprendizaje del alumnado",
+        "Los procedimientos de evaluación que permiten valorar el progreso del alumnado",
+        "Las indicaciones para orientar al profesorado en el diseño y planificación de estrategias para favorecer el aprendizaje del alumnado para lograr los objetivos y adquirir las CC",
+        "Las actividades diseñadas para promover el desarrollo de las competencias clave del alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 6 del Decreto 155/2022 define los métodos pedagógicos como las indicaciones para orientar al profesorado en el diseño y planificación de las estrategias, los procedimientos y las acciones docentes con la finalidad de favorecer el aprendizaje del alumnado para lograr los objetivos y adquirir las CC."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 establece que las actividades deben favorecer el desarrollo simultáneo de más de una CC?",
+      "options": [
+        "Artículo 8",
+        "Artículo 14",
+        "Artículo 16",
+        "Artículo 17"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 16 del Decreto 155/2022, que recoge los principios pedagógicos, señala que las actividades deben favorecer al desarrollo simultáneo de más de una de las ocho CC recogidas en el artículo 8, dado su enfoque transversal."
+    },
+    {
+      "question": "¿Cuántas competencias clave recoge el artículo 8 del Decreto 155/2022?",
+      "options": [
+        "Seis CC",
+        "Siete CC",
+        "Ocho CC",
+        "Nueve CC"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 8 del Decreto 155/2022 recoge un total de ocho competencias clave, siendo el área de EVCE un espacio transversal que contribuye al desarrollo de todas ellas."
+    },
+    {
+      "question": "¿A qué norma europea son adaptación las competencias clave en el sistema educativo español?",
+      "options": [
+        "Directiva del Parlamento Europeo de 2006",
+        "Marco Europeo de Cualificaciones para el Aprendizaje Permanente de 2017",
+        "Tratado de Lisboa sobre educación y formación de 2007",
+        "Recomendación del Consejo de la Unión Europea del 22 de mayo de 2018"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las CC son la adaptación al sistema educativo de las competencias para el aprendizaje permanente establecidas en la Recomendación del Consejo de la Unión Europea del 22 de mayo de 2018."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 recoge los principios pedagógicos de la EP?",
+      "options": [
+        "Artículo 14",
+        "Artículo 15",
+        "Artículo 16",
+        "Artículo 17"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 16 del Decreto 155/2022 recoge los principios pedagógicos de la EP. Las propuestas de intervención del área de EVCE parten de una concepción constructivista del aprendizaje y de estos principios."
+    },
+    {
+      "question": "Rose y Meyer (2002) son los autores del modelo que se menciona en las propuestas de intervención de la EVCE:",
+      "options": [
+        "Marco de Aprendizaje Colaborativo",
+        "Diseño Universal para el Aprendizaje (DUA)",
+        "Modelo de Aprendizaje Basado en Proyectos",
+        "Enfoque de Educación Emocional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rose y Meyer (2002) son los autores del Diseño Universal para el Aprendizaje (DUA), cuyos principios se integran en las propuestas de intervención del área de EVCE para atender la diversidad del alumnado."
+    },
+    {
+      "question": "¿En qué consiste la octava característica del área de EVCE?",
+      "options": [
+        "Se vincula con los ODS de la Agenda 2030",
+        "Constituir un componente esencial de la Educación en Valores",
+        "Promover la construcción del proyecto vital del alumnado",
+        "Favorecer la convivencia en el centro y en sus entornos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La octava característica del área es que la EVCE está encaminada a favorecer la convivencia en el centro y en sus entornos, fomentando la empatía, el respeto a la diversidad, la tolerancia y la cultura para la paz."
+    },
+    {
+      "question": "¿Qué recomendación de la UNESCO (2023) se menciona en el tema relacionada con la EVCE?",
+      "options": [
+        "Educación para la ciudadanía digital y el pensamiento crítico",
+        "Formación en valores democráticos y participación ciudadana responsable",
+        "Educación para la paz y los derechos humanos, la comprensión internacional, la cooperación, las libertades fundamentales, la ciudadanía mundial y el desarrollo sostenible",
+        "Educación inclusiva y de calidad para todos en el marco de la Agenda 2030"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La UNESCO (2023) demanda una educación para la paz, los derechos humanos, la comprensión internacional, la cooperación, las libertades fundamentales, la ciudadanía mundial y el desarrollo sostenible, objetivos que persigue el área de EVCE."
+    },
+    {
+      "question": "¿Cuál es el fin del área de EVCE según el Decreto 155/2022?",
+      "options": [
+        "Desarrollar las competencias clave para el aprendizaje permanente",
+        "Garantizar el desarrollo integral del alumnado en todas sus dimensiones",
+        "Formar a los alumnos para ejercer una ciudadanía crítica, responsable y comprometida con los valores democráticos, dando respuesta a los retos del siglo XXI y los ODS",
+        "Promover la convivencia democrática y el respeto a los derechos humanos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de EVCE tiene como fin formar a los alumnos para ejercer una ciudadanía crítica, responsable y comprometida con los valores democráticos, dando respuestas a los retos del siglo XXI y a los objetivos de la Agenda 2030."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una de las ocho características del área de EVCE?",
+      "options": [
+        "Posee una dimensión transversal",
+        "Se vincula con los ODS de la Agenda 2030",
+        "Se desarrolla en todas las áreas del currículo de forma reglada",
+        "Prepara para la construcción del proyecto vital del alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EVCE se trabaja de forma reglada solo en 6º de EP, aunque tiene dimensión transversal. Desarrollarse de forma reglada en todas las áreas no es una de sus características; precisamente su transversalidad implica conexión sin ser un área en todos los cursos."
+    },
+    {
+      "question": "Según el artículo 3 del Decreto 155/2022, la Educación Primaria se organiza en áreas con carácter:",
+      "options": [
+        "Disciplinar y secuencial",
+        "Global e integrador",
+        "Transversal y progresivo",
+        "Modular y flexible"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 3 del Decreto 155/2022 establece que la EP se organiza en áreas con un carácter global e integrador, de modo que todos los aprendizajes están conectados entre sí."
+    },
+    {
+      "question": "¿Qué definición de competencias clave proporciona el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Las capacidades para aplicar de forma integrada los contenidos propios de cada área",
+        "Los conocimientos, habilidades y actitudes necesarios para la integración social y laboral",
+        "Los desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo y afrontar los principales retos y desafíos globales y locales",
+        "Las habilidades fundamentales para participar de forma activa en la sociedad democrática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las CC como los desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo y afrontar los principales retos y desafíos globales y locales."
+    },
+    {
+      "question": "La vinculación con los ODS de la Agenda 2030 se recoge como la ______ característica del área de EVCE.",
+      "options": [
+        "Quinta característica",
+        "Sexta característica",
+        "Séptima característica",
+        "Octava característica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La séptima característica del área es que la EVCE se vincula con los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030 que permiten mejorar el bienestar social y medioambiental de las sociedades."
+    },
+    {
+      "question": "¿Qué enfoque integra los elementos transversales del artículo 17 en las propuestas de intervención de la EVCE?",
+      "options": [
+        "Constructivista e inclusivo",
+        "Globalizador e interdisciplinar",
+        "Cooperativo y participativo",
+        "Reflexivo y crítico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tercera línea de actuación metodológica propone adoptar un enfoque globalizador e interdisciplinar que integre los elementos transversales recogidos en el artículo 17 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué decreto estatal establece las enseñanzas mínimas de Educación Primaria?",
+      "options": [
+        "Real Decreto 126/2014, de 28 de febrero",
+        "Real Decreto 157/2022, de 1 de marzo",
+        "Real Decreto 893/2022, de 18 de octubre",
+        "Real Decreto 217/2022, de 29 de marzo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal, al que se ajusta el Decreto 155/2022 de Galicia."
+    },
+    {
+      "question": "Los contenidos del área de EVCE se corresponden con los ______ del RD 157/2022.",
+      "options": [
+        "Criterios de evaluación",
+        "Estándares de aprendizaje",
+        "Saberes básicos",
+        "Indicadores de logro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los contenidos del área de EVCE se corresponden con los saberes básicos establecidos en el RD 157/2022, organizados en bloques de contenido en el Annexo II del Decreto 155/2022."
+    },
+    {
+      "question": "Los objetivos de área del Decreto 155/2022 se corresponden con las ______ del RD 157/2022.",
+      "options": [
+        "Metas de aprendizaje",
+        "Competencias específicas",
+        "Capacidades esenciales",
+        "Destrezas fundamentales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos de área, definidos en el artículo 6 del Decreto 155/2022, se corresponden con las competencias específicas establecidas en el RD 157/2022."
+    },
+    {
+      "question": "¿En qué Anexo del Decreto 155/2022 se recogen los objetivos y contenidos del área de EVCE?",
+      "options": [
+        "Anexo I",
+        "Anexo II",
+        "Anexo III",
+        "Anexo IV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos y contenidos del área de EVCE se recogen en el Anexo II del Decreto 155/2022. El Anexo III, en cambio, especifica que la EVCE se desarrolla en una sesión semanal en 6º de EP."
+    },
+    {
+      "question": "¿En qué Anexo del Decreto 155/2022 se indica que la EVCE se desarrolla en una sesión semanal en 6º de EP?",
+      "options": [
+        "Anexo I",
+        "Anexo II",
+        "Anexo III",
+        "Anexo IV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Anexo III del Decreto 155/2022 especifica que el área de EVCE se desarrolla en una sesión semanal en 6º curso de EP."
+    },
+    {
+      "question": "La concepción constructivista del aprendizaje en las propuestas de intervención de la EVCE se vincula con los principios del:",
+      "options": [
+        "Artículo 14 del Decreto 155/2022",
+        "Artículo 15 del Decreto 155/2022",
+        "Artículo 16 del Decreto 155/2022",
+        "Artículo 17 del Decreto 155/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las propuestas de intervención parten de los principios pedagógicos del artículo 16 del Decreto 155/2022 y de una concepción constructivista del aprendizaje, priorizando determinadas líneas de actuación."
+    },
+    {
+      "question": "¿Cuál es la cuarta característica de la EVCE relacionada directamente con el desarrollo de las CC?",
+      "options": [
+        "Posee una dimensión transversal conectada con todas las áreas",
+        "Constituye un componente esencial de la Educación en Valores",
+        "Implica movilizar un conjunto de conocimientos, destrezas, actitudes y valores",
+        "Prepara al alumnado para la construcción de su propio proyecto vital y favorece el desarrollo de las CC para afrontar los retos del siglo XXI"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La cuarta característica del área es que prepara al alumnado para la construcción de su propio proyecto vital y favorece el desarrollo de las CC para afrontar los retos del siglo XXI."
+    },
+    {
+      "question": "¿A cuántos objetivos de etapa del artículo 7 del Decreto 155/2022 se vincula estrechamente el área de EVCE?",
+      "options": [
+        "A cinco de los 15 objetivos de etapa",
+        "A seis de los 15 objetivos de etapa",
+        "A siete de los 15 objetivos de etapa",
+        "A todos los 15 objetivos de etapa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de EVCE contribuye a todos los objetivos de etapa, pero se vincula estrechamente con siete de ellos (a, b, c, d, l, m, ñ) de los 15 que recoge el artículo 7 del Decreto 155/2022."
+    },
+    {
+      "question": "¿Cuántos objetivos de etapa recoge en total el artículo 7 del Decreto 155/2022?",
+      "options": [
+        "12 objetivos",
+        "14 objetivos",
+        "15 objetivos",
+        "17 objetivos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 7 del Decreto 155/2022 recoge un total de 15 objetivos de etapa. El área de EVCE contribuye a todos ellos, pero se vincula estrechamente con siete (a, b, c, d, l, m, ñ)."
+    },
+    {
+      "question": "¿Cuál es el contenido del objetivo de etapa 'a' del artículo 7 del Decreto 155/2022 vinculado con la EVCE?",
+      "options": [
+        "Desarrollar hábitos de trabajo, esfuerzo y responsabilidad en el estudio",
+        "Adquirir habilidades para la resolución pacífica de conflictos",
+        "Conocer los valores y normas de convivencia democrática, actuar con empatía, prepararse para el ejercicio activo de una ciudadanía y respetar los derechos humanos y el pluralismo",
+        "Conocer y respetar las diferentes culturas y la igualdad de oportunidades"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El objetivo de etapa 'a' está destinado a conocer los valores y normas de convivencia democrática, actuar con empatía, prepararse para el ejercicio activo de una ciudadanía y respetar los derechos humanos y el pluralismo."
+    },
+    {
+      "question": "¿Cuál es el contenido del objetivo de etapa 'ñ' vinculado con la EVCE?",
+      "options": [
+        "Conocer y respetar las diferentes culturas y las diferencias entre las personas",
+        "Desarrollar sus capacidades afectivas y una actitud contraria a la violencia y los estereotipos sexistas",
+        "Conocer y valorar a los animales más próximos y adoptar modos de comportamiento favorables a su cuidado",
+        "Conocer, apreciar y valorar las singularidades culturales, lingüísticas, físicas y sociales de Galicia, poniendo de relevancia a las mujeres y hombres que realizaron aportaciones importantes a la cultura y a la sociedad gallegas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El objetivo 'ñ' está referido a conocer, apreciar y valorar las singularidades culturales, lingüísticas, físicas y sociales de Galicia, poniendo de relevancia a las mujeres y hombres que realizaron aportaciones importantes a la cultura y a la sociedad gallegas."
+    },
+    {
+      "question": "¿Cuál es el contenido del objetivo de etapa 'm' vinculado con el área de EVCE?",
+      "options": [
+        "Conocer y respetar las diferentes culturas y la no discriminación",
+        "Conocer y valorar a los animales más próximos y adoptar modos de comportamiento que favorezcan la empatía y su cuidado",
+        "Desarrollar sus capacidades afectivas y una actitud contraria a la violencia, a los perjuicios y a los estereotipos sexistas",
+        "Conocer, apreciar y valorar las singularidades culturales y lingüísticas de Galicia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El objetivo de etapa 'm' está referido a desarrollar las capacidades afectivas y una actitud contraria a la violencia, a los perjuicios y a los estereotipos sexistas, vinculado con la educación emocional y la igualdad de la EVCE."
+    },
+    {
+      "question": "¿Cuál es el contenido del objetivo de etapa 'l' del artículo 7 vinculado con la EVCE?",
+      "options": [
+        "Aprender a aprender, con autonomía y creatividad en el estudio",
+        "Desarrollar actitudes contrarias a los estereotipos sexistas y la violencia",
+        "Conocer y valorar a los animales más próximos y adoptar modos de comportamiento que favorezcan la empatía y su cuidado",
+        "Adquirir habilidades para la resolución pacífica de conflictos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El objetivo de etapa 'l' está referido a conocer y valorar a los animales más próximos y adoptar modos de comportamiento que favorezcan la empatía y su cuidado, conectado con la dimensión de empatía y cuidado de la EVCE."
+    },
+    {
+      "question": "¿Cuál es el contenido del objetivo de etapa 'c' vinculado con la EVCE?",
+      "options": [
+        "Desarrollar hábitos de trabajo, esfuerzo y responsabilidad",
+        "Conocer y respetar las diferentes culturas y la igualdad de derechos",
+        "Conocer los valores y normas de convivencia democrática",
+        "Adquirir habilidades para la resolución pacífica de conflictos y la prevención de la violencia, que les permitan desarrollarse con autonomía"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El objetivo de etapa 'c' está referido a adquirir habilidades para la resolución pacífica de conflictos y la prevención de la violencia, que les permitan desarrollarse con autonomía, área directamente relacionada con las propuestas metodológicas de la EVCE."
+    },
+    {
+      "question": "¿Qué tipo de aprendizaje se vincula con las actividades que conectan reflexión y acción en las propuestas metodológicas de la EVCE?",
+      "options": [
+        "Aprendizaje basado en proyectos",
+        "Aprendizaje cooperativo",
+        "Aprendizaje-servicio",
+        "Aprendizaje por descubrimiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las propuestas metodológicas priorizan metodologías que conecten reflexión y acción, como el aprendizaje-servicio, la participación activa en asambleas y las estrategias de gestión dialogada de conflictos."
+    },
+    {
+      "question": "¿Cuál es la quinta característica de la EVCE relacionada con la identidad personal y la sociedad?",
+      "options": [
+        "Se vincula con los ODS de la Agenda 2030",
+        "Favorece la convivencia en el centro y en sus entornos",
+        "Constituye un componente esencial de la Educación en Valores",
+        "Implica movilizar un conjunto de conocimientos, destrezas, actitudes y valores que permitan al alumnado tomar conciencia de su identidad personal y cultural, de cuestiones éticas y sociales vinculadas a la convivencia y del carácter ecodependiente de su vida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La quinta característica del área es que implica movilizar un conjunto de conocimientos, destrezas, actitudes y valores que permitan al alumnado tomar conciencia de su identidad personal y cultural, de cuestiones éticas y sociales vinculadas a la convivencia y del carácter interconectado y ecodependiente de su vida con el entorno."
+    },
+    {
+      "question": "¿Qué organización internacional demanda una educación para la paz, los derechos humanos y la ciudadanía real en 2023?",
+      "options": [
+        "UNICEF",
+        "ONU a través de la Agenda 2030",
+        "UNESCO",
+        "Consejo de Europa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La UNESCO (2023) demanda una educación para la paz, los derechos humanos, la democracia y la ciudadanía real. Sus recomendaciones orientan el enfoque y la justificación del área de EVCE."
+    },
+    {
+      "question": "¿Cuál es la segunda característica del área de EVCE?",
+      "options": [
+        "Posee una dimensión transversal",
+        "Constituye un componente esencial de la Educación en Valores que prepara para el ejercicio crítico y responsable de la ciudadanía y para la formación integral",
+        "Parte del derecho del alumnado a un desarrollo intelectual, moral y emocional",
+        "Prepara al alumnado para la construcción de su propio proyecto vital"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La segunda característica del área es que constituye un componente esencial de la Educación en Valores que prepara para el ejercicio crítico y responsable de la ciudadanía y para la formación integral del alumnado."
+    },
+    {
+      "question": "¿En qué eje temático del área se enmarca la situación de aprendizaje 'Voces del barrio'?",
+      "options": [
+        "Autoconocimiento y autonomía moral",
+        "Desarrollo sostenible y ética ambiental",
+        "Sociedad, justicia y democracia",
+        "Educación emocional y empatía"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La SdA 'Voces del barrio' se enmarca en el eje de sociedad, justicia y democracia, planteando como reto que el alumnado identifique colectivamente una situación de injusticia o desigualdad del entorno."
+    },
+    {
+      "question": "¿Cuántas sesiones tiene la situación de aprendizaje 'Voces del barrio'?",
+      "options": [
+        "3 sesiones",
+        "4 sesiones",
+        "5 sesiones",
+        "6 sesiones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La SdA 'Voces del barrio' se desarrolla en 4 sesiones, incluyendo tareas de investigación, recogida de testimonios y debate sobre posibles soluciones."
+    },
+    {
+      "question": "¿Cuál es el producto final de la situación de aprendizaje 'Voces del barrio'?",
+      "options": [
+        "Un protocolo de mediación escolar",
+        "Un carné de mediador y un cuaderno de acuerdos",
+        "Un 'Mapa de las injusticias invisibles' en formato mural, panel, mapa interactivo o video",
+        "Un proyecto de servicio comunitario para presentar al ayuntamiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El producto final de la SdA 'Voces del barrio' es un 'Mapa de las injusticias invisibles' en formato mural, panel, mapa interactivo o video, que se expone en el centro y en otras instituciones locales."
+    },
+    {
+      "question": "¿En qué eje temático del área se enmarca la situación de aprendizaje 'Somos mediadores'?",
+      "options": [
+        "Sociedad, justicia y democracia",
+        "Desarrollo sostenible y ética ambiental",
+        "Autoconocimiento y autonomía moral",
+        "Derechos humanos e igualdad democrática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La SdA 'Somos mediadores' se enmarca en el eje de autoconocimiento y autonomía moral, planteando como reto que el alumnado se forme como mediador entre iguales."
+    },
+    {
+      "question": "¿Cuántas sesiones tiene la situación de aprendizaje 'Somos mediadores'?",
+      "options": [
+        "4 sesiones",
+        "5 sesiones",
+        "6 sesiones",
+        "7 sesiones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La SdA 'Somos mediadores' se desarrolla en 5 sesiones que incluyen formación en escucha activa, autoconocimiento, práctica simulada mediante role-playing e intervención real acompañada."
+    },
+    {
+      "question": "¿Cuál es el producto final de la situación de aprendizaje 'Somos mediadores'?",
+      "options": [
+        "Un mapa de las injusticias invisibles en formato mural",
+        "Un reglamento de convivencia escolar renovado",
+        "Un proyecto de consumo responsable en el aula",
+        "El 'Equipo de Mediación del Centro', con protocolo de actuación, carné de mediador y cuaderno de acuerdos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El producto final de la SdA 'Somos mediadores' es la constitución del 'Equipo de Mediación del Centro', con su propio protocolo de actuación, carné de mediador y un cuaderno de acuerdos."
+    },
+    {
+      "question": "¿Quién es el autor de 'Mediación de conflictos en instituciones educativas' (Narcea, 2003)?",
+      "options": [
+        "Wachtel",
+        "Torrego",
+        "Rose y Meyer",
+        "Boix Mansilla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Torrego (2003) es el autor de 'Mediación de conflictos en instituciones educativas' (Narcea), obra que respalda la metodología de mediación propuesta en el área de EVCE."
+    },
+    {
+      "question": "¿Quién publicó en 2013 el documento 'Definiendo qué es restaurativo'?",
+      "options": [
+        "Torrego",
+        "Boix Mansilla",
+        "Wachtel",
+        "Puig"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wachtel (2013) publicó 'Definiendo qué es restaurativo' (Instituto Internacional de Prácticas Restaurativas), obra que respalda las prácticas restaurativas propuestas en el área de EVCE."
+    },
+    {
+      "question": "¿Qué metodología concreta respaldada por Wachtel (2013) se menciona en las propuestas metodológicas de la EVCE?",
+      "options": [
+        "Mediación escolar entre iguales",
+        "Prácticas restaurativas",
+        "Aprendizaje-servicio comunitario",
+        "Aprendizaje cooperativo estructurado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las prácticas restaurativas están respaldadas por Wachtel (2013). Se mencionan junto con la mediación (Torrego, 2003) como estrategias de gestión dialogada de conflictos en las propuestas metodológicas de la EVCE."
+    },
+    {
+      "question": "¿Qué estrategia de gestión dialogada de conflictos está respaldada por Torrego (2003) en las propuestas de la EVCE?",
+      "options": [
+        "Prácticas restaurativas",
+        "Aprendizaje-servicio",
+        "Mediación",
+        "Resolución colaborativa de problemas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La mediación está respaldada por Torrego (2003) y se menciona como una de las estrategias de gestión dialogada de conflictos junto con las prácticas restaurativas (Wachtel, 2013)."
+    },
+    {
+      "question": "¿Qué programa de la Xunta de Galicia está relacionado específicamente con la convivencia digital?",
+      "options": [
+        "Pasando a bóla xogando para cambiar",
+        "Navega con Rumbo",
+        "Convivimos Dixital",
+        "Cinema con perspectiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Convivimos Dixital' es el programa de la Xunta de Galicia relacionado con la convivencia digital, uno de los seis proyectos complementarios vinculados a los valores que promueve el área de EVCE."
+    },
+    {
+      "question": "¿Cómo se denomina el programa piloto de mediación escolar de la Xunta de Galicia?",
+      "options": [
+        "Convivimos Dixital",
+        "Impulso mentor",
+        "Acordamos Convivir",
+        "Navega con Rumbo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Acordamos Convivir' es el programa piloto de mediación escolar de la Xunta de Galicia, uno de los proyectos complementarios vinculados a los valores cívicos y éticos del área de EVCE."
+    },
+    {
+      "question": "¿Cuántos programas complementarios de la Xunta de Galicia se citan en el tema relacionados con el área de EVCE?",
+      "options": [
+        "Cuatro programas",
+        "Cinco programas",
+        "Seis programas",
+        "Siete programas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se citan seis programas complementarios: 'Pasando a bóla xogando para cambiar', 'cinema con perspectiva', 'Navega con Rumbo', 'Convivimos Dixital', 'Acordamos Convivir' e 'Impulso mentor'."
+    },
+    {
+      "question": "¿Cómo contribuye la EVCE a la Competencia en Comunicación Lingüística (CCL)?",
+      "options": [
+        "A través del uso de términos específicos y búsqueda de información en otros idiomas",
+        "Mediante la interpretación de datos en gráficas y el análisis de relaciones causa-efecto",
+        "A través de la producción de contenidos digitales con finalidad cívica",
+        "Mediante dilemas éticos, debates, exposiciones y argumentaciones, con especial atención al uso de un lenguaje no sexista y respetuoso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La EVCE contribuye a la CCL a través de la presentación de dilemas éticos y de la elaboración de debates, exposiciones y argumentaciones, poniendo las prácticas comunicativas al servicio de la convivencia democrática y con especial atención al uso de un lenguaje no sexista y respetuoso."
+    },
+    {
+      "question": "¿Cómo contribuye la EVCE a la Competencia Plurilingüe (CP)?",
+      "options": [
+        "Mediante el debate y la argumentación en lengua extranjera",
+        "Desarrollando habilidades de lectura crítica en múltiples idiomas",
+        "A través del uso de términos y conceptos específicos, la búsqueda de información que favorece el contacto con otras lenguas, y la valoración de la diversidad lingüística y cultural",
+        "A través del análisis crítico de textos en diferentes lenguas sobre derechos humanos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EVCE contribuye a la CP a través del uso de términos y conceptos específicos, así como mediante la búsqueda de información e investigación que favorece el contacto con términos en otras lenguas, y promueve el conocimiento y la valoración de la diversidad lingüística y cultural."
+    },
+    {
+      "question": "¿En qué situaciones contribuye la EVCE a la Competencia STEM?",
+      "options": [
+        "Cuando el alumnado diseña experimentos para verificar hipótesis éticas",
+        "Cuando el alumnado aplica el método científico para analizar problemas sociales",
+        "Cuando el alumnado utiliza herramientas tecnológicas para resolver problemas matemáticos",
+        "Cuando el alumnado interpreta datos en gráficas o encuestas, analiza relaciones causa-efecto y argumenta decisiones éticas apoyándose en evidencias"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La EVCE contribuye a la competencia STEM en situaciones en las que el alumnado debe interpretar datos en gráficas o encuestas, analizar relaciones causa-efecto y argumentar decisiones éticas apoyándose en evidencias para comprender cuestiones sobre sostenibilidad, consumo responsable o desigualdad."
+    },
+    {
+      "question": "¿Qué aspecto concreto de la Competencia Digital (CD) vinculado con la EVCE es relevante en el contexto actual?",
+      "options": [
+        "El uso de redes sociales para la comunicación y el aprendizaje colaborativo",
+        "La creación de contenidos multimedia sobre derechos humanos y ciudadanía",
+        "La ética en el uso de la inteligencia artificial generativa, el reconocimiento de sesgos y las implicaciones sobre la privacidad",
+        "El desarrollo de habilidades de programación para la resolución de problemas éticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EVCE favorece abordar retos actuales como la ética en el uso de la inteligencia artificial generativa, el reconocimiento de sesgos y las implicaciones sobre la privacidad y la toma de decisiones, aspecto relevante de la Competencia Digital."
+    },
+    {
+      "question": "¿Cómo potencia la EVCE la Competencia Personal, Social y de Aprender a Aprender (CPSAA)?",
+      "options": [
+        "A través del análisis de datos estadísticos y la interpretación de gráficas",
+        "Desarrollando la competencia digital y el uso crítico de tecnología",
+        "Promoviendo la diversidad lingüística y el contacto con otras culturas",
+        "A través de la adquisición de habilidades sociales, el trabajo en equipo, la argumentación y la autorregulación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La CPSAA se potencia a través de la adquisición de habilidades sociales, el trabajo en equipo, la argumentación y la autorregulación que permite aplicar estrategias de planificación, supervisión y evaluación. En el ámbito social, favorece la valoración de las diferencias y la resolución dialogada de conflictos."
+    },
+    {
+      "question": "¿Cómo potencia la EVCE la Competencia Emprendedora (CE)?",
+      "options": [
+        "A través de la gestión de proyectos tecnológicos y la innovación digital",
+        "Mediante el desarrollo de iniciativas de sostenibilidad ambiental y económica",
+        "Cuando el alumnado aplica valores en la ejecución de pequeños proyectos reales, planificados y evaluables, como campañas de convivencia, mediación entre iguales o acciones de consumo responsable",
+        "A través del análisis crítico de modelos económicos y sociales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EVCE potencia la CE cuando el alumnado aplica valores en la ejecución de pequeños proyectos reales, planificados y evaluables, como campañas de convivencia, mediación entre iguales o acciones de consumo responsable, favoreciendo la iniciativa, la creatividad, el liderazgo compartido y la toma de decisiones responsable."
+    },
+    {
+      "question": "¿Cómo contribuye la EVCE a la Competencia en Conciencia y Expresiones Culturales (CCEC)?",
+      "options": [
+        "Desarrollando la creatividad artística y la expresión musical",
+        "Al promover la mirada crítica al entorno social, el interés por los valores e instituciones de otras culturas y el cuidado del patrimonio y del entorno",
+        "Trabajando la diversidad cultural a través de la expresión plástica y visual",
+        "Favoreciendo el conocimiento del patrimonio artístico y cultural gallego"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La EVCE contribuye a la CCEC al promover la mirada crítica al entorno social, el interés por los valores e instituciones de otras culturas y el cuidado del patrimonio y del entorno."
+    },
+    {
+      "question": "¿Con qué CC se relaciona más estrechamente el área de EVCE según el texto?",
+      "options": [
+        "Competencia en Comunicación Lingüística (CCL)",
+        "Competencia Digital (CD)",
+        "Competencia Ciudadana (CC)",
+        "Competencia Personal, Social y de Aprender a Aprender (CPSAA)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de EVCE se relaciona estrechamente con la Competencia Ciudadana (CC), pues prepara al alumnado para actuar como ciudadanos participativos y comprometidos en el desarrollo de una sociedad democrática, justa e igualitaria."
+    },
+    {
+      "question": "¿Qué estrategia didáctica se usa en la SdA 'Somos mediadores' para la práctica simulada?",
+      "options": [
+        "Trabajo cooperativo y debates estructurados",
+        "Investigación de casos reales de conflicto",
+        "Role-playing",
+        "Aprendizaje basado en proyectos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la SdA 'Somos mediadores', las 5 sesiones incluyen práctica simulada mediante role-playing, además de formación en escucha activa, autoconocimiento e intervención real acompañada por el docente."
+    },
+    {
+      "question": "¿Qué instrumento de evaluación se menciona para ambas situaciones de aprendizaje de la EVCE?",
+      "options": [
+        "Prueba escrita y portafolio",
+        "Rúbrica",
+        "Test de conocimientos y escala de valoración",
+        "Examen oral y registro anecdótico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ambas SdA utilizan la rúbrica como instrumento de evaluación: en 'Voces del barrio' se usa rúbrica, análisis del producto final y autoevaluación grupal; en 'Somos mediadores', rúbrica de habilidades de mediación, análisis del cuaderno de acuerdos y autoevaluación individual."
+    },
+    {
+      "question": "¿Cómo se integra el DUA en las dos situaciones de aprendizaje propuestas para la EVCE?",
+      "options": [
+        "Adaptando los objetivos de aprendizaje a las necesidades de cada alumno",
+        "Proporcionando recursos adicionales para el alumnado con necesidades educativas especiales",
+        "Ofreciendo múltiples formatos para la recogida y exposición de información y para la elaboración del producto final",
+        "Utilizando evaluaciones diferenciadas según el nivel de cada alumno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El DUA se integra en ambas SdA ofreciendo múltiples formatos para la recogida y exposición de la información, así como para la elaboración del producto final, contemplando la diversidad mediante la asignación de distintos roles y estrategias variadas."
+    },
+    {
+      "question": "¿Cuál es la primera línea de actuación metodológica de la EVCE según los principios del artículo 16 del Decreto 155/2022?",
+      "options": [
+        "Atención a la diversidad del alumnado",
+        "Partir de contextos funcionales, reales y cotidianos",
+        "Enfoque globalizador e interdisciplinar",
+        "El trabajo en equipo como pilar fundamental"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La primera línea de actuación es partir de contextos funcionales, reales y cotidianos, reconociendo el vínculo entre los conocimientos teóricos y los prácticos, a través del desarrollo de proyectos significativos integrados en la vida del centro y del entorno."
+    },
+    {
+      "question": "¿Qué reto plantea la SdA 'Voces del barrio' para el alumnado?",
+      "options": [
+        "Formar un equipo de mediación entre iguales en el centro escolar",
+        "Investigar y denunciar situaciones de acoso escolar en el centro",
+        "Identificar colectivamente una situación de injusticia o desigualdad del entorno y elaborar una propuesta ciudadana de mejora",
+        "Desarrollar un proyecto de consumo responsable en el aula"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El reto de la SdA 'Voces del barrio' es que el alumnado identifique colectivamente una situación de injusticia o desigualdad de su entorno (espacios poco accesibles, uso desigual de zonas públicas, discriminación en el ocio) y elabore una propuesta ciudadana de mejora."
+    },
+    {
+      "question": "¿Dónde se expone el producto final de la SdA 'Voces del barrio'?",
+      "options": [
+        "En el aula y en el centro educativo",
+        "En el centro y en otras instituciones locales",
+        "En las redes sociales y plataformas digitales del centro",
+        "En una feria escolar de proyectos ciudadanos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El producto final de la SdA 'Voces del barrio' se expone en el centro y en otras instituciones locales, convirtiendo el aprendizaje en una acción cívica compartida."
+    },
+    {
+      "question": "¿Qué habilidades se trabajan principalmente en la SdA 'Somos mediadores'?",
+      "options": [
+        "Pensamiento crítico, investigación y elaboración de propuestas de mejora",
+        "Análisis de datos, argumentación ética y resolución de dilemas morales",
+        "Escucha activa, autoconocimiento y práctica simulada mediante role-playing",
+        "Cooperación, creatividad y gestión de proyectos comunitarios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las sesiones de la SdA 'Somos mediadores' incluyen formación en escucha activa, autoconocimiento, práctica simulada mediante role-playing e intervención real acompañada por el docente en conflictos del centro."
+    },
+    {
+      "question": "En las propuestas metodológicas de la EVCE, las actividades deben abarcar alguno de los ______ ejes fundamentales del área.",
+      "options": [
+        "Tres ejes fundamentales",
+        "Cuatro ejes fundamentales",
+        "Cinco ejes fundamentales",
+        "Seis ejes fundamentales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las propuestas metodológicas deben basarse en la actividad del alumnado, abarcar alguno de los cuatro ejes fundamentales del área y crear contextos en el centro que favorezcan el protagonismo del niño."
+    },
+    {
+      "question": "¿Qué incluye la evaluación de la SdA 'Somos mediadores'?",
+      "options": [
+        "Rúbrica, análisis del mapa de injusticias y autoevaluación grupal",
+        "Rúbrica de habilidades de mediación, análisis del cuaderno de acuerdos y autoevaluación individual sobre el crecimiento personal",
+        "Portafolio, diario de aprendizaje y coevaluación entre iguales",
+        "Prueba escrita, observación sistemática y heteroevaluación docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación de la SdA 'Somos mediadores' se realiza mediante una rúbrica de habilidades de mediación, el análisis del cuaderno de acuerdos y una autoevaluación individual sobre el crecimiento personal experimentado durante el proceso."
+    },
+    {
+      "question": "¿Qué desarrolla la tercera línea de actuación metodológica del área de EVCE?",
+      "options": [
+        "El trabajo en equipo y la participación activa en proyectos",
+        "El aprendizaje-servicio y la gestión dialogada de conflictos",
+        "La autoestima, la autonomía y la reflexión como guía de la conducta",
+        "La comunicación audiovisual, la competencia digital, la creatividad, el espíritu científico, el emprendimiento y hábitos saludables y sostenibles"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La tercera línea de actuación promueve estrategias de comprensión lectora y expresión escrita, y actividades que desarrollen la comunicación audiovisual, la competencia digital, la creatividad, el espíritu científico, el emprendimiento y hábitos de vida saludable y sostenibles."
+    },
+    {
+      "question": "¿En cuántas líneas de actuación se organizan las propuestas de intervención educativa de la EVCE?",
+      "options": [
+        "Tres líneas de actuación",
+        "Cuatro líneas de actuación",
+        "Cinco líneas de actuación",
+        "Seis líneas de actuación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las propuestas de intervención se organizan en cinco líneas de actuación: 1) partir de contextos funcionales y reales; 2) atención a la diversidad; 3) enfoque globalizador e interdisciplinar; 4) trabajo en equipo y participación; 5) reforzar aprender a aprender y autonomía."
+    },
+    {
+      "question": "¿Qué principios integra la segunda línea de actuación metodológica de la EVCE?",
+      "options": [
+        "El enfoque globalizador y la integración de elementos transversales",
+        "El trabajo en equipo y la participación activa y razonada",
+        "La atención a la diversidad, distintos métodos según ritmos y estilos, y los principios del DUA",
+        "El uso de contextos funcionales, reales y cotidianos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La segunda línea de actuación es la atención a la diversidad del alumnado, usando distintos métodos que tengan en cuenta los diferentes ritmos, estilos y necesidades de aprendizaje, la atención individualizada y la prevención de las dificultades, integrando los principios del DUA."
+    },
+    {
+      "question": "¿Con qué término sustituye la LOMLOE al término 'competencias básicas' de la LOE?",
+      "options": [
+        "Competencias esenciales",
+        "Competencias para el aprendizaje permanente",
+        "Competencias clave",
+        "Competencias transversales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE sustituye el término 'competencias básicas' de la LOE por 'competencias clave', que son la adaptación al sistema educativo de las competencias para el aprendizaje permanente establecidas en la Recomendación del Consejo de la UE de 2018."
+    },
+    {
+      "question": "¿Qué es el 'perfil de salida' en el marco competencial de la LOMLOE?",
+      "options": [
+        "Los objetivos de etapa que el alumnado debe alcanzar al finalizar la EP",
+        "Los criterios de evaluación que determinan el nivel de logro al final de cada etapa",
+        "Las competencias clave que el alumnado debe dominar al terminar la educación obligatoria",
+        "El nivel competencial esperado al completar la educación básica deducido a través de los descriptores operativos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El perfil de salida define el nivel competencial esperado al completar la educación básica y se deduce a través de los descriptores operativos, implicando el desarrollo de las CC."
+    },
+    {
+      "question": "¿Cómo contribuye la EVCE a la CCL en relación con el uso del lenguaje?",
+      "options": [
+        "El fomento de la lectura crítica y la escritura argumentativa",
+        "El desarrollo de la expresión oral y la comprensión lectora",
+        "El uso de un lenguaje no sexista y respetuoso",
+        "La elaboración de textos informativos sobre derechos humanos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EVCE contribuye a la CCL con especial atención al uso de un lenguaje no sexista y respetuoso, poniendo las prácticas comunicativas al servicio de la convivencia democrática y la gestión dialogada de conflictos."
+    },
+    {
+      "question": "¿Qué tipo de proyectos se mencionan como ejemplos para el desarrollo de la Competencia Emprendedora (CE) en la EVCE?",
+      "options": [
+        "Proyectos digitales y de innovación tecnológica",
+        "Proyectos de reciclaje y gestión ambiental en el centro",
+        "Campañas de convivencia, mediación entre iguales o acciones de consumo responsable",
+        "Iniciativas de participación en el consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los ejemplos de proyectos para la CE incluyen campañas de convivencia, mediación entre iguales o acciones de consumo responsable, todos ellos pequeños proyectos reales, planificados y evaluables."
+    },
+    {
+      "question": "¿Qué aspecto trabaja la CPSAA en un ámbito social en relación con la EVCE?",
+      "options": [
+        "El uso de herramientas digitales para la comunicación y la colaboración",
+        "El desarrollo de proyectos emprendedores con impacto social",
+        "La valoración de las diferencias, el reconocimiento de la igualdad y la resolución dialogada de conflictos",
+        "La participación democrática en las instituciones escolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el ámbito social, la EVCE favorece la valoración de las diferencias, el reconocimiento de la igualdad y la resolución dialogada de conflictos, aspectos directamente vinculados con la CPSAA."
+    },
+    {
+      "question": "¿Cómo contribuye la EVCE a la Competencia Digital (CD)?",
+      "options": [
+        "Exclusivamente mediante el uso de plataformas educativas digitales",
+        "La adopción de hábitos de uso crítico, seguro, saludable y sostenible de la tecnología, usando recursos digitales para buscar, contrastar información y producir contenidos con finalidad cívica",
+        "El desarrollo de la ciudadanía digital y la prevención del ciberacoso escolar",
+        "La producción de contenidos multimedia sobre valores cívicos y democráticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La EVCE favorece la adopción de hábitos de uso crítico, seguro, saludable y sostenible de la tecnología, utilizando recursos digitales para buscar y contrastar información y producir contenidos con finalidad cívica, además de abordar la ética en el uso de la IA generativa."
+    },
+    {
+      "question": "¿Qué elemento de la SdA 'Voces del barrio' convierte el aprendizaje en una acción cívica compartida?",
+      "options": [
+        "La investigación y recogida de testimonios en el entorno cercano",
+        "La elaboración del mapa colaborativo de las injusticias invisibles",
+        "La exposición del producto final en el centro y en otras instituciones locales",
+        "La autoevaluación grupal sobre el proceso de aprendizaje"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La exposición del producto final en el centro y en otras instituciones locales convierte el aprendizaje en una acción cívica compartida, característica del enfoque del aprendizaje-servicio implícito en esta SdA."
+    },
+    {
+      "question": "¿Para qué se mencionan las asambleas en las propuestas metodológicas de la EVCE?",
+      "options": [
+        "Para la evaluación formativa del aprendizaje del alumnado",
+        "Para la organización del trabajo cooperativo por equipos",
+        "Para la participación activa y la gestión dialogada de conflictos",
+        "Para el desarrollo de la competencia comunicativa del alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las asambleas se mencionan como estrategia que conecta reflexión y acción, favoreciendo la participación activa en la vida del aula y la gestión dialogada de conflictos, junto con el aprendizaje-servicio y las estrategias restaurativas."
+    },
+    {
+      "question": "¿Qué promueve la cuarta línea de actuación metodológica de la EVCE?",
+      "options": [
+        "La atención a la diversidad e inclusión del alumnado",
+        "El enfoque globalizador e interdisciplinar del aprendizaje",
+        "El trabajo en equipo como pilar fundamental, la participación activa y razonada, el diálogo respetuoso, la cooperación y el pensamiento crítico",
+        "Reforzar la competencia de aprender a aprender y la autoestima"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La cuarta línea de actuación propone el trabajo en equipo como pilar fundamental del área para la preparación y práctica de actividades o proyectos, fomentando la participación activa y razonada, el diálogo respetuoso, la cooperación y el pensamiento crítico."
+    },
+    {
+      "question": "¿Qué refuerza la quinta línea de actuación metodológica de la EVCE?",
+      "options": [
+        "Partir de contextos funcionales, reales y cotidianos",
+        "La atención a la diversidad y el DUA",
+        "El trabajo en equipo y la participación activa",
+        "La competencia de aprender a aprender, la autoestima, la autonomía en la toma de decisiones y la reflexión como guía de su conducta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La quinta línea de actuación propone que las situaciones de aprendizaje refuercen la competencia de aprender a aprender, la autoestima en las relaciones personales, la autonomía en la toma de decisiones y la reflexión como guía de la conducta."
+    },
+    {
+      "question": "¿Cómo se denomina la institución que publicó las 'Recomendaciones sobre la educación para la paz y los derechos humanos' en 2023?",
+      "options": [
+        "ONU",
+        "Consejo de Europa",
+        "UNICEF",
+        "UNESCO"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La UNESCO publicó en 2023 la 'Recomendación sobre la educación para la paz y los derechos humanos, la comprensión internacional, la cooperación, las libertades fundamentales, la ciudadanía mundial y el desarrollo sostenible'."
+    },
+    {
+      "question": "¿Cuál es la definición de aprendizaje interdisciplinar según Boix Mansilla (2016)?",
+      "options": [
+        "La coordinación entre docentes de diferentes disciplinas para lograr objetivos comunes",
+        "La integración de conocimientos y formas de pensamiento de dos o más disciplinas para lograr una comprensión más profunda de la realidad",
+        "El trabajo por proyectos que integra contenidos de varias áreas del currículo",
+        "La conexión entre saberes teóricos y prácticos para la resolución de problemas reales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Boix Mansilla (2016) define el aprendizaje interdisciplinar como la integración de conocimientos y formas de pensamiento de dos o más disciplinas para lograr una comprensión más profunda de la realidad (Harvard Graduate School of Education, Project Zero)."
+    },
+    {
+      "question": "¿Cuál es el reto de la SdA 'Somos mediadores'?",
+      "options": [
+        "Identificar situaciones de injusticia en el entorno y elaborar una propuesta de mejora",
+        "Investigar casos de conflicto real en el centro y proponer soluciones",
+        "Formarse como mediador entre iguales y asumir la gestión real de conflictos cotidianos del centro",
+        "Desarrollar un protocolo de convivencia para presentar al consejo escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El reto de la SdA 'Somos mediadores' es que el alumnado se forme como mediador entre iguales y asuma la gestión real de conflictos cotidianos del centro, constituyendo el 'Equipo de Mediación del Centro'."
+    },
+    {
+      "question": "Las situaciones de aprendizaje contemplan la diversidad mediante la asignación de distintos roles y el uso de:",
+      "options": [
+        "Actividades adaptadas según el nivel de cada alumno",
+        "Evaluaciones diferenciadas y personalizadas",
+        "Recursos digitales accesibles para todos los alumnos",
+        "Estrategias como el role-playing, registros escritos y dinámicas orales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las SdA contemplan la diversidad mediante la asignación de distintos roles y el uso de estrategias como el role-playing, registros escritos y dinámicas orales, promoviendo la participación del alumnado a partir de sus capacidades y potencialidades."
+    },
+    {
+      "question": "¿Qué metodología se menciona junto con el aprendizaje-servicio como prioritaria en las propuestas metodológicas de la EVCE?",
+      "options": [
+        "Aprendizaje cooperativo y trabajo por proyectos",
+        "Participación activa en asambleas y estrategias de gestión dialogada de conflictos",
+        "Aprendizaje basado en problemas y pensamiento de diseño",
+        "Gamificación y aprendizaje basado en el juego"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las propuestas metodológicas priorizan el aprendizaje-servicio, la participación activa en asambleas y las estrategias de gestión dialogada de conflictos (prácticas restaurativas y mediación) como metodologías que conectan reflexión y acción."
+    },
+    {
+      "question": "¿Qué destrezas trabaja concretamente la EVCE en relación con la CCL?",
+      "options": [
+        "Comprensión lectora y expresión escrita en contextos digitales",
+        "Destrezas comunicativas y de escucha activa al servicio de la convivencia democrática",
+        "Expresión oral formal y argumentación académica",
+        "Lectura crítica de textos informativos sobre ciudadanía"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La EVCE contribuye al desarrollo de destrezas comunicativas y de escucha activa, poniendo las prácticas comunicativas al servicio de la convivencia democrática y la gestión dialogada de conflictos."
+    },
+    {
+      "question": "¿Qué tareas incluyen las sesiones de la SdA 'Voces del barrio'?",
+      "options": [
+        "Formación en escucha activa, autoconocimiento y role-playing",
+        "Análisis de datos estadísticos, elaboración de propuestas y presentación pública",
+        "Investigación, recogida de testimonios y debate sobre posibles soluciones",
+        "Elaboración de materiales de mediación y protocolo de actuación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las 4 sesiones de la SdA 'Voces del barrio' incluyen tareas de investigación, recogida de testimonios y debate sobre posibles soluciones para abordar la situación de injusticia o desigualdad identificada."
+    },
+    {
+      "question": "¿Cuál es la evaluación de la SdA 'Voces del barrio'?",
+      "options": [
+        "Rúbrica de habilidades de mediación, análisis del cuaderno de acuerdos y autoevaluación individual",
+        "Portafolio, diario de aprendizaje y coevaluación entre iguales",
+        "Prueba escrita, observación sistemática y heteroevaluación docente",
+        "Rúbrica, análisis del producto final y la autoevaluación grupal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La evaluación de la SdA 'Voces del barrio' se realiza mediante rúbrica, análisis del producto final y la autoevaluación grupal, diferenciándose de la evaluación de 'Somos mediadores' que incluye autoevaluación individual."
+    },
+    {
+      "question": "¿En qué bloque temático de los ODS se encuadran los ODS 1, 2, 5 y 10?",
+      "options": [
+        "Bienestar y derechos básicos",
+        "Sostenibilidad y cuidado del planeta",
+        "Justicia social e igualdad",
+        "Participación ciudadana y democracia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los ODS 1 (fin de la pobreza), 2 (hambre cero), 5 (igualdad de género) y 10 (reducción de desigualdades) se encuadran en el bloque de justicia social e igualdad, al que contribuye directamente el área de EVCE."
+    },
+    {
+      "question": "¿Qué ODS se encuadran en el bloque de 'bienestar y derechos básicos' al que contribuye la EVCE?",
+      "options": [
+        "ODS 1, 2 y 5",
+        "ODS 3, 4 y 6",
+        "ODS 12, 13 y 14",
+        "ODS 10, 11 y 12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los ODS 3 (salud y bienestar), 4 (educación de calidad) y 6 (agua limpia y saneamiento) se encuadran en el bloque de bienestar y derechos básicos al que contribuye directamente la EVCE."
+    },
+    {
+      "question": "¿Qué ODS se encuadran en el bloque de 'sostenibilidad y cuidado del planeta' al que contribuye la EVCE?",
+      "options": [
+        "ODS 3, 4, 6 y 7",
+        "ODS 7, 8, 9 y 10",
+        "ODS 11, 12, 13 y 14",
+        "ODS 12, 13, 14 y 15"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los ODS 12 (producción y consumo responsables), 13 (acción por el clima), 14 (vida submarina) y 15 (vida de ecosistemas terrestres) se encuadran en el bloque de sostenibilidad y cuidado del planeta."
+    },
+    {
+      "question": "¿Qué ODS se vincula de manera transversal con toda el área de EVCE?",
+      "options": [
+        "ODS 4 (Educación de calidad)",
+        "ODS 10 (Reducción de las desigualdades)",
+        "ODS 16 (Paz, justicia e instituciones sólidas)",
+        "ODS 17 (Alianzas para lograr los objetivos)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El ODS 16 'Paz, justicia e instituciones sólidas' se vincula de manera transversal con toda el área al promover la convivencia democrática, la participación responsable y el respeto a los derechos humanos."
+    },
+    {
+      "question": "¿Cuántos objetivos de área tiene el área de EVCE según el Anexo II del Decreto 155/2022?",
+      "options": [
+        "Tres objetivos de área",
+        "Cuatro objetivos de área",
+        "Cinco objetivos de área",
+        "Seis objetivos de área"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Anexo II, epígrafe 4.2 del Decreto 155/2022 recoge un total de 4 objetivos de área (OBJ1 a OBJ4) para el área de EVCE."
+    },
+    {
+      "question": "¿Cuál es el OBJ1 del área de EVCE?",
+      "options": [
+        "Actuar de acuerdo con normas y valores cívicos y éticos para promover una convivencia democrática",
+        "Comprender las relaciones entre individuo, sociedad y naturaleza para comprometerse con el respeto del planeta",
+        "Desarrollar la autoestima y la empatía para adoptar una actitud de cuidado propio y de los demás",
+        "Deliberar y argumentar sobre problemas éticos personales y del entorno, buscando y analizando información fiable, para promover el autoconocimiento y la autonomía moral"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El OBJ1 es: Deliberar y argumentar sobre problemas éticos personales y del entorno, buscando y analizando información fiable, reflexionando sobre ella para promover el autoconocimiento y la autonomía moral."
+    },
+    {
+      "question": "¿Cuál es el OBJ2 del área de EVCE?",
+      "options": [
+        "Deliberar y argumentar sobre problemas éticos para promover el autoconocimiento",
+        "Comprender las relaciones entre individuo, sociedad y naturaleza",
+        "Actuar de acuerdo con normas y valores cívicos y éticos, reconociendo su importancia y aplicándolos en distintos contextos, para promover una convivencia democrática, justa, inclusiva, respetuosa y pacífica",
+        "Desarrollar la autoestima y la empatía identificando y gestionando emociones propias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ2 es: Actuar de acuerdo con normas y valores cívicos y éticos, reconociendo su importancia y aplicándolos de forma efectiva y argumentada en distintos contextos, para promover una convivencia democrática, justa, inclusiva, respetuosa y pacífica."
+    },
+    {
+      "question": "¿Cuál es el OBJ3 del área de EVCE?",
+      "options": [
+        "Actuar de acuerdo con normas y valores cívicos y éticos para promover una convivencia democrática",
+        "Desarrollar la autoestima y la empatía, identificando y gestionando emociones",
+        "Deliberar y argumentar sobre problemas éticos para promover el autoconocimiento",
+        "Comprender las relaciones entre individuo, sociedad y naturaleza, reflexionando sobre problemas ecosociales, para comprometerse con el respeto, cuidado y protección de las personas y del planeta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El OBJ3 es: Comprender las relaciones entre individuo, sociedad y naturaleza, reflexionando sobre problemas ecosociales, para comprometerse con el respeto, cuidado y protección de las personas y del planeta."
+    },
+    {
+      "question": "¿Cuál es el OBJ4 del área de EVCE?",
+      "options": [
+        "Comprender las relaciones entre individuo, sociedad y naturaleza, reflexionando sobre problemas ecosociales",
+        "Actuar de acuerdo con normas y valores cívicos y éticos para promover la convivencia democrática",
+        "Deliberar y argumentar sobre problemas éticos para promover la autonomía moral",
+        "Desarrollar la autoestima y la empatía, identificando, gestionando y expresando emociones propias, y reconociendo y valorando las ajenas, para adoptar una actitud de cuidado y aprecio propio, de los demás y de la naturaleza"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El OBJ4 es: Desarrollar la autoestima y la empatía, identificando, gestionando y expresando emociones propias, y reconociendo y valorando las ajenas, para adoptar una actitud de cuidado y aprecio propio, de los demás y de la naturaleza."
+    },
+    {
+      "question": "¿Cuántos bloques de contenido tiene el área de EVCE?",
+      "options": [
+        "Dos bloques",
+        "Tres bloques",
+        "Cuatro bloques",
+        "Cinco bloques"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de EVCE se estructura en 3 bloques de contenido ajustados al nivel del alumnado de 6º de EP: Bloque 1 (autoconocimiento y autonomía moral), Bloque 2 (sociedad, justicia y democracia) y Bloque 3 (desarrollo sostenible y ética ambiental)."
+    },
+    {
+      "question": "¿Cómo se denomina el Bloque 1 del área de EVCE?",
+      "options": [
+        "Sociedad, justicia y democracia",
+        "Desarrollo sostenible y ética ambiental",
+        "Ciudadanía democrática y derechos humanos",
+        "Autoconocimiento y autonomía moral"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Bloque 1 del área de EVCE se denomina 'Autoconocimiento y autonomía moral' y se centra en promover la exploración personal, la gestión emocional y la reflexión sobre valores, principios y normas."
+    },
+    {
+      "question": "¿Cómo se denomina el Bloque 2 del área de EVCE?",
+      "options": [
+        "Autoconocimiento y autonomía moral",
+        "Desarrollo sostenible y ética ambiental",
+        "Sociedad, justicia y democracia",
+        "Convivencia y participación ciudadana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Bloque 2 del área de EVCE se denomina 'Sociedad, justicia y democracia' y explora la raíz social y cultural de la identidad personal y fomenta la comprensión del marco democrático de convivencia."
+    },
+    {
+      "question": "¿Cómo se denomina el Bloque 3 del área de EVCE?",
+      "options": [
+        "Autoconocimiento y autonomía moral",
+        "Sociedad, justicia y democracia",
+        "Ciudadanía mundial y solidaridad",
+        "Desarrollo sostenible y ética ambiental"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Bloque 3 del área de EVCE se denomina 'Desarrollo sostenible y ética ambiental' y pretende que los discentes comprendan, a través del trabajo cooperativo, la relación entre estilos de vida y entorno."
+    },
+    {
+      "question": "¿Qué temas clave trabaja el Bloque 1 de la EVCE?",
+      "options": [
+        "Los derechos humanos, la igualdad de género, la pobreza y la migración",
+        "Los estilos de vida sostenibles, el consumo responsable y los problemas ecosociales",
+        "La democracia, la participación ciudadana y el marco constitucional",
+        "La autoestima, la coeducación, la prevención del acoso, las adicciones y el impacto de las redes sociales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Bloque 1 trabaja temas clave como la autoestima, la coeducación, la prevención del acoso, las adicciones y el impacto de las redes sociales, todos relacionados con el autoconocimiento y la autonomía moral."
+    },
+    {
+      "question": "¿En qué se centra el Bloque 1 'Autoconocimiento y autonomía moral' de la EVCE?",
+      "options": [
+        "En explorar la raíz social y cultural de la identidad y la comprensión del marco democrático",
+        "En comprender la relación entre estilos de vida y entorno, adoptando hábitos sostenibles",
+        "En promover la exploración personal, la gestión emocional y la reflexión sobre valores, principios y normas que orientan la vida personal y social",
+        "En aplicar normas y valores cívicos en distintos contextos de la vida cotidiana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Bloque 1 se centra en promover la exploración personal, la gestión emocional y la reflexión sobre valores, principios y normas que orientan la vida personal y social, abordando temas como la autoestima, la coeducación o la prevención del acoso."
+    },
+    {
+      "question": "¿Qué explora el Bloque 2 'Sociedad, justicia y democracia' de la EVCE?",
+      "options": [
+        "La exploración personal, la gestión emocional y la reflexión sobre valores",
+        "La relación entre estilos de vida y entorno, identificando problemas ecosociales",
+        "La raíz social y cultural de la identidad personal y la comprensión del marco democrático de convivencia, buscando que el alumnado contraste sus ideas mediante la investigación y el diálogo",
+        "La adopción de hábitos sostenibles desde un compromiso ético y afectivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Bloque 2 explora la raíz social y cultural de la identidad personal y fomenta la comprensión del marco democrático de convivencia, buscando que el alumnado contraste sus ideas mediante la investigación y el diálogo acerca de cuestiones éticas como los derechos humanos, la igualdad de género, la pobreza o la migración."
+    },
+    {
+      "question": "¿Qué pretende el Bloque 3 'Desarrollo sostenible y ética ambiental' de la EVCE?",
+      "options": [
+        "Explorar la identidad personal y fomentar la comprensión del marco democrático",
+        "Promover la autoestima, la gestión emocional y la prevención del acoso",
+        "Comprender, a través del trabajo cooperativo, la relación entre estilos de vida y entorno, adoptando hábitos sostenibles desde un compromiso ético y afectivo",
+        "Desarrollar la comprensión de los derechos humanos y los principios democráticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Bloque 3 pretende que los discentes comprendan, a través del trabajo cooperativo, la relación entre estilos de vida y entorno, identificando problemas ecosociales con el fin de adoptar hábitos sostenibles desde un compromiso ético y afectivo."
+    },
+    {
+      "question": "¿Qué cuestiones éticas se mencionan específicamente en el Bloque 2 de la EVCE?",
+      "options": [
+        "La autoestima, las adicciones y el impacto de las redes sociales",
+        "Los derechos humanos, la igualdad de género, la pobreza, la migración, la crisis climática y el respeto a la diversidad",
+        "El consumo responsable, la biodiversidad y la gestión de residuos",
+        "La convivencia digital, la privacidad y el uso ético de la inteligencia artificial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Bloque 2 lleva al alumnado a contrastar sus ideas mediante la investigación y el diálogo acerca de cuestiones éticas como los derechos humanos, la igualdad de género, la pobreza, la migración, la crisis climática o el respeto a la diversidad."
+    },
+    {
+      "question": "¿Cómo se definen los criterios de evaluación en el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Las competencias específicas que el alumnado debe adquirir en cada área curricular",
+        "Los referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a que se refieren los objetivos de cada área en un momento determinado",
+        "Los estándares de aprendizaje que concretan los criterios y permiten la calificación del alumnado",
+        "Los indicadores de logro que evalúan el grado de adquisición de las competencias clave"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define los criterios de evaluación como los referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a que se refieren los objetivos de cada área en un momento determinado de su proceso de aprendizaje."
+    },
+    {
+      "question": "¿Cómo se definen los contenidos en el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Los saberes básicos que el alumnado debe dominar para desarrollar las competencias",
+        "Los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario para adquirir el nivel de desempeño de los criterios de evaluación y para el logro de los objetivos",
+        "Los temas y unidades didácticas que organizan el aprendizaje de cada área curricular",
+        "Los aprendizajes esenciales que garantizan el desarrollo competencial del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define los contenidos como los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario para adquirir el nivel de desempeño de los criterios de evaluación y para el logro de los objetivos."
+    },
+    {
+      "question": "¿Cómo se definen los objetivos de área en el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Los logros que se espera que alcance el alumnado al finalizar la etapa vinculados a las CC",
+        "Los referentes que indican los niveles de desempeño esperados en las situaciones de cada área",
+        "Los desempeños que el alumnado debe poder desplegar en actividades o situaciones cuyo abordaje requiere los aprendizajes asociados a los contenidos de cada área",
+        "Las metas de aprendizaje que orientan la planificación didáctica del docente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 6 del Decreto 155/2022 define los objetivos de área como los desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere los aprendizajes asociados a los contenidos de cada área."
+    },
+    {
+      "question": "¿Cómo se definen los objetivos de etapa en el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Los desempeños que el alumnado debe poder desplegar en actividades propias de cada área",
+        "Los referentes que indican los niveles de desempeño esperados en el alumnado",
+        "Los logros que se espera que alcance el alumnado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las CC",
+        "Las capacidades y competencias que el alumnado debe demostrar al finalizar la educación básica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 6 del Decreto 155/2022 define los objetivos de etapa como los logros que se espera que alcance el alumnado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las CC."
+    },
+    {
+      "question": "¿Qué aspectos valoran los criterios de evaluación del Bloque 1 de la EVCE?",
+      "options": [
+        "La comprensión de las políticas de cooperación, seguridad y paz",
+        "La adopción de conductas cívicas y la capacidad para proponer alternativas al cambio climático",
+        "La construcción de un autoconcepto positivo, la gestión asertiva de emociones, la postura moral autónoma y el uso crítico y seguro de medios digitales",
+        "La gestión emocional para el cuidado de uno mismo, de los demás y del entorno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los criterios del Bloque 1 valoran: la construcción de un autoconcepto positivo y la gestión asertiva de las emociones; el desarrollo de una postura moral autónoma a través del diálogo ético; la interacción cívica basada en los derechos humanos; y el uso crítico y seguro de los medios digitales y las redes sociales."
+    },
+    {
+      "question": "¿Qué valoran los criterios de evaluación del Bloque 2 de la EVCE?",
+      "options": [
+        "La construcción de un autoconcepto positivo y la gestión asertiva de emociones",
+        "La adopción de conductas cívicas y la capacidad para proponer alternativas al cambio climático",
+        "La promoción de la convivencia democrática, justa y pacífica; las conductas cívicas orientadas por los derechos humanos; el compromiso con la solidaridad, la diversidad y la igualdad efectiva; y la comprensión de las políticas de cooperación, seguridad y paz",
+        "La gestión emocional para el cuidado de uno mismo, de los demás y del entorno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los criterios del Bloque 2 se enfocan en evaluar: la promoción de una convivencia democrática, justa y pacífica; las conductas cívicas orientadas por los derechos humanos y los principios constitucionales; el compromiso con la solidaridad, la diversidad y la igualdad efectiva entre hombres y mujeres; y la comprensión de las políticas de cooperación, seguridad y paz."
+    },
+    {
+      "question": "¿Qué valoran los criterios de evaluación del Bloque 3 de la EVCE?",
+      "options": [
+        "La convivencia democrática y las conductas cívicas orientadas por los derechos humanos",
+        "La construcción del autoconcepto y la gestión asertiva de emociones",
+        "La adopción de conductas cívicas para interactuar con otros; la capacidad para proponer alternativas frente al cambio climático y los ODS; el compromiso activo con el consumo responsable y la protección del entorno; y la gestión emocional para el cuidado de uno mismo, de los demás y del entorno",
+        "El compromiso con la solidaridad, la diversidad y la igualdad efectiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los criterios del Bloque 3 valoran: la adopción de conductas cívicas y éticas para interactuar con otros; la capacidad para proponer alternativas frente al cambio climático y los ODS; el compromiso activo con el consumo responsable y la protección del entorno natural; y la gestión emocional para el cuidado de uno mismo, de los demás y del entorno."
+    },
+    {
+      "question": "¿Qué artículo del Decreto 155/2022 recoge los objetivos de etapa de la EP?",
+      "options": [
+        "Artículo 6",
+        "Artículo 7",
+        "Artículo 8",
+        "Artículo 9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 7 del Decreto 155/2022 recoge los objetivos de etapa. El área de EVCE contribuye a todos ellos, pero se vincula estrechamente con siete de los 15 objetivos que establece este artículo."
+    },
+    {
+      "question": "Los objetivos de área de la EVCE son 'un elemento de conexión' entre:",
+      "options": [
+        "Los objetivos de etapa, las competencias clave y los bloques de contenido",
+        "El perfil de salida, los criterios de evaluación y los contenidos",
+        "Los descriptores operativos, los saberes básicos y los estándares de aprendizaje",
+        "Las competencias específicas, los principios pedagógicos y los instrumentos de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos de área son un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos, y se corresponden con las competencias específicas establecidas en el RD 157/2022."
+    },
+    {
+      "question": "¿En qué epígrafe del Anexo II del Decreto 155/2022 se recogen los objetivos del área de EVCE?",
+      "options": [
+        "Epígrafe 4.1",
+        "Epígrafe 4.2",
+        "Epígrafe 4.3",
+        "Epígrafe 3.2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos del área de EVCE se recogen en el Anexo II, epígrafe 4.2 del Decreto 155/2022, siendo un total de 4 objetivos (OBJ1 a OBJ4)."
+    },
+    {
+      "question": "¿Cuál es la finalidad del OBJ2 del área de EVCE?",
+      "options": [
+        "Promover el autoconocimiento y la autonomía moral",
+        "Comprometerse con el respeto, cuidado y protección de las personas y del planeta",
+        "Promover una convivencia democrática, justa, inclusiva, respetuosa y pacífica",
+        "Adoptar una actitud de cuidado y aprecio propio, de los demás y de la naturaleza"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La finalidad del OBJ2 es promover una convivencia democrática, justa, inclusiva, respetuosa y pacífica, a través de actuar de acuerdo con normas y valores cívicos y éticos aplicándolos de forma efectiva y argumentada en distintos contextos."
+    },
+    {
+      "question": "¿A cuántos bloques temáticos de ODS contribuye directamente el área de EVCE?",
+      "options": [
+        "A dos bloques temáticos",
+        "A tres bloques temáticos",
+        "A cuatro bloques temáticos",
+        "A todos los ODS de la Agenda 2030"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La EVCE contribuye de forma directa en tres bloques temáticos: justicia social e igualdad (ODS 1, 2, 5 y 10), bienestar y derechos básicos (ODS 3, 4 y 6) y sostenibilidad y cuidado del planeta (ODS 12, 13, 14 y 15)."
+    },
+    {
+      "question": "¿Cuál es el vínculo del ODS 16 con el área de EVCE?",
+      "options": [
+        "La sostenibilidad ambiental y el consumo responsable",
+        "La igualdad de género y la reducción de las desigualdades sociales",
+        "La convivencia democrática, la participación responsable y el respeto a los derechos humanos",
+        "La educación de calidad y el acceso a la información"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El ODS 16 'Paz, justicia e instituciones sólidas' se vincula de manera transversal con el área al promover la convivencia democrática, la participación responsable y el respeto a los derechos humanos."
+    },
+    {
+      "question": "¿Qué tipo de aprendizaje promueve específicamente el Bloque 3 de la EVCE?",
+      "options": [
+        "Individual y reflexivo sobre los propios valores personales",
+        "Investigador sobre los derechos humanos y la democracia",
+        "Dialógico para contrastar ideas sobre cuestiones éticas",
+        "Cooperativo para comprender la relación entre estilos de vida y entorno"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Bloque 3 pretende que los discentes comprendan, a través del trabajo cooperativo, la relación entre estilos de vida y entorno, identificando problemas ecosociales para adoptar hábitos sostenibles."
+    },
+    {
+      "question": "¿Qué criterio del Bloque 1 evalúa la dimensión digital del alumnado?",
+      "options": [
+        "El compromiso con la igualdad efectiva entre hombres y mujeres",
+        "La comprensión de las políticas de cooperación y paz",
+        "La capacidad para proponer alternativas frente al cambio climático",
+        "El uso crítico y seguro de los medios digitales y las redes sociales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los criterios del Bloque 1 evalúan, entre otros aspectos, el uso crítico y seguro de los medios digitales y las redes sociales, dimensión especialmente relevante en el contexto de la convivencia digital."
+    },
+    {
+      "question": "¿Qué criterio del Bloque 2 evalúa la dimensión de igualdad entre hombres y mujeres?",
+      "options": [
+        "La construcción de un autoconcepto positivo",
+        "La adopción de hábitos sostenibles desde un compromiso ético",
+        "El compromiso con la solidaridad, la diversidad y la igualdad efectiva entre hombres y mujeres",
+        "El uso crítico y seguro de los medios digitales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los criterios del Bloque 2 evalúan, entre otros aspectos, el compromiso con la solidaridad, la diversidad y la igualdad efectiva entre hombres y mujeres, coherente con los ODS 5 y 10."
+    },
+    {
+      "question": "¿Qué aspecto del OBJ4 se refiere específicamente a las emociones de los demás?",
+      "options": [
+        "Identificar y gestionar las emociones propias",
+        "Desarrollar la autoestima para el cuidado propio",
+        "Expresar las propias emociones con respeto",
+        "Reconocer y valorar las emociones ajenas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El OBJ4 menciona explícitamente el reconocimiento y valoración de las emociones ajenas como componente de la empatía, junto con la identificación, gestión y expresión de las emociones propias."
+    },
+    {
+      "question": "¿Con qué objetivo de área de la EVCE se vincula el trabajo cooperativo del Bloque 3?",
+      "options": [
+        "OBJ1: Deliberar y argumentar sobre problemas éticos",
+        "OBJ2: Actuar de acuerdo con normas y valores cívicos",
+        "OBJ3: Comprender las relaciones entre individuo, sociedad y naturaleza",
+        "OBJ4: Desarrollar la autoestima y la empatía"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Bloque 3 se desarrolla a través del trabajo cooperativo para comprender la relación entre estilos de vida y entorno, vinculado directamente con el OBJ3 sobre comprender las relaciones entre individuo, sociedad y naturaleza."
+    },
+    {
+      "question": "¿En qué se basan los criterios de evaluación para describir lo que se valora según el Decreto 155/2022?",
+      "options": [
+        "En los descriptores operativos del perfil de salida",
+        "En los estándares de aprendizaje del RD 157/2022",
+        "En lo que se quiere valorar y que el alumnado debe alcanzar, en conocimientos y competencias",
+        "En los indicadores de logro de las competencias específicas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el Decreto 155/2022, los criterios de evaluación describen lo que se quiere valorar y que el alumnado debe alcanzar, en conocimientos y competencias."
+    },
+    {
+      "question": "¿Cuál es la tercera característica del área de EVCE vinculada al 'desarrollo intelectual, moral y emocional'?",
+      "options": [
+        "Segunda característica",
+        "Tercera característica",
+        "Cuarta característica",
+        "Quinta característica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tercera característica del área es que parte del derecho del alumnado a un desarrollo intelectual, moral y emocional, lo que requiere una consideración global y exige que los centros incorporen este enfoque integral en sus proyectos educativos, planes y programas."
+    },
+    {
+      "question": "¿Cuál es el propósito del OBJ3 en relación con el entorno natural y social?",
+      "options": [
+        "Fomentar actitudes de consumo responsable y reciclaje en la vida cotidiana",
+        "Desarrollar hábitos sostenibles a través del trabajo cooperativo",
+        "Identificar la relación entre estilos de vida e impacto ambiental",
+        "Reflexionar sobre problemas ecosociales para comprometerse con el respeto, cuidado y protección de las personas y del planeta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El OBJ3 propone comprender las relaciones entre individuo, sociedad y naturaleza, reflexionando sobre problemas ecosociales, para comprometerse con el respeto, cuidado y protección de las personas y del planeta."
+    },
+    {
+      "question": "¿Cuántos ODS se mencionan en el bloque de 'sostenibilidad y cuidado del planeta'?",
+      "options": [
+        "Tres ODS",
+        "Cuatro ODS",
+        "Cinco ODS",
+        "Seis ODS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el bloque de sostenibilidad y cuidado del planeta se incluyen cuatro ODS: el 12 (producción y consumo responsables), 13 (acción por el clima), 14 (vida submarina) y 15 (vida de ecosistemas terrestres)."
+    },
+    {
+      "question": "¿Qué tipo de problemas aborda el OBJ1 según su definición?",
+      "options": [
+        "Problemas de convivencia y relaciones sociales en el entorno escolar",
+        "Problemas éticos personales y del entorno",
+        "Problemas ecosociales vinculados al desarrollo sostenible",
+        "Problemas de gestión emocional e identidad personal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ1 se centra en deliberar y argumentar sobre problemas éticos personales y del entorno, buscando y analizando información fiable para promover el autoconocimiento y la autonomía moral."
+    },
+    {
+      "question": "¿Qué aspecto del criterio del Bloque 1 se vincula con el 'diálogo ético'?",
+      "options": [
+        "La construcción de un autoconcepto positivo y la gestión asertiva de emociones",
+        "El desarrollo de una postura moral autónoma a través del diálogo ético",
+        "El uso crítico y seguro de los medios digitales",
+        "La interacción cívica basada en los derechos humanos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios del Bloque 1 valoran el desarrollo de una postura moral autónoma a través del diálogo ético, aspecto directamente relacionado con el OBJ1 sobre la deliberación ética."
+    },
+    {
+      "question": "¿Qué criterio del Bloque 3 se refiere al cambio climático?",
+      "options": [
+        "Los hábitos de trabajo, esfuerzo y responsabilidad en el estudio",
+        "Los hábitos saludables y el bienestar personal",
+        "Los hábitos de uso seguro y crítico de la tecnología",
+        "La capacidad para proponer alternativas frente al cambio climático y los ODS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los criterios del Bloque 3 evalúan, entre otros, la capacidad para proponer alternativas frente al cambio climático y los ODS, conectando con el compromiso ecosocial que propone este bloque."
+    },
+    {
+      "question": "Los objetivos de área de la EVCE se corresponden con las competencias específicas establecidas en el:",
+      "options": [
+        "Decreto 155/2022 de Galicia",
+        "RD 157/2022",
+        "LOMLOE",
+        "Orden de 26 de mayo de 2023"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos de área del Decreto 155/2022 se corresponden con las competencias específicas establecidas en el RD 157/2022, siendo un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos."
+    },
+    {
+      "question": "¿Qué OBJ4 desarrolla principalmente en términos de CC?",
+      "options": [
+        "La competencia cívica y democrática",
+        "La competencia de sostenibilidad ambiental",
+        "La competencia emocional y de autoconocimiento",
+        "La competencia argumentativa y crítica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ4, al desarrollar la autoestima y la empatía, identificando, gestionando y expresando emociones propias y ajenas, se orienta principalmente al desarrollo de la competencia emocional y de autoconocimiento, vinculada a la CPSAA."
+    },
+    {
+      "question": "¿Qué criterio del Bloque 2 hace referencia a las políticas internacionales?",
+      "options": [
+        "La promoción de una convivencia democrática, justa y pacífica",
+        "El compromiso con la solidaridad, la diversidad y la igualdad efectiva",
+        "La comprensión de las políticas de cooperación, seguridad y paz",
+        "Las conductas cívicas orientadas por los derechos humanos y los principios constitucionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los criterios del Bloque 2 evalúan la comprensión de las políticas de cooperación, seguridad y paz, conectando la dimensión ética local con el marco internacional de los derechos humanos."
+    },
+    {
+      "question": "Los contenidos de la EVCE se estructuran en bloques 'ajustados al nivel del alumnado de':",
+      "options": [
+        "5º de EP",
+        "6º de EP",
+        "6º de EP y 1º de ESO",
+        "5º y 6º de EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los tres bloques de contenido de la EVCE están ajustados al nivel del alumnado de 6º de EP, el único curso donde el área se imparte de forma reglada según el Decreto 155/2022."
+    },
+    {
+      "question": "¿Con qué finalidad el OBJ1 promueve la búsqueda y análisis de información fiable?",
+      "options": [
+        "Para comprender las relaciones entre individuo, sociedad y naturaleza",
+        "Para promover el autoconocimiento y la autonomía moral",
+        "Para adoptar actitudes de sostenibilidad y compromiso con el entorno",
+        "Para actuar de acuerdo con normas y valores cívicos en distintos contextos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ1 promueve la búsqueda y análisis de información fiable con la finalidad de promover el autoconocimiento y la autonomía moral, capacitando al alumnado para deliberar y argumentar sobre problemas éticos."
+    },
+    {
+      "question": "¿Qué criterio del Bloque 3 evalúa el aspecto del consumo responsable?",
+      "options": [
+        "La adopción de conductas cívicas y éticas para interactuar con otros",
+        "La gestión emocional para el cuidado de uno mismo",
+        "La capacidad para proponer alternativas frente al cambio climático",
+        "El compromiso activo con el consumo responsable y la protección del entorno natural"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los criterios del Bloque 3 evalúan el compromiso activo con el consumo responsable y la protección del entorno natural, aspectos directamente relacionados con los ODS de sostenibilidad."
+    },
+    {
+      "question": "¿Qué criterio del Bloque 1 evalúa la dimensión social de la interacción del alumnado?",
+      "options": [
+        "La construcción de un autoconcepto positivo",
+        "El desarrollo de una postura moral autónoma",
+        "El uso crítico y seguro de los medios digitales",
+        "La interacción cívica basada en los derechos humanos y el cuidado del entorno"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los criterios del Bloque 1 evalúan la interacción cívica basada en los derechos humanos y el cuidado del entorno, dimensión que conecta el autoconocimiento con la responsabilidad social."
+    },
+    {
+      "question": "¿Con qué áreas lingüísticas mantiene la EVCE una estrecha relación?",
+      "options": [
+        "Solo con el área de Lengua Castellana y Literatura",
+        "Con las tres áreas lingüísticas: Castellana, Gallega y Extranjera por igual",
+        "Con el área de Lengua Castellana y Literatura y el área de Lengua Gallega y Literatura",
+        "Con el área de Lengua Extranjera principalmente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EVCE mantiene una estrecha relación con el área de Lengua Castellana y Literatura y el área de Lengua Gallega y Literatura, al utilizar la lengua como vehículo de comunicación de conocimientos, pensamientos y experiencias."
+    },
+    {
+      "question": "¿Qué herramientas de la Lengua se trabajan como vehículo de comunicación en la EVCE?",
+      "options": [
+        "La expresión escrita y la comprensión lectora",
+        "El debate estructurado y la argumentación formal",
+        "La expresión oral y el uso de un lenguaje no sexista",
+        "La lengua como vehículo de comunicación de conocimientos, pensamientos y experiencias, y la escucha activa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La EVCE se relaciona con las áreas de Lengua al utilizar la lengua como vehículo de comunicación de conocimientos, pensamientos y experiencias, y la escucha activa como herramientas para debatir, argumentar, expresar ideas y emociones con respeto."
+    },
+    {
+      "question": "¿Cómo se relaciona la EVCE con el área de Lengua Extranjera?",
+      "options": [
+        "A través de la comprensión de textos en otros idiomas sobre derechos humanos",
+        "Trabajando la diversidad cultural y lingüística y la convivencia en contextos pluriculturales",
+        "Desarrollando la competencia comunicativa en lengua extranjera con finalidad cívica",
+        "Mediante el análisis de legislación internacional en lengua extranjera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con el área de Lengua Extranjera, la EVCE trabaja la diversidad cultural y lingüística y la convivencia en contextos pluriculturales, aportando una dimensión intercultural al aprendizaje ético y ciudadano."
+    },
+    {
+      "question": "¿Qué tipo de análisis permite relacionar la EVCE con el área de Matemáticas?",
+      "options": [
+        "El análisis de estadísticas históricas sobre conflictos sociales",
+        "La resolución de problemas matemáticos con contenido ético y social",
+        "La interpretación de encuestas sobre valores y actitudes democráticas",
+        "El análisis de datos, gráficos y estadísticos para fundamentar juicios éticos sobre problemas cercanos como el consumo, las desigualdades sociales o la gestión de residuos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La relación con Matemáticas se establece a través del análisis de datos, gráficos y estadísticos que permite fundamentar juicios éticos sobre problemas cercanos, como el consumo, las desigualdades sociales o la gestión de residuos en el centro."
+    },
+    {
+      "question": "¿Cómo se relaciona la EVCE con las Ciencias de la Naturaleza?",
+      "options": [
+        "A través del estudio de los ecosistemas y la biodiversidad",
+        "Mediante la comprensión de los procesos de cambio climático y sus consecuencias",
+        "A través del análisis de los problemas ambientales y sus soluciones tecnológicas",
+        "El conocimiento del entorno es fundamental para adquirir valores de respeto y cuidado por el medio y el uso racional de recursos naturales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La EVCE se relaciona con las Ciencias de la Naturaleza porque el conocimiento del entorno es fundamental para adquirir valores de respeto y cuidado por el medio y el uso racional de recursos naturales."
+    },
+    {
+      "question": "¿Qué aprendizajes comparten la EVCE y las Ciencias Sociales?",
+      "options": [
+        "El conocimiento del entorno natural y el cuidado del medio ambiente",
+        "La resolución pacífica de conflictos y la gestión emocional",
+        "La vida en sociedad, la democracia, los derechos humanos, el patrimonio y problemas ecosociales, promoviendo la participación para lograr fines colectivos",
+        "El desarrollo sostenible y la ética ambiental"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EVCE presenta una estrecha vinculación con las Ciencias Sociales al impulsar aprendizajes relacionados con la vida en sociedad, la democracia, los derechos humanos, el patrimonio y problemas ecosociales, promoviendo la participación para lograr fines colectivos."
+    },
+    {
+      "question": "¿Cómo se divide el área de Educación Artística según el texto?",
+      "options": [
+        "En Educación Plástica y Educación Musical",
+        "En Artes Plásticas y Expresión Corporal",
+        "En Educación Plástica y Visual y en Música y Danza",
+        "En Dibujo y Expresión Musical"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto menciona que la Educación Artística se divide en Educación Plástica y Visual y en Música y Danza, ambas relacionadas con la EVCE a través de la expresión y comunicación de valores."
+    },
+    {
+      "question": "¿A través de qué tipo de producciones facilita la Educación Artística la expresión de valores en relación con la EVCE?",
+      "options": [
+        "Pinturas, esculturas y composiciones musicales",
+        "Cómics, fotografías y videoclips",
+        "Murales, canciones y representaciones teatrales",
+        "Carteles, campañas o dramatizaciones"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La Educación Artística facilita la expresión y comunicación de valores a través de producciones como carteles, campañas o dramatizaciones, favoreciendo la sensibilización propia y ajena ante realidades sociales."
+    },
+    {
+      "question": "¿Qué aprendizajes comparten la EVCE y la Educación Física?",
+      "options": [
+        "La salud mental, la gestión del estrés y el bienestar emocional",
+        "Los hábitos saludables y la adquisición de valores de respeto, no discriminación, autoestima, inclusión, aceptación y convivencia",
+        "El trabajo en equipo, la cooperación y la resolución de conflictos en el deporte",
+        "La ciudadanía activa, la participación democrática y los derechos del deporte"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de Educación Física comparte con la EVCE aprendizajes relacionados con los hábitos saludables y la adquisición de valores de respeto, no discriminación, autoestima, inclusión, aceptación y convivencia."
+    },
+    {
+      "question": "¿Qué permite diseñar la conexión entre la EVCE y otras áreas del currículo?",
+      "options": [
+        "Programaciones coordinadas entre docentes de diferentes especialidades",
+        "Proyectos transversales que integran todas las áreas del currículo",
+        "Situaciones de aprendizaje interdisciplinares que permiten analizar problemas reales, argumentar con evidencias, convivir democráticamente y participar en mejoras del entorno",
+        "Actividades complementarias que refuerzan los contenidos de cada área"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las conexiones entre áreas permiten diseñar situaciones de aprendizaje interdisciplinares que permiten analizar problemas reales, argumentar con evidencias, convivir de forma democrática y participar en mejoras del aula, del centro y del entorno."
+    },
+    {
+      "question": "¿Qué implicación tuvo la circular informativa de la dirección general sobre el tema 11 del temario?",
+      "options": [
+        "Sustituyó todo el contenido del tema 11 por el nuevo marco de la LOMLOE",
+        "Eliminó las referencias a la LOE del temario de oposiciones",
+        "Determinó que todo lo referido a 'Educación para la ciudadanía y los derechos humanos' del tema 11 se entiende referido al área de 'Educación en Valores Cívicos y Éticos'",
+        "Añadió nuevos contenidos al tema 11 sobre ciudadanía digital"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La circular informativa de la dirección general determina que todo lo referido a la 'Educación para la ciudadanía y los derechos humanos' del tema 11 del temario de oposiciones debe entenderse referido, desde ese momento, al área de 'Educación en Valores Cívicos y Éticos'."
+    },
+    {
+      "question": "¿Qué implica la quinta característica de la EVCE en relación con la 'identidad personal y cultural'?",
+      "options": [
+        "La reflexión sobre las propias emociones y la autoestima personal",
+        "El desarrollo de la autonomía personal y el proyecto de vida propio",
+        "El conocimiento de los propios valores y principios que orientan la conducta",
+        "Tomar conciencia de la identidad personal y cultural, de cuestiones éticas y sociales vinculadas a la convivencia y del carácter interconectado y ecodependiente de su vida con el entorno"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La quinta característica implica movilizar conocimientos, destrezas, actitudes y valores que permitan al alumnado tomar conciencia de su identidad personal y cultural, de cuestiones éticas y sociales vinculadas a la convivencia y del carácter interconectado y ecodependiente de su vida con el entorno."
+    },
+    {
+      "question": "¿Qué tres tipos de objetivos distingue el tema para el área de EVCE?",
+      "options": [
+        "Objetivos generales, específicos y de etapa",
+        "ODS de la Agenda 2030, objetivos de etapa y objetivos de área",
+        "Objetivos conceptuales, procedimentales y actitudinales",
+        "Objetivos nacionales, autonómicos y de centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tema distingue tres tipos de objetivos: los 17 ODS de la Agenda 2030, los 15 objetivos de etapa del artículo 7 del Decreto 155/2022, y los 4 objetivos de área del Annexo II del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué conecta la EVCE en las tres palabras clave de la conclusión del tema?",
+      "options": [
+        "El conocer, el hacer y el convivir",
+        "El saber, el ser y el convivir",
+        "El pensar, el sentir y el actuar",
+        "El conocimiento, la actitud y el procedimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La conclusión del tema señala que la EVCE conecta el saber, el ser y el convivir en una propuesta coherente con los desafíos de una sociedad plural y democrática."
+    },
+    {
+      "question": "¿Qué retos del presente menciona la conclusión del tema relacionados con la EVCE?",
+      "options": [
+        "La educación para el desarrollo sostenible y la ciudadanía mundial",
+        "La integración de las TIC en el proceso de enseñanza-aprendizaje",
+        "La convivencia digital, la prevención del discurso de odio y la comunicación crítica ante la desinformación y la inteligencia artificial generativa",
+        "La atención a la diversidad y la inclusión educativa en un mundo globalizado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La conclusión señala que la formación en EVCE exige responder a los retos del presente: educar para la convivencia digital, la prevención del discurso de odio y una comunicación crítica ante la desinformación y la inteligencia artificial generativa."
+    },
+    {
+      "question": "¿Qué marco curricular proporciona el Decreto 155/2022 para el área de EVCE en Galicia?",
+      "options": [
+        "Para que se desarrolle en todos los cursos de EP de manera sistemática y transversal",
+        "Para que se integre en todas las áreas del currículo de forma coordinada",
+        "Para que se imparta en 5º y 6º de EP con un enfoque competencial",
+        "Para que se desarrolle en 6º de EP de manera sistemática y transversal, contribuyendo al desarrollo de las ocho CC, al logro de los objetivos de etapa y los ODS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Decreto 155/2022 proporciona el marco curricular para que la EVCE se desarrolle en 6.º de EP de manera sistemática y transversal, contribuyendo al desarrollo de las ocho CC, al logro de los objetivos de etapa y los ODS, e integrándose con una práctica democrática en la vida escolar."
+    },
+    {
+      "question": "¿Cuál es la fecha exacta de la LOMLOE?",
+      "options": [
+        "3 de mayo de 2006",
+        "9 de diciembre de 2013",
+        "29 de diciembre de 2020",
+        "1 de marzo de 2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE es la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación."
+    },
+    {
+      "question": "¿En qué número del Diario Oficial de Galicia se publicó el Decreto 155/2022?",
+      "options": [
+        "DOG núm. 165",
+        "DOG núm. 183",
+        "DOG núm. 191",
+        "DOG núm. 200"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 se publicó en el Diario Oficial de Galicia, núm. 183, de 26 de septiembre de 2022."
+    },
+    {
+      "question": "¿En qué fecha se publicó el Decreto 155/2022 en el Diario Oficial de Galicia?",
+      "options": [
+        "15 de septiembre de 2022",
+        "1 de octubre de 2022",
+        "30 de septiembre de 2022",
+        "26 de septiembre de 2022"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre (fecha de aprobación), se publicó en el DOG núm. 183, de 26 de septiembre de 2022."
+    },
+    {
+      "question": "¿Qué metodologías activas se mencionan en la conclusión del tema como ejemplos de práctica democrática en la vida escolar?",
+      "options": [
+        "El aprendizaje cooperativo y el aprendizaje basado en problemas",
+        "El role-playing y el aprendizaje basado en proyectos",
+        "Las prácticas restaurativas y la mediación escolar",
+        "El aprendizaje-servicio y el trabajo por proyectos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La conclusión menciona el aprendizaje-servicio y el trabajo por proyectos como metodologías activas que conectan el aprendizaje con la vida del aula, del centro y del entorno, integrando la práctica democrática."
+    },
+    {
+      "question": "¿Cuál es la primera línea de actuación metodológica del área y qué vínculo reconoce?",
+      "options": [
+        "La atención a la diversidad, reconociendo el derecho de todos a aprender",
+        "El trabajo cooperativo, reconociendo la importancia de la colaboración",
+        "Partir de contextos funcionales, reales y cotidianos, reconociendo el vínculo entre los conocimientos teóricos y los prácticos",
+        "El enfoque interdisciplinar, reconociendo la conexión entre todas las áreas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La primera línea de actuación es partir de contextos funcionales, reales y cotidianos, reconociendo el vínculo entre los conocimientos teóricos y los prácticos, a través del desarrollo de proyectos significativos integrados en la vida del centro y del entorno."
+    },
+    {
+      "question": "¿Cuál es la función de la escucha activa en la relación de la EVCE con las áreas lingüísticas?",
+      "options": [
+        "Desarrollar la comprensión lectora y la expresión escrita del alumnado",
+        "Fomentar la participación activa del alumnado en las asambleas de clase",
+        "Ser herramienta para debatir, argumentar, expresar ideas y emociones con respeto",
+        "Promover la comunicación no violenta en la resolución de conflictos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EVCE usa la escucha activa como herramienta para debatir, argumentar, expresar ideas y emociones con respeto, lo que conecta directamente con el trabajo de las áreas lingüísticas."
+    },
+    {
+      "question": "¿Qué trabaja el área de EVCE con el área de Lengua Extranjera?",
+      "options": [
+        "La comprensión de derechos humanos universales en lengua extranjera",
+        "La diversidad cultural y lingüística y la convivencia en contextos pluriculturales",
+        "El análisis crítico de valores democráticos en otras culturas",
+        "La expresión de valores cívicos usando vocabulario específico en otro idioma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con el área de Lengua Extranjera, la EVCE trabaja la diversidad cultural y lingüística y la convivencia en contextos pluriculturales, ampliando la perspectiva ética y ciudadana más allá del contexto local."
+    },
+    {
+      "question": "¿Qué exige la tercera característica del área de EVCE a los centros educativos?",
+      "options": [
+        "Que desarrollen proyectos de convivencia y mediación escolar",
+        "Que organicen sesiones semanales de educación en valores en todos los cursos",
+        "Que promuevan la participación activa del alumnado en la vida democrática del centro",
+        "Que incorporen el enfoque integral (desarrollo intelectual, moral y emocional) en sus proyectos educativos, planes y programas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La tercera característica, que parte del derecho al desarrollo intelectual, moral y emocional, requiere una consideración global y exige que los centros incorporen este enfoque integral en sus proyectos educativos, planes y programas."
+    },
+    {
+      "question": "¿Qué eje del área de EVCE se corresponde con la SdA 'Voces del barrio'?",
+      "options": [
+        "Autoconocimiento y autonomía moral",
+        "Educación emocional",
+        "Sociedad, justicia y democracia",
+        "Desarrollo sostenible y ética ambiental"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La SdA 'Voces del barrio' se enmarca en el eje de sociedad, justicia y democracia (Bloque 2), por su enfoque en identificar situaciones de injusticia y desigualdad del entorno y elaborar propuestas de mejora ciudadana."
+    },
+    {
+      "question": "¿Cuántos ODS se incluyen en el bloque de 'justicia social e igualdad' al que contribuye la EVCE?",
+      "options": [
+        "Tres ODS",
+        "Cuatro ODS",
+        "Cinco ODS",
+        "Seis ODS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el bloque de justicia social e igualdad se incluyen cuatro ODS: el 1 (fin de la pobreza), 2 (hambre cero), 5 (igualdad de género) y 10 (reducción de las desigualdades)."
+    },
+    {
+      "question": "¿En qué se basa la interdisciplinariedad de la EP según el artículo 3 del Decreto 155/2022?",
+      "options": [
+        "En la organización de los contenidos por disciplinas interconectadas",
+        "En el trabajo colaborativo de los docentes de distintas especialidades",
+        "En el diseño de proyectos que integran aprendizajes de múltiples disciplinas",
+        "En que la EP se organiza en áreas con un carácter global e integrador donde todos los aprendizajes están conectados entre sí"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El artículo 3 del Decreto 155/2022 establece que la EP se organiza en áreas con un carácter global e integrador, de modo que todos los aprendizajes están conectados entre sí, siendo la base de la interdisciplinariedad."
+    },
+    {
+      "question": "¿Qué aspecto de la segunda característica convierte a la EVCE en 'componente esencial'?",
+      "options": [
+        "Su carácter transversal conectado con todas las áreas del currículo",
+        "La vinculación con los ODS de la Agenda 2030",
+        "La organización en torno a cuatro objetivos fundamentales",
+        "El hecho de que prepara para el ejercicio crítico y responsable de la ciudadanía y para la formación integral"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La segunda característica señala que la EVCE constituye un componente esencial de la Educación en Valores que prepara para el ejercicio crítico y responsable de la ciudadanía y para la formación integral del alumnado."
+    },
+    {
+      "question": "¿Qué habilidades de la inteligencia emocional trabaja el enfoque del área de EVCE?",
+      "options": [
+        "Solo la inteligencia emocional intrapersonal",
+        "Solo la inteligencia emocional interpersonal",
+        "La inteligencia emocional intrapersonal e interpersonal",
+        "La inteligencia emocional cognitiva y conductual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El enfoque del área trabaja la inteligencia emocional intrapersonal e interpersonal y de estrategias para mejorar el autoconocimiento, la regulación de impulsos y emociones, fortaleciendo el autoconcepto, la colaboración, la comprensión, la autonomía, el respeto y la cooperación."
+    },
+    {
+      "question": "¿Qué señala el artículo 16 del Decreto 155/2022 sobre las CC que deben trabajarse en cada actividad?",
+      "options": [
+        "Que las actividades deben desarrollar al menos una CC de forma prioritaria",
+        "Que cada unidad didáctica debe desarrollar al menos tres CC diferentes",
+        "Que las actividades deben contribuir al desarrollo de todas las CC a lo largo del curso",
+        "Que las actividades deben favorecer el desarrollo simultáneo de más de una de las ocho CC"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El artículo 16 del Decreto 155/2022 señala que las actividades deben favorecer al desarrollo simultáneo de más de una de las ocho CC recogidas en el artículo 8, dado su enfoque transversal."
+    },
+    {
+      "question": "¿Qué tipo de 'sociedad' describe la EVCE como marco de referencia para sus contenidos y objetivos?",
+      "options": [
+        "Una sociedad igualitaria y solidaria",
+        "Una sociedad justa y democrática",
+        "Una sociedad plural y democrática",
+        "Una sociedad inclusiva y multicultural"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EVCE se orienta a aplicar normas y valores con autonomía en una sociedad plural y democrática, y su conclusión señala que propone una respuesta coherente con los desafíos de una sociedad plural y democrática."
+    },
+    {
+      "question": "¿Cuál es el nivel 'práctico o instrumental' de los objetivos fundamentales del área de EVCE?",
+      "options": [
+        "La adquisición de conocimientos sobre los valores democráticos y éticos",
+        "El análisis y reflexión sobre conceptos éticos y cívicos fundamentales",
+        "El orientado a promover conductas y actitudes acorde con los valores cívicos y éticos",
+        "El orientado al aprendizaje de habilidades comunicativas y argumentativas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los cuatro objetivos fundamentales se despliegan en dos niveles: uno teórico, dirigido al abordaje de conceptos, y otro práctico o instrumental, orientado a promover conductas y actitudes acorde con los valores cívicos y éticos."
+    },
+    {
+      "question": "¿En qué ámbito concreto favorece la convivencia el área de EVCE como octava característica?",
+      "options": [
+        "Solo en el centro educativo",
+        "En todos los ámbitos de la vida social del alumnado",
+        "En el aula, el centro y la comunidad local",
+        "En el centro y en sus entornos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La octava característica es que la EVCE está encaminada a favorecer la convivencia en el centro y en sus entornos, fomentando la empatía, el respeto a la diversidad, la tolerancia y la cultura para la paz."
+    },
+    {
+      "question": "¿Qué herramienta usa la EVCE con las Matemáticas para 'fundamentar juicios éticos'?",
+      "options": [
+        "El uso de problemas matemáticos con contexto social",
+        "El análisis de datos, gráficos y estadísticos",
+        "La interpretación de modelos matemáticos de fenómenos sociales",
+        "La aplicación del pensamiento lógico a la resolución de dilemas éticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La relación de la EVCE con Matemáticas se articula a través del análisis de datos, gráficos y estadísticos que permite fundamentar juicios éticos sobre problemas cercanos como el consumo, las desigualdades sociales o la gestión de residuos."
+    },
+    {
+      "question": "¿Qué propósito tiene la 'sensibilización propia y ajena' mencionada en la relación con Educación Artística?",
+      "options": [
+        "Desarrollar la creatividad y la expresión artística del alumnado",
+        "Ante realidades sociales, a través de producciones como carteles, campañas o dramatizaciones",
+        "Promover el conocimiento del patrimonio artístico y cultural gallego",
+        "Fomentar la colaboración artística para trabajar valores de convivencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Educación Artística facilita la sensibilización propia y ajena ante realidades sociales a través de producciones como carteles, campañas o dramatizaciones, vinculadas con los valores que trabaja la EVCE."
+    },
+    {
+      "question": "¿Qué aspecto de la conclusión indica que la EVCE es 'eje vertebrador' de la formación integral?",
+      "options": [
+        "Su carácter transversal que la conecta con todas las áreas del currículo",
+        "Su presencia obligatoria en 6º de EP con una sesión semanal",
+        "Su abarcamiento de las dimensiones intelectual, moral y emocional en la formación integral del alumnado en la EP",
+        "Su vinculación con todos los objetivos de etapa del Decreto 155/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La conclusión señala que la EVCE representa un eje vertebrador de la formación integral del alumnado en la EP, abarcando las dimensiones intelectual, moral y emocional."
+    },
+    {
+      "question": "¿Qué son los 'descriptores operativos' en relación con la EVCE?",
+      "options": [
+        "Los criterios de evaluación que concretan los aprendizajes esperados en el área",
+        "Los indicadores a través de los cuales se deduce el perfil de salida, implicando el desarrollo de las CC",
+        "Los objetivos específicos que orientan la planificación didáctica del docente",
+        "Los estándares de aprendizaje que permiten evaluar el nivel competencial del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los descriptores operativos son los indicadores a través de los cuales se deduce el perfil de salida que define el nivel competencial esperado al completar la educación básica, implicando el desarrollo de las CC."
+    },
+    {
+      "question": "¿Qué aspecto de las Ciencias Sociales vincula específicamente con la EVCE el fomento de la participación?",
+      "options": [
+        "El estudio del territorio, la población y las instituciones gallegas",
+        "El análisis histórico de los movimientos democráticos y los derechos civiles",
+        "La vida en sociedad, la democracia, los derechos humanos, el patrimonio y problemas ecosociales, promoviendo la participación para lograr fines colectivos",
+        "El conocimiento de las estructuras políticas y económicas de la sociedad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La vinculación con las Ciencias Sociales incluye impulsar aprendizajes relacionados con la vida en sociedad, la democracia, los derechos humanos, el patrimonio y problemas ecosociales, promoviendo la participación para lograr fines colectivos."
+    },
+    {
+      "question": "¿Qué valores concretos fomenta la octava característica de la EVCE al 'favorecer la convivencia'?",
+      "options": [
+        "La cooperación, la solidaridad y la participación ciudadana",
+        "La autonomía personal, el pensamiento crítico y la responsabilidad social",
+        "La empatía, el respeto a la diversidad, la tolerancia y la cultura para la paz",
+        "La inclusión, la igualdad de género y el reconocimiento de la diversidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La octava característica indica que la EVCE está encaminada a favorecer la convivencia fomentando la empatía, el respeto a la diversidad, la tolerancia y la cultura para la paz."
+    },
+    {
+      "question": "¿Qué caracteriza a la EVCE como área que 'conecta el saber, el ser y el convivir' según la conclusión?",
+      "options": [
+        "Desarrolla contenidos teóricos, prácticos y sociales de forma integrada",
+        "Ofrece un espacio de reflexión sobre la sociedad democrática, los principios constitucionales y humanos, fomentando el respeto y el pensamiento crítico en una propuesta coherente con los desafíos de una sociedad plural y democrática",
+        "Integra los saberes de todas las áreas curriculares en un único espacio de aprendizaje",
+        "Promueve el desarrollo de las tres dimensiones del ser humano: intelectual, moral y emocional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La EVCE es el espacio donde el alumnado aprende los valores para ser ciudadano respetuoso, crítico y autónomo, ofreciendo un espacio de reflexión sobre la sociedad democrática, los principios y derechos constitucionales y humanos, y conectando el saber, el ser y el convivir."
+    },
+    {
+      "question": "¿Qué vínculo establece el ODS 16 de manera transversal con el área de EVCE?",
+      "options": [
+        "La sostenibilidad ambiental y el consumo responsable de los recursos",
+        "La igualdad de género y la reducción de las desigualdades sociales",
+        "La educación de calidad y el acceso universal a la información",
+        "Al promover la convivencia democrática, la participación responsable y el respeto a los derechos humanos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El ODS 16 'Paz, justicia e instituciones sólidas' se vincula de manera transversal con la EVCE al promover la convivencia democrática, la participación responsable y el respeto a los derechos humanos."
+    },
+    {
+      "question": "¿Cuál es el epígrafe del Anexo II donde se recogen los objetivos de área de la EVCE?",
+      "options": [
+        "Epígrafe 3.1",
+        "Epígrafe 3.2",
+        "Epígrafe 4.1",
+        "Epígrafe 4.2"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los objetivos del área de EVCE se recogen en el Anexo II, epígrafe 4.2 del Decreto 155/2022, siendo un total de 4 objetivos."
+    },
+    {
+      "question": "¿Por qué se dice que la EVCE 'no es un área más del currículo' según la conclusión del tema?",
+      "options": [
+        "Porque es el único área que trabaja la ciudadanía democrática en la EP",
+        "Porque trabaja exclusivamente la dimensión emocional y moral del alumnado",
+        "Porque es el espacio donde el alumnado aprende los valores para ser ciudadano respetuoso, crítico y autónomo",
+        "Porque se desarrolla de forma reglada y sistemática durante toda la EP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La conclusión afirma que la EVCE no es un área más del currículo: es el espacio donde el alumnado aprende los valores para ser ciudadano respetuoso, crítico y autónomo, conectando el saber, el ser y el convivir."
+    },
+    {
+      "question": "¿Qué papel desempeñan las 'propuestas encaminadas al establecimiento de relaciones sociales diversas' en la EVCE?",
+      "options": [
+        "Facilitan el desarrollo de la competencia digital del alumnado",
+        "Favorecen el aprendizaje de lenguas extranjeras en contextos multiculturales",
+        "Permiten contrastar opiniones y afrontar conflictos sociocognitivos",
+        "Promueven la participación democrática en las instituciones escolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las propuestas metodológicas deben promover propuestas encaminadas al establecimiento de relaciones sociales diversas que permitan contrastar opiniones y afrontar conflictos sociocognitivos, contribuyendo al desarrollo del pensamiento crítico y la autonomía moral."
+    },
+    {
+      "question": "¿Cuál es el objetivo de etapa 'd' del Decreto 155/2022 vinculado con la EVCE?",
+      "options": [
+        "Conocer los valores y normas de convivencia democrática y el pluralismo",
+        "Desarrollar hábitos de trabajo, esfuerzo y responsabilidad en el estudio",
+        "Conocer y respetar las diferentes culturas y las diferencias entre las personas, la igualdad de derechos y oportunidades y la no discriminación",
+        "Adquirir habilidades para la resolución pacífica de conflictos y la prevención de la violencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El objetivo de etapa 'd' está referido a conocer y respetar las diferentes culturas y las diferencias entre las personas, la igualdad de derechos y oportunidades y la no discriminación, directamente relacionado con los contenidos del Bloque 2 de la EVCE."
+    },
+    {
+      "question": "¿Qué objetivo de etapa 'b' del Decreto 155/2022 se vincula con el área de EVCE?",
+      "options": [
+        "Conocer los valores y normas de convivencia democrática y actuar con empatía",
+        "Desarrollar hábitos de trabajo, de esfuerzo y responsabilidad en el estudio, así como actitudes de confianza, sentido crítico, iniciativa personal, curiosidad, interés y creatividad en el aprendizaje",
+        "Adquirir habilidades para la resolución pacífica de conflictos",
+        "Conocer y respetar las diferentes culturas y la igualdad de oportunidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo de etapa 'b' está referido a desarrollar hábitos de trabajo, de esfuerzo y responsabilidad en el estudio, así como actitudes de confianza, sentido crítico, iniciativa personal, curiosidad, interés y creatividad en el aprendizaje."
+    },
+    {
+      "question": "¿Qué aporta la relación entre la EVCE y la Educación Artística al proceso de sensibilización del alumnado?",
+      "options": [
+        "El conocimiento del patrimonio artístico y cultural de Galicia",
+        "El desarrollo de la creatividad y la expresión estética",
+        "La sensibilización propia y ajena ante realidades sociales a través de producciones artísticas",
+        "La expresión de emociones a través del arte y la música"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Educación Artística facilita la expresión y comunicación de valores a través de producciones como carteles, campañas o dramatizaciones, favoreciendo la sensibilización propia y ajena ante realidades sociales que trabaja la EVCE."
+    },
+    {
+      "question": "¿Qué programa de la Xunta de Galicia relacionado con el uso seguro de internet se menciona en el tema?",
+      "options": [
+        "Convivimos Dixital",
+        "Acordamos Convivir",
+        "Impulso mentor",
+        "Navega con Rumbo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Navega con Rumbo' es el programa de la Xunta de Galicia relacionado con la navegación segura por internet, uno de los seis proyectos complementarios vinculados al área de EVCE."
+    },
+    {
+      "question": "¿Qué implica la concepción interdisciplinar del currículo en la relación de la EVCE con otras áreas?",
+      "options": [
+        "Que la EVCE debe ser impartida de forma coordinada por todos los docentes del centro",
+        "Que los aprendizajes de la EVCE deben repetirse en otras áreas del currículo",
+        "La integración de conocimientos y formas de pensamiento de dos o más disciplinas para lograr una comprensión más profunda de la realidad, permitiendo diseñar SdA interdisciplinares",
+        "Que cada área debe incluir una sesión semanal de contenidos de EVCE"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Siguiendo a Boix Mansilla (2016), la interdisciplinariedad implica la integración de conocimientos y formas de pensamiento de dos o más disciplinas para lograr una comprensión más profunda de la realidad, lo que permite diseñar situaciones de aprendizaje interdisciplinares con otras áreas."
+    }
+  ]
+}

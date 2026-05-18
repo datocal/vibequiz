@@ -1,0 +1,2175 @@
+{
+  "title": "Tema 17: Adquisición y Desarrollo del Lenguaje en Educación Primaria",
+  "description": "Preguntas de nivel avanzado sobre el proceso de adquisición y desarrollo del lenguaje en la EP, comprensión y expresión oral, elementos no lingüísticos y estrategias de intervención educativa.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según el artículo 2 de la LOMLOE, ¿cuál de los siguientes enunciados refleja con mayor precisión el fin del sistema educativo relacionado con las lenguas?",
+      "options": [
+        "La capacitación para la comunicación en la lengua oficial y cooficial y en una o más lenguas extranjeras",
+        "El dominio pleno de la lengua materna y su uso literario en diferentes géneros discursivos",
+        "La adquisición de competencias básicas en lengua castellana para acceder al mercado laboral",
+        "El fomento del bilingüismo en todos los niveles del sistema educativo no universitario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 2 de la LOMLOE establece como fin la capacitación para la comunicación en la lengua oficial y cooficial y en una o más lenguas extranjeras. Las otras opciones no corresponden a este artículo ni recogen fielmente el fin establecido."
+    },
+    {
+      "question": "El artículo 19 de la LOMLOE, referido a los principios pedagógicos de Educación Primaria, indica que la comprensión lectora, la expresión oral y la comunicación audiovisual deben trabajarse:",
+      "options": [
+        "De forma transversal en todas las áreas del currículo",
+        "De manera exclusiva en el área de Lengua Castellana y Literatura",
+        "Mediante proyectos interdisciplinares en los últimos ciclos de Primaria",
+        "A través de planes específicos de refuerzo en horario extraescolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19 de la LOMLOE señala que la comprensión lectora, la expresión oral y la comunicación audiovisual deben trabajarse de forma transversal en todas las áreas, no únicamente en el área de Lengua."
+    },
+    {
+      "question": "El Decreto 155/2022 en su artículo 4 establece como finalidad de la Educación Primaria, en relación con el lenguaje:",
+      "options": [
+        "Facilitar al alumnado los aprendizajes de la expresión y la comprensión oral, la lectura y la escritura, a fin de garantizar una formación integral",
+        "Garantizar el acceso al sistema lingüístico formal a través de la gramática normativa y la ortografía",
+        "Desarrollar las capacidades comunicativas del alumnado centradas en la producción escrita y la comprensión lectora",
+        "Asegurar el dominio de las cuatro destrezas lingüísticas para la transición a la Educación Secundaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 del Decreto 155/2022 señala que la finalidad de la EP es facilitar los aprendizajes de la expresión y comprensión oral, la lectura y la escritura para garantizar una formación integral. Las otras opciones modifican o distorsionan este enunciado."
+    },
+    {
+      "question": "El objetivo de etapa 'e' del artículo 7 del Decreto 155/2022 establece que el alumnado debe:",
+      "options": [
+        "Conocer y utilizar de manera apropiada la Lengua gallega y la Lengua Castellana y desarrollar hábitos de lectura",
+        "Dominar las estructuras sintácticas básicas de la lengua oficial y cooficial para la comunicación formal",
+        "Adquirir vocabulario específico de las áreas curriculares en ambas lenguas cooficiales de Galicia",
+        "Utilizar la lengua gallega como lengua vehicular en todas las áreas no lingüísticas del currículo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo de etapa 'e' del artículo 7 del Decreto 155/2022 es conocer y utilizar apropiadamente la Lengua gallega y la Castellana y desarrollar hábitos de lectura. Las otras opciones no corresponden a este objetivo."
+    },
+    {
+      "question": "Las áreas de LCL y LGL del Decreto 155/2022 organizan la comunicación oral en torno al bloque de contenidos:",
+      "options": [
+        "Bloque 2: Comunicación Oral",
+        "Bloque 1: Comprensión Lectora",
+        "Bloque 3: Expresión Escrita",
+        "Bloque 4: Educación Literaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las áreas de LCL y LGL organizan el lenguaje oral en el Bloque 2 'Comunicación Oral'. El Bloque 1 suele corresponder a comunicación escrita, no oral."
+    },
+    {
+      "question": "El descriptor operativo CCL1 recogido en el Anexo I del Decreto 155/2022 hace referencia a:",
+      "options": [
+        "Expresar con claridad y adecuación a los contextos y participar en interacciones comunicativas con actitud cooperativa y respetuosa",
+        "Usar por los menos una lengua extranjera para responder a necesidades comunicativas sencillas y predecibles",
+        "Leer con comprensión textos de distinta tipología adecuados a su nivel de desarrollo cognitivo",
+        "Producir textos escritos coherentes y bien estructurados adaptados a diferentes situaciones comunicativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El descriptor CCL1 corresponde a 'Expresa con claridad y adecuación a los contextos y participa en interacciones comunicativas con actitud cooperativa y respetuosa'. El descriptor CP1 es el que menciona la lengua extranjera."
+    },
+    {
+      "question": "El descriptor operativo CP1, recogido en el Anexo I del Decreto 155/2022, establece que el alumnado debe:",
+      "options": [
+        "Usar por los menos una lengua extranjera para responder a necesidades comunicativas sencillas y predecibles",
+        "Expresar con claridad ideas propias en la lengua cooficial de su Comunidad Autónoma",
+        "Utilizar estrategias de comunicación no verbal para complementar el discurso oral",
+        "Reconocer y valorar la diversidad lingüística del entorno como recurso cultural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El descriptor CP1 establece 'Usa por lo menos una lengua extranjera para responder a necesidades comunicativas sencillas y predecibles', vinculado a la Competencia Plurilingüe (CP)."
+    },
+    {
+      "question": "Según el DSM-V, el lenguaje se define como:",
+      "options": [
+        "La forma, la función y el uso de un sistema convencional de símbolos regido por reglas para la comunicación",
+        "El conjunto de sonidos articulados con los que el ser humano manifiesta lo que piensa o siente",
+        "Un sistema de signos biológicamente determinado que permite la interacción social entre individuos",
+        "La capacidad cognitiva exclusiva del ser humano para representar la realidad mediante símbolos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El DSM-V define el lenguaje como la forma, la función y el uso de un sistema convencional de símbolos regido por reglas para la comunicación. Las otras definiciones son parciales o pertenecen a otros autores."
+    },
+    {
+      "question": "Monfort y Juárez (1991) definen el lenguaje como el principal medio de comunicación y representación del ser humano a través de un sistema de signos donde convergen factores:",
+      "options": [
+        "Biológicos, cognitivos y sociales",
+        "Fonéticos, semánticos y pragmáticos",
+        "Neuronales, conductuales y culturales",
+        "Genéticos, psicológicos y lingüísticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Monfort y Juárez (1991) señalan que en el lenguaje convergen factores biológicos, cognitivos y sociales. Las otras opciones corresponden a componentes o clasificaciones distintas."
+    },
+    {
+      "question": "Según Cassany et al. (1994), la función del lenguaje denominada 'fática' consiste en:",
+      "options": [
+        "El mantenimiento de conversaciones",
+        "La expresión de emociones del hablante",
+        "La transmisión de información objetiva",
+        "El uso del lenguaje con finalidad literaria y estética"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La función fática del lenguaje, según Cassany et al. (1994), sirve para el mantenimiento de conversaciones y el contacto social. La expresión de emociones es la función emotiva; transmitir información es la informativa; y la literaria es la función poética."
+    },
+    {
+      "question": "La función 'conativa' del lenguaje, según Cassany et al. (1994), se refiere a:",
+      "options": [
+        "Realizar órdenes y preguntas orientadas al receptor",
+        "Expresar los estados emocionales del hablante",
+        "Hablar sobre el propio lenguaje como sistema",
+        "Transmitir información de manera objetiva y factual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La función conativa se centra en el receptor y sirve para realizar órdenes y preguntas. La función emotiva expresa emociones del emisor; la metalingüística habla sobre el lenguaje mismo; y la informativa transmite datos."
+    },
+    {
+      "question": "¿Qué componente del lenguaje estudia las reglas para combinar sonidos en palabras con significado?",
+      "options": [
+        "La fonología",
+        "La fonética",
+        "La morfología",
+        "La sintaxis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La fonología estudia las reglas para combinar sonidos en palabras con significado, mientras que la fonética estudia los sonidos desde su producción hasta su percepción. La morfología y la sintaxis se ocupan de las palabras y las oraciones respectivamente."
+    },
+    {
+      "question": "Según García y Medina (1998) y Jiménez (2010), el componente del lenguaje que estudia el significado de las palabras y el crecimiento del vocabulario es:",
+      "options": [
+        "La semántica",
+        "La pragmática",
+        "La morfología",
+        "La fonología"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La semántica estudia el significado de las palabras y experimenta un gran aumento en la Educación Primaria. La pragmática se centra en el uso contextual del lenguaje; la morfología en la estructura de las palabras; y la fonología en los sonidos."
+    },
+    {
+      "question": "¿Qué componente del lenguaje se centra en el uso del lenguaje en distintos contextos y su adecuación comunicativa?",
+      "options": [
+        "La pragmática",
+        "La semántica",
+        "La morfosintaxis",
+        "La fonética"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La pragmática estudia el uso del lenguaje en distintos contextos comunicativos y su adecuación situacional. La semántica se ocupa del significado; la morfosintaxis de la estructura de palabras y oraciones; y la fonética de los sonidos."
+    },
+    {
+      "question": "Según Jiménez (2010), la etapa prelingüística del desarrollo del lenguaje abarca desde:",
+      "options": [
+        "El nacimiento hasta los doce meses",
+        "Los seis hasta los doce meses",
+        "El nacimiento hasta los dieciocho meses",
+        "Los tres hasta los doce meses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa prelingüística, según Jiménez (2010), abarca desde el nacimiento hasta los doce meses. En ella el niño emite sonidos en forma de balbuceo, laleo, ecolalia y juegos vocálicos."
+    },
+    {
+      "question": "En la etapa holofrásica del desarrollo del lenguaje (12-18 meses), la característica principal es:",
+      "options": [
+        "El uso de una palabra para representar toda una frase",
+        "La producción de minifrases compuestas de dos palabras",
+        "La expansión gramatical y adquisición de recursos fundamentales de la lengua",
+        "La consolidación de la lectoescritura y el aprendizaje significativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa holofrásica (12-18 meses), el niño utiliza una sola palabra para representar toda una frase. La producción de frases de dos palabras corresponde a la etapa telegráfica; la expansión gramatical es propia de la etapa de Educación Infantil."
+    },
+    {
+      "question": "La etapa telegráfica del desarrollo del lenguaje se sitúa entre:",
+      "options": [
+        "Los 18 y los 24 meses",
+        "Los 12 y los 18 meses",
+        "Los 24 y los 36 meses",
+        "Los 6 y los 12 meses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa telegráfica se produce entre los 18 y los 24 meses, caracterizándose por los primeros esbozos sintácticos con minifrases de dos palabras. La etapa holofrásica es anterior (12-18 meses) y la etapa de la frase simple es posterior (2-3 años)."
+    },
+    {
+      "question": "Durante la etapa de 'lenguaje consolidado o constituido' (6-12 años), ¿qué se consolida específicamente a los 7-8 años?",
+      "options": [
+        "La lectoescritura, favoreciendo el aprendizaje significativo e interiorizar el lenguaje",
+        "La capacidad de comprender y elaborar hipótesis verbalmente",
+        "El paso de la enumeración a la descripción con uso más limitado de pronombres",
+        "El lenguaje socializador que favorece el razonamiento y la interiorización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A los 7-8 años se consolida la lectoescritura, lo que favorece el aprendizaje significativo. A los 9 años pasa de la enumeración a la descripción; a partir de los 12 años puede elaborar hipótesis verbalmente."
+    },
+    {
+      "question": "A los 9 años, según el proceso de desarrollo del lenguaje en la EP, el niño experimenta:",
+      "options": [
+        "El paso de la enumeración a la descripción con un uso más limitado de pronombres personales y posesivos",
+        "La consolidación de la lectoescritura y el inicio del aprendizaje significativo",
+        "La capacidad de comprender y elaborar hipótesis verbalmente en distintos contextos",
+        "La expansión gramatical con adquisición de los recursos fundamentales de la lengua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A los 9 años el niño pasa de la enumeración a la descripción con un uso más limitado de pronombres personales y posesivos. La lectoescritura se consolida a los 7-8 años; las hipótesis verbales aparecen a partir de los 12 años."
+    },
+    {
+      "question": "La teoría conductista de Skinner explica que el lenguaje se desarrolla a través de:",
+      "options": [
+        "Conexiones estímulo-respuesta en las que el sonido recibido estimula al niño a repetirlo y se consolida con el refuerzo positivo del adulto",
+        "Una capacidad biológica innata para adquirir reglas gramaticales universales presente desde el nacimiento",
+        "La interacción con el entorno mediante un proceso de asimilación-acomodación que integra nueva información",
+        "El lenguaje como instrumento social de comunicación que es herramienta para el pensamiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La teoría conductista de Skinner basa el desarrollo del lenguaje en conexiones estímulo-respuesta reforzadas positivamente por el adulto. La capacidad innata es propia del innatismo de Chomsky; asimilación-acomodación es de Piaget; y el lenguaje como herramienta social es de Vygotski."
+    },
+    {
+      "question": "La teoría innatista de Chomsky sostiene que el lenguaje se adquiere mediante:",
+      "options": [
+        "Una capacidad biológica innata para adquirir reglas gramaticales universales",
+        "Conexiones estímulo-respuesta reforzadas positivamente por el entorno social",
+        "La interacción del individuo con el entorno a través de la asimilación y la acomodación",
+        "El uso del lenguaje como instrumento social de comunicación desde los primeros meses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chomsky defiende que existe una capacidad biológica innata para adquirir reglas gramaticales universales. Skinner defiende el refuerzo; Piaget la interacción con el entorno; y Vygotski el origen social del lenguaje."
+    },
+    {
+      "question": "La teoría cognitiva de Piaget sobre el lenguaje sostiene que:",
+      "options": [
+        "El lenguaje es producto de la inteligencia del individuo, construyendo el conocimiento mediante la interacción con el entorno y la asimilación-acomodación",
+        "El lenguaje nace como instrumento social de comunicación y es herramienta para el pensamiento",
+        "El lenguaje se desarrolla a través de conexiones estímulo-respuesta reforzadas por el adulto",
+        "Existe una capacidad biológica innata para adquirir reglas gramaticales universales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Piaget sostiene que el lenguaje es producto de la inteligencia, construido mediante la interacción con el entorno por asimilación-acomodación. El lenguaje como herramienta social es de Vygotski; el refuerzo es de Skinner; y la capacidad innata es de Chomsky."
+    },
+    {
+      "question": "Según Vygotski, en su teoría interaccionista, el lenguaje:",
+      "options": [
+        "Nace como instrumento social de comunicación y es una herramienta para el pensamiento",
+        "Es producto de la inteligencia del individuo construido por la interacción con el entorno",
+        "Se adquiere a través de una capacidad biológica innata para las reglas gramaticales",
+        "Se desarrolla mediante refuerzo positivo del adulto ante las emisiones lingüísticas del niño"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vygotski afirma que el lenguaje nace como instrumento social de comunicación y es herramienta para el pensamiento. Piaget ve el lenguaje como producto de la inteligencia; Chomsky defiende el innatismo; y Skinner el refuerzo."
+    },
+    {
+      "question": "Las tendencias actuales sobre la adquisición del lenguaje adoptan una perspectiva:",
+      "options": [
+        "Integradora, considerando que el lenguaje depende de factores orgánicos, psicológicos y funcionales",
+        "Nativista, que prioriza la base biológica innata sobre los factores ambientales",
+        "Conductista, que enfatiza el papel del refuerzo y la imitación en la adquisición lingüística",
+        "Cognitiva, que concibe el lenguaje como consecuencia del desarrollo intelectual del sujeto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tendencias actuales adoptan una perspectiva integradora que considera factores orgánicos, psicológicos y funcionales, otorgando importancia tanto al sujeto como a la influencia del entorno y las primeras interacciones familiares."
+    },
+    {
+      "question": "Entre las variables exógenas o ambientales que influyen en el desarrollo del lenguaje se encuentran:",
+      "options": [
+        "El ambiente familiar, la estimulación por parte de la familia, la clase social y el bilingüismo",
+        "La maduración cerebral, la salud, la inteligencia y el sexo del niño",
+        "La maduración de los órganos fonatorios, el nivel de inteligencia y la clase social",
+        "La estimulación familiar, la inteligencia, la salud y el bilingüismo del entorno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las variables exógenas o ambientales incluyen el ambiente familiar, la estimulación familiar, la clase social y el bilingüismo. Las variables endógenas son la maduración cerebral, la salud, la inteligencia y el sexo."
+    },
+    {
+      "question": "En el Decreto 155/2022, el currículo de LCL y LGL se organiza en torno a las estrategias de:",
+      "options": [
+        "Hablar, escuchar, leer, comprender y escribir",
+        "Comprender, expresar, interpretar, valorar y crear",
+        "Escuchar, hablar, leer, escribir e interactuar",
+        "Comunicar, representar, interpretar, analizar y crear"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 organiza el currículo de LCL y LGL en torno a las estrategias de hablar, escuchar, leer, comprender y escribir, para proporcionar las habilidades comunicativas del siglo XXI."
+    },
+    {
+      "question": "Según Cassany et al. (1994), la microhabilidad de comprensión oral denominada 'inferir' consiste en:",
+      "options": [
+        "Extraer información implícita por el contexto comunicativo o el lenguaje no verbal",
+        "Pensar qué decir antes de responder al interlocutor",
+        "Retener ideas del discurso a corto o a largo plazo",
+        "Seleccionar las palabras relevantes del discurso escuchado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La microhabilidad de 'inferir' consiste en extraer información implícita a través del contexto o el lenguaje no verbal. 'Anticipar' es pensar qué decir antes de responder; 'retener' es conservar ideas; y 'seleccionar' es identificar palabras relevantes."
+    },
+    {
+      "question": "La microhabilidad de comprensión oral 'anticipar', según Cassany et al. (1994), se refiere a:",
+      "options": [
+        "Pensar qué decir antes de responder",
+        "Reconocer fonemas, palabras y la entonación del discurso",
+        "Extraer información implícita del contexto comunicativo",
+        "Retener las ideas principales del discurso a largo plazo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La microhabilidad 'anticipar' consiste en pensar qué decir antes de responder. 'Reconocer' identifica elementos fonéticos; 'inferir' extrae información implícita; y 'retener' conserva las ideas."
+    },
+    {
+      "question": "Entre las microhabilidades de la expresión oral que destaca Cassanny et al. (1994), ¿cuál hace referencia a la adecuación al contexto comunicativo?",
+      "options": [
+        "El uso de un vocabulario adecuado al contexto comunicativo",
+        "La planificación de la estructura del mensaje antes de hablar",
+        "La reformulación del mensaje cuando no es comprendido",
+        "El respeto del turno de palabra durante la interacción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El uso de vocabulario adecuado al contexto comunicativo es la microhabilidad de expresión oral relacionada con la adecuación. La planificación se refiere a la estructura previa; la reformulación a la corrección; y el turno de palabra a la interacción."
+    },
+    {
+      "question": "Poyatos (1994) define la comunicación no verbal como:",
+      "options": [
+        "Un conjunto de signos y comportamientos no lingüísticos que acompañan o sustituyen al lenguaje verbal para enviar y recibir información",
+        "El proceso por el que se transmite y construye significados a través de palabras de forma oral o escrita",
+        "El conjunto de elementos paralingüísticos que complementan el mensaje verbal del hablante",
+        "Los movimientos corporales como los gestos, la postura o la expresión facial que acompañan el discurso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Poyatos (1994) define la comunicación no verbal como el conjunto de signos y comportamientos no lingüísticos que acompañan o sustituyen al lenguaje verbal. La segunda opción es la definición de comunicación verbal de Cassany et al.; las demás son componentes parciales."
+    },
+    {
+      "question": "La proxemia, como elemento no lingüístico de la comunicación oral, hace referencia a:",
+      "options": [
+        "La forma en que los individuos se sitúan o mueven por el espacio durante la comunicación",
+        "Los movimientos corporales como los gestos, la postura o la expresión facial",
+        "La entonación, el volumen, el ritmo, las pausas y el énfasis del discurso",
+        "El modo en que se organiza el tiempo en la comunicación incluyendo la puntualidad y los turnos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La proxemia se refiere a cómo los individuos se sitúan o mueven por el espacio. La kinestesia corresponde a los movimientos corporales; los elementos paralingüísticos incluyen entonación y volumen; y la cronémica se refiere al tiempo en la comunicación."
+    },
+    {
+      "question": "La cronémica, como elemento no lingüístico de la comunicación, se refiere al:",
+      "options": [
+        "Modo en que se organiza el tiempo en la comunicación, incluyendo la puntualidad, la duración de la interacción y los turnos de palabra",
+        "Estudio de los movimientos corporales, gestos y expresiones faciales durante la interacción",
+        "Uso del espacio físico y la distancia interpersonal durante el acto comunicativo",
+        "Conjunto de variaciones de voz como el tono, el ritmo, el volumen y las pausas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La cronémica se refiere a la organización del tiempo en la comunicación: puntualidad, duración e interacción y turnos de palabra. La kinestesia estudia los movimientos; la proxemia el uso del espacio; y los elementos paralingüísticos las variaciones de voz."
+    },
+    {
+      "question": "Según el tema, los elementos paralingüísticos de la comunicación oral incluyen:",
+      "options": [
+        "La entonación, el volumen, el ritmo, las pausas y el énfasis",
+        "Los gestos, la postura corporal y la expresión facial",
+        "La puntualidad, la duración de la interacción y los turnos de palabra",
+        "La forma en que los individuos se sitúan o mueven por el espacio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los elementos paralingüísticos están relacionados con la entonación, el volumen, el ritmo, las pausas y el énfasis. Los gestos y posturas corresponden a la kinestesia; la organización temporal a la cronémica; y el uso del espacio a la proxemia."
+    },
+    {
+      "question": "Según la Orden del 8 de septiembre de 2021, ¿quién es el responsable inicial de detectar las alteraciones del lenguaje en el aula?",
+      "options": [
+        "El tutor, mediante la observación en el aula y la evaluación inicial al comienzo del curso",
+        "El jefe del Departamento de Orientación, mediante la evaluación psicopedagógica",
+        "El especialista en Audición y Lenguaje, a través de pruebas estandarizadas",
+        "El equipo directivo, mediante el seguimiento de los datos del historial escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la Orden del 8 de septiembre de 2021, es el tutor quien detecta las alteraciones mediante la observación y la evaluación inicial. El DO realiza la evaluación psicopedagógica posterior; el especialista en AL interviene tras el diagnóstico."
+    },
+    {
+      "question": "Tras la detección de alteraciones del lenguaje por parte del tutor, ¿quién elabora la evaluación psicopedagógica?",
+      "options": [
+        "La jefatura del Departamento de Orientación",
+        "El propio tutor en colaboración con los especialistas",
+        "El especialista en Pedagogía Terapéutica del centro",
+        "El orientador educativo en coordinación con el equipo docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la Orden del 8 de septiembre de 2021, tras la derivación del tutor al DO, es la jefatura del Departamento de Orientación quien elabora la evaluación psicopedagógica que identifica las necesidades del discente."
+    },
+    {
+      "question": "El artículo 71 de la LOMLOE incluye como alumnado con necesidades específicas de apoyo educativo (ACNEAE) a:",
+      "options": [
+        "Los que presentan trastornos para el desarrollo del lenguaje y la comunicación",
+        "Los que presentan dificultades específicas de aprendizaje de la lectura y la escritura",
+        "Los que requieren atención logopédica por alteraciones de la articulación fonológica",
+        "Los que muestran retraso en la adquisición de la lengua oral respecto a su grupo de edad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 71 de la LOMLOE incluye específicamente como ACNEAE a los alumnos con trastornos para el desarrollo del lenguaje y la comunicación. Las otras opciones son categorías más específicas o parciales."
+    },
+    {
+      "question": "El DSM-V clasifica los trastornos de la comunicación dentro de:",
+      "options": [
+        "Los trastornos del neurodesarrollo",
+        "Los trastornos del estado de ánimo y la afectividad",
+        "Los trastornos de ansiedad y conducta disruptiva",
+        "Los trastornos del aprendizaje y de las habilidades académicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El DSM-V clasifica los trastornos de la comunicación dentro de los trastornos del neurodesarrollo, diferenciándose de los trastornos del aprendizaje u otros trastornos psicopatológicos."
+    },
+    {
+      "question": "¿Cuál de los siguientes trastornos NO está incluido en la clasificación del DSM-V dentro de los trastornos de la comunicación?",
+      "options": [
+        "Trastorno de ansiedad social vinculado al lenguaje",
+        "Trastorno del lenguaje",
+        "Trastorno fonológico",
+        "Trastorno de la comunicación social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El DSM-V no incluye un trastorno de ansiedad social vinculado al lenguaje dentro de los trastornos de la comunicación. Sí incluye el trastorno del lenguaje, el trastorno fonológico y el trastorno de la comunicación social, entre otros."
+    },
+    {
+      "question": "Las dislalias se caracterizan por:",
+      "options": [
+        "La dificultad para pronunciar fonemas sin daño neurológico",
+        "La afectación de la articulación por lesiones físicas o malformaciones congénitas de los órganos periféricos del habla",
+        "Los problemas de expresión verbal causados por alteraciones en el control muscular por lesiones neurológicas",
+        "Las dificultades en la expresión y/o recepción del habla y del lenguaje de origen evolutivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las dislalias son dificultades de pronunciación de fonemas sin daño neurológico. Las disglosias se deben a lesiones físicas o malformaciones; las disartrias a lesiones neurológicas; y las disfasias son alteraciones en la adquisición del lenguaje."
+    },
+    {
+      "question": "Las disglosias, como alteración del habla, se diferencian de las dislalias en que:",
+      "options": [
+        "Afectan a la articulación por lesiones físicas o malformaciones congénitas de los órganos periféricos del habla",
+        "Son dificultades de pronunciación fonémica sin causa orgánica ni daño neurológico",
+        "Se deben a alteraciones en el control muscular del habla por lesiones neurológicas",
+        "Consisten en dificultades de expresión y recepción del habla sin lesión cerebral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las disglosias se deben a lesiones físicas o malformaciones congénitas de los órganos periféricos del habla, a diferencia de las dislalias que no tienen causa orgánica. Las disartrias son de origen neurológico."
+    },
+    {
+      "question": "Las disfemias, como alteración de la fluidez del lenguaje, se caracterizan por:",
+      "options": [
+        "La afectación del ritmo del lenguaje y la melodía del discurso por repeticiones o bloqueos",
+        "Un habla rápida, poco clara y con ritmo defectuoso sin bloqueos",
+        "Un ritmo lento del discurso que dificulta la comunicación",
+        "La pérdida parcial o total de la voz sin causa orgánica identificada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las disfemias afectan al ritmo del lenguaje y la melodía del discurso mediante repeticiones o bloqueos. Las taquifemias se caracterizan por habla rápida y poco clara; las bradilalias por ritmo lento; y las afonías por pérdida de voz."
+    },
+    {
+      "question": "¿Qué alteración del habla se caracteriza por un habla rápida, poco clara y con ritmo defectuoso?",
+      "options": [
+        "La taquifemia",
+        "La disfemia",
+        "La bradilalia",
+        "La disfonía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La taquifemia se caracteriza por habla rápida, poco clara y con ritmo defectuoso. La disfemia afecta al ritmo con repeticiones o bloqueos; la bradilalia es un ritmo lento del discurso; y la disfonía afecta a la calidad de la voz."
+    },
+    {
+      "question": "Las disartrias se definen como:",
+      "options": [
+        "Problemas de la expresión verbal causados por una alteración en el control muscular del habla por lesiones neurológicas",
+        "Alteraciones de la calidad de la voz en su intensidad, tono o timbre",
+        "Dificultades en la expresión y/o recepción del habla sin lesión cerebral identificada",
+        "Alteraciones de la articulación debidas a malformaciones congénitas de los órganos del habla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las disartrias son problemas de expresión verbal causados por alteraciones en el control muscular del habla debidas a lesiones neurológicas. Las disfonías afectan a la calidad de la voz; las disfasias son alteraciones de adquisición; y las disglosias se deben a malformaciones."
+    },
+    {
+      "question": "Las afasias, como alteración en la adquisición del lenguaje, se distinguen de las disfasias en que:",
+      "options": [
+        "Son alteraciones resultado de una lesión cerebral adquirida",
+        "Son dificultades evolutivas en la expresión y/o recepción sin lesión cerebral",
+        "Consisten en el desarrollo tardío del lenguaje sin causa orgánica identificada",
+        "Se caracterizan por la repetición involuntaria de palabras o frases escuchadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las afasias son alteraciones resultantes de una lesión cerebral adquirida. Las disfasias son dificultades en la expresión y/o recepción del habla de carácter evolutivo; el retraso simple es un desarrollo tardío; y la ecolalia es la repetición involuntaria de palabras."
+    },
+    {
+      "question": "La dislexia, como alteración del lenguaje escrito, se caracteriza por:",
+      "options": [
+        "Alteraciones en los procesos lectores y escritores",
+        "La afectación del trazado y la grafía de la palabra escrita",
+        "Las dificultades en la ortografía sin afectación del trazado ni la grafía",
+        "La pérdida de habilidades lectoras como consecuencia de una lesión cerebral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La dislexia se caracteriza por alteraciones en los procesos lectores y escritores. La disgrafía afecta al trazado y la grafía; la disortografía afecta a la ortografía sin alterar el trazado; y las afasias adquiridas pueden afectar a la lectura por lesión cerebral."
+    },
+    {
+      "question": "¿En qué se diferencia la disgrafía de la disortografía?",
+      "options": [
+        "La disgrafía afecta al trazado y grafía de la palabra, mientras que la disortografía afecta a la ortografía pero no al trazado",
+        "La disgrafía afecta a la ortografía sin alterar el trazado, mientras que la disortografía altera el trazo gráfico",
+        "La disgrafía implica dificultades lectoras y la disortografía dificultades en la escritura ortográfica",
+        "La disgrafía se debe a lesiones neurológicas y la disortografía a causas evolutivas sin base orgánica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La disgrafía afecta al trazado y a la grafía de la palabra escrita, mientras que la disortografía afecta a la ortografía pero no al trazado ni la grafía. No es al revés."
+    },
+    {
+      "question": "El mutismo selectivo se define como:",
+      "options": [
+        "La negativa del niño a hablar con determinadas personas y/o en determinadas situaciones",
+        "La repetición involuntaria de palabras o frases escuchadas en el entorno cercano",
+        "La pérdida total de la capacidad comunicativa en todos los contextos sociales",
+        "La dificultad para iniciar o mantener conversaciones en contextos de comunicación formal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El mutismo selectivo es la negativa a hablar con determinadas personas o en determinadas situaciones, manteniendo la capacidad de hablar en otros contextos. La ecolalia es la repetición involuntaria de palabras."
+    },
+    {
+      "question": "El artículo 6 del Decreto 155/2022 define las orientaciones metodológicas como:",
+      "options": [
+        "Indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes para posibilitar el aprendizaje del alumnado",
+        "Principios pedagógicos que rigen la actuación docente en todas las áreas del currículo de Educación Primaria",
+        "Criterios de evaluación que orientan al profesorado en la valoración de los aprendizajes del alumnado",
+        "Pautas para la selección de materiales y recursos didácticos adecuados al nivel educativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las orientaciones metodológicas como indicaciones para orientar al profesorado en el diseño y planificación de estrategias y acciones docentes con la finalidad de posibilitar el aprendizaje."
+    },
+    {
+      "question": "Según el artículo 16 del Decreto 155/2022, la metodología didáctica en EP debe ser:",
+      "options": [
+        "Comunicativa, inclusiva, participativa y activa",
+        "Expositiva, sistemática, gradual y evaluadora",
+        "Cooperativa, lúdica, transversal y reflexiva",
+        "Inductiva, deductiva, colaborativa e integradora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 del Decreto 155/2022 establece que la metodología debe ser comunicativa, inclusiva, participativa y activa, integrando el trabajo cooperativo, las tareas integradas o el trabajo por proyectos."
+    },
+    {
+      "question": "Según Vázquez (2010), las actividades de expresión oral 'basadas en el juego dramático' incluyen:",
+      "options": [
+        "El juego de roles, la improvisación o la dramatización",
+        "La lectura expresiva, las obras de teatro y los cuentacuentos",
+        "Los debates, las conferencias, las asambleas y los discursos",
+        "Las entrevistas, la radio y las tertulias periodísticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades basadas en el juego dramático incluyen el juego de roles, la improvisación y la dramatización. Las basadas en literatura incluyen teatro y cuentacuentos; las de comunicación formal incluyen debates; y las periodísticas incluyen entrevistas y radio."
+    },
+    {
+      "question": "¿Qué modalidades de conversación distingue el tema para el trabajo de la expresión oral en el aula?",
+      "options": [
+        "Espontánea, formalizada y mixta",
+        "Libre, dirigida e interactiva",
+        "Informal, semiformal y formal",
+        "Monológica, dialógica y grupal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema distingue la conversación espontánea (el alumno elige el tema), la formalizada (dirigida por el docente) y la mixta (combinación de ambas). Las otras clasificaciones no corresponden a las mencionadas en el tema."
+    },
+    {
+      "question": "Gianni Rodari (1973) en su 'Gramática de la fantasía' propone el 'binomio fantástico', que consiste en:",
+      "options": [
+        "Unir dos palabras o conceptos que aparentemente no guardan relación entre sí para crear historias imaginativas",
+        "Dar vida a objetos inanimados mediante la narración de historias sobre ellos",
+        "Cambiar el final de un cuento conocido para desarrollar la creatividad narrativa",
+        "Combinar dos estructuras narrativas diferentes para generar un relato nuevo e inesperado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El 'binomio fantástico' de Rodari consiste en unir dos palabras o conceptos sin relación aparente para crear historias imaginativas. Dar vida a objetos y cambiar finales de cuentos son otras técnicas de Rodari, pero no son el binomio fantástico."
+    },
+    {
+      "question": "Para que la recitación sea efectiva en el aula, el tema indica que debe comenzar con:",
+      "options": [
+        "Una lectura inicial del docente que sirva como modelo de entonación, pausa, gestos y posturas",
+        "Una exploración previa del texto por parte del alumnado de manera autónoma e independiente",
+        "La memorización individual del texto antes de la puesta en común con el grupo",
+        "La explicación del contexto histórico y cultural de la obra que se va a recitar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para que la recitación sea efectiva, debe comenzar con una lectura inicial del docente como modelo de entonación, pausa, gestos y posturas. La exploración autónoma previa no es la estrategia indicada."
+    },
+    {
+      "question": "En la narración oral, el tema indica que hay que enseñar a organizar los hechos bajo criterios:",
+      "options": [
+        "Cronológicos (antes y después) y jerárquicos (importancia de hechos y personajes)",
+        "Temáticos (por temas) y causales (por causas y efectos)",
+        "Espaciales (por lugares) y temporales (por épocas históricas)",
+        "Inductivos (de lo concreto a lo abstracto) y deductivos (de lo general a lo particular)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la narración, se deben organizar los hechos bajo criterios cronológicos (antes y después) y jerárquicos (importancia de hechos y personajes), siempre en torno a una idea central."
+    },
+    {
+      "question": "¿Cuál de los siguientes aspectos específicos deben atender las actividades de expresión oral según el tema?",
+      "options": [
+        "La pronunciación, la corrección morfosintáctica y gramatical, la fluidez, la riqueza de vocabulario y la entonación",
+        "La velocidad de habla, la extensión del discurso, el uso de conectores y la precisión léxica",
+        "El volumen de voz, la postura corporal, el contacto visual y la gestualidad del hablante",
+        "La coherencia temática, la cohesión discursiva, la adecuación contextual y la corrección ortológica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades de expresión oral deben atender a la pronunciación, corrección morfosintáctica y gramatical, fluidez, riqueza de vocabulario y entonación. Las otras opciones incluyen elementos parcialmente correctos pero no corresponden exactamente a lo señalado."
+    },
+    {
+      "question": "El tema señala que las actividades de expresión oral desarrollan habilidades en tres planos. ¿Cuáles son?",
+      "options": [
+        "Cognitivo, social y lingüístico",
+        "Fonético, semántico y pragmático",
+        "Expresivo, comprensivo y metalingüístico",
+        "Personal, interpersonal y comunicativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades de expresión oral desarrollan habilidades en el plano cognitivo (comprensión del otro), social (escucha activa y aceptación de críticas) y lingüístico (vocabulario y estructuras sintácticas)."
+    },
+    {
+      "question": "El coloquio, como técnica de expresión oral, se diferencia del debate en que:",
+      "options": [
+        "Se designa un ponente y un moderador, y se exige un tiempo previo de preparación sobre el tema",
+        "Se trabajan temas de actualidad con objetivos claros fomentando el respeto por los turnos de palabra",
+        "El docente no puede participar como asistente activo durante el desarrollo de la actividad",
+        "No requiere preparación previa y se basa en la espontaneidad y la participación libre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El coloquio se diferencia del debate por la designación de un ponente y un moderador, y por exigir un tiempo previo de preparación. El debate trabaja temas de actualidad con objetivos claros. En el coloquio el docente puede participar como un asistente más."
+    },
+    {
+      "question": "¿Qué dos competencias clave (CC) menciona el tema como estrechamente vinculadas a la comunicación oral recogidas en el Decreto 155/2022?",
+      "options": [
+        "La Competencia en Comunicación Lingüística (CCL) y la Competencia Plurilingüe (CP)",
+        "La Competencia Digital (CD) y la Competencia en Comunicación Lingüística (CCL)",
+        "La Competencia Plurilingüe (CP) y la Competencia Ciudadana (CC)",
+        "La Competencia Personal (CPSAA) y la Competencia en Comunicación Lingüística (CCL)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema vincula la comunicación oral especialmente con la CCL (interacción oral, escrita o multimodal coherente) y la CP (uso apropiado y eficaz de las distintas lenguas). La CD o CC no son las señaladas en este contexto."
+    },
+    {
+      "question": "La CCL (Competencia en Comunicación Lingüística), según el Decreto 155/2022, supone:",
+      "options": [
+        "Interactuar de forma oral, escrita o multimodal de manera coherente y adecuada en diferentes contextos",
+        "Utilizar las distintas lenguas de forma apropiada y eficaz para el aprendizaje y la comunicación",
+        "Emplear recursos digitales y audiovisuales para comunicarse en entornos virtuales",
+        "Desarrollar la conciencia cultural y el respeto por la diversidad lingüística del entorno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La CCL implica interactuar de forma oral, escrita o multimodal de manera coherente y adecuada en diferentes contextos. La CP es la que implica utilizar las distintas lenguas de forma apropiada y eficaz."
+    },
+    {
+      "question": "La función 'metalingüística' del lenguaje, según Cassany et al. (1994), consiste en:",
+      "options": [
+        "Usar el lenguaje para hablar sobre el propio lenguaje",
+        "Expresar los estados emocionales del hablante ante la realidad",
+        "Mantener el contacto social y el canal de comunicación abierto",
+        "Transmitir información objetiva sobre hechos del mundo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La función metalingüística utiliza el lenguaje para referirse al propio sistema lingüístico. La función emotiva expresa emociones; la fática mantiene el canal comunicativo; y la informativa transmite datos sobre la realidad."
+    },
+    {
+      "question": "La función 'poética' del lenguaje, según Cassany et al. (1994), se refiere a:",
+      "options": [
+        "El uso del lenguaje para la literatura y la creación artística",
+        "La transmisión de información factual de manera objetiva",
+        "La expresión de emociones y sentimientos del hablante",
+        "El mantenimiento del canal de comunicación entre los interlocutores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La función poética se refiere al uso del lenguaje con finalidad literaria y artística. La informativa transmite datos; la emotiva expresa emociones; y la fática mantiene el canal comunicativo."
+    },
+    {
+      "question": "¿Qué autor y año destaca como referencia fundamental para las funciones del lenguaje en el tema?",
+      "options": [
+        "Cassany et al. (1994)",
+        "Piaget (1923)",
+        "Vygotski (1934)",
+        "Chomsky (1965)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema destaca a Cassany et al. (1994) en su obra 'Enseñar Lengua' como referencia principal para las funcionalidades del lenguaje. Jiménez (2010) también es citado para la comunicación interpersonal."
+    },
+    {
+      "question": "La morfología, como componente del lenguaje, estudia:",
+      "options": [
+        "La estructura interna y la formación de las palabras",
+        "Las reglas de combinación de palabras para formar frases u oraciones",
+        "El significado de las palabras y el crecimiento del vocabulario",
+        "Los sonidos del lenguaje desde su producción hasta su percepción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La morfología estudia la estructura interna y la formación de las palabras. La sintaxis se ocupa de las reglas de combinación para formar oraciones; la semántica del significado; y la fonética de los sonidos."
+    },
+    {
+      "question": "La sintaxis, como componente del lenguaje, se encarga de:",
+      "options": [
+        "Las reglas de combinación de palabras para formar frases u oraciones",
+        "La estructura interna y la formación de las palabras",
+        "El uso del lenguaje en distintos contextos y su adecuación comunicativa",
+        "Los sonidos del lenguaje y las reglas para combinarlos con significado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La sintaxis estudia las reglas de combinación de palabras para formar frases u oraciones. La morfología estudia la estructura interna de las palabras; la pragmática el uso contextual; y la fonología las reglas de combinación de sonidos."
+    },
+    {
+      "question": "En la etapa de 'la frase simple' del desarrollo del lenguaje (2-3 años), el niño produce:",
+      "options": [
+        "Frases de 2, 3 o 4 palabras",
+        "Una palabra para representar toda una frase",
+        "Minifrases compuestas de dos palabras con primeros esbozos sintácticos",
+        "Frases con expansión gramatical y adquisición de recursos fundamentales de la lengua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa de la frase simple (2-3 años), el niño produce frases de 2, 3 o 4 palabras. La holofrásica usa una palabra para una frase; la telegráfica usa minifrases de dos palabras; y la de Educación Infantil tiene expansión gramatical."
+    },
+    {
+      "question": "La etapa de 'Educación Infantil' del desarrollo del lenguaje (3-6 años) se caracteriza por:",
+      "options": [
+        "La expansión gramatical y la adquisición de los recursos fundamentales de la lengua, originándose un lenguaje socializador",
+        "La producción de frases de 2, 3 o 4 palabras con intención comunicativa creciente",
+        "Los primeros esbozos sintácticos con minifrases de dos palabras y aumento del vocabulario",
+        "La consolidación de la lectoescritura y el inicio del aprendizaje significativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa de Educación Infantil (3-6 años) se caracteriza por la expansión gramatical, la adquisición de recursos fundamentales de la lengua y la aparición de un lenguaje socializador. La lectoescritura se consolida a los 7-8 años en la etapa de lenguaje consolidado."
+    },
+    {
+      "question": "Según el tema, a partir de los 12 años el niño ya es capaz de:",
+      "options": [
+        "Comprender y elaborar hipótesis verbalmente",
+        "Pasar de la enumeración a la descripción con uso limitado de pronombres",
+        "Consolidar la lectoescritura y el aprendizaje significativo",
+        "Usar un lenguaje socializador con intención comunicativa real"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A partir de los 12 años el niño puede comprender y elaborar hipótesis verbalmente. A los 7-8 años consolida la lectoescritura; a los 9 años pasa de la enumeración a la descripción; el lenguaje socializador comienza a los 6 años."
+    },
+    {
+      "question": "Las variables endógenas que influyen en el desarrollo del lenguaje incluyen:",
+      "options": [
+        "La maduración cerebral y de los órganos fonatorios, la salud, la inteligencia y el sexo",
+        "El ambiente familiar, la estimulación por parte de la familia y la clase social",
+        "El bilingüismo, el ambiente familiar y la maduración de los órganos fonatorios",
+        "La salud, la clase social, la inteligencia y el ambiente familiar del niño"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las variables endógenas o del propio sujeto son la maduración cerebral y de los órganos fonatorios, la salud, la inteligencia y el sexo. Las variables exógenas son el ambiente familiar, la estimulación, la clase social y el bilingüismo."
+    },
+    {
+      "question": "La 'comprensión oral', según el tema, se define como:",
+      "options": [
+        "Un proceso activo a través del cual se capta el sentido general del mensaje y se le dota de significado",
+        "La capacidad para producir un discurso a través del dominio léxico y la pragmática",
+        "El conjunto de microhabilidades que permiten interpretar y valorar los mensajes recibidos",
+        "La habilidad para reconocer fonemas, palabras y la intención comunicativa del interlocutor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La comprensión oral es un proceso activo de captar el sentido general del mensaje y dotarle de significado. La expresión oral es la capacidad de producir discurso. Las microhabilidades son los componentes de ambas destrezas."
+    },
+    {
+      "question": "La 'expresión oral', según el tema, se define como:",
+      "options": [
+        "La capacidad para producir un discurso a través del dominio léxico y la pragmática",
+        "Un proceso activo de captación del sentido general del mensaje del interlocutor",
+        "El conjunto de microhabilidades de planificación, vocabulario y entonación del habla",
+        "La habilidad para reformular y adaptar el mensaje a las necesidades del oyente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La expresión oral es la capacidad para producir un discurso a través del dominio léxico y la pragmática. La comprensión oral es el proceso activo de captar el significado del mensaje recibido."
+    },
+    {
+      "question": "La microhabilidad de comprensión oral 'reconocer', según Cassany et al. (1994), implica:",
+      "options": [
+        "Identificar fonemas, palabras de la lengua, la entonación y la intención comunicativa",
+        "Pensar qué decir antes de responder al interlocutor en la conversación",
+        "Extraer información implícita mediante el contexto o el lenguaje no verbal",
+        "Retener las ideas principales del discurso a corto o a largo plazo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La microhabilidad 'reconocer' implica identificar fonemas, palabras de la lengua, la entonación y la intención comunicativa. 'Anticipar' es pensar qué decir; 'inferir' es extraer información implícita; y 'retener' es conservar ideas."
+    },
+    {
+      "question": "La microhabilidad 'seleccionar', dentro de la comprensión oral según Cassany et al. (1994), consiste en:",
+      "options": [
+        "Identificar las palabras relevantes del discurso",
+        "Retener las ideas principales a corto o largo plazo",
+        "Interpretar el contenido del discurso y el vocabulario",
+        "Reconocer la entonación y la intención comunicativa del hablante"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La microhabilidad 'seleccionar' consiste en identificar las palabras relevantes del discurso. 'Retener' conserva ideas; 'interpretar' comprende el contenido; y 'reconocer' identifica fonemas y entonación."
+    },
+    {
+      "question": "La kinestesia, como elemento no lingüístico de la comunicación, hace referencia a:",
+      "options": [
+        "Los movimientos corporales como los gestos, la postura o la expresión facial",
+        "La entonación, el volumen, el ritmo, las pausas y el énfasis del discurso",
+        "La forma en que los individuos se sitúan o mueven por el espacio",
+        "El modo en que se organiza el tiempo en la comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La kinestesia hace referencia a los movimientos corporales: gestos, postura y expresión facial. Los elementos paralingüísticos incluyen entonación y volumen; la proxemia es el uso del espacio; y la cronémica es la organización del tiempo."
+    },
+    {
+      "question": "Cassany et al. (1994) definen la comunicación verbal como:",
+      "options": [
+        "El proceso por el que se transmite y construye significados a través de palabras de forma oral o escrita",
+        "El conjunto de signos y comportamientos no lingüísticos que acompañan o sustituyen al lenguaje verbal",
+        "El sistema convencional de símbolos regido por reglas para la comunicación entre sujetos",
+        "El conjunto de microhabilidades lingüísticas que permiten la comprensión y producción de discursos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany et al. (1994) definen la comunicación verbal como el proceso por el que se transmite y construye significados a través de palabras, oral o escritamente. Poyatos (1994) define la comunicación no verbal."
+    },
+    {
+      "question": "El informe psicopedagógico, según la Orden del 8 de septiembre de 2021, debe recoger:",
+      "options": [
+        "El diagnóstico y las medidas educativas correspondientes, tanto ordinarias como extraordinarias",
+        "Los datos académicos del alumno y el historial de intervenciones logopédicas previas",
+        "Las adaptaciones curriculares propuestas por el tutor y el especialista en AL",
+        "Las conclusiones de la evaluación inicial realizada por el tutor al comienzo del curso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El informe psicopedagógico debe concretar el diagnóstico y las medidas educativas correspondientes, tanto ordinarias como extraordinarias. La evaluación inicial la realiza el tutor; las adaptaciones curriculares son una de las posibles medidas."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un ejemplo de medida ordinaria de atención a la diversidad para alteraciones del lenguaje?",
+      "options": [
+        "El refuerzo educativo",
+        "Las adaptaciones curriculares significativas",
+        "La escolarización en centros de educación especial",
+        "La instauración de Sistemas Alternativos y Aumentativos de Comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El refuerzo educativo es una medida ordinaria. Las adaptaciones curriculares significativas y los SAAC son medidas extraordinarias, y la escolarización en centros especiales es la medida más excepcional."
+    },
+    {
+      "question": "Los SAAC (Sistemas Alternativos y Aumentativos de Comunicación) se mencionan en el tema como:",
+      "options": [
+        "Una medida educativa que puede implementarse tras la evaluación psicopedagógica",
+        "Una técnica específica para mejorar la fluidez del lenguaje oral en el aula ordinaria",
+        "Un recurso de comprensión oral basado en el uso de las TIC en el aula",
+        "Un instrumento de evaluación inicial del lenguaje usado por el tutor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los SAAC son medidas educativas que pueden implementarse tras la evaluación psicopedagógica. No son técnicas de fluidez, recursos de comprensión oral ni instrumentos de evaluación."
+    },
+    {
+      "question": "Las disfasias se diferencian del retraso de lenguaje simple en que:",
+      "options": [
+        "Las disfasias son dificultades en la expresión y/o recepción del habla, mientras que el retraso simple consiste en el desarrollo tardío sin otras dificultades",
+        "Las disfasias son consecuencia de una lesión cerebral adquirida, mientras que el retraso simple es de origen evolutivo",
+        "Las disfasias afectan solo a la expresión oral, mientras que el retraso simple afecta tanto a la expresión como a la comprensión",
+        "Las disfasias solo se presentan en niños con bilingüismo, mientras que el retraso simple aparece en cualquier contexto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las disfasias son dificultades en la expresión y/o recepción del habla y del lenguaje, mientras que el retraso simple consiste en el desarrollo tardío del lenguaje sin las dificultades específicas de las disfasias. Las afasias son las de origen lesional."
+    },
+    {
+      "question": "Las medidas de intervención ante las alteraciones lingüísticas señaladas en el tema incluyen:",
+      "options": [
+        "Individualizar la enseñanza, favorecer un ambiente de confianza, usar recursos rítmicos y plásticos, y contar con la intervención del especialista en AL",
+        "Reducir los objetivos curriculares, separar al alumno del grupo ordinario y derivarlo al aula de apoyo",
+        "Implementar adaptaciones curriculares significativas, programas de inmersión lingüística y refuerzo individual",
+        "Evaluar el perfil lingüístico del alumno, aplicar protocolos de detección precoz y elaborar el informe psicopedagógico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las medidas de intervención señaladas en el tema son: individualizar la enseñanza, favorecer ambiente de confianza y espontaneidad, usar recursos rítmicos y plásticos, y contar con el especialista en AL. Las otras opciones son pasos del protocolo de detección o medidas más específicas."
+    },
+    {
+      "question": "El artículo 16 del Decreto 155/2022 señala la comprensión y expresión oral como un elemento:",
+      "options": [
+        "Transversal que debe abordarse con un enfoque globalizador e interdisciplinar en todas las áreas",
+        "Específico del área de Lengua Castellana y Literatura con atención en los tres ciclos de primaria",
+        "Fundamental que debe desarrollarse mediante proyectos de lengua integrados en el horario semanal",
+        "Prioritario que exige dedicación de al menos una sesión diaria en el área de Lengua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 señala la comprensión y expresión oral como un elemento transversal que debe trabajarse con enfoque globalizador e interdisciplinar en todas las áreas del currículo."
+    },
+    {
+      "question": "Según el tema, en la EP se debe poner especial énfasis en tres aspectos para la prevención de dificultades lingüísticas. ¿Cuáles son?",
+      "options": [
+        "El nivel sociolingüístico del alumno, la inclusión educativa y la atención personalizada a las necesidades de aprendizaje",
+        "La detección precoz, la derivación al especialista y la evaluación psicopedagógica individualizada",
+        "El trabajo cooperativo, las tareas integradas y el aprendizaje basado en proyectos",
+        "La curiosidad, la motivación y la creatividad mediante la investigación y la resolución de problemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que se debe hacer especial énfasis en el nivel sociolingüístico del alumno, la inclusión educativa y la atención personalizada para la prevención de dificultades."
+    },
+    {
+      "question": "Las actividades de comprensión oral basadas en 'juegos mnemotécnicos', según Cassany et al. (1994), incluyen:",
+      "options": [
+        "Repetición de palabras, frases malditas, adivinanzas, fábulas o el teléfono estropeado",
+        "Escuchar un mensaje oral y dibujar lo que dice o escoger entre opciones lo referido",
+        "Escuchar un texto y transformar la información en cuadros, esquemas o diagramas",
+        "Juegos tradicionales como 'Simón dice' para desarrollar la escucha activa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los juegos mnemotécnicos de Cassany et al. (1994) incluyen repetición de palabras, frases malditas, adivinanzas, fábulas, pareados y el teléfono estropeado. La escucha dirigida y la transferencia de información son otras categorías distintas."
+    },
+    {
+      "question": "Las actividades de comprensión oral basadas en 'transferencia de información', según Cassany et al. (1994), consisten en:",
+      "options": [
+        "Escuchar un texto oral y transformar la información en otro formato como cuadros, esquemas o diagramas",
+        "Escuchar un mensaje y dibujar lo que dice o escoger entre opciones lo referido",
+        "Repetir palabras, frases y realiar juegos mnemotécnicos para reforzar la memoria auditiva",
+        "Utilizar juegos tradicionales como 'Simón dice' para desarrollar la escucha activa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La transferencia de información consiste en escuchar un texto oral y transformarlo en otro formato (cuadros, esquemas, diagramas). La escucha dirigida implica dibujar o escoger entre opciones; los juegos mnemotécnicos trabajan la memoria; y 'Simón dice' trabaja la escucha directiva."
+    },
+    {
+      "question": "Según Vázquez (2010), ¿qué tipología de actividades de expresión oral incluye los debates, las conferencias y las asambleas?",
+      "options": [
+        "Actividades basadas en la comunicación formal",
+        "Actividades basadas en el juego dramático",
+        "Actividades basadas en los géneros periodísticos",
+        "Actividades basadas en la literatura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los debates, conferencias, asambleas, mesas redondas y discursos pertenecen a las actividades basadas en la comunicación formal según Vázquez (2010). El juego dramático incluye roles e improvisación; los géneros periodísticos incluyen entrevistas y radio; y la literatura incluye cuentacuentos."
+    },
+    {
+      "question": "Según Vázquez (2010), las actividades de expresión oral 'basadas en los géneros periodísticos' incluyen:",
+      "options": [
+        "Entrevistas, radio y tertulias",
+        "Debates, conferencias y mesas redondas",
+        "Lectura expresiva, obras de teatro y cuentacuentos",
+        "Juego de roles, improvisación y dramatización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades basadas en géneros periodísticos incluyen entrevistas, radio y tertulias. Los debates y conferencias son de comunicación formal; la lectura expresiva y el teatro son de literatura; y el juego de roles es del juego dramático."
+    },
+    {
+      "question": "Según Vázquez (2010), las actividades de expresión oral 'basadas en la literatura' incluyen:",
+      "options": [
+        "La lectura expresiva, las obras de teatro, los cuentacuentos o los recitados en prosa o verso",
+        "Los enigmas o juegos de palabras como el '¿Quién es quién?'",
+        "Las entrevistas, la radio y las tertulias periodísticas",
+        "Los debates, las conferencias y las asambleas escolares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades basadas en literatura incluyen lectura expresiva, obras de teatro, cuentacuentos y recitados. Los juegos lingüísticos como enigmas son otra categoría; las entrevistas son géneros periodísticos; y los debates son comunicación formal."
+    },
+    {
+      "question": "¿Qué papel otorga el tema a las bibliotecas de centro y de aula dentro de las orientaciones pedagógicas?",
+      "options": [
+        "Espacios de aprendizaje y comunicación que fomentan la autonomía lingüística del alumnado",
+        "Recursos materiales para el desarrollo de la comprensión lectora y la escritura formal",
+        "Herramientas de acceso a textos literarios que enriquecen la expresión oral del alumnado",
+        "Entornos para la investigación individual que desarrollan la competencia informacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que las bibliotecas de centro y de aula tienen un papel protagonista como espacios de aprendizaje y comunicación que fomentan la autonomía en la producción y comprensión lingüísticas."
+    },
+    {
+      "question": "En relación con la evaluación, el tema señala que lo más relevante es que el alumnado sea capaz de:",
+      "options": [
+        "Detectar sus propios errores y corregirlos, aplicando la metacognición",
+        "Resolver correctamente las actividades de comprensión y expresión oral",
+        "Demostrar el dominio de las microhabilidades lingüísticas en situaciones formales",
+        "Alcanzar los estándares de aprendizaje establecidos en el currículo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que es más relevante que el alumnado detecte sus propios errores y los corrija mediante la metacognición, que resolver correctamente la actividad. La evaluación debe centrarse en el proceso, no solo en el resultado."
+    },
+    {
+      "question": "El tema indica que las TIC en las actividades de comprensión oral son herramientas útiles para:",
+      "options": [
+        "Mostrar otro tipo de lenguaje que amplíe la comprensión y recoger actividades lingüísticas en grabaciones para su análisis posterior",
+        "Crear presentaciones visuales que apoyen los textos orales trabajados en el aula",
+        "Desarrollar la competencia digital del alumnado en paralelo a la competencia lingüística",
+        "Facilitar el acceso a textos literarios digitalizados para la comprensión lectora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las TIC son útiles para mostrar tipos de lenguaje que amplíen la comprensión y para grabar actividades lingüísticas para su posterior análisis. No se mencionan específicamente para presentaciones visuales ni para la competencia digital."
+    },
+    {
+      "question": "Según el tema, la descripción oral en el aula debe ser:",
+      "options": [
+        "Real, completa, clara y precisa, partiendo de elementos observables como imágenes o el entorno presente del niño",
+        "Creativa, libre y emotiva, priorizando la expresión personal sobre la precisión descriptiva",
+        "Ordenada cronológicamente, con un criterio jerárquico que destaque los elementos más importantes",
+        "Estructurada en introducción, desarrollo y conclusión para favorecer la coherencia discursiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La descripción oral debe ser real, completa, clara y precisa, partiendo de elementos observables como imágenes o el entorno del niño. El orden cronológico y jerárquico es propio de la narración."
+    },
+    {
+      "question": "¿Qué papel asigna el tema al docente durante la actividad de conversación en el aula?",
+      "options": [
+        "Garantizar el contacto visual, orientar la organización de ideas y corregir errores sin interrumpir la fluidez del diálogo",
+        "Actuar como moderador y árbitro que distribuye los turnos de palabra equitativamente",
+        "Participar activamente como un asistente más dentro del diálogo grupal",
+        "Evaluar la corrección gramatical de las intervenciones y proporcionar retroalimentación inmediata"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la conversación, el docente debe garantizar el contacto visual, orientar la organización de ideas y corregir errores sin interrumpir la fluidez. Participar como asistente más corresponde al coloquio."
+    },
+    {
+      "question": "La disfonía, como alteración de la voz, se caracteriza por:",
+      "options": [
+        "La afectación de la calidad de la voz en su intensidad, tono o timbre",
+        "La pérdida total de la voz sin causa orgánica identificada",
+        "Los problemas de expresión verbal por alteración del control muscular neurológico",
+        "La afectación del ritmo del lenguaje por repeticiones o bloqueos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La disfonía afecta a la calidad de la voz en su intensidad, tono o timbre. La afonía es la pérdida total de la voz; las disartrias afectan al control muscular neurológico; y las disfemias al ritmo del lenguaje."
+    },
+    {
+      "question": "Las afonías, como alteración de la voz, se definen como:",
+      "options": [
+        "La pérdida total de la voz",
+        "La afectación de la calidad de la voz en intensidad, tono o timbre",
+        "Los problemas de expresión verbal por lesiones neurológicas",
+        "La repetición involuntaria de sonidos al inicio de las palabras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las afonías son la pérdida total de la voz. Las disfonías afectan a la calidad de la voz; las disartrias son de origen neurológico; y las repeticiones involuntarias de sonidos corresponden a las disfemias."
+    },
+    {
+      "question": "La bradilalia, como alteración de la fluidez del lenguaje, se caracteriza por:",
+      "options": [
+        "Un ritmo lento del discurso",
+        "Un habla rápida, poco clara y con ritmo defectuoso",
+        "Repeticiones o bloqueos que afectan al ritmo y la melodía del discurso",
+        "La afectación de la calidad de la voz en intensidad, tono o timbre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La bradilalia se caracteriza por un ritmo lento del discurso. La taquifemia es el habla rápida y poco clara; la disfemia implica repeticiones o bloqueos; y la disfonía afecta a la calidad de la voz."
+    },
+    {
+      "question": "El Decreto 79/2010, de 20 de mayo, regula en Galicia:",
+      "options": [
+        "El plurilingüismo en la enseñanza no universitaria",
+        "La atención a la diversidad del alumnado en centros docentes",
+        "La ordenación y el currículo de la educación primaria",
+        "El desarrollo de las orientaciones metodológicas para las áreas lingüísticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 79/2010 regula el plurilingüismo en la enseñanza no universitaria de Galicia. El Decreto 229/2011 regula la atención a la diversidad; el Decreto 155/2022 establece el currículo de primaria."
+    },
+    {
+      "question": "La Orden de 8 de septiembre de 2021 desarrolla el Decreto:",
+      "options": [
+        "229/2011, de 7 de diciembre, por el que se regula la atención a la diversidad del alumnado",
+        "155/2022, de 15 de septiembre, que establece el currículo de Educación Primaria en Galicia",
+        "79/2010, de 20 de mayo, para el plurilingüismo en la enseñanza no universitaria de Galicia",
+        "374/1996, referido a la ordenación de la educación especial en la Comunidad Autónoma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden del 8 de septiembre de 2021 desarrolla el Decreto 229/2011 que regula la atención a la diversidad. El Decreto 155/2022 es desarrollado por la Orden de 26 de mayo de 2023."
+    },
+    {
+      "question": "El tema menciona que la planificación lingüística de centro en Galicia debe planificarse en consonancia con:",
+      "options": [
+        "El Decreto 79/2010 para el plurilingüismo en la enseñanza no universitaria de Galicia",
+        "El Decreto 155/2022 que establece el currículo de Educación Primaria",
+        "La Orden de 8 de septiembre de 2021 que desarrolla la atención a la diversidad",
+        "La LOMLOE en su artículo 19 sobre los principios pedagógicos de la EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación lingüística de centro debe planificarse en consonancia con el Decreto 79/2010 para el plurilingüismo. El Decreto 155/2022 establece el currículo; y la Orden de 2021 regula la atención a la diversidad."
+    },
+    {
+      "question": "El objetivo de área OBJ2 vinculado al tema en el Decreto 155/2022 hace referencia a:",
+      "options": [
+        "Comprender textos orales y multimodales identificando el sentido general, valorando aspectos formales y de contenido para construir el conocimiento",
+        "Producir textos orales y multimodales coherentes y adecuados para expresar ideas y participar en interacciones",
+        "Utilizar las distintas lenguas de forma apropiada y eficaz para el aprendizaje y la comunicación",
+        "Conocer y utilizar de manera apropiada la Lengua gallega y la Castellana y desarrollar hábitos de lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ2 se refiere a comprender textos orales y multimodales. El OBJ3 se refiere a producir textos orales; la CP es la competencia plurilingüe; y el objetivo 'e' del artículo 7 es el de conocer y usar las lenguas cooficiales."
+    },
+    {
+      "question": "El objetivo de área OBJ3 vinculado al tema en el Decreto 155/2022 establece:",
+      "options": [
+        "Producir textos orales y multimodales coherentes y adecuados para expresar ideas, construir conocimiento y participar en interacciones orales",
+        "Comprender textos orales y multimodales identificando el sentido general para construir el conocimiento",
+        "Expresar con claridad y adecuación a los contextos participando con actitud cooperativa y respetuosa",
+        "Conocer y utilizar apropiadamente la Lengua gallega y la Lengua Castellana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ3 establece producir textos orales y multimodales coherentes y adecuados para expresar ideas, construir conocimiento y participar en interacciones. El OBJ2 se refiere a la comprensión; el CCL1 es un descriptor operativo."
+    },
+    {
+      "question": "Según el tema, el gallego como lengua propia desempeña un papel esencial en la escuela siguiendo:",
+      "options": [
+        "El Decreto 79/2010, que garantiza el uso de la lengua oficial, cooficial y al menos una lengua extranjera",
+        "El Decreto 155/2022, que establece el gallego como lengua vehicular en las áreas no lingüísticas",
+        "La LOMLOE, que garantiza la cooficialidad del gallego en todas las comunidades autónomas",
+        "La Orden de 2021, que regula el uso del gallego en los procesos de evaluación psicopedagógica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que siguiendo el Decreto 79/2010, la escuela debe preparar al alumnado para usar la lengua oficial, cooficial y al menos una lengua extranjera. El Decreto 155/2022 no se cita específicamente para este fin."
+    },
+    {
+      "question": "El Diseño Universal para el Aprendizaje (DUA) se menciona en la conclusión del tema como:",
+      "options": [
+        "Un referente a considerar al diseñar situaciones de aprendizaje para la comunicación oral",
+        "Un modelo de planificación curricular específico para el área de Lengua y Literatura",
+        "Un sistema de evaluación inclusiva para el alumnado con alteraciones del lenguaje",
+        "Un enfoque metodológico basado en las teorías interaccionistas de Vygotski"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El DUA se menciona en la conclusión como algo a considerar al diseñar situaciones de aprendizaje para la comunicación oral, junto con los ODS de la Agenda 2030."
+    },
+    {
+      "question": "La ecolalia, citada en el tema como alteración lingüística, consiste en:",
+      "options": [
+        "La repetición involuntaria de palabras",
+        "La negativa a hablar con determinadas personas o en situaciones concretas",
+        "Las dificultades en la expresión y recepción del habla sin lesión cerebral",
+        "El desarrollo tardío del lenguaje oral respecto al grupo de edad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La ecolalia consiste en la repetición involuntaria de palabras. El mutismo selectivo es la negativa a hablar en ciertas situaciones; las disfasias son dificultades en la expresión/recepción; y el retraso simple es el desarrollo tardío del lenguaje."
+    },
+    {
+      "question": "En la conclusión del tema se señala que, durante la EP, el alumnado transita desde:",
+      "options": [
+        "Una comunicación espontánea hacia un uso reflexivo, formal y consolidado de la lengua",
+        "Un lenguaje oral básico hacia el dominio de las competencias de lectura y escritura",
+        "Las primeras interacciones familiares hacia la comunicación pública y formal",
+        "El lenguaje egocéntrico hacia el lenguaje socializado con intención comunicativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión señala que durante la EP el alumnado transita desde una comunicación espontánea hacia un uso reflexivo, formal y consolidado de la lengua."
+    },
+    {
+      "question": "¿Qué obra de Gianni Rodari (1973) se menciona en el tema como fuente de técnicas lúdicas para la narración?",
+      "options": [
+        "La gramática de la fantasía",
+        "El libro de los juegos lingüísticos",
+        "Cuentos por teléfono",
+        "Las aventuras del señor lenguaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona la obra 'La gramática de la fantasía' de Gianni Rodari (1973), donde expone técnicas lúdicas para la narración como el binomio fantástico."
+    },
+    {
+      "question": "¿Qué obra de Cassany et al. (1994) se cita repetidamente en el tema como referencia principal?",
+      "options": [
+        "Enseñar Lengua",
+        "Didáctica de la lengua y la literatura",
+        "El niño que habla",
+        "La gramática de la fantasía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Enseñar Lengua' (1994) de Cassany, Luna y Sanz es la referencia principal del tema. 'Didáctica de la lengua' es de Prado (2004); 'El niño que habla' es de Monfort y Juárez; y 'La gramática de la fantasía' es de Rodari (1973)."
+    },
+    {
+      "question": "Jiménez (2010) establece las tres fases del desarrollo del lenguaje propuestas por:",
+      "options": [
+        "Piaget",
+        "Vygotski",
+        "Chomsky",
+        "Skinner"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jiménez (2010) distingue tres fases del desarrollo del lenguaje propuestas por Piaget: etapa prelingüística, etapa lingüística y lenguaje consolidado o constituido."
+    },
+    {
+      "question": "Las fases del desarrollo del lenguaje según Jiménez (2010) son:",
+      "options": [
+        "Etapa prelingüística, etapa lingüística y lenguaje consolidado o constituido",
+        "Etapa holofrásica, etapa telegráfica y etapa de la frase simple",
+        "Etapa sensoriomotora, etapa preoperacional y etapa de las operaciones concretas",
+        "Etapa balbuceo, etapa lálica y etapa de las primeras palabras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tres fases son la etapa prelingüística (0-12 meses), la etapa lingüística (1-6 años) y el lenguaje consolidado o constituido (6-12 años). Las etapas holofrásica, telegráfica y de la frase simple son subdivisiones de la etapa lingüística."
+    },
+    {
+      "question": "Según el tema, ¿en qué contexto afirma que se desarrolla el lenguaje en la mayoría de niños y niñas?",
+      "options": [
+        "La escuela",
+        "El entorno familiar y el hogar",
+        "Los contextos de juego espontáneo con iguales",
+        "Los medios de comunicación y las TIC"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema afirma que 'la escuela es el lugar donde se desarrolla el lenguaje en la mayoría de niños y niñas', destacando la importancia de la detección temprana en el contexto escolar."
+    },
+    {
+      "question": "¿Cuál es la referencia normativa autonómica para la detección de dificultades y medidas de apoyo en el lenguaje en Galicia?",
+      "options": [
+        "La Orden de 8 de septiembre de 2021 que desarrolla el Decreto 229/2011",
+        "El Decreto 155/2022 que establece el currículo de Educación Primaria",
+        "El Decreto 79/2010 para el plurilingüismo en la enseñanza no universitaria",
+        "La Orden de 26 de mayo de 2023 que desarrolla el Decreto 155/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La referencia para la detección de dificultades y medidas de apoyo es la Orden de 8 de septiembre de 2021 que desarrolla el Decreto 229/2011 sobre atención a la diversidad. El Decreto 155/2022 establece el currículo."
+    },
+    {
+      "question": "Según el tema, el debate como técnica de expresión oral requiere:",
+      "options": [
+        "Tratar temas de actualidad e interés con objetivos claros, proporcionando fuentes de información y fomentando la participación y el respeto por los turnos",
+        "La designación de un ponente y un moderador con un tiempo previo de preparación sobre el tema",
+        "Una planificación exhaustiva del discurso por parte del alumnado experto en la materia",
+        "El uso de materiales como imágenes, sonidos o vídeos para apoyar la argumentación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El debate requiere tratar temas de actualidad con objetivos claros, proporcionar fuentes de información y fomentar la participación respetando los turnos. La designación de ponente y moderador corresponde al coloquio."
+    },
+    {
+      "question": "La exposición oral, como técnica de expresión, se define en el tema como:",
+      "options": [
+        "La exhibición oral de trabajos o investigaciones que demanda una planificación exhaustiva del discurso",
+        "La presentación de un tema por parte de un ponente designado con moderación grupal",
+        "La comunicación de hechos o experiencias de forma ordenada y con un criterio jerárquico",
+        "El intercambio de ideas sobre un tema de interés con respeto por los turnos de palabra"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La exposición consiste en la exhibición oral de trabajos o investigaciones y demanda una planificación exhaustiva del discurso. El coloquio tiene ponente y moderador; la narración sigue criterios cronológicos y jerárquicos; y el debate trabaja el intercambio de ideas."
+    },
+    {
+      "question": "La conversación como técnica de expresión oral hasta los 8 o 9 años debe plantearse como:",
+      "options": [
+        "Un pasatiempo de habla espontánea que evoluciona hacia un medio instrumental para despertar el interés por temas específicos",
+        "Una actividad formalizada dirigida por el docente con objetivos lingüísticos claros y evaluables",
+        "Un intercambio estructurado en el que el docente actúa como moderador distribuyendo los turnos",
+        "Una técnica de expresión que requiere preparación previa por parte del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conversación hasta los 8-9 años debe plantearse como un pasatiempo de habla espontánea que evoluciona hacia un medio instrumental para despertar el interés por temas. La planificación previa y la formalización pertenecen a técnicas más avanzadas."
+    },
+    {
+      "question": "Según el tema, ¿qué habilidad cognitiva se trabaja en el plano cognitivo de las actividades de expresión oral?",
+      "options": [
+        "El esfuerzo por comprender al otro",
+        "El desarrollo de la escucha activa y la aceptación de críticas",
+        "El perfeccionamiento del vocabulario y las estructuras sintácticas",
+        "La metacognición y la autorregulación del propio discurso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el plano cognitivo, las actividades de expresión oral trabajan el esfuerzo por comprender al otro. En el social se trabaja la escucha activa; en el lingüístico el vocabulario y las estructuras sintácticas."
+    },
+    {
+      "question": "¿Qué aspecto del lenguaje no verbal se menciona específicamente en el cierre del apartado de estrategias?",
+      "options": [
+        "El control postural, la seguridad en el discurso, el contacto visual, la gestualidad y el movimiento por el espacio",
+        "La entonación, el ritmo, el volumen y las pausas del discurso oral",
+        "La proxemia, la cronémica y los elementos paralingüísticos del mensaje",
+        "La kinestesia, la proxemia y la cronémica como dimensiones del lenguaje no verbal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona específicamente al cierre que es fundamental enseñar el lenguaje no verbal incidiendo en el control postural, la seguridad, el contacto visual, la gestualidad y el movimiento por el espacio."
+    },
+    {
+      "question": "¿Qué relación establece el tema entre el lenguaje y el desarrollo global de los individuos?",
+      "options": [
+        "El lenguaje es una herramienta fundamental para el desarrollo global, psicológico y cognitivo de los individuos y para la comunicación y la representación",
+        "El lenguaje es el resultado del desarrollo cognitivo del individuo y su integración social en el entorno",
+        "El lenguaje determina el desarrollo psicológico pero no influye significativamente en el desarrollo cognitivo",
+        "El lenguaje es un instrumento secundario que complementa otras herramientas de comunicación no verbal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que el lenguaje es una herramienta fundamental para el desarrollo global, psicológico y cognitivo de los individuos y para la comunicación y la representación."
+    },
+    {
+      "question": "¿Cuál de las siguientes alteraciones lingüísticas pertenece al grupo de 'alteraciones del habla o del lenguaje oral' en el tema?",
+      "options": [
+        "La disfonía",
+        "La dislexia",
+        "La disfasia",
+        "La disgrafía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La disfonía es una alteración de la voz, dentro del grupo de alteraciones del habla o del lenguaje oral. La dislexia y la disgrafía son alteraciones del lenguaje escrito; y la disfasia es una alteración en la adquisición del lenguaje."
+    },
+    {
+      "question": "¿Cuál de las siguientes alteraciones lingüísticas pertenece al grupo de 'alteraciones en la adquisición del lenguaje' según el tema?",
+      "options": [
+        "El retraso de lenguaje simple o moderado",
+        "La disfemia",
+        "La disfonía",
+        "La dislexia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El retraso de lenguaje simple o moderado pertenece al grupo de alteraciones en la adquisición del lenguaje, junto con las disfasias y afasias. La disfemia es una alteración de fluidez; la disfonía es una alteración de la voz; y la dislexia es del lenguaje escrito."
+    },
+    {
+      "question": "En el tema, el objetivo de las actividades de comprensión oral es capacitar al alumnado para:",
+      "options": [
+        "Interpretar, relacionar y valorar con actitud crítica los mensajes recibidos y responder a ellos",
+        "Producir discursos orales estructurados adecuados a diferentes contextos comunicativos",
+        "Reconocer los elementos paralingüísticos y no verbales que acompañan los mensajes",
+        "Desarrollar la memoria auditiva y la concentración durante la escucha de textos orales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo de las actividades de comprensión oral es capacitar al alumnado para interpretar, relacionar y valorar críticamente los mensajes recibidos y responder a ellos. La producción de discursos pertenece a la expresión oral."
+    },
+    {
+      "question": "¿Cómo define el tema la corriente 'nativista' en las teorías sobre adquisición del lenguaje?",
+      "options": [
+        "Agrupa las teorías que destacan la base biológica innata del lenguaje, como el conductismo de Skinner y el innatismo de Chomsky",
+        "Defiende que el lenguaje se adquiere exclusivamente a través de la herencia genética sin influencia ambiental",
+        "Sostiene que el lenguaje emerge de la interacción entre el individuo y su entorno social",
+        "Concibe el lenguaje como producto del desarrollo cognitivo mediante asimilación y acomodación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La corriente nativista agrupa las teorías que destacan la base biológica del lenguaje, incluyendo el conductismo de Skinner y el innatismo de Chomsky. La teoría de Piaget es la cognitiva y la de Vygotski la interaccionista."
+    },
+    {
+      "question": "¿A qué conclusión llega el tema respecto a la corriente interaccionista sobre el lenguaje?",
+      "options": [
+        "El lenguaje nace como instrumento social y es producto de la inteligencia construida a través de la interacción con el entorno",
+        "El lenguaje se desarrolla gracias a una capacidad biológica innata para adquirir reglas gramaticales",
+        "El lenguaje se adquiere por imitación y refuerzo positivo de los modelos lingüísticos del entorno",
+        "El lenguaje es un sistema convencional de símbolos que se adquiere mediante la maduración neurológica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La corriente interaccionista agrupa las teorías de Piaget (lenguaje como producto de la inteligencia mediante interacción con el entorno) y Vygotski (lenguaje como instrumento social de comunicación)."
+    },
+    {
+      "question": "En la etapa lingüística (1-6 años), ¿cuántas subetapas distingue el tema?",
+      "options": [
+        "Cuatro subetapas: holofrásica, telegráfica, frase simple y Educación Infantil",
+        "Tres subetapas: holofrásica, telegráfica y frase simple",
+        "Dos subetapas: prelexical y lexical",
+        "Cinco subetapas: balbuceo, primeras palabras, holofrásica, telegráfica y frase simple"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa lingüística (1-6 años) se divide en cuatro subetapas: holofrásica (12-18 meses), telegráfica (18-24 meses), frase simple (2-3 años) y Educación Infantil (3-6 años)."
+    },
+    {
+      "question": "La función 'informativa' del lenguaje, según Cassany et al. (1994), consiste en:",
+      "options": [
+        "Transmitir información sobre la realidad",
+        "Expresar los estados emocionales del hablante",
+        "Realizar órdenes y preguntas orientadas al receptor",
+        "Usar el lenguaje con finalidad literaria y artística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La función informativa consiste en transmitir información sobre la realidad de forma objetiva. La emotiva expresa emociones; la conativa realiza órdenes y preguntas; y la poética tiene finalidad literaria."
+    },
+    {
+      "question": "La 'función emotiva' del lenguaje, según Cassany et al. (1994), consiste en:",
+      "options": [
+        "La expresión de emociones del hablante",
+        "El mantenimiento del canal de comunicación y el contacto social",
+        "La transmisión de información sobre hechos de la realidad",
+        "El uso del lenguaje para hablar sobre el propio sistema lingüístico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La función emotiva expresa las emociones del hablante. La función fática mantiene el canal comunicativo; la informativa transmite datos; y la metalingüística habla sobre el sistema lingüístico."
+    },
+    {
+      "question": "Jiménez (2010) destaca el papel del lenguaje como instrumento de:",
+      "options": [
+        "Comunicación interpersonal y de representación",
+        "Expresión emocional y regulación conductual",
+        "Adquisición de conocimientos académicos y científicos",
+        "Integración social y construcción de la identidad personal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jiménez (2010) destaca el papel del lenguaje como instrumento de comunicación interpersonal y de representación, complementando la definición de Monfort y Juárez y las funciones de Cassany."
+    },
+    {
+      "question": "¿Qué etapa precede inmediatamente a la etapa holofrásica en el desarrollo del lenguaje?",
+      "options": [
+        "La etapa prelingüística",
+        "La etapa telegráfica",
+        "La etapa de la frase simple",
+        "La etapa de Educación Infantil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa prelingüística (0-12 meses) precede inmediatamente a la etapa holofrásica (12-18 meses). La etapa telegráfica, la frase simple y la de Educación Infantil son posteriores a la holofrásica."
+    },
+    {
+      "question": "¿Cuál es la característica principal de la comunicación en el balbuceo durante la etapa prelingüística?",
+      "options": [
+        "El niño emite sonidos en forma de balbuceo, laleo, ecolalia y juegos vocálicos",
+        "El niño usa una sola palabra para representar toda una frase con intención comunicativa",
+        "El niño produce minifrases de dos palabras con primeros esbozos sintácticos",
+        "El niño comprende instrucciones sencillas y pide a través de señales gestuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Durante la etapa prelingüística, el niño emite sonidos en forma de balbuceo, laleo, ecolalia y juegos vocálicos. El uso de una sola palabra para expresar frases corresponde a la etapa holofrásica."
+    },
+    {
+      "question": "El objetivo del área OBJ2 en LCL y LGL incluye la valoración de aspectos formales y de contenido básicos para:",
+      "options": [
+        "Construir el conocimiento y responder a necesidades comunicativas",
+        "Producir textos orales coherentes adecuados a cada situación",
+        "Desarrollar la competencia plurilingüe en distintos registros lingüísticos",
+        "Identificar las microhabilidades de comprensión oral en el discurso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ2 establece comprender textos orales y multimodales valorando aspectos formales y de contenido para construir el conocimiento y responder a necesidades comunicativas."
+    },
+    {
+      "question": "La evaluación en el área de comunicación oral, según el tema, debe emplear instrumentos y técnicas que se enfoquen en:",
+      "options": [
+        "El proceso y no únicamente en el resultado",
+        "La corrección gramatical y la precisión léxica del alumnado",
+        "Los estándares de aprendizaje establecidos en el currículo oficial",
+        "La comparación del nivel del alumno con el grupo de referencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación debe focalizarse en el proceso y no únicamente en el resultado, siendo más relevante que el alumnado detecte y corrija sus propios errores mediante la metacognición."
+    },
+    {
+      "question": "Según el tema, en la etapa holofrásica el niño comprende instrucciones sencillas y:",
+      "options": [
+        "Pide a través de señales",
+        "Produce minifrases de dos palabras con primeros esbozos sintácticos",
+        "Desarrolla un lenguaje socializador que favorece el razonamiento",
+        "Consolida la lectoescritura favoreciendo el aprendizaje significativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa holofrásica (12-18 meses), el niño comprende instrucciones sencillas y pide a través de señales. Las minifrases de dos palabras son de la etapa telegráfica; el lenguaje socializador es de la etapa de Educación Infantil."
+    },
+    {
+      "question": "¿Qué se entiende por 'situaciones de aprendizaje significativas' en las orientaciones pedagógicas del tema?",
+      "options": [
+        "Situaciones vinculadas a la vida real que parten del nivel de desarrollo del alumnado, sus intereses y conocimientos previos",
+        "Actividades diseñadas para alcanzar los estándares de aprendizaje del currículo oficial de Primaria",
+        "Tareas integradas que favorecen el trabajo cooperativo entre alumnos de diferentes niveles",
+        "Experiencias de aprendizaje que combinan el lenguaje oral con la expresión plástica y musical"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las situaciones de aprendizaje significativas son las vinculadas a la vida real que parten del nivel de desarrollo del alumnado, sus intereses y conocimientos previos, no solo las que alcanzan estándares curriculares."
+    },
+    {
+      "question": "¿Qué obra y autor se cita en el tema como referencia para el desarrollo evolutivo del lenguaje?",
+      "options": [
+        "Jiménez, J. (2010). Adquisición y desarrollo del lenguaje. En Psicología del desarrollo en la etapa de Educación Infantil",
+        "Monfort, M. y Juárez, S. (1997). El niño que habla. El lenguaje oral en preescolar",
+        "Prado, J. (2004). Didáctica de la lengua y la literatura para educar en el siglo XXI",
+        "Cassany, D., Luna, M. y Sanz, G. (1994). Enseñar Lengua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para el desarrollo evolutivo del lenguaje se cita a Jiménez (2010) en su capítulo dentro de 'Psicología del desarrollo en la etapa de Educación Infantil'. Monfort y Juárez (1997) definen el lenguaje; Prado (2004) es referencia de didáctica."
+    },
+    {
+      "question": "¿Qué obra y autor definen el lenguaje como el principal medio de comunicación y representación del ser humano?",
+      "options": [
+        "Monfort y Juárez (1991) en 'El niño que habla'",
+        "Cassany et al. (1994) en 'Enseñar Lengua'",
+        "Jiménez (2010) en 'Adquisición y desarrollo del lenguaje'",
+        "García y Medina (1998) en sus trabajos sobre componentes del lenguaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Monfort y Juárez (1991) en 'El niño que habla' definen el lenguaje como el principal medio de comunicación y representación del ser humano. Cassany et al. desarrollan las funciones y microhabilidades."
+    },
+    {
+      "question": "Según el tema, el Plan General de Atención a la Diversidad del centro orienta:",
+      "options": [
+        "Las medidas educativas a desarrollar, tanto ordinarias como extraordinarias, según las conclusiones del informe psicopedagógico",
+        "El protocolo de detección temprana de alteraciones del lenguaje en el aula",
+        "Los criterios de derivación del tutor al Departamento de Orientación",
+        "El calendario de evaluaciones psicopedagógicas del alumnado con necesidades específicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Plan General de Atención a la Diversidad orienta las medidas educativas tanto ordinarias como extraordinarias que se deben desarrollar según las conclusiones del informe psicopedagógico."
+    },
+    {
+      "question": "Las actividades de comprensión oral basadas en 'escucha dirigida', según Cassany et al. (1994), incluyen:",
+      "options": [
+        "Escuchar un mensaje oral y dibujar lo que dice o escoger entre opciones a qué se refiere el discurso",
+        "Repetir palabras y frases malditas para reforzar la retención auditiva y la memoria",
+        "Escuchar un texto y transformar la información en cuadros, esquemas o diagramas",
+        "Jugar al teléfono estropeado para desarrollar la atención y la comprensión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades de escucha dirigida incluyen escuchar un mensaje y dibujar lo que dice o escoger entre opciones. Los juegos mnemotécnicos incluyen repetición y el teléfono estropeado; la transferencia de información implica transformar a esquemas."
+    },
+    {
+      "question": "En el tema se señala que, desde una perspectiva integradora, se otorga importancia especialmente a:",
+      "options": [
+        "Las primeras interacciones del niño con la familia como influencia del entorno",
+        "La capacidad biológica innata para adquirir reglas gramaticales universales",
+        "Los refuerzos positivos que proporciona el adulto ante las emisiones lingüísticas",
+        "El desarrollo de la inteligencia mediante la interacción con el entorno físico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La perspectiva integradora considera al sujeto como protagonista del acto comunicativo y otorga especial importancia a la influencia del entorno, especialmente a las primeras interacciones del niño con la familia."
+    },
+    {
+      "question": "Las técnicas específicas para el desarrollo de la expresión oral mencionadas en el tema son:",
+      "options": [
+        "La conversación, la discusión o debate, el coloquio, la exposición, la descripción y narración, y la recitación",
+        "El juego de roles, la improvisación, la dramatización y el teatro de aula",
+        "Los debates, las conferencias, las asambleas, las mesas redondas y los discursos",
+        "Las entrevistas, la radio, las tertulias, los cuentacuentos y los recitados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las técnicas específicas para la expresión oral son la conversación, la discusión o debate, el coloquio, la exposición, la descripción y narración, y la recitación. Las demás opciones corresponden a tipologías de actividades de Vázquez (2010)."
+    },
+    {
+      "question": "Según el tema, ¿cuántos tipos de trastornos de la comunicación clasifica el DSM-V?",
+      "options": [
+        "Cinco categorías",
+        "Tres categorías",
+        "Cuatro categorías",
+        "Seis categorías"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El DSM-V clasifica los trastornos de la comunicación en cinco categorías: trastorno del lenguaje, trastorno fonológico, trastorno de la fluidez de inicio de la infancia, trastorno de la comunicación social, y trastornos de la comunicación no especificados."
+    },
+    {
+      "question": "El trastorno de la fluidez de inicio de la infancia en el DSM-V se corresponde con lo que popularmente se conoce como:",
+      "options": [
+        "La tartamudez o disfemia",
+        "La dislexia o dificultad lectora",
+        "El mutismo selectivo",
+        "La ecolalia o repetición involuntaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El trastorno de la fluidez de inicio de la infancia en el DSM-V corresponde a la tartamudez o disfemia, que afecta al ritmo del lenguaje mediante repeticiones o bloqueos."
+    },
+    {
+      "question": "¿Cuál de los siguientes principios pedagógicos del artículo 16 del Decreto 155/2022 se menciona en relación con la comunicación oral?",
+      "options": [
+        "La inclusión educativa y la atención personalizada a las necesidades de aprendizaje para la prevención de dificultades",
+        "La utilización de recursos TIC como herramienta principal del aprendizaje lingüístico",
+        "La evaluación continua y formativa como eje de la intervención educativa en el área",
+        "La organización del tiempo escolar en sesiones cortas para mejorar la atención del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 del Decreto 155/2022 señala la inclusión educativa y la atención personalizada a las necesidades de aprendizaje para la prevención de dificultades como principios pedagógicos relevantes para la comunicación oral."
+    },
+    {
+      "question": "El Objetivo de Desarrollo Sostenible (ODS) de la Agenda 2030 se menciona en el tema como:",
+      "options": [
+        "Un referente junto con el DUA al diseñar situaciones de aprendizaje para la comunicación oral",
+        "Un marco legislativo que orienta las orientaciones metodológicas del Decreto 155/2022",
+        "Un criterio de evaluación para valorar la competencia comunicativa del alumnado",
+        "Una herramienta de planificación curricular para las áreas de LCL y LGL"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los ODS de la Agenda 2030 se mencionan en la conclusión junto con el DUA como referentes a considerar al diseñar situaciones de aprendizaje para la comunicación oral. No son marco legislativo ni criterio de evaluación."
+    },
+    {
+      "question": "El 'lenguaje consolidado o constituido' se caracteriza por el desarrollo del habla socializada con:",
+      "options": [
+        "Intención comunicativa real",
+        "Expansión gramatical y adquisición de los recursos fundamentales de la lengua",
+        "El uso de una sola palabra para representar toda una frase",
+        "La producción de frases de dos palabras con primeros esbozos sintácticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El lenguaje consolidado o constituido (6-12 años) se caracteriza por el desarrollo del habla socializada con intención comunicativa real. La expansión gramatical corresponde a la etapa de Educación Infantil (3-6 años)."
+    },
+    {
+      "question": "¿Qué papel específico otorga el tema a las situaciones de aprendizaje para la comunicación oral?",
+      "options": [
+        "Deben integrar las microhabilidades de comprensión y expresión, el control de los elementos no verbales y la detección temprana de posibles alteraciones",
+        "Deben centrarse en la corrección gramatical y la pronunciación para garantizar la corrección lingüística",
+        "Deben adaptarse exclusivamente a los objetivos de área del currículo de LCL y LGL",
+        "Deben fomentar el uso del gallego como lengua vehicular en todas las áreas del currículo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las situaciones de aprendizaje deben integrar las microhabilidades de comprensión y expresión, el control de los elementos no verbales y la detección temprana de posibles alteraciones, siempre en un clima de aula agradable para la comunicación."
+    },
+    {
+      "question": "En la etapa telegráfica, además de las minifrases de dos palabras, el tema menciona que se produce:",
+      "options": [
+        "Un aumento del vocabulario",
+        "La consolidación de la lectoescritura",
+        "La capacidad de comprender y elaborar hipótesis",
+        "La expansión gramatical con recursos fundamentales de la lengua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa telegráfica (18-24 meses), además de las minifrases de dos palabras, se produce un aumento del vocabulario. La lectoescritura se consolida a los 7-8 años; las hipótesis a partir de los 12 años; y la expansión gramatical en la etapa de Educación Infantil."
+    },
+    {
+      "question": "Las técnicas específicas de expresión oral requieren, según el tema:",
+      "options": [
+        "Una ejercitación sistemática",
+        "Una motivación extrínseca basada en recompensas y refuerzo positivo",
+        "El dominio previo de las habilidades de comprensión oral",
+        "Una planificación exhaustiva del discurso en todos los casos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que las técnicas específicas de expresión oral requieren una ejercitación sistemática. La planificación exhaustiva se menciona solo para la exposición, no para todas las técnicas."
+    },
+    {
+      "question": "¿Qué aspectos se mencionan como dimensiones de la kinestesia en el texto?",
+      "options": [
+        "Los gestos, la postura corporal y la expresión facial",
+        "La entonación, el volumen, las pausas y el énfasis del discurso",
+        "La puntualidad, los turnos de palabra y la duración de la interacción",
+        "La distancia interpersonal y el uso del espacio físico durante la comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La kinestesia incluye los gestos, la postura corporal y la expresión facial como formas de comunicación no verbal. La entonación y volumen son paralingüísticos; la puntualidad y turnos son cronémicos; y la distancia espacial es proxémica."
+    },
+    {
+      "question": "Poyatos (1994) clasifica la comunicación oral como apoyada en:",
+      "options": [
+        "Códigos verbales lingüísticos, verbales no lingüísticos o paralenguaje, y no verbales",
+        "Códigos fonéticos, semánticos y pragmáticos del sistema lingüístico",
+        "Códigos orales, escritos y audiovisuales de la comunicación humana",
+        "Códigos kinésicos, proxémicos y cronémicos de la comunicación no verbal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Poyatos (1994) clasifica los códigos de la comunicación oral en verbales lingüísticos, verbales no lingüísticos o paralenguaje, y no verbales. Los demás son clasificaciones parciales o distintas."
+    },
+    {
+      "question": "En el tema se destaca que el lenguaje debe desarrollarse en las aulas como vehículo para:",
+      "options": [
+        "Perfeccionar el pensamiento y facilitar el proceso de enseñanza-aprendizaje",
+        "Adquirir el vocabulario específico de cada área curricular",
+        "Desarrollar la conciencia metalingüística del alumnado",
+        "Favorecer la integración social del alumnado en el grupo clase"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que es importante desarrollar el lenguaje en las aulas como vehículo para perfeccionar el pensamiento y facilitar el proceso de enseñanza-aprendizaje."
+    },
+    {
+      "question": "¿Qué autor desarrolla la clasificación de actividades de expresión oral en tipologías que se cita en el tema?",
+      "options": [
+        "Vázquez (2010)",
+        "Cassany et al. (1994)",
+        "Gianni Rodari (1973)",
+        "García y Medina (1998)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vázquez (2010) en el CEP de Huelva desarrolla la clasificación de actividades de expresión oral en tipologías: literatura, juegos lingüísticos, juego dramático, recursos materiales, comunicación formal y géneros periodísticos."
+    },
+    {
+      "question": "¿Qué microhabilidad de comprensión oral consiste en retener ideas a corto o largo plazo?",
+      "options": [
+        "Retener",
+        "Inferir",
+        "Seleccionar",
+        "Interpretar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La microhabilidad 'retener' consiste en mantener ideas del discurso en la memoria a corto o largo plazo. 'Inferir' extrae información implícita; 'seleccionar' identifica palabras relevantes; e 'interpretar' comprende el contenido."
+    },
+    {
+      "question": "¿Qué microhabilidad de comprensión oral consiste en comprender el contenido del discurso y el vocabulario?",
+      "options": [
+        "Interpretar",
+        "Anticipar",
+        "Reconocer",
+        "Retener"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La microhabilidad 'interpretar' consiste en comprender el contenido del discurso y el vocabulario. 'Anticipar' es pensar qué decir antes de responder; 'reconocer' identifica fonemas y entonación; 'retener' conserva ideas."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el coloquio es correcta según el tema?",
+      "options": [
+        "Permite al docente participar como un asistente más durante el desarrollo",
+        "No requiere tiempo previo de preparación sobre el tema tratado",
+        "Se diferencia del debate por la ausencia de un moderador asignado",
+        "Está orientado exclusivamente a la exposición de trabajos o investigaciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el coloquio el docente puede participar como un asistente más, a diferencia del debate. El coloquio sí exige un tiempo previo de preparación y designa un ponente y un moderador."
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre la etapa prelingüística y la etapa lingüística en el desarrollo del lenguaje?",
+      "options": [
+        "La etapa prelingüística se caracteriza por sonidos no comunicativos como balbuceo, mientras que la lingüística implica el uso intencionado de palabras",
+        "La etapa prelingüística abarca de los 6 a los 12 meses, mientras que la lingüística comienza a los 18 meses",
+        "La etapa prelingüística ya incluye comprensión de instrucciones sencillas, mientras que la lingüística añade la expresión",
+        "La etapa prelingüística es exclusiva de niños con desarrollo típico, mientras que la lingüística incluye a todos los niños"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa prelingüística (0-12 meses) se caracteriza por sonidos no comunicativos como balbuceo, laleo y ecolalia. La etapa lingüística (1-6 años) implica el uso intencionado de palabras con función comunicativa creciente."
+    },
+    {
+      "question": "¿Qué componente del lenguaje experimenta un gran aumento durante la Educación Primaria según García y Medina (1998) y Jiménez (2010)?",
+      "options": [
+        "La semántica, en cuanto al crecimiento del vocabulario",
+        "La fonología, mediante la adquisición de nuevos fonemas",
+        "La pragmática, por la mayor adecuación contextual del lenguaje",
+        "La sintaxis, con el dominio de estructuras oracionales más complejas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que la semántica, especialmente el crecimiento del vocabulario, experimenta un gran aumento durante la Educación Primaria. Los demás componentes también se desarrollan pero no se destaca su gran aumento específicamente en la EP."
+    },
+    {
+      "question": "¿Con qué normativa se vinculan en el tema las estrategias de 'hablar, escuchar, leer, comprender y escribir'?",
+      "options": [
+        "El Decreto 155/2022, que organiza el currículo de las áreas de LCL y LGL alrededor de estas estrategias",
+        "La LOMLOE en su artículo 19 sobre los principios pedagógicos de la Educación Primaria",
+        "La Orden de 8 de septiembre de 2021 sobre atención a la diversidad lingüística",
+        "El Real Decreto 157/2022 que establece las enseñanzas mínimas de la Educación Primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 organiza el currículo de LCL y LGL alrededor de las estrategias de hablar, escuchar, leer, comprender y escribir. La LOMLOE establece la transversalidad de la expresión oral; el Real Decreto fija las enseñanzas mínimas."
+    },
+    {
+      "question": "¿Cuántas microhabilidades de comprensión oral menciona el tema a partir de Cassany et al. (1994)?",
+      "options": [
+        "Seis: reconocer, seleccionar, interpretar, anticipar, inferir y retener",
+        "Cuatro: reconocer, seleccionar, interpretar y retener",
+        "Cinco: escuchar, reconocer, seleccionar, interpretar e inferir",
+        "Siete: escuchar, reconocer, seleccionar, interpretar, anticipar, inferir y retener"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona seis microhabilidades de comprensión oral de Cassany et al. (1994): reconocer, seleccionar, interpretar, anticipar, inferir y retener."
+    },
+    {
+      "question": "¿Cuántas microhabilidades de expresión oral menciona el tema a partir de Cassany et al. (1994)?",
+      "options": [
+        "Seis: planificación, uso de vocabulario adecuado, control de entonación/fluidez/pronunciación, respeto del turno, reformulación, coherencia y emotividad",
+        "Cuatro: planificación, vocabulario, entonación y coherencia",
+        "Cinco: planificación, fluidez, pronunciación, reformulación y coherencia",
+        "Tres: planificación, vocabulario adecuado y control de la entonación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona seis microhabilidades principales de expresión oral: planificación, uso de vocabulario adecuado, control de entonación/fluidez/pronunciación, respeto del turno de palabra, reformulación del mensaje, y coherencia y emotividad del discurso."
+    },
+    {
+      "question": "Según el tema, ¿qué ocurre con el lenguaje a los 7-8 años en términos de aprendizaje?",
+      "options": [
+        "La consolidación de la lectoescritura favorece el aprendizaje significativo e interiorizar el lenguaje",
+        "El niño pasa de la enumeración a la descripción con uso más limitado de pronombres",
+        "El niño desarrolla la capacidad de comprender y elaborar hipótesis verbalmente",
+        "Se origina un lenguaje socializador que favorece el razonamiento y la interiorización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A los 7-8 años, la consolidación de la lectoescritura favorece el aprendizaje significativo e interiorizar el lenguaje. El paso a la descripción ocurre a los 9 años; las hipótesis a partir de los 12; y el lenguaje socializador en la etapa de Educación Infantil (3-6 años)."
+    },
+    {
+      "question": "La ecolalia se menciona en el tema tanto en la etapa prelingüística como en las alteraciones del lenguaje. En la etapa prelingüística se refiere a:",
+      "options": [
+        "Sonidos emitidos por el niño como juegos vocálicos dentro del desarrollo normal",
+        "La repetición involuntaria de palabras como trastorno del lenguaje",
+        "La negativa a hablar en determinadas situaciones o con ciertas personas",
+        "Las dificultades para pronunciar fonemas sin daño neurológico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa prelingüística, la ecolalia es un sonido normal del desarrollo, parte de los juegos vocálicos. Como alteración del lenguaje, la ecolalia consiste en la repetición involuntaria de palabras, que puede ser sintomática de trastornos como el autismo."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el trastorno del lenguaje y el trastorno fonológico en el DSM-V según el tema?",
+      "options": [
+        "El trastorno del lenguaje afecta al sistema lingüístico en su conjunto, mientras que el fonológico se centra en los sonidos del habla",
+        "El trastorno del lenguaje solo afecta a la comprensión y el fonológico solo a la expresión oral",
+        "El trastorno del lenguaje es más grave que el fonológico y requiere intervención especializada",
+        "El trastorno del lenguaje es de origen neurológico, mientras que el fonológico es de causa ambiental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema lista ambos trastornos del DSM-V por separado: el trastorno del lenguaje afecta al sistema lingüístico globalmente, mientras que el trastorno fonológico se centra específicamente en la producción de los sonidos del habla."
+    },
+    {
+      "question": "En la conclusión del tema, se señala que el lenguaje constituye el eje vertebrador de:",
+      "options": [
+        "Toda la actividad escolar y la herramienta para establecer relaciones comunicativas y acceder al aprendizaje",
+        "El desarrollo personal y social del alumnado durante la etapa de Educación Primaria",
+        "Las competencias clave establecidas en el currículo de la Educación Primaria",
+        "Las estrategias metodológicas activas y participativas en todas las áreas curriculares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión señala que el lenguaje constituye el eje vertebrador de toda la actividad escolar y es la herramienta para establecer relaciones comunicativas y acceder al aprendizaje."
+    },
+    {
+      "question": "¿Qué aspecto del contexto social actual destaca el tema en la conclusión como relevante para la enseñanza del lenguaje?",
+      "options": [
+        "La realidad pluricultural y plurilingüe donde el gallego como lengua propia tiene un papel esencial",
+        "La sociedad digital y conectada que requiere nuevas formas de comunicación mediada",
+        "La globalización y la necesidad de comunicarse en idiomas internacionales de amplio uso",
+        "El incremento de la diversidad lingüística por la llegada de alumnado extranjero"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión destaca que vivimos en una realidad pluricultural y plurilingüe donde el gallego como lengua propia tiene un papel esencial en la escuela y en la sociedad."
+    },
+    {
+      "question": "¿Cómo define Jiménez (2010) el papel del lenguaje en el contexto comunicativo?",
+      "options": [
+        "Como instrumento de comunicación interpersonal y de representación",
+        "Como principal medio de comunicación y representación a través de un sistema de signos",
+        "Como forma, función y uso de un sistema convencional de símbolos regido por reglas",
+        "Como capacidad biológica innata para adquirir reglas gramaticales universales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jiménez (2010) destaca el papel del lenguaje como instrumento de comunicación interpersonal y de representación. La segunda opción corresponde a Monfort y Juárez (1991); la tercera al DSM-V; y la cuarta a Chomsky."
+    },
+    {
+      "question": "El trastorno de la comunicación social en el DSM-V se refiere a:",
+      "options": [
+        "Dificultades en el uso pragmático del lenguaje en contextos sociales",
+        "Problemas en la producción de sonidos del habla sin causa neurológica",
+        "Alteraciones del ritmo del habla por repeticiones o bloqueos",
+        "Dificultades generales en la comprensión y expresión del lenguaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El trastorno de la comunicación social afecta al uso pragmático del lenguaje en contextos sociales. El trastorno fonológico afecta a los sonidos; el trastorno de la fluidez al ritmo; y el trastorno del lenguaje a la comprensión y expresión generales."
+    },
+    {
+      "question": "¿Qué aspectos específicos del lenguaje oral menciona el tema como elementos a trabajar y perfeccionar en la descripción oral?",
+      "options": [
+        "Que sea real, completa, clara y precisa",
+        "Que siga un orden cronológico y jerárquico con una idea central",
+        "Que combine vocabulario descriptivo con elementos narrativos",
+        "Que utilice recursos paralingüísticos para apoyar el mensaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para la descripción oral, el tema indica que el objetivo es que sea real, completa, clara y precisa, partiendo de elementos observables. El orden cronológico y jerárquico corresponde a la narración."
+    },
+    {
+      "question": "En relación con la narración oral, ¿qué técnica específica de Rodari menciona el tema que consiste en dar vida a objetos inanimados contando una historia?",
+      "options": [
+        "Dar vida a objetos inanimados contando una historia sobre ellos",
+        "El binomio fantástico que une dos conceptos sin relación aparente",
+        "El cambio del final de un cuento conocido para desarrollar la creatividad",
+        "El uso de palabras mágicas que transforman personajes en la narración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona tres técnicas de Rodari: el binomio fantástico, dar vida a objetos inanimados y cambiar el final de un cuento conocido. 'Dar vida a objetos' es una técnica diferente al binomio fantástico."
+    },
+    {
+      "question": "¿Qué ocurre en la etapa de lenguaje consolidado cuando el niño pasa de los 9 a los 12 años?",
+      "options": [
+        "El niño pasa de la enumeración a la descripción con uso más limitado de pronombres personales y posesivos, avanzando hacia la capacidad de elaborar hipótesis",
+        "El niño consolida la lectoescritura y comienza el aprendizaje de la lengua extranjera",
+        "El niño desarrolla el habla socializada con intención comunicativa real y el lenguaje escrito",
+        "El niño expande la gramática y adquiere los recursos fundamentales de la lengua formal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "De los 9 a los 12 años, el niño pasa de la enumeración a la descripción con uso más limitado de pronombres, y a partir de los 12 ya elabora hipótesis verbalmente. La lectoescritura se consolida antes (7-8 años)."
+    },
+    {
+      "question": "¿Cuántas categorías de alteraciones del lenguaje distingue el tema?",
+      "options": [
+        "Cuatro: alteraciones del habla o lenguaje oral, alteraciones en la adquisición del lenguaje, alteraciones del lenguaje escrito, y otros (mutismo selectivo y ecolalia)",
+        "Tres: alteraciones articulatorias, alteraciones de fluencia y alteraciones del lenguaje escrito",
+        "Cinco: articulación, fluidez, voz, adquisición del lenguaje y lenguaje escrito",
+        "Dos: alteraciones del lenguaje oral y alteraciones del lenguaje escrito"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema distingue cuatro grupos: alteraciones del habla o del lenguaje oral (articulación, fluidez, voz), alteraciones en la adquisición del lenguaje (disfasias, afasias, retraso simple), alteraciones del lenguaje escrito (dislexia, disgrafía, disortografía), y mutismo selectivo y ecolalia."
+    },
+    {
+      "question": "¿Cuál de los siguientes trastornos del DSM-V se vincula específicamente con el mutismo selectivo según la clasificación del tema?",
+      "options": [
+        "El trastorno de la comunicación social (pragmática)",
+        "El trastorno del lenguaje",
+        "Los trastornos de la comunicación no especificados",
+        "El trastorno fonológico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El mutismo selectivo está más vinculado al trastorno de la comunicación social (pragmática), que afecta al uso contextual del lenguaje. El trastorno del lenguaje afecta a la comprensión y expresión; el fonológico a los sonidos."
+    },
+    {
+      "question": "El tema señala que la intervención del especialista en AL es una medida de intervención ante las alteraciones lingüísticas. ¿A qué tipo de medida corresponde?",
+      "options": [
+        "Una medida ordinaria o extraordinaria en función de la intensidad de la necesidad",
+        "Una medida exclusivamente ordinaria que no requiere evaluación psicopedagógica",
+        "Una medida exclusivamente extraordinaria que siempre requiere adaptación curricular significativa",
+        "Una medida de carácter puntual que se aplica únicamente en casos de retraso de lenguaje simple"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La atención por el especialista en AL puede ser ordinaria o extraordinaria según la intensidad de la necesidad educativa detectada en el informe psicopedagógico."
+    },
+    {
+      "question": "¿Cuál de los siguientes enunciados refleja correctamente la distinción entre disfonía y afonía según el tema?",
+      "options": [
+        "La disfonía afecta a la calidad de la voz (intensidad, tono, timbre) y la afonía es la pérdida total de la voz",
+        "La disfonía es la pérdida total de la voz y la afonía afecta a la calidad de la voz",
+        "La disfonía afecta al ritmo del habla y la afonía a la calidad tonal de la voz",
+        "La disfonía es de origen neurológico y la afonía se debe a lesiones físicas de los órganos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La disfonía afecta a la calidad de la voz en intensidad, tono o timbre, mientras que la afonía es la pérdida total de la voz. No deben confundirse entre sí ni con las disartrias (origen neurológico)."
+    },
+    {
+      "question": "El tema señala que el objetivo de las áreas de LCL y LGL es proporcionar habilidades que permitan al alumnado comunicarse con eficacia y responder a los retos de:",
+      "options": [
+        "La sociedad del siglo XXI",
+        "La sociedad de la información y el conocimiento",
+        "La sociedad plurilingüe y multicultural de Galicia",
+        "La sociedad globalizada y digitalizada del siglo XXI"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece que las estrategias de hablar, escuchar, leer, comprender y escribir proporcionan las habilidades para comunicarse con eficacia y responder a los retos de la sociedad del siglo XXI."
+    },
+    {
+      "question": "¿Cuál es la distinción principal entre la 'escucha dirigida' y la 'transferencia de información' como tipos de actividades de comprensión oral según Cassany et al. (1994)?",
+      "options": [
+        "La escucha dirigida implica responder mediante dibujos u opciones, mientras que la transferencia convierte la información a otro formato como esquemas",
+        "La escucha dirigida usa grabaciones de audio, mientras que la transferencia usa textos escritos como fuente",
+        "La escucha dirigida desarrolla la retención auditiva, mientras que la transferencia trabaja la inferencia",
+        "La escucha dirigida es más adecuada para ciclos iniciales y la transferencia para ciclos superiores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La escucha dirigida implica responder mediante dibujos o escoger entre opciones; la transferencia de información convierte lo escuchado en otro formato (cuadros, esquemas, diagramas). La distinción es el tipo de respuesta producida."
+    },
+    {
+      "question": "¿Por qué razón el tema señala que la corrección de errores durante la conversación no debe interrumpir la fluidez del diálogo?",
+      "options": [
+        "Porque el objetivo es garantizar la participación de todos y fomentar la expresión espontánea sin inhibiciones",
+        "Porque la corrección gramatical debe dejarse para la evaluación final y no durante la actividad",
+        "Porque los errores en la conversación espontánea no son relevantes para el aprendizaje lingüístico",
+        "Porque el alumno aprende mejor de la autocorrección que de la corrección externa del docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La corrección no debe interrumpir la fluidez porque el objetivo es garantizar la participación de todos y fomentar la expresión sin inhibiciones, respetando el flujo natural del diálogo."
+    },
+    {
+      "question": "Según el tema, ¿cuál es el papel del docente en el desarrollo del lenguaje no verbal?",
+      "options": [
+        "Introducir la enseñanza del lenguaje no verbal incidiendo en el control postural, la seguridad, el contacto visual, la gestualidad y el movimiento",
+        "Modelar las conductas no verbales adecuadas mediante el ejemplo durante todas las clases",
+        "Evaluar el uso del lenguaje no verbal del alumnado mediante rúbricas de observación directa",
+        "Diseñar actividades específicas de expresión corporal para desarrollar la kinestesia comunicativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El papel del docente es introducir la enseñanza del lenguaje no verbal incidiendo en el control postural, la seguridad en el discurso, el contacto visual, la gestualidad y el movimiento por el espacio."
+    },
+    {
+      "question": "¿Cuál es la diferencia específica entre las dislalias y las disartrias en cuanto a su origen?",
+      "options": [
+        "Las dislalias no tienen daño neurológico, mientras que las disartrias se deben a lesiones neurológicas que afectan el control muscular",
+        "Las dislalias se deben a malformaciones orgánicas, mientras que las disartrias son de causa funcional",
+        "Las dislalias afectan al tono de voz y las disartrias a la articulación de los fonemas",
+        "Las dislalias afectan a la fluidez del habla y las disartrias a la calidad de la voz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las dislalias son dificultades para pronunciar fonemas sin daño neurológico, mientras que las disartrias son problemas de expresión verbal causados por alteraciones en el control muscular del habla por lesiones neurológicas."
+    },
+    {
+      "question": "¿Qué concepto del tema hace referencia a que el conocimiento lingüístico debe construirse a partir de los intereses del alumnado?",
+      "options": [
+        "Las situaciones de aprendizaje significativas vinculadas a la vida real partiendo de los intereses del alumnado",
+        "El aprendizaje por proyectos como metodología activa centrada en el alumnado",
+        "El principio de globalización e interdisciplinariedad del currículo de Educación Primaria",
+        "La metodología comunicativa basada en la interacción real en contextos auténticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las situaciones de aprendizaje significativas deben vincularse a la vida real y partir de los intereses, el nivel de desarrollo y los conocimientos previos del alumnado."
+    },
+    {
+      "question": "El tema hace referencia al artículo 7 del Decreto 155/2022. ¿Qué contiene este artículo?",
+      "options": [
+        "Los objetivos de etapa de la Educación Primaria",
+        "Las orientaciones metodológicas para las áreas del currículo",
+        "La finalidad de la Educación Primaria",
+        "Los principios pedagógicos de la etapa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 7 del Decreto 155/2022 recoge los objetivos de etapa de la EP, incluyendo el objetivo 'e' sobre el conocimiento y uso apropiado de las lenguas cooficiales. El artículo 4 establece la finalidad; el artículo 6 las orientaciones metodológicas; y el artículo 16 los principios pedagógicos."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un ejemplo de juegos mnemotécnicos para la comprensión oral según Cassany et al. (1994)?",
+      "options": [
+        "Escuchar un texto y transformarlo en un diagrama",
+        "Repetición de palabras",
+        "Adivinanzas y fábulas",
+        "El teléfono estropeado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transformar un texto escuchado en un diagrama es una actividad de transferencia de información, no un juego mnemotécnico. Los juegos mnemotécnicos incluyen la repetición de palabras, las adivinanzas, las fábulas y el teléfono estropeado."
+    },
+    {
+      "question": "¿Qué afirman las tendencias actuales respecto a la visión del sujeto en el desarrollo del lenguaje?",
+      "options": [
+        "Se concibe al sujeto como protagonista del acto comunicativo otorgando importancia a la influencia del entorno",
+        "Se concibe al sujeto como receptor pasivo de estímulos lingüísticos provenientes del entorno",
+        "Se concibe al sujeto como portador de una gramática universal innata independiente del entorno",
+        "Se concibe al sujeto como constructor autónomo del lenguaje mediante la interacción con objetos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tendencias actuales conciben al sujeto como protagonista del acto comunicativo y otorgan importancia a la influencia del entorno, especialmente a las primeras interacciones con la familia."
+    },
+    {
+      "question": "La recitación en el aula puede incluir, según el tema:",
+      "options": [
+        "Poemas, mitos, trabalenguas, leyendas o chistes",
+        "Debates, conferencias, asambleas y mesas redondas",
+        "Obras de teatro, cuentacuentos y juegos de roles",
+        "Entrevistas, tertulias y géneros periodísticos orales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La recitación puede incluir poemas, mitos, trabalenguas, leyendas o chistes. Los debates, conferencias y asambleas son comunicación formal; el teatro y cuentacuentos son actividades literarias; y las entrevistas y tertulias son géneros periodísticos."
+    },
+    {
+      "question": "¿Cuál es la referencia exacta de la obra de Prado (2004) citada en la bibliografía del tema?",
+      "options": [
+        "Didáctica de la lengua y la literatura para educar en el siglo XXI",
+        "Enseñar Lengua",
+        "El niño que habla. El lenguaje oral en preescolar",
+        "La gramática de la fantasía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La obra de Prado (2004) citada es 'Didáctica de la lengua y la literatura para educar en el siglo XXI'. 'Enseñar Lengua' es de Cassany et al.; 'El niño que habla' de Monfort y Juárez; y 'La gramática de la fantasía' de Rodari."
+    },
+    {
+      "question": "Según el tema, ¿qué documento del DSM-V es citado como referencia en la introducción?",
+      "options": [
+        "Manual diagnóstico y estadístico de los trastornos mentales DSM-5 (5ª edición, 2014)",
+        "Guía de intervención clínica en trastornos del neurodesarrollo infantil (2019)",
+        "Manual de diagnóstico diferencial de los trastornos del habla y el lenguaje (2010)",
+        "Clasificación internacional de las enfermedades y trastornos relacionados con el lenguaje (2022)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema cita la American Psychiatric Association (2014), Manual diagnóstico y estadístico de los trastornos mentales DSM-5 (5ª ed.), como referencia legislativa para los trastornos de la comunicación."
+    },
+    {
+      "question": "¿Qué elemento del aula señala el tema como esencial para generar un clima que invite al acto comunicativo?",
+      "options": [
+        "Un clima de aula confortable generado a través de recursos y materiales variados y auténticos",
+        "La disposición del mobiliario en círculo para favorecer la comunicación cara a cara",
+        "La reducción del número de alumnos por aula para facilitar la participación individual",
+        "El uso de materiales tecnológicos que estimulen la motivación hacia el lenguaje oral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que los recursos y materiales utilizados deben ser variados y auténticos, generando un clima de aula confortable que invite al acto comunicativo."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre las actividades de expresión oral 'basadas en juegos lingüísticos' y las 'basadas en recursos materiales' según Vázquez (2010)?",
+      "options": [
+        "Los juegos lingüísticos usan enigmas y juegos de palabras, mientras que los basados en materiales utilizan sonidos, imágenes, vídeos u objetos",
+        "Los juegos lingüísticos son más adecuados para ciclos iniciales y los materiales para ciclos superiores",
+        "Los juegos lingüísticos trabajan la comprensión oral y los materiales la expresión oral",
+        "Los juegos lingüísticos son individuales y los basados en materiales son siempre grupales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los juegos lingüísticos usan enigmas o juegos de palabras como '¿Quién es quién?', mientras que las basadas en recursos materiales utilizan sonidos, imágenes, vídeos, objetos o historias como punto de partida."
+    },
+    {
+      "question": "¿Qué señala el tema como característica específica del enfoque metodológico para la comunicación oral en relación con los recursos?",
+      "options": [
+        "Los recursos y materiales utilizados deben ser variados y auténticos",
+        "Los recursos deben ser principalmente digitales para preparar al alumnado para la sociedad del siglo XXI",
+        "Los recursos deben seleccionarse únicamente de fuentes bibliográficas de reconocido prestigio",
+        "Los recursos deben adaptarse exclusivamente al nivel lingüístico del alumnado con más dificultades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala específicamente que los recursos y materiales deben ser variados y auténticos para generar un clima de aula que invite al acto comunicativo."
+    },
+    {
+      "question": "La evaluación inicial mencionada en el tema sirve para:",
+      "options": [
+        "Que el tutor detecte las alteraciones del lenguaje al comienzo del curso mediante la observación",
+        "Que el jefe del DO elabore la evaluación psicopedagógica del alumnado derivado",
+        "Que el especialista en AL realice un diagnóstico fonológico de cada alumno",
+        "Que el equipo docente establezca los grupos de refuerzo para el área de Lengua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación inicial la realiza el tutor al comienzo del curso como herramienta para detectar posibles alteraciones del lenguaje, junto con la observación en el aula. Posteriormente puede derivar el caso al DO."
+    },
+    {
+      "question": "El tema menciona que la conversación espontánea es aquella en la que:",
+      "options": [
+        "Es el alumno quien elige el tema de la conversación",
+        "El docente dirige la conversación hacia objetivos lingüísticos específicos",
+        "Se combinan la iniciativa del alumno y la orientación del docente",
+        "El docente y el alumno alternan el papel de hablante y oyente sin restricciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conversación espontánea es aquella en la que el alumno elige el tema. La formalizada es dirigida por el docente; y la mixta combina ambas modalidades."
+    },
+    {
+      "question": "¿Qué señala el tema sobre el papel de los recursos rítmicos y plásticos ante las alteraciones lingüísticas?",
+      "options": [
+        "Son medidas de intervención como canciones, poesías, trabalenguas o retahílas para apoyar el desarrollo lingüístico",
+        "Son herramientas de evaluación que permiten detectar alteraciones articulatorias y de fluencia",
+        "Son actividades de refuerzo exclusivas del especialista en AL para trabajar la articulación",
+        "Son estrategias de motivación extrínseca para alumnos con retraso de lenguaje simple"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala el uso de recursos rítmicos y plásticos como medidas de intervención ante las alteraciones lingüísticas, incluyendo canciones, poesías, trabalenguas y retahílas como herramientas de apoyo lingüístico."
+    },
+    {
+      "question": "La intervención educativa en la comunicación oral debe fundamentarse en las orientaciones metodológicas que define el artículo 6 del Decreto 155/2022. ¿Con qué finalidad se diseñan esas orientaciones?",
+      "options": [
+        "Posibilitar el aprendizaje del alumnado que le permita el logro de los objetivos y la adquisición de las CC",
+        "Garantizar la correcta implementación del currículo de LCL y LGL en todos los centros",
+        "Proporcionar al profesorado estrategias específicas para la enseñanza de la lengua oral",
+        "Orientar la selección de materiales curriculares adecuados al nivel del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las orientaciones metodológicas como indicaciones para orientar al profesorado con la finalidad de posibilitar el aprendizaje del alumnado que le permita el logro de los objetivos y la adquisición de las CC."
+    },
+    {
+      "question": "¿Con cuál de las siguientes opciones se puede vincular la técnica de 'cambiar el final a un cuento conocido' de Rodari (1973)?",
+      "options": [
+        "Con el desarrollo de la creatividad narrativa y la expresión oral en la narración",
+        "Con la comprensión de la estructura narrativa canónica de los cuentos populares",
+        "Con el análisis crítico de los elementos formales de los géneros literarios orales",
+        "Con la memorización y recitación de textos literarios de tradición oral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cambiar el final de un cuento conocido es una técnica de Rodari orientada a desarrollar la creatividad narrativa y la expresión oral en la narración, dentro del marco lúdico de la Gramática de la fantasía."
+    },
+    {
+      "question": "¿Cuáles son los autores que hacen referencia a los componentes del lenguaje humano que se citan en el tema?",
+      "options": [
+        "García y Medina (1998) y Jiménez (2010)",
+        "Cassany et al. (1994) y Vygotski",
+        "Monfort y Juárez (1991) y Piaget",
+        "Chomsky y Skinner"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los componentes del lenguaje humano (fonético, fonología, semántica, morfosintaxis y pragmática) son descritos en el tema citando a García y Medina (1998) y Jiménez (2010)."
+    },
+    {
+      "question": "¿Qué diferencia el trastorno del lenguaje del trastorno de la fluidez de inicio de la infancia en el DSM-V?",
+      "options": [
+        "El trastorno del lenguaje afecta a la comprensión y expresión lingüística, mientras que el de fluidez afecta específicamente al ritmo y continuidad del habla",
+        "El trastorno del lenguaje es más leve que el de fluidez y requiere menos intervención especializada",
+        "El trastorno del lenguaje se detecta antes de los 3 años y el de fluidez solo aparece a partir de los 6",
+        "El trastorno del lenguaje solo afecta a la expresión oral y el de fluidez solo a la comprensión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El trastorno del lenguaje afecta a la comprensión y/o expresión lingüística en general, mientras que el trastorno de la fluidez de inicio de la infancia (tartamudez) afecta específicamente al ritmo y la continuidad del habla."
+    },
+    {
+      "question": "El tema describe que la adquisición del lenguaje es 'un proceso de asociación, repetición e imitación del habla de la comunidad social'. ¿A qué ámbito de las teorías lingüísticas se acerca más esta descripción?",
+      "options": [
+        "A la teoría conductista de Skinner, que destaca la imitación y el refuerzo",
+        "A la teoría innatista de Chomsky, que enfatiza la capacidad biológica innata",
+        "A la teoría cognitiva de Piaget, que destaca la asimilación y la acomodación",
+        "A la teoría interaccionista de Vygotski, que subraya el origen social del lenguaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La descripción del lenguaje como proceso de asociación, repetición e imitación se acerca a la teoría conductista de Skinner, que explica el lenguaje mediante conexiones estímulo-respuesta y refuerzo positivo."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos es propio de la microhabilidad de 'planificación' en la expresión oral según Cassany et al. (1994)?",
+      "options": [
+        "La planificación de la estructura del mensaje antes de hablar",
+        "El control de la entonación, la fluidez y la pronunciación durante el habla",
+        "La reformulación del mensaje cuando el interlocutor no comprende",
+        "El uso de un vocabulario adecuado al contexto comunicativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La microhabilidad de 'planificación' en la expresión oral consiste en planificar la estructura del mensaje antes de hablar. El control de entonación/fluidez es otra microhabilidad; la reformulación es otra; y el vocabulario adecuado es también una microhabilidad separada."
+    },
+    {
+      "question": "En el contexto del tema, ¿qué se entiende por 'aprendizaje significativo' en relación con la consolidación de la lectoescritura a los 7-8 años?",
+      "options": [
+        "El aprendizaje que vincula los nuevos conocimientos lingüísticos con los ya adquiridos, facilitado por la lectoescritura",
+        "El aprendizaje basado en la resolución de problemas reales vinculados al entorno del alumno",
+        "El aprendizaje que resulta de la interacción social del niño con sus compañeros en el aula",
+        "El aprendizaje derivado del refuerzo positivo del adulto ante los logros lingüísticos del niño"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el contexto del tema, el aprendizaje significativo facilitado por la consolidación de la lectoescritura a los 7-8 años hace referencia al aprendizaje que vincula los nuevos conocimientos con los ya adquiridos, favoreciendo la interiorización del lenguaje."
+    },
+    {
+      "question": "¿En qué etapa del desarrollo del lenguaje aparece el 'lenguaje socializador' según el tema?",
+      "options": [
+        "En la etapa de Educación Infantil (3-6 años)",
+        "En la etapa telegráfica (18-24 meses)",
+        "En la etapa de lenguaje consolidado (6-12 años)",
+        "En la etapa de la frase simple (2-3 años)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El lenguaje socializador aparece en la etapa de Educación Infantil (3-6 años), cuando se origina junto con la expansión gramatical y la adquisición de los recursos fundamentales de la lengua."
+    },
+    {
+      "question": "¿Qué orientación se da en el tema para el trabajo de la narración oral en relación con la idea central?",
+      "options": [
+        "Los hechos deben organizarse siempre en torno a una idea central",
+        "La narración debe comenzar siempre con la presentación de los personajes principales",
+        "El narrador debe seguir un orden estrictamente cronológico sin modificaciones",
+        "La narración debe incluir elementos descriptivos para enriquecer la representación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la narración oral, el tema indica que los hechos deben organizarse bajo criterios cronológicos y jerárquicos, siempre en torno a una idea central."
+    }
+  ]
+}

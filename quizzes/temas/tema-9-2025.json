@@ -1,0 +1,2230 @@
+{
+  "title": "Tema 9. El entorno y su conservación",
+  "description": "Relaciones entre los elementos de los ecosistemas, factores de deterioro y regeneración, capacidad de los seres humanos para actuar sobre la naturaleza e intervención educativa.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Cómo define el Glosario Ambiental de la ONG VITALIS el concepto de 'conservación'?",
+      "options": [
+        "El uso racional y sostenible de los recursos naturales para prevenir su explotación, polución, destrucción y asegurar su futuro",
+        "La preservación estricta de los recursos naturales prohibiendo cualquier intervención humana",
+        "El conjunto de medidas legislativas internacionales para proteger el patrimonio natural",
+        "La gestión de los recursos naturales mediante tecnologías renovables y sostenibles"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Glosario Ambiental de la ONG VITALIS define la conservación como el uso racional y sostenible de los recursos naturales para prevenir su explotación, polución, destrucción y asegurar su futuro. No implica prohibir todo uso humano, sino hacerlo de manera sostenible."
+    },
+    {
+      "question": "¿Quién formuló la Teoría General de los Sistemas y en qué época?",
+      "options": [
+        "Arthur Tansley, en 1935",
+        "Gérard de Vecchi, en 1988",
+        "Carlos Osorio, a principios del siglo XXI",
+        "Ludwig Von Bertalanffy, en la segunda mitad del siglo XX"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ludwig Von Bertalanffy formuló la Teoría General de los Sistemas en la segunda mitad del siglo XX. Esta teoría justifica la necesidad de estudiar el medio ambiente de manera global e integrada, relacionando todos sus componentes."
+    },
+    {
+      "question": "¿En qué año y organismo se definió por primera vez el concepto de 'Desarrollo Sostenible' y con qué nombre se denominó dicha comisión?",
+      "options": [
+        "ONU (1980), en la Comisión sobre Recursos Naturales",
+        "UNESCO (1971), en la Red Mundial de Reservas de la Biosfera",
+        "ONU (1983), en la Comisión Mundial sobre Medio Ambiente y su Desarrollo, bajo el nombre de Comisión Brundtland",
+        "ONU (1992), en la Cumbre de la Tierra de Río de Janeiro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Desarrollo Sostenible se definió por primera vez por la ONU en 1983, en la Comisión Mundial sobre Medio Ambiente y su Desarrollo, conocida como la Comisión Brundtland. La definición establece que es aquel que satisface la necesidad de la generación presente sin comprometer la capacidad de las generaciones futuras."
+    },
+    {
+      "question": "¿En qué corriente conceptual enmarca Carlos Osorio la visión del entorno como 'red de interacciones de la que formamos parte'?",
+      "options": [
+        "Antropocéntrica, centrada en el ser humano como eje del ecosistema",
+        "Biocéntrica, que considera el entorno como red de interacciones",
+        "Ecocéntrica, que prioriza los ecosistemas sobre las especies individuales",
+        "Geosférica, basada en el estudio de los procesos terrestres globales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carlos Osorio plantea la necesidad de pasar de una visión antropocéntrica (entorno como recurso a explotar) a una visión biocéntrica (entorno como red de interacciones de la que formamos parte). Este cambio de perspectiva es fundamental para abordar los problemas ambientales."
+    },
+    {
+      "question": "¿En qué año coordinó la UNESCO la Red Mundial de Reservas de la Biosfera?",
+      "options": [
+        "1965",
+        "1971",
+        "1983",
+        "1992"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La UNESCO coordinó la Red Mundial de Reservas de la Biosfera en 1971. Se trata de una red internacional de territorios reconocidos por su valor natural y cultural, formada para conciliar la conservación de la biodiversidad con el desarrollo sostenible."
+    },
+    {
+      "question": "¿Cuáles son los tres tipos principales de entorno según el texto, con sus definiciones correspondientes?",
+      "options": [
+        "Físico (componentes materiales), biótico (seres vivos) y antrópico (intervención humana)",
+        "Natural (componentes físicos, químicos y biológicos), social (interacciones humanas) y cultural (rasgos, valores y estilos de vida)",
+        "Terrestre (ecosistemas del suelo), acuático (ecosistemas del agua) y atmosférico (aire y clima)",
+        "Urbano (ciudades), rural (campos) y natural (zonas no intervenidas)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los tres tipos de entorno son: el natural (formado por los componentes físicos, químicos y biológicos externos donde interactúan los seres vivos), el social (donde los individuos se desarrollan y realizan sus interacciones) y el cultural (conjunto de rasgos, valores y estilos de vida que caracterizan a una sociedad)."
+    },
+    {
+      "question": "¿Cómo define el texto el 'medio ambiente', diferenciándolo del concepto de 'medio'?",
+      "options": [
+        "El medio ambiente es el conjunto de ecosistemas; el medio es el espacio donde viven los seres vivos",
+        "El medio es el escenario donde se desarrollan las ciencias; el medio ambiente es un sistema global formado por el ser humano, la flora, la fauna, el suelo, el agua, el aire, el clima, el paisaje y sus interacciones",
+        "Ambos conceptos son sinónimos que describen el entorno de los organismos",
+        "El medio ambiente incluye solo los factores abióticos; el medio incluye también los factores bióticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto distingue entre 'medio' (escenario donde se desarrollan las ciencias, conjunto de elementos y procesos del entorno) y 'medio ambiente' (sistema global formado por el ser humano, la flora, la fauna, el suelo, el agua, el aire, el clima y el paisaje, así como las interacciones entre estos factores y los bienes materiales y culturales)."
+    },
+    {
+      "question": "¿Quién definió el ecosistema como 'sistema dinámico formado por una comunidad natural de seres vivos y su ambiente físico' y en qué año?",
+      "options": [
+        "Escolástico et al., en 2012",
+        "Ludwig Von Bertalanffy, en 1950",
+        "Arthur Tansley, en 1935",
+        "Gérard de Vecchi, en 1988"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Arthur Tansley definió el ecosistema en 1935 como un sistema dinámico formado por una comunidad natural de seres vivos y su ambiente físico, en el que existen interacciones vitales entre sus componentes, fluye la energía y circula la materia."
+    },
+    {
+      "question": "¿Cuál es la diferencia correcta entre 'hábitat' y 'nicho ecológico' según el texto?",
+      "options": [
+        "El hábitat describe el papel del organismo en el ecosistema; el nicho ecológico es el espacio físico donde vive",
+        "El hábitat es el espacio físico concreto del ecosistema donde vive un organismo; el nicho ecológico es el papel o función que desempeña en su ecosistema",
+        "Son conceptos equivalentes que describen la relación de un organismo con su entorno",
+        "El hábitat incluye las relaciones interespecíficas; el nicho ecológico solo comprende las relaciones con el medio físico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El hábitat es el espacio físico concreto del ecosistema donde vive un organismo, mientras que el nicho ecológico es el papel o función que desempeña ese ser vivo dentro de su ecosistema (por ejemplo, su papel como presa o depredador, su actividad temporal o su relación con otras especies)."
+    },
+    {
+      "question": "¿Cómo fluye la energía en los ecosistemas y cuál es la fuente principal?",
+      "options": [
+        "Bidireccionalmente, desde los descomponedores hacia los productores; la fuente principal es la materia orgánica",
+        "En ciclos cerrados a través de todos los niveles tróficos; la fuente principal son los minerales del suelo",
+        "Unidireccionalmente, desde el sol hasta los productores y descomponedores",
+        "De forma multidireccional entre todos los componentes bióticos y abióticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El flujo de energía discurre unidireccionalmente por la cadena alimentaria, desde el sol hasta los productores y descomponedores. La fuente de energía principal de todos los ecosistemas es el sol."
+    },
+    {
+      "question": "¿Cuáles son las relaciones de cooperación intraespecíficas (entre individuos de la misma especie) mencionadas en el texto?",
+      "options": [
+        "Mutualismo, simbiosis, comensalismo y parasitismo",
+        "Familiares (leones), gregarias (bandadas/manadas), estatales (abejas/hormigas) y coloniales (corales)",
+        "Depredación, competencia, necrofagia y explotación",
+        "Herbívoras, carnívoras, omnívoras y detritívoras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las relaciones intraespecíficas favorables son: familiares (como en los leones), gregarias (bandadas de aves o manadas de lobos), estatales (abejas u hormigas) y coloniales (corales). Las relaciones intraespecíficas perjudiciales son las de competencia por los recursos."
+    },
+    {
+      "question": "¿Cómo se denomina la relación interespecífica en la que un organismo se beneficia mientras el otro ni se beneficia ni se perjudica?",
+      "options": [
+        "Mutualismo",
+        "Simbiosis",
+        "Comensalismo",
+        "Parasitismo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El comensalismo es una relación interespecífica favorable en la que un organismo se beneficia sin causar daño ni beneficio al otro. El mutualismo implica beneficio mutuo, la simbiosis es una asociación íntima beneficiosa, y el parasitismo perjudica al huésped."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la sucesión ecológica primaria y la secundaria?",
+      "options": [
+        "La primaria ocurre en zonas modificadas por incendios o inundaciones; la secundaria ocurre en zonas sin comunidad biológica previa",
+        "La primaria se desarrolla en una zona carente de comunidad previa; la secundaria tiene lugar sobre una zona modificada por un incendio, inundación o enfermedad",
+        "La primaria es más rápida que la secundaria porque parte de cero",
+        "La primaria implica sustitución total de la comunidad; la secundaria implica sustitución parcial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La sucesión ecológica primaria se desarrolla en una zona carente de comunidad biológica previa (ej. una roca o lava volcánica), mientras que la secundaria tiene lugar sobre una zona cuya comunidad previa fue modificada o destruida por factores como incendios, inundaciones o enfermedades."
+    },
+    {
+      "question": "¿Qué indica el 'principio de concurrencia' en los ecosistemas?",
+      "options": [
+        "Que los organismos de distintas especies compiten por los mismos recursos en el mismo hábitat",
+        "Que los ciclos de la materia y el flujo de energía ocurren simultáneamente en el ecosistema",
+        "Que varios factores del ecosistema actúan al mismo tiempo sobre los seres vivos, influyendo conjuntamente en su desarrollo",
+        "Que la sucesión primaria y secundaria pueden darse simultáneamente en distintas zonas del mismo ecosistema"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El principio de concurrencia establece que varios factores del ecosistema actúan al mismo tiempo sobre los seres vivos, influyendo conjuntamente en su desarrollo y supervivencia. Es un principio de funcionamiento global del ecosistema."
+    },
+    {
+      "question": "¿Qué procesos realizan los productores primarios autótrofos para producir materia orgánica?",
+      "options": [
+        "Respiración celular aerobia y fermentación",
+        "Fotosíntesis o quimiosíntesis",
+        "Descomposición de materia orgánica en inorgánica",
+        "Digestión enzimática de compuestos inorgánicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los productores primarios o autótrofos (como plantas o algas) producen materia orgánica a partir de materia inorgánica mediante fotosíntesis (usando luz solar) o quimiosíntesis (usando energía química). Son la base de las cadenas alimentarias."
+    },
+    {
+      "question": "¿Cuáles son los tres niveles tróficos principales en una cadena alimentaria?",
+      "options": [
+        "Autótrofos, heterótrofos primarios y heterótrofos secundarios",
+        "Plantas, animales herbívoros y animales carnívoros",
+        "Productores primarios o autótrofos, consumidores o heterótrofos, y descomponedores",
+        "Depredadores, presas y saprofitos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los tres niveles tróficos son: productores primarios o autótrofos (plantas, algas), consumidores o heterótrofos (primarios/herbívoros, secundarios/carnívoros, terciarios/superdepredadores) y descomponedores (bacterias, hongos), que transforman la materia orgánica en inorgánica."
+    },
+    {
+      "question": "¿Cuáles son los ejemplos de ecosistemas artificiales mencionados en el texto?",
+      "options": [
+        "Desiertos, sabanas y tundras",
+        "Océanos, mares y arrecifes de coral",
+        "Urbanos, agrícolas y de presa o embalse",
+        "Manantiales, lagos y ríos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los ecosistemas artificiales son los creados por el ser humano: urbanos, agrícolas y de presa o embalse. Los ecosistemas naturales se subdividen en terrestres (desiertos, sabanas, selvas, bosques, tundras) y acuáticos (océanos, mares, manantiales, arrecifes, lagos, ríos)."
+    },
+    {
+      "question": "¿Cuál es la 'ley de las 3R' que el texto indica que debe enseñarse al alumnado?",
+      "options": [
+        "Reducir, reutilizar y reciclar",
+        "Recuperar, renovar y reciclar",
+        "Reducir, recuperar y reciclar",
+        "Reparar, reutilizar y reducir"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto menciona específicamente la 'ley de las 3R: reducir, recuperar, reciclar' como principio fundamental de consumo responsable que debe enseñarse al alumnado. Esta distinción es importante: el texto dice 'recuperar', no 'reutilizar'."
+    },
+    {
+      "question": "¿Cómo define Gérard de Vecchi (1988) la 'contaminación'?",
+      "options": [
+        "La presencia de residuos industriales en el agua y el suelo que degradan los ecosistemas",
+        "La presencia de sustancias o energía en el medio que provocan alteraciones en su equilibrio natural, estructura y funcionamiento",
+        "La alteración de los ecosistemas causada exclusivamente por la actividad industrial humana",
+        "El conjunto de vertidos nocivos que degradan la capa de ozono y generan calentamiento global"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gérard de Vecchi (1988) define la contaminación como la presencia de sustancias o energía en el medio que provocan alteraciones en su equilibrio natural, en su estructura y su funcionamiento. Esta definición incluye tanto sustancias físicas como energía (ej. contaminación sónica o térmica)."
+    },
+    {
+      "question": "Según el Glosario Ambiental de ONG VITALIS (2023), ¿qué tipos de contaminación se distinguen según el agente contaminante?",
+      "options": [
+        "Atmosférica, acuática, del suelo y de seres vivos",
+        "Industrial, agrícola, doméstica y natural",
+        "Radioactiva, química y orgánica",
+        "Física, biológica, química y electromagnética"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el Glosario Ambiental de ONG VITALIS, la clasificación por agente contaminante incluye: radioactiva (originada por residuos o materiales nucleares), química (por vertidos químicos nocivos al agua o al aire) y orgánica (por sustancias que tardan en degradarse). La clasificación según el medio contaminado incluye atmosférica, acuática, del suelo y de seres vivos."
+    },
+    {
+      "question": "¿Por qué la 'introducción de organismos ajenos al ecosistema' degrada los ecosistemas según el texto?",
+      "options": [
+        "Porque compiten por el espacio vital con las especies nativas reduciendo sus poblaciones",
+        "Porque traen enfermedades a las que las especies nativas no tienen inmunidad",
+        "Porque pueden desencadenar plagas al carecer de depredadores naturales, desequilibrando las redes tróficas",
+        "Porque modifican las condiciones abióticas del ecosistema haciéndolo inhabitable para las especies locales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La introducción de organismos ajenos puede desencadenar plagas cuando las especies introducidas carecen de depredadores naturales en el nuevo ecosistema, lo que desequilibra las redes tróficas. Este es el mecanismo específico señalado en el texto."
+    },
+    {
+      "question": "¿Cuáles son los cinco factores de deterioro destacados por Escolástico et al. (2013)?",
+      "options": [
+        "Contaminación atmosférica, contaminación acuática, deforestación, calentamiento global y pérdida de biodiversidad",
+        "Erosión/desertización, deforestación, escasez/contaminación del agua, contaminación del aire, cambios climáticos, pérdida de biodiversidad y gestión inadecuada de residuos",
+        "Agricultura intensiva, ganadería extensiva, minería, urbanización y tala de bosques",
+        "Residuos plásticos, combustibles fósiles, pesticidas, vertidos industriales y emisiones de CO2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Escolástico et al. (2013) destaca estos factores de deterioro: erosión y desertización del suelo, deforestación, escasez y contaminación del agua, contaminación del aire, cambios climáticos, pérdida de diversidad biológica y gestión inadecuada de residuos. Aunque el texto menciona más de cinco, estos son los destacados."
+    },
+    {
+      "question": "¿Qué medidas de conservación y regeneración menciona el texto para la gestión del agua?",
+      "options": [
+        "Solo la reducción del consumo doméstico y la reutilización de aguas grises",
+        "La depuración y el almacenamiento en embalses",
+        "La construcción de infraestructuras de riego eficiente",
+        "La eliminación de pesticidas y la protección de acuíferos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona específicamente que la gestión sostenible del agua se realiza a través de su depuración y almacenamiento en embalses. Estas son las medidas concretas citadas para la conservación del recurso hídrico."
+    },
+    {
+      "question": "¿Cuándo comenzaron las primeras alteraciones del medio ambiente por parte del ser humano?",
+      "options": [
+        "Con el desarrollo de las primeras civilizaciones en la Edad Antigua",
+        "Con la Revolución Industrial del siglo XIX y el consumo masivo de combustibles fósiles",
+        "Con el inicio de las actividades agrícolas y ganaderas y el uso del fuego",
+        "Con la colonización de nuevos continentes y la expansión comercial del siglo XVI"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto describe que en un primer momento los humanos convivían con la naturaleza sin alterar el medioambiente. Las primeras alteraciones surgieron con el inicio de las actividades agrícolas y ganaderas y el fuego. Posteriormente, la Revolución Industrial del siglo XIX disparó el impacto a gran escala."
+    },
+    {
+      "question": "¿Cuáles son las cinco acciones humanas que degradan los ecosistemas identificadas en el texto?",
+      "options": [
+        "Agricultura extensiva, ganadería trashumante, pesca artesanal, minería y construcción de carreteras",
+        "Agricultura y ganadería intensivas, obtención de energía y materias primas, vertido de residuos, destrucción directa de ecosistemas naturales e introducción de organismos ajenos",
+        "Deforestación, contaminación industrial, urbanización, sobrepesca y tráfico de especies",
+        "Uso de plaguicidas, emisiones de CO2, construcción de presas, caza furtiva y tráfico marítimo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto identifica cinco acciones principales: (1) agricultura y ganadería intensivas, (2) obtención de energía y materias primas (petróleo, gas, carbón, minería), (3) vertido de residuos, (4) destrucción directa de ecosistemas naturales, y (5) introducción de organismos ajenos al ecosistema."
+    },
+    {
+      "question": "¿En qué año se firmó el Protocolo de Kioto?",
+      "options": [
+        "1992",
+        "1995",
+        "1997",
+        "2000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Protocolo de Kioto se firmó en 1997. Es uno de los convenios internacionales citados en el texto para la protección del medioambiente. No debe confundirse con el Convenio de Viena (1985) ni con el Protocolo de Montreal (1987)."
+    },
+    {
+      "question": "¿En qué año se firmó el Protocolo de Montreal y cuál es su distinción respecto al Convenio de Viena?",
+      "options": [
+        "El Protocolo de Montreal es de 1985 y el Convenio de Viena de 1987",
+        "El Protocolo de Montreal es de 1987 y el Convenio de Viena es de 1985",
+        "Ambos son de 1987, pero uno es de ámbito europeo y el otro mundial",
+        "El Convenio de Viena es de 1992 y el Protocolo de Montreal de 1987"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Convenio de Viena es de 1985 y el Protocolo de Montreal es de 1987. Ambos están relacionados con la protección de la capa de ozono. Es importante distinguirlos cronológicamente: Viena (1985) estableció el marco, Montreal (1987) concretó las medidas."
+    },
+    {
+      "question": "¿Cuándo se aprobó el Convenio sobre la Diversidad Biológica?",
+      "options": [
+        "1987",
+        "1990",
+        "1992",
+        "1997"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Convenio sobre la Diversidad Biológica se aprobó en 1992. Es uno de los tratados internacionales fundamentales para la protección del medioambiente. El Protocolo de Cartagena, derivado de este convenio, se firmó en el año 2000."
+    },
+    {
+      "question": "¿Cuándo se creó el Pacto Verde Europeo y cuál es su objetivo temporal final?",
+      "options": [
+        "2015, con el objetivo de reducir un 50% las emisiones para 2035",
+        "2019, con el fin de que Europa sea climáticamente neutra en 2050",
+        "2020, con el objetivo de lograr energías 100% renovables para 2045",
+        "2021, para reducir el 55% de las emisiones de CO2 para 2040"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Pacto Verde Europeo se creó en 2019 con el objetivo final de que Europa sea climáticamente neutra en 2050. Incluye un conjunto de iniciativas para la sostenibilidad y el cuidado del medio ambiente."
+    },
+    {
+      "question": "¿En qué año se publicó el Libro Blanco de la Educación Ambiental y cuáles son sus principios?",
+      "options": [
+        "1992, y sus principios son la conservación, la participación y la interdisciplinariedad",
+        "1995, y sus principios son la educación crítica, el pensamiento sistémico y la acción comunitaria",
+        "1999, y sus principios son la educación para la sostenibilidad, la participación activa, el pensamiento crítico, la interdisciplinariedad y el aprendizaje a lo largo de la vida",
+        "2001, y sus principios son la innovación, la tecnología educativa y la evaluación ambiental"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Libro Blanco de la Educación Ambiental se formuló en 1999 a nivel nacional. Sus principios son: educación para la sostenibilidad, participación activa, pensamiento crítico y reflexivo, la interdisciplinariedad y el aprendizaje a lo largo de toda la vida."
+    },
+    {
+      "question": "¿En qué año y por qué organismo se propusieron los 17 ODS en el marco de la Agenda 2030?",
+      "options": [
+        "2013, por la UNESCO",
+        "2015, por la ONU",
+        "2017, por la Unión Europea",
+        "2019, por el G20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los 17 Objetivos de Desarrollo Sostenible (ODS) fueron propuestos por la ONU en 2015 en el marco de la Agenda 2030. La introducción del texto menciona que en 2025 la ONU aprobó la Agenda 2030, aunque el año correcto de aprobación es 2015."
+    },
+    {
+      "question": "¿Cuáles son los ODS relacionados con el Tema 9 mencionados en la sección de políticas ambientales?",
+      "options": [
+        "ODS1, ODS4, ODS10 y ODS17",
+        "ODS4, ODS6, ODS7, ODS13, ODS14 y ODS15",
+        "ODS3, ODS8, ODS11 y ODS12",
+        "ODS5, ODS9, ODS13 y ODS16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la sección de políticas ambientales, el texto menciona estos ODS: ODS4 'Educación de Calidad', ODS6 'Agua limpia y saneamiento', ODS7 'Energía Asequible y No Contaminante', ODS13 'Acción por el clima', ODS14 'Vida submarina' y ODS15 'Vida de ecosistemas terrestres'."
+    },
+    {
+      "question": "¿En qué artículo y principio de la LOMLOE se recoge la 'educación para la transición ecológica con criterios de justicia social'?",
+      "options": [
+        "Artículo 7, principio h)",
+        "Artículo 6, principio m)",
+        "Artículo 1, principio r)",
+        "Artículo 12, principio c)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 1 de la LOMLOE recoge como principio 'r' la 'educación para la transición ecológica, con criterios de justicia social, como contribución a la sostenibilidad ambiental, social y económica'. Este principio es fundamental para entender el marco legislativo del tema."
+    },
+    {
+      "question": "¿En qué bloque del área de CCNN del Decreto 155/2022 se ubican los contenidos del Tema 9?",
+      "options": [
+        "Bloque 1 'El ser humano y la salud'",
+        "Bloque 2 'La vida en nuestro planeta'",
+        "Bloque 3 'Los materiales y la energía'",
+        "Bloque 4 'La Tierra y el universo'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los contenidos del Tema 9 se ubican en el Bloque 2 'La vida en nuestro planeta' del área de CCNN del Decreto 155/2022, al integrar las relaciones de los seres vivos con el entorno y el cuidado de la biodiversidad."
+    },
+    {
+      "question": "¿En qué bloque del área de CCSS del Decreto 155/2022 se incluyen los contenidos del Tema 9?",
+      "options": [
+        "Bloque 1 'Las personas y las sociedades'",
+        "Bloque 2 'El mundo y el desarrollo sostenible'",
+        "Bloque 3 'España, Europa y el mundo'",
+        "Bloque 4 'El patrimonio cultural y artístico'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el área de CCSS, los contenidos del Tema 9 se ubican en el Bloque 2 'El mundo y el desarrollo sostenible', que aborda los hábitos de vida sostenible y las interacciones entre la actividad humana y el medio."
+    },
+    {
+      "question": "¿Cuáles son los objetivos de etapa del artículo 7 del Decreto 155/2022 más relacionados con el Tema 9?",
+      "options": [
+        "Objetivos a) y b), relacionados con el lenguaje y la comunicación",
+        "Objetivos h) y l), sobre ciencias de la naturaleza y valoración de los animales",
+        "Objetivos e) y j), sobre matemáticas y educación física",
+        "Objetivos c) y f), sobre ciudadanía y habilidades sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos de etapa más vinculados son el h) 'Conocer los aspectos fundamentales de las ciencias de la naturaleza, las ciencias sociales, la geografía, la historia y la cultura' y el l) 'Conocer y valorar a los animales más próximos al ser humano y adoptar modos de comportamiento que favorezcan la empatía y su cuidado'."
+    },
+    {
+      "question": "¿Cuál es el OBJ3 del área de CCNN del Decreto 155/2022?",
+      "options": [
+        "Identificar las causas y consecuencias de la intervención humana en el entorno para promover estilos de vida sostenibles",
+        "Identificar y analizar los elementos del medio natural para comprender su valor, conservarlos, mejorarlos y promover un uso responsable",
+        "Aplicar el pensamiento científico para formular hipótesis y verificarlas mediante experimentación",
+        "Conocer y valorar los seres vivos y adoptar comportamientos que favorezcan la empatía y su cuidado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ3 del área de CCNN es 'Identificar y analizar los elementos del medio natural para comprender su valor, conservarlos, mejorarlos y promover un uso responsable'. El OBJ4 complementa esto identificando causas y consecuencias de la intervención humana."
+    },
+    {
+      "question": "¿Hacia qué se orienta el criterio de evaluación del tercer ciclo en el Bloque 2 'La vida en nuestro planeta'?",
+      "options": [
+        "Reconocer las características y propiedades de los elementos del medio mediante metodologías de indagación",
+        "Conocer y proteger el medio natural mostrando respeto y proponiendo acciones de conservación",
+        "Desarrollar propuestas y acciones que reflejen compromisos y conductas para la sostenibilidad y proteger el medio natural",
+        "Introducir los conceptos básicos de ecosistema y cadena trófica de forma descriptiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el tercer ciclo, los criterios de evaluación se orientan hacia el desarrollo de propuestas y acciones que reflejen compromisos y conductas para la sostenibilidad y proteger el medio natural. El primer ciclo trabaja el reconocimiento; el segundo ciclo, la protección con respeto; el tercer ciclo avanza hacia el compromiso activo."
+    },
+    {
+      "question": "¿Cuál de las siguientes competencias clave se trabaja con el Tema 9 a través del uso responsable y sostenible de herramientas digitales?",
+      "options": [
+        "CCL (Competencia en Comunicación Lingüística)",
+        "STEM (Competencia en Ciencia, Tecnología, Ingeniería y Matemáticas)",
+        "CD (Competencia Digital)",
+        "CPSAA (Competencia Personal, Social y de Aprender a Aprender)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La CD (Competencia Digital) se trabaja con el uso responsable y sostenible de herramientas digitales. La STEM se trabaja participando en acciones científicas; la CPSAA fomentando la autonomía investigadora; la CCL mediante el lenguaje para exponer medidas ambientales."
+    },
+    {
+      "question": "¿Cómo contribuye el Tema 9 a la competencia CC (Competencia Ciudadana)?",
+      "options": [
+        "Mediante el uso del lenguaje para exponer medidas ambientales o comprender textos científicos",
+        "Al comprender las relaciones entre las acciones humanas y el entorno, adoptando estilos de vida sostenibles",
+        "Fomentando la autonomía investigadora y la toma de conciencia del propio impacto en el entorno",
+        "Al valorar el paisaje y la diversidad como parte del patrimonio cultural y natural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CC (Competencia Ciudadana) se desarrolla al comprender las relaciones entre las acciones humanas y el entorno, y adoptando estilos de vida sostenibles. La CCL usa el lenguaje, la CPSAA fomenta la autonomía, y la CCEC valora el paisaje como patrimonio."
+    },
+    {
+      "question": "¿Con qué área curricular se relaciona la Educación Medioambiental al 'recoger, organizar y analizar datos del entorno' según el texto?",
+      "options": [
+        "Lengua Castellana y Literatura (LCL)",
+        "Educación Física",
+        "Matemáticas",
+        "Educación en Valores Cívicos y Éticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto señala que la Educación Medioambiental se relaciona con Matemáticas en la recogida, organización y análisis de datos del entorno. Con LCL se trabaja el vocabulario específico, con Educación Física la movilidad sostenible, y con Valores Cívicos la responsabilidad individual y colectiva."
+    },
+    {
+      "question": "¿Cuáles son los principios pedagógicos del artículo 16 del Decreto 155/2022 que deben guiar la metodología en CCNN?",
+      "options": [
+        "Activa, competitiva, inclusiva y reflexiva",
+        "Activa, comunicativa, inclusiva y participativa",
+        "Activa, digital, colaborativa y evaluativa",
+        "Activa, crítica, interdisciplinar y globalizadora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 en su Anexo II establece que la metodología debe ser activa, comunicativa, inclusiva y participativa, dirigida a la adquisición de las competencias clave y los objetivos curriculares."
+    },
+    {
+      "question": "¿Qué autores del texto defienden el 'aprendizaje-servicio' y el 'aprendizaje basado en proyectos' como metodologías de impacto comunitario real?",
+      "options": [
+        "Meira (2013) y Carlos Osorio",
+        "Ausubel y Piaget",
+        "Rose y Meyer (2002)",
+        "Nuñez (2019)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Nuñez (2019) destaca la importancia del aprendizaje-servicio y el aprendizaje basado en proyectos como metodologías de impacto comunitario real. Rose y Meyer (2002) propusieron el DUA; Ausubel y Piaget fundamentan el aprendizaje significativo y la construcción del conocimiento."
+    },
+    {
+      "question": "¿Quién propuso el Diseño Universal para el Aprendizaje (DUA) y en qué año?",
+      "options": [
+        "Ausubel y Piaget, en los años 60 y 70",
+        "Meira y Nuñez, en 2013 y 2019 respectivamente",
+        "Rose y Meyer, en 2002",
+        "Escolástico et al., en 2012-2013"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rose y Meyer propusieron el Diseño Universal para el Aprendizaje (DUA) en 2002. Este modelo ofrece múltiples formas de representación, de expresión y de implicación para eliminar las barreras al aprendizaje y atender a la diversidad del alumnado."
+    },
+    {
+      "question": "¿Cuáles son las 'tres formas' del DUA (Diseño Universal para el Aprendizaje) propuesto por Rose y Meyer?",
+      "options": [
+        "Múltiples formas de evaluación, de comunicación y de cooperación",
+        "Múltiples formas de representación, de expresión y de implicación",
+        "Múltiples formas de aprendizaje, de enseñanza y de evaluación",
+        "Múltiples formas de motivación, de cognición y de metacognición"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El DUA propone ofrecer múltiples formas de representación (cómo se presenta la información), de expresión (cómo el alumnado demuestra lo aprendido) y de implicación (cómo se motiva al alumnado). Este marco es esencial para la atención a la diversidad."
+    },
+    {
+      "question": "¿Qué tipos de recursos didácticos 'no estructurados' menciona el texto para trabajar el Tema 9?",
+      "options": [
+        "Fichas didácticas, libros de texto, pósters y juegos de mesa",
+        "Elementos naturales (piedras, plantas, agua o arena), materiales reciclados y tierra o compost",
+        "Vídeos educativos, simulaciones digitales e infografías interactivas",
+        "Maquetas de ecosistemas, láminas de fauna y flora, y atlas de geografía"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los recursos didácticos no estructurados son aquellos no diseñados con fines educativos: elementos naturales (piedras, plantas, agua, arena), materiales reciclados (botellas, cartón, papel usado) y tierra o compost para experimentar con plantas. Los estructurados son fichas, libros, pósters y juegos de mesa."
+    },
+    {
+      "question": "¿Cuáles son las aplicaciones TIC específicas mencionadas en el texto para crear murales interactivos o infografías?",
+      "options": [
+        "Kahoot y Quizizz",
+        "Gliffy y Easel",
+        "Genially y Educaplay",
+        "Google Slides y Canva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona gliffy y easel específicamente para crear murales interactivos o infografías sobre acciones para disminuir la contaminación. Quizizz, Kahoot y Educaplay se mencionan para actividades interactivas, y Genially también para actividades interactivas."
+    },
+    {
+      "question": "¿Qué actividades específicas recomienda Nuñez (2019) para trabajar el entorno y su conservación?",
+      "options": [
+        "Debates en clase, búsquedas en internet y exposiciones orales",
+        "Salidas de campo y tareas de experimentación científica",
+        "Proyectos de investigación documental y presentaciones digitales",
+        "Juegos de rol sobre ecosistemas y simulaciones virtuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nuñez (2019) destaca específicamente las salidas de campo (visitas a fábricas, parques o puntos limpios) y las tareas de experimentación científica (medir la contaminación de un río, el tiempo de descomposición de materiales) como actividades especialmente recomendables."
+    },
+    {
+      "question": "¿Cuáles son las efemérides relacionadas con el medioambiente mencionadas en el texto?",
+      "options": [
+        "Día de los Océanos, Día de los Bosques y Día del Reciclaje",
+        "Día de la Tierra, Día del Medioambiente y Día del Árbol",
+        "Día de los Animales, Día de la Biodiversidad y Día del Agua",
+        "Día de la Energía Renovable, Día del Clima y Día de la Naturaleza"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona tres efemérides para celebrar: el Día de la Tierra, el Día del Medioambiente y el Día del Árbol. Estas fechas especiales permiten trabajar la conciencia ambiental de manera transversal y motivadora."
+    },
+    {
+      "question": "¿Cuál es el programa de la Consellería que promueve proyectos interdisciplinares relacionados con la Educación Ambiental en Galicia?",
+      "options": [
+        "Plan de Lectura y Escritura (PLE)",
+        "Plan Proxecta+",
+        "Plan de Mejora de Centros (PMC)",
+        "Plan de Integración Digital (PID)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Plan Proxecta+ es el programa educativo de la Consellería de Educación de Galicia que promueve proyectos interdisciplinares relacionados con la Educación Ambiental. Incluye proyectos como 'Naturezate', 'Escolas Verde polo Clima', 'Proxectos ríos', entre otros."
+    },
+    {
+      "question": "¿Cuál de los siguientes proyectos del Plan Proxecta+ está específicamente relacionado con la gestión de residuos y el reciclaje?",
+      "options": [
+        "Meteoescolas",
+        "Proxecto terra",
+        "Reciclate con sogama",
+        "O monte vivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El proyecto 'Reciclate con sogama' del Plan Proxecta+ está específicamente relacionado con la gestión de residuos y el reciclaje. 'O monte vivo' trata sobre el monte, 'Meteoescolas' sobre meteorología y 'Proxecto terra' sobre la tierra."
+    },
+    {
+      "question": "¿Cuál de los siguientes proyectos del Plan Proxecta+ está relacionado con los ríos gallegos?",
+      "options": [
+        "Galicon",
+        "Proxectos ríos",
+        "Mestres Gandeiros",
+        "Paisaxe e sustentabilidade"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proyecto 'Proxectos ríos' del Plan Proxecta+ está relacionado con los ríos gallegos. 'Galicon' y 'Mestres Gandeiros' son otros proyectos del mismo plan, y 'Paisaxe e sustentabilidade' se centra en el paisaje."
+    },
+    {
+      "question": "¿Qué revistas de divulgación menciona el texto como recurso para debates y mesas redondas?",
+      "options": [
+        "Muy Interesante y Science Kids",
+        "National Geographic Kids y artículos de periódicos",
+        "Cuadernos de Pedagogía y Aula de Innovación",
+        "Discovery Kids Magazine y Science Weekly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona revistas de divulgación como National Geographic Kids y artículos de periódicos como base para debates, mesas redondas y coloquios. Meira (2013) destaca estas como actividades especiales para reflexionar sobre problemas globales."
+    },
+    {
+      "question": "¿Qué autor y en qué obra destaca la importancia de las mesas redondas y coloquios para reflexionar sobre problemas globales?",
+      "options": [
+        "Nuñez (2019) en 'Educación para el desarrollo sostenible'",
+        "Escolástico et al. (2013) en 'Ecología I'",
+        "Meira (2013) en 'Problemas ambientales globales y educación ambiental'",
+        "Caballero (2011) en 'Enseñar Ciencias Naturales en Educación Primaria'"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Meira (2013) en 'Problemas ambientales globales y educación ambiental' destaca los debates, mesas redondas y coloquios como actividades especiales para reflexionar sobre problemas globales. También resalta que la Educación Ambiental debe transmitir conocimientos que permitan construir una imagen real del entorno."
+    },
+    {
+      "question": "¿Cómo contribuye el Tema 9 a la competencia CCEC (Conciencia y Expresión Culturales)?",
+      "options": [
+        "Mediante el uso responsable y sostenible de herramientas digitales",
+        "Al acceder a documentos y recursos medioambientales en distintas lenguas",
+        "Al valorar el paisaje y la diversidad como parte del patrimonio cultural y natural",
+        "Al comprender las relaciones entre las acciones humanas y el entorno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La competencia CCEC (Conciencia y Expresión Culturales) se desarrolla al valorar el paisaje y la diversidad como parte del patrimonio cultural y natural. La CD implica uso digital sostenible, la CP acceso a documentos en distintas lenguas, y la CC comprensión de las relaciones humano-entorno."
+    },
+    {
+      "question": "¿Qué importancia tiene la 'biblioteca creativa' y el programa PLAMBE en las líneas de actuación del Tema 9?",
+      "options": [
+        "Son recursos exclusivamente digitales para consultar información ambiental en línea",
+        "Son espacios de aprendizaje que promueven hábitos de desarrollo sostenible junto a laboratorios y robótica",
+        "Son programas de evaluación externa para medir los conocimientos medioambientales del alumnado",
+        "Son iniciativas de las familias para complementar la educación ambiental en el hogar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que los contenidos se trabajarán mediante tareas integradas, priorizando una metodología globalizadora e interdisciplinar, ayudándose de programas como PLAMBE y biblioteca creativa, además de espacios de robótica y laboratorios, fundamentales para promover hábitos de desarrollo sostenible."
+    },
+    {
+      "question": "¿Cuál es la relación entre la Educación Ambiental y la Educación en Valores Cívicos y Éticos según el texto?",
+      "options": [
+        "La Educación Ambiental fundamenta los principios de solidaridad, convivencia y responsabilidad colectiva de la Constitución Española",
+        "La Educación en Valores sustituye a la Educación Ambiental en el currículo actual",
+        "Ambas materias se integran en un único bloque temático del Decreto 155/2022",
+        "La Educación Ambiental es una subdisciplina de la Educación en Valores Cívicos y Éticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, Nuñez (2019) resalta la transversalidad del tema con otras áreas, destacando la Educación en Valores Cívicos y Éticos, dado que la Educación Ambiental constituye los principios de solidaridad, convivencia y responsabilidad colectiva recogidos en la Constitución Española de 1978."
+    },
+    {
+      "question": "¿Qué afirma Meira (2013) respecto al papel de la Educación Ambiental en la conclusión del tema?",
+      "options": [
+        "Que la educación ambiental debe centrarse únicamente en los conocimientos teóricos sobre ecosistemas",
+        "Que la Educación Ambiental debe transmitir los conocimientos que permitan al alumnado construir una imagen real del entorno, percibir los problemas y actuar en consecuencia",
+        "Que la educación ambiental es responsabilidad exclusiva de los maestros de ciencias naturales",
+        "Que la educación ambiental solo es efectiva cuando se implementa fuera del aula en entornos naturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la conclusión, el texto cita a Meira (2013) afirmando que la Educación Ambiental debe transmitir los conocimientos que permitan al alumnado construir una imagen real del entorno, con el fin de percibirlo, comprender los problemas ambientales y actuar en consecuencia."
+    },
+    {
+      "question": "¿Qué papel asigna el texto a los maestros en relación con los ODS de la Agenda 2030?",
+      "options": [
+        "Implementar los ODS como contenidos independientes en el área de CCNN",
+        "Evaluar el cumplimiento de los ODS por parte de las familias y la comunidad educativa",
+        "Sembrar la conciencia ecosocial desde los primeros años de escolarización para que las generaciones futuras preserven el planeta",
+        "Seleccionar los ODS más relevantes para su nivel educativo e ignorar los demás"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto concluye que los maestros tienen la responsabilidad y oportunidad única de sembrar la conciencia ecosocial desde los primeros años de escolarización, en coherencia con los ODS de la Agenda 2030, para que las generaciones futuras adquieran sensibilidad, iniciativa y habilidades para preservar el planeta."
+    },
+    {
+      "question": "¿Cuáles son los ecosistemas terrestres citados en el texto?",
+      "options": [
+        "Océanos, mares, manantiales, arrecifes, lagos y ríos",
+        "Desiertos, sabanas, selvas, bosques y tundras",
+        "Urbanos, agrícolas y de presa o embalse",
+        "Marismas, estuarios, manglares y humedales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los ecosistemas naturales terrestres mencionados en el texto son desiertos, sabanas, selvas, bosques y tundras. Los acuáticos son océanos, mares, manantiales, arrecifes, lagos y ríos. Los artificiales son urbanos, agrícolas y de presa o embalse."
+    },
+    {
+      "question": "¿Qué elementos químicos forman parte de los 'ciclos de la materia' en los ecosistemas según el texto?",
+      "options": [
+        "Oxígeno, hidrógeno, fósforo y calcio",
+        "Carbono, hidrógeno, nitrógeno y azufre",
+        "Carbono, oxígeno, calcio y sodio",
+        "Nitrógeno, fósforo, potasio y magnesio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona que los ciclos de la materia hacen circular los elementos químicos que forman los seres vivos, como el carbono, el hidrógeno, el nitrógeno o el azufre, entre los distintos niveles tróficos y el medio físico."
+    },
+    {
+      "question": "¿Cuáles son las relaciones interespecíficas perjudiciales mencionadas en el texto?",
+      "options": [
+        "Mutualismo, simbiosis y comensalismo",
+        "Competencia, necrofagia y depredación",
+        "Parasitismo, depredación y explotación, y necrofagia",
+        "Territorialidad, canibalismo y explotación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las relaciones interespecíficas perjudiciales mencionadas son el parasitismo, la depredación y explotación, y la necrofagia. Las favorables son el mutualismo, la simbiosis y el comensalismo."
+    },
+    {
+      "question": "¿Qué tipos adicionales de contaminación menciona el texto más allá de los clasificados por el Glosario VITALIS?",
+      "options": [
+        "Lumínica, genética y acústica",
+        "Alimentaria, electromagnética, industrial, bacteriana, térmica y sónica",
+        "Visual, radioactiva, acuática y del suelo",
+        "Nuclear, química, física y biológica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que 'otros tipos de contaminación' son la alimentaria, la electromagnética, la industrial, la bacteriana, la térmica y la sónica, más allá de las categorías principales por medio (atmosférica, acuática, del suelo, de seres vivos) y por agente (radioactiva, química, orgánica)."
+    },
+    {
+      "question": "¿Cómo define el texto el concepto de 'medio' como escenario de las ciencias?",
+      "options": [
+        "El espacio físico donde habitan los seres vivos en interacción con su entorno",
+        "El conjunto de elementos, sucesos, factores y/o procesos que tienen lugar en el entorno de las personas y donde su vida y actuación adquieren significado",
+        "El sistema global formado por todos los factores bióticos y abióticos del planeta",
+        "El conjunto de condiciones naturales que influyen en el desarrollo de los organismos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto define el 'medio' como el conjunto de elementos, sucesos, factores y/o procesos que tienen lugar en el entorno de las personas y donde su vida y actuación adquieren significado. Es el escenario principal donde se desarrollan las ciencias."
+    },
+    {
+      "question": "¿Qué es el 'entorno' en el ámbito educativo según el texto?",
+      "options": [
+        "El conjunto de recursos didácticos disponibles en el centro escolar",
+        "El espacio del aula y el patio donde el alumnado desarrolla su actividad escolar",
+        "Aquello que el niño conoce mejor por ser fruto de sus experiencias, por ser familiar y por estar próximo en el tiempo y el espacio",
+        "El currículo formal y los objetivos educativos que guían el proceso de enseñanza"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el ámbito educativo, el 'entorno' hace referencia a aquello que el niño conoce mejor por ser fruto de sus experiencias, por ser familiar y porque está próximo en el tiempo y en el espacio. Esta dimensión educativa del entorno es clave para el aprendizaje significativo."
+    },
+    {
+      "question": "¿Cuáles son los ODS mencionados en la introducción del tema como directamente vinculados con la conservación y el entorno?",
+      "options": [
+        "ODS1, ODS2, ODS3 y ODS17",
+        "ODS6, ODS7, ODS8 y ODS9",
+        "ODS4, ODS13, ODS14 y ODS15",
+        "ODS10, ODS11, ODS12 y ODS16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La introducción menciona específicamente los ODS directamente vinculados con la conservación y el entorno: ODS4 'Educación de Calidad', ODS13 'Acción por el clima', ODS14 'Vida submarina' y ODS15 'Vida de Ecosistemas Terrestres'."
+    },
+    {
+      "question": "¿Qué organismos actúan como descomponedores en los ecosistemas según el texto?",
+      "options": [
+        "Plantas y algas",
+        "Herbívoros y carnívoros",
+        "Bacterias y hongos",
+        "Superdepredadores y carroñeros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los descomponedores, como bacterias y hongos, transforman la materia orgánica en inorgánica, cerrando el ciclo de la materia en el ecosistema. Los productores son plantas y algas, y los consumidores son herbívoros, carnívoros y superdepredadores."
+    },
+    {
+      "question": "¿Cómo definen Ausubel y Piaget el tipo de enseñanza que debe partir de los conocimientos previos del alumnado?",
+      "options": [
+        "Enseñanza conductista basada en el refuerzo positivo y la repetición",
+        "Aprendizaje significativo y constructivo que parte de los conocimientos previos del discente y su entorno próximo",
+        "Aprendizaje memorístico fundamentado en la práctica sistemática",
+        "Enseñanza expositiva centrada en la transmisión directa del conocimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona a Ausubel y Piaget para justificar el diseño de proyectos significativos que parten de los conocimientos previos de los discentes y de su entorno próximo. Ausubel desarrolló la teoría del aprendizaje significativo y Piaget la del desarrollo cognitivo constructivista."
+    },
+    {
+      "question": "¿Cuál es la definición de 'orientaciones pedagógicas' según el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Los criterios de evaluación y los estándares de aprendizaje del currículo",
+        "Las indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes para favorecer el aprendizaje",
+        "Los programas de formación del profesorado en metodologías activas e innovadoras",
+        "Las normas de convivencia y los protocolos de actuación en el centro escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las orientaciones pedagógicas como las indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes, con la finalidad de favorecer el aprendizaje del alumnado para lograr los objetivos y adquirir las competencias clave."
+    },
+    {
+      "question": "¿Qué es el 'perfil de salida' según el texto y cómo se relaciona con el Tema 9?",
+      "options": [
+        "El conjunto de notas finales del alumnado al completar la educación primaria",
+        "El nivel competencial del alumnado esperado al completar la educación básica, deducido a través de los descriptores operativos",
+        "El informe de evaluación que el tutor elabora al final de cada ciclo educativo",
+        "El documento que recoge los objetivos mínimos para superar cada curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El perfil de salida define el nivel competencial del alumnado esperado al completar la educación básica, deducido a través de los descriptores operativos, e implica el desarrollo de las competencias clave. El Tema 9 contribuye a la adquisición de las ocho competencias clave."
+    },
+    {
+      "question": "¿Cómo contribuye el Tema 9 a la competencia CP (Competencia Plurilingüe)?",
+      "options": [
+        "Mediante el uso del lenguaje científico para describir los ecosistemas con precisión terminológica",
+        "Al acceder a documentos, recursos o campañas medioambientales en distintas lenguas",
+        "Fomentando el debate en lengua extranjera sobre los problemas ambientales globales",
+        "Al traducir textos legislativos internacionales sobre política ambiental"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La competencia CP (Plurilingüe) se trabaja al acceder a documentos, recursos o campañas medioambientales en distintas lenguas. La CCL se trabaja mediante el uso del lenguaje para exponer medidas o comprender textos científicos."
+    },
+    {
+      "question": "¿Cómo contribuye el Tema 9 a la competencia CE (Competencia Emprendedora)?",
+      "options": [
+        "Al valorar el paisaje y la diversidad como parte del patrimonio cultural y natural",
+        "Al comprender las relaciones entre las acciones humanas y el entorno adoptando estilos sostenibles",
+        "Al reconocer necesidades y elaborar ideas tomando conciencia de las consecuencias en el entorno",
+        "Al participar en acciones científicas para preservar el medioambiente y practicar el consumo responsable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La competencia CE (Emprendedora) se trabaja al reconocer necesidades y elaborar ideas tomando conciencia de las consecuencias en el entorno. La CCEC valora el paisaje, la CC adopta estilos sostenibles, y la STEM participa en acciones científicas."
+    },
+    {
+      "question": "¿Cuáles son los criterios de evaluación del primer ciclo en el Bloque 2 'La vida en nuestro planeta'?",
+      "options": [
+        "Desarrollar propuestas que reflejen compromisos para la sostenibilidad y proteger el medio",
+        "Conocer y proteger el medio natural mostrando respeto y proponiendo acciones de conservación",
+        "Reconocer las características, organización y propiedades de los elementos del medio natural mediante metodologías de indagación y mostrar respeto por la naturaleza",
+        "Analizar las causas de los problemas ambientales y proponer soluciones comunitarias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el primer ciclo, los criterios de evaluación se orientan a reconocer las características, la organización y las propiedades de los elementos del medio natural a través de metodologías de indagación, y a mostrar respeto por la naturaleza reconociéndola como un bien común."
+    },
+    {
+      "question": "¿Cuáles son los criterios de evaluación del segundo ciclo en el Bloque 2 'La vida en nuestro planeta'?",
+      "options": [
+        "Reconocer las características de los elementos del medio natural y mostrar respeto básico",
+        "Conocer y proteger el medio natural mostrando respeto y proponiendo acciones para su conservación y mejora",
+        "Desarrollar propuestas y acciones que reflejen compromisos para la sostenibilidad",
+        "Identificar los agentes contaminantes y describir sus efectos en los ecosistemas locales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el segundo ciclo, los criterios se centran en conocer y proteger el medio natural mostrando respeto y proponiendo acciones para su conservación y mejora. El primer ciclo trabaja el reconocimiento y el tercer ciclo avanza hacia compromisos activos de sostenibilidad."
+    },
+    {
+      "question": "¿Cómo contribuye el Tema 9 a la competencia CCL (Comunicación Lingüística)?",
+      "options": [
+        "Al valorar el paisaje como expresión cultural y natural de nuestra sociedad",
+        "Al acceder a recursos y campañas medioambientales en distintas lenguas",
+        "Mediante el uso del lenguaje para exponer medidas ambientales o comprender textos científicos",
+        "Al comprender las relaciones entre las acciones humanas y el entorno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La CCL se desarrolla mediante el uso del lenguaje para exponer medidas ambientales o comprender textos científicos. La CP implica acceso en distintas lenguas, la CCEC valora el paisaje cultural y la CC comprende las relaciones humano-entorno."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre la Educación Ambiental y el área de Educación Física?",
+      "options": [
+        "Mediante el análisis científico de la contaminación atmosférica durante la actividad física",
+        "A través de la valoración del cuerpo humano como parte del ecosistema natural",
+        "Fomentando la movilidad sostenible y el conocimiento del medio natural mediante actividades al aire libre",
+        "Desarrollando hábitos saludables relacionados con la alimentación ecológica y el consumo responsable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto establece que la Educación Medioambiental se relaciona con Educación Física fomentando la movilidad sostenible y el conocimiento del medio natural mediante actividades al aire libre."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre la Educación Medioambiental y las áreas de Educación Plástica y Música?",
+      "options": [
+        "Desarrollando la sensibilidad hacia el cuidado del medioambiente, la valoración de la cultura y el arte reciclado",
+        "Creando proyectos audiovisuales sobre la biodiversidad y los ecosistemas amenazados",
+        "Analizando las representaciones artísticas de la naturaleza en distintas culturas",
+        "Elaborando canciones y materiales visuales para campañas de concienciación ambiental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que la Educación Medioambiental se relaciona con la Educación Plástica y Visual y con Música y Danza al desarrollar la sensibilidad hacia el cuidado del medioambiente, la valoración de la cultura y el arte reciclado."
+    },
+    {
+      "question": "¿Cuál de los siguientes proyectos del Plan Proxecta+ está específicamente relacionado con la movilidad sostenible?",
+      "options": [
+        "Meteoescolas",
+        "O monte vivo",
+        "Mobilidade sostible e segura",
+        "Protexe os animais"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El proyecto 'Mobilidade sostible e segura' del Plan Proxecta+ está específicamente relacionado con la movilidad sostenible. 'Meteoescolas' trata sobre meteorología, 'O monte vivo' sobre el monte gallego, y 'Protexe os animais' sobre la protección animal."
+    },
+    {
+      "question": "¿Cuál de los siguientes proyectos del Plan Proxecta+ está centrado en los huertos escolares ecológicos?",
+      "options": [
+        "Proxecto terra",
+        "Mestres Gandeiros",
+        "Rede de Ecohortas escolares",
+        "Naturezate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La 'Rede de Ecohortas escolares' es el proyecto del Plan Proxecta+ centrado en los huertos escolares ecológicos. 'Naturezate' es un proyecto general de naturaleza, 'Proxecto terra' sobre la tierra y 'Mestres Gandeiros' sobre ganadería."
+    },
+    {
+      "question": "¿Cuál es la función de las relaciones intraespecíficas 'estatales' y cuál es su ejemplo?",
+      "options": [
+        "Son relaciones de liderazgo social; ejemplo: manadas de lobos",
+        "Son relaciones organizadas con división del trabajo; ejemplo: abejas u hormigas",
+        "Son relaciones de agrupación para la defensa; ejemplo: bandadas de aves",
+        "Son relaciones entre grupos familiares; ejemplo: leones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las relaciones intraespecíficas estatales son las que se establecen en comunidades muy organizadas con división del trabajo (como estados). El ejemplo dado en el texto son las abejas y las hormigas. Las familiares son los leones y las gregarias son bandadas de aves o manadas de lobos."
+    },
+    {
+      "question": "¿Qué causa la 'deforestación' según el texto, tanto por factores naturales como humanos?",
+      "options": [
+        "Natural: terremotos y volcanes; humano: sobrepastoreo y cultivos intensivos",
+        "Natural: incendios y terremotos; humano: tala de bosques",
+        "Natural: plagas de insectos y sequías; humano: urbanización y minería",
+        "Natural: erosión fluvial y aludes; humano: construcción de infraestructuras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que la deforestación tiene causas naturales, como incendios o terremotos, y causas humanas, como la tala de bosques. La deforestación empobrece el suelo y destruye hábitats."
+    },
+    {
+      "question": "¿Qué causa la 'erosión y desertización del suelo' según el texto?",
+      "options": [
+        "Las lluvias ácidas y los vertidos industriales que acidifican el suelo",
+        "Las acciones humanas que vulneran la fertilidad del suelo: tala de bosques, sobrepastoreo y cultivos intensivos",
+        "El calentamiento global que aumenta las temperaturas y reduce la humedad del suelo",
+        "La expansión de especies invasoras que alteran la composición del suelo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La erosión y desertización del suelo hace referencia a las acciones humanas que vulneran la fertilidad del suelo: la tala de bosques, el sobrepastoreo y los cultivos intensivos. No se debe confundir con la contaminación del suelo por lluvias ácidas."
+    },
+    {
+      "question": "¿Cuáles son los efectos de los cambios climáticos en los ecosistemas según el texto?",
+      "options": [
+        "Incremento de la biodiversidad y migración de especies a nuevos hábitats",
+        "Afectación de los hábitats y la productividad agrícola, a causa del calentamiento global, las temperaturas y el ascenso del nivel del mar",
+        "Reducción de la evaporación oceánica y disminución de las precipitaciones globales",
+        "Desaparición gradual de los ecosistemas polares y expansión de los tropicales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, los cambios climáticos afectan a los hábitats y la productividad agrícola, a causa del calentamiento global, las temperaturas y el ascenso del nivel del mar. Esto pone a numerosas especies en riesgo."
+    },
+    {
+      "question": "¿Cuáles son las causas de la 'pérdida de diversidad biológica' según el texto?",
+      "options": [
+        "La sobrepesca, el comercio ilegal de especies y la contaminación del agua",
+        "La destrucción de hábitats, la caza indiscriminada y las especies invasoras",
+        "El calentamiento global, la acidificación oceánica y la deforestación tropical",
+        "La agricultura intensiva, los pesticidas y la fragmentación de ecosistemas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que la pérdida de diversidad biológica se debe a la destrucción de hábitats, la caza indiscriminada y las especies invasoras, poniendo a numerosas especies en peligro de extinción."
+    },
+    {
+      "question": "¿Cómo describe el texto la 'obtención de energía y materias primas' como acción degradante del ecosistema?",
+      "options": [
+        "Genera solo contaminación atmosférica por emisión de gases de efecto invernadero",
+        "La explotación de petróleo, gas y carbón, la minería y el transporte generan movimiento de tierra, contaminación e infraestructuras invasivas",
+        "Provoca únicamente la destrucción de ecosistemas acuáticos por vertidos industriales",
+        "Afecta principalmente a los suelos agrícolas por la contaminación por metales pesados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La obtención de energía y materias primas, como la explotación de petróleo, gas y carbón, la minería y el transporte, genera movimiento de tierra, contaminación e infraestructuras invasivas. Es una de las cinco acciones humanas que degradan los ecosistemas."
+    },
+    {
+      "question": "¿En qué Decreto y artículo se establecen las orientaciones pedagógicas para el área de CCNN en Galicia?",
+      "options": [
+        "LOMLOE, artículo 12",
+        "Decreto 155/2022, artículo 6",
+        "Orden de 26 de mayo de 2023, artículo 3",
+        "Decreto 229/2011, artículo 15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las orientaciones pedagógicas como las indicaciones para orientar al profesorado en el diseño y planificación de estrategias y acciones docentes. Las líneas de actuación para CCNN se establecen en el Anexo II del mismo decreto."
+    },
+    {
+      "question": "¿Qué función tienen las 'relaciones coloniales' como tipo de relación intraespecífica?",
+      "options": [
+        "Son agrupaciones temporales para la reproducción; ejemplo: tortugas marinas",
+        "Son asociaciones de individuos que comparten territorio sin cooperar activamente; ejemplo: aves carroñeras",
+        "Son asociaciones de individuos que viven físicamente unidos formando una unidad; ejemplo: corales",
+        "Son grupos jerárquicos con un individuo dominante; ejemplo: primates"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las relaciones intraespecíficas coloniales son aquellas en las que los individuos viven físicamente unidos formando una unidad estructural. El ejemplo dado en el texto son los corales. Son distintas de las gregarias (bandadas de aves) y las estatales (abejas/hormigas)."
+    },
+    {
+      "question": "¿Cómo justifica el texto la 'agricultura y ganadería intensivas' como factores de degradación ecológica?",
+      "options": [
+        "Generan contaminación química del suelo por el uso masivo de fertilizantes artificiales",
+        "Explotan los recursos naturales a través de la tala de bosques, la pesca o la cría de ganado, provocando una regresión ecológica del ecosistema e interrumpiendo la sucesión natural",
+        "Contribuyen al calentamiento global mediante la emisión de metano y óxido nitroso",
+        "Destruyen los acuíferos subterráneos por el uso intensivo de sistemas de riego"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La agricultura y ganadería intensivas explotan los recursos naturales a través de la tala de bosques, la pesca o la cría de ganado, provocando una 'regresión' ecológica del ecosistema e interrumpiendo su proceso de sucesión natural. Este es el mecanismo específico señalado en el texto."
+    },
+    {
+      "question": "¿Qué son las 'relaciones interespecíficas' y qué ejemplo de relación favorable se da en el texto?",
+      "options": [
+        "Se dan entre individuos de la misma especie; ejemplo: las manadas de lobos",
+        "Se dan entre individuos de distintas especies; favorables: mutualismo, simbiosis o comensalismo",
+        "Se dan entre organismos de distintos niveles tróficos; favorables: depredación y parasitismo",
+        "Se dan entre poblaciones del mismo hábitat; favorables: competencia y territorialidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las relaciones interespecíficas se dan entre individuos de distintas especies y pueden ser favorables (mutualismo, simbiosis, comensalismo) o perjudiciales (parasitismo, depredación, explotación, necrofagia). Las intraespecíficas son entre individuos de la misma especie."
+    },
+    {
+      "question": "¿Qué importancia tiene el 'huerto escolar' como recurso educativo para el Tema 9?",
+      "options": [
+        "Es una actividad puramente recreativa para motivar al alumnado en las clases de ciencias",
+        "Permite trabajar conceptos de ecología, sostenibilidad, ciclos biológicos y consumo responsable de forma práctica",
+        "Es un recurso exclusivo del área de matemáticas para trabajar medición y geometría",
+        "Se usa principalmente para estudiar las propiedades físicas y químicas del suelo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona la creación de huertos escolares como una de las propuestas de actividades más recomendables, junto con actividades de reciclaje, ahorro de energía, maquetas de ecosistemas y exposiciones de arte reciclado. Permite un aprendizaje experiencial y significativo."
+    },
+    {
+      "question": "¿Cómo se clasifica la 'contaminación radioactiva' según el Glosario Ambiental de ONG VITALIS?",
+      "options": [
+        "Por la emisión de gases contaminantes a la atmósfera que degradan la capa de ozono",
+        "Por sustancias que tardan en degradarse y se acumulan en la cadena trófica",
+        "Por residuos o materiales nucleares",
+        "Por vertidos químicos nocivos al agua o al aire"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La contaminación radioactiva se origina por residuos o materiales nucleares. La química es por vertidos químicos nocivos al agua o al aire, y la orgánica es por sustancias que tardan en degradarse. Esta clasificación es por agente contaminante."
+    },
+    {
+      "question": "¿Cómo describe el texto el impacto de la 'destrucción directa de ecosistemas naturales'?",
+      "options": [
+        "Ocurre principalmente por la expansión urbana sobre terrenos agrícolas productivos",
+        "Se produce a través del desvío de cursos de agua para regadío o la construcción sobre marismas litorales, dejando a los ecosistemas sin componentes imprescindibles",
+        "Se da por la tala masiva de bosques para obtener madera y papel industriales",
+        "Resulta de la contaminación acumulada que elimina gradualmente las especies sensibles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La destrucción directa de ecosistemas naturales ocurre a través del desvío de cursos de agua para regadío o la construcción sobre marismas litorales, dejando a los ecosistemas sin los componentes imprescindibles para su funcionamiento."
+    },
+    {
+      "question": "¿Cuántos ODS tiene la Agenda 2030 y qué organismo los propuso?",
+      "options": [
+        "12 ODS, propuestos por la UNESCO",
+        "15 ODS, propuestos por la Unión Europea",
+        "17 ODS, propuestos por la ONU",
+        "20 ODS, propuestos por el G20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Agenda 2030 tiene 17 Objetivos de Desarrollo Sostenible (ODS) propuestos por la ONU. Los ODS deben incluirse en todas las áreas curriculares y son una referencia fundamental para la educación ambiental."
+    },
+    {
+      "question": "¿Qué es la 'contaminación acuática' según la clasificación del Glosario Ambiental de ONG VITALIS?",
+      "options": [
+        "La causada por emisiones industriales que se precipitan con la lluvia ácida",
+        "La causada por vertidos nocivos en ríos, mares u océanos",
+        "La causada por residuos plásticos que se acumulan en los oceanos",
+        "La causada por la eutrofización de lagos por exceso de nutrientes agrícolas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el Glosario VITALIS, la contaminación acuática es la que se produce por vertidos nocivos. La atmosférica es por deterioro de la capa de ozono, la del suelo por degradación (lluvias ácidas o aguas contaminadas) y la de seres vivos afecta a organismos por contaminación de su hábitat."
+    },
+    {
+      "question": "¿Cómo define el texto el concepto de 'cadena alimentaria o trófica'?",
+      "options": [
+        "La secuencia de organismos que compiten por los mismos recursos en un ecosistema",
+        "Las relaciones entre los seres vivos para obtener alimento, transfiriendo energía y materia",
+        "El conjunto de relaciones de depredación entre los distintos niveles tróficos de un ecosistema",
+        "La secuencia de organismos que se descomponen para devolver nutrientes al suelo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las cadenas alimentarias o tróficas son las relaciones entre los seres vivos para obtener alimento, transfiriendo energía y materia. Son una de las interacciones fundamentales de los ecosistemas junto con los ciclos de la materia, el flujo de energía y las relaciones intra e interespecíficas."
+    },
+    {
+      "question": "¿Cuáles son los objetivos medioambientales específicos a trabajar en el aula según el texto?",
+      "options": [
+        "Reducir emisiones, proteger la biodiversidad, fomentar el reciclaje y crear zonas verdes",
+        "Distribución equitativa de beneficios, optimización de recursos naturales, consumo de energías renovables, reducción de residuos y emisiones, y uso de tecnologías sostenibles",
+        "Conocer los tratados internacionales, identificar los ODS y diseñar proyectos ambientales",
+        "Estudiar los ecosistemas locales, realizar salidas de campo y elaborar informes científicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto enumera los objetivos medioambientales a trabajar en el aula: distribución equitativa de beneficios, optimización de recursos naturales, consumo de energías renovables, reducción de residuos y emisiones nocivos, y uso de tecnologías sostenibles."
+    },
+    {
+      "question": "¿Cuáles son los cambios temporales que afectan a los ecosistemas, según el texto?",
+      "options": [
+        "Cambios instantáneos (minutos u horas) y cambios históricos (miles de años)",
+        "Cambios a corto plazo (días, meses o pocos años) y cambios a largo plazo (décadas, siglos o milenios)",
+        "Cambios estacionales (meses) y cambios evolutivos (millones de años)",
+        "Cambios diarios (ciclos circadianos) y cambios anuales (ciclos estacionales)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que los cambios en los ecosistemas pueden ser a corto plazo, en escalas de días, meses o pocos años, o a largo plazo, en escalas de décadas, siglos o milenios. Esta distinción temporal es importante para entender la dinámica de los ecosistemas."
+    },
+    {
+      "question": "¿Cuál es la función específica de los 'consumidores terciarios' en la cadena trófica?",
+      "options": [
+        "Son herbívoros que se alimentan de vegetación y plantas",
+        "Son carnívoros que se alimentan de herbívoros",
+        "Son superdepredadores en la cima de la cadena trófica",
+        "Son descomponedores que transforman la materia orgánica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los consumidores terciarios son los superdepredadores, situados en la cima de la cadena trófica. Los consumidores primarios son herbívoros, los secundarios son carnívoros que comen herbívoros, y los terciarios son carnívoros que comen a otros carnívoros (superdepredadores)."
+    },
+    {
+      "question": "¿Cuál es el papel del 'flujo de energía' en el ecosistema según el texto?",
+      "options": [
+        "Circula en ciclos cerrados entre todos los componentes del ecosistema, sin pérdidas",
+        "Discurre unidireccionalmente por la cadena alimentaria, desde el sol hasta los productores y descomponedores",
+        "Se transfiere bidireccionalmente entre los niveles tróficos en proporciones iguales",
+        "Se origina en los descomponedores y fluye hacia los productores primarios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El flujo de energía discurre unidireccionalmente por la cadena alimentaria, desde el sol hasta los productores y descomponedores. A diferencia de los ciclos de la materia (que son cíclicos), la energía fluye en una sola dirección y se disipa en cada nivel trófico."
+    },
+    {
+      "question": "¿Cuál de los siguientes proyectos del Plan Proxecta+ está relacionado con la ganadería?",
+      "options": [
+        "Proxecto terra",
+        "Mestres Gandeiros",
+        "Naturezate",
+        "O monte vivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proyecto 'Mestres Gandeiros' del Plan Proxecta+ está relacionado con la ganadería. 'Proxecto terra' está relacionado con la tierra, 'Naturezate' con la naturaleza en general y 'O monte vivo' con el monte gallego."
+    },
+    {
+      "question": "¿Cuál es el proyecto del Plan Proxecta+ relacionado con la meteorología?",
+      "options": [
+        "Meteoescolas",
+        "O monte vivo",
+        "Galicon",
+        "Proxecto ríos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proyecto 'Meteoescolas' del Plan Proxecta+ está relacionado con la meteorología y las ciencias del clima. 'O monte vivo' trata sobre el monte gallego, 'Galicon' es otro programa del plan y 'Proxectos ríos' trata sobre los ríos."
+    },
+    {
+      "question": "¿Qué establece la UNESCO como meta en relación con la ciudadanía y el medio ambiente?",
+      "options": [
+        "Implementar los ODS en todos los currículos nacionales de educación obligatoria",
+        "Promover una ciudadanía implicada en el cuidado del medio ambiente",
+        "Crear una red de escuelas verdes certificadas a nivel mundial",
+        "Reducir la huella de carbono de los centros educativos en un 50% para 2030"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La UNESCO estableció como meta promover una ciudadanía implicada en el cuidado del medio ambiente. Esta meta es el eje de la Educación Ambiental como herramienta para generar conciencia, cambios de actitud y lograr el equilibrio entre el ser humano y su entorno."
+    },
+    {
+      "question": "¿Qué tipo de clasificación de los ecosistemas contempla la distinción entre 'artificiales' y 'naturales'?",
+      "options": [
+        "Según su origen (creados por el ser humano o existentes sin intervención humana)",
+        "Según su tamaño (ecosistemas pequeños o grandes)",
+        "Según su localización geográfica (continentales o oceánicos)",
+        "Según su nivel de biodiversidad (ricos o pobres en especies)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los ecosistemas se clasifican en artificiales (creados por el ser humano: urbanos, agrícolas, de presa o embalse) y naturales (existentes sin intervención directa humana). Los naturales se subdividen a su vez en terrestres y acuáticos."
+    },
+    {
+      "question": "¿Cuál es el ODS relacionado con 'Energía Asequible y No Contaminante'?",
+      "options": [
+        "ODS6",
+        "ODS7",
+        "ODS13",
+        "ODS15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ODS7 corresponde a 'Energía Asequible y No Contaminante'. El ODS6 es 'Agua limpia y saneamiento', el ODS13 es 'Acción por el clima' y el ODS15 es 'Vida de ecosistemas terrestres'. Estos son los ODS mencionados en la sección de políticas ambientales del texto."
+    },
+    {
+      "question": "¿Qué función tienen las 'relaciones gregarias' como tipo de relación intraespecífica y cuál es su ejemplo?",
+      "options": [
+        "Son agrupaciones de individuos del mismo sexo para la reproducción; ejemplo: grupos de apareamiento en aves",
+        "Son agrupaciones transitorias de individuos de distintas especies con beneficio mutuo; ejemplo: bandadas mixtas",
+        "Son agrupaciones de individuos de la misma especie que viven juntos sin una organización compleja; ejemplo: bandadas de aves o manadas de lobos",
+        "Son asociaciones permanentes de individuos unidos genéticamente; ejemplo: colonias de hormigas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las relaciones gregarias son agrupaciones de individuos de la misma especie que viven juntos (sin la organización compleja de las estatales). El texto da como ejemplos las bandadas de aves y las manadas de lobos. Las estatales (abejas, hormigas) tienen una organización más compleja."
+    },
+    {
+      "question": "¿Cómo se relaciona la Educación Ambiental con las áreas lingüísticas (LCL, LGL, LE) según el texto?",
+      "options": [
+        "A través de la lectura de textos literarios que describen paisajes naturales y biodiversidad",
+        "Al trabajar el vocabulario específico y las habilidades de comprensión y expresión oral para debates sobre temas ambientales",
+        "Mediante la traducción de textos científicos y legislativos sobre política ambiental",
+        "A través del análisis de noticias periodísticas sobre desastres naturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto establece que la Educación Medioambiental se relaciona con las áreas lingüísticas (LCL, LGL, LE) al trabajar el vocabulario específico y las habilidades de comprensión y expresión oral para debates sobre temas ambientales."
+    },
+    {
+      "question": "¿Qué habilidades de tipo social fomenta el proceso de enseñanza-aprendizaje del Tema 9 según el texto?",
+      "options": [
+        "Competencias de liderazgo, gestión de conflictos y toma de decisiones colectivas",
+        "Habilidades de trabajo cooperativo y colaborativo que contribuyen a la inclusión, la autoestima, la responsabilidad y el aprender a aprender",
+        "Habilidades comunicativas, argumentativas y de pensamiento crítico individual",
+        "Competencias de emprendimiento social, innovación y diseño de proyectos ambientales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que se fomentarán las habilidades de trabajo cooperativo y colaborativo que contribuyan a la inclusión, la autoestima, la responsabilidad y la competencia de aprender a aprender como parte del proceso de enseñanza-aprendizaje del Tema 9."
+    },
+    {
+      "question": "¿Cómo describe el texto la 'contaminación del suelo' según la clasificación por medio contaminado del Glosario VITALIS?",
+      "options": [
+        "Por la acumulación de plásticos y residuos sólidos no biodegradables en el suelo",
+        "Por su degradación por lluvias ácidas o aguas contaminadas",
+        "Por el uso masivo de pesticidas y fertilizantes químicos en la agricultura",
+        "Por la erosión causada por el viento y la pérdida de cobertura vegetal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el Glosario VITALIS, la contaminación del suelo se produce por su degradación por lluvias ácidas o aguas contaminadas. Esta es la clasificación específica del texto, que la sitúa dentro del tipo de contaminación 'según el medio contaminado'."
+    },
+    {
+      "question": "¿Cómo describe el texto el 'vertido de residuos' como acción humana degradante del ecosistema?",
+      "options": [
+        "Genera fragmentación del hábitat e interrumpe los corredores ecológicos para la fauna",
+        "Concentra productos tóxicos en los ecosistemas, generando contaminación o polución con graves daños en los seres vivos",
+        "Introduce nutrientes en exceso causando eutrofización de los medios acuáticos",
+        "Modifica el pH del suelo haciéndolo inapropiado para la mayoría de los seres vivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El vertido de residuos concentra productos tóxicos en los ecosistemas, generando contaminación o polución con graves daños en los seres vivos. Es la cuarta de las cinco acciones humanas que degradan los ecosistemas mencionadas en el texto."
+    },
+    {
+      "question": "¿Cuáles son los ecosistemas acuáticos mencionados en el texto?",
+      "options": [
+        "Ríos, lagos, marismas, turberas y humedales",
+        "Océanos, mares, manantiales, arrecifes, lagos y ríos",
+        "Mares, estuarios, deltas, lagunas y pantanos",
+        "Océanos, bahías, playas, marismas y arrecifes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los ecosistemas acuáticos mencionados en el texto son: océanos, mares, manantiales, arrecifes, lagos y ríos. Los ecosistemas terrestres son desiertos, sabanas, selvas, bosques y tundras."
+    },
+    {
+      "question": "¿Cómo contribuye el Tema 9 a la competencia CPSAA (Personal, Social y de Aprender a Aprender)?",
+      "options": [
+        "Al comprender las relaciones entre las acciones humanas y el entorno adoptando estilos de vida sostenibles",
+        "Fomentando la autonomía investigadora y la toma de conciencia del propio impacto en el entorno",
+        "Al acceder a documentos y recursos medioambientales en distintas lenguas",
+        "Mediante el uso del lenguaje para exponer medidas ambientales o comprender textos científicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La competencia CPSAA (Personal, Social y de Aprender a Aprender) se trabaja fomentando la autonomía investigadora y la toma de conciencia del propio impacto en el entorno. La CC implica adoptar estilos sostenibles, la CP acceder en distintas lenguas, y la CCL usar el lenguaje científico."
+    },
+    {
+      "question": "¿Qué tipo de uso de las TIC y entornos virtuales deben integrar las actividades del Tema 9 según el texto?",
+      "options": [
+        "Uso libre, creativo y sin restricciones para maximizar la motivación del alumnado",
+        "Uso seguro, crítico, responsable y sostenible",
+        "Uso exclusivamente instrumental para presentar y recuperar información",
+        "Uso competitivo a través de gamificación y sistemas de puntuación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que es de relevancia integrar el uso seguro, crítico, responsable y sostenible de las TIC y los entornos virtuales. Estos cuatro adjetivos son específicos y distinguen el tipo de uso de la tecnología que promueve el Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué principios deben guiar la atención a la diversidad en el proceso de enseñanza-aprendizaje del Tema 9?",
+      "options": [
+        "Agrupamientos flexibles, apoyos personalizados y adaptaciones curriculares significativas",
+        "Atención individualizada e implementación de mecanismos de refuerzo y ampliación para la prevención de dificultades de aprendizaje",
+        "Evaluación diferenciada, materiales adaptados y tiempo adicional para el alumnado con necesidades especiales",
+        "Apoyo de profesorado especialista en pedagogía terapéutica y audición y lenguaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que la enseñanza debe promover la atención a la diversidad, la atención individualizada e implementar mecanismos de refuerzo y ampliación para la prevención de dificultades de aprendizaje, atendiendo a los diferentes ritmos y estilos de aprendizaje."
+    },
+    {
+      "question": "¿Cuál fue el Convenio Internacional de 1972 mencionado en el texto para la protección del medioambiente?",
+      "options": [
+        "Convenio sobre la Diversidad Biológica",
+        "Convenio de Viena",
+        "Convenio del Patrimonio Mundial",
+        "Protocolo de Montreal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Convenio del Patrimonio Mundial data de 1972. Es uno de los convenios internacionales citados para la protección del medioambiente. El Convenio de Viena es de 1985, el Convenio sobre la Diversidad Biológica de 1992 y el Protocolo de Montreal de 1987."
+    },
+    {
+      "question": "¿En qué año se aprobó el Protocolo de Cartagena y en qué marco se inscribe?",
+      "options": [
+        "1997, en el marco del Protocolo de Kioto",
+        "1999, en el marco del Libro Blanco de Educación Ambiental",
+        "2000, y es uno de los convenios internacionales para la protección del medioambiente",
+        "2002, en el marco de la Cumbre Mundial sobre el Desarrollo Sostenible"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Protocolo de Cartagena se aprobó en 2000 y es uno de los convenios internacionales para la protección del medioambiente citados en el texto. Se enmarca en el Convenio sobre la Diversidad Biológica (1992)."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el papel de los 'organismos oficiales' y los 'no oficiales' en las políticas ambientales según el texto?",
+      "options": [
+        "Los organismos oficiales actúan a nivel internacional; los no oficiales actúan a nivel local",
+        "Los organismos oficiales (gobiernos y administraciones) elaboran leyes y normas; los no oficiales (entidades privadas o sociales) denuncian problemas y promueven campañas de concienciación",
+        "Los organismos oficiales financian proyectos ambientales; los no oficiales los ejecutan en el territorio",
+        "Los organismos oficiales gestionan los espacios naturales protegidos; los no oficiales educan a la ciudadanía"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, los organismos oficiales (gobiernos y administraciones) elaboran leyes y normas, mientras que los no oficiales (entidades privadas o sociales) denuncian problemas y promueven campañas de concienciación. Las actuaciones individuales son las conductas de cada persona."
+    },
+    {
+      "question": "¿Qué principios de la LOMLOE se mencionan en el texto en relación con el Tema 9?",
+      "options": [
+        "Brindar educación sin discriminación y educación para la transición ecológica con criterios de justicia social",
+        "Fomentar la inclusión educativa y garantizar el acceso a las tecnologías digitales",
+        "Promover la participación democrática y la educación para la ciudadanía activa",
+        "Garantizar la equidad educativa y fomentar el aprendizaje a lo largo de la vida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona dos principios de la LOMLOE: 'brindar una educación para todo el alumnado, sin que exista discriminación alguna' y 'una educación para la transición ecológica con criterios de justicia social como contribución a la sostenibilidad ambiental, social y económica'."
+    },
+    {
+      "question": "¿Qué son las 'tareas de aprendizaje integradas' según las líneas de actuación del Tema 9?",
+      "options": [
+        "Actividades que integran todas las áreas curriculares en un mismo proyecto interdisciplinar",
+        "Tareas que facilitan la realización de proyectos e investigaciones en el medio, priorizando una metodología globalizadora e interdisciplinar",
+        "Ejercicios que combinan la teoría con la práctica de laboratorio en el aula de ciencias",
+        "Propuestas que integran el trabajo individual con el trabajo cooperativo en pequeños grupos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las tareas de aprendizaje integradas son aquellas que facilitan la realización de proyectos e investigaciones en el medio, priorizando una metodología globalizadora e interdisciplinar basada en el aprendizaje competencial."
+    },
+    {
+      "question": "¿Qué actitudes deben promoverse en relación con el bienestar y la perspectiva de género según las líneas de actuación del Tema 9?",
+      "options": [
+        "Actitudes de respeto y valoración de la diversidad cultural en el entorno educativo",
+        "Actitudes positivas para el bienestar personal, social y físico, y el espíritu crítico en relación con la perspectiva de género",
+        "Actitudes de cooperación, solidaridad y responsabilidad colectiva ante los retos globales",
+        "Actitudes de cuidado, empatía y sensibilidad hacia los seres vivos y el medioambiente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que es importante promover actitudes positivas para el bienestar personal, social y físico y el espíritu crítico en relación con la perspectiva de género. Estas actitudes forman parte de las líneas de actuación para el proceso de enseñanza-aprendizaje."
+    },
+    {
+      "question": "¿Cuál es el proyecto del Plan Proxecta+ denominado 'Naturezate' y a qué área temática pertenece?",
+      "options": [
+        "Un proyecto sobre ríos y ecosistemas acuáticos gallegos",
+        "Un proyecto de educación ambiental general sobre la naturaleza de Galicia",
+        "Un proyecto específico sobre la fauna amenazada de los bosques gallegos",
+        "Un proyecto de meteorología y predicción climática para escolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proyecto 'Naturezate' forma parte del Plan Proxecta+ de la Consellería de Educación de Galicia y está relacionado con la educación ambiental sobre la naturaleza gallega. Es uno de los varios proyectos del plan vinculados al Tema 9."
+    },
+    {
+      "question": "¿A qué se refiere el proyecto 'Escolas Verde polo Clima' del Plan Proxecta+?",
+      "options": [
+        "A la creación de zonas verdes y huertos ecológicos en los centros escolares",
+        "A un proyecto sobre la acción climática y la sostenibilidad en los centros educativos",
+        "A la plantación de árboles en el entorno de los centros escolares gallegos",
+        "A la medición y reducción de la huella de carbono de las escuelas gallegas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Escolas Verde polo Clima' es un proyecto del Plan Proxecta+ relacionado con la acción climática y la sostenibilidad en los centros educativos gallegos. Su nombre hace referencia a las escuelas verdes en acción contra el cambio climático."
+    },
+    {
+      "question": "¿Cuál es el proyecto del Plan Proxecta+ relacionado específicamente con el paisaje?",
+      "options": [
+        "Naturezate",
+        "Proxecto terra",
+        "Paisaxe e sustentabilidade",
+        "O monte vivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El proyecto 'Paisaxe e sustentabilidade' del Plan Proxecta+ está relacionado específicamente con el paisaje y la sostenibilidad. 'Naturezate' es de educación ambiental general, 'Proxecto terra' trata sobre la tierra y 'O monte vivo' sobre el monte."
+    },
+    {
+      "question": "¿Cómo contribuye el Tema 9 al desarrollo de la STEM en la Educación Primaria?",
+      "options": [
+        "Mediante la realización de experimentos de laboratorio con equipos científicos profesionales",
+        "Al participar en acciones científicas para preservar el medioambiente y practicando el consumo responsable",
+        "A través del diseño de maquetas tecnológicas de ecosistemas con materiales reciclados",
+        "Mediante el análisis de datos estadísticos sobre la evolución del cambio climático"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Tema 9 contribuye a la STEM al participar en acciones científicas para preservar el medioambiente y practicando el consumo responsable. La STEM combina las disciplinas de ciencia, tecnología, ingeniería y matemáticas en un enfoque integrado."
+    },
+    {
+      "question": "¿Qué aplicaciones TIC se mencionan en el texto para actividades interactivas en el aula?",
+      "options": [
+        "Scratch, Code.org, Minecraft Education y Google Classroom",
+        "Quizizz, Kahoot, Educaplay y Genially",
+        "Padlet, Mentimeter, Flipgrid y Jamboard",
+        "PowerPoint, Prezi, Canva y Seesaw"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona específicamente Quizizz, Kahoot, Educaplay y Genially para actividades interactivas en el aula. Gliffy y Easel se mencionan para crear murales interactivos o infografías sobre acciones para disminuir la contaminación."
+    },
+    {
+      "question": "¿Qué ejemplo de experimentación científica menciona Nuñez (2019) relacionada con la contaminación?",
+      "options": [
+        "Cultivar plantas con distintos tipos de agua para medir el efecto de los contaminantes",
+        "Medir el grado de contaminación de un río o el tiempo que tarda en descomponerse algún material como las toallitas húmedas",
+        "Analizar muestras de suelo contaminado con pruebas de pH y conductividad eléctrica",
+        "Construir filtros de agua con materiales naturales para comparar su eficacia purificadora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nuñez (2019) menciona específicamente tareas de experimentación científica como medir el grado de contaminación de un río o el tiempo que tarda en descomponerse algún material como las toallitas húmedas. Estos experimentos conectan directamente con los problemas ambientales reales."
+    },
+    {
+      "question": "¿Qué establece la 'Comisión Brundtland' como definición del Desarrollo Sostenible?",
+      "options": [
+        "Aquel que protege el medioambiente garantizando la biodiversidad para las generaciones actuales",
+        "Aquel que satisface la necesidad de la generación presente sin comprometer la capacidad de generaciones futuras",
+        "Aquel que equilibra el crecimiento económico con la protección del medioambiente y la justicia social",
+        "Aquel que utiliza exclusivamente energías renovables y tecnologías limpias en los procesos productivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Comisión Brundtland (1983) definió el Desarrollo Sostenible como 'aquel que satisface la necesidad de la generación presente sin comprometer la capacidad de generaciones futuras'. Esta es la definición más extendida y citada en el ámbito educativo."
+    },
+    {
+      "question": "¿Cuál es el papel de los 'espacios de robótica y laboratorios de investigación y experimentación' en el Tema 9?",
+      "options": [
+        "Son exclusivos para las áreas de matemáticas y tecnología, sin relación con la educación ambiental",
+        "Son fundamentales para promover hábitos de desarrollo sostenible en el alumnado",
+        "Se utilizan únicamente para reproducir experimentos científicos descritos en el libro de texto",
+        "Están diseñados para enseñar programación y pensamiento computacional relacionado con el medio ambiente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que los espacios de robótica y laboratorios de investigación y experimentación son fundamentales para promover hábitos de desarrollo sostenible, junto con programas como PLAMBE y biblioteca creativa."
+    },
+    {
+      "question": "¿Qué elementos de los factores abióticos de los ecosistemas menciona Escolástico et al. (2012)?",
+      "options": [
+        "Las bacterias, los hongos y las algas unicelulares",
+        "Los insectos, las plantas y los microorganismos del suelo",
+        "El aire, el suelo y el agua",
+        "Los minerales, el humus y los gases atmosféricos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Escolástico et al. (2012) identifica como factores abióticos (componentes sin vida del ecosistema) el aire, el suelo y el agua. Los factores bióticos son los integrantes vivos como plantas y animales."
+    },
+    {
+      "question": "¿Qué fuentes generan la 'contaminación del aire' según el texto?",
+      "options": [
+        "Los vehículos de combustión, las centrales térmicas y las fábricas de cemento",
+        "Fuentes industriales y agropecuarias, incendios y erupciones volcánicas",
+        "Los aerosoles domésticos, el tráfico aéreo y las quemas agrícolas",
+        "Las centrales nucleares, los vertederos y las plantas de tratamiento de residuos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que la contaminación del aire se debe a fuentes industriales y agropecuarias, incendios y erupciones volcánicas. Esta clasificación incluye tanto causas humanas como causas naturales."
+    },
+    {
+      "question": "¿Cómo se relaciona el Tema 9 con la 'perspectiva de género' según el texto?",
+      "options": [
+        "Analizando el impacto diferencial del cambio climático en hombres y mujeres",
+        "Aplicando el espíritu crítico en relación con la perspectiva de género como actitud a promover",
+        "Fomentando la participación igualitaria de niños y niñas en actividades de ciencias",
+        "Estudiando el papel de las mujeres en los movimientos ambientalistas históricos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona la perspectiva de género al señalar que es importante promover el espíritu crítico en relación con la perspectiva de género, junto con las actitudes positivas para el bienestar personal, social y físico, en el contexto de las líneas de actuación del Tema 9."
+    },
+    {
+      "question": "¿Qué importancia tienen los 'proyectos significativos' en la metodología del Tema 9 según el Decreto 155/2022?",
+      "options": [
+        "Deben ser proyectos muy complejos y de larga duración para garantizar el aprendizaje profundo",
+        "Deben ser proyectos de actualidad que partan de los conocimientos previos del alumnado y de su entorno próximo",
+        "Deben ser proyectos que sigan el libro de texto para garantizar la cobertura del currículo",
+        "Deben ser proyectos individuales que desarrollen la autonomía y la responsabilidad personal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los proyectos significativos deben ser de actualidad y partir de los conocimientos previos de los discentes y de su entorno próximo, tal y como establecen Ausubel y Piaget. Deben incluir actividades de observación y experimentación sobre los cambios del entorno causados por la acción humana."
+    },
+    {
+      "question": "¿Qué debe conseguir que el alumnado haga el tipo de tareas propuestas en el Tema 9, según el texto?",
+      "options": [
+        "Memorizar los contenidos clave del tema para reproducirlos en las pruebas de evaluación",
+        "Planificar, diseñar, proponer y comunicar propuestas creativas",
+        "Identificar los problemas ambientales y clasificarlos según su gravedad",
+        "Comparar diferentes ecosistemas y valorar su importancia para la biodiversidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que las tareas propuestas deben llevar al alumnado a planificar, diseñar, proponer y comunicar propuestas creativas. Este enfoque va más allá de la memorización y conecta con el desarrollo de las competencias clave."
+    },
+    {
+      "question": "¿Cuál es la fuente de energía principal que mantiene la vida en todos los ecosistemas según el texto?",
+      "options": [
+        "Los nutrientes minerales disueltos en el suelo y el agua",
+        "La energía química almacenada en la materia orgánica de los descomponedores",
+        "El sol",
+        "La energía térmica procedente del interior de la Tierra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto señala que todos los ecosistemas requieren de una fuente de energía, siendo la principal el sol, que fluye a través de sus componentes y mantiene la vida. La energía solar es captada por los productores primarios mediante la fotosíntesis."
+    },
+    {
+      "question": "¿Cuál es el papel de la 'escasez y contaminación del agua' como factor de deterioro del entorno?",
+      "options": [
+        "Es consecuencia de los vertidos industriales o los pesticidas",
+        "Se produce principalmente por la sobreexplotación de los acuíferos para consumo doméstico",
+        "Resulta de la combinación del cambio climático y el aumento de la demanda hídrica urbana",
+        "Está causada principalmente por la deforestación que reduce la capacidad de retención de agua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala específicamente que la escasez y contaminación del agua es consecuencia de los vertidos industriales o los pesticidas. Esta es la causa concreta mencionada en el texto de Escolástico et al. (2013)."
+    },
+    {
+      "question": "¿Cuál es la relación entre la Constitución Española de 1978 y la Educación Ambiental según el texto?",
+      "options": [
+        "La Constitución establece como derecho fundamental el acceso a un medioambiente limpio y sano",
+        "La Educación Ambiental constituye los principios de solidaridad, convivencia y responsabilidad colectiva recogidos en la Constitución",
+        "La Constitución obliga a los centros educativos a incluir la educación ambiental en el currículo",
+        "La Constitución crea el marco legal para la protección de los espacios naturales y la biodiversidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, Nuñez (2019) resalta la transversalidad del tema con otras áreas, especialmente la Educación en Valores Cívicos y Éticos, dado que la Educación Ambiental constituye los principios de solidaridad, convivencia y responsabilidad colectiva recogidos en la Constitución Española de 1978."
+    },
+    {
+      "question": "¿Cuál es el OBJ4 del área de CCSS del Decreto 155/2022 relacionado con el Tema 9?",
+      "options": [
+        "Identificar y analizar los elementos del medio natural para comprender su valor y promover un uso responsable",
+        "Identificar las causas y consecuencias de la intervención humana en el entorno, para afrontar problemas, buscar soluciones y promover estilos de vida sostenibles",
+        "Conocer los principales tratados y convenios internacionales sobre protección del medioambiente",
+        "Desarrollar propuestas de acción comunitaria para la mejora del entorno local y global"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ4 del área de CCSS es 'Identificar las causas y consecuencias de la intervención humana en el entorno, para afrontar problemas, buscar soluciones y promover estilos de vida sostenibles'. El OBJ3 de CCNN se centra en identificar y analizar los elementos del medio natural."
+    },
+    {
+      "question": "¿Qué regula la Orden de 26 de mayo de 2023 en relación con el Decreto 155/2022?",
+      "options": [
+        "Establece las orientaciones pedagógicas para el área de Educación Ambiental en primaria",
+        "Desarrolla el Decreto 155/2022 y regula la evaluación en la etapa de educación primaria en Galicia",
+        "Aprueba los programas educativos y de innovación relacionados con la sostenibilidad ambiental",
+        "Fija los criterios para la selección de materiales didácticos y recursos digitales en primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación y el currículo de la educación primaria en Galicia, y regula la evaluación en esa etapa educativa."
+    },
+    {
+      "question": "¿Qué impacto tiene la 'Revolución Industrial del siglo XIX' en la relación del ser humano con la naturaleza?",
+      "options": [
+        "Generó el primer marco legislativo internacional de protección del medioambiente",
+        "Disparó el consumo de combustibles fósiles, aumentando a gran escala el impacto ambiental",
+        "Inició el proceso de deforestación global para obtener terreno agrícola",
+        "Produjo el primer éxodo rural masivo, reduciendo la presión sobre los ecosistemas naturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Revolución Industrial del siglo XIX disparó el consumo de combustibles fósiles, aumentando a gran escala el impacto ambiental. Antes de ella, las primeras alteraciones vinieron de la agricultura, ganadería y el fuego; después, el impacto se volvió elevado y constante."
+    },
+    {
+      "question": "¿Cuál es el proyecto del Plan Proxecta+ llamado 'O monte vivo' y qué aborda?",
+      "options": [
+        "Un proyecto sobre los océanos y la vida marina de las rías gallegas",
+        "Un proyecto relacionado con la gestión sostenible del monte y los bosques gallegos",
+        "Un proyecto sobre la fauna de montaña y los parques naturales de Galicia",
+        "Un proyecto de reforestación urbana en los municipios gallegos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'O monte vivo' es un proyecto del Plan Proxecta+ relacionado con la gestión sostenible del monte y los bosques gallegos. Forma parte de la amplia oferta de proyectos ambientales que conectan la educación con el entorno natural gallego."
+    },
+    {
+      "question": "¿Qué elementos contempla la 'Red Mundial de Reservas de la Biosfera' coordinada por la UNESCO?",
+      "options": [
+        "Territorios protegidos exclusivamente por su valor ecológico sin presencia humana",
+        "Territorios reconocidos por su valor natural y cultural para conciliar la conservación de la biodiversidad con el desarrollo sostenible",
+        "Zonas marinas internacionales protegidas de la actividad pesquera y turística",
+        "Áreas forestales certificadas con sistemas de gestión sostenible de la madera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Red Mundial de Reservas de la Biosfera es una red internacional de territorios reconocidos por su valor natural y cultural, formada para conciliar la conservación de la biodiversidad con el desarrollo sostenible. Fue coordinada por la UNESCO en 1971."
+    },
+    {
+      "question": "¿Cuáles son las tres partes principales del concepto de 'contaminación' en la clasificación del Glosario VITALIS por agente?",
+      "options": [
+        "Atmosférica, acuática y terrestre",
+        "Física, química y biológica",
+        "Radioactiva, química y orgánica",
+        "Industrial, agrícola y doméstica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La clasificación por agente contaminante del Glosario VITALIS distingue entre contaminación radioactiva (por residuos nucleares), química (por vertidos químicos nocivos) y orgánica (por sustancias que tardan en degradarse). La clasificación por medio distingue atmosférica, acuática, del suelo y de seres vivos."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la visión 'antropocéntrica' y la 'biocéntrica' del entorno según Carlos Osorio?",
+      "options": [
+        "La antropocéntrica considera al ser humano como el mayor depredador del ecosistema; la biocéntrica como el responsable de su conservación",
+        "La antropocéntrica ve el entorno como recurso a explotar; la biocéntrica lo ve como red de interacciones de la que formamos parte",
+        "La antropocéntrica prioriza la economía sobre la ecología; la biocéntrica prioriza la ecología sobre la economía",
+        "La antropocéntrica es el enfoque de las políticas nacionales; la biocéntrica es el enfoque de los tratados internacionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carlos Osorio plantea la necesidad de transitar de una concepción antropocéntrica (entorno como recurso a explotar) a una visión biocéntrica (entorno como red de interacciones de la que formamos parte). Este cambio conceptual es fundamental para abordar los problemas ambientales."
+    },
+    {
+      "question": "¿Qué tipo de actividades de salida de campo recomienda Nuñez (2019) para trabajar el Tema 9?",
+      "options": [
+        "Visitas a museos de ciencias naturales y observatorios astronómicos",
+        "Excursiones a parques nacionales y reservas naturales protegidas",
+        "Visitas a fábricas, parques o puntos limpios de la ciudad",
+        "Salidas a la costa para el estudio de los ecosistemas marinos y costeros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nuñez (2019) destaca las salidas de campo para explorar el entorno, como visitas a fábricas, parques o puntos limpios de la ciudad. Estas salidas conectan el aprendizaje con la realidad del entorno próximo al alumnado."
+    },
+    {
+      "question": "¿Cuál es la aportación específica de Meira (2013) según el texto respecto a los problemas ambientales?",
+      "options": [
+        "Define los ecosistemas y su clasificación desde una perspectiva ecológica",
+        "Menciona que los problemas ambientales están relacionados con la intervención humana y propone la visión biocéntrica",
+        "Destaca la importancia de la educación para el desarrollo sostenible basada en proyectos de investigación",
+        "Defiende la educación ambiental como herramienta para que el alumnado construya una imagen real del entorno y actúe en consecuencia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Meira (2013) defiende que la Educación Ambiental debe transmitir los conocimientos que permitan al alumnado construir una imagen real del entorno, percibirlo, comprender los problemas ambientales y actuar en consecuencia. También destaca las mesas redondas y coloquios como actividades para reflexionar sobre problemas globales. Carlos Osorio propone la visión biocéntrica."
+    },
+    {
+      "question": "¿Qué propone Nuñez (2019) en relación con la 'educación para el desarrollo sostenible'?",
+      "options": [
+        "Que debe centrarse en los contenidos teóricos sobre ecosistemas y biodiversidad",
+        "Que debe basarse en la Educación Ambiental, concretarse en los proyectos de centro y capacitar al docente para formular propuestas de acción",
+        "Que debe integrarse exclusivamente en el área de Ciencias Naturales como asignatura troncal",
+        "Que debe evaluarse mediante pruebas estandarizadas internacionales vinculadas a los ODS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nuñez (2019) destaca la importancia de una educación para el desarrollo sostenible basada en la Educación Ambiental, que debe concretarse en los proyectos de centro y capacitar al docente para formular propuestas de acción."
+    },
+    {
+      "question": "¿Cuándo se aprobó el Decreto 155/2022 y qué establece?",
+      "options": [
+        "El 15 de septiembre de 2022, y establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia",
+        "El 26 de mayo de 2023, y desarrolla las orientaciones pedagógicas para el área de CCNN en Galicia",
+        "El 29 de diciembre de 2020, y modifica la Ley Orgánica 2/2006 de Educación",
+        "El 26 de septiembre de 2022, y aprueba el currículo de educación secundaria en Galicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 fue aprobado el 15 de septiembre de 2022 y establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia. Se publicó en el DOG número 183, de 26 de septiembre de 2022."
+    },
+    {
+      "question": "¿Cuál es la definición de 'sucesión ecológica' según el texto?",
+      "options": [
+        "El proceso de extinción gradual de especies en un ecosistema debido a la perturbación ambiental",
+        "El proceso por el cual una comunidad biológica es sustituida progresivamente por otra en un mismo lugar",
+        "La secuencia de cambios en la composición química del suelo a lo largo del tiempo",
+        "El ciclo de regeneración natural de los ecosistemas tras un evento catastrófico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La sucesión ecológica es el proceso por el cual una comunidad biológica es sustituida progresivamente por otra en un mismo lugar (biotopo). Puede ser primaria (en zona sin comunidad previa) o secundaria (en zona modificada por incendio, inundación o enfermedad)."
+    },
+    {
+      "question": "¿Cuál es la ley orgánica que modifica la LOE y cuándo fue aprobada?",
+      "options": [
+        "LOMCE, de 9 de diciembre de 2013",
+        "LOMLOE (Ley Orgánica 3/2020), de 29 de diciembre de 2020",
+        "LOGSE, de 3 de octubre de 1990",
+        "LOPEGCE, de 20 de noviembre de 1995"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE es la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Es el marco legislativo principal que sustenta el Tema 9."
+    },
+    {
+      "question": "¿Qué tipo de recursos didácticos 'estructurados' menciona el texto para el Tema 9?",
+      "options": [
+        "Elementos naturales como piedras, hojas y semillas recolectadas en el entorno",
+        "Materiales reciclados como botellas, cartón y papel usado",
+        "Fichas didácticas, libros de texto, pósters y juegos de mesa tipo 'memory' de animales o ecosistemas",
+        "Aplicaciones digitales como simuladores de ecosistemas y realidad aumentada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los recursos didácticos estructurados son los diseñados específicamente para la enseñanza: fichas didácticas, libros de texto, pósters y juegos de mesa tipo 'memory' de animales o ecosistemas. Los no estructurados son elementos naturales y materiales reciclados."
+    },
+    {
+      "question": "¿Cuál es el papel de la biblioteca escolar y el programa PLAMBE en el Tema 9?",
+      "options": [
+        "Son herramientas para la evaluación de los contenidos del tema mediante pruebas documentales",
+        "Son espacios y programas de aprendizaje que ayudan a promover hábitos de desarrollo sostenible junto con laboratorios y robótica",
+        "Son recursos exclusivamente para el área de lengua y literatura sin relación con las ciencias",
+        "Son programas de innovación educativa que sustituyen al libro de texto tradicional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que los contenidos se trabajarán con metodología globalizadora e interdisciplinar, ayudándose de programas como PLAMBE y biblioteca creativa, además de espacios de robótica y laboratorios, fundamentales para promover hábitos de desarrollo sostenible."
+    },
+    {
+      "question": "¿Cómo influye el entorno social en el desarrollo de los individuos según el texto?",
+      "options": [
+        "El entorno social determina los componentes físicos, químicos y biológicos del hábitat del individuo",
+        "El entorno social es donde los individuos se desarrollan y realizan varias de sus interacciones y labores",
+        "El entorno social define el conjunto de rasgos, valores y estilos de vida de una sociedad",
+        "El entorno social comprende los factores bióticos que condicionan el comportamiento humano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El entorno social es definido como el espacio donde los individuos se desarrollan y realizan varias de sus interacciones y labores. El entorno natural incluye los componentes físicos, químicos y biológicos, y el cultural comprende los rasgos, valores y estilos de vida."
+    },
+    {
+      "question": "¿Cuál es la diferencia específica entre los 'factores bióticos' y 'abióticos' de un ecosistema según Escolástico et al. (2012)?",
+      "options": [
+        "Los factores bióticos incluyen solo los animales; los abióticos incluyen plantas, hongos y minerales",
+        "Los factores bióticos son los integrantes vivos como plantas y animales; los abióticos son los componentes sin vida como el aire, el suelo o el agua",
+        "Los factores bióticos son productores y consumidores; los abióticos son los descomponedores",
+        "Los factores bióticos son macroscópicos; los abióticos incluyen los microorganismos del suelo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Escolástico et al. (2012), los factores bióticos son los integrantes vivos como plantas y animales, mientras que los factores abióticos son los componentes sin vida como el aire, el suelo o el agua. Esta distinción es fundamental para el estudio de los ecosistemas."
+    },
+    {
+      "question": "¿Qué actividades relacionadas con el reciclaje y el consumo responsable menciona el texto?",
+      "options": [
+        "Visitas a plantas de reciclaje y análisis de la composición de los residuos domésticos",
+        "Actividades de reciclaje, ahorro de energía luminosa, huertos escolares, maquetas de ecosistemas, arte reciclado y campañas de donación",
+        "Proyectos de separación de residuos y compostaje en el centro escolar",
+        "Talleres de reparación de objetos y mercadillos de segunda mano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona varias actividades relacionadas: el reciclaje, el ahorro de energía luminosa, la creación de huertos escolares, la elaboración de maquetas de ecosistemas, las exposiciones de arte reciclado y las campañas de donación de juguetes, ropa y alimentos."
+    },
+    {
+      "question": "¿Qué tipo de organismo puede actuar como 'productor primario' por quimiosíntesis?",
+      "options": [
+        "Los hongos que descomponen la materia orgánica muerta",
+        "Las plantas verdes que capturan la luz solar directa",
+        "Ciertos tipos de bacterias que obtienen energía de reacciones químicas inorgánicas",
+        "Las algas que realizan fotosíntesis en el medio acuático"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La quimiosíntesis es realizada por ciertos tipos de bacterias que obtienen energía de reacciones químicas inorgánicas (en lugar de la luz solar). El texto menciona 'fotosíntesis o quimiosíntesis' como los dos procesos que usan los productores primarios para producir materia orgánica."
+    },
+    {
+      "question": "¿Qué implica que el impacto de la educación ambiental trascienda las paredes del aula según la conclusión del texto?",
+      "options": [
+        "Que las excursiones y salidas de campo son la actividad más eficaz de la educación ambiental",
+        "Que la educación ambiental debe convertirse en una práctica de educación permanente que implique a familias, instituciones, medios de comunicación y gobiernos",
+        "Que los maestros deben implicarse en movimientos sociales de defensa del medioambiente",
+        "Que los proyectos ambientales escolares deben difundirse a través de las redes sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La conclusión del texto afirma que el impacto real solo será posible si trasciende las paredes del aula y se convierte en una práctica de educación permanente que implique a todos los agentes de la sociedad: familias, instituciones, medios de comunicación y gobiernos."
+    },
+    {
+      "question": "¿Cuáles son las principales preocupaciones de la 'problemática ambiental actual' mencionadas en el texto?",
+      "options": [
+        "Cambio climático, crecimiento poblacional/escasez de recursos, deforestación/pérdida de diversidad y contaminación del agua, aire y suelo",
+        "Energía nuclear, residuos plásticos, extinción de animales y contaminación lumínica",
+        "Crisis hídrica, acidificación oceánica, desertificación y pérdida del suelo fértil",
+        "Urbanización descontrolada, tráfico rodado, sobreturismo y degradación del paisaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona como preocupaciones de la problemática ambiental actual el cambio climático, el crecimiento poblacional y escasez de recursos, la deforestación y pérdida de diversidad, y la contaminación del agua, aire y suelo."
+    },
+    {
+      "question": "¿Cuántas competencias clave desarrolla el Tema 9 según el texto?",
+      "options": [
+        "Cuatro competencias (CCL, STEM, CD y CC)",
+        "Seis competencias (CCL, CP, STEM, CD, CPSAA y CC)",
+        "Ocho competencias (todas las CC del currículo)",
+        "Dos competencias (STEM y CD, las más relacionadas con las ciencias)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el texto, el entorno y su conservación contribuye a la adquisición de las ocho competencias clave: CCL, CP, STEM, CD, CPSAA, CC, CE y CCEC. Este es un elemento curricular destacable del Tema 9."
+    },
+    {
+      "question": "¿Cuál es la forma que tiene la 'energía' de circular en los ecosistemas, a diferencia de la materia?",
+      "options": [
+        "La energía circula en ciclos cerrados como la materia, pero a velocidades distintas",
+        "La energía se acumula en los descomponedores y luego regresa a los productores",
+        "La materia circula en ciclos cerrados entre niveles tróficos; la energía fluye unidireccionalmente y se disipa en cada nivel",
+        "Tanto la materia como la energía fluyen unidireccionalmente desde los productores hasta los descomponedores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La materia circula en ciclos biogeoquímicos (ciclos de carbono, nitrógeno, azufre, etc.) que son cíclicos. La energía, en cambio, fluye unidireccionalmente desde el sol, a través de los productores, consumidores y descomponedores, disipándose en cada nivel trófico como calor."
+    },
+    {
+      "question": "¿Qué distingue la 'simbiosis' del 'mutualismo' como relaciones interespecíficas favorables?",
+      "options": [
+        "La simbiosis es temporal y el mutualismo es permanente",
+        "El mutualismo implica beneficio mutuo; la simbiosis es una asociación íntima y estrecha entre dos especies",
+        "La simbiosis perjudica a uno de los organismos; el mutualismo beneficia a ambos",
+        "El mutualismo es acuático y la simbiosis es terrestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona el mutualismo y la simbiosis como relaciones interespecíficas favorables. El mutualismo implica beneficio mutuo entre organismos de distintas especies, mientras que la simbiosis implica una asociación íntima y estrecha (a menudo de por vida) entre dos especies con beneficio mutuo. El comensalismo beneficia solo a uno sin dañar al otro."
+    },
+    {
+      "question": "¿En qué sentido contribuye el Tema 9 al desarrollo de hábitos de 'movilidad sostenible' en el alumnado?",
+      "options": [
+        "A través del área de Ciencias Sociales, analizando los sistemas de transporte urbano",
+        "Mediante el área de Educación Física, fomentando desplazamientos activos y sostenibles al aire libre",
+        "A través del área de Tecnología, diseñando vehículos de baja emisión",
+        "Mediante el área de Matemáticas, calculando las emisiones de CO2 de los distintos medios de transporte"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que la relación de la Educación Medioambiental con Educación Física fomenta la movilidad sostenible y el conocimiento del medio natural mediante actividades al aire libre. La movilidad sostenible también es un objetivo medioambiental a trabajar en el aula."
+    },
+    {
+      "question": "¿Cuál es el papel de los 'descriptores operativos' en el currículo de la LOMLOE?",
+      "options": [
+        "Son los instrumentos de evaluación que los docentes deben utilizar obligatoriamente",
+        "Son los contenidos mínimos que el alumnado debe conocer al finalizar cada ciclo",
+        "Son los instrumentos a través de los cuales se deduce el nivel competencial del perfil de salida",
+        "Son los indicadores de logro que se incluyen en las rúbricas de evaluación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los descriptores operativos son los instrumentos a través de los cuales se deduce el nivel competencial del alumnado esperado al completar la educación básica (el perfil de salida). Implican el desarrollo de las competencias clave."
+    },
+    {
+      "question": "¿Cuál es la obra de Escolástico et al. (2013) citada en el texto?",
+      "options": [
+        "'Enseñar Ciencias Naturales en Educación Primaria'",
+        "'Ecología I: Introducción. Organismos y poblaciones'",
+        "'Educación para el desarrollo sostenible: hacia una visión sociopedagógica'",
+        "'Problemas ambientales globales y educación ambiental'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La obra de Escolástico, Cabildo, Claramunt y Claramunt (2013) es 'Ecología I: Introducción. Organismos y poblaciones', publicada por la UNED en Madrid. En esta obra se basan los factores de deterioro y los conceptos de ecosistema."
+    },
+    {
+      "question": "¿Cuál es la obra de Caballero (2011) citada en el texto?",
+      "options": [
+        "'Problemas ambientales globales y educación ambiental'",
+        "'Ecología I: Introducción. Organismos y poblaciones'",
+        "'Educación para el desarrollo sostenible: hacia una visión sociopedagógica'",
+        "'Enseñar Ciencias Naturales en Educación Primaria'"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La obra de Caballero (2011) es 'Enseñar Ciencias Naturales en Educación Primaria', publicada por CCS en Madrid. Es una de las referencias bibliográficas del tema, aunque Caballero no se cita directamente en el cuerpo del texto."
+    },
+    {
+      "question": "¿En qué revista publicó Meira (2013) su artículo sobre educación ambiental?",
+      "options": [
+        "Alas: Controversias y Concurrencias Latinoamericanas",
+        "Integra Educativa",
+        "Cuadernos de Pedagogía",
+        "Revista Iberoamericana de Educación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Meira (2013) publicó 'Problemas ambientales globales y educación ambiental' en la revista Integra Educativa, volumen 6, número 3, páginas 29-64. Nuñez (2019) publicó en Alas: Controversias y Concurrencias Latinoamericanas."
+    },
+    {
+      "question": "¿Cuál es el título del artículo de Nuñez (2019)?",
+      "options": [
+        "'Problemas ambientales globales y educación ambiental'",
+        "'La educación ambiental en la escuela primaria: retos y perspectivas'",
+        "'Educación para el desarrollo sostenible: hacia una visión sociopedagógica'",
+        "'Ecosistemas y educación ambiental en la escuela del siglo XXI'"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo de Nuñez (2019) se titula 'Educación para el desarrollo sostenible: hacia una visión sociopedagógica', publicado en Alas: Controversias y Concurrencias Latinoamericanas, volumen 11, número 19, páginas 291-307."
+    },
+    {
+      "question": "¿Cuál es la importancia de la 'atención a la diversidad' en la enseñanza del Tema 9?",
+      "options": [
+        "Solo es necesaria cuando hay alumnado con necesidades educativas especiales diagnosticadas",
+        "Debe considerarse en el diseño de actividades para atender los diferentes ritmos y estilos de aprendizaje de todo el alumnado",
+        "Se gestiona únicamente a través del apoyo del especialista en pedagogía terapéutica",
+        "Se limita a la adaptación de los materiales escritos para el alumnado con dificultades lectoras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que la enseñanza debe tener en cuenta los diferentes ritmos y estilos de aprendizaje del alumnado, promoviendo la atención a la diversidad e implementando mecanismos de refuerzo y ampliación para prevenir dificultades. Esto va más allá del alumnado con necesidades específicas."
+    },
+    {
+      "question": "¿Cuál es el papel específico de las 'actividades de observación y experimentación' en el Tema 9?",
+      "options": [
+        "Sustituyen a los contenidos teóricos para garantizar un aprendizaje puramente práctico",
+        "Son actividades sobre los cambios del entorno causados por la acción humana, diseñadas dentro de proyectos significativos",
+        "Se realizan exclusivamente en el laboratorio escolar con equipos científicos especializados",
+        "Sirven únicamente para motivar al alumnado en el aprendizaje de los contenidos teóricos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que dentro de los proyectos significativos que parten del entorno próximo del alumnado, se deben diseñar actividades de observación y experimentación sobre los cambios del entorno causados por la acción humana."
+    },
+    {
+      "question": "¿Cuál es el proyecto del Plan Proxecta+ denominado 'Galicon'?",
+      "options": [
+        "Un proyecto sobre la ganadería gallega y la producción de leche",
+        "Un proyecto que forma parte del Plan Proxecta+ de la Consellería de Educación de Galicia",
+        "Un proyecto exclusivamente digital sobre el patrimonio cultural de Galicia",
+        "Un proyecto de intercambio con colegios europeos sobre medio ambiente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Galicon es uno de los proyectos del Plan Proxecta+ de la Consellería de Educación de Galicia relacionados con la Educación Ambiental. El texto lo menciona dentro de la larga lista de proyectos del plan sin especificar su contenido detallado."
+    },
+    {
+      "question": "¿Qué establece el artículo 7 l) del Decreto 155/2022 como objetivo de etapa?",
+      "options": [
+        "Conocer los aspectos fundamentales de las ciencias de la naturaleza, las ciencias sociales, la geografía, la historia y la cultura",
+        "Conocer y valorar a los animales más próximos al ser humano y adoptar modos de comportamiento que favorezcan la empatía y su cuidado",
+        "Identificar las causas y consecuencias de la intervención humana en el entorno para afrontar problemas y promover estilos de vida sostenibles",
+        "Valorar la higiene y la salud, aceptar el propio cuerpo y el de los otros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 7 l) del Decreto 155/2022 establece como objetivo de etapa: 'Conocer y valorar a los animales más próximos al ser humano y adoptar modos de comportamiento que favorezcan la empatía y su cuidado'. El artículo 7 h) se refiere al conocimiento de las ciencias de la naturaleza y sociales."
+    },
+    {
+      "question": "¿Cuál de los siguientes grupos de especies actúa como 'consumidores secundarios' en la cadena trófica?",
+      "options": [
+        "Plantas, algas y organismos fotosintéticos",
+        "Herbívoros como conejos, ciervos y vacas",
+        "Carnívoros que se alimentan de herbívoros, como zorros, serpientes o halcones",
+        "Bacterias y hongos descomponedores de la materia orgánica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los consumidores secundarios son carnívoros que se alimentan de herbívoros (consumidores primarios). Los primarios son herbívoros, los terciarios son superdepredadores que comen a otros carnívoros, y los descomponedores cierran el ciclo."
+    },
+    {
+      "question": "¿Qué aspectos de la 'Educación Ambiental' destacan Meira (2013) y Nuñez (2019) según el texto?",
+      "options": [
+        "La importancia de los proyectos de investigación y las pruebas estandarizadas de conocimiento ambiental",
+        "La importancia de la educación para el desarrollo sostenible y su concreción en los proyectos de centro, capacitando al docente para propuestas de acción",
+        "La necesidad de crear asignaturas específicas de educación ambiental en todos los niveles educativos",
+        "La relevancia de la evaluación ambiental como instrumento para medir el impacto de la educación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Meira (2013) y Nuñez (2019) destacan la importancia de una educación para el desarrollo sostenible basada en la Educación Ambiental, que debe concretarse en los proyectos de centro y capacitar al docente para formular propuestas de acción."
+    },
+    {
+      "question": "¿Cuál es la interrelación entre el Bloque 2 de CCNN y el Bloque 2 de CCSS en el Decreto 155/2022 para el Tema 9?",
+      "options": [
+        "Ambos bloques son independientes y abordan el mismo tema desde perspectivas diferentes sin superposición",
+        "El Bloque 2 de CCNN integra las relaciones de los seres vivos con el entorno y la biodiversidad; el de CCSS aborda los hábitos sostenibles y el impacto ambiental de la actividad humana",
+        "El Bloque 2 de CCNN se ocupa de los ecosistemas acuáticos; el de CCSS de los ecosistemas terrestres",
+        "El Bloque 2 de CCNN estudia los ecosistemas a nivel local; el de CCSS los aborda a nivel global e internacional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Bloque 2 'La vida en nuestro planeta' de CCNN integra las relaciones de los seres vivos con el entorno y el cuidado de la biodiversidad. El Bloque 2 'El mundo y el desarrollo sostenible' de CCSS aborda los hábitos de vida sostenible y las interacciones entre la actividad humana y el medio."
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones recoge correctamente la clasificación de los ecosistemas en el texto?",
+      "options": [
+        "Bióticos (con vida) y abióticos (sin vida), divididos en acuáticos y terrestres",
+        "Artificiales (urbanos, agrícolas, de embalse) y naturales (terrestres: desiertos, sabanas, selvas, bosques, tundras; acuáticos: océanos, mares, manantiales, arrecifes, lagos, ríos)",
+        "Costeros, continentales y oceánicos, cada uno con sus subtipos de comunidades bióticas",
+        "Primarios (no alterados) y secundarios (alterados por el ser humano), con subtipos según la latitud"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La clasificación completa del texto es: artificiales (urbanos, agrícolas y de presa o embalse) y naturales (terrestres: desiertos, sabanas, selvas, bosques y tundras; acuáticos: océanos, mares, manantiales, arrecifes, lagos y ríos)."
+    },
+    {
+      "question": "¿Por qué cualquier variación en un componente del ecosistema repercute en los demás?",
+      "options": [
+        "Porque todos los ecosistemas tienen la misma composición de especies y reaccionan igual a los cambios",
+        "Porque los ecosistemas presentan un conjunto de relaciones entre sus elementos que mantienen el equilibrio del sistema",
+        "Porque la energía solar es constante e independiente de los cambios en la biomasa del ecosistema",
+        "Porque los ciclos biogeoquímicos son autónomos y compensan cualquier variación en los niveles tróficos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los ecosistemas presentan un conjunto de relaciones entre sus elementos que mantienen el equilibrio del sistema. Por ello, cualquier variación en un componente repercute en los demás, lo que explica por qué los factores de deterioro tienen efectos en cascada."
+    },
+    {
+      "question": "¿Cuál es la aplicación educativa del concepto de 'reducción de residuos' en el aula según el texto?",
+      "options": [
+        "Estudiar los tipos de residuos urbanos y su impacto en el medioambiente",
+        "La ley de las 3R (reducir, recuperar, reciclar) como principio fundamental de consumo responsable a enseñar al alumnado",
+        "Diseñar campañas de comunicación para concienciar a las familias sobre el reciclaje",
+        "Calcular matemáticamente la cantidad de residuos generados por el centro escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La gestión inadecuada de residuos como factor de deterioro requiere enseñar al alumnado la ley de las 3R: reducir, recuperar, reciclar, como principio fundamental de consumo responsable. Esta ley también aparece entre las medidas de conservación y regeneración."
+    },
+    {
+      "question": "¿Cuál es la lógica curricular de la 'progresión por ciclos' en los criterios de evaluación del Bloque 2 de CCNN?",
+      "options": [
+        "1.er ciclo: aplicación; 2.º ciclo: análisis; 3.er ciclo: síntesis y evaluación",
+        "1.er ciclo: reconocimiento y respeto; 2.º ciclo: conocimiento y protección; 3.er ciclo: compromisos y conductas para la sostenibilidad",
+        "1.er ciclo: observación; 2.º ciclo: experimentación; 3.er ciclo: investigación y acción",
+        "1.er ciclo: comprensión; 2.º ciclo: aplicación; 3.er ciclo: evaluación crítica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La progresión curricular sigue un orden lógico: en el 1.er ciclo se trabaja el reconocimiento de elementos del medio natural y el respeto (bien común); en el 2.º ciclo el conocimiento y la protección activa; en el 3.er ciclo se avanza hacia compromisos y conductas para la sostenibilidad."
+    },
+    {
+      "question": "¿Cuáles son las 'medidas de conservación y regeneración del suelo' mencionadas en el texto?",
+      "options": [
+        "La reforestación de zonas deforestadas y la creación de zonas de amortiguamiento",
+        "La protección con cubiertas vegetales y su enriquecimiento con materia orgánica",
+        "La limitación del pastoreo y la prohibición de los cultivos intensivos",
+        "El uso de abonos ecológicos y la rotación de cultivos para mantener la fertilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona como medidas de conservación y regeneración del suelo la protección con cubiertas vegetales y su enriquecimiento con materia orgánica. Estas son las medidas específicas citadas para contrarrestar la erosión y desertización."
+    },
+    {
+      "question": "¿Cómo describe el texto el estado actual del impacto humano en los ecosistemas?",
+      "options": [
+        "El ser humano ha aprendido a convivir con la naturaleza gracias a las políticas ambientales internacionales",
+        "El impacto humano ha disminuido en los últimos años gracias al desarrollo de tecnologías limpias",
+        "En la actualidad el ser humano ejerce una influencia elevada y constante sobre los ecosistemas",
+        "El impacto humano es moderado y está siendo compensado por la capacidad de regeneración natural"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto describe la evolución histórica concluyendo que 'en la actualidad el ser humano ejerce una influencia elevada y constante sobre los ecosistemas'. Esto justifica la necesidad de políticas ambientales y de la educación ambiental."
+    },
+    {
+      "question": "¿Cuáles son los ciclos de la materia mencionados en el texto y qué función cumplen?",
+      "options": [
+        "Ciclos del oxígeno y del carbono, que mantienen las condiciones atmosféricas para la vida",
+        "Ciclos del carbono, hidrógeno, nitrógeno y azufre, que hacen circular los elementos químicos entre los niveles tróficos y el medio físico",
+        "Ciclos de los nutrientes del suelo (nitrógeno, fósforo y potasio) para la nutrición de las plantas",
+        "Ciclos del agua y del CO2, que mantienen el equilibrio climático global"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los ciclos de la materia hacen circular los elementos químicos que forman los seres vivos (carbono, hidrógeno, nitrógeno y azufre) entre los distintos niveles tróficos y el medio físico. A diferencia del flujo de energía, los ciclos de la materia son cíclicos."
+    },
+    {
+      "question": "¿Cuál es la función del 'parasitismo' como relación interespecífica perjudicial?",
+      "options": [
+        "Un organismo mata inmediatamente a otro para alimentarse de él",
+        "Un organismo se beneficia a expensas de otro causándole daño pero sin matarlo necesariamente",
+        "Dos organismos compiten por el mismo recurso limitado del ecosistema",
+        "Un organismo ayuda a otro en la búsqueda de alimento a cambio de protección"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el parasitismo, un organismo (parásito) se beneficia a expensas de otro (huésped), causándole daño pero sin matarlo necesariamente, ya que el parásito depende del huésped para sobrevivir. Se diferencia de la depredación, donde el depredador mata a la presa para alimentarse."
+    },
+    {
+      "question": "¿Cuántas secciones principales tiene el Tema 9 según su estructura?",
+      "options": [
+        "Tres secciones: ecosistemas, contaminación e intervención educativa",
+        "Cinco secciones: introducción, tres bloques temáticos, intervención educativa y conclusión",
+        "Cuatro secciones principales: el entorno y su conservación, relaciones en los ecosistemas, capacidad humana de actuar sobre la naturaleza, e intervención educativa",
+        "Seis secciones: conceptos, clasificación, relaciones, deterioro, políticas y didáctica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Tema 9 tiene cuatro secciones principales: (1) El entorno y su conservación, (2) Relaciones entre los elementos de los ecosistemas, factores de deterioro y regeneración, (3) Capacidad de los seres humanos para actuar sobre la naturaleza, y (4) Intervención educativa, más una introducción y conclusión."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la contaminación 'orgánica' y la 'química' según el Glosario VITALIS?",
+      "options": [
+        "La orgánica es de origen biológico; la química es de origen industrial",
+        "La orgánica es por sustancias que tardan en degradarse; la química es por vertidos químicos nocivos al agua o al aire",
+        "La orgánica afecta solo al suelo; la química afecta principalmente al agua y al aire",
+        "La orgánica es reversible; la química genera daños irreversibles en los ecosistemas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La contaminación orgánica es causada por sustancias que tardan en degradarse (como plásticos o ciertos pesticidas). La química es causada por vertidos químicos nocivos al agua o al aire. La radioactiva es por residuos o materiales nucleares."
+    },
+    {
+      "question": "¿Qué establece el artículo 7 h) del Decreto 155/2022 como objetivo de etapa?",
+      "options": [
+        "Conocer y valorar a los animales más próximos al ser humano y adoptar modos de comportamiento que favorezcan la empatía",
+        "Conocer los aspectos fundamentales de las ciencias de la naturaleza, las ciencias sociales, la geografía, la historia y la cultura",
+        "Desarrollar hábitos de trabajo individual y de equipo, y capacidades para el trabajo autónomo",
+        "Valorar la higiene y la salud y los aspectos fundamentales del cuerpo humano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 7 h) del Decreto 155/2022 establece como objetivo de etapa: 'Conocer los aspectos fundamentales de las ciencias de la naturaleza, las ciencias sociales, la geografía, la historia y la cultura'. El artículo 7 l) se refiere a conocer y valorar a los animales."
+    },
+    {
+      "question": "¿Cuál es el enfoque metodológico que debe priorizar la enseñanza del Tema 9 en la EP según el Decreto 155/2022?",
+      "options": [
+        "Transmisivo, centrado en el docente como transmisor del conocimiento científico",
+        "Constructivista individual, donde cada alumno construye su propio aprendizaje sin interacción grupal",
+        "Globalizador e interdisciplinar, basado en el aprendizaje competencial",
+        "Memorístico y sistemático, que asegure la adquisición de todos los contenidos del currículo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto señala que debe priorizarse una metodología globalizadora e interdisciplinar basada en el aprendizaje competencial, promoviendo la biblioteca como espacio de aprendizaje y espacios de robótica y laboratorios de investigación."
+    },
+    {
+      "question": "¿Qué organismos internacionales elaboraron convenios de protección ambiental antes del Protocolo de Kioto (1997)?",
+      "options": [
+        "Solo la ONU con la Agenda 2030 y el Convenio sobre la Diversidad Biológica",
+        "El Convenio del Patrimonio Mundial (1972), el Convenio de Viena (1985), el Protocolo de Montreal (1987) y el Convenio sobre la Diversidad Biológica (1992)",
+        "La UNESCO con la Red de Reservas de la Biosfera (1971) y la ONU con el Convenio del Patrimonio Mundial (1975)",
+        "La Unión Europea con el Pacto Verde Europeo y la ONU con la Agenda 2030"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Antes del Protocolo de Kioto (1997), se habían aprobado: el Convenio del Patrimonio Mundial (1972), el Convenio de Viena (1985), el Protocolo de Montreal (1987) y el Convenio sobre la Diversidad Biológica (1992). El Protocolo de Cartagena (2000) es posterior a Kioto."
+    },
+    {
+      "question": "¿Qué establece el texto sobre la interdisciplinariedad de la Educación Ambiental?",
+      "options": [
+        "La Educación Ambiental es exclusiva del área de Ciencias Naturales por su contenido científico",
+        "La Educación Medioambiental adopta un enfoque interdisciplinar y globalizador relacionándose con otras áreas curriculares",
+        "La Educación Ambiental solo se puede trabajar de forma transversal fuera del horario lectivo ordinario",
+        "La interdisciplinariedad ambiental se limita a las áreas de ciencias y matemáticas por su carácter cuantitativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto afirma que la Educación Medioambiental adopta un enfoque interdisciplinar y globalizador relacionándose con otras áreas: lingüísticas (LCL, LGL, LE), Matemáticas, Educación Física, Educación Plástica y Visual, Música y Danza, y Educación en Valores Cívicos y Éticos."
+    },
+    {
+      "question": "¿Cuándo fue aprobada la LOMLOE y a qué Ley modifica?",
+      "options": [
+        "El 3 de mayo de 2006, y modifica la LOGSE de 1990",
+        "El 9 de diciembre de 2013, y modifica la LOE de 2006",
+        "El 29 de diciembre de 2020, y modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+        "El 26 de mayo de 2023, y desarrolla el Decreto 155/2022 de Galicia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE es la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). Es el marco legislativo nacional que sustenta el currículo de la educación primaria."
+    },
+    {
+      "question": "¿Cuál es el propósito formativo general de la Educación en Ciencias de la Naturaleza y en Ciencias Sociales según la introducción del texto?",
+      "options": [
+        "Transmitir los conocimientos científicos sobre ecosistemas y medio ambiente",
+        "Formar personas activas, responsables y respetuosas con el entorno, promoviendo un mundo más solidario, justo, igualitario y sostenible",
+        "Preparar al alumnado para el estudio académico de las ciencias naturales y sociales",
+        "Desarrollar habilidades de investigación y pensamiento crítico en el alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La introducción del texto establece que la educación en CCNN y CCSS persigue formar personas activas, responsables y respetuosas con el entorno, promoviendo la construcción de un mundo más solidario, justo, igualitario y sostenible."
+    },
+    {
+      "question": "¿Qué tipo de interacciones son las 'relaciones familiares' como tipo de relación intraespecífica?",
+      "options": [
+        "Son interacciones entre individuos del mismo sexo para competir por el territorio",
+        "Son agrupaciones temporales de individuos para la migración estacional",
+        "Son grupos con vínculos genéticos o de crianza y cuidado de crías; el texto da como ejemplo a los leones",
+        "Son asociaciones entre individuos de distinta especie para la defensa contra depredadores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las relaciones familiares son grupos con vínculos genéticos o de crianza, típicamente con cuidado de las crías. El texto cita a los leones como ejemplo de relación intraespecífica familiar. Son un tipo de relación intraespecífica de cooperación."
+    },
+    {
+      "question": "¿Cuáles son los tres tipos de actuaciones individuales en políticas ambientales según el texto?",
+      "options": [
+        "El consumo responsable como única actuación individual mencionada explícitamente",
+        "El reciclaje, la movilidad sostenible y el ahorro energético",
+        "La denuncia de problemas ambientales, el voto verde y la participación en ONGs",
+        "La reducción de residuos, el uso de energías renovables y la compra de productos ecológicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que las actuaciones individuales son las conductas de cada persona, mencionando específicamente el consumo responsable como ejemplo de actuación individual en el marco de las políticas ambientales."
+    },
+    {
+      "question": "¿Qué ocurre en el ecosistema cuando se produce una 'sucesión secundaria'?",
+      "options": [
+        "Una zona sin vida previa comienza a ser colonizada por organismos pioneros",
+        "Una zona cuya comunidad fue modificada por un incendio, inundación o enfermedad experimenta una nueva colonización progresiva",
+        "El ecosistema alcanza su clímax y las especies permanecen estables durante décadas",
+        "Las especies migratorias sustituyen temporalmente a las autóctonas en su hábitat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La sucesión secundaria tiene lugar sobre una zona cuya comunidad biológica fue modificada o destruida por factores como un incendio, inundación o enfermedad. A diferencia de la primaria, la secundaria parte de una zona que ya tenía comunidad biológica previa."
+    },
+    {
+      "question": "¿Cuál es la reducción de CO2 como medida de conservación y regeneración mencionada en el texto?",
+      "options": [
+        "Se logra exclusivamente mediante el uso de vehículos eléctricos y transporte público",
+        "La reducción de emisiones de CO2 es una de las medidas de conservación y regeneración mencionadas junto a energías renovables, 3R, protección del suelo, gestión del agua y puntos limpios",
+        "Se consigue plantando árboles que absorban el dióxido de carbono de la atmósfera",
+        "Se logra principalmente mediante el uso de tecnologías de captura y almacenamiento de carbono"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La reducción de emisiones de CO2 es una de las medidas de conservación y regeneración enumeradas en el texto, junto con la ley de las 3R, la protección del suelo, la gestión sostenible del agua, las energías renovables, la movilidad sostenible y los puntos limpios."
+    },
+    {
+      "question": "¿Cuál es el proyecto del Plan Proxecta+ 'Protexe os animais' y a qué área temática pertenece?",
+      "options": [
+        "Un proyecto sobre la protección de los espacios naturales y parques nacionales",
+        "Un proyecto relacionado con la protección animal y el bienestar de los seres vivos",
+        "Un proyecto de adopción de animales de compañía en los centros escolares",
+        "Un proyecto sobre la cría responsable de animales de granja en el entorno gallego"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Protexe os animais' es un proyecto del Plan Proxecta+ relacionado con la protección animal y el bienestar de los seres vivos. Forma parte de los proyectos ambientales de la Consellería de Educación de Galicia que vinculan los centros con la realidad natural del entorno."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los conceptos de 'entorno' y 'medio ambiente' en el contexto del texto?",
+      "options": [
+        "El entorno es solo el espacio natural; el medio ambiente incluye también los aspectos culturales y sociales",
+        "El entorno es el conjunto de fenómenos donde tiene lugar la vida humana; el medio ambiente es un sistema global que incluye al ser humano, la flora, la fauna, el suelo, el agua, el aire, el clima y el paisaje",
+        "Son conceptos equivalentes que el texto usa indistintamente para referirse al espacio donde viven los seres vivos",
+        "El entorno es un concepto educativo; el medio ambiente es un concepto científico y legislativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El entorno es el conjunto de fenómenos y elementos donde tiene lugar la vida humana y su interacción (con tres tipos: natural, social y cultural). El medio ambiente es un sistema global más amplio formado por el ser humano, la flora, la fauna, el suelo, el agua, el aire, el clima y el paisaje, así como sus interacciones."
+    },
+    {
+      "question": "¿Cuál es la relación entre el concepto de 'ecosistema' y el de 'ecología'?",
+      "options": [
+        "La ecología estudia los ecosistemas, que son el objeto de estudio de esta ciencia",
+        "Son sinónimos que describen las relaciones entre los seres vivos y su entorno",
+        "El ecosistema es una unidad de la ecología, que estudia las relaciones de los seres vivos entre sí y con su medio",
+        "La ecología se ocupa solo de las relaciones bióticas; el ecosistema incluye también los factores abióticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La ecología es la ciencia que estudia las relaciones de los seres vivos entre sí y con el medio que habitan. El ecosistema es la unidad de estudio principal de la ecología, definido como sistema dinámico formado por una comunidad natural de seres vivos y su ambiente físico."
+    },
+    {
+      "question": "¿Cuál es el propósito de la 'Educación Ambiental' en el ámbito educativo según el texto?",
+      "options": [
+        "Informar al alumnado sobre las leyes y convenios internacionales de protección ambiental",
+        "Generar conciencia, cambios de actitud y lograr el equilibrio entre el ser humano y su entorno",
+        "Enseñar al alumnado técnicas de conservación y restauración de ecosistemas naturales",
+        "Preparar a los futuros ciudadanos para participar en movimientos ambientalistas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Educación Ambiental es fundamental como herramienta básica para generar conciencia, cambios de actitud y lograr el equilibrio entre el ser humano y su entorno. La UNESCO estableció como meta promover una ciudadanía implicada en el cuidado del medio ambiente."
+    },
+    {
+      "question": "¿Cuál es el número total del artículo de la LOMLOE que recoge los principios del sistema educativo donde se encuentra el principio r)?",
+      "options": [
+        "Artículo 3",
+        "Artículo 1",
+        "Artículo 6",
+        "Artículo 7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 1 de la LOMLOE recoge los principios del sistema educativo, entre ellos el principio r): 'la educación para la transición ecológica, con criterios de justicia social, como contribución a la sostenibilidad ambiental, social y económica'."
+    },
+    {
+      "question": "¿Qué es el 'hábitat' de un organismo según el texto?",
+      "options": [
+        "El conjunto de relaciones ecológicas que establece un organismo con su entorno",
+        "El papel o función que desempeña un ser vivo dentro de su ecosistema",
+        "El espacio físico concreto del ecosistema donde vive un organismo",
+        "El área geográfica total donde puede encontrarse una especie determinada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El hábitat es el espacio físico concreto del ecosistema donde vive un organismo. No debe confundirse con el nicho ecológico, que es el papel o función que desempeña ese organismo en el ecosistema (como presa o depredador, su actividad temporal o su relación con otras especies)."
+    },
+    {
+      "question": "¿Cuál de los proyectos del Plan Proxecta+ está relacionado con el estudio de la meteorología escolar?",
+      "options": [
+        "Galicon",
+        "Escolas Verde polo Clima",
+        "Meteoescolas",
+        "Naturezate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El proyecto 'Meteoescolas' del Plan Proxecta+ está relacionado con el estudio de la meteorología en el ámbito escolar. 'Escolas Verde polo Clima' trata sobre sostenibilidad y acción climática, 'Galicon' es otro proyecto del plan y 'Naturezate' trata sobre la naturaleza gallega."
+    },
+    {
+      "question": "¿Qué es la 'conciencia ecosocial' mencionada en la conclusión del texto y por qué los maestros deben sembrarla?",
+      "options": [
+        "El conocimiento teórico de los ecosistemas y las leyes ambientales vigentes",
+        "La capacidad de identificar los problemas ambientales locales y globales mediante el análisis científico",
+        "La sensibilidad, iniciativa y habilidades para preservar el planeta y la actitud crítica para reflexionar sobre el impacto de los propios actos en el entorno",
+        "La conciencia política y social necesaria para participar en movimientos de justicia ambiental"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La conciencia ecosocial implica que las generaciones futuras adquieran la sensibilidad, la iniciativa y las habilidades para preservar el planeta, así como la actitud crítica para reflexionar sobre las consecuencias de sus actos en el entorno. Los maestros deben sembrarla desde los primeros años de escolarización."
+    },
+    {
+      "question": "¿Cuáles son las dos clasificaciones principales de los tipos de contaminación según el Glosario VITALIS?",
+      "options": [
+        "Por intensidad (leve, moderada y grave) y por reversibilidad (reversible e irreversible)",
+        "Por origen (natural y antrópica) y por impacto (local, regional y global)",
+        "Según el medio contaminado (atmosférica, acuática, del suelo, de seres vivos) y según el agente contaminante (radioactiva, química, orgánica)",
+        "Por temporalidad (aguda y crónica) y por extensión (puntual y difusa)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Glosario VITALIS (2023) recoge dos clasificaciones: según el medio contaminado (atmosférica, acuática, del suelo y de seres vivos) y según el agente contaminante (radioactiva, química y orgánica). Estas son las dos clasificaciones principales citadas en el texto."
+    },
+    {
+      "question": "¿Cómo define el texto el 'entorno cultural'?",
+      "options": [
+        "El conjunto de recursos artísticos, arquitectónicos y patrimoniales de una comunidad",
+        "El espacio donde los individuos se desarrollan y realizan sus principales actividades laborales",
+        "El conjunto de rasgos, valores y estilos de vida que caracterizan a una sociedad o grupo determinado",
+        "El marco institucional formado por las escuelas, bibliotecas y centros culturales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El entorno cultural comprende el conjunto de rasgos, valores y estilos de vida que caracterizan a una sociedad o grupo determinado. El entorno natural incluye los componentes físicos, químicos y biológicos externos; el social es donde los individuos se desarrollan e interactúan."
+    }
+  ]
+}

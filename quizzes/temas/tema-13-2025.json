@@ -1,0 +1,2208 @@
+{
+  "title": "Tema 13. Los diferentes lenguajes y técnicas artísticas",
+  "description": "Intervención educativa en la elaboración de composiciones plásticas e imágenes: planificación, diseño y organización del proceso, selección y utilización de materiales y técnicas.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según el artículo 9 del Decreto 155/2022, el área de Educación Artística en Galicia se estructura en dos disciplinas. ¿Cuáles son?",
+      "options": [
+        "Educación Plástica y Visual (EPV) y Música y Danza (MD)",
+        "Educación Visual y Plástica (EVP) y Expresión Musical (EM)",
+        "Artes Plásticas (AP) y Educación Musical y Corporal (EMC)",
+        "Educación Plástica (EP) y Música, Danza y Teatro (MDT)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 9 del Decreto 155/2022, de 15 de Septiembre, dispone que el área de Educación Artística se estructura en dos disciplinas: la Educación Plástica y Visual (EPV) y la Música y Danza (MD)."
+    },
+    {
+      "question": "Conforme al Anexo III del Decreto 155/2022, ¿cuál es la distribución horaria asignada a las disciplinas de EPV y MD en la Educación Primaria de Galicia?",
+      "options": [
+        "Una sesión semanal para cada disciplina",
+        "Una sesión semanal compartida entre ambas disciplinas",
+        "Dos sesiones semanales para cada disciplina",
+        "Una sesión quincenal para cada disciplina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conforme el Anexo III del Decreto 155/2022, ambas disciplinas (EPV y MD) integran los contenidos relativos a los lenguajes y técnicas artísticas, con una distribución horaria de una sesión semanal en la EP, compartida entre ambas."
+    },
+    {
+      "question": "Según el artículo 4 de la Orden de 26 de mayo de 2023, las disciplinas de EPV y MD pueden constituir un ámbito denominado:",
+      "options": [
+        "Educación Artística",
+        "Expresión Artística Integral",
+        "Artes y Cultura",
+        "Lenguajes Artísticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 4 de la Orden de 26 de mayo de 2023, las disciplinas de EPV y MD pueden constituir un ámbito denominado Educación Artística."
+    },
+    {
+      "question": "La LOMLOE corresponde a la ley:",
+      "options": [
+        "Ley Orgánica 3/2020, de 29 de diciembre, que modifica la LOE",
+        "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+        "Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa",
+        "Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE es la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)."
+    },
+    {
+      "question": "El Decreto 155/2022 de Galicia fue aprobado el:",
+      "options": [
+        "15 de Septiembre",
+        "26 de Septiembre",
+        "1 de Marzo",
+        "26 de Mayo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 fue aprobado el 15 de Septiembre de 2022, aunque su publicación en el DOG fue el 26 de Septiembre de 2022."
+    },
+    {
+      "question": "Según Eisner, un lenguaje artístico es un conjunto de formas simbólicas y expresivas que permiten comunicar ideas, emociones y experiencias. ¿A qué tipos de formas se refiere específicamente?",
+      "options": [
+        "Visuales, sonoras o corporales",
+        "Visuales, escritas o plásticas",
+        "Sonoras, corporales o lingüísticas",
+        "Plásticas, musicales o literarias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Eisner, un lenguaje artístico es un conjunto de formas simbólicas y expresivas (ya sean visuales, sonoras o corporales), que permiten comunicar ideas, emociones y experiencias, desarrollando el pensamiento y la comprensión del mundo."
+    },
+    {
+      "question": "Según Aguilar (2013), ¿qué lenguajes artísticos conforman las artes según su clasificación?",
+      "options": [
+        "Artes plásticas, música, danza, teatro y literatura",
+        "Pintura, escultura, arquitectura, música y danza",
+        "Artes plásticas, fotografía, cine, teatro y música",
+        "Dibujo, pintura, música, danza y literatura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Conforme con Aguilar (2013), los lenguajes artísticos engloban las artes plásticas como el dibujo o la pintura; la música, la danza, el teatro y la literatura."
+    },
+    {
+      "question": "El proceso creador del lenguaje plástico se desarrolla en tres fases sucesivas. ¿Cuál es el orden correcto?",
+      "options": [
+        "Percepción → Reflexión y transformación → Comunicación y expresión",
+        "Reflexión → Percepción → Comunicación y expresión",
+        "Comunicación → Percepción → Reflexión y transformación",
+        "Percepción → Comunicación → Reflexión y transformación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso creador del lenguaje plástico se desarrolla en tres fases: primero la percepción (identificar elementos y darles significado), luego la reflexión y transformación (reelaboración personal de la información), y finalmente la comunicación y expresión."
+    },
+    {
+      "question": "El 'Léxico técnico de las artes plásticas', que recoge conceptos como brillo, color, composición y contraste, fue elaborado por:",
+      "options": [
+        "Crespi y Ferrario (2002)",
+        "Valenciano (2006)",
+        "Aguilar (2013)",
+        "Lowenfeld (1961)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Crespi y Ferrario (2002) elaboraron el 'Léxico técnico de las artes plásticas', que recoge conceptos fundamentales como brillo, color, composición, contraste, relación figura-fondo, simetría, tono o volumen."
+    },
+    {
+      "question": "La RAE define la palabra 'técnica' como:",
+      "options": [
+        "El conjunto de procedimientos y recursos de los que se sirve una ciencia o arte",
+        "El método organizado para la creación de obras artísticas",
+        "El sistema de habilidades prácticas adquiridas mediante la experiencia",
+        "El conjunto de instrumentos y materiales empleados en la expresión artística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Real Academia Española (RAE) define la palabra 'técnica' como el conjunto de procedimientos y recursos de los que se sirve una ciencia o arte."
+    },
+    {
+      "question": "Según Aguilar (2013), el lenguaje musical es un sistema de representación, comunicación y expresión que utiliza:",
+      "options": [
+        "La combinación y organización temporal de los sonidos",
+        "La combinación de sonidos, silencios y movimientos corporales",
+        "Los elementos rítmicos, melódicos y armónicos del sonido",
+        "La organización de sonidos vocales e instrumentales en el tiempo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aguilar (2013) define el lenguaje musical como un sistema de representación, comunicación y expresión que utiliza la combinación y organización temporal de los sonidos."
+    },
+    {
+      "question": "Los tres medios a través de los cuales se realiza la expresión y producción musical en la EP son:",
+      "options": [
+        "La voz, el canto y los instrumentos",
+        "El canto, los instrumentos y la danza",
+        "La voz, la danza y los instrumentos",
+        "El ritmo, la melodía y la armonía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso de expresión y producción musical se realiza a través de tres medios: la voz (instrumento comunicativo y expresivo por excelencia), el canto (que fusiona música y lenguaje) y los instrumentos (que favorecen la curiosidad, la manipulación y la experimentación)."
+    },
+    {
+      "question": "Según el contenido del tema, ¿qué elemento del lenguaje musical se trabaja fundamentalmente en el tercer ciclo de EP?",
+      "options": [
+        "Altura, intensidad, duración, timbre, ritmo, melodía y armonía",
+        "Identificación y discriminación de sonidos del entorno",
+        "Sensibilización hacia el mundo sonoro general",
+        "Movimiento y expresión corporal a través de la danza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el tercer ciclo de EP se trabaja la comprensión de elementos como la altura, intensidad, duración, timbre, ritmo, melodía y armonía. Los ciclos anteriores trabajan la identificación y discriminación de sonidos del entorno."
+    },
+    {
+      "question": "¿Cuántos grandes grupos de técnicas del lenguaje plástico se recogen en el tema?",
+      "options": [
+        "Seis",
+        "Cuatro",
+        "Cinco",
+        "Siete"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las técnicas del lenguaje plástico pueden clasificarse en seis grandes grupos: dibujo, pintura, modelado, papel, técnicas mixtas y TIC."
+    },
+    {
+      "question": "Según Valenciano (2006), el dibujo es la representación gráfica sobre un soporte determinado que utiliza diversos elementos. ¿Cuáles no están incluidos en esta definición?",
+      "options": [
+        "Perspectiva y escorzo",
+        "Puntos y líneas horizontales o verticales",
+        "Manchas y difuminados o sombreados",
+        "Aplicación del color para obtener profundidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Valenciano (2006) define el dibujo usando puntos, líneas horizontales o verticales, manchas, difuminados o sombreados, y la aplicación del color para obtener profundidad o realizar bocetos. La perspectiva y el escorzo no forman parte de esta definición específica."
+    },
+    {
+      "question": "La técnica del dibujo 'esgrafiado' consiste en:",
+      "options": [
+        "Rayar sobre un fondo negro que oculta colores brillantes",
+        "Aplicar pintura aguada sobre papel mojado",
+        "Generar el relieve de objetos al frotar sobre ellos el papel",
+        "Crear simetrías doblando y pintando el papel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El esgrafiado consiste en rayar sobre un fondo negro que oculta colores brillantes, revelando los colores que hay debajo."
+    },
+    {
+      "question": "La técnica de pintura denominada 'frotado' consiste en:",
+      "options": [
+        "Generar el relieve de objetos al frotar sobre ellos el papel",
+        "Aplicar pintura aguada sobre papel mojado para crear efectos de color",
+        "Combinar ceras cubiertas con témpera para producir texturas",
+        "Marcar con objetos o dedos sobre una superficie pintada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El frotado consiste en generar el relieve de objetos al frotar sobre ellos el papel, técnica también conocida como 'frottage'."
+    },
+    {
+      "question": "En la técnica de modelado, el método sintético se caracteriza por:",
+      "options": [
+        "Modelar una figura a partir de un solo bloque, avanzando de lo general a lo particular",
+        "Modelar una figura por partes para después juntarlas, de lo particular a lo general",
+        "Combinar diferentes materiales como arcilla y plastilina en una sola figura",
+        "Crear formas básicas como bolas y cilindros para desarrollar la coordinación motora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El método sintético avanza de lo general a lo particular, modelando una figura a partir de un solo bloque. El método analítico procede de lo particular a lo general, modelando por partes para después juntarlas."
+    },
+    {
+      "question": "La técnica del 'estarcido' consiste en:",
+      "options": [
+        "Aplicar pintura a través de plantillas o siluetas",
+        "Combinar técnicas y materiales sobre un mismo soporte",
+        "Ejecutar un mural en gran formato de forma colectiva",
+        "Crear composiciones con pequeñas piezas de colores sobre un fondo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El estarcido consiste en aplicar pintura a través de plantillas o siluetas, técnica que forma parte del grupo de técnicas mixtas."
+    },
+    {
+      "question": "Entre los principales medios tecnológicos vinculados a la educación audiovisual, el tema destaca tres. ¿Cuáles son?",
+      "options": [
+        "Publicidad, fotografía y cine",
+        "Internet, fotografía y televisión",
+        "Cine, vídeo y fotografía digital",
+        "Publicidad, cine y medios de comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los principales medios tecnológicos vinculados a la educación audiovisual se destacan la publicidad, la fotografía y el cine."
+    },
+    {
+      "question": "En las técnicas del lenguaje musical, ¿qué aspectos se trabajan específicamente en la danza?",
+      "options": [
+        "Técnicas de relajación y de movimiento y expresión corporal",
+        "Técnicas de emisión de la voz y de respiración",
+        "Coordinación óculo-manual y control motriz de brazos y dedos",
+        "Improvisación, creatividad y manejo instrumental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la danza sobresalen técnicas de relajación y de movimiento y expresión corporal, beneficiosas para la lateralidad, la coordinación visual y motriz, la movilización segmentaria y global o el equilibrio."
+    },
+    {
+      "question": "La etapa del garabato en el desarrollo del dibujo según Lowenfeld abarca:",
+      "options": [
+        "Desde el nacimiento hasta los 4 años",
+        "Desde los 2 hasta los 5 años",
+        "Desde el nacimiento hasta los 3 años",
+        "Desde los 3 hasta los 6 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa del garabato abarca desde el nacimiento hasta los 4 años. En ella el niño realiza trazos compulsivos sin control ni significado, motivados únicamente por el placer de experimentar."
+    },
+    {
+      "question": "En la etapa preesquemática del dibujo según Lowenfeld, ¿cuál es una característica que distingue esta etapa de la esquemática?",
+      "options": [
+        "Los dibujos se acercan a la forma real pero sin importar el color",
+        "Los dibujos incluyen los colores y representan conceptos con mayor similitud a la realidad",
+        "El dibujo se ajusta más a la realidad y es más natural y rico en detalles",
+        "Aparece la perspectiva espacial y se acentúan las características sexuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa preesquemática (4-7 años), los dibujos comienzan a representar objetos observados, acercándose a la forma real, pero sin importar el color. En la etapa esquemática (7-9 años) ya incluyen los colores."
+    },
+    {
+      "question": "¿En qué rango de edad se desarrolla la etapa esquemática del dibujo según Lowenfeld?",
+      "options": [
+        "Entre los 7 y 9 años",
+        "Entre los 4 y 7 años",
+        "Entre los 9 y 12 años",
+        "Entre los 6 y 9 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa esquemática se desarrolla entre los 7 y 9 años. En ella los dibujos representan conceptos con mayor similitud a la realidad e incluyen los colores. Corresponde al inicio de la Educación Primaria."
+    },
+    {
+      "question": "La etapa del Pseudonaturalismo en el desarrollo del dibujo según Lowenfeld se corresponde con el rango de edad:",
+      "options": [
+        "De los 12 a los 13 años",
+        "De los 9 a los 12 años",
+        "De los 11 a los 14 años",
+        "De los 13 a los 14 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa del Pseudonaturalismo abarca de los 12 a los 13 años y puede estar presente en algunos discentes de sexto curso. En este periodo se otorga mayor importancia al producto final, aparece la perspectiva espacial y se acentúan las características sexuales."
+    },
+    {
+      "question": "En la etapa de la decisión (13-14 años) del desarrollo del dibujo según Lowenfeld, ¿cuál es la característica principal?",
+      "options": [
+        "El niño elige una técnica para perfeccionar en función del producto que desea obtener",
+        "El dibujo se ajusta más a la realidad y es más natural y rico en detalles",
+        "Aparece la perspectiva espacial y se acentúan las características sexuales",
+        "Los dibujos representan conceptos con mayor similitud a la realidad e incluyen los colores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa de la decisión (13-14 años), el niño elige una técnica para perfeccionar en función del producto que desea obtener, mostrando sus sentimientos en lo dibujado."
+    },
+    {
+      "question": "El artículo 6 del Decreto 155/2022 define las orientaciones pedagógicas como:",
+      "options": [
+        "Indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes",
+        "Principios que rigen la organización y el funcionamiento de los centros educativos",
+        "Directrices para la evaluación de los aprendizajes del alumnado en cada área",
+        "Criterios para la selección de materiales curriculares y recursos didácticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las orientaciones pedagógicas como las indicaciones para orientar al profesorado en el diseño y en la planificación de las estrategias, los procedimientos y las acciones docentes, con la finalidad de favorecer el aprendizaje del alumnado para lograr los objetivos y adquirir las CC."
+    },
+    {
+      "question": "La Competencia en Conciencia y Expresiones Culturales se abrevia como:",
+      "options": [
+        "CCEC",
+        "CEC",
+        "CCCE",
+        "CECA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Competencia en Conciencia y Expresiones Culturales se abrevia como CCEC, y es la competencia más directamente relacionada con la educación artística."
+    },
+    {
+      "question": "El objetivo de etapa 'j' del artículo 7 del Decreto 155/2022 establece:",
+      "options": [
+        "Utilizar diferentes representaciones y expresiones artísticas e iniciarse en la construcción de propuestas visuales y audiovisuales",
+        "Desarrollar hábitos de trabajo individual y de equipo, de esfuerzo y de responsabilidad",
+        "Conocer y valorar el entorno natural, social y cultural, y apreciar las posibilidades de acción y cuidado del mismo",
+        "Iniciarse en la utilización, para el aprendizaje, de las tecnologías de la información y la comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo de etapa 'j' del artículo 7 del Decreto 155/2022 establece 'utilizar diferentes representaciones y expresiones artísticas e iniciarse en la construcción de propuestas visuales y audiovisuales'."
+    },
+    {
+      "question": "Los bloques de contenido del área de EPV del Decreto 155/2022 son cuatro. ¿Cuál de las siguientes opciones los describe correctamente?",
+      "options": [
+        "Bloques 1-2: EPV percepción/análisis y creación/interpretación; Bloques 3-4: Educación audiovisual percepción/análisis y creación/interpretación",
+        "Bloques 1-2: EPV creación y expresión; Bloques 3-4: Educación audiovisual percepción y producción",
+        "Bloques 1-4: Percepción, análisis, creación e interpretación artística y audiovisual",
+        "Bloques 1-2: Música y danza; Bloques 3-4: Plástica visual y audiovisual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cuatro bloques del área de EPV son: Bloque 1 'EPV: percepción y análisis', Bloque 2 'EPV: creación e interpretación', Bloque 3 'Educación audiovisual: percepción y análisis', y Bloque 4 'Educación audiovisual: creación e interpretación'."
+    },
+    {
+      "question": "El docente especialista en el área de Música y Danza es regulado por:",
+      "options": [
+        "El artículo 12 del Real Decreto 132/2010, de 12 de febrero",
+        "El artículo 9 del Decreto 155/2022, de 15 de septiembre",
+        "El artículo 4 de la Orden de 26 de mayo de 2023",
+        "El artículo 7 del Real Decreto 157/2022, de 1 de marzo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El desarrollo directo del lenguaje musical se lleva a cabo por el docente especialista en el área de MD, conforme al artículo 12 del Real Decreto 132/2010, de 12 de febrero, por el que se establecen los requisitos mínimos de los centros educativos."
+    },
+    {
+      "question": "La metodología que debe sustentar la intervención educativa de la EPV, según el artículo 6 del Decreto 155/2022, ha de ser:",
+      "options": [
+        "Activa, comunicativa, inclusiva y participativa",
+        "Activa, constructivista, motivadora y creativa",
+        "Dinámica, participativa, flexible y motivadora",
+        "Inclusiva, creativa, reflexiva y competencial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Atendiendo a los principios pedagógicos del artículo 6 del Decreto 155/2022, la intervención educativa de la EPV debe sustentarse en una metodología activa, comunicativa, inclusiva y participativa dirigida a la adquisición de las CC y de los objetivos."
+    },
+    {
+      "question": "El programa de innovación de la Consellería de Educación de Galicia centrado en transformar el sistema educativo a través del arte se denomina:",
+      "options": [
+        "Rede Planea de Arte y Escuela",
+        "Programa Arte e Escola",
+        "Rede Galega de Arte Educativa",
+        "Proxecto Artístico Innovador de Galicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Consellería con competencias en materia de Educación ha impulsado el programa Rede Planea de Arte y Escuela, centrado en transformar el sistema educativo a través del arte, vigente en el curso 2025/2026."
+    },
+    {
+      "question": "De los tres proyectos de la Rede Planea de Arte y Escuela, ¿cuáles están destinados a la Educación Primaria?",
+      "options": [
+        "'Lápis, Obxectos e Cubricións' y 'Física-Mente'",
+        "'Lápis, Obxectos e Cubricións' y 'Bailando cos teus avós'",
+        "'Física-Mente' y 'Bailando cos teus avós'",
+        "Los tres proyectos están destinados a la EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "De los tres proyectos de la Rede Planea, 'Lápis, Obxectos e Cubricións' y 'Física-Mente' están destinados a la EP, mientras que 'Bailando cos teus avós' está destinado a la ESO."
+    },
+    {
+      "question": "Las competencias del profesorado de EPV recogidas en el tema son cinco. ¿Cuál de las siguientes NO se corresponde con ninguna de ellas?",
+      "options": [
+        "Competencia investigadora y científica",
+        "Competencia teórico-práctica",
+        "Competencia metacognitiva",
+        "Competencia emocional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las cinco competencias del profesorado son: teórico-práctica, ética y estética, metacognitiva, pedagógica-didáctica y emocional. La competencia investigadora y científica no aparece en esta clasificación."
+    },
+    {
+      "question": "La competencia metacognitiva del profesorado de EPV favorece:",
+      "options": [
+        "La reflexión sobre el propio proceso artístico",
+        "El respeto por la diversidad de producciones artísticas",
+        "El diseño de estrategias de enseñanza, aprendizaje y evaluación",
+        "El conocimiento de las técnicas artísticas y la reflexión sobre el hacer"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia metacognitiva del profesorado favorece la reflexión sobre el propio proceso artístico. La competencia ética y estética se enfoca en el respeto por la diversidad, y la pedagógica-didáctica en el diseño de estrategias."
+    },
+    {
+      "question": "El proceso de planificación asumido por el alumnado comprende cinco etapas. ¿Cuál es la primera?",
+      "options": [
+        "Observación y búsqueda de información",
+        "Selección de materiales y técnicas",
+        "Organización del trabajo",
+        "Construcción del proyecto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La primera etapa del proceso de planificación asumido por el alumnado es la observación y búsqueda de información, donde los discentes exploran su entorno recopilando información sobre lo que desean crear."
+    },
+    {
+      "question": "En el proceso de planificación del alumnado, la etapa de 'puesta en común' es la:",
+      "options": [
+        "Quinta y última etapa",
+        "Cuarta etapa",
+        "Segunda etapa",
+        "Tercera etapa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La puesta en común es la quinta y última etapa del proceso de planificación del alumnado, donde reflexionan sobre los pasos seguidos, las dificultades y comparten opiniones."
+    },
+    {
+      "question": "El proceso de diseño y organización corresponde al profesorado y considera cuatro aspectos. ¿Cuál de los siguientes NO pertenece a estos cuatro aspectos?",
+      "options": [
+        "Organización de la evaluación",
+        "Organización temporal",
+        "Organización espacial",
+        "Organización de los materiales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cuatro aspectos del proceso de diseño y organización del profesorado son: organización temporal, espacial, de los materiales y de la actividad. La organización de la evaluación no es uno de los cuatro aspectos recogidos."
+    },
+    {
+      "question": "Según el tema, la organización espacial en el diseño y organización del profesorado requiere garantizar cuatro aspectos concretos en los espacios de expresión artística. ¿Cuál de los siguientes NO forma parte de esos cuatro?",
+      "options": [
+        "Una temperatura y ventilación adecuadas",
+        "La accesibilidad de los materiales",
+        "Una iluminación correcta",
+        "Un mobiliario funcional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La organización espacial requiere garantizar la accesibilidad de los materiales, una iluminación correcta, un mobiliario funcional y la disponibilidad de espacios diferenciados. La temperatura y ventilación no se mencionan específicamente entre estos cuatro aspectos."
+    },
+    {
+      "question": "Las cuatro fases del proceso expresivo que el docente debe diseñar y desarrollar son:",
+      "options": [
+        "Planificación, diseño, ejecución y evaluación",
+        "Observación, planificación, creación y evaluación",
+        "Diseño, organización, realización y reflexión",
+        "Percepción, reflexión, creación y comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso expresivo se desarrolla en cuatro fases: planificación, diseño, ejecución y evaluación, que el docente debe diseñar y desarrollar según las líneas de intervención del tema."
+    },
+    {
+      "question": "Según Zabala y Coll, los materiales didácticos se entienden como:",
+      "options": [
+        "Componentes o instrumentos que median en el proceso de enseñanza-aprendizaje, adaptados a un grupo concreto y utilizados tanto por docente como alumnado",
+        "Recursos físicos y digitales seleccionados por el profesorado para facilitar la comprensión de los contenidos",
+        "Herramientas pedagógicas diseñadas para estimular la creatividad y la expresión artística del alumnado",
+        "Soportes y objetos que el alumnado utiliza para la elaboración de composiciones plásticas y audiovisuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Siguiendo a Antonio Zabala y a César Coll, los materiales se entienden como componentes o instrumentos que median en el proceso de enseñanza-aprendizaje, adaptados a un grupo concreto de alumnos y utilizados tanto por el docente como por el alumnado."
+    },
+    {
+      "question": "La evaluación de materiales y técnicas atiende a dos dimensiones complementarias. ¿Cuáles son?",
+      "options": [
+        "Evaluación objetiva y evaluación contextual",
+        "Evaluación formativa y evaluación sumativa",
+        "Evaluación cualitativa y evaluación cuantitativa",
+        "Autoevaluación y evaluación del docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación de materiales y técnicas atiende a dos dimensiones: una evaluación objetiva (que valora la calidad, efectividad y adecuación técnica de los materiales) y una evaluación contextual (que analiza cómo se emplearon en el contexto educativo específico)."
+    },
+    {
+      "question": "Para el dibujo, los recursos materiales que señala Valenciano (2006) incluyen:",
+      "options": [
+        "Barras de cera, rotuladores, lápices de grafito y carboncillos",
+        "Acuarelas, témperas, rotuladores y lápices de colores",
+        "Lápices de grafito, carboncillos, pinceles y acuarelas",
+        "Barras de cera, pasteles, rotuladores y lápices de grafito"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para el dibujo, Valenciano (2006) señala como recursos materiales: barras de cera, rotuladores, lápices de grafito y carboncillos."
+    },
+    {
+      "question": "Entre los recursos didácticos interactivos o TIC para la edición de imagen, el tema menciona específicamente:",
+      "options": [
+        "Procreate, Adobe Photoshop y Gimp",
+        "Adobe Illustrator, Photoshop y Krita",
+        "ArtFlow, Microsoft Paint y Krita",
+        "Gimp, Krita y Microsoft Paint"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para la edición de imagen se mencionan Procreate, Adobe Photoshop y Gimp. Adobe Illustrator es para diseño gráfico, y ArtFlow, Microsoft Paint y Krita son para dibujo artístico e ilustración."
+    },
+    {
+      "question": "El programa informático mencionado en el tema como juego online vinculado a las TIC en educación artística es:",
+      "options": [
+        "Picturillo",
+        "ArtFlow",
+        "Krita",
+        "Procreate"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Picturillo es el único juego online mencionado en el tema entre los recursos didácticos interactivos o TIC para la educación artística."
+    },
+    {
+      "question": "Para el diseño gráfico, el recurso TIC específicamente mencionado en el tema es:",
+      "options": [
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Procreate",
+        "Gimp"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Adobe Illustrator se menciona específicamente para el diseño gráfico. Photoshop, Procreate y Gimp se mencionan para la edición de imagen."
+    },
+    {
+      "question": "Entre los recursos impresos citados en el tema para el desarrollo de técnicas de observación y análisis en expresión artística, ¿cuál NO se menciona?",
+      "options": [
+        "Libros de texto de historia del arte",
+        "Láminas de obras",
+        "Cuadernos de bocetos",
+        "Fichas de composición"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los recursos impresos mencionados son: láminas de obras, cuadernos de bocetos, fichas de composición y guías técnicas de dibujo. Los libros de texto de historia del arte no se mencionan en esta clasificación."
+    },
+    {
+      "question": "La finalidad de la EP establecida en el artículo 4 del Decreto 155/2022 incluye facilitar al alumnado, entre otros aprendizajes, los del:",
+      "options": [
+        "Sentido artístico y la creatividad",
+        "Pensamiento crítico y la resolución de problemas",
+        "Trabajo en equipo y la cooperación",
+        "Espíritu emprendedor y la autonomía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La finalidad de la EP del artículo 4 del Decreto 155/2022 es 'facilitar al alumnado, entre otros, de los aprendizajes del sentido artístico y la creatividad a fin de garantizar una formación integral'."
+    },
+    {
+      "question": "Según el tema, en la etapa del garabato, los dibujos del niño son comprensibles para los adultos cuando:",
+      "options": [
+        "No son comprensibles para los adultos en ningún momento de esta etapa",
+        "El niño alcanza los 3 años y comienza a asignar nombres a sus figuras",
+        "El niño empieza a controlar los trazos hacia el final de la etapa",
+        "El niño comparte sus dibujos con los demás y explica su significado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa del garabato, los dibujos son figuras cerradas a las que el niño les asigna un nombre pero son incomprensibles para los adultos. No hay un momento en esta etapa en que sean comprensibles."
+    },
+    {
+      "question": "Según el tema, la labor del docente en la expresión artística requiere enlazar planteamientos. Esto significa:",
+      "options": [
+        "Retomar conceptos anteriores para introducir nuevos",
+        "Conectar las propuestas artísticas con otras áreas curriculares",
+        "Establecer vínculos entre la expresión plástica y la musical",
+        "Relacionar las actividades del aula con proyectos de la comunidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el tema, 'enlazar planteamientos' en la labor del docente significa retomar conceptos anteriores para introducir nuevos, favoreciendo la progresión y la coherencia en el aprendizaje artístico."
+    },
+    {
+      "question": "El artículo 17 del Decreto 155/2022 regula los elementos transversales que la Educación Artística contribuye a integrar. ¿Cuál de los siguientes NO se menciona en el tema como uno de esos elementos?",
+      "options": [
+        "Educación vial",
+        "Educación para el consumo responsable",
+        "Desarrollo sostenible",
+        "Paz y salud"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los elementos transversales del artículo 17 del Decreto 155/2022 mencionados en el tema son: educación para el consumo responsable, el desarrollo sostenible, la paz, la salud, la creatividad y el emprendimiento. La educación vial no aparece citada."
+    },
+    {
+      "question": "¿Qué técnica de pintura se caracteriza por aplicar pintura aguada sobre papel mojado?",
+      "options": [
+        "Manchado",
+        "Goteo",
+        "Impresión",
+        "Frotado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El manchado consiste en aplicar pintura aguada sobre papel mojado, creando efectos de difuminado. El goteo crea efectos de pintura que se expanden, y la impresión deja marcas con objetos o dedos sobre una superficie."
+    },
+    {
+      "question": "La técnica de pintura llamada 'goteo' consiste en:",
+      "options": [
+        "Crear efectos de pintura que se expanden",
+        "Marcar con objetos o dedos sobre una superficie",
+        "Aplicar pintura aguada sobre papel mojado",
+        "Rayar sobre un fondo negro que oculta colores brillantes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El goteo consiste en crear efectos de pintura que se expanden, técnica asociada al expresionismo abstracto. No confundir con el manchado (papel mojado) o la impresión (marcas con objetos)."
+    },
+    {
+      "question": "En las técnicas del lenguaje plástico, el 'mezclado' consiste en:",
+      "options": [
+        "Combinar ceras cubiertas con témpera",
+        "Frotar el papel sobre objetos para generar relieve",
+        "Rayar sobre un fondo negro para revelar colores",
+        "Aplicar pintura a través de plantillas o siluetas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El mezclado consiste en combinar ceras cubiertas con témpera, creando efectos visuales al combinar ambos materiales."
+    },
+    {
+      "question": "Las técnicas con papel en el lenguaje plástico incluyen varias modalidades. ¿Cuál de las siguientes NO corresponde a las técnicas con papel mencionadas en el tema?",
+      "options": [
+        "Mosaico",
+        "Picado",
+        "Plegado",
+        "Rasgado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las técnicas con papel incluyen picados, pegados, plegados, arrugados, rasgados y recortados. El mosaico pertenece al grupo de técnicas mixtas, no al grupo de técnicas con papel."
+    },
+    {
+      "question": "El 'mural' como técnica mixta se distingue del 'collage' principalmente porque:",
+      "options": [
+        "Se ejecuta en gran formato y de forma colectiva",
+        "Utiliza materiales naturales en lugar de manufacturados",
+        "Incorpora exclusivamente materiales de desecho reciclados",
+        "Emplea técnicas de fotomontaje y composición digital"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El mural es similar al collage pero se ejecuta en gran formato y de forma colectiva. Ambos combinan técnicas y materiales, pero el mural tiene la dimensión grupal y el gran formato como características diferenciadoras."
+    },
+    {
+      "question": "El modelado con arcilla o plastilina puede utilizarse para desarrollar la coordinación motora y la percepción táctil mediante:",
+      "options": [
+        "Formas básicas como bolas, churros o cilindros",
+        "Figuras complejas modeladas en un solo bloque",
+        "Figuras por partes que luego se ensamblan",
+        "Composiciones tridimensionales sobre soportes planos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para desarrollar la coordinación motora y la percepción táctil se realizan formas básicas como bolas, churros o cilindros. El método sintético (bloque único) y el analítico (por partes) se usan para adquirir conceptos de volumen y tridimensionalidad."
+    },
+    {
+      "question": "Según el tema, los criterios para seleccionar materiales y técnicas incluyen considerar el artículo 16 del Decreto 155/2022 referido a:",
+      "options": [
+        "Los elementos curriculares y principios pedagógicos",
+        "Los objetivos generales de la etapa",
+        "La distribución horaria de las áreas",
+        "Los criterios de evaluación del área"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los criterios de selección de materiales, el tema menciona la coherencia con los elementos curriculares y principios pedagógicos del artículo 16 del Decreto 155/2022."
+    },
+    {
+      "question": "Desde el campo organizativo, el docente en la fase de utilización de materiales debe atender a varios aspectos. ¿Cuál NO corresponde al campo organizativo según el tema?",
+      "options": [
+        "Adaptar la actividad al alumno y al currículo",
+        "Planificar la actividad secuenciando todos los pasos",
+        "Estimar tiempos realistas para cada actividad",
+        "Asegurar la disponibilidad de espacios y recursos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Adaptar la actividad al alumno y al currículo corresponde al campo didáctico, no al organizativo. El campo organizativo incluye: planificar secuenciando pasos, estimar tiempos, asegurar disponibilidad de espacios, distribuir al alumnado, realizar la actividad y coordinar recogida y limpieza."
+    },
+    {
+      "question": "¿Qué tipo de evaluación de materiales 'analiza cómo se emplearon en el contexto educativo específico'?",
+      "options": [
+        "Evaluación contextual",
+        "Evaluación objetiva",
+        "Evaluación formativa",
+        "Evaluación procesual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación contextual analiza cómo se emplearon los materiales en el contexto educativo específico, permitiendo extraer conclusiones para futuras intervenciones. La evaluación objetiva valora la calidad, efectividad y adecuación técnica."
+    },
+    {
+      "question": "Los programas mencionados en el tema para el dibujo artístico e ilustración (no edición de imagen ni diseño gráfico) son:",
+      "options": [
+        "ArtFlow, Microsoft Paint y Krita",
+        "Procreate, Gimp y Krita",
+        "Adobe Illustrator, Krita y ArtFlow",
+        "Photoshop, Paint y Procreate"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para el dibujo artístico e ilustración se mencionan ArtFlow, Microsoft Paint y Krita. Para edición de imagen: Procreate, Adobe Photoshop y Gimp. Para diseño gráfico: Adobe Illustrator."
+    },
+    {
+      "question": "Entre los recursos audiovisuales para la expresión artística, el tema incluye dispositivos específicos. ¿Cuál de los siguientes NO está mencionado?",
+      "options": [
+        "Tableta digitalizadora",
+        "Cámara de vídeo",
+        "Proyector",
+        "Grabadora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los dispositivos audiovisuales mencionados son la cámara de vídeo, el proyector y la grabadora. La tableta digitalizadora no aparece citada entre los recursos audiovisuales del tema."
+    },
+    {
+      "question": "Según el tema, para desarrollar conceptos de volumen y conservación de la materia en el modelado se utilizan:",
+      "options": [
+        "El método sintético y el método analítico",
+        "La plastilina y la arcilla conjuntamente",
+        "Las formas básicas como bolas y cilindros",
+        "La pasta blanca y la pasta de papel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para adquirir lo tridimensional y los conceptos de volumen y conservación de la materia se utilizan dos enfoques: el método sintético (de lo general a lo particular) y el método analítico (de lo particular a lo general)."
+    },
+    {
+      "question": "El método analítico en el modelado artístico se caracteriza por:",
+      "options": [
+        "Proceder de lo particular a lo general, modelando por partes para después juntarlas",
+        "Modelar una figura a partir de un solo bloque avanzando de lo general a lo particular",
+        "Combinar diferentes materiales para crear una figura compuesta",
+        "Usar moldes o plantillas para reproducir figuras predeterminadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El método analítico procede de lo particular a lo general, modelando una figura por partes para después juntarlas. Es el contrario del método sintético, que parte de un bloque único."
+    },
+    {
+      "question": "La 'cera quemada' es una técnica incluida en el grupo de:",
+      "options": [
+        "Pintura",
+        "Dibujo",
+        "Técnicas mixtas",
+        "Modelado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La cera quemada es una de las técnicas del grupo de pintura, junto con la impresión, el manchado, el goteo, las simetrías, el esgrafiado, el frotado, el mezclado y el raspado de ceras."
+    },
+    {
+      "question": "Según el tema, el trabajo de taller permite la investigación práctica en:",
+      "options": [
+        "Un espacio diferenciado del aula con materiales accesibles a la manipulación",
+        "El aula ordinaria reorganizada con materiales específicos de arte",
+        "Espacios exteriores del centro con materiales del entorno natural",
+        "Un laboratorio de arte equipado con tecnología digital avanzada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El trabajo de taller permite la investigación práctica en un espacio diferenciado del aula con materiales accesibles a la manipulación, siendo una herramienta clave para la intervención educativa en EPV."
+    },
+    {
+      "question": "Las visitas a museos, exposiciones o teatros como recurso didáctico en EPV requieren, según el tema:",
+      "options": [
+        "Preparación previa y reflexión posterior",
+        "Autorización de la Consellería de Educación",
+        "Participación de las familias como acompañantes",
+        "Elaboración de un proyecto artístico relacionado previo a la visita"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las visitas a museos, exposiciones o teatros deben realizarse con preparación previa y reflexión posterior para que sean pedagógicamente efectivas."
+    },
+    {
+      "question": "Según el tema, la competencia pedagógica-didáctica del profesorado de EPV está orientada a:",
+      "options": [
+        "El diseño de estrategias de enseñanza, aprendizaje y evaluación",
+        "El conocimiento de las técnicas artísticas y la reflexión sobre el hacer",
+        "El respeto por la diversidad de producciones artísticas",
+        "La reflexión sobre el propio proceso artístico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia pedagógica-didáctica está orientada al diseño de estrategias de enseñanza, aprendizaje y evaluación. La teórico-práctica se refiere al conocimiento de técnicas, la ética y estética al respeto por la diversidad, y la metacognitiva a la reflexión sobre el proceso."
+    },
+    {
+      "question": "La competencia ética y estética del profesorado de EPV se enfoca en:",
+      "options": [
+        "El respeto por la diversidad de producciones artísticas",
+        "El diseño de estrategias de enseñanza y evaluación",
+        "La reflexión sobre el propio proceso artístico",
+        "El conocimiento de las técnicas artísticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia ética y estética se enfoca en el respeto por la diversidad de producciones artísticas. La pedagogica-didáctica diseña estrategias, la metacognitiva reflexiona sobre el proceso, y la teórico-práctica conoce las técnicas."
+    },
+    {
+      "question": "Según el tema, la competencia emocional del profesorado de EPV es importante para:",
+      "options": [
+        "Aprender a disfrutar de la pasión de las artes como vehículo para expresar, soñar y crear",
+        "Gestionar las emociones del alumnado durante el proceso creativo",
+        "Evaluar el impacto emocional de las obras artísticas sobre los discentes",
+        "Crear vínculos afectivos con el alumnado a través de las actividades artísticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia emocional es importante para el aprender a disfrutar de la pasión de las artes como vehículo para expresar, soñar y crear, según el texto del tema."
+    },
+    {
+      "question": "El lenguaje plástico utiliza como elemento fundamental:",
+      "options": [
+        "La imagen",
+        "La línea",
+        "El color",
+        "La forma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el tema, el elemento fundamental del lenguaje plástico es la imagen, que se desarrolla mediante técnicas tradicionales como el dibujo, la pintura o el modelado, o a través de medios tecnológicos."
+    },
+    {
+      "question": "El 'dibujo natural' como modalidad de dibujo se orienta principalmente a:",
+      "options": [
+        "La observación del entorno",
+        "El desarrollo de la creatividad y espontaneidad",
+        "La reproducción y percepción visual",
+        "El desarrollo de la expresión libre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El dibujo natural está orientado a la observación del entorno. El dibujo libre impulsa la creatividad y espontaneidad. El dibujo copiado desarrolla la reproducción y percepción visual."
+    },
+    {
+      "question": "Según el tema, las 'simetrías' como técnica de pintura se crean mediante:",
+      "options": [
+        "Doblando y pintando el papel",
+        "Rayando sobre un fondo negro",
+        "Aplicando pintura a través de siluetas",
+        "Frotando el papel sobre objetos con relieve"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las simetrías se crean doblando y pintando el papel, de manera que al doblar el papel pintado se obtiene una imagen simétrica."
+    },
+    {
+      "question": "En la etapa del realismo del dibujo según Lowenfeld, el rango de edad es:",
+      "options": [
+        "De los 9 a los 12 años",
+        "De los 7 a los 9 años",
+        "De los 12 a los 13 años",
+        "De los 10 a los 13 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa del realismo abarca de los 9 a los 12 años, en la que el dibujo se ajusta más a la realidad y es más natural y rico en detalles."
+    },
+    {
+      "question": "La etapa preesquemática del dibujo según Lowenfeld abarca el rango de edad de:",
+      "options": [
+        "Los 4 a los 7 años",
+        "Los 2 a los 5 años",
+        "Los 5 a los 8 años",
+        "Los 3 a los 7 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa preesquemática abarca de los 4 a los 7 años. En ella los dibujos comienzan a representar objetos observados, acercándose a la forma real, pero sin importar el color."
+    },
+    {
+      "question": "En la etapa del Pseudonaturalismo del dibujo, ¿qué novedad aparece en relación con el espacio?",
+      "options": [
+        "La perspectiva espacial",
+        "La representación de fondos y horizontes",
+        "El uso de la escala y las proporciones",
+        "La representación tridimensional en el plano"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa del Pseudonaturalismo (12-13 años) aparece la perspectiva espacial, además de otorgarse mayor importancia al producto final y acentuarse las características sexuales en los dibujos."
+    },
+    {
+      "question": "La 'impresión' como técnica de pintura consiste en:",
+      "options": [
+        "Marcar con objetos o dedos sobre una superficie",
+        "Aplicar pintura aguada sobre papel mojado",
+        "Crear efectos de pintura que se expanden al caer",
+        "Combinar ceras cubiertas con témpera"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La impresión consiste en marcar con objetos o dedos sobre una superficie pintada. No debe confundirse con el manchado (papel mojado) ni con el goteo (efectos que se expanden)."
+    },
+    {
+      "question": "Según el tema, Valenciano (2006) destaca la importancia de introducir la formación artística:",
+      "options": [
+        "Desde la infancia",
+        "Desde la Educación Primaria",
+        "Desde los primeros años de Secundaria",
+        "Desde el segundo ciclo de Educación Infantil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Valenciano (2006) destaca la importancia de introducir la formación artística desde la infancia, pues las imágenes, sonidos, la forma de percibirlos e interpretarlos y los sentimientos que generan resultan determinantes en la vida de las personas."
+    },
+    {
+      "question": "¿Quién publicó la obra 'Desarrollo de la capacidad creadora' en 1961?",
+      "options": [
+        "Lowenfeld",
+        "Aguilar",
+        "Valenciano",
+        "Eisner"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lowenfeld publicó 'Desarrollo de la capacidad creadora' en Buenos Aires, Argentina, por Editorial Kapelusz en 1961. Esta obra es la fuente de las etapas del desarrollo del dibujo."
+    },
+    {
+      "question": "¿En qué revista publicó Aguilar (2013) el artículo sobre los lenguajes artísticos y el contexto cultural?",
+      "options": [
+        "Infancias Imágenes",
+        "Educación Artística",
+        "Arte y Educación",
+        "Revista de Pedagogía Artística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aguilar, D. (2013) publicó 'Los lenguajes artísticos y el contexto cultural como mediadores pedagógicos y sociales' en Infancias Imágenes, 12(2), 48-59."
+    },
+    {
+      "question": "El Real Decreto 157/2022, de 1 de marzo, regula:",
+      "options": [
+        "La ordenación y las enseñanzas mínimas de la Educación Primaria",
+        "Los requisitos mínimos de los centros de EP",
+        "El currículo de la EP en la Comunidad Autónoma de Galicia",
+        "La evaluación en la etapa de Educación Primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal, siendo el decreto básico de la LOMLOE para esta etapa."
+    },
+    {
+      "question": "Según el tema, la expresión plástica debe contribuir a desarrollar, entre otros aspectos, la relación:",
+      "options": [
+        "Emocional y sensitiva con la propia obra",
+        "Social entre el alumnado en trabajos grupales",
+        "Cultural con el patrimonio artístico local",
+        "Crítica con las manifestaciones artísticas contemporáneas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La expresión plástica debe contribuir a desarrollar: la imaginación, la expresión individual, la capacidad perceptiva, de investigación y crítica, los esquemas mentales, y la relación emocional y sensitiva con la propia obra."
+    },
+    {
+      "question": "El lenguaje plástico se desarrolla mediante técnicas tradicionales y medios tecnológicos. ¿Cuál de los siguientes corresponde a los medios tecnológicos mencionados?",
+      "options": [
+        "Dispositivos digitales, cine y entornos audiovisuales",
+        "Dibujo, pintura y modelado digital",
+        "Fotografía, vídeo y animación por ordenador",
+        "Proyector, pantalla interactiva y tableta gráfica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El lenguaje plástico se desarrolla mediante técnicas tradicionales como el dibujo, la pintura o el modelado, o a través de medios tecnológicos como dispositivos digitales, cine o entornos audiovisuales."
+    },
+    {
+      "question": "Según el tema, el Decreto 155/2022 refleja la necesidad de los lenguajes artísticos al estructurar los contenidos de ambas áreas en torno a cuatro bloques que integran:",
+      "options": [
+        "Percepción y análisis, y creación e interpretación",
+        "Expresión, comunicación, creación y percepción",
+        "Producción artística, análisis, crítica y creatividad",
+        "Exploración, experimentación, creación y valoración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 estructura los contenidos de ambas áreas en torno a cuatro bloques de contenido que integran tanto la percepción y análisis como la creación e interpretación."
+    },
+    {
+      "question": "La organización temporal en el diseño y organización del proceso de EPV exige:",
+      "options": [
+        "Planificar las actividades de forma ordenada en función de los contenidos y las sesiones del área",
+        "Distribuir al alumnado en grupos según la metodología establecida",
+        "Disponer los materiales al alcance de todos fomentando actitudes de cuidado",
+        "Habilitar lugares adecuados para la expresión artística con iluminación correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La organización temporal exige planificar las actividades de forma ordenada en función de los contenidos y las sesiones del área, anticipando las necesidades del alumnado. La distribución del alumnado pertenece a la organización de la actividad."
+    },
+    {
+      "question": "En la organización espacial para EPV, los espacios diferenciados que menciona el tema son para:",
+      "options": [
+        "Guardar trabajos en curso, exponer obras finalizadas y limpiar y conservar útiles",
+        "Trabajar individualmente, en pequeño grupo y en gran grupo",
+        "Realizar actividades plásticas, musicales y de danza",
+        "Almacenar materiales, ejecutar actividades y exposición de resultados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La organización espacial requiere disponibilidad de espacios diferenciados para guardar los trabajos en curso, exponer las obras finalizadas y limpiar y conservar los útiles."
+    },
+    {
+      "question": "Las instrucciones previas que el docente debe emitir antes de la realización de la actividad artística incluyen informar sobre el objetivo, explicar en qué consiste, presentar las características del material, y además:",
+      "options": [
+        "Distribuir y adecuar espacios, designar responsables y señalar el inicio del trabajo",
+        "Evaluar los conocimientos previos del alumnado sobre la técnica",
+        "Presentar ejemplos de obras de artistas profesionales como modelo",
+        "Establecer los criterios de calificación de la composición final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las instrucciones previas incluyen: informar sobre el objetivo, explicar en qué consiste, presentar las características del material, distribuir y adecuar espacios, designar responsables de cada función e indicar el comienzo del trabajo."
+    },
+    {
+      "question": "Cuando se utilizan recursos tecnológicos en la sesión de EPV, el docente debe garantizar específicamente:",
+      "options": [
+        "El correcto funcionamiento y la protección de datos del alumnado",
+        "La conexión a internet de alta velocidad y el acceso a plataformas educativas",
+        "La disponibilidad de software actualizado y licencias educativas",
+        "La formación previa del alumnado en el uso de los dispositivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cuando se utilizan recursos tecnológicos, el docente debe garantizar su correcto funcionamiento y, especialmente, la protección de datos del alumnado, cumpliendo la normativa de privacidad."
+    },
+    {
+      "question": "Según el tema, la organización de los materiales implica:",
+      "options": [
+        "Disponerlos al alcance de todos, fomentando actitudes de cuidado, orden y limpieza",
+        "Clasificarlos por tipo, dificultad y nivel educativo para facilitar su acceso",
+        "Guardarlos en armarios bajo llave para evitar su deterioro o pérdida",
+        "Distribuirlos individualmente a cada alumno al inicio de cada sesión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La organización de los materiales implica disponerlos al alcance de todos los alumnos, fomentando actitudes de cuidado, orden y limpieza."
+    },
+    {
+      "question": "Según el tema, ¿cuántas etapas comprende el proceso de planificación asumido por el alumnado?",
+      "options": [
+        "Cinco etapas",
+        "Cuatro etapas",
+        "Tres etapas",
+        "Seis etapas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso de planificación asumido por el alumnado comprende cinco etapas: observación y búsqueda de información, selección de materiales y técnicas, organización del trabajo, construcción del proyecto y puesta en común."
+    },
+    {
+      "question": "En el proceso de planificación del alumnado, la tercera etapa es:",
+      "options": [
+        "Organización del trabajo",
+        "Selección de materiales y técnicas",
+        "Construcción del proyecto",
+        "Observación y búsqueda de información"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tercera etapa es la organización del trabajo, donde el alumnado estructura los pasos a seguir y, si la actividad es grupal, reparte roles y tareas. La segunda etapa es la selección de materiales y técnicas."
+    },
+    {
+      "question": "Según el tema, en la etapa de 'construcción del proyecto' del proceso de planificación del alumnado:",
+      "options": [
+        "Crean lo ideado aplicando las técnicas y materiales seleccionados",
+        "Reflexionan sobre los pasos seguidos y las dificultades encontradas",
+        "Estructuran los pasos a seguir y reparten roles",
+        "Exploran su entorno recopilando información sobre lo que desean crear"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la construcción del proyecto (cuarta etapa), el alumnado crea lo ideado aplicando las técnicas y materiales. La puesta en común (quinta etapa) es cuando reflexionan sobre dificultades y comparten opiniones."
+    },
+    {
+      "question": "El artículo del Decreto 155/2022 que recoge los principios pedagógicos de la EP que deben sustentar la intervención educativa de EPV es el:",
+      "options": [
+        "Artículo 6",
+        "Artículo 7",
+        "Artículo 9",
+        "Artículo 17"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 del Decreto 155/2022 recoge los principios pedagógicos y las orientaciones pedagógicas. El artículo 7 establece los objetivos de etapa, el artículo 9 la estructura de Educación Artística, y el 17 los elementos transversales."
+    },
+    {
+      "question": "Según el tema, la línea de actuación del área de EPV relativa al trabajo cooperativo especifica que debe complementarse con:",
+      "options": [
+        "El trabajo individual",
+        "El trabajo autónomo y reflexivo",
+        "Los proyectos motivadores de innovación",
+        "Las visitas culturales y salidas del centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que debe impulsarse el trabajo cooperativo en grupos heterogéneos, complementado con el trabajo individual."
+    },
+    {
+      "question": "Según el tema, para promover la competencia de 'aprender a aprender' en EPV se utiliza:",
+      "options": [
+        "La planificación y la toma de decisiones sobre el propio trabajo y técnicas de aprendizaje consciente",
+        "La investigación práctica en espacios diferenciados del aula",
+        "El uso de recursos digitales y plataformas de aprendizaje en línea",
+        "La reflexión final sobre los conocimientos adquiridos y el proceso seguido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia de aprender a aprender se fomenta a través de la planificación y la toma de decisiones sobre el propio trabajo y de técnicas de aprendizaje consciente."
+    },
+    {
+      "question": "El tema menciona que en la expresión artística el papel del docente reside en 'aprovechar resultados imprevistos'. ¿Para qué fin?",
+      "options": [
+        "Como base de nuevos aprendizajes",
+        "Para corregir los errores del proceso creativo",
+        "Para rediseñar la planificación de la actividad",
+        "Para enriquecer la evaluación del proceso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El docente debe aprovechar los resultados imprevistos como base de nuevos aprendizajes, convirtiendo lo inesperado en una oportunidad educativa."
+    },
+    {
+      "question": "Según el tema, una de las líneas de intervención de EPV es 'promover la expresión y autorregulación de emociones'. Esta línea se combina también con el tratamiento de:",
+      "options": [
+        "Las profesiones artísticas desde una perspectiva de género",
+        "Las profesiones artísticas desde una perspectiva cultural",
+        "Los valores de respeto y convivencia en el aula",
+        "La identidad cultural y el patrimonio artístico gallego"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el área de EPV es fundamental promover la expresión y autorregulación de emociones y el tratamiento de las profesiones artísticas desde una perspectiva de género."
+    },
+    {
+      "question": "Según el tema, el papel del docente en la expresión artística incluye 'enseñar a ver'. ¿Qué finalidad tiene esto?",
+      "options": [
+        "Para que el alumnado sea capaz de imaginar e inventar",
+        "Para que el alumnado desarrolle la percepción crítica de las artes",
+        "Para que el alumnado analice y valore las obras de artistas",
+        "Para que el alumnado utilice el vocabulario técnico adecuado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la expresión artística, el papel del docente reside en enseñar a ver, para que posteriormente el alumnado sea capaz de imaginar e inventar."
+    },
+    {
+      "question": "Según el tema, la labor específica del profesorado requiere 'promover el aprendizaje competencial y el espíritu crítico', avanzando de:",
+      "options": [
+        "La percepción e interpretación a la producción de manifestaciones artísticas",
+        "Las técnicas básicas a las técnicas avanzadas del lenguaje plástico",
+        "El trabajo individual al trabajo cooperativo en proyectos colectivos",
+        "La imitación de obras conocidas a la creación de obras originales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La labor del profesorado requiere promover el aprendizaje competencial y el espíritu crítico, avanzando de la percepción e interpretación a la producción de manifestaciones artísticas."
+    },
+    {
+      "question": "Según el tema, el docente debe acompañar todas las actividades con una reflexión final sobre:",
+      "options": [
+        "Los conocimientos adquiridos, procesos seguidos y técnicas artísticas usadas",
+        "Los logros alcanzados y las áreas de mejora identificadas",
+        "La calidad de las obras producidas y su valor estético",
+        "La participación del alumnado y el trabajo en equipo desarrollado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El docente debe acompañar todas las actividades con una reflexión final sobre los conocimientos adquiridos, los procesos seguidos y las técnicas artísticas usadas."
+    },
+    {
+      "question": "Según el tema, el docente en EPV no debe 'discriminar ni infravalorar':",
+      "options": [
+        "Movimientos o tendencias artísticas",
+        "Las producciones del alumnado con menor nivel técnico",
+        "Los materiales tradicionales frente a los recursos tecnológicos",
+        "Las diferencias en la capacidad creativa del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El docente no debe discriminar ni infravalorar movimientos o tendencias artísticas, garantizando un tratamiento respetuoso de toda la diversidad artística y cultural."
+    },
+    {
+      "question": "El Decreto 155/2022 de Galicia fue publicado en el Diario Oficial de Galicia (DOG) con el número:",
+      "options": [
+        "183, de 26 de septiembre de 2022",
+        "155, de 15 de septiembre de 2022",
+        "111, de 13 de junio de 2023",
+        "52, de 2 de marzo de 2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 fue publicado en el DOG número 183, de 26 de septiembre de 2022, ocupando las páginas 49595 a 50009."
+    },
+    {
+      "question": "La Orden de 26 de mayo de 2023 fue publicada en el DOG número:",
+      "options": [
+        "111, de 13 de junio de 2023",
+        "183, de 26 de septiembre de 2022",
+        "62, de 12 de marzo de 2023",
+        "155, de 15 de septiembre de 2023"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 fue publicada en el DOG número 111, de 13 de junio de 2023, páginas 36230 a 36270."
+    },
+    {
+      "question": "El Real Decreto 132/2010, de 12 de febrero, fue publicado en el BOE número:",
+      "options": [
+        "62, de 12 de marzo de 2010",
+        "52, de 2 de marzo de 2010",
+        "340, de 30 de diciembre de 2010",
+        "183, de 26 de septiembre de 2010"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 132/2010 fue publicado en el BOE número 62, de 12 de marzo de 2010, páginas 24841 a 24840."
+    },
+    {
+      "question": "La LOMLOE fue publicada en el BOE número:",
+      "options": [
+        "340, de 30 de diciembre de 2020",
+        "52, de 2 de marzo de 2020",
+        "62, de 12 de marzo de 2020",
+        "111, de 13 de junio de 2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE (Ley Orgánica 3/2020, de 29 de diciembre) fue publicada en el BOE número 340, de 30 de diciembre de 2020, páginas 122868 a 122953."
+    },
+    {
+      "question": "El Real Decreto 157/2022, de 1 de marzo, fue publicado en el BOE número:",
+      "options": [
+        "52, de 2 de marzo de 2022",
+        "340, de 30 de diciembre de 2022",
+        "183, de 26 de septiembre de 2022",
+        "62, de 12 de marzo de 2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, fue publicado en el BOE número 52, de 2 de marzo de 2022, páginas 24386 a 24504."
+    },
+    {
+      "question": "Según el tema, la percepción activa y escucha atenta del lenguaje musical comienza en los primeros años escolares con:",
+      "options": [
+        "La sensibilización hacia el mundo sonoro general",
+        "La identificación y discriminación de sonidos del entorno",
+        "La comprensión de elementos como la altura y la intensidad",
+        "El análisis de los elementos del ritmo y la melodía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso de percepción activa comienza en los primeros años escolares con la sensibilización hacia el mundo sonoro general, avanzando hacia la identificación y discriminación de sonidos del entorno, y llegando a la comprensión de elementos como la altura, intensidad, duración, timbre, ritmo, melodía y armonía en el tercer ciclo."
+    },
+    {
+      "question": "En las técnicas del lenguaje musical relacionadas con la interpretación, ¿cuál de las siguientes NO se menciona en el tema?",
+      "options": [
+        "Improvisación de estructuras rítmicas",
+        "Coordinación óculo-manual",
+        "Control motriz de brazos y dedos",
+        "Postura corporal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las técnicas de interpretación mencionadas son: ejecución (manejo instrumental, coordinación óculo-manual, control motriz de brazos y dedos, postura corporal), improvisación, creatividad y relajación. La 'improvisación de estructuras rítmicas' como concepto específico no aparece en el texto."
+    },
+    {
+      "question": "Las 'técnicas de percusión' en el lenguaje musical se trabajan con:",
+      "options": [
+        "Instrumentos, objetos o el propio cuerpo",
+        "Canciones, cuentos musicales y dramatizados",
+        "Técnicas de relajación y movimiento corporal",
+        "Musicogramas y talleres de música"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las técnicas de percusión se trabajan con instrumentos, objetos o el propio cuerpo (percusión corporal). Las técnicas de audición y ritmo se trabajan a través de canciones, cuentos musicales y dramatizados."
+    },
+    {
+      "question": "Los musicogramas son una herramienta que se menciona en el tema en relación con:",
+      "options": [
+        "Las técnicas de audición y ritmo",
+        "Las técnicas de canto y emisión vocal",
+        "Las técnicas de percusión corporal",
+        "Las técnicas de movimiento y danza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los musicogramas se mencionan junto a los talleres de música en el contexto de las técnicas de audición y ritmo, que también se trabajan a través de canciones, cuentos musicales y dramatizados."
+    },
+    {
+      "question": "Según el tema, el canto como medio de expresión y producción musical permite:",
+      "options": [
+        "Desarrollar la comunicación al fusionar música y lenguaje",
+        "Favorecer la curiosidad, la manipulación y la experimentación",
+        "Estimular la escucha y representar sentimientos a través del movimiento",
+        "Desarrollar la lateralidad y la coordinación visual y motriz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El canto permite desarrollar la comunicación al fusionar música y lenguaje. Los instrumentos favorecen la curiosidad y la experimentación. El movimiento y la danza estimulan la escucha y representación de sentimientos."
+    },
+    {
+      "question": "Los instrumentos como mediadores entre alumnos y música son beneficiosos para:",
+      "options": [
+        "Favorecer la curiosidad, la manipulación y la experimentación, así como capacidades motrices y auditivas",
+        "Desarrollar la comunicación al fusionar música y lenguaje verbal",
+        "Estimular la escucha y la representación de sentimientos a través del movimiento corporal",
+        "Integrar la expresión corporal y desarrollar la lateralidad y el equilibrio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los instrumentos son beneficiosos para favorecer la curiosidad, la manipulación y la experimentación, así como capacidades motrices y auditivas. El canto fusiona música y lenguaje, y la danza estimula la escucha a través del movimiento."
+    },
+    {
+      "question": "El movimiento y la danza en el lenguaje musical integran la expresión corporal, estimulando:",
+      "options": [
+        "La escucha y la representación de sentimientos a través del movimiento del cuerpo",
+        "La coordinación óculo-manual y el control motriz de brazos y dedos",
+        "La capacidad perceptiva y la comprensión de los elementos musicales",
+        "La improvisación y la creatividad en la interpretación musical"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El movimiento y la danza integran la expresión corporal, estimulando la escucha y la representación de sentimientos a través del movimiento del cuerpo."
+    },
+    {
+      "question": "La voz es considerada en el lenguaje musical como:",
+      "options": [
+        "El instrumento comunicativo y expresivo por excelencia",
+        "El medio más importante para el desarrollo de capacidades motrices",
+        "El recurso fundamental para la percepción y escucha activa",
+        "El principal mediador entre los alumnos y la música"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La voz es el instrumento comunicativo y expresivo por excelencia. Los instrumentos son los mediadores entre alumnos y música, y el canto desarrolla la comunicación al fusionar música y lenguaje."
+    },
+    {
+      "question": "Entre los elementos básicos del lenguaje plástico se incluyen línea, punto, posición, formas geométricas, colores, planos y ángulos. Estos elementos se relacionan y expresan mediante:",
+      "options": [
+        "Técnicas plásticas",
+        "Medios tecnológicos",
+        "Procedimientos audiovisuales",
+        "Composiciones visuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los elementos básicos del lenguaje plástico (línea, punto, posición, formas geométricas, colores, planos o ángulos) se relacionan y expresan mediante técnicas plásticas."
+    },
+    {
+      "question": "El 'Léxico técnico de las artes plásticas' de Crespi y Ferrario fue publicado por:",
+      "options": [
+        "Universidad de Buenos Aires",
+        "Editorial Kapelusz",
+        "Gobierno de Navarra",
+        "Universidad de Galicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Crespi, I. y Ferrario, J. (2002). 'Léxico técnico de las artes plásticas'. Buenos Aires, Argentina: Universidad de Buenos Aires."
+    },
+    {
+      "question": "La obra de Valenciano (2006) 'Educación Plástica. Teoría y práctica' fue publicada por:",
+      "options": [
+        "El Departamento de Educación del Gobierno de Navarra",
+        "La Universidad de Buenos Aires",
+        "La Editorial Kapelusz de Buenos Aires",
+        "La Consellería de Educación de Galicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Valenciano, J.L. (2006). 'Educación Plástica. Teoría y práctica. Educación Primaria y Secundaria Obligatoria'. Navarra: Gobierno de Navarra. Departamento de Educación."
+    },
+    {
+      "question": "Eisner publicó 'The Arts and the Creation of Mind' en:",
+      "options": [
+        "National Council of Teachers of English, 2003",
+        "Infancias Imágenes, 2013",
+        "Journal of Art Education, 2001",
+        "Journal of Educational Research, 2005"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Eisner, E. (2003). The Arts and the Creation of Mind. National Council of Teachers of English, 80(5), 340-344."
+    },
+    {
+      "question": "En el proceso de percepción del lenguaje plástico, ¿qué ocurre específicamente en esta primera fase?",
+      "options": [
+        "Se identifican los elementos, se les da significado y se establecen relaciones entre lo observado, las experiencias y los conocimientos previos",
+        "El sujeto reelabora la información de forma personal y la transforma",
+        "Se produce un acto de comunicación y expresión de lo percibido",
+        "Se seleccionan las técnicas y materiales adecuados para la expresión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el proceso de percepción (primera fase del proceso creador del lenguaje plástico) se identifican los elementos, se les da significado, se establecen relaciones entre lo observado, las experiencias y los conocimientos previos, y se utilizan estrategias para la comprensión."
+    },
+    {
+      "question": "El 'Léxico técnico de las artes plásticas' de Crespi y Ferrario es de gran utilidad en las aulas para:",
+      "options": [
+        "Favorecer el uso de vocabulario más preciso, comprender los elementos visuales y analizar producciones propias y ajenas",
+        "Guiar al alumnado en la selección de técnicas artísticas adecuadas para cada composición",
+        "Proporcionar modelos de obras de arte para su observación y análisis crítico",
+        "Establecer criterios objetivos para la evaluación de las composiciones artísticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Léxico técnico es de gran utilidad en las aulas para favorecer el uso de vocabulario más preciso, para que el alumnado comprenda los elementos visuales y analice producciones propias y ajenas."
+    },
+    {
+      "question": "La etapa en el desarrollo del dibujo según Lowenfeld en la que los dibujos son figuras cerradas, incomprensibles para los adultos, y el niño las realiza motivado por el placer de experimentar es:",
+      "options": [
+        "La etapa del garabato",
+        "La etapa preesquemática",
+        "La etapa esquemática",
+        "La etapa del realismo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa del garabato (0-4 años) el niño realiza trazos compulsivos sin control ni significado, motivados por el placer de experimentar. Los dibujos son figuras cerradas a las que asigna un nombre e incomprensibles para los adultos."
+    },
+    {
+      "question": "En la etapa esquemática del dibujo (7-9 años), ¿qué característica diferencia esta etapa de la preesquemática?",
+      "options": [
+        "Los dibujos incluyen los colores",
+        "Los dibujos se acercan a la forma real",
+        "Aparece la perspectiva espacial",
+        "Se otorga mayor importancia al producto final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa esquemática (7-9 años), los dibujos representan conceptos con mayor similitud a la realidad e incluyen los colores. La etapa preesquemática se acerca a la forma real pero sin importar el color."
+    },
+    {
+      "question": "¿En qué etapa del desarrollo del dibujo puede encontrarse algún alumno de sexto curso de EP, según Lowenfeld?",
+      "options": [
+        "Etapa del Pseudonaturalismo",
+        "Etapa del realismo",
+        "Etapa de la decisión",
+        "Etapa esquemática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La etapa del Pseudonaturalismo (12-13 años) puede estar presente en algunos discentes de sexto curso de EP. La etapa del realismo (9-12 años) es más propia de los cursos anteriores."
+    },
+    {
+      "question": "La etapa de la decisión (13-14 años) en el desarrollo del dibujo ya está fuera de la EP. ¿Qué característica emerge en el dibujo de esta etapa?",
+      "options": [
+        "El niño muestra sus sentimientos en lo dibujado",
+        "Aparece la perspectiva espacial",
+        "El dibujo se ajusta más a la realidad y es más rico en detalles",
+        "Los dibujos incluyen los colores y se acercan más a la realidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa de la decisión (13-14 años), el niño elige una técnica para perfeccionar y muestra sus sentimientos en lo dibujado. La perspectiva espacial aparece en el Pseudonaturalismo y el ajuste a la realidad es propio del realismo."
+    },
+    {
+      "question": "El collage como técnica mixta se caracteriza por:",
+      "options": [
+        "Combinar técnicas y materiales sobre un mismo soporte",
+        "Ejecutarse en gran formato y de forma colectiva",
+        "Aplicar pintura a través de plantillas o siluetas",
+        "Crear composiciones con pequeñas piezas sobre un fondo adhesivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El collage combina técnicas y materiales sobre un mismo soporte. El mural es similar pero en gran formato y colectivo. El estarcido aplica pintura a través de plantillas. El mosaico crea composiciones con pequeñas piezas."
+    },
+    {
+      "question": "La 'vidriera' es una técnica incluida en el grupo de:",
+      "options": [
+        "Técnicas mixtas",
+        "Técnicas con papel",
+        "Pintura",
+        "TIC"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La vidriera pertenece al grupo de técnicas mixtas, junto con el collage, el mural, el estarcido, el mosaico y el cómic."
+    },
+    {
+      "question": "Según el tema, los docentes de EP en relación a las técnicas artísticas precisamos:",
+      "options": [
+        "Conocer aquellas que faciliten la expresión de los discentes, reflexionando sobre sus limitaciones",
+        "Un conocimiento profundo de todas las técnicas artísticas plásticas y musicales",
+        "La formación específica equivalente a la del docente especialista en Educación Artística",
+        "El dominio técnico de las principales técnicas del lenguaje plástico y musical"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los docentes no precisamos un conocimiento profundo de las técnicas, sino conocer aquellas que faciliten la expresión de los discentes, reflexionando sobre sus limitaciones y dificultades, partiendo de una comprensión psicológica del niño."
+    },
+    {
+      "question": "Según el tema, la selección de materiales en función del contexto en el que se va a llevar a cabo la técnica implica considerar:",
+      "options": [
+        "Si el espacio es cerrado o abierto",
+        "El número de alumnos que participarán en la actividad",
+        "La disponibilidad presupuestaria del centro educativo",
+        "El nivel de formación artística del docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los criterios de selección de materiales se incluye el contexto en el que se va a llevar a cabo la técnica, ya sea un espacio cerrado o abierto."
+    },
+    {
+      "question": "Según el tema, al seleccionar materiales se debe considerar 'la variedad y alternancia'. ¿Por qué razón?",
+      "options": [
+        "Por su carácter motivador",
+        "Para garantizar la coherencia con los objetivos curriculares",
+        "Para favorecer el desarrollo de todas las técnicas artísticas",
+        "Para atender a los diferentes ritmos y estilos de aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La variedad y alternancia de materiales y técnicas se considera como criterio de selección por su carácter motivador para el alumnado."
+    },
+    {
+      "question": "Para el collage, los recursos materiales que señala el tema incluyen:",
+      "options": [
+        "Papel, telas, cartón o cuerda",
+        "Arcilla, arcilla polimérica o plastilina",
+        "Barras de cera, rotuladores y lápices de grafito",
+        "Acuarelas, témperas y pinceles de distintos tamaños"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para el collage, los recursos materiales incluyen papel, telas, cartón o cuerda. Para modelado: arcilla, arcilla polimérica o plastilina. Para dibujo: barras de cera, rotuladores, lápices de grafito y carboncillos."
+    },
+    {
+      "question": "Para la pintura, ¿qué recursos materiales menciona el tema?",
+      "options": [
+        "Acuarelas o témperas",
+        "Barras de cera y rotuladores",
+        "Arcilla y plastilina",
+        "Lápices de grafito y carboncillos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para la pintura, los recursos materiales mencionados son acuarelas o témperas. Las barras de cera y rotuladores son para dibujo, y la arcilla y plastilina para modelado."
+    },
+    {
+      "question": "La 'evaluación objetiva' de materiales y técnicas valora:",
+      "options": [
+        "La calidad, efectividad y adecuación técnica de los materiales",
+        "Cómo se emplearon los materiales en el contexto educativo específico",
+        "El grado de satisfacción del alumnado con los materiales utilizados",
+        "La relación coste-beneficio de los materiales seleccionados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación objetiva valora la calidad, efectividad y adecuación técnica de los materiales. La evaluación contextual analiza cómo se emplearon en el contexto educativo específico."
+    },
+    {
+      "question": "Según el tema, en la EPV el Anexo que del Decreto 155/2022 concreta las líneas de actuación propias del área es el:",
+      "options": [
+        "Anexo II, epígrafe 5.4.",
+        "Anexo III",
+        "Anexo I",
+        "Anexo IV, epígrafe 3.2."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El epígrafe 5.4. del Anexo II del Decreto 155/2022 concreta las líneas de actuación propias del área de EPV. El Anexo III se refiere a la distribución horaria."
+    },
+    {
+      "question": "Una de las líneas de intervención de EPV es emplear 'recursos, soportes y materiales variados'. Esto incluye específicamente:",
+      "options": [
+        "Valorar los materiales de desecho y un consumo responsable de los fungibles",
+        "Garantizar el acceso del alumnado a materiales de alta calidad artística",
+        "Utilizar recursos tecnológicos como complemento a los materiales tradicionales",
+        "Seleccionar materiales adaptados al nivel de desarrollo del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La línea de intervención sobre recursos especifica emplear recursos, soportes y materiales variados, valorando los materiales de desecho y un consumo responsable de los fungibles."
+    },
+    {
+      "question": "Según el tema, la intervención educativa de EPV debe integrar distintos métodos que respeten los diferentes ritmos y estilos de aprendizaje, promoviendo la atención a la diversidad. Esto incluye implementar:",
+      "options": [
+        "Mecanismos de refuerzo y ampliación para prevenir dificultades de aprendizaje",
+        "Evaluaciones diferenciadas según el nivel de cada alumno",
+        "Adaptaciones curriculares significativas para los alumnos con NEE",
+        "Agrupamientos flexibles según las capacidades artísticas del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La intervención debe integrar distintos métodos que respeten los diferentes ritmos y estilos de aprendizaje, promoviendo la atención a la diversidad, la atención individualizada y la implementación de mecanismos de refuerzo y ampliación para prevenir dificultades de aprendizaje."
+    },
+    {
+      "question": "Según el tema, el dibujo 'copiado' está dirigido a desarrollar:",
+      "options": [
+        "La reproducción y percepción visual",
+        "La creatividad y espontaneidad",
+        "La observación del entorno",
+        "La expresión libre y personal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El dibujo copiado está dirigido a desarrollar la reproducción y percepción visual. El dibujo libre impulsa la creatividad y espontaneidad. El dibujo natural está orientado a la observación del entorno."
+    },
+    {
+      "question": "Según el tema, las actividades expresivas en el ámbito artístico son fundamentales para el desarrollo de la creatividad y para la socialización. Esto permite que el alumnado se relacione con:",
+      "options": [
+        "Consigo mismo, con los demás y con el entorno",
+        "El patrimonio artístico local, nacional e internacional",
+        "Los materiales, las técnicas y las manifestaciones artísticas",
+        "La cultura, la historia y los valores de su comunidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aguilar (2013) destaca que las actividades expresivas permiten que el alumnado se relacione consigo mismo, con los demás y con el entorno."
+    },
+    {
+      "question": "Según el tema, ¿cuántos proyectos engloba la Rede Planea de Arte y Escuela?",
+      "options": [
+        "Tres proyectos",
+        "Dos proyectos",
+        "Cuatro proyectos",
+        "Cinco proyectos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Rede Planea de Arte y Escuela engloba tres proyectos: 'Lápis, Obxectos e Cubricións' y 'Física-Mente' (destinados a EP) y 'Bailando cos teus avós' (destinado a ESO)."
+    },
+    {
+      "question": "El proyecto 'Bailando cos teus avós' de la Rede Planea de Arte y Escuela está destinado a:",
+      "options": [
+        "La Educación Secundaria Obligatoria (ESO)",
+        "La Educación Primaria (EP)",
+        "La Educación Infantil (EI) y la Educación Primaria (EP)",
+        "La Educación Secundaria y el Bachillerato"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Bailando cos teus avós' está destinado a la ESO. 'Lápis, Obxectos e Cubricións' y 'Física-Mente' están destinados a la EP."
+    },
+    {
+      "question": "Según el tema, el rasgo que distingue el 'raspado de ceras' como técnica de pintura de otras técnicas similares es que:",
+      "options": [
+        "Se raspa la superficie de cera para crear efectos visuales",
+        "Se mezclan ceras de colores con témpera oscura",
+        "Se frota el papel sobre objetos para transferir texturas de cera",
+        "Se aplica cera fundida sobre un soporte para crear relieves"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El raspado de ceras consiste en raspar la superficie de cera para crear efectos visuales, revelando las capas inferiores o creando texturas."
+    },
+    {
+      "question": "El 'mosaico' como técnica mixta se caracteriza por:",
+      "options": [
+        "Crear composiciones con pequeñas piezas de colores sobre un fondo",
+        "Combinar técnicas y materiales sobre un mismo soporte en un plano",
+        "Aplicar pintura a través de plantillas o siluetas prediseñadas",
+        "Ejecutar composiciones en gran formato de forma colectiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El mosaico crea composiciones con pequeñas piezas de colores sobre un fondo, técnica que también puede incluirse en las técnicas mixtas junto con el collage, mural, estarcido, cómic y vidriera."
+    },
+    {
+      "question": "Los programas mencionados en el tema para el área de Educación Artística que también se usaban como referencia en el CLAUDE.md del proyecto incluyen como herramientas para el diseño gráfico específicamente:",
+      "options": [
+        "Adobe Illustrator",
+        "Procreate",
+        "Microsoft Paint",
+        "Gimp"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Adobe Illustrator es el programa específicamente mencionado para el diseño gráfico. Procreate, Adobe Photoshop y Gimp son para edición de imagen, y ArtFlow, Microsoft Paint y Krita para dibujo artístico e ilustración."
+    },
+    {
+      "question": "La 'competencia teórico-práctica' del profesorado de EPV se refiere específicamente a:",
+      "options": [
+        "El conocimiento de las técnicas artísticas y la reflexión sobre el hacer",
+        "La reflexión sobre el propio proceso artístico personal del docente",
+        "El diseño de estrategias de enseñanza, aprendizaje y evaluación",
+        "El respeto por la diversidad de producciones artísticas del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia teórico-práctica se refiere al conocimiento de las técnicas artísticas y a la reflexión sobre el hacer. La metacognitiva favorece la reflexión sobre el proceso artístico, y la pedagógica-didáctica diseña estrategias de enseñanza."
+    },
+    {
+      "question": "La intervención educativa de EPV debe promover la 'profundización progresiva en el tratamiento de los contenidos'. Esto se clasifica como una:",
+      "options": [
+        "Línea de actuación del área recogida en el Anexo II del Decreto",
+        "Orientación pedagógica del artículo 6 del Decreto 155/2022",
+        "Principio metodológico del artículo 16 del Decreto 155/2022",
+        "Criterio de evaluación del área de EPV"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La profundización progresiva en el tratamiento de los contenidos es una de las líneas de actuación propias del área recogidas en el epígrafe 5.4. del Anexo II del Decreto 155/2022."
+    },
+    {
+      "question": "Según el tema, la planificación del proceso de diseño y organización debe anticipar las:",
+      "options": [
+        "Necesidades del alumnado",
+        "Dificultades técnicas de los materiales",
+        "Limitaciones del espacio del aula",
+        "Respuestas creativas esperadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La organización temporal exige planificar las actividades de forma ordenada en función de los contenidos y las sesiones del área, anticipando las necesidades del alumnado."
+    },
+    {
+      "question": "La Orden de 26 de mayo de 2023 desarrolla el Decreto:",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 155/2022, de 26 de septiembre",
+        "Real Decreto 157/2022, de 1 de marzo",
+        "Real Decreto 132/2010, de 12 de febrero"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia, y regula la evaluación en esa etapa."
+    },
+    {
+      "question": "El 'cómic' como técnica del lenguaje plástico pertenece al grupo de:",
+      "options": [
+        "Técnicas mixtas",
+        "Técnicas con papel",
+        "Dibujo",
+        "TIC"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cómic pertenece al grupo de técnicas mixtas, junto con el collage, el mural, el estarcido, el mosaico y la vidriera."
+    },
+    {
+      "question": "Según el tema, crear un 'clima afectivo' en el aula de EPV significa:",
+      "options": [
+        "Un espacio donde el alumnado pueda expresarse libremente con expectativas positivas sobre sus posibilidades",
+        "Un ambiente de respeto y tolerancia donde se valoren todas las producciones por igual",
+        "Un entorno motivador que vincule las actividades artísticas con las experiencias del alumnado",
+        "Un contexto de confianza que permita al alumnado superar el miedo a la evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Crear un clima afectivo significa crear un espacio donde el alumnado pueda expresarse libremente, creando expectativas positivas sobre las posibilidades de cada uno."
+    },
+    {
+      "question": "Según el tema, integrar 'proyectos motivadores' en la EPV es beneficioso para:",
+      "options": [
+        "Adquirir conocimientos, habilidades y autonomía",
+        "Desarrollar la competencia digital y el trabajo cooperativo",
+        "Fomentar el aprendizaje basado en problemas y la creatividad",
+        "Promover la expresión libre y la creatividad individual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Integrar proyectos motivadores es beneficioso para adquirir conocimientos, habilidades y autonomía, según las líneas de actuación del área."
+    },
+    {
+      "question": "La competencia CCEC está vinculada a la educación artística principalmente porque:",
+      "options": [
+        "Fomenta la expresión creativa, la comprensión de las manifestaciones artísticas y culturales, y la construcción de la identidad personal en el respeto por la diversidad cultural",
+        "Desarrolla las capacidades para utilizar el lenguaje artístico como medio de comunicación personal",
+        "Promueve el conocimiento de la historia del arte y el patrimonio cultural de Galicia",
+        "Integra la percepción, el análisis y la producción de obras artísticas en el currículo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación artística está relacionada con la CCEC al fomentar la expresión creativa, la comprensión de las distintas manifestaciones artísticas y culturales, y la construcción de la identidad personal en el respeto por la diversidad cultural."
+    },
+    {
+      "question": "Según el tema, 'utilizar feedback' en la labor docente de EPV sirve para:",
+      "options": [
+        "Mejorar procedimientos y técnicas",
+        "Evaluar el progreso del alumnado en el proceso artístico",
+        "Motivar al alumnado y reforzar los aprendizajes adquiridos",
+        "Ajustar la planificación a los ritmos de aprendizaje del grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el tema, el docente debe utilizar feedback para mejorar procedimientos y técnicas en el proceso de expresión artística."
+    },
+    {
+      "question": "Según el tema, 'establecer una progresión de técnicas artísticas' en la labor docente significa avanzar de:",
+      "options": [
+        "Técnicas más sencillas a técnicas más complejas",
+        "Técnicas tradicionales a técnicas digitales",
+        "Técnicas individuales a técnicas colectivas",
+        "Técnicas de dibujo a técnicas mixtas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la expresión artística, el papel del docente incluye establecer una progresión de técnicas artísticas, avanzando de técnicas más sencillas a más complejas."
+    },
+    {
+      "question": "Según el tema, el docente debe 'considerar las propuestas del alumnado'. ¿Para qué fin?",
+      "options": [
+        "Facilitando su desarrollo",
+        "Evaluando su originalidad y creatividad",
+        "Integrándolas en la programación del aula",
+        "Seleccionando las más adecuadas para el grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El docente debe considerar las propuestas del alumnado facilitando su desarrollo, valorando la iniciativa y la expresión personal de los discentes."
+    },
+    {
+      "question": "La técnica del 'arrugado' en papel pertenece al grupo de:",
+      "options": [
+        "Técnicas con papel",
+        "Técnicas mixtas",
+        "Pintura",
+        "Dibujo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El arrugado es una de las técnicas con papel, junto con el picado, pegado, plegado, rasgado y recortado."
+    },
+    {
+      "question": "Según el tema, ¿cuál es el primer proceso que se describe en la percepción activa y escucha del lenguaje musical?",
+      "options": [
+        "Percepción activa y escucha atenta",
+        "Expresión y producción musical",
+        "Movimiento y danza",
+        "Interpretación instrumental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El primer proceso del lenguaje musical es la percepción activa y escucha atenta. El segundo proceso es la expresión y producción musical, que se realiza a través de la voz, el canto y los instrumentos."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos NO se menciona en el tema como parte de los elementos básicos propios del lenguaje plástico?",
+      "options": [
+        "Tono",
+        "Línea",
+        "Punto",
+        "Posición"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los elementos básicos propios del lenguaje plástico mencionados en el tema son: línea, punto, posición, formas geométricas, colores, planos y ángulos. El tono es un concepto del Léxico técnico de las artes plásticas (Crespi y Ferrario), pero no se lista como elemento básico en este apartado."
+    },
+    {
+      "question": "Según el tema, la reflexión sobre el proceso artístico en la percepción del lenguaje plástico utiliza:",
+      "options": [
+        "Estrategias para la comprensión",
+        "Técnicas de análisis formal de la obra",
+        "El vocabulario del léxico técnico",
+        "Los principios de la composición visual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el proceso de percepción se identifican los elementos, se les da significado, se establecen relaciones con experiencias y conocimientos previos, y se utilizan estrategias para la comprensión."
+    },
+    {
+      "question": "En la fase de reflexión y transformación del proceso creador del lenguaje plástico, el sujeto:",
+      "options": [
+        "Reelabora la información de forma personal",
+        "Identifica los elementos y les da significado",
+        "Produce un acto de comunicación y expresión",
+        "Selecciona las técnicas y materiales para la obra"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de reflexión y transformación, el sujeto reelabora la información de forma personal. La identificación y el significado pertenecen a la percepción. La comunicación y expresión es la tercera fase."
+    },
+    {
+      "question": "Según el tema, los lenguajes plástico y musical constituyen verdaderos lenguajes porque:",
+      "options": [
+        "Utilizan códigos, medios y procedimientos propios que permiten la expresión y la creación de obras comprensibles por los demás",
+        "Permiten comunicar ideas, emociones y experiencias a través de formas visuales y sonoras",
+        "Son sistemas universales de representación que trascienden las barreras culturales y lingüísticas",
+        "Facilitan el desarrollo cognitivo, emocional y social del alumnado en la escuela"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La plástica y la música constituyen verdaderos lenguajes al utilizar códigos, medios y procedimientos propios que permiten la expresión y la creación de obras comprensibles por los demás."
+    },
+    {
+      "question": "Según el tema, los niños recurren a la expresión plástica y musical para dar significado a sus:",
+      "options": [
+        "Experiencias, pensamientos y fantasías, comunicando ideas y sentimientos",
+        "Conocimientos, habilidades y destrezas adquiridas en el entorno escolar",
+        "Percepciones del entorno natural, social y cultural que les rodea",
+        "Emociones, motivaciones y expectativas en relación con el aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los niños recurren a la expresión plástica y musical para dar significado a sus experiencias, pensamientos y fantasías, comunicando ideas y sentimientos."
+    },
+    {
+      "question": "Las manifestaciones artísticas, según el inicio del tema, constituyen una expresión inherente de:",
+      "options": [
+        "La actividad comunicativa y social del ser humano y del entorno cultural",
+        "La creatividad y la imaginación del individuo en la sociedad",
+        "El patrimonio cultural y artístico de cada civilización a lo largo del tiempo",
+        "El desarrollo cognitivo y emocional del ser humano desde la infancia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las manifestaciones artísticas constituyen una expresión inherente de la actividad comunicativa y social del ser humano y del entorno cultural."
+    },
+    {
+      "question": "El área de Educación Artística del Decreto 155/2022, según el artículo 4, contribuye a la finalidad de la EP de preparar al alumnado para:",
+      "options": [
+        "Cursar con aprovechamiento la Educación Secundaria Obligatoria",
+        "Desarrollar su personalidad y sus capacidades creativas",
+        "Integrarse en la sociedad como ciudadanos creativos y culturalmente sensibles",
+        "Adquirir las competencias clave establecidas por la LOMLOE"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La finalidad del artículo 4 del Decreto 155/2022 es 'facilitar al alumnado los aprendizajes del sentido artístico y la creatividad a fin de garantizar una formación integral que contribuya al pleno desarrollo de su personalidad, y de prepararlo para cursar con aprovechamiento la Educación Secundaria Obligatoria'."
+    },
+    {
+      "question": "La 'competencia teórico-práctica' del profesorado incluye la reflexión sobre el hacer artístico. ¿Cuál de las siguientes describe mejor esta reflexión?",
+      "options": [
+        "Reflexionar sobre las limitaciones y dificultades de las técnicas para adaptar la enseñanza",
+        "Analizar las producciones del alumnado para mejorar la evaluación artística",
+        "Investigar nuevas técnicas y materiales para innovar en la práctica docente",
+        "Conectar el conocimiento artístico con otras áreas del currículo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia teórico-práctica referida al conocimiento de las técnicas artísticas y a la reflexión sobre el hacer incluye reflexionar sobre las limitaciones y dificultades para adaptar la enseñanza a las necesidades creativas de cada alumno."
+    },
+    {
+      "question": "En el proceso de diseño y organización del profesorado, la 'organización de la actividad y del alumnado' conlleva:",
+      "options": [
+        "Planificar con detalle la propuesta y agrupar al alumnado individual o grupalmente",
+        "Disponer los materiales al alcance de todos fomentando cuidado y limpieza",
+        "Habilitar espacios adecuados garantizando iluminación y mobiliario funcional",
+        "Planificar las actividades ordenadamente según contenidos y sesiones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La organización de la actividad y del alumnado conlleva planificar con detalle la propuesta y agrupar al alumnado en grupo o individualmente. La organización de materiales implica disponerlos al alcance de todos."
+    },
+    {
+      "question": "Según el tema, en la realización de las actividades de EPV, el docente debe coordinar al final la 'recogida y limpieza de los recursos' y también:",
+      "options": [
+        "La exposición de las composiciones",
+        "La evaluación del proceso creativo",
+        "La reflexión sobre los aprendizajes adquiridos",
+        "La selección de las mejores obras para el portfolio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Desde el campo organizativo, el docente debe coordinar la recogida, limpieza de los recursos y exposición de las composiciones."
+    },
+    {
+      "question": "Según el tema, para garantizar la calidad educativa en EPV, el docente debe planificar con detalle el proceso expresivo en función de sus cuatro fases. La primera fase es:",
+      "options": [
+        "Planificación",
+        "Diseño",
+        "Ejecución",
+        "Evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las cuatro fases del proceso expresivo son: planificación, diseño, ejecución y evaluación. La planificación es la primera."
+    },
+    {
+      "question": "Según el tema, la 'selección de materiales y técnicas' por parte del alumnado en el proceso de planificación implica explorar:",
+      "options": [
+        "Las posibilidades expresivas de cada recurso",
+        "Las características técnicas de los materiales disponibles",
+        "Los criterios de calidad de los materiales artísticos",
+        "Los pasos correctos para una ejecución adecuada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la segunda etapa del proceso de planificación del alumnado, deben seleccionar los materiales y técnicas que van a utilizar en función de la composición prevista, explorando las posibilidades expresivas de cada recurso."
+    },
+    {
+      "question": "Según el tema, la 'organización del trabajo' como tercera etapa del proceso de planificación del alumnado incluye, si la actividad es grupal:",
+      "options": [
+        "Repartir los roles y las tareas",
+        "Reflexionar sobre los pasos seguidos",
+        "Explorar el entorno recopilando información",
+        "Aplicar las técnicas y materiales seleccionados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa de organización del trabajo (tercera), el alumnado estructura los pasos a seguir y, si la actividad es grupal, reparte los roles y las tareas entre los participantes."
+    },
+    {
+      "question": "¿Cuál de los siguientes criterios de selección de materiales en EPV se relaciona específicamente con el artículo 16 del Decreto 155/2022?",
+      "options": [
+        "La coherencia con los elementos curriculares y principios pedagógicos",
+        "La contribución al desarrollo de las competencias clave",
+        "La adecuación a los distintos soportes y contextos",
+        "Los objetivos específicos de la actividad artística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los criterios de selección, se menciona específicamente la coherencia con los elementos curriculares y principios pedagógicos del artículo 16 del Decreto 155/2022."
+    },
+    {
+      "question": "Según el tema, la educación artística contribuye a la integración de los elementos transversales del artículo 17 del Decreto 155/2022. ¿Cuál de los siguientes NO se incluye en los mencionados en el tema?",
+      "options": [
+        "Educación financiera y económica",
+        "Creatividad y emprendimiento",
+        "Desarrollo sostenible",
+        "Educación para la paz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los elementos transversales mencionados en el tema son: consumo responsable, desarrollo sostenible, paz, salud, creatividad y emprendimiento. La educación financiera y económica no aparece citada."
+    },
+    {
+      "question": "El dibujo, según Valenciano (2006), está estrechamente ligado al desarrollo evolutivo del niño. En función de los objetivos puede plantearse de tres modos distintos. ¿Cuáles son?",
+      "options": [
+        "Dibujo libre, dibujo copiado y dibujo natural",
+        "Dibujo espontáneo, dibujo guiado y dibujo observacional",
+        "Dibujo creativo, dibujo técnico y dibujo expresivo",
+        "Dibujo figurativo, dibujo abstracto y dibujo esquemático"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según los objetivos, el dibujo puede plantearse como: dibujo libre (el niño elige tema y forma), dibujo copiado (para desarrollar reproducción y percepción visual) o dibujo natural (orientado a la observación del entorno)."
+    },
+    {
+      "question": "Las imágenes, sonidos, la forma de percibirlos e interpretarlos, y los sentimientos que generan son determinantes en la vida de las personas. Esta afirmación es de:",
+      "options": [
+        "Valenciano (2006)",
+        "Aguilar (2013)",
+        "Lowenfeld (1961)",
+        "Eisner (2003)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Valenciano (2006) destaca la importancia de introducir la formación artística desde la infancia pues las imágenes, sonidos, la forma de percibirlos e interpretarlos y los sentimientos que generan resultan determinantes en la vida de las personas."
+    },
+    {
+      "question": "¿Cuál de los siguientes conceptos NO aparece en el 'Léxico técnico de las artes plásticas' de Crespi y Ferrario mencionados en el tema?",
+      "options": [
+        "Perspectiva",
+        "Brillo",
+        "Composición",
+        "Simetría"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Léxico técnico de Crespi y Ferrario recoge: brillo, color, composición, contraste, relación figura-fondo, simetría, tono y volumen. La perspectiva no aparece entre los conceptos citados."
+    },
+    {
+      "question": "El artículo de Aguilar (2013) está publicado en el volumen 12, número 2 de Infancias Imágenes. Sus páginas son:",
+      "options": [
+        "Páginas 48-59",
+        "Páginas 340-344",
+        "Páginas 24386-24504",
+        "Páginas 36230-36270"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aguilar, D. (2013). Los lenguajes artísticos y el contexto cultural como mediadores pedagógicos y sociales. Infancias Imágenes, 12(2), 48-59."
+    },
+    {
+      "question": "El artículo de Eisner (2003) 'The Arts and the Creation of Mind' está publicado en el volumen 80, número 5 del National Council of Teachers of English. Sus páginas son:",
+      "options": [
+        "Páginas 340-344",
+        "Páginas 48-59",
+        "Páginas 24386-24504",
+        "Páginas 122868-122953"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Eisner, E. (2003). The Arts and the Creation of Mind. National Council of Teachers of English, 80(5), 340-344."
+    },
+    {
+      "question": "Según el tema, la 'organización temporal' como parte del proceso de diseño y organización del profesorado exige planificar 'anticipando las necesidades'. ¿De quién?",
+      "options": [
+        "Del alumnado",
+        "Del centro educativo",
+        "Del currículo del área",
+        "Del departamento de educación artística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La organización temporal exige planificar las actividades de forma ordenada en función de los contenidos y las sesiones del área, anticipando las necesidades de su alumnado."
+    },
+    {
+      "question": "Según el tema, las 'guías técnicas de dibujo' se clasifican como:",
+      "options": [
+        "Recursos impresos",
+        "Recursos materiales",
+        "Recursos audiovisuales",
+        "Recursos didácticos interactivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las guías técnicas de dibujo se clasifican como recursos impresos, junto con láminas de obras, cuadernos de bocetos y fichas de composición."
+    },
+    {
+      "question": "Los 'documentales y tutoriales' en EPV se clasifican como:",
+      "options": [
+        "Recursos audiovisuales",
+        "Recursos impresos",
+        "Recursos didácticos interactivos",
+        "Recursos materiales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los documentales y tutoriales se clasifican como recursos audiovisuales, junto con la fotografía, los vídeos, la cámara de vídeo, el proyector y la grabadora."
+    },
+    {
+      "question": "Según el tema, los materiales de modelado incluyen arcilla, arcilla polimérica y plastilina. ¿Qué otras 'pastas' también se mencionan?",
+      "options": [
+        "Pasta blanca y pasta de papel",
+        "Pasta de madera y pasta cerámica",
+        "Pasta acrílica y pasta de escayola",
+        "Pasta de sal y pasta de harina"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El modelado emplea materiales como plastilina, arcilla o pastas (blanca y de papel), además de la arcilla polimérica."
+    },
+    {
+      "question": "Según el tema, el 'picado' de papel pertenece al grupo de técnicas con papel. Junto con él, se mencionan cinco técnicas más en ese grupo. ¿Cuáles son?",
+      "options": [
+        "Pegado, plegado, arrugado, rasgado y recortado",
+        "Pegado, plegado, pintado, rasgado y recortado",
+        "Pegado, enrollado, plegado, rasgado y cortado",
+        "Doblado, plegado, arrugado, rasgado y recortado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las técnicas con papel incluyen: picados, pegados, plegados, arrugados, rasgados o recortados, combinables con diferentes tipos de papel."
+    },
+    {
+      "question": "Según el tema, la 'relación figura-fondo' es un concepto incluido en el Léxico técnico de las artes plásticas de Crespi y Ferrario. ¿Junto a cuántos otros conceptos fundamentales más aparece en el texto?",
+      "options": [
+        "Siete más (brillo, color, composición, contraste, simetría, tono y volumen)",
+        "Cinco más (color, composición, contraste, simetría y tono)",
+        "Seis más (color, composición, contraste, relieve, simetría y volumen)",
+        "Ocho más (brillo, color, composición, contraste, forma, simetría, tono y volumen)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Léxico técnico recoge ocho conceptos en total: brillo, color, composición, contraste, relación figura-fondo, simetría, tono y volumen. Junto a 'relación figura-fondo' aparecen los otros siete."
+    },
+    {
+      "question": "Lowenfeld estableció las etapas del desarrollo del dibujo espontáneo. ¿Cuántas etapas son en total según el tema?",
+      "options": [
+        "Seis etapas",
+        "Cuatro etapas",
+        "Cinco etapas",
+        "Siete etapas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lowenfeld establece seis etapas: garabato (0-4 años), preesquemática (4-7), esquemática (7-9), realismo (9-12), pseudonaturalismo (12-13) y decisión (13-14)."
+    },
+    {
+      "question": "El proceso de percepción activa del lenguaje musical avanza desde la sensibilización sonora general hacia los elementos del tercer ciclo (altura, intensidad, duración, timbre, ritmo, melodía y armonía), pasando por una etapa intermedia de:",
+      "options": [
+        "Identificación, discriminación y análisis de los sonidos del entorno",
+        "Exploración instrumental y práctica de la percusión corporal",
+        "Interpretación vocal y canto coral en pequeños grupos",
+        "Lectura y escritura de las notas musicales en el pentagrama"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso de percepción activa comienza con la sensibilización hacia el mundo sonoro general; avanza desde la identificación, discriminación y análisis de los sonidos del entorno, hacia la comprensión de elementos como la altura, intensidad, duración, timbre, ritmo, melodía y armonía en el tercer ciclo."
+    },
+    {
+      "question": "Según el tema, la EPV debe 'desarrollar capacidades plásticas y expresivas'. ¿A través de qué se consigue específicamente según las líneas de intervención?",
+      "options": [
+        "A través de conmemoraciones",
+        "A través de proyectos interdisciplinares y colaborativos",
+        "A través del trabajo de taller y las visitas culturales",
+        "A través del aprendizaje basado en problemas artísticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una de las líneas de actuación del área es desarrollar capacidades plásticas y expresivas a través de conmemoraciones."
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre los 'recursos impresos' y los 'recursos audiovisuales' en la clasificación de recursos didácticos para EPV?",
+      "options": [
+        "Los impresos permiten técnicas de observación y análisis; los audiovisuales incluyen fotografías, vídeos y dispositivos de grabación y proyección",
+        "Los impresos son estáticos y analógicos; los audiovisuales son dinámicos y siempre digitales",
+        "Los impresos son elaborados por el docente; los audiovisuales son producidos por el alumnado",
+        "Los impresos pertenecen a la EPV; los audiovisuales pertenecen a la Educación audiovisual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los recursos impresos posibilitan el desarrollo de técnicas de observación y análisis (láminas, cuadernos de bocetos, fichas). Los audiovisuales incluyen fotografía, vídeos, documentales y tutoriales, así como dispositivos como cámara de vídeo, proyector y grabadora."
+    },
+    {
+      "question": "Según el tema, la integración del trabajo de la EPV y la Música y Danza contribuye a la finalidad de la Educación Primaria establecida en el artículo:",
+      "options": [
+        "Artículo 4 del Decreto 155/2022",
+        "Artículo 7 del Decreto 155/2022",
+        "Artículo 6 del Decreto 155/2022",
+        "Artículo 9 del Decreto 155/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El trabajo integrado de ambas áreas contribuye a la consecución de la finalidad de la EP del artículo 4 del Decreto 155/2022, que es facilitar al alumnado los aprendizajes del sentido artístico y la creatividad."
+    },
+    {
+      "question": "La Orden de 26 de mayo de 2023 además de desarrollar el Decreto 155/2022 también regula:",
+      "options": [
+        "La evaluación en la etapa de Educación Primaria de Galicia",
+        "Los requisitos mínimos de los centros educativos de EP",
+        "La distribución horaria de las áreas de EP",
+        "La formación del profesorado en educación artística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022 y regula la evaluación en la etapa de Educación Primaria en Galicia."
+    },
+    {
+      "question": "El Real Decreto 132/2010, de 12 de febrero, establece los requisitos mínimos de los centros que imparten las enseñanzas del segundo ciclo de la EI, la EP y:",
+      "options": [
+        "La educación secundaria",
+        "El bachillerato",
+        "La formación profesional básica",
+        "La educación especial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 132/2010 establece los requisitos mínimos de los centros que imparten las enseñanzas del segundo ciclo de la EI, la EP y la educación secundaria."
+    },
+    {
+      "question": "Según el tema, las conmemoraciones son un recurso específicamente vinculado a:",
+      "options": [
+        "El desarrollo de capacidades plásticas y expresivas",
+        "El fomento del trabajo cooperativo en grupos heterogéneos",
+        "La integración de proyectos motivadores para la adquisición de autonomía",
+        "El uso de recursos, soportes y materiales variados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una de las líneas de actuación del área establece desarrollar capacidades plásticas y expresivas a través de conmemoraciones."
+    },
+    {
+      "question": "Según el tema, ¿cuál es la principal finalidad de impulsar el 'interés por la manipulación, indagación y búsqueda de materiales' en EPV?",
+      "options": [
+        "Adquirir un 'saber hacer' de los contenidos plásticos de manera autónoma y reflexiva",
+        "Desarrollar la creatividad y la expresión libre del alumnado",
+        "Promover el consumo responsable y la valoración de materiales de desecho",
+        "Fomentar el espíritu emprendedor y la innovación artística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el tema, el docente debe impulsar el interés por la manipulación, indagación y búsqueda de materiales para adquirir un 'saber hacer' de los contenidos plásticos de manera autónoma y reflexiva."
+    },
+    {
+      "question": "La 'planificación rigurosa de métodos didácticos' en la labor del profesorado debe adaptarse al nivel y a las:",
+      "options": [
+        "Condiciones socioculturales del alumnado",
+        "Características individuales y estilos de aprendizaje",
+        "Competencias adquiridas en cursos anteriores",
+        "Necesidades específicas de apoyo educativo del grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La labor del profesorado requiere una planificación rigurosa de métodos didácticos adecuados al nivel y condiciones socioculturales del alumnado."
+    },
+    {
+      "question": "Según el tema, la educación artística está constantemente presente en nuestro entorno. Las escuelas deben potenciarla porque las imágenes, sonidos y los sentimientos que generan resultan:",
+      "options": [
+        "Determinantes en la vida de las personas",
+        "Fundamentales para el desarrollo de la competencia cultural",
+        "Esenciales para la adquisición de las competencias clave",
+        "Imprescindibles para la formación integral del ciudadano"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Valenciano (2006) destaca que las imágenes, sonidos, la forma de percibirlos e interpretarlos y los sentimientos que generan resultan determinantes en la vida de las personas, justificando que las escuelas potencien los lenguajes y técnicas artísticas."
+    },
+    {
+      "question": "Según el tema, la clasificación de materiales didácticos incluye recursos materiales, impresos, audiovisuales y TIC interactivos. ¿En cuál de estas categorías se incluiría un 'cuaderno de bocetos'?",
+      "options": [
+        "Recursos impresos",
+        "Recursos materiales",
+        "Recursos audiovisuales",
+        "Recursos didácticos interactivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cuaderno de bocetos es un recurso impreso, junto con láminas de obras, fichas de composición y guías técnicas de dibujo."
+    },
+    {
+      "question": "Según el tema, desde el campo 'didáctico' en la utilización de materiales es imprescindible asegurar:",
+      "options": [
+        "La coherencia entre selección de materiales y objetivos pedagógicos",
+        "La disponibilidad de espacios y recursos para la actividad",
+        "La correcta distribución del alumnado según la metodología",
+        "La estimación de tiempos realistas para cada actividad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Desde lo didáctico, es imprescindible adaptar la actividad al alumno y al currículo, asegurando coherencia entre selección de materiales y objetivos pedagógicos, y facilitando una reflexión final sobre el proceso seguido. La disponibilidad de espacios y tiempos pertenecen al campo organizativo."
+    },
+    {
+      "question": "El 'pegado' de papel es una técnica incluida en el grupo de:",
+      "options": [
+        "Técnicas con papel",
+        "Técnicas mixtas",
+        "Collage",
+        "Modelado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El pegado es una técnica con papel, junto con picado, plegado, arrugado, rasgado y recortado. El collage es una técnica mixta diferente que combina técnicas y materiales sobre un mismo soporte."
+    },
+    {
+      "question": "La etapa del realismo en el desarrollo del dibujo (9-12 años) se caracteriza por que el dibujo es:",
+      "options": [
+        "Más natural y rico en detalles",
+        "Más esquemático e incluye los colores",
+        "Más subjetivo, con perspectiva espacial",
+        "Más expresivo, mostrando los sentimientos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa del realismo (9-12 años), el dibujo se ajusta más a la realidad y es más natural y rico en detalles. La perspectiva espacial aparece en el pseudonaturalismo y la expresión de sentimientos en la etapa de la decisión."
+    },
+    {
+      "question": "Según el tema, el 'planificar propuestas de aprendizaje que desarrollen la apreciación, análisis, creatividad, imaginación y sensibilidad' es una línea de intervención que también debe:",
+      "options": [
+        "Favorecer el aprendizaje significativo vinculado al entorno próximo y despertar el interés por las artes",
+        "Integrar las TIC como herramienta fundamental del proceso creativo",
+        "Promover el trabajo cooperativo en grupos heterogéneos",
+        "Desarrollar la competencia digital y el ahorro de materiales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La línea de intervención de planificar propuestas de aprendizaje también debe favorecer el aprendizaje significativo vinculado al entorno próximo y despertar el interés por las artes plásticas, visuales y audiovisuales."
+    },
+    {
+      "question": "La competencia 'Aprender a aprender' en EPV se fomenta a través de la planificación y la toma de decisiones sobre el propio trabajo. Esto es un ejemplo de:",
+      "options": [
+        "Una línea de intervención del área de EPV del Decreto 155/2022",
+        "Un principio pedagógico del artículo 6 del Decreto 155/2022",
+        "Un objetivo de etapa del artículo 7 del Decreto 155/2022",
+        "Un criterio de evaluación del Anexo III del Decreto 155/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fomentar la competencia de aprender a aprender a través de la planificación y la toma de decisiones es una de las líneas de intervención del área de EPV recogidas en el epígrafe 5.4 del Anexo II del Decreto 155/2022."
+    },
+    {
+      "question": "Según el tema, la expresión plástica debe contribuir a desarrollar 'los esquemas mentales'. ¿Junto a qué otros aspectos se menciona en el texto?",
+      "options": [
+        "La imaginación, la expresión individual, la capacidad perceptiva de investigación y crítica, y la relación emocional y sensitiva con la propia obra",
+        "La creatividad, la percepción estética, la expresión personal y la sensibilidad cultural",
+        "La autonomía creativa, el pensamiento visual, la expresión corporal y la sensibilidad artística",
+        "La imaginación, la creatividad, la expresión libre y la valoración de producciones ajenas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La expresión plástica debe contribuir a desarrollar: la imaginación, la expresión individual, la capacidad perceptiva de investigación y crítica, los esquemas mentales, y la relación emocional y sensitiva con la propia obra."
+    }
+  ]
+}

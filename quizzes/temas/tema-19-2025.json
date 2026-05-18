@@ -1,0 +1,2043 @@
+{
+  "title": "Tema 19. Desarrollo de la expresión escrita en la Educación Primaria",
+  "description": "Preguntas de nivel avanzado sobre métodos, estrategias, composición de textos escritos, TIC y estrategias de intervención educativa en la expresión escrita en Educación Primaria.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según el artículo 19 de la LOMLOE, ¿cómo debe trabajarse la expresión oral y escrita en la Educación Primaria?",
+      "options": [
+        "Transversalmente en todas las áreas curriculares",
+        "De forma exclusiva en las áreas de lengua castellana y gallega",
+        "En un bloque específico dentro del área de LCL",
+        "Como contenido optativo en los últimos cursos de primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 19 de la LOMLOE establece que la comprensión lectora, la expresión oral y escrita y la comunicación audiovisual deben trabajarse transversalmente en todas las áreas, no solo en las de lengua."
+    },
+    {
+      "question": "El artículo 16 de la LOMLOE, sobre los principios generales de la EP, señala que la finalidad de la escritura es proporcionar una educación que permita:",
+      "options": [
+        "Afianzar el desarrollo personal y bienestar del alumnado mediante habilidades culturales básicas",
+        "Garantizar la adquisición de la lectoescritura antes del segundo curso de primaria",
+        "Preparar al alumnado exclusivamente para los procesos de evaluación externa",
+        "Desarrollar las competencias digitales vinculadas a la escritura multimodal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 establece que la finalidad es proporcionar una educación que permita afianzar el desarrollo personal y bienestar del alumnado a través de la adquisición de habilidades culturales básicas relativas a la expresión y comprensión oral, la lectura, la escritura y el cálculo."
+    },
+    {
+      "question": "¿En qué bloque del currículo del Decreto 155/2022 se organiza la escritura en las áreas de LCL y LGL?",
+      "options": [
+        "Bloque 3 'Comunicación Escrita'",
+        "Bloque 1 'Comprensión Lectora'",
+        "Bloque 4 'Educación Literaria'",
+        "Bloque 2 'Comunicación Oral'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las áreas de LCL y LGL organizan la escritura en torno al Bloque 3 'Comunicación Escrita', integrando aspectos básicos de la lengua escrita e intensificando gradualmente su uso personal, autónomo y creativo."
+    },
+    {
+      "question": "El objetivo de área 5 de LCL y LGL del Decreto 155/2022 establece que el alumnado debe producir textos escritos aplicando estrategias de planificación, textualización y edición. ¿En qué anexo del decreto se recoge este objetivo?",
+      "options": [
+        "Anexo II",
+        "Anexo I",
+        "Anexo III",
+        "Anexo IV"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo de área 5 está recogido en el Anexo II del Decreto 155/2022, que contiene los objetivos de área y establece que el alumnado debe producir textos escritos y multimodales correctos aplicando estrategias de planificación, textualización, redacción, revisión y edición."
+    },
+    {
+      "question": "¿Qué descriptor operativo del perfil de salida está directamente relacionado con la expresión escrita según el Decreto 155/2022?",
+      "options": [
+        "CCL1: Expresa hechos de forma oral, escrita, signada o multimodal con claridad y adecuación a los contextos",
+        "CD3: Gestiona de forma segura la identidad digital y los datos en entornos virtuales",
+        "STEM1: Interpreta y transmite información y datos con precisión científica",
+        "CP2: Utiliza las estrategias de comunicación intercultural para comprender otras lenguas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El descriptor CCL1 del perfil de salida establece que el alumnado debe expresar hechos de forma oral, escrita, signada o multimodal con claridad y adecuación a los contextos y participar en interacciones comunicativas con actitud cooperativa y respetuosa."
+    },
+    {
+      "question": "Según Prado (2004), ¿qué característica fundamental tiene el proceso de aprendizaje de la escritura?",
+      "options": [
+        "Debe ser planificado, sistemático y trabajarse paralela y coordinadamente con la lectura",
+        "Debe centrarse en la adquisición mecánica del código grafofónico antes que en la composición",
+        "Es un proceso espontáneo que se desarrolla sin intervención didáctica explícita",
+        "Debe priorizarse sobre la expresión oral en los primeros cursos de la etapa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Prado (2004), la escritura precisa de un proceso de aprendizaje planificado y sistemático, trabajándose paralela y coordinadamente con la lectura, destacando la interdependencia entre ambas habilidades."
+    },
+    {
+      "question": "Según Prado (2004), ¿cómo define la escritura?",
+      "options": [
+        "La habilidad de representar mediante signos gráficos convencionales una determinada información de forma coherente y adecuada",
+        "La capacidad de trazar letras y palabras siguiendo las normas caligráficas establecidas",
+        "El proceso cognitivo de transformar ideas en código fonológico para su posterior transcripción",
+        "La habilidad de comunicar mensajes orales mediante su representación gráfica convencional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prado (2004) define la escritura como la habilidad de representar mediante signos gráficos convencionales una determinada información de forma coherente y adecuada, destacando tanto el código como la coherencia y adecuación del mensaje."
+    },
+    {
+      "question": "Ramos Sánchez (2003) complementa la definición de escritura indicando que aprender a escribir implica:",
+      "options": [
+        "Ser capaz de escribir textos y no solo palabras, pues la verdadera función es comunicar un mensaje escrito",
+        "Dominar la caligrafía y la ortografía antes de abordar la composición de textos completos",
+        "Adquirir los procesos motores necesarios para el trazado correcto de letras y palabras",
+        "Conocer las convenciones ortográficas antes que los procesos de planificación textual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ramos Sánchez (2003) señala que aprender a escribir es ser capaz de escribir textos y no solo palabras, pues la verdadera función de la escritura es comunicar un mensaje escrito, poniendo el énfasis en la dimensión comunicativa."
+    },
+    {
+      "question": "Para Cuetos (2008) y Ramos Sánchez (2003), ¿cuáles son los principales procesos cognitivos implicados en la escritura?",
+      "options": [
+        "La planificación del mensaje, la construcción de estructuras sintácticas, la selección de palabras y los procesos motores",
+        "La memoria fonológica, el procesamiento ortográfico, la fluidez lectora y la comprensión textual",
+        "La conciencia fonémica, la conciencia morfológica, la conciencia sintáctica y la conciencia pragmática",
+        "La atención sostenida, la memoria de trabajo, la planificación ejecutiva y el control inhibitorio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cuetos (2008) y Ramos Sánchez (2003) identifican cuatro procesos cognitivos principales en la escritura: la planificación del mensaje, la construcción de las estructuras sintácticas, la selección de palabras y los procesos motores."
+    },
+    {
+      "question": "¿Qué dos funciones fundamentales se reconocen en la escritura según las diversas definiciones del concepto?",
+      "options": [
+        "La utilización del código grafo-fonético de signos convencionales y la expresión de sentimientos o vivencias posibilitando la intercomunicación personal",
+        "La función comunicativa y la función representativa de la realidad objetiva",
+        "La función ortográfica y la función caligráfica que garantizan la legibilidad del texto",
+        "La función cognitiva de organizar el pensamiento y la función social de transmitir cultura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las diversas definiciones de escritura coinciden en reconocer dos funciones: la utilización del código grafo-fonético de signos convencionales que representan elementos lingüísticos y la expresión de sentimientos o vivencias posibilitando la intercomunicación personal."
+    },
+    {
+      "question": "¿Quiénes identificaron las tres fases de adquisición de la escritura: grafismos primitivos, escritura silábica y escritura alfabética?",
+      "options": [
+        "Ferreiro y Teberosky (1979)",
+        "Flower y Hayes (1981)",
+        "Cuetos y Ramos Sánchez (2008)",
+        "Prado y Maruny Curto (2004)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ferreiro y Teberosky (1979) señalaron tres fases de adquisición de la escritura: grafismos primitivos y pseudoletras, escritura silábica y escritura alfabética, describiendo la progresión del niño desde la escritura inicial hasta la correspondencia letra-fonema."
+    },
+    {
+      "question": "En la fase de grafismos primitivos y pseudoletras, ¿cuál es la característica principal que la define?",
+      "options": [
+        "No existe relación entre sonido y escritura, aunque comienza a identificar algunas letras y números",
+        "El niño descubre la relación entre lengua oral y escrita asociando sonidos con grafías",
+        "Se realiza una correspondencia exacta entre letra y fonema con posibles errores ortográficos",
+        "El niño domina las normas ortográficas básicas pero presenta dificultades de segmentación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La fase de grafismos primitivos y pseudoletras representa la escritura inicial en la que no existe relación entre sonido y escritura, aunque el niño comienza a identificar algunas letras y números, siendo una escritura puramente imitativa."
+    },
+    {
+      "question": "¿En qué fase de escritura el niño descubre la relación entre la lengua oral y la lengua escrita, asociando sonidos con grafías?",
+      "options": [
+        "Escritura silábica",
+        "Grafismos primitivos y pseudoletras",
+        "Escritura alfabética",
+        "Escritura morfológica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de escritura silábica, el niño descubre la relación entre la lengua oral y la escrita, asociando sonidos con grafías, lo que supone un avance cualitativo fundamental hacia la comprensión del principio alfabético."
+    },
+    {
+      "question": "¿Con qué etapa coincide el inicio de la fase de escritura alfabética según Ferreiro y Teberosky?",
+      "options": [
+        "Con el comienzo de la Educación Primaria",
+        "Con el final de la Educación Infantil",
+        "Con el tercer curso de Educación Primaria",
+        "Con el inicio del segundo ciclo de Educación Primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Con el comienzo de la Educación Primaria, los niños inician la fase de escritura alfabética, realizando una correspondencia exacta entre letra y fonema, aunque pueden existir errores ortográficos y de segmentación. A partir de esta etapa van dominando las normas ortográficas, la caligrafía y la velocidad escritora."
+    },
+    {
+      "question": "¿Cómo define el Protocolo para intervención psicoeducativa de la dislexia las Dificultades Específicas de Aprendizaje (DEA)?",
+      "options": [
+        "Aquellas que afectan de forma exclusiva a la adquisición de los aprendizajes instrumentales por disfunciones neurológicas que generan déficit cognitivo-lingüístico",
+        "Trastornos generalizados del desarrollo que afectan a todas las áreas del aprendizaje escolar",
+        "Dificultades transitorias relacionadas con el ritmo de maduración que desaparecen sin intervención",
+        "Problemas de aprendizaje derivados exclusivamente de factores ambientales y socioeconómicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Protocolo define las DEA como aquellas que afectan de forma exclusiva a la adquisición y dominio de los aprendizajes instrumentales que, como consecuencia de disfunciones neurológicas, generan un déficit cognitivo-lingüístico afectando a las habilidades académicas básicas de lectura, escritura y matemáticas."
+    },
+    {
+      "question": "¿Qué tres DEA de escritura distingue el Protocolo para intervención psicoeducativa de la dislexia?",
+      "options": [
+        "Dislexia, disgrafía y disortografía",
+        "Dislexia, discalculia y disgrafía",
+        "Disgrafía, disortografía y dislalia",
+        "Dislexia, disgrafia y disfonía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Protocolo distingue tres DEA de escritura: la dislexia (dificultad para reconocer palabras, deletrear o adquirir la capacidad ortográfica), la disgrafía (afecta al trazado y grafía de la palabra) y la disortografía (al aprendizaje de las normas ortográficas)."
+    },
+    {
+      "question": "Según el DSM-V, ¿cómo se define la dislexia en relación con la escritura?",
+      "options": [
+        "Como la dificultad de aprendizaje en la lectura o escritura para reconocer palabras, deletrear o adquirir la capacidad ortográfica",
+        "Como el trastorno específico que afecta exclusivamente al trazado motor de las letras y palabras",
+        "Como la incapacidad para adquirir las normas ortográficas propias de una lengua determinada",
+        "Como el trastorno que afecta a la velocidad lectora sin comprometer la comprensión textual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El DSM-V define la dislexia como la dificultad de aprendizaje en la lectura o escritura para reconocer palabras, deletrear o adquirir la capacidad ortográfica, distinguiéndola así de la disgrafía (trazado) y la disortografía (normas ortográficas)."
+    },
+    {
+      "question": "¿Cuál es la diferencia principal entre la disgrafía y la disortografía según el Protocolo para intervención psicoeducativa?",
+      "options": [
+        "La disgrafía afecta el trazado y grafía de la palabra, mientras que la disortografía afecta al aprendizaje de las normas ortográficas",
+        "La disgrafía afecta a la comprensión lectora y la disortografía a la expresión escrita",
+        "La disgrafía es de origen neurológico y la disortografía es de origen ambiental y pedagógico",
+        "La disgrafía afecta a todos los tipos de texto y la disortografía solo a textos formales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La disgrafía afecta el trazado y grafía de la palabra (aspecto motor y perceptivo-espacial), mientras que la disortografía afecta específicamente al aprendizaje de las normas ortográficas (aspecto lingüístico y convencional)."
+    },
+    {
+      "question": "Según el modelo de Flower y Hayes (1981), ¿qué tres procesos integran la composición de un texto?",
+      "options": [
+        "La planificación, la traslación y la revisión",
+        "La preescritura, la escritura y la posescritura",
+        "La generación de ideas, la textualización y la edición",
+        "La planificación, la redacción y la evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El modelo de Flower y Hayes (1981) identifica tres procesos en la composición de textos: la planificación, la traslación y la revisión. Este modelo es la base para analizar las DEA en la composición escrita en la segunda fase de dificultades."
+    },
+    {
+      "question": "¿En qué consiste la planificación como proceso de composición escrita según el modelo cognitivo?",
+      "options": [
+        "En la capacidad para elaborar un plan de escritura a través de la búsqueda de información y de tres subprocesos: generar, organizar ideas y establecer metas",
+        "En la transcripción física de las ideas al papel respetando las normas ortográficas y caligráficas",
+        "En la revisión y corrección del texto producido para detectar incoherencias y errores formales",
+        "En la selección del tipo de texto más adecuado para el destinatario y el contexto comunicativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación es la capacidad para elaborar un plan de escritura a través de la búsqueda de información en la memoria o en fuentes externas, con tres subprocesos: generar ideas, organizar ideas y establecer metas globales de escritura."
+    },
+    {
+      "question": "¿Cuál es el error más frecuente relacionado con el tiempo de planificación en los alumnos con DEA?",
+      "options": [
+        "Planificar de frase a frase sin generar y organizar ideas previas y sin metas globales de escritura",
+        "Dedicar demasiado tiempo a la planificación en detrimento del tiempo de escritura efectiva",
+        "Planificar en exceso el contenido pero ignorar los aspectos ortográficos y caligráficos",
+        "Elaborar planes muy detallados que luego no se corresponden con el texto producido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El error más frecuente en relación al tiempo de planificación es que los alumnos planifican de frase a frase sin generar y organizar ideas previas y sin establecer metas globales de escritura, lo que resulta en textos pobres e inconexos."
+    },
+    {
+      "question": "¿Qué es el 'auto-dictado' como dificultad en la planificación de la escritura?",
+      "options": [
+        "La tendencia del alumno a articular en voz baja (subvocalmente) mientras escribe, sin planificación previa",
+        "La práctica de dictar el texto a otro compañero para que lo escriba en su lugar",
+        "La estrategia de leer en voz alta el texto producido para detectar errores ortográficos",
+        "La habilidad de transcribir textos orales directamente sin procesamiento previo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El auto-dictado consiste en que los alumnos articulan subvocalmente mientras escriben, siguiendo la corriente del pensamiento sin planificar el conjunto del texto. Esta tendencia dificulta la organización coherente del discurso escrito."
+    },
+    {
+      "question": "Las interferencias y pérdida de recursos durante la escritura sin planificación ocurren porque el alumno:",
+      "options": [
+        "Debe pensar simultáneamente en la planificación del contenido y en las normas y grafía, lo que afecta negativamente a ambos aspectos",
+        "No dispone de suficiente vocabulario para expresar las ideas que pretende transmitir",
+        "Presenta dificultades motrices que interfieren en el proceso de planificación cognitiva",
+        "Tiene escasa motivación hacia la escritura que genera distracciones frecuentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las interferencias surgen porque el alumno debe pensar simultáneamente en la planificación del contenido y en las normas ortográficas y la grafía, lo que genera una sobrecarga cognitiva que perjudica tanto la organización del contenido como los aspectos formales."
+    },
+    {
+      "question": "¿Qué características presentan los textos producidos sin planificación previa?",
+      "options": [
+        "Son textos cortos, poco elaborados, faltos de interés, organización, cohesión, claridad y creatividad",
+        "Son textos extensos pero con dificultades de puntuación y errores ortográficos frecuentes",
+        "Presentan buena estructura narrativa pero carecen de corrección ortográfica y morfosintáctica",
+        "Son textos ricos en ideas pero con problemas de adecuación al destinatario y al contexto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sin planificación, los textos resultan cortos, poco elaborados, faltos de interés, organización, cohesión, claridad y creatividad. La planificación es fundamental para producir textos de calidad con estructura coherente."
+    },
+    {
+      "question": "¿Qué implica la traslación en el proceso de composición escrita?",
+      "options": [
+        "Plasmar las ideas según lo planificado respetando requisitos gráficos, sintácticos, semánticos, textuales y contextuales",
+        "Trasladar el texto producido de un soporte a otro, por ejemplo, del papel al ordenador",
+        "Organizar y secuenciar las ideas generadas antes de comenzar la redacción del texto",
+        "Traducir el texto a otra lengua manteniendo las características estilísticas del original"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La traslación supone plasmar las ideas según lo planificado, respetando requisitos gráficos (caligrafía), sintácticos (construcción de frases), semánticos (significado), textuales (estructura) y contextuales (adecuación al destinatario y situación)."
+    },
+    {
+      "question": "Los errores mecánicos en la traslación incluyen errores disgráficos, ortográficos y de puntuación. ¿Qué caracteriza la 'escritura asociativa' como error de traslación?",
+      "options": [
+        "Expresar y escribir ideas de forma lineal una tras otra, sin coherencia ni secuencia lógica",
+        "Copiar mecánicamente textos de otras fuentes sin comprenderlos ni elaborarlos",
+        "Asociar cada idea a una imagen o diagrama en lugar de expresarla mediante palabras",
+        "Escribir siguiendo las asociaciones sonoras de las palabras sin atender al significado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La escritura asociativa consiste en expresar y escribir ideas de forma lineal una tras otra, sin coherencia y sin una secuencia lógica. El alumno escribe lo que le viene a la mente sin organizar ni relacionar las ideas entre sí."
+    },
+    {
+      "question": "En el contexto de las DEA de traslación, ¿qué papel pueden desempeñar los procesadores de texto respecto a la disgrafía?",
+      "options": [
+        "Pueden ser un recurso terapéutico y facilitador al reducir la carga motriz y permitir centrar la atención en los procesos cognitivos de composición",
+        "Deben evitarse en alumnos con disgrafía para no enmascarar las dificultades motrices subyacentes",
+        "Son herramientas exclusivamente para alumnos sin dificultades que ya dominan la escritura manual",
+        "Su uso está contraindicado en primaria porque interfiere con el aprendizaje de la caligrafía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las herramientas digitales como los procesadores de texto pueden ser un recurso terapéutico y facilitador para el alumnado con dificultades, especialmente en casos de disgrafía, al reducir la carga motriz y permitir centrar la atención en los procesos cognitivos de composición escrita."
+    },
+    {
+      "question": "¿En qué consiste la revisión como proceso de composición escrita?",
+      "options": [
+        "En mejorar lo escrito a través de la relectura y la edición para detectar y corregir errores y adecuar el contenido a la situación",
+        "En leer el texto producido en voz alta para compartirlo con los compañeros y recibir su opinión",
+        "En reescribir completamente el texto desde el inicio aplicando las correcciones del docente",
+        "En valorar si el texto cumple con las normas de presentación formal establecidas por el docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La revisión consiste en mejorar lo escrito a través de la relectura y la edición, con el fin de detectar y corregir errores y adecuar el contenido a la situación comunicativa. Implica tanto la corrección formal como la mejora del contenido y la estructura."
+    },
+    {
+      "question": "Un error frecuente en la revisión es centrarla solo en aspectos formales. ¿Qué aspectos quedan desatendidos cuando la revisión se focaliza exclusivamente en lo formal?",
+      "options": [
+        "Errores de contenido, estructura y claridad del texto",
+        "Errores de puntuación y de uso de mayúsculas",
+        "La ortografía y la morfosintaxis de las oraciones",
+        "La presentación visual y la caligrafía del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cuando la revisión se centra solo en aspectos formales, quedan desatendidos los errores de contenido, estructura y claridad. Los alumnos tienden a buscar solo errores sintácticos o referenciales y no revisan si el contenido es coherente, bien estructurado o claro."
+    },
+    {
+      "question": "¿Qué es la 'conciencia de eficacia' en el contexto de las DEA de revisión?",
+      "options": [
+        "Las deficiencias en la escritura autorregulada y de confianza en las propias habilidades para producir textos coherentes y significativos",
+        "La capacidad del alumno para evaluar objetivamente la calidad de los textos de sus compañeros",
+        "La habilidad metacognitiva para identificar los propios errores en tiempo real durante la escritura",
+        "La conciencia del alumno sobre la eficacia de las estrategias ortográficas que utiliza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conciencia de eficacia en las DEA de revisión se refiere a las deficiencias en la escritura autorregulada y en la confianza del alumno en sus habilidades para producir textos coherentes y significativos, lo que afecta negativamente a su disposición y al proceso revisor."
+    },
+    {
+      "question": "¿Por qué se suelen detectar mejor los errores en textos ajenos que en textos propios durante el proceso de revisión?",
+      "options": [
+        "Porque el control ejecutivo de los procesos de revisión está condicionado por la familiaridad con el propio texto, lo que dificulta la distancia crítica necesaria",
+        "Porque los alumnos dedican más tiempo y esfuerzo a revisar los textos de sus compañeros por motivación social",
+        "Porque la memoria de trabajo tiene mayor capacidad para procesar texto ajeno que propio",
+        "Porque la corrección de textos ajenos activa procesos de lectura más profundos y analíticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El control ejecutivo de los procesos implicados en la escritura y la revisión puede verse afectado porque la familiaridad con el propio texto dificulta la distancia crítica necesaria. Los lectores tienden a leer lo que creen haber escrito en lugar de lo que realmente escribieron."
+    },
+    {
+      "question": "Los tres enfoques metodológicos para el aprendizaje de la expresión escrita son: métodos basados en la gramática, métodos basados en las funciones y métodos basados en el proceso. ¿Cuál es el énfasis principal de los métodos basados en el proceso?",
+      "options": [
+        "El desarrollo de la composición y no el producto final, dando importancia a la organización de ideas, esquemas, estructura y revisión",
+        "El aprendizaje de contenidos gramaticales como la sintaxis, el léxico, la morfología y la ortografía",
+        "La enseñanza de la lengua para usarla comunicativamente en contextos reales y funcionales",
+        "La producción de textos formalmente correctos que cumplan con los criterios de evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los métodos basados en el proceso ponen el énfasis en el desarrollo de la composición y no en el producto final, dando importancia a la organización de ideas, la realización de esquemas, la estructura del texto y la revisión. Contrastan con los métodos gramaticales (contenidos formales) y funcionales (comunicación)."
+    },
+    {
+      "question": "¿Qué metodología se centra en enseñar la lengua para comunicarse, para usarla en la vida real?",
+      "options": [
+        "Los métodos basados en las funciones",
+        "Los métodos basados en la gramática",
+        "Los métodos basados en el proceso",
+        "Los métodos basados en el producto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los métodos basados en las funciones buscan enseñar la lengua para usarla, para comunicarse, centrándose en las funciones comunicativas del lenguaje escrito. Se diferencian de los métodos gramaticales (contenidos formales) y de proceso (desarrollo de la composición)."
+    },
+    {
+      "question": "Flower y Hayes (1981) resaltan que la composición escrita es una actividad compleja porque:",
+      "options": [
+        "Intervienen numerosos procesos cognitivos simultáneamente",
+        "Requiere la adquisición previa de un amplio repertorio léxico y morfosintáctico",
+        "Exige el dominio de múltiples tipos textuales con sus características específicas",
+        "Necesita una motivación intrínseca elevada que no siempre está presente en los alumnos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Flower y Hayes (1981) resaltan que la composición escrita es una actividad compleja al intervenir numerosos procesos cognitivos simultáneamente, lo que justifica la necesidad de enseñar diversas estrategias de aprendizaje para gestionar esa complejidad."
+    },
+    {
+      "question": "¿Cómo se definen las estrategias de aprendizaje para la escritura según la literatura especializada?",
+      "options": [
+        "Como las actividades conscientes e intencionales que guían las acciones a seguir para alcanzar determinadas metas de aprendizaje",
+        "Como los recursos materiales y tecnológicos que el docente proporciona al alumno para facilitar la composición",
+        "Como las rutinas automáticas de escritura que el alumno aplica sin necesidad de reflexión consciente",
+        "Como los procedimientos evaluativos que permiten medir el nivel de competencia escritora del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de aprendizaje para la escritura se definen como las actividades conscientes e intencionales que guían las acciones a seguir para alcanzar determinadas metas de aprendizaje, destacando su carácter deliberado y orientado a objetivos."
+    },
+    {
+      "question": "¿Qué son las estrategias de elaboración en el contexto del aprendizaje de la escritura?",
+      "options": [
+        "Estrategias consistentes en seleccionar y organizar información almacenada en la memoria",
+        "Estrategias que permiten agrupar la información para manejarla mejor identificando relaciones y jerarquías",
+        "Estrategias centradas en el mantenimiento de la motivación, la atención y el manejo de la ansiedad",
+        "Estrategias que se aplican durante y al final del proceso para revisar los pasos dados y evaluar objetivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de elaboración consisten en seleccionar y organizar información almacenada en la memoria. Se diferencian de las estrategias de organización (que estructuran la información e identifican relaciones) y de las afectivas (motivación y manejo emocional)."
+    },
+    {
+      "question": "¿Qué función tienen las estrategias de organización en el aprendizaje de la escritura?",
+      "options": [
+        "Permiten agrupar la información para manejarla mejor, imponiendo estructura al contenido e identificando relaciones y jerarquías",
+        "Consisten en seleccionar y organizar información almacenada en la memoria a largo plazo",
+        "Se centran en permanecer conscientes del objetivo de la escritura y adaptar las estrategias en función de este",
+        "Se aplican al final del proceso para revisar los pasos dados y valorar la consecución de objetivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de organización permiten agrupar la información para manejarla mejor, imponiendo estructura al contenido e identificando relaciones y jerarquías. Esto facilita la producción de textos bien estructurados y coherentes."
+    },
+    {
+      "question": "Las estrategias de control de la comprensión están ligadas a la metacognición. ¿Cuáles son los tres ejemplos de este tipo de estrategias?",
+      "options": [
+        "La planificación, la regulación y la evaluación",
+        "La elaboración, la organización y el apoyo afectivo",
+        "La generación de ideas, la textualización y la edición",
+        "La búsqueda de información, la estructuración y la revisión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de control de la comprensión están ligadas a la metacognición y sus ejemplos son la planificación (antes de escribir), la regulación (durante la escritura) y la evaluación (durante y al final del proceso). Permiten al escritor mantenerse consciente del objetivo y adaptar su actuación."
+    },
+    {
+      "question": "¿Qué distingue a las estrategias de planificación de las estrategias de regulación en el proceso escritor?",
+      "options": [
+        "Las estrategias de planificación son anteriores al acto de escribir, mientras que las de regulación se aplican durante la escritura para comprobar el seguimiento del plan",
+        "Las estrategias de planificación se centran en los aspectos formales y las de regulación en el contenido del texto",
+        "Las estrategias de planificación son metacognitivas y las de regulación son de tipo afectivo y motivacional",
+        "Las estrategias de planificación las aplica el docente y las de regulación el propio alumno de forma autónoma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de planificación son anteriores al acto de escribir (elaborar un plan, establecer objetivos, prever el tiempo), mientras que las estrategias de regulación, dirección y supervisión se aplican durante la escritura para comprobar el seguimiento del plan trazado y su eficacia."
+    },
+    {
+      "question": "¿Cuántas estrategias de aprendizaje para la expresión escrita se mencionan en el tema y cuándo se aplican las estrategias de apoyo o afectivas?",
+      "options": [
+        "Siete estrategias; las afectivas se aplican durante todo el proceso para mejorar su eficacia",
+        "Cinco estrategias; las afectivas se aplican exclusivamente al inicio para motivar al alumno",
+        "Seis estrategias; las afectivas se aplican al finalizar el texto para reforzar la autoestima",
+        "Ocho estrategias; las afectivas se aplican durante la planificación y la revisión del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se mencionan siete estrategias de aprendizaje: elaboración, organización, control de la comprensión, planificación, regulación/dirección/supervisión, evaluación y apoyo o afectivas. Las estrategias de apoyo o afectivas se aplican durante todo el proceso para mejorar su eficacia, incluyendo el mantenimiento de la motivación y el manejo de la ansiedad."
+    },
+    {
+      "question": "¿Cuál es la clasificación de textos que propone Maruny Curto et al. (1997)?",
+      "options": [
+        "Enumerativos, informativos, literarios, expositivos y prescriptivos",
+        "Narrativos, descriptivos, argumentativos, expositivos y dialogados",
+        "Literarios, periodísticos, científicos, administrativos y publicitarios",
+        "Continuos, discontinuos, mixtos, múltiples y no convencionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Maruny Curto et al. (1997) clasifican los textos en cinco categorías: enumerativos (organizan información en listas), informativos (transmiten información objetiva), literarios (expresión artística), expositivos (explican conocimientos) y prescriptivos (instrucciones y reglas)."
+    },
+    {
+      "question": "¿Cuál es la función principal de los textos enumerativos según Maruny Curto et al.?",
+      "options": [
+        "Organizar información en listas o secuencias para localizar datos aislados, anunciar acontecimientos o comunicar resultados",
+        "Transmitir información clara, precisa y objetiva sobre un tema específico",
+        "Explicar un tema concreto transmitiendo nuevos conocimientos al lector",
+        "Recoger instrucciones, reglas o pasos a seguir para regular comportamientos humanos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textos enumerativos organizan información en listas o secuencias para localizar datos aislados, anunciar acontecimientos o comunicar resultados. Ejemplos para el aula son listas, etiquetas, guías, folletos, horarios o agendas."
+    },
+    {
+      "question": "Los textos informativos tienen como función transmitir información clara, precisa y objetiva. ¿Cuál de los siguientes es un ejemplo de texto informativo para trabajar en el aula de primaria?",
+      "options": [
+        "Noticias, artículos y reportajes, invitaciones, entrevistas o correspondencia personal",
+        "Cuentos, poesías, leyendas, narraciones, refranes, teatro, adivinanzas o canciones",
+        "Listas, etiquetas, guías, folletos, horarios o agendas",
+        "Libros de consulta y divulgación, reseñas, biografías, artículos temáticos e informes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textos informativos incluyen noticias, artículos y reportajes, invitaciones, entrevistas y correspondencia personal. Los literarios son cuentos y poesías; los enumerativos son listas y guías; y los expositivos son libros de divulgación y reseñas."
+    },
+    {
+      "question": "¿Qué función tienen los textos prescriptivos según Maruny Curto et al.?",
+      "options": [
+        "Regular comportamientos humanos mediante instrucciones, reglas o pasos a seguir",
+        "Transmitir información objetiva sobre hechos de actualidad",
+        "Expresar sentimientos e ideas mediante el uso artístico del lenguaje",
+        "Explicar conceptos complejos transmitiendo nuevos conocimientos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textos prescriptivos recogen instrucciones, reglas o pasos a seguir por el lector, cuya función es regular comportamientos humanos. Ejemplos son instrucciones escolares, recetarios de cocina o normas."
+    },
+    {
+      "question": "Según Marqués (2006), ¿qué papel desempeñan las TIC en relación a la expresión escrita?",
+      "options": [
+        "Son una poderosa fuente de información, material didáctico e instrumento de producción de textos",
+        "Son principalmente herramientas de entretenimiento que pueden aprovecharse ocasionalmente para la escritura",
+        "Constituyen un recurso complementario que debe subordinarse siempre a las técnicas escritas tradicionales",
+        "Son instrumentos útiles solo para el profesorado en la preparación de materiales didácticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marqués (2006) resalta que las TIC son una poderosa fuente de información, material didáctico e instrumento de producción de textos, destacando así su triple dimensión como recurso para la expresión escrita en la educación."
+    },
+    {
+      "question": "¿Qué competencia prioriza el Decreto 155/2022 en relación al uso de las TIC, y qué tipo de uso promueve?",
+      "options": [
+        "La competencia digital (CD), promoviendo un uso seguro, saludable, sostenible, crítico y responsable de las TIC como herramienta de aprendizaje",
+        "La competencia en comunicación lingüística (CCL), utilizando las TIC para producir textos escritos multimodales",
+        "La competencia matemática y STEM, aplicando las TIC al análisis cuantitativo de datos y resultados",
+        "La competencia ciudadana (CC), fomentando el uso de las TIC para la participación democrática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 brinda especial importancia a la competencia digital (CD) promoviendo entre los discentes un uso seguro, saludable, sostenible, crítico y responsable de las TIC y como herramienta de aprendizaje, no solo como entretenimiento."
+    },
+    {
+      "question": "En el currículo de la EP, las TIC se contemplan desde una doble perspectiva. ¿Cuáles son esas dos perspectivas?",
+      "options": [
+        "Como un contenido o aspecto de la realidad con la que los alumnos deben tomar contacto y como un recurso que los acerca a otros contenidos",
+        "Como herramienta de comunicación interpersonal y como instrumento de evaluación del aprendizaje",
+        "Como recurso para el profesorado en la preparación de clases y como soporte para los deberes del alumnado",
+        "Como contenido obligatorio del área de tecnología y como recurso optativo en las demás áreas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las TIC se contemplan en el currículo de EP desde una doble perspectiva: como un contenido o aspecto de la realidad con la que los alumnos deben tomar contacto (para conocerlas) y como un recurso que los acerca a otros contenidos (para aprender a través de ellas)."
+    },
+    {
+      "question": "¿Qué es el Espacio Abalar y qué posibilidades ofrece para la escritura en el aula?",
+      "options": [
+        "Incluye la web de centro, el aula virtual, el correo electrónico y otras herramientas que permiten trabajar la escritura lúdicamente y favorecen la comunicación entre familias y docentes",
+        "Es una aplicación móvil para la práctica de la caligrafía y la escritura manuscrita en tablets",
+        "Es una plataforma de evaluación en línea que permite corregir textos escritos de forma automatizada",
+        "Es un repositorio de textos literarios digitalizados para la lectura y el análisis textual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Espacio Abalar incluye la web de centro, el aula virtual, el correo electrónico y otras herramientas para organizar el trabajo y compartir información y materiales que permiten trabajar la escritura de forma lúdica, a la vez que favorece la comunicación entre familias y docentes."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre un blog y una wiki como herramientas para la expresión escrita?",
+      "options": [
+        "El blog es un sitio web que recopila textos escritos con actualización constante, mientras que la wiki permite que múltiples personas escriban, modifiquen o borren un mismo texto colaborativamente",
+        "El blog es una herramienta para escritura individual y la wiki exclusivamente para escritura en parejas",
+        "El blog permite crear textos multimedia con audio y vídeo, mientras que la wiki solo admite texto",
+        "El blog es de uso público y la wiki solo accesible para los miembros del aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El blog es un sitio web que requiere actualización constante recopilando textos o artículos escritos. Las wikis son sitios web que permiten que múltiples personas escriban, modifiquen o borren un mismo texto a través del navegador, favoreciendo el trabajo colaborativo más abierto."
+    },
+    {
+      "question": "¿Qué es una 'blognovela' en el contexto de las TIC para la expresión escrita?",
+      "options": [
+        "La publicación de una historia seriada por capítulos que favorece la interacción del lector mediante comentarios y configura una experiencia de lectura participativa con recursos multimedia",
+        "Un diario personal digital donde el alumno reflexiona sobre sus experiencias de aprendizaje lectoras",
+        "Una colección de reseñas de libros publicadas en un blog de aula con comentarios críticos",
+        "Una adaptación digital de textos literarios clásicos enriquecida con ilustraciones y animaciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La blognovela es la publicación de una historia seriada por capítulos que favorece la interacción del lector mediante comentarios y configura una experiencia de lectura participativa y propia del entorno digital, permitiendo al escritor incorporar recursos multimedia."
+    },
+    {
+      "question": "¿Qué ventajas ofrece el procesador de textos en relación al proceso de escritura en el aula?",
+      "options": [
+        "Facilita la planificación pudiendo retroceder, borrar, corregir, insertar contenido y reorganizar el texto fácilmente, así como experimentar con multimedia y corregir ortografía",
+        "Permite automatizar completamente la corrección ortográfica y gramatical eliminando la necesidad de revisión manual",
+        "Desarrolla exclusivamente las habilidades caligráficas y de presentación formal de los textos",
+        "Garantiza la producción de textos de alta calidad al disponer de herramientas de ayuda a la redacción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El procesador de textos convierte la escritura en algo 'vivo' que facilita la planificación pudiendo retroceder, borrar, corregir, insertar contenido y reorganizar el texto fácilmente. Permite experimentar con recursos multimedia y tipografías y corregir faltas de ortografía rápidamente."
+    },
+    {
+      "question": "¿Qué es el código QR y cómo puede utilizarse para trabajar la escritura en el aula?",
+      "options": [
+        "Es un código bidimensional para almacenar y acceder a información digital; puede usarse para crear itinerarios de escritura, narraciones enlazadas, descripciones interactivas y textos colaborativos",
+        "Es un sistema de reconocimiento de caracteres manuscritos que digitaliza textos escritos a mano",
+        "Es una plataforma de escritura colaborativa en línea accesible mediante código de acceso",
+        "Es un programa de corrección ortográfica que analiza textos mediante algoritmos de inteligencia artificial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El código QR es un tipo de código bidimensional que permite almacenar y acceder rápidamente a información digital. En el aula puede usarse para crear itinerarios de escritura, narraciones enlazadas, descripciones interactivas, diarios digitales o textos colaborativos donde el alumnado produce contenidos que se ampían y se comparten dinámicamente."
+    },
+    {
+      "question": "La infografía digital combina elementos visuales con texto y multimedia. ¿Qué procesos escritores específicos promueve su elaboración?",
+      "options": [
+        "Escritura de textos breves, coherentes y precisos que exigen procesos de selección, organización y reformulación de la información",
+        "Escritura de textos extensos y detallados con estructura narrativa compleja y uso de recursos literarios",
+        "Escritura automática y libre sin restricciones formales para fomentar la creatividad expresiva",
+        "Transcripción literal de fuentes escritas para desarrollar la atención y la precisión ortográfica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La infografía digital promueve la escritura de textos breves, coherentes y precisos exigiendo procesos de selección, organización y reformulación de la información, lo que desarrolla habilidades de síntesis y expresión concisa."
+    },
+    {
+      "question": "¿Qué herramienta tecnológica como 'tobii' se menciona en el tema como recurso de inclusión para alumnos con dificultades motrices?",
+      "options": [
+        "La escritura por seguimiento visual que permite escribir mediante el movimiento de los ojos",
+        "La escritura por reconocimiento de voz que transcribe automáticamente el discurso oral",
+        "La escritura predictiva que anticipa las palabras que el alumno pretende escribir",
+        "La escritura táctil adaptada que utiliza teclados ergonómicos especialmente diseñados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tobii es una tecnología de seguimiento visual (eye-tracking) que permite la escritura mediante el seguimiento de los ojos, siendo un recurso de inclusión para sujetos con dificultades motrices que no pueden utilizar el teclado convencional."
+    },
+    {
+      "question": "¿Cuál es el objetivo del bloque 3 'Comunicación Escrita' en las orientaciones metodológicas generales de la expresión escrita?",
+      "options": [
+        "Que los alumnos se enfrenten de forma progresivamente autónoma a las exigencias de la escritura con diferentes tipos de textos y con dominio creciente de normas ortográficas y vocabulario",
+        "Que el alumnado memorice las reglas ortográficas fundamentales de la lengua castellana y gallega",
+        "Que los docentes evalúen exclusivamente el producto final de la composición escrita",
+        "Que los alumnos copien modelos de textos correctos para adquirir las estructuras textuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones metodológicas generales pretenden que los alumnos se enfrenten cada vez de forma más autónoma a las exigencias de la expresión escrita, escribiendo diferentes tipos de textos con niveles crecientes de complejidad y con mayor dominio de normas ortográficas, técnicas gráficas y vocabulario."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen las orientaciones pedagógicas?",
+      "options": [
+        "Indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes para favorecer el aprendizaje y lograr los objetivos y adquirir las CC",
+        "Normas de obligado cumplimiento que establecen los contenidos mínimos de cada área y etapa educativa",
+        "Recomendaciones opcionales que los centros pueden adoptar o no según su proyecto educativo",
+        "Criterios de evaluación que permiten determinar el grado de consecución de las competencias clave"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las orientaciones pedagógicas como las indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes con la finalidad de favorecer el aprendizaje del alumnado para lograr los objetivos y adquirir las competencias."
+    },
+    {
+      "question": "¿Qué papel debe desempeñar el docente como punto de partida en la enseñanza de la escritura según las orientaciones específicas?",
+      "options": [
+        "Actuar como modelo de escritura experto escribiendo para los niños y utilizando composiciones modelo como marco de referencia",
+        "Proporcionar al alumnado plantillas y esquemas prediseñados para que los rellenen con contenido",
+        "Evaluar únicamente el producto final sin intervenir en el proceso de composición",
+        "Dictar textos al alumnado para que practiquen la transcripción y la ortografía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Como punto de partida, el docente debe reflexionar sobre las situaciones en que los alumnos escriben y actuar como modelo de escritura experto, escribiendo para los niños y utilizando composiciones modelo como marco de referencia para profundizar en las características lingüísticas y estructurales de los diferentes tipos de textos."
+    },
+    {
+      "question": "¿Por qué es importante ofrecer 'situaciones de comunicación real' al enseñar escritura según las orientaciones específicas del Decreto 155/2022?",
+      "options": [
+        "Porque el destinatario y el tipo de texto deben estar claramente definidos para que el alumno comprenda el objetivo comunicativo",
+        "Porque las situaciones artificiales impiden que el alumno aplique las normas ortográficas aprendidas",
+        "Porque solo los textos producidos en contextos reales pueden ser evaluados correctamente",
+        "Porque las situaciones reales garantizan automáticamente la motivación del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ofrecer situaciones de comunicación real es fundamental porque el destinatario y el tipo de texto están claramente definidos, lo que permite al alumno comprender el objetivo que se persigue con cada actividad y ajustar su producción a las demandas comunicativas reales."
+    },
+    {
+      "question": "Según Cuetos (2009), ¿cuáles son los tres pasos en los que debe enseñarse la escritura como proceso estructurado?",
+      "options": [
+        "La planificación, la redacción y la revisión",
+        "La generación de ideas, la textualización y la edición",
+        "La preescritura, la escritura y la posescritura",
+        "El borrador, la corrección y la publicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cuetos (2009) establece que la escritura debe enseñarse como un proceso estructurado en tres pasos: la planificación de la información partiendo de ideas previas o búsqueda, la redacción abordando exigencias gráficas y lingüísticas, y la revisión para detectar incoherencias y aplicar conocimientos lingüísticos."
+    },
+    {
+      "question": "¿Qué son las 'secuencias didácticas' en el contexto de la enseñanza de la expresión escrita?",
+      "options": [
+        "La enseñanza articulada en torno a una progresión desde la planificación y revisión de textos básicos hacia otros más complejos con mayor autonomía",
+        "Series de ejercicios mecánicos de copia y dictado organizados por nivel de dificultad creciente",
+        "Unidades didácticas temáticas que integran todas las áreas del currículo en torno a un eje común",
+        "Actividades de escritura libre sin estructura predeterminada para fomentar la creatividad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las secuencias didácticas en la enseñanza de la escritura consisten en articular la enseñanza avanzando de la planificación y revisión de textos básicos hacia otros más complejos con mayor autonomía, combinando actividades intensivas de corta duración y tareas extensivas más centradas en la producción."
+    },
+    {
+      "question": "¿Qué diferencia existe entre las actividades intensivas y las extensivas en la enseñanza de la expresión escrita?",
+      "options": [
+        "Las intensivas son de corta duración y centradas en aspectos concretos; las extensivas están más centradas en la producción de textos completos para fomentar nuevos hábitos",
+        "Las intensivas abarcan todas las fases del proceso escritor y las extensivas se centran en la revisión final",
+        "Las intensivas son individuales y las extensivas son cooperativas e implican a todo el grupo",
+        "Las intensivas utilizan soportes digitales y las extensivas soportes escritos tradicionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades intensivas son de corta duración y centradas en aspectos concretos (por ejemplo, practicar un tipo de conector textual), mientras que las tareas extensivas están más centradas en la producción completa de textos para fomentar nuevos hábitos de composición."
+    },
+    {
+      "question": "¿Qué papel tienen los materiales de apoyo como diccionarios, fichas de consulta y textos modelo en la enseñanza de la escritura?",
+      "options": [
+        "Son elementos previstos en la organización de actividades para responder a las necesidades comunicativas de cada alumno atendiendo a la diversidad",
+        "Son recursos exclusivos para alumnos con DEA que presentan dificultades específicas en la composición",
+        "Constituyen herramientas de evaluación que permiten al docente valorar el nivel de competencia",
+        "Son materiales opcionales que solo deben usarse cuando el alumno los solicita explícitamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los materiales de apoyo como diccionarios, fichas de consulta o textos modelo son elementos que deben preverse en la organización de las actividades junto con las ayudas necesarias para responder a las necesidades comunicativas de cada alumno, atendiendo a la diversidad mediante recursos como el DUA."
+    },
+    {
+      "question": "¿Qué enfoque del DUA (Diseño Universal de Aprendizaje) se menciona en el tema para atender a la diversidad en la expresión escrita?",
+      "options": [
+        "Proporcionar múltiples medios de representación, acción, expresión y compromiso adaptados a cada alumno",
+        "Simplificar los textos para que todos los alumnos puedan acceder al mismo nivel de dificultad",
+        "Agrupar a los alumnos por nivel de competencia escritora para trabajar de forma homogénea",
+        "Evaluar exclusivamente los aspectos formales de la escritura para garantizar la objetividad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El DUA se menciona como ejemplo de medida inclusiva para atender a la diversidad, proporcionando las ayudas y materiales de apoyo necesarios para que cada alumno pueda responder a sus necesidades comunicativas y escritoras."
+    },
+    {
+      "question": "¿Qué función tiene la biblioteca del centro y de aula en relación a la expresión escrita según las orientaciones metodológicas?",
+      "options": [
+        "Fomentar una identidad lectora que favorezca la creación de textos propios y hacer públicas las producciones de los discentes para que lleguen a otros interlocutores",
+        "Proporcionar modelos de textos perfectos para que el alumnado los copie y aprenda sus estructuras",
+        "Facilitar el acceso a textos digitalizados para la práctica de la lectura silenciosa individual",
+        "Servir como espacio de evaluación donde el alumnado realiza las pruebas de competencia lectora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La biblioteca del centro y de aula es un espacio para fomentar una identidad lectora que favorezca la creación de textos propios y para hacer públicas las producciones de los discentes con el fin de que lleguen a otros interlocutores, dotando de sentido comunicativo real a la escritura."
+    },
+    {
+      "question": "En la evaluación de la escritura según las orientaciones metodológicas, ¿qué aspectos deben valorarse prioritariamente?",
+      "options": [
+        "El proceso de composición y no solo el producto final, teniendo en cuenta los esfuerzos de cada alumno y haciendo visible sus progresos",
+        "El producto final del texto prestando especial atención a la corrección ortográfica y gramatical",
+        "La velocidad de escritura y la cantidad de texto producido en el tiempo asignado",
+        "La creatividad y originalidad del texto independientemente de los aspectos formales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación de la escritura debe valorar el proceso de composición y no solo el producto final, teniendo en cuenta los esfuerzos de cada uno y haciendo visible sus progresos. Este enfoque procesual es coherente con la metodología basada en el proceso."
+    },
+    {
+      "question": "¿Cuáles son los cinco pasos para redactar un texto de manera efectiva que se exponen en el apartado 6.3 del tema?",
+      "options": [
+        "Buscar ideas, organizar ideas, reflexionar sobre la lengua, elaborar un borrador y revisar y evaluar",
+        "Planificar, redactar, revisar, editar y publicar el texto",
+        "Generar ideas, seleccionar, textualizar, corregir y presentar",
+        "Motivarse, documentarse, estructurar, escribir y compartir"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cinco pasos para redactar un texto efectivo son: 1) buscar ideas (conversando, buscando en la imaginación o fuentes externas y tomando notas); 2) organizar ideas; 3) reflexionar sobre la lengua; 4) elaborar un borrador; 5) revisar y evaluar."
+    },
+    {
+      "question": "En el primer paso para redactar un texto efectivo (buscar ideas), ¿qué actividades se sugieren?",
+      "options": [
+        "Conversar con un compañero, buscar en la imaginación o en fuentes externas como periódicos, revistas o Internet, y tomar notas",
+        "Leer un texto modelo relacionado con el tema y subrayar las ideas más importantes",
+        "Elaborar un esquema detallado con todas las ideas antes de comenzar la búsqueda",
+        "Consultar al docente sobre el tipo de texto más adecuado para el tema elegido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El primer paso de buscar ideas incluye conversar con un compañero o buscar en la propia imaginación o en fuentes de consulta externas como periódicos, revistas o Internet, y tomar notas durante este proceso."
+    },
+    {
+      "question": "¿Qué implica el tercer paso 'reflexionar sobre la lengua' en el proceso de redacción efectiva?",
+      "options": [
+        "Decidir estructuras gramaticales, vocabulario y el tipo de estilo a usar, así como consultar dudas en diccionario o internet",
+        "Revisar la corrección ortográfica del borrador elaborado en el paso anterior",
+        "Leer en voz alta el texto para comprobar que la prosodia y el ritmo son adecuados",
+        "Seleccionar la tipografía y el formato visual más apropiado para el tipo de texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tercer paso de reflexionar sobre la lengua consiste en decidir las estructuras gramaticales que se van a utilizar, el vocabulario adecuado y el tipo de estilo a usar, así como consultar las dudas en el diccionario o internet antes de comenzar a escribir el borrador."
+    },
+    {
+      "question": "¿Qué acciones incluye el quinto paso 'revisar y evaluar' en el proceso de redacción efectiva?",
+      "options": [
+        "Corregir puntuación, ortografía y gramática; asegurar la coherencia; revisar si el contenido es claro y reorganizarlo de ser necesario",
+        "Leer el texto en voz alta para el docente y recibir su valoración y comentarios",
+        "Comparar el texto producido con el modelo propuesto y ajustarlo a sus características",
+        "Publicar el texto en el blog del aula y recoger los comentarios de los lectores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El quinto paso de revisar y evaluar implica corregir puntuación, ortografía y gramática; asegurar la coherencia; y revisar si el contenido es claro, reorganizándolo de ser necesario. Abarca tanto la corrección formal como la evaluación del contenido y la estructura."
+    },
+    {
+      "question": "Francesco Tonucci es descrito en la conclusión del tema como 'psicopedagogo y dibujante'. ¿Qué frase suya se cita en relación a la escritura?",
+      "options": [
+        "'Leer y escribir es el mejor regalo para tus hijos'",
+        "'Enseñar a leer y escribir es regalar las llaves para comprender el mundo'",
+        "'La escritura es la memoria de la humanidad'",
+        "'El mejor escritor es aquel que lee mucho y escucha con atención'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El psicopedagogo y dibujante Francesco Tonucci comenta que 'leer y escribir es el mejor regalo para tus hijos', frase que recoge el objetivo fundamental de la educación de desarrollar habilidades comunicativas esenciales."
+    },
+    {
+      "question": "¿Qué frase de Cassany et al. (1994) se cita en la conclusión del tema?",
+      "options": [
+        "'Enseñar a leer y escribir es regalar las llaves para comprender, expresarse y participar plenamente en el mundo'",
+        "'La escritura precisa de un proceso de aprendizaje planificado y sistemático'",
+        "'Leer y escribir es el mejor regalo para tus hijos'",
+        "'Aprender a escribir es ser capaz de escribir textos y no solo palabras'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany et al. (1994) en su obra 'Enseñar Lengua' establecen que 'enseñar a leer y escribir es regalar las llaves para comprender, expresarse y participar plenamente en el mundo', enfatizando el valor emancipador y participativo de la alfabetización."
+    },
+    {
+      "question": "¿Cuál es la obra de referencia de Cassany, Luna y Sanz citada en la bibliografía del tema?",
+      "options": [
+        "'Enseñar Lengua' (1994), publicada en Barcelona por Grao",
+        "'Psicología de la escritura' (2009), publicada por Wolters Kluwer",
+        "'Didáctica de la lengua y la literatura para educar en el siglo XXI' (2004), publicada por La Muralla",
+        "'Enseñanza de la escritura' (2000), publicada por Narcea"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cassany, D., Luna, M. y Sanz, G. (1994) publicaron 'Enseñar Lengua' en Barcelona (Grao), obra de referencia fundamental en la didáctica de la lengua y la literatura en el ámbito hispanohablante."
+    },
+    {
+      "question": "¿Cuál es la obra de Cuetos citada en la bibliografía del tema y en qué año se publicó?",
+      "options": [
+        "'Psicología de la escritura', publicada en 2009 por Wolters Kluwer",
+        "'Didáctica de la escritura', publicada en 2008 por Pearson Educación",
+        "'Procesos de composición escrita', publicada en 2009 por Narcea",
+        "'Enseñanza de la lectura y la escritura', publicada en 2008 por Grao"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cuetos, F. publicó 'Psicología de la escritura' en 2009 (España: Wolters Kluwer). Esta obra proporciona el marco para entender los procesos cognitivos implicados en la escritura y los tres pasos del proceso de composición."
+    },
+    {
+      "question": "¿A qué ODS de la Agenda 2030 se vincula la enseñanza de la escritura en la introducción del tema?",
+      "options": [
+        "ODS4 'Educación de Calidad', que promueve la alfabetización y la igualdad de oportunidades",
+        "ODS3 'Salud y Bienestar', que garantiza el bienestar emocional del alumnado a través de la expresión",
+        "ODS10 'Reducción de las Desigualdades', que combate la exclusión educativa",
+        "ODS16 'Paz, Justicia e Instituciones Sólidas', que promueve la participación democrática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ODS4 'Educación de Calidad' de la Agenda 2030 promueve una educación que garantice la alfabetización y la igualdad de oportunidades, siendo la escritura una de las habilidades fundamentales para el acceso igualitario a la cultura."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se establece la finalidad de la Educación Primaria en relación con la escritura?",
+      "options": [
+        "Artículo 4",
+        "Artículo 6",
+        "Artículo 16",
+        "Artículo 19"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece como finalidad de la EP facilitar al alumnado, entre otros, los aprendizajes de la expresión y comprensión oral, la lectura y la escritura para garantizar una formación integral y prepararlo para cursar la ESO."
+    },
+    {
+      "question": "¿Cuál es el decreto autonómico gallego que establece la ordenación y currículo de la Educación Primaria?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 79/2010, de 20 de mayo",
+        "Real Decreto 157/2022, de 1 de marzo",
+        "Decreto 374/1996, de 17 de octubre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Galicia (publicado en el DOG 183, de 26 de septiembre de 2022)."
+    },
+    {
+      "question": "¿Cuál es la ley orgánica de educación que modifica la LOE y se menciona en el fundamento normativo del tema?",
+      "options": [
+        "Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE), que modifica la Ley Orgánica 2/2006",
+        "Ley Orgánica 8/2013, de 9 de diciembre (LOMCE), que modifica la Ley Orgánica 2/2006",
+        "Ley Orgánica 1/1990, de 3 de octubre (LOGSE), que regula la ordenación general del sistema educativo",
+        "Ley Orgánica 2/2006, de 3 de mayo (LOE), que establece el sistema educativo español"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE), modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). Es el marco normativo estatal principal que fundamenta la enseñanza de la escritura en la Educación Primaria."
+    },
+    {
+      "question": "La expresión escrita se vincula estrechamente con las áreas de LCL y LGL. ¿Cómo debe trabajarse según la normativa?",
+      "options": [
+        "De forma específica en su bloque 3, pero también transversalmente en todas las áreas curriculares",
+        "Exclusivamente en las áreas lingüísticas sin conexión con el resto del currículo",
+        "Solo en las áreas instrumentales de lengua, matemáticas y conocimiento del medio",
+        "Principalmente en los proyectos interdisciplinares con carácter opcional para los docentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aunque el bloque 3 'Comunicación Escrita' de LCL y LGL aborda de forma específica la expresión escrita, la normativa establece que debe trabajarse transversalmente en todas las áreas curriculares, integrando la escritura como herramienta de aprendizaje en todas las materias."
+    },
+    {
+      "question": "¿Qué competencia clave implica 'utilizar las distintas lenguas de forma apropiada y eficaz' según la descripción del tema?",
+      "options": [
+        "La competencia plurilingüe (CP)",
+        "La competencia en comunicación lingüística (CCL)",
+        "La competencia digital (CD)",
+        "La competencia personal, social y de aprender a aprender (CPSAA)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia plurilingüe (CP) implica utilizar las distintas lenguas de forma apropiada y eficaz, diferenciándose de la CCL que supone interactuar de forma oral, escrita o multimodal de manera coherente y adecuada en diferentes contextos."
+    },
+    {
+      "question": "¿Cuál es la primera fase de las DEA de la composición escrita, según se describe en el tema?",
+      "options": [
+        "La fase relacionada con la recuperación de la forma de las letras, palabras y números (dislexia, disgrafía, disortografía)",
+        "La fase relacionada con las dificultades en la planificación del mensaje escrito",
+        "La fase asociada a los procesos de traslación y construcción morfosintáctica",
+        "La fase vinculada a las dificultades en la revisión y el control ejecutivo del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las DEA de la composición escrita se presentan en dos fases: la primera corresponde a las dificultades relacionadas con la recuperación de la forma de las letras, palabras y números (dislexia, disgrafía y disortografía), mientras que la segunda fase corresponde a la composición escrita en los procesos de planificación, traslación y revisión."
+    },
+    {
+      "question": "¿Qué implicación tiene el hecho de que un alumno domine los procesos de recuperación de palabras pero presente dificultades en la escritura creativa?",
+      "options": [
+        "Que pueden dominar los aspectos mecánicos de la escritura pero presentar dificultades en la segunda fase de las DEA relacionada con la composición",
+        "Que su dificultad es exclusivamente de tipo ortográfico y no afecta a los procesos cognitivos superiores",
+        "Que el alumno tiene una disgrafía severa que impide la expresión de ideas complejas",
+        "Que sus dificultades son de origen emocional y no requieren intervención psicopedagógica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hay alumnos que pueden dominar los procesos de recuperación de las palabras (primera fase: aspectos mecánicos) pero presentan dificultades para la escritura creativa (segunda fase: composición escrita en planificación, traslación y revisión), lo que muestra que las DEA de escritura son heterogéneas."
+    },
+    {
+      "question": "¿Qué factores influyen en las dificultades de escritura según el apartado conceptual del tema?",
+      "options": [
+        "Problemas motrices o de percepción visual, pobre memoria visual, mala enseñanza o problemas emocionales y motivación",
+        "Exclusivamente factores neurológicos relacionados con el procesamiento fonológico",
+        "Principalmente factores socioeconómicos y nivel cultural de las familias",
+        "Solo factores cognitivos relacionados con la memoria de trabajo y la atención"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En las dificultades de escritura influyen numerosos factores como problemas motrices o de percepción visual, pobre memoria visual, mala enseñanza o problemas emocionales y motivación, lo que refleja la naturaleza multifactorial de las dificultades escritoras."
+    },
+    {
+      "question": "¿Cuáles son las habilidades incluidas en el aprendizaje de la escritura según su definición como forma de comunicación compleja?",
+      "options": [
+        "Habilidades visuales, motrices y conceptuales",
+        "Habilidades fonológicas, morfológicas y sintácticas",
+        "Habilidades atencionales, mnésicas y ejecutivas",
+        "Habilidades pragmáticas, semánticas y discursivas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje de la escritura requiere superar la mera reproducción de formas para atender al mensaje a transmitir. Es una forma de comunicación compleja que incluye habilidades visuales (percepción), motrices (trazado) y conceptuales (significado y composición)."
+    },
+    {
+      "question": "¿Por qué la enseñanza de la escritura debe comenzar por cómo agarrar el instrumento y trazar las letras según se menciona en el tema?",
+      "options": [
+        "Porque la escritura debe ser legible, y para ello es necesario aprender a usar el instrumento correctamente, trazar las letras y mantener espacios y proporciones adecuadas",
+        "Porque el trazado correcto de letras es el único aspecto realmente evaluable de la escritura en primaria",
+        "Porque los problemas de agarre son la causa principal de todas las DEA de escritura",
+        "Porque la normativa establece que la caligrafía debe enseñarse antes que la composición"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La escritura debe ser legible, por lo que su enseñanza debe comenzar por cómo agarrar el instrumento para escribir, trazar las letras y mantener los espacios y proporciones adecuadas. Esto constituye la base sobre la que se construirán posteriormente las habilidades de composición."
+    },
+    {
+      "question": "El Decreto 155/2022 indica que las áreas de LCL y LGL intensifican gradualmente el uso personal, autónomo y creativo de la escritura. ¿Qué aspectos se atienden en la planificación y elaboración de textos?",
+      "options": [
+        "La ortografía, el léxico y la estructura del texto",
+        "Exclusivamente la corrección morfosintáctica y la puntuación",
+        "El formato visual, la tipografía y la presentación final",
+        "Solo la creatividad y la originalidad del contenido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las áreas de LCL y LGL, al organizar la escritura en el Bloque 3 'Comunicación Escrita', intensifican gradualmente su uso e incluyen en la planificación y elaboración de textos la atención a la ortografía, el léxico y la estructura del texto."
+    },
+    {
+      "question": "¿Qué competencias clave desarrollan específicamente las áreas de LCL y LGL en relación a la escritura?",
+      "options": [
+        "La CCL (competencia en comunicación lingüística) y la CP (competencia plurilingüe)",
+        "La STEM (competencia matemática y científica) y la CD (competencia digital)",
+        "La CPSAA (competencia personal, social y de aprender a aprender) y la CC (competencia ciudadana)",
+        "La CE (competencia emprendedora) y la CCEC (conciencia y expresión culturales)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambas áreas lingüísticas desarrollan la CCL, que supone interactuar de forma oral, escrita o multimodal coherentemente en diferentes contextos, y la CP, que implica utilizar las distintas lenguas de forma apropiada y eficaz."
+    },
+    {
+      "question": "¿Cuándo se escribió la Orden de 26 de mayo de 2023 que desarrolla el Decreto 155/2022?",
+      "options": [
+        "En 2023, regulando la evaluación en la etapa de Educación Primaria en Galicia",
+        "En 2022, junto con el Decreto que desarrolla el currículo de Educación Primaria",
+        "En 2021, como normativa transitoria previa a la implantación del nuevo currículo",
+        "En 2024, como revisión y actualización del Decreto 155/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia, regulando la evaluación en esa etapa educativa."
+    },
+    {
+      "question": "Los textos expositivos tienen como función explicar un tema concreto transmitiendo nuevos conocimientos. ¿Cuáles son ejemplos de textos expositivos para introducir en la EP?",
+      "options": [
+        "Libros de consulta y divulgación, reseñas, biografías, artículos temáticos, informes o libros de texto",
+        "Noticias, artículos de opinión, reportajes, entrevistas y correspondencia periodística",
+        "Instrucciones escolares, recetarios de cocina, normas y reglamentos",
+        "Cuentos, poesías, leyendas, narraciones, refranes, teatro y adivinanzas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textos expositivos incluyen libros de consulta y divulgación, reseñas, biografías, artículos temáticos, informes o libros de texto. Su función es explicar un tema concreto transmitiendo nuevos conocimientos, diferenciándose de los informativos (hechos de actualidad) y los literarios (expresión artística)."
+    },
+    {
+      "question": "¿Qué herramientas tecnológicas se mencionan en el tema para crear cuentos, cómics, leyendas o mitos?",
+      "options": [
+        "Genially, Storybird o Pixton",
+        "Gmail, Educaplay o Kahoot",
+        "Typesy, Quizizz o Easel",
+        "Gliffy, Tobii o Google Docs"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Genially, Storybird y Pixton son herramientas tecnológicas mencionadas para crear cuentos, cómics, leyendas o mitos en el aula. Gmail se usa para comunicarse, Kahoot y Quizizz para conceptos ortográficos, y Typesy para mecanografía."
+    },
+    {
+      "question": "¿Qué herramienta se menciona para practicar la mecanografía en el aula?",
+      "options": [
+        "Typesy",
+        "Pixton",
+        "Storybird",
+        "Genially"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Typesy es la herramienta mencionada para practicar mecanografía en el aula, como parte de las aplicaciones tecnológicas para fomentar la escritura. Otras herramientas tienen funciones diferentes: Pixton para cómics, Storybird para cuentos, Genially para presentaciones interactivas."
+    },
+    {
+      "question": "¿Con qué objetivo se usan Educaplay, Kahoot o Quizizz en el aprendizaje de la escritura?",
+      "options": [
+        "Para trabajar conceptos ortográficos con cuestionarios interactivos",
+        "Para crear textos colaborativos accesibles desde diferentes dispositivos",
+        "Para digitalizar textos escritos a mano y convertirlos en formato digital",
+        "Para elaborar infografías digitales combinando texto e imágenes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Educaplay, Kahoot y Quizizz se utilizan para trabajar conceptos ortográficos con cuestionarios interactivos, aprovechando el elemento lúdico y el feedback inmediato para consolidar el aprendizaje de la ortografía."
+    },
+    {
+      "question": "¿Cuáles son las posibilidades de las TIC en los procesos de enseñanza-aprendizaje según el tema?",
+      "options": [
+        "Despiertan el interés y la motivación, facilitan la interacción y la participación activa, permiten aprender de los propios errores por el feedback inmediato, fomentan el aprendizaje cooperativo y desarrollan habilidades de búsqueda de información",
+        "Garantizan automáticamente la adquisición de competencias escritoras sin necesidad de intervención docente",
+        "Son especialmente útiles para la evaluación sumativa pero limitan la evaluación formativa",
+        "Favorecen exclusivamente la escritura formal e impiden el desarrollo de la escritura creativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las TIC poseen múltiples posibilidades: despiertan el interés y la motivación, facilitan la interacción y la participación activa, permiten aprender de los propios errores por el feedback inmediato, fomentan el aprendizaje cooperativo, contribuyen al enfoque interdisciplinar, desarrollan habilidades de búsqueda de información y mejoran las competencias de expresión escrita y la creatividad."
+    },
+    {
+      "question": "El uso de las TIC en el aula permite contemplar el proceso escritor como un ejercicio lúdico y de participación colectiva. ¿Qué siglas corresponden a los 'Entornos Virtuales de Aprendizaje' mencionados en este contexto?",
+      "options": [
+        "EVA",
+        "TIC",
+        "DUA",
+        "ABP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los EVA (Entornos Virtuales de Aprendizaje) se mencionan como ejemplo de herramientas que permiten contemplar el proceso escritor como un ejercicio lúdico y de participación colectiva, facilitando la creación de comunidades virtuales de escritura."
+    },
+    {
+      "question": "¿Qué son los 'cuadernos inteligentes' mencionados entre las aplicaciones tecnológicas del tema?",
+      "options": [
+        "Herramientas para digitalizar textos escritos a mano",
+        "Procesadores de texto con corrector ortográfico avanzado e inteligencia artificial",
+        "Aplicaciones de creación de historias y cómics digitales interactivos",
+        "Plataformas de evaluación formativa con retroalimentación automatizada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cuadernos inteligentes se mencionan en el tema como herramientas para digitalizar textos escritos a mano, siendo un recurso que permite combinar la escritura manuscrita con el soporte digital."
+    },
+    {
+      "question": "¿Qué dos aplicaciones se citan en el tema como ejemplos de herramientas para crear infografías digitales?",
+      "options": [
+        "Gliffy y Easel",
+        "Genially y Storybird",
+        "Kahoot y Quizizz",
+        "Gmail y Google Docs"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gliffy y Easel (o Easel.ly) son las dos aplicaciones citadas como ejemplos para crear infografías digitales que combinan elementos visuales con texto, gráficos y elementos multimedia."
+    },
+    {
+      "question": "¿Cómo contribuye la enseñanza de la escritura al desarrollo del ODS4 según el marco normativo del tema?",
+      "options": [
+        "Garantizando la alfabetización y la igualdad de oportunidades de acceso igualitario a la cultura",
+        "Desarrollando las competencias digitales necesarias para el mercado laboral del siglo XXI",
+        "Fomentando la creatividad e innovación como base del desarrollo económico sostenible",
+        "Promoviendo el aprendizaje autónomo y el pensamiento crítico en el alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ODS4 'Educación de Calidad' promueve una educación que garantice la alfabetización y la igualdad de oportunidades, siendo la escritura una de las habilidades fundamentales para el acceso igualitario a la cultura. La enseñanza sistemática de la escritura contribuye directamente a este objetivo."
+    },
+    {
+      "question": "¿Qué papel desempeña la escritura según la introducción del tema en relación al desarrollo integral del alumnado?",
+      "options": [
+        "Fomenta la creatividad y la imaginación, refuerza la memoria y favorece la expresión de emociones y opiniones",
+        "Desarrolla exclusivamente las habilidades motrices finas y la coordinación ojo-mano",
+        "Mejora únicamente el rendimiento académico en las áreas lingüísticas",
+        "Garantiza automáticamente el desarrollo de la competencia lectora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Además de ser una habilidad fundamental para el acceso a la cultura, la escritura fomenta la creatividad y la imaginación, refuerza la memoria y favorece la expresión de emociones y opiniones, contribuyendo así al desarrollo integral del alumnado."
+    },
+    {
+      "question": "¿Cómo interactúan los niños con el lenguaje escrito antes de asistir a la escuela según la introducción del tema?",
+      "options": [
+        "A través de su presencia en la sociedad mediante carteles, etiquetas o cuentos",
+        "Principalmente a través de la interacción con sus padres en actividades de lectura compartida",
+        "Solo a través de los materiales escolares que reciben en la matrícula educativa",
+        "Mediante la exposición al lenguaje escrito formal en visitas a bibliotecas públicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los niños interactúan constantemente con el lenguaje escrito antes de asistir a la escuela al estar presente en la sociedad mediante carteles, etiquetas o cuentos, lo que significa que llegan a la escuela con conocimientos previos sobre la escritura."
+    },
+    {
+      "question": "¿Qué aspecto de la escritura literaria la diferencia de otras tipologías textuales según Maruny Curto et al.?",
+      "options": [
+        "Utiliza el lenguaje de manera artística y creativa para expresar sentimientos, ideas, contar historias y entretener al lector",
+        "Transmite información clara, precisa y objetiva sobre un tema de interés general",
+        "Organiza la información de forma lógica y secuencial para facilitar la comprensión",
+        "Recoge instrucciones y pasos que el lector debe seguir para alcanzar un objetivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textos literarios se caracterizan por utilizar el lenguaje de manera artística y creativa para expresar sentimientos, ideas, contar historias y entretener al lector. Ejemplos son cuentos, poesías, leyendas, narraciones, refranes, teatro, adivinanzas o canciones."
+    },
+    {
+      "question": "En el proceso de redacción del borrador, ¿qué acciones se incluyen como parte del cuarto paso?",
+      "options": [
+        "Consultar el esquema de las ideas organizadas, dividir la información en párrafos y decidir la tipología del texto",
+        "Corregir la puntuación, la ortografía y la gramática del texto producido",
+        "Buscar ideas en fuentes externas y tomar notas para estructurar el contenido",
+        "Reflexionar sobre las estructuras gramaticales y el vocabulario más adecuado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cuarto paso (elaborar un borrador) consiste en consultar el esquema de las ideas organizadas, dividir la información en párrafos y decidir la tipología del texto. Este paso sucede después de la organización de ideas y la reflexión sobre la lengua."
+    },
+    {
+      "question": "¿Cómo describe el tema la expresión escrita en su conclusión como proceso cognitivo?",
+      "options": [
+        "Como un proceso cognitivo complejo que integra la planificación de la información, la traslación y construcción de estructuras sintácticas, y la revisión y reformulación del texto",
+        "Como un proceso mecánico que puede automatizarse con la práctica sistemática de la caligrafía",
+        "Como una habilidad innata que algunos alumnos poseen y otros deben desarrollar con esfuerzo",
+        "Como una competencia exclusivamente lingüística al margen de los procesos cognitivos generales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema destaca que la expresión escrita es más que dominar la caligrafía y la ortografía; es un proceso cognitivo complejo que integra la planificación de la información, la traslación y construcción de estructuras sintácticas, y la revisión y reformulación del texto."
+    },
+    {
+      "question": "¿Qué tipo de texto es una receta de cocina según la clasificación de Maruny Curto et al.?",
+      "options": [
+        "Texto prescriptivo, ya que recoge instrucciones y pasos a seguir",
+        "Texto expositivo, ya que transmite conocimientos culinarios de forma sistemática",
+        "Texto informativo, ya que describe ingredientes y procedimientos de manera objetiva",
+        "Texto enumerativo, ya que organiza ingredientes en listas para facilitar su consulta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La receta de cocina es un texto prescriptivo según Maruny Curto et al., ya que recoge instrucciones, reglas o pasos a seguir por el lector con la función de regular comportamientos. Los prescriptivos incluyen instrucciones escolares, recetarios de cocina y normas."
+    },
+    {
+      "question": "¿Qué incluye la estrategia de 'organizar ideas' como segundo paso de la redacción efectiva?",
+      "options": [
+        "Seleccionar lo fundamental, estructurar la información semejante y crear un esquema claro",
+        "Elegir el vocabulario y las estructuras gramaticales más apropiadas para el texto",
+        "Consultar fuentes externas para ampliar y contrastar la información recogida",
+        "Escribir libremente sin restricciones para generar el mayor número de ideas posible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El segundo paso de organizar ideas consiste en seleccionar lo fundamental, estructurar la información semejante y crear un esquema claro. Esto permite al escritor tener una guía organizada antes de comenzar la redacción del borrador."
+    },
+    {
+      "question": "¿Qué relación existe entre la planificación didáctica y los procesos cognitivos de Flower y Hayes en la composición de textos?",
+      "options": [
+        "La planificación didáctica debe ir ligada a las estrategias y a los procesos cognitivos de planificación, traslación y revisión para lograr una composición funcional, comunicativa y adaptada a los contextos",
+        "La planificación didáctica debe centrarse exclusivamente en el producto final y obviar los procesos intermedios",
+        "Los procesos cognitivos de Flower y Hayes son incompatibles con la enseñanza directa de la escritura",
+        "La planificación didáctica debe priorizar los aspectos formales sobre los procesos cognitivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación didáctica en relación a la composición de textos debe ir ligada a las estrategias y a los procesos cognitivos de planificación, traslación y revisión (Flower y Hayes), buscando que la composición sea funcional, comunicativa y adaptada a los diferentes contextos."
+    },
+    {
+      "question": "¿Cuál es el objetivo de las estrategias de evaluación en el proceso escritor según el tema?",
+      "options": [
+        "Revisar los pasos dados durante y al final del proceso, valorar la consecución de objetivos, evaluar la calidad y decidir si se ha concluido",
+        "Puntuar el texto según criterios formales de corrección ortográfica y gramatical",
+        "Comparar el texto producido con modelos de referencia para identificar deficiencias",
+        "Determinar el nivel de competencia escritora del alumno para la toma de decisiones curriculares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de evaluación se llevan a cabo durante y al final del proceso con el fin de revisar los pasos dados, valorar la consecución de objetivos, evaluar la calidad del texto y decidir si se ha concluido el proceso de composición."
+    },
+    {
+      "question": "¿Qué beneficios específicos aporta el trabajo colaborativo en la escritura según las orientaciones metodológicas?",
+      "options": [
+        "Favorece la adquisición de estrategias de escritura más eficaces a través de la observación mutua y de proyectos cooperativos y significativos",
+        "Garantiza que todos los alumnos alcancen el mismo nivel de competencia escritora al final del proceso",
+        "Permite reducir el tiempo dedicado a la escritura al distribuir las tareas entre los miembros del grupo",
+        "Facilita la evaluación del docente al poder valorar el texto del grupo en lugar de textos individuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El trabajo colaborativo favorece el intercambio entre el alumnado y la adquisición de otras estrategias de escritura más eficaces a través de la observación mutua y de proyectos cooperativos y significativos, permitiendo aprender de los procesos de escritura de los compañeros."
+    },
+    {
+      "question": "¿Qué modalidad de aprendizaje de la escritura utilizan los EVA (Entornos Virtuales de Aprendizaje)?",
+      "options": [
+        "Contemplar el proceso escritor como un ejercicio lúdico y de participación colectiva",
+        "Proporcionar ejercicios de escritura individual con corrección automatizada e inmediata",
+        "Facilitar la transcripción de textos orales a formato escrito mediante reconocimiento de voz",
+        "Desarrollar exclusivamente la escritura formal y académica mediante plantillas estructuradas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los EVA permiten contemplar el proceso escritor como un ejercicio lúdico y de participación colectiva, creando comunidades virtuales de escritura donde se puede compartir, comentar y completar textos entre varios participantes de forma dinámica e interactiva."
+    },
+    {
+      "question": "¿Qué tipo de texto es una invitación de cumpleaños según la clasificación de Maruny Curto et al.?",
+      "options": [
+        "Texto informativo, ya que transmite información clara y objetiva sobre un acontecimiento",
+        "Texto prescriptivo, ya que indica al receptor lo que debe hacer para asistir al evento",
+        "Texto enumerativo, ya que organiza la información del evento en una lista de datos",
+        "Texto literario, ya que utiliza el lenguaje de forma creativa para generar emoción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una invitación de cumpleaños es un texto informativo según Maruny Curto et al., ya que su función es transmitir información clara, precisa y objetiva sobre un acontecimiento. Los textos informativos incluyen noticias, artículos, reportajes, invitaciones, entrevistas y correspondencia personal."
+    },
+    {
+      "question": "¿Qué subprocesos integra la planificación de la escritura según el modelo cognitivo?",
+      "options": [
+        "Generar ideas, organizar ideas y establecer metas",
+        "Buscar información, redactar y revisar el texto",
+        "Seleccionar el vocabulario, construir frases y revisar la ortografía",
+        "Planificar, trasladar y revisar el mensaje escrito"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación incluye tres subprocesos: generar ideas (buscar información en la memoria o fuentes externas), organizar ideas (estructurar el contenido) y establecer metas (determinar los objetivos globales del texto). Estos tres subprocesos forman la base de una escritura planificada y coherente."
+    },
+    {
+      "question": "¿Qué relación establece el tema entre la escritura manuscrita y el uso de procesadores de texto?",
+      "options": [
+        "Los procesadores de texto son un recurso terapéutico para alumnos con disgrafía al reducir la carga motriz, sin que esto suponga abandonar la escritura manuscrita",
+        "La escritura manuscrita debe abandonarse en favor de los procesadores de texto en todos los casos",
+        "Los procesadores de texto solo son adecuados para alumnos sin dificultades de aprendizaje",
+        "La escritura manuscrita es siempre superior a la digital para el desarrollo de la competencia escritora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema resalta el papel de la escritura manuscrita frente al uso de procesadores de texto, señalando que los procesadores pueden ser un recurso terapéutico y facilitador para alumnos con dificultades (especialmente disgrafía) al reducir la carga motriz y permitir centrar la atención en los procesos cognitivos."
+    },
+    {
+      "question": "¿Qué habilidades específicas de búsqueda de información desarrollan las TIC en relación con la escritura?",
+      "options": [
+        "Desarrollan habilidades de búsqueda y selección de información como parte de las múltiples posibilidades en los procesos de enseñanza-aprendizaje",
+        "Garantizan que el alumnado acceda a fuentes fiables y veraces para documentar sus textos",
+        "Facilitan la memorización de contenidos necesarios para la composición de textos formales",
+        "Permiten copiar y pegar información de Internet de forma directa para elaborar textos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las TIC, entre sus múltiples posibilidades en los procesos de enseñanza-aprendizaje, desarrollan habilidades de búsqueda y selección de información, lo cual es fundamental para la etapa de planificación e investigación previa a la composición escrita."
+    },
+    {
+      "question": "¿Qué diferencia existe entre las estrategias de regulación/dirección/supervisión y las estrategias de evaluación?",
+      "options": [
+        "Las de regulación se aplican durante la escritura para comprobar el seguimiento del plan, mientras que las de evaluación se aplican durante y al final para valorar la consecución de objetivos y la calidad",
+        "Las de regulación son aplicadas por el docente y las de evaluación por el propio alumno",
+        "Las de regulación son metacognitivas y las de evaluación son afectivas y motivacionales",
+        "Las de regulación se centran en los aspectos formales y las de evaluación en el contenido del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de regulación, dirección y supervisión se aplican durante la escritura para comprobar el seguimiento del plan trazado y su eficacia, mientras que las estrategias de evaluación se aplican durante y al final del proceso para revisar los pasos, valorar los objetivos y evaluar la calidad del texto."
+    },
+    {
+      "question": "¿Qué tipo de lenguaje se debe fomentar en el aula de escritura según las orientaciones metodológicas del tema?",
+      "options": [
+        "Un lenguaje respetuoso e inclusivo que estimule la reflexión interlingüística respetando diferentes lenguas",
+        "Un lenguaje formal y académico que prepare al alumnado para los niveles educativos superiores",
+        "Un lenguaje creativo y literario que priorice la originalidad sobre la corrección normativa",
+        "Un lenguaje técnico y especializado adaptado a las exigencias del mercado laboral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones metodológicas indican que debe fomentarse un lenguaje respetuoso e inclusivo que estimule la reflexión interlingüística respetando diferentes lenguas, lo que conecta con los valores de la LOMLOE y el enfoque plurilingüe del currículo gallego."
+    },
+    {
+      "question": "¿Por qué los errores de morfosintaxis son específicos de la traslación como proceso de escritura?",
+      "options": [
+        "Porque la traslación implica respetar requisitos sintácticos como ordenar o construir frases a partir de palabras dadas o hacer frases complejas a partir de frases simples",
+        "Porque la morfosintaxis es el principal componente que evalúa el docente en el producto final",
+        "Porque los errores morfosintácticos surgen durante la planificación cuando se generan las ideas del texto",
+        "Porque la morfosintaxis es un aspecto exclusivo de la revisión y no se puede trabajar antes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los errores de morfosintaxis son propios de la traslación porque esta fase implica respetar requisitos sintácticos al plasmar las ideas: ordenar o construir frases a partir de unas palabras dadas o hacer frases complejas a partir de dos frases simples son tareas de traslación que pueden generar dificultades morfosintácticas."
+    },
+    {
+      "question": "¿Cuándo se deben aplicar las estrategias de planificación en el proceso escritor?",
+      "options": [
+        "Son anteriores al acto de escribir, requieren elaborar un plan, establecer objetivos, prever el tiempo y seleccionar conocimientos previos",
+        "Se aplican simultáneamente a la escritura del borrador para ajustar el plan según avanza el texto",
+        "Se utilizan después de completar el primer borrador para reestructurar el contenido",
+        "Se aplican únicamente en textos formales y académicos, no en escritura creativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de planificación son anteriores al acto de escribir. Requieren elaborar un plan, establecer objetivos, prever el tiempo necesario y seleccionar los conocimientos previos relevantes para el texto que se va a producir."
+    },
+    {
+      "question": "¿Qué relación establece el tema entre la escritura y el OBJ5 de las áreas lingüísticas del Decreto 155/2022?",
+      "options": [
+        "El OBJ5 establece que el alumnado debe producir textos escritos y multimodales correctos aplicando estrategias de planificación, textualización, redacción, revisión y edición para construir conocimiento y responder a necesidades comunicativas",
+        "El OBJ5 limita la escritura a textos gramaticalmente correctos sin atender a los procesos de composición",
+        "El OBJ5 define la escritura como un proceso mecánico centrado en la corrección ortográfica",
+        "El OBJ5 prioriza la lectura sobre la escritura en las primeras etapas de la EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ5 del Anexo II del Decreto 155/2022 establece que el alumnado debe producir textos escritos y multimodales gramatical y ortográficamente correctos, aplicando estrategias de planificación, textualización, redacción, revisión y edición para construir conocimiento y responder a necesidades comunicativas."
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre los métodos gramaticales y los funcionales en la enseñanza de la escritura?",
+      "options": [
+        "Los gramaticales enseñan contenidos como sintaxis, léxico, morfología y ortografía; los funcionales buscan enseñar la lengua para comunicarse en situaciones reales",
+        "Los gramaticales son más adecuados para los primeros cursos y los funcionales para los superiores",
+        "Los gramaticales se aplican en escritura formal y los funcionales en escritura creativa",
+        "Los gramaticales trabajan con textos completos y los funcionales con oraciones aisladas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los métodos basados en la gramática se centran en el aprendizaje de contenidos gramaticales como la sintaxis, el léxico, la morfología o la ortografía, mientras que los métodos basados en las funciones buscan enseñar la lengua para usarla comunicativamente en situaciones reales."
+    },
+    {
+      "question": "¿Por qué es importante 'clarificar el objetivo que se persigue con cada actividad de escritura' según las orientaciones metodológicas?",
+      "options": [
+        "Porque los alumnos deben comprender el propósito comunicativo de lo que escriben para que la actividad sea significativa",
+        "Porque los objetivos determinan la calificación que recibirá el alumno al finalizar la actividad",
+        "Porque sin objetivos claros el docente no puede diseñar los criterios de evaluación adecuados",
+        "Porque los objetivos son obligatorios según la normativa para todas las actividades de aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Clarificar el objetivo que se persigue con cada actividad es fundamental para que el alumno comprenda el propósito comunicativo de lo que escribe. Sin un objetivo claro, la escritura pierde su sentido comunicativo y se convierte en un ejercicio mecánico."
+    },
+    {
+      "question": "¿Qué ventajas aporta el uso de 'una gran variedad de textos reales' en la enseñanza de la escritura?",
+      "options": [
+        "Permite aprender las demandas escritoras que exige cada tipo de texto, con tipologías y funciones comunicativas diversas",
+        "Garantiza que el alumnado memorice las estructuras textuales de todos los tipos de texto del currículo",
+        "Facilita la evaluación comparativa entre diferentes niveles de competencia escritora del alumnado",
+        "Asegura que los alumnos produzcan textos con errores ortográficos mínimos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La utilización de una gran variedad de textos reales, con tipologías y funciones comunicativas diversas, permite al alumnado aprender las demandas escritoras que exige cada tipo de texto (noticias, definiciones, correspondencia…), desarrollando así una competencia escritora amplia y funcional."
+    },
+    {
+      "question": "¿Qué se entiende por 'lenguaje respetuoso e inclusivo' en el contexto de las orientaciones metodológicas de la escritura?",
+      "options": [
+        "Un lenguaje que estimula la reflexión interlingüística respetando diferentes lenguas y evita expresiones discriminatorias",
+        "Un lenguaje adaptado al nivel madurativo de cada alumno para garantizar la comprensión",
+        "Un lenguaje simplificado y accesible para alumnos con dificultades específicas de aprendizaje",
+        "Un lenguaje que combina las dos lenguas co-oficiales de Galicia en todos los textos producidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El lenguaje respetuoso e inclusivo en las orientaciones metodológicas implica estimular la reflexión interlingüística respetando diferentes lenguas y evitar expresiones que puedan ser discriminatorias, conectando con los valores de igualdad y respeto a la diversidad lingüística."
+    },
+    {
+      "question": "¿Cuál es la diferencia conceptual entre la 'textualización' y la 'redacción' como estrategias del OBJ5 del Decreto 155/2022?",
+      "options": [
+        "La textualización se refiere al proceso de convertir las ideas en texto siguiendo las convenciones textuales, mientras que la redacción es la producción efectiva del texto con sus aspectos lingüísticos formales",
+        "La textualización es un proceso previo a la planificación y la redacción corresponde a la fase final del texto",
+        "La textualización solo aplica a textos multimodales mientras que la redacción es para textos escritos convencionales",
+        "Ambos términos son sinónimos que describen el mismo proceso de escritura en el currículo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el marco del OBJ5, la textualización se refiere al proceso de transformar las ideas planificadas en texto siguiendo las convenciones textuales (coherencia, cohesión, adecuación), mientras que la redacción implica la producción efectiva con atención a los aspectos lingüísticos formales (gramática, ortografía)."
+    },
+    {
+      "question": "¿Qué tipo de texto es una noticia periodística según la clasificación de Maruny Curto et al.?",
+      "options": [
+        "Texto informativo, ya que transmite información clara, precisa y objetiva sobre hechos de actualidad",
+        "Texto expositivo, ya que explica en profundidad un tema transmitiendo nuevos conocimientos",
+        "Texto literario, ya que utiliza recursos estilísticos para narrar los hechos de forma atractiva",
+        "Texto prescriptivo, ya que orienta al lector sobre cómo interpretar los hechos descritos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La noticia periodística es un texto informativo, cuya función es transmitir información clara, precisa y objetiva sobre un tema específico. Los textos informativos incluyen noticias, artículos y reportajes, invitaciones, entrevistas y correspondencia personal."
+    },
+    {
+      "question": "¿Qué importancia tiene la 'metacognición' en las estrategias de control de la comprensión para la escritura?",
+      "options": [
+        "Permite al escritor permanecer consciente del objetivo de la escritura y seguir y adaptar las estrategias en función de este",
+        "Permite al escritor identificar automáticamente todos los errores ortográficos del texto",
+        "Facilita la memorización de las reglas gramaticales necesarias para la corrección del texto",
+        "Ayuda al escritor a seleccionar el vocabulario más preciso y adecuado al tipo de texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de control de la comprensión están ligadas a la metacognición y permiten al escritor permanecer consciente del objetivo de la escritura y seguir y adaptar las estrategias en función de este, siendo ejemplos la planificación, la regulación y la evaluación metacognitiva."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la competencia escritora según el perfil de salida y los criterios de evaluación según el tema?",
+      "options": [
+        "El perfil de salida define el nivel de competencia al finalizar la etapa medido a través de descriptores operativos, mientras que la evaluación debe valorar el proceso y no solo el producto",
+        "El perfil de salida evalúa exclusivamente la corrección ortográfica y la evaluación valora el proceso completo",
+        "El perfil de salida es definido por la normativa estatal y los criterios de evaluación por el centro educativo",
+        "Ambos conceptos son equivalentes y se utilizan indistintamente en el marco del Decreto 155/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El nivel de competencia del perfil de salida queda definido en el Anexo I del decreto autonómico a través de descriptores operativos. Sin embargo, la evaluación en el aula debe valorar el proceso de composición y no solo el producto final, lo que implica un enfoque complementario."
+    },
+    {
+      "question": "¿Cómo se trabaja la transversalidad de la expresión escrita en la EP según las orientaciones del Decreto 155/2022?",
+      "options": [
+        "Abordando transversalmente la comprensión lectora, la expresión, la creatividad y la digitalización, y fomentando un lenguaje respetuoso e inclusivo",
+        "Incorporando un proyecto interdisciplinar anual obligatorio en todos los cursos de la EP",
+        "Dedicando un porcentaje fijo del tiempo lectivo de cada área a actividades de escritura",
+        "Evaluando la escritura en todas las áreas con los mismos criterios y rúbricas de corrección"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para la expresión escrita es beneficioso abordar transversalmente la comprensión lectora, la expresión, la creatividad y la digitalización, al igual que fomentar un lenguaje respetuoso e inclusivo que estimule la reflexión interlingüística, lo que muestra el enfoque integral de la escritura."
+    },
+    {
+      "question": "¿Cuáles son las características que debe tener la composición escrita según las orientaciones metodológicas generales del tema?",
+      "options": [
+        "Funcional, comunicativa y adaptada a los diferentes contextos con apoyo del docente",
+        "Correcta, creativa y original siguiendo las normas académicas establecidas",
+        "Breve, clara y bien estructurada atendiendo a los criterios de evaluación",
+        "Individual, autónoma y sin intervención docente para fomentar la independencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según las orientaciones metodológicas, la composición escrita debe ser funcional (con utilidad real), comunicativa (orientada a la comunicación) y adaptada a los diferentes contextos, siempre con apoyo del docente para mejorar las habilidades del alumnado."
+    },
+    {
+      "question": "¿Qué errores de revisión están relacionados con la 'conciencia de eficacia' en los alumnos con DEA?",
+      "options": [
+        "Deficiencias en la escritura autorregulada y en la confianza en sus habilidades para producir textos coherentes y significativos",
+        "Dificultades para identificar errores ortográficos en sus propios textos",
+        "Incapacidad para aplicar las correcciones del docente en versiones posteriores del texto",
+        "Tendencia a sobre-revisar el texto eliminando partes correctas por inseguridad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las dificultades vinculadas a la conciencia de eficacia presentan deficiencias en la escritura autorregulada y en la confianza del alumno en sus habilidades para producir textos coherentes y significativos, lo que puede generar un bloqueo escritor o una infravaloración de las propias capacidades."
+    },
+    {
+      "question": "¿Qué se menciona sobre el entrenamiento en coordinación y control de los procesos de escritura y revisión?",
+      "options": [
+        "Puede mejorar de forma significativa el control ejecutivo de los procesos implicados en la escritura y la revisión",
+        "Es innecesario para alumnos con alto nivel de competencia escritora",
+        "Solo es efectivo cuando se realiza antes de los 7 años, durante el período sensible para la escritura",
+        "Debe centrarse exclusivamente en los aspectos formales como la ortografía y la puntuación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El control ejecutivo de los procesos implicados en la escritura y la revisión puede mejorar de forma significativa mediante el entrenamiento en coordinación y control de los procesos implicados, lo que señala el valor de la práctica deliberada y la instrucción explícita de estrategias."
+    },
+    {
+      "question": "¿Qué implica que los textos en el aula se elaboren en el contexto de las relaciones interpersonales o para organizar información?",
+      "options": [
+        "Que la escritura adquiere un sentido comunicativo real, ayudando a organizar la información y el pensamiento y desarrollando la creatividad",
+        "Que los textos deben producirse solo cuando hay una audiencia real que los leerá",
+        "Que la escritura en el aula debe limitarse a textos relacionales como cartas y correos electrónicos",
+        "Que el docente debe evaluar principalmente la adecuación social y comunicativa del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Que los textos se elaboren en el contexto de las relaciones interpersonales o para organizar información implica que la escritura adquiere un sentido comunicativo real, ayudando a organizar la información y el pensamiento y desarrollando la creatividad de forma significativa."
+    },
+    {
+      "question": "¿En qué consiste la doble perspectiva de las TIC según el currículo de la EP mencionada en el tema?",
+      "options": [
+        "Como contenido o aspecto de la realidad con la que los alumnos deben tomar contacto (conocerlas) y como recurso que los acerca a otros contenidos (aprender a través de ellas)",
+        "Como herramienta de comunicación entre el alumnado y como instrumento de evaluación del aprendizaje",
+        "Como recurso para el trabajo individual y como plataforma para la colaboración en grupo",
+        "Como soporte para la escritura formal académica y como medio para la expresión creativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las TIC se contemplan desde una doble perspectiva: como un contenido o aspecto de la realidad con la que los alumnos deben tomar contacto (conocer las propias TIC) y como un recurso que los acerca a otros contenidos (usar las TIC para aprender y escribir mejor)."
+    },
+    {
+      "question": "¿Qué entiende el tema por 'comunidad virtual de escritura' en relación a las TIC?",
+      "options": [
+        "Un espacio digital para compartir, comentar y completar textos entre varios participantes",
+        "Un grupo de docentes que comparte recursos y materiales de escritura en red",
+        "Una plataforma de publicación de textos estudiantiles evaluados por expertos externos",
+        "Un repositorio de textos modelo que los alumnos pueden consultar y adaptar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una comunidad virtual de escritura es un espacio creado con las TIC para compartir, comentar y completar textos entre varios participantes, lo que transforma la escritura en una actividad colaborativa y social, dotándola de un destinatario y un propósito comunicativo real."
+    },
+    {
+      "question": "La normativa educativa gallega establece en el Bloque 3 de LCL y LGL la intensificación gradual de aspectos básicos de la lengua escrita. ¿Qué significa esta intensificación gradual?",
+      "options": [
+        "Que el uso personal, autónomo y creativo de la escritura aumenta progresivamente a lo largo de la etapa",
+        "Que los contenidos del Bloque 3 se repiten cada año con el mismo nivel de exigencia",
+        "Que la escritura se introduce gradualmente hasta hacerse obligatoria en el tercer ciclo",
+        "Que los aspectos formales se enseñan antes que los procesos de composición"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La intensificación gradual implica que el uso personal, autónomo y creativo de la escritura aumenta progresivamente a lo largo de la EP, junto con la planificación y elaboración de textos atendiendo a la ortografía, el léxico y la estructura, de forma que la complejidad y autonomía crecen curso a curso."
+    },
+    {
+      "question": "¿Cuál es el papel de la 'memoria' en los subprocesos de planificación según el modelo cognitivo de la escritura?",
+      "options": [
+        "La planificación requiere la búsqueda de información en la memoria a largo plazo o en fuentes externas como parte del subproceso de generar ideas",
+        "La memoria solo interviene en la fase de traslación al recuperar las formas ortográficas de las palabras",
+        "La memoria de trabajo no tiene papel relevante en la planificación de textos escritos",
+        "La planificación evita usar la memoria para que el alumno aprenda a buscar información externa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación como proceso requiere la búsqueda de información en la memoria a largo plazo o en fuentes externas como parte del subproceso de generar ideas. La memoria es, por tanto, un recurso cognitivo fundamental en la fase de planificación de la composición escrita."
+    },
+    {
+      "question": "¿Cuál es la principal aportación de la teoría de Ferreiro y Teberosky (1979) al estudio de la adquisición de la escritura?",
+      "options": [
+        "Describir las fases evolutivas del aprendizaje de la escritura mostrando que los niños construyen hipótesis activas sobre el sistema de escritura",
+        "Demostrar que la escritura debe enseñarse antes que la lectura para un desarrollo óptimo de la competencia comunicativa",
+        "Establecer los criterios neurológicos que permiten diagnosticar las DEA de escritura en la infancia",
+        "Proponer métodos de enseñanza de la escritura basados en la memoria visual de las palabras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ferreiro y Teberosky (1979) describieron las fases evolutivas de la adquisición de la escritura, mostrando que los niños no son receptores pasivos sino que construyen hipótesis activas sobre el sistema de escritura, progresando de los grafismos primitivos a la escritura alfabética."
+    },
+    {
+      "question": "¿Qué aspectos de la escritura van dominando los niños a partir de la fase alfabética según Ferreiro y Teberosky?",
+      "options": [
+        "Las normas ortográficas, la caligrafía y la velocidad escritora",
+        "Los grafismos primitivos, las pseudoletras y los primeros fonemas",
+        "La correspondencia sílaba-grafía y la segmentación de palabras",
+        "La planificación textual, la revisión y la composición de párrafos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A partir de la fase de escritura alfabética, que coincide con el inicio de la EP, los niños van dominando progresivamente las normas ortográficas, la caligrafía y la velocidad escritora, aunque en un primer momento pueden existir errores ortográficos y de segmentación."
+    },
+    {
+      "question": "¿Qué relación establece el Decreto 155/2022 entre las áreas de LCL y LGL y la expresión escrita?",
+      "options": [
+        "Ambas áreas abordan de forma específica la expresión escrita en el Bloque 3, aunque la escritura debe trabajarse transversalmente en todas las áreas",
+        "LCL trata exclusivamente la escritura en castellano y LGL en gallego, sin conexión metodológica entre ellas",
+        "LCL aborda la escritura formal y LGL la escritura creativa y literaria en el currículo gallego",
+        "Ambas áreas comparten contenidos de escritura pero con metodologías y criterios de evaluación diferentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las áreas de LCL y LGL abordan de forma específica la expresión escrita en su Bloque 3 'Comunicación Escrita', aunque la escritura debe trabajarse transversalmente en todas las áreas curriculares, siendo ambas áreas el eje metodológico específico de la competencia escritora."
+    },
+    {
+      "question": "¿Cuál es el propósito de las 'actividades intensivas' en el contexto de las secuencias didácticas de escritura?",
+      "options": [
+        "Actividades de corta duración centradas en aspectos concretos como un tipo específico de conector o un proceso ortográfico determinado",
+        "Actividades de larga duración que abarcan todas las fases del proceso de escritura de forma integrada",
+        "Tareas de escritura libre sin restricciones formales para desarrollar la fluidez expresiva",
+        "Ejercicios de copia y dictado para consolidar el aprendizaje de las normas ortográficas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades intensivas son de corta duración y centradas en aspectos concretos del proceso escritor (por ejemplo, practicar la cohesión textual o un mecanismo ortográfico específico), diferenciándose de las extensivas que se centran en la producción de textos completos."
+    },
+    {
+      "question": "¿Cuál es la función de los textos enumerativos y cuáles son sus ejemplos en el aula según Maruny Curto et al.?",
+      "options": [
+        "Organizar información en listas o secuencias para localizar datos aislados; ejemplos: listas, etiquetas, guías, folletos, horarios o agendas",
+        "Transmitir información objetiva sobre hechos y fenómenos; ejemplos: noticias, reportajes e invitaciones",
+        "Explicar conocimientos en profundidad; ejemplos: libros de consulta, reseñas y artículos temáticos",
+        "Regular comportamientos humanos mediante instrucciones; ejemplos: recetas, normas y reglamentos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textos enumerativos organizan información en listas o secuencias para localizar datos aislados, anunciar acontecimientos o comunicar resultados. Los modelos para trabajar en el aula son listas, etiquetas, guías, folletos, horarios o agendas."
+    },
+    {
+      "question": "¿Qué aspecto diferencia los textos expositivos de los textos informativos según la clasificación del tema?",
+      "options": [
+        "Los expositivos explican un tema transmitiendo nuevos conocimientos en profundidad, mientras que los informativos transmiten información objetiva sobre hechos concretos",
+        "Los expositivos son textos literarios con función estética y los informativos son textos periodísticos",
+        "Los expositivos regulan comportamientos y los informativos narran hechos de actualidad",
+        "Los expositivos se usan en contextos académicos y los informativos en contextos cotidianos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textos expositivos tienen como función explicar un tema concreto transmitiendo nuevos conocimientos (libros de divulgación, reseñas, biografías, artículos temáticos), mientras que los informativos transmiten información clara, precisa y objetiva sobre hechos específicos (noticias, reportajes, entrevistas)."
+    },
+    {
+      "question": "¿Qué papel desempeña la escritura en el marco de la CCL (competencia en comunicación lingüística) según el tema?",
+      "options": [
+        "La CCL supone interactuar de forma oral, escrita o multimodal de manera coherente y adecuada en diferentes contextos",
+        "La CCL se centra exclusivamente en la expresión oral y la escritura es una competencia separada",
+        "La CCL engloba solo la corrección lingüística formal sin atender a la adecuación comunicativa",
+        "La CCL es desarrollada únicamente por las áreas de LCL y LGL y no por el resto de áreas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La CCL (competencia en comunicación lingüística) supone interactuar de forma oral, escrita o multimodal de manera coherente y adecuada en diferentes contextos, incluyendo la escritura como una de sus manifestaciones esenciales junto con la oralidad y la multimodalidad."
+    },
+    {
+      "question": "¿Cuál es la valoración que hace el tema de las DEA en relación a la labor docente?",
+      "options": [
+        "Los docentes deben conocer las DEA para favorecer su detección temprana y brindar los apoyos necesarios para atender esas dificultades y fomentar el desarrollo de las competencias escritoras",
+        "Las DEA son responsabilidad exclusiva de los especialistas de orientación y no del maestro de aula",
+        "Las DEA deben diagnosticarse antes de la escolarización para que el docente pueda planificar",
+        "El conocimiento de las DEA es secundario frente al conocimiento de las estrategias de escritura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema destaca que las DEA son fundamentales que los docentes deben conocer para favorecer su detección temprana y poder brindar los apoyos necesarios para atender esas dificultades y fomentar el desarrollo de las competencias escritoras del alumnado."
+    },
+    {
+      "question": "¿Cómo se relaciona la enseñanza de las siete estrategias de escritura con el proceso completo de composición?",
+      "options": [
+        "Las siete estrategias cubren todo el proceso desde la planificación hasta la evaluación, siendo esencial enseñarlas todas para el desarrollo efectivo de las composiciones escritas",
+        "Las siete estrategias se aplican exclusivamente durante la fase de redacción del texto",
+        "Solo las estrategias de planificación y evaluación son imprescindibles para una composición efectiva",
+        "Las estrategias de apoyo afectivo son opcionales ya que los alumnos motivados no las necesitan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Enseñar al alumnado las siete estrategias es fundamental para el desarrollo efectivo de las composiciones escritas mejorando todo el proceso desde la planificación hasta la evaluación. Cada estrategia cumple una función específica en diferentes momentos del proceso escritor."
+    },
+    {
+      "question": "¿Qué implica la afirmación de que la escritura 'debe trabajarse paralela y coordinadamente con la lectura' según Prado (2004)?",
+      "options": [
+        "Que las habilidades lectoras y escritoras se potencian mutuamente cuando se desarrollan de forma integrada y complementaria",
+        "Que la lectura debe preceder siempre a la escritura en el tiempo dedicado a cada habilidad",
+        "Que los textos leídos deben copiarse para practicar la escritura y la ortografía simultáneamente",
+        "Que las áreas de LCL y LGL deben impartirse en el mismo horario para garantizar la coordinación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Que la escritura se trabaje paralela y coordinadamente con la lectura implica que ambas habilidades se potencian mutuamente cuando se desarrollan de forma integrada: la lectura enriquece el vocabulario y los modelos textuales de la escritura, y la escritura profundiza en la comprensión lectora."
+    },
+    {
+      "question": "¿Qué característica del control ejecutivo se señala en relación con la detección de errores en texto propio y ajeno?",
+      "options": [
+        "Se suelen detectar mejor los errores en textos ajenos que en propios, lo que puede mejorar mediante entrenamiento en coordinación y control de los procesos",
+        "El control ejecutivo permite detectar los errores propios con mayor precisión que los ajenos",
+        "La detección de errores es igualmente efectiva en textos propios y ajenos cuando se entrena adecuadamente",
+        "Los errores en textos ajenos son más difíciles de detectar porque el lector no conoce la intención del autor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El control ejecutivo implica que se suelen detectar mejor los errores en textos ajenos que en propios, posiblemente porque la familiaridad con el propio texto dificulta la lectura distanciada. Sin embargo, este control puede mejorar de forma significativa mediante el entrenamiento en coordinación y control de los procesos implicados."
+    },
+    {
+      "question": "¿Qué concepto distingue entre 'dislexia' y 'disortografía' en el marco de las DEA de escritura?",
+      "options": [
+        "La dislexia afecta al reconocimiento de palabras y la capacidad ortográfica global, mientras que la disortografía se centra específicamente en el aprendizaje de las normas ortográficas",
+        "La dislexia es un trastorno exclusivo de la lectura y la disortografía es exclusiva de la escritura",
+        "La dislexia afecta a la velocidad de procesamiento y la disortografía a la memoria ortográfica",
+        "La dislexia es de origen genético y la disortografía es de origen pedagógico y ambiental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el DSM-V, la dislexia es la dificultad de aprendizaje en la lectura o escritura para reconocer palabras, deletrear o adquirir la capacidad ortográfica global. La disortografía, en cambio, afecta específicamente al aprendizaje de las normas ortográficas de la lengua."
+    },
+    {
+      "question": "¿Cuál es la base neurológica de las DEA según el Protocolo para intervención psicoeducativa de la dislexia?",
+      "options": [
+        "Disfunciones neurológicas que generan un déficit cognitivo-lingüístico afectando a las habilidades académicas básicas",
+        "Lesiones cerebrales adquiridas durante el período de desarrollo fetal o neonatal",
+        "Déficits exclusivamente en el procesamiento fonológico sin afectar a otras áreas cognitivas",
+        "Alteraciones en el hemisferio derecho que interfieren con el procesamiento visual de las palabras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el Protocolo, las DEA se deben a disfunciones neurológicas que generan un déficit cognitivo-lingüístico. Esta base neurológica explica por qué las DEA afectan de forma exclusiva a la adquisición de los aprendizajes instrumentales de lectura, escritura y matemáticas."
+    },
+    {
+      "question": "¿Cómo puede el docente aplicar el Diseño Universal de Aprendizaje (DUA) específicamente en la enseñanza de la expresión escrita?",
+      "options": [
+        "Proporcionando múltiples medios de expresión y ayudas adaptadas a las necesidades de cada alumno, como materiales de apoyo o herramientas tecnológicas inclusivas",
+        "Simplificando las tareas de escritura para que todos los alumnos alcancen el mismo producto",
+        "Diseñando actividades de escritura idénticas para todos sin diferenciación de soporte",
+        "Evaluando exclusivamente con criterios ortográficos para garantizar la equidad en la valoración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El DUA aplicado a la escritura implica proporcionar las ayudas necesarias y materiales de apoyo adaptados a cada alumno para responder a sus necesidades comunicativas, por ejemplo usando procesadores de texto para alumnos con disgrafía o tobii para alumnos con dificultades motrices."
+    },
+    {
+      "question": "¿Qué relación establece el tema entre la evaluación de la escritura y la diversidad del alumnado?",
+      "options": [
+        "La evaluación debe tener en cuenta los esfuerzos de cada uno y hacer visible sus progresos, valorando el proceso y no solo el producto",
+        "La evaluación debe aplicar los mismos criterios a todos los alumnos para garantizar la equidad",
+        "La evaluación de la escritura debe realizarse exclusivamente de forma cuantitativa y objetiva",
+        "Los alumnos con DEA deben quedar exentos de la evaluación de la expresión escrita"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación de la escritura debe valorar el proceso de composición y no solo el producto final, teniendo en cuenta los esfuerzos de cada uno y haciendo visible sus progresos. Este enfoque personalizado permite atender la diversidad del alumnado de forma justa y motivadora."
+    },
+    {
+      "question": "¿Qué indica la relación entre 'intereses, motivaciones y necesidades' del alumnado y la enseñanza de la escritura?",
+      "options": [
+        "Es fundamental tenerlos en cuenta para ofrecer situaciones de comunicación real que sean significativas y motivadoras para el alumno",
+        "Solo los intereses deben considerarse, ya que la motivación es responsabilidad exclusiva del alumno",
+        "Las necesidades académicas del currículo deben prevalecer sobre los intereses personales",
+        "La motivación se desarrolla automáticamente cuando el alumno aprende las técnicas de escritura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es fundamental tener en cuenta los intereses, motivaciones y necesidades escritoras de cada niño para ofrecer situaciones de comunicación real que sean significativas, estableciendo claramente el destinatario y el tipo de texto, lo que dota de sentido la actividad escritora."
+    },
+    {
+      "question": "¿Qué es la 'escritura multimodal' en el contexto del OBJ5 del Decreto 155/2022?",
+      "options": [
+        "Textos que combinan diferentes modos semióticos como el escrito, el visual, el auditivo o el gestual para construir significado",
+        "Textos producidos en diferentes lenguas de forma simultánea",
+        "Textos que pueden leerse en múltiples soportes digitales e impresos",
+        "Textos escritos con diferentes tipografías y formatos visuales para mejorar la presentación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La escritura multimodal implica textos que combinan diferentes modos semióticos (escrito, visual, auditivo, gestual) para construir significado. El OBJ5 establece que el alumnado debe producir textos escritos y multimodales correctos aplicando estrategias de planificación, textualización, redacción, revisión y edición."
+    },
+    {
+      "question": "¿Qué diferencia hay entre los errores de revisión 'revisar a la vez que se escribe' y 'revisar centrada en aspectos formales'?",
+      "options": [
+        "Revisar mientras se escribe interrumpe el flujo de composición, mientras que revisar solo aspectos formales ignora el contenido, estructura y claridad del texto",
+        "Ambos errores son equivalentes y producen el mismo tipo de deficiencias en el texto final",
+        "Revisar mientras se escribe es una estrategia eficaz que los buenos escritores aplican regularmente",
+        "Revisar solo aspectos formales es la estrategia óptima para los textos académicos formales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Revisar a la vez que se escribe es un error porque interrumpe el flujo de composición, generando interferencias cognitivas. Revisar centrada solo en aspectos formales es otro error diferente que ignora errores de contenido, estructura y claridad, dejando sin resolver problemas más profundos del texto."
+    },
+    {
+      "question": "¿Qué papel tienen los subprocesos de 'generar ideas' y 'establecer metas' en la planificación de la escritura?",
+      "options": [
+        "Generar ideas activa la búsqueda de información en la memoria o fuentes externas; establecer metas define los objetivos globales de la composición que orientarán todo el proceso",
+        "Generar ideas consiste en escribir el primer borrador y establecer metas en revisar el texto",
+        "Generar ideas es sinónimo de organizar ideas y establecer metas equivale a la evaluación final",
+        "Ambos subprocesos son propios de la traslación y no de la planificación propiamente dicha"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Generar ideas activa la búsqueda de información en la memoria a largo plazo o en fuentes externas. Establecer metas define los objetivos globales de escritura que orientarán todo el proceso. Junto con organizar ideas, constituyen los tres subprocesos de la planificación según el modelo cognitivo."
+    },
+    {
+      "question": "¿Qué implica que la escritura sea una 'actividad consciente e intencional' en el marco de las estrategias de aprendizaje?",
+      "options": [
+        "Que el escritor dirige deliberadamente sus acciones hacia el logro de metas de aprendizaje específicas, distinguiéndose de las rutinas automáticas",
+        "Que la escritura solo puede enseñarse de forma explícita mediante instrucción directa del docente",
+        "Que los alumnos deben redactar siempre con plena conciencia de cada regla ortográfica aplicada",
+        "Que la escritura espontánea y creativa no puede considerarse una estrategia de aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de aprendizaje para la escritura se definen como actividades conscientes e intencionales que guían las acciones a seguir para alcanzar determinadas metas de aprendizaje. Esto las distingue de las rutinas automáticas: el escritor estratégico decide deliberadamente qué estrategia aplicar en cada momento."
+    },
+    {
+      "question": "¿Cuál es la relación entre la fase de escritura silábica y el principio alfabético?",
+      "options": [
+        "En la fase silábica el niño descubre la relación entre lengua oral y escrita asociando sonidos con grafías, siendo un paso previo al dominio del principio alfabético completo",
+        "La fase silábica corresponde al dominio pleno del principio alfabético con correspondencia exacta letra-fonema",
+        "En la fase silábica el niño no establece ninguna relación entre sonido y grafía, pues aún no ha descubierto el código",
+        "La fase silábica y el principio alfabético son conceptos equivalentes que describen el mismo nivel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de escritura silábica el niño descubre la relación entre la lengua oral y la escrita, asociando sonidos con grafías, siendo un paso previo al dominio pleno del principio alfabético que se consolidará en la fase alfabética con la correspondencia exacta letra-fonema."
+    },
+    {
+      "question": "¿Cómo contribuyen las estrategias de apoyo o afectivas al proceso de escritura según el tema?",
+      "options": [
+        "Mejoran la eficacia del proceso mediante el mantenimiento de la motivación, la atención y la concentración, o el manejo de la ansiedad y el tiempo de forma efectiva",
+        "Sustituyen a las demás estrategias cuando el alumno no tiene suficiente competencia lingüística",
+        "Solo son relevantes para alumnos con altas capacidades que necesitan gestionar el aburrimiento",
+        "Actúan exclusivamente durante la fase de planificación para generar la motivación inicial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de apoyo o afectivas se aplican durante todo el proceso de escritura para mejorar su eficacia, incluyendo el mantenimiento de la motivación, la atención y la concentración, o el manejo de la ansiedad o el tiempo de manera efectiva. Son transversales a todas las demás estrategias."
+    },
+    {
+      "question": "¿En qué se diferencia el enfoque de enseñanza de la escritura como proceso del enfoque centrado en el producto?",
+      "options": [
+        "El enfoque de proceso pone el énfasis en el desarrollo de la composición (organización de ideas, esquemas, estructura, revisión), mientras que el centrado en el producto evalúa solo el texto final",
+        "El enfoque de proceso enseña exclusivamente la escritura creativa y el de producto la académica",
+        "El enfoque de proceso es propio de la educación primaria y el de producto de la educación secundaria",
+        "El enfoque de proceso trabaja con textos orales y el de producto con textos escritos formales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los métodos basados en el proceso ponen el énfasis en el desarrollo de la composición (organización de ideas, realización de esquemas, estructura del texto y revisión) y no en el producto final, a diferencia del enfoque centrado en el producto que evalúa principalmente el texto terminado."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre 'planificación' como proceso cognitivo de composición y 'estrategias de planificación' como tipo de estrategia?",
+      "options": [
+        "La planificación es uno de los tres procesos cognitivos de composición (modelo de Flower y Hayes), mientras que las estrategias de planificación son herramientas metacognitivas anteriores al acto de escribir para establecer objetivos y organizar el proceso",
+        "Son dos términos equivalentes que describen el mismo proceso de organización previa a la escritura",
+        "La planificación cognitiva es involuntaria y las estrategias de planificación son voluntarias y conscientes",
+        "La planificación cognitiva se aplica solo en textos largos y las estrategias de planificación en todos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación como proceso cognitivo (Flower y Hayes, 1981) es uno de los tres grandes procesos de composición (planificación, traslación, revisión). Las estrategias de planificación son herramientas metacognitivas que el escritor aplica antes de escribir para elaborar un plan, establecer objetivos, prever el tiempo y seleccionar conocimientos previos."
+    },
+    {
+      "question": "¿Por qué la escritura se describe como una habilidad que 'requiere superar la mera reproducción de formas'?",
+      "options": [
+        "Porque el verdadero aprendizaje de la escritura implica atender al mensaje a transmitir, no solo copiar o trazar letras mecánicamente",
+        "Porque las formas gráficas de las letras no tienen importancia para la comunicación escrita",
+        "Porque la reproducción de formas es una habilidad motriz que se aprende sin instrucción explícita",
+        "Porque la caligrafía es un contenido obsoleto que ya no forma parte del currículo de primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje de la escritura requiere superar la mera reproducción de formas (copiar letras, caligrafía mecánica) para atender al mensaje a transmitir. La escritura es una forma de comunicación compleja que va más allá del trazado gráfico e incluye habilidades visuales, motrices y conceptuales."
+    },
+    {
+      "question": "¿Qué significa que la composición de textos en el aula sea 'funcional' según las orientaciones del tema?",
+      "options": [
+        "Que los textos tienen una utilidad real para el alumno en contextos comunicativos auténticos",
+        "Que los textos cumplen con todos los requisitos gramaticales y ortográficos exigidos",
+        "Que los textos se producen de forma eficiente empleando el menor tiempo posible",
+        "Que los textos sirven para evaluar el nivel de competencia del alumno de forma objetiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La composición funcional significa que los textos tienen una utilidad real para el alumno en contextos comunicativos auténticos. La escritura funcional responde a necesidades comunicativas genuinas, dotando de sentido y propósito a la actividad escritora más allá del ejercicio escolar."
+    },
+    {
+      "question": "¿Cuál es la finalidad de usar 'composiciones modelo' según las orientaciones específicas para la enseñanza de la escritura?",
+      "options": [
+        "Servir como marco de referencia para profundizar en las características lingüísticas y estructurales de los diferentes tipos de textos",
+        "Proporcionar al alumnado textos perfectos para que los copien y memoricen su estructura",
+        "Sustituir la escritura creativa del alumno cuando este no tiene ideas propias suficientes",
+        "Evaluar la escritura del alumno comparándola con el modelo de referencia establecido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las composiciones modelo se usan como marco de referencia para profundizar en las características lingüísticas y estructurales de los diferentes tipos de textos, ayudando al alumno a comprender cómo se construye cada tipología textual antes de producir sus propios textos."
+    },
+    {
+      "question": "¿Cuáles son los requisitos que debe respetar la traslación según la definición del proceso de composición escrita?",
+      "options": [
+        "Requisitos gráficos, sintácticos, semánticos, textuales y contextuales",
+        "Requisitos ortográficos, caligráficos, tipográficos y de presentación visual",
+        "Requisitos de coherencia, cohesión, adecuación y corrección lingüística",
+        "Requisitos de planificación, redacción, revisión y edición del texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La traslación supone plasmar las ideas según lo planificado respetando cinco tipos de requisitos: gráficos (caligrafía, legibilidad), sintácticos (construcción de frases), semánticos (significado adecuado), textuales (estructura del texto) y contextuales (adecuación al destinatario y situación)."
+    },
+    {
+      "question": "¿Qué aplicaciones se citan en el tema para trabajar la ortografía de forma interactiva en el aula?",
+      "options": [
+        "Educaplay, Kahoot o Quizizz para trabajar conceptos ortográficos con cuestionarios interactivos",
+        "Genially, Storybird o Pixton para crear textos creativos ortográficamente correctos",
+        "Gmail o Google Docs para redactar y corregir textos en tiempo real",
+        "Gliffy, Easel o Tobii para representar visualmente las reglas ortográficas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Educaplay, Kahoot y Quizizz se citan específicamente para trabajar conceptos ortográficos con cuestionarios interactivos, aprovechando la gamificación y el feedback inmediato para hacer más atractivo y efectivo el aprendizaje de la ortografía."
+    },
+    {
+      "question": "¿Cómo afectan los problemas emocionales y la motivación a las dificultades de escritura según el tema?",
+      "options": [
+        "Son factores que influyen en las dificultades de escritura junto con los problemas motrices, de percepción visual y la mala enseñanza",
+        "Son los factores más determinantes en las DEA de escritura, superando a los de origen neurológico",
+        "Afectan exclusivamente a la motivación para escribir pero no a la calidad del texto producido",
+        "Solo influyen en alumnos sin diagnóstico de DEA, mientras que en los diagnosticados predominan los factores neurológicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas emocionales y la motivación son factores que influyen en las dificultades de escritura, junto con problemas motrices o de percepción visual, pobre memoria visual y mala enseñanza, lo que confirma el carácter multifactorial de las dificultades escritoras."
+    },
+    {
+      "question": "¿Cuál es la principal función comunicativa de los textos prescriptivos frente a los informativos?",
+      "options": [
+        "Los prescriptivos regulan comportamientos mediante instrucciones y reglas, mientras que los informativos transmiten información objetiva sobre hechos",
+        "Los prescriptivos narran secuencias de hechos ordenados cronológicamente y los informativos describen objetos o situaciones",
+        "Los prescriptivos expresan opiniones y argumentos y los informativos presentan datos verificables",
+        "Los prescriptivos utilizan lenguaje subjetivo y literario, mientras que los informativos emplean lenguaje objetivo y técnico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textos prescriptivos recogen instrucciones, reglas o pasos a seguir con la función de regular comportamientos humanos (recetas, normas), mientras que los textos informativos transmiten información clara, precisa y objetiva sobre hechos específicos (noticias, reportajes, entrevistas)."
+    },
+    {
+      "question": "¿Qué aspectos de la escritura deben trabajarse como contenidos del Bloque 3 'Comunicación Escrita' según las orientaciones generales del tema?",
+      "options": [
+        "Los contenidos del Bloque 3 deben ir orientados a la consecución del OBJ5 de LCL y LGL, elaborando textos de forma acompañada que ayuden a organizar la información y desarrollen la creatividad",
+        "Los contenidos del Bloque 3 deben centrarse exclusivamente en la corrección ortográfica y gramatical",
+        "Los contenidos del Bloque 3 solo incluyen escritura creativa y literaria, dejando la escritura funcional para otras áreas",
+        "Los contenidos del Bloque 3 son idénticos en todos los cursos de la EP sin progresión de complejidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de intervención deben ir orientadas a abordar los contenidos del Bloque 3 y a la consecución del OBJ5, elaborando textos de forma acompañada en contextos de relaciones interpersonales o para organizar información, ayudando a organizar la información, el pensamiento y desarrollar la creatividad."
+    },
+    {
+      "question": "¿Cuál es el impacto específico de las TIC en la creatividad y las competencias de expresión escrita según Marqués (2006)?",
+      "options": [
+        "Las TIC mejoran las competencias de expresión escrita y la creatividad, entre sus múltiples posibilidades en los procesos de enseñanza-aprendizaje",
+        "Las TIC solo impactan en la velocidad de escritura sin efecto en la calidad de los textos",
+        "Las TIC disminuyen la creatividad al proporcionar plantillas y modelos prediseñados",
+        "Las TIC mejoran la ortografía automáticamente pero no influyen en la composición textual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marqués (2006) destaca que entre las múltiples posibilidades de las TIC en los procesos de enseñanza-aprendizaje se incluye la mejora de las competencias de expresión escrita y la creatividad, lo que justifica su integración en la enseñanza de la escritura en primaria."
+    },
+    {
+      "question": "¿Cuál es la importancia del 'feedback inmediato' de las TIC en el aprendizaje de la escritura?",
+      "options": [
+        "Permite al alumno aprender a partir de sus propios errores, lo que favorece el aprendizaje autorregulado",
+        "Garantiza que el alumno produzca textos sin errores al estar supervisado constantemente",
+        "Sustituye la evaluación del docente al proporcionar correcciones automáticas completas",
+        "Genera una dependencia tecnológica que puede dificultar la escritura sin soporte digital"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El feedback inmediato de las TIC permite al alumno aprender a partir de sus propios errores, lo que favorece el aprendizaje autorregulado. Esta inmediatez en la retroalimentación es especialmente valiosa en las fases de revisión y corrección del proceso escritor."
+    },
+    {
+      "question": "¿Cuál es el elemento diferenciador de una blognovela respecto a un blog convencional?",
+      "options": [
+        "La blognovela publica una historia seriada por capítulos con interacción del lector mediante comentarios, mientras que el blog recopila textos o artículos escritos de diversa naturaleza",
+        "La blognovela está escrita por el docente y el blog convencional por el alumnado del aula",
+        "La blognovela solo admite textos literarios narrativos y el blog cualquier tipo de texto",
+        "La blognovela requiere actualización diaria y el blog puede actualizarse con menor frecuencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La blognovela se diferencia del blog convencional en que publica una historia seriada por capítulos que favorece la interacción del lector mediante comentarios, configurando una experiencia de lectura participativa y permitiendo incorporar recursos multimedia, mientras que el blog recopila textos o artículos de temática más variada."
+    },
+    {
+      "question": "¿Qué aspectos de la 'redacción' como proceso de composición abordan las exigencias señaladas en el tema según Cuetos (2009)?",
+      "options": [
+        "Las exigencias gráficas, sintácticas, semánticas, textuales y contextuales",
+        "Las exigencias ortográficas, caligráficas, tipográficas y de formato visual",
+        "Las exigencias de planificación, organización, coherencia y cohesión",
+        "Las exigencias de creatividad, originalidad, adecuación y corrección lingüística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Cuetos (2009) y el modelo de Flower y Hayes que retoma el tema, la redacción debe abordar las exigencias gráficas (aspectos físicos de la escritura), sintácticas (construcción de frases), semánticas (significado), textuales (estructura global) y contextuales (adecuación al receptor y situación)."
+    },
+    {
+      "question": "¿Cómo se relaciona el Decreto 155/2022 con la Ley Orgánica 3/2020 (LOMLOE) en el marco normativo del tema?",
+      "options": [
+        "El Decreto 155/2022 es la normativa autonómica gallega que desarrolla la LOMLOE en el ámbito de la Educación Primaria en Galicia",
+        "El Decreto 155/2022 reemplaza a la LOMLOE en el ámbito gallego como norma de mayor rango",
+        "La LOMLOE y el Decreto 155/2022 son normas independientes que regulan aspectos diferentes del sistema educativo",
+        "El Decreto 155/2022 desarrolla el Real Decreto 157/2022, mientras que la LOMLOE es el marco para la ESO"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 es la normativa autonómica de la Comunidad Autónoma de Galicia que desarrolla la LOMLOE para la Educación Primaria, estableciendo la ordenación y el currículo de esta etapa en el territorio gallego, adaptando el marco estatal al contexto específico de Galicia."
+    },
+    {
+      "question": "¿Cuál es la función del Real Decreto 157/2022 mencionado en la bibliografía del tema?",
+      "options": [
+        "Establecer la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel nacional",
+        "Regular la formación inicial del profesorado de Educación Primaria en España",
+        "Establecer las normas de evaluación y promoción en la Educación Primaria",
+        "Definir el perfil de salida del alumnado al término de la Educación Básica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel nacional, siendo la norma estatal que el Decreto autonómico gallego 155/2022 desarrolla y adapta al contexto específico de Galicia."
+    },
+    {
+      "question": "¿Qué tipo de texto es una 'guía de viaje' según la clasificación de Maruny Curto et al.?",
+      "options": [
+        "Texto enumerativo, ya que organiza información en listas o secuencias para localizar datos aislados",
+        "Texto informativo, ya que transmite información objetiva sobre los lugares descritos",
+        "Texto prescriptivo, ya que indica al lector qué hacer y cómo comportarse durante el viaje",
+        "Texto expositivo, ya que explica en profundidad la cultura y la historia de los lugares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una guía de viaje es un texto enumerativo según Maruny Curto et al., ya que organiza información en listas o secuencias para localizar datos aislados. Los modelos de textos enumerativos incluyen listas, etiquetas, guías, folletos, horarios o agendas."
+    },
+    {
+      "question": "¿Qué implica enseñar la escritura a través de 'situaciones de comunicación real' con 'destinatario claramente definido'?",
+      "options": [
+        "Que el texto tiene una función comunicativa auténtica dirigida a un lector específico, lo que da significado y propósito a la escritura",
+        "Que el docente debe simular situaciones de comunicación para practicar los diferentes tipos de texto",
+        "Que los textos deben enviarse por correo electrónico para garantizar que llegan a un destinatario real",
+        "Que el alumnado debe escribir exclusivamente textos dirigidos al docente como evaluador"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ofrecer situaciones de comunicación real con destinatario claramente definido implica que el texto tiene una función comunicativa auténtica dirigida a un lector específico, lo que da sentido y propósito a la escritura, motivando al alumno y orientando sus decisiones sobre tipo de texto, registro y contenido."
+    },
+    {
+      "question": "¿Cuál es la aportación fundamental del psicopedagogo Francesco Tonucci al discurso educativo sobre la escritura según el tema?",
+      "options": [
+        "Enfatizar el valor esencial de la lectura y la escritura como 'el mejor regalo para los hijos', sintetizando el objetivo de la educación de desarrollar habilidades comunicativas esenciales",
+        "Desarrollar un método específico para la enseñanza de la escritura en contextos multilingües",
+        "Proponer un sistema de evaluación de la escritura basado en la observación participante",
+        "Identificar las fases de adquisición de la escritura en la educación infantil y primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La aportación de Tonucci en el contexto del tema es enfatizar el valor esencial de la lectura y la escritura con su frase 'leer y escribir es el mejor regalo para tus hijos', que recoge el objetivo fundamental de la educación de desarrollar habilidades comunicativas esenciales y formar escritores capaces de expresarse en múltiples soportes."
+    },
+    {
+      "question": "¿Qué implica la afirmación de que 'nuestra labor docente consiste en actuar como modelos escritores expertos' según la conclusión del tema?",
+      "options": [
+        "El docente debe escribir ante y para los alumnos, mostrando el proceso de composición y no solo el producto final",
+        "El docente debe corregir exclusivamente los errores formales para ser un modelo de corrección lingüística",
+        "El docente debe proporcionar textos perfectos como modelos que los alumnos deben imitar",
+        "El docente debe demostrar velocidad y fluidez escritora para motivar al alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Actuar como modelo escritor experto implica que el docente escribe ante y para los alumnos, mostrando el proceso de composición, no solo el producto. Esto incluye verbalizar las decisiones escritoras, demostrar las estrategias de planificación, revisión y cómo resolver los problemas que surgen al escribir."
+    },
+    {
+      "question": "¿Cuáles son las tres características de las actividades de escritura que debe ofrecer la labor docente según la conclusión del tema?",
+      "options": [
+        "Actividades variadas, funcionales y en contextos reales de escritura con diferentes tipologías textuales y complejidad escalonada",
+        "Actividades individuales, evaluables y con criterios claros de corrección ortográfica",
+        "Actividades cortas, frecuentes y centradas en la corrección formal para afianzar las normas",
+        "Actividades creativas, lúdicas y sin estructura predefinida para fomentar la expresión libre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la conclusión del tema, la labor docente consiste en ofrecer actividades variadas, funcionales y en contextos reales de escritura con diferentes tipologías textuales y con una complejidad escalonada que respete las fases de la escritura y el nivel psicoevolutivo y motriz de cada alumno."
+    },
+    {
+      "question": "¿Qué condición implica que las actividades de escritura respeten 'las fases de la escritura y el nivel psicoevolutivo y motriz'?",
+      "options": [
+        "Que las actividades se adapten al nivel de desarrollo de cada alumno, considerando tanto su madurez cognitiva como sus capacidades motrices para la escritura",
+        "Que las actividades sigan estrictamente el orden marcado por el libro de texto del curso",
+        "Que los alumnos reciban instrucción explícita sobre las fases antes de producir cualquier texto",
+        "Que las actividades sean idénticas para todos los alumnos del grupo para garantizar la equidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Respetar las fases de la escritura y el nivel psicoevolutivo y motriz implica adaptar las actividades al nivel de desarrollo de cada alumno, considerando tanto su madurez cognitiva como sus capacidades motrices, lo que conecta con el enfoque inclusivo y la atención a la diversidad mediante el DUA."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la 'Orden de 26 de mayo de 2023' y el 'Decreto 155/2022' en el marco normativo del tema?",
+      "options": [
+        "El Decreto 155/2022 establece la ordenación y el currículo, mientras que la Orden desarrolla el decreto y regula la evaluación en la etapa",
+        "El Decreto tiene rango superior y deroga a la Orden en todos los aspectos del currículo",
+        "La Orden regula los contenidos mínimos y el Decreto los criterios de evaluación de la etapa",
+        "Son equivalentes en rango normativo y regulan los mismos aspectos de forma complementaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece la ordenación y el currículo de la Educación Primaria en Galicia (norma de mayor rango), mientras que la Orden de 26 de mayo de 2023 desarrolla el Decreto y regula específicamente la evaluación en esta etapa educativa."
+    },
+    {
+      "question": "¿Cuál es el valor de enseñar a los niños a 'tomar notas' durante el proceso de búsqueda de ideas para la escritura?",
+      "options": [
+        "Permite registrar las ideas generadas para no perderlas y organizarlas posteriormente, siendo una estrategia de apoyo a la memoria durante la planificación",
+        "Sustituye completamente la fase de elaboración del esquema y organización de ideas",
+        "Es una habilidad exclusiva de los cursos superiores de primaria por su complejidad cognitiva",
+        "Permite al docente evaluar el proceso de planificación antes de que el alumno comience a escribir"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tomar notas durante la búsqueda de ideas permite registrar las ideas generadas para no perderlas y organizarlas posteriormente, siendo una estrategia de apoyo a la memoria en la fase de planificación. Evita que las ideas se pierdan y sirve de base para la elaboración del esquema."
+    },
+    {
+      "question": "¿Qué ventaja específica aporta Google Docs como ejemplo de procesador de textos para la expresión escrita en el aula?",
+      "options": [
+        "Permite la escritura colaborativa en tiempo real desde diferentes dispositivos y ubicaciones, facilitando la participación colectiva y el aprendizaje cooperativo",
+        "Proporciona corrección ortográfica automática que elimina completamente los errores del texto",
+        "Genera automáticamente la estructura del texto según el tipo seleccionado por el alumno",
+        "Traduce el texto entre lenguas para facilitar el trabajo en el área de LGL"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Google Docs, como ejemplo de procesador de textos, permite la escritura colaborativa en tiempo real desde diferentes dispositivos y ubicaciones, lo que facilita la participación colectiva, el aprendizaje cooperativo y el seguimiento del proceso de escritura en tiempo real."
+    },
+    {
+      "question": "¿Cuál es la distinción entre 'disfunciones neurológicas' como causa de las DEA y los 'factores ambientales' que influyen en las dificultades de escritura?",
+      "options": [
+        "Las DEA se deben a disfunciones neurológicas de base mientras que las dificultades de escritura generales pueden tener causas múltiples incluyendo mala enseñanza, problemas emocionales o falta de motivación",
+        "Las disfunciones neurológicas son más graves y requieren tratamiento médico, mientras que los factores ambientales son menores y se resuelven con más práctica",
+        "Las DEA por disfunciones neurológicas son permanentes e irreversibles, mientras que las causadas por factores ambientales son transitorias",
+        "Solo las disfunciones neurológicas justifican la intervención psicopedagógica; los factores ambientales son responsabilidad exclusiva de las familias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las DEA se definen específicamente como consecuencia de disfunciones neurológicas que generan un déficit cognitivo-lingüístico. Sin embargo, las dificultades de escritura en general pueden tener causas múltiples incluyendo mala enseñanza, problemas emocionales, falta de motivación o pobre memoria visual, sin que necesariamente sean DEA."
+    },
+    {
+      "question": "¿Cuáles son las implicaciones pedagógicas de considerar la expresión escrita como un 'proceso cognitivo complejo' según la conclusión del tema?",
+      "options": [
+        "Que la enseñanza debe abordar la planificación, la traslación y la revisión de forma integrada, con estrategias que gestionen la complejidad cognitiva del proceso",
+        "Que la escritura solo puede enseñarse a partir del tercer ciclo de primaria cuando el desarrollo cognitivo es suficiente",
+        "Que los alumnos deben automatizar los procesos cognitivos antes de poder escribir textos complejos",
+        "Que la complejidad cognitiva justifica simplificar el proceso reduciéndolo a la corrección ortográfica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Considerar la escritura como proceso cognitivo complejo implica que la enseñanza debe abordar la planificación, la traslación y la revisión de forma integrada, con estrategias que ayuden al alumno a gestionar esa complejidad cognitiva desde los primeros cursos de primaria."
+    },
+    {
+      "question": "¿Cuál es la función pedagógica del 'horario' como ejemplo de texto enumerativo en el aula de Educación Primaria?",
+      "options": [
+        "Organiza la información en secuencias para comunicar datos temporales y facilitar la localización de actividades",
+        "Transmite información objetiva sobre las asignaturas y docentes del grupo clase",
+        "Regula el comportamiento del alumnado mediante la indicación de qué hacer en cada momento",
+        "Expone los contenidos del currículo de forma sistemática y ordenada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El horario es un texto enumerativo porque organiza información en secuencias para localizar datos aislados, en este caso datos temporales que permiten saber qué actividades se realizan en cada momento. Su función es facilitar la consulta de información organizada de forma sistemática."
+    },
+    {
+      "question": "¿Qué significa que las TIC 'constituyen un elemento de inclusión' en el contexto de la expresión escrita según el tema?",
+      "options": [
+        "Permiten la escritura a sujetos con dificultades motrices mediante la escritura por voz o por seguimiento visual, haciendo accesible la composición escrita a todo el alumnado",
+        "Garantizan que todos los alumnos alcancen el mismo nivel de competencia escritora mediante el uso obligatorio de correctores",
+        "Facilitan la inclusión social al conectar a los alumnos con comunidades virtuales de escritura globales",
+        "Incluyen a todos los alumnos en las mismas actividades de escritura independientemente de sus capacidades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las TIC constituyen un elemento de inclusión permitiendo la escritura por voz para sujetos con dificultades motrices o por seguimiento visual con recursos tecnológicos como tobii. Esto hace accesible la composición escrita a alumnos que de otro modo no podrían participar en las actividades de escritura."
+    },
+    {
+      "question": "¿Cuál es la importancia de la 'bibliografía' incluida en un tema como este para la práctica docente?",
+      "options": [
+        "Permite al docente profundizar en los referentes teóricos que fundamentan la práctica y conocer las fuentes normativas y académicas que sustentan las estrategias de enseñanza de la escritura",
+        "Es un requisito formal sin utilidad práctica que solo sirve para cumplir con los estándares académicos",
+        "Proporciona materiales para que los alumnos de primaria investiguen sobre la expresión escrita",
+        "Garantiza la originalidad del tema impidiendo que el docente desarrolle ideas propias sin fundamento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La bibliografía permite al docente profundizar en los referentes teóricos que fundamentan la práctica (Prado, Cuetos, Flower y Hayes, Marqués, Cassany, Ferreiro y Teberosky, Maruny Curto) y conocer las fuentes normativas (LOMLOE, Decreto 155/2022, Real Decreto 157/2022) que sustentan las estrategias de enseñanza."
+    }
+  ]
+}
