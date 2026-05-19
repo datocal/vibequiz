@@ -1,0 +1,2032 @@
+{
+  "title": "Tema 20. El área de Matemáticas en la Educación Primaria",
+  "description": "Preguntas de nivel avanzado sobre el enfoque, características, propuestas de intervención, competencias clave, objetivos, contenidos, criterios de evaluación y relación con otras áreas del área de Matemáticas en Educación Primaria según el Decreto 155/2022.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según el Decreto 155/2022, ¿cuál es la finalidad de la Educación Primaria que se recoge en el artículo 4 en relación con las matemáticas?",
+      "options": [
+        "Facilitar al alumnado los aprendizajes del cálculo y las habilidades lógicas y matemáticas para garantizar una formación integral",
+        "Desarrollar exclusivamente las habilidades aritméticas necesarias para la vida económica",
+        "Proporcionar al alumnado los fundamentos teóricos del pensamiento matemático formal",
+        "Asegurar que el alumnado adquiera las cuatro operaciones básicas con suficiencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece como finalidad de la EP facilitar al alumnado los aprendizajes del cálculo y las habilidades lógicas y matemáticas 'a fin de garantizar una formación integral que contribuya al pleno desarrollo de su personalidad'. Las otras opciones reducen o distorsionan esta finalidad amplia."
+    },
+    {
+      "question": "¿Con qué objetivo de etapa del Decreto 155/2022 se vincula estrechamente el área de Matemáticas?",
+      "options": [
+        "Objetivo 'a': adquirir habilidades para la comunicación oral y escrita",
+        "Objetivo 'g': desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas",
+        "Objetivo 'c': valorar la higiene y la salud personal",
+        "Objetivo 'k': conocer y valorar el entorno natural y social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de Matemáticas se vincula estrechamente con el objetivo 'g' del artículo 7 del Decreto 155/2022, que establece desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas con operaciones de cálculo, conocimientos geométricos y estimaciones. Los demás objetivos corresponden a otras áreas."
+    },
+    {
+      "question": "¿En qué Anexo del Decreto 155/2022 se encuentra la vinculación directa del área de Matemáticas con la Competencia Matemática y la Competencia en Ciencia, Tecnología e Ingeniería (STEM)?",
+      "options": [
+        "Anexo II, epígrafe 9.4",
+        "Anexo III, tabla de sesiones semanales",
+        "Anexo I, competencias clave",
+        "Anexo IV, criterios de evaluación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el texto, en relación con el Anexo I, el área de Matemáticas se vincula directamente con la Competencia Matemática y la Competencia en Ciencia, Tecnología e Ingeniería (STEM). El Anexo II epígrafe 9.4 recoge el triple enfoque del área; el Anexo III establece las sesiones semanales."
+    },
+    {
+      "question": "¿Cuántas sesiones semanales se dedican al área de Matemáticas en el primer ciclo de Educación Primaria según el Anexo III del Decreto 155/2022?",
+      "options": [
+        "Cuatro sesiones semanales",
+        "Seis sesiones semanales",
+        "Cinco sesiones semanales",
+        "Tres sesiones semanales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el Anexo III del Decreto 155/2022, el área de Matemáticas se desarrolla en cinco sesiones semanales en el primer ciclo de la EP. En el segundo y tercer ciclo se reducen a cuatro sesiones semanales."
+    },
+    {
+      "question": "¿Cuántas sesiones semanales se dedican al área de Matemáticas en el segundo y tercer ciclo de Educación Primaria según el Decreto 155/2022?",
+      "options": [
+        "Tres sesiones semanales",
+        "Cinco sesiones semanales",
+        "Cuatro sesiones semanales",
+        "Seis sesiones semanales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el Anexo III del Decreto 155/2022, en el segundo y tercer ciclo de la EP el área de Matemáticas se desarrolla en cuatro sesiones semanales, mientras que en el primer ciclo son cinco."
+    },
+    {
+      "question": "Según el texto, ¿cuáles son los tres enfoques fundamentales del área de Matemáticas en la Educación Primaria?",
+      "options": [
+        "Cognitivo, afectivo y psicomotriz",
+        "Competencial, experimental y de aprendizaje gradual y progresivo",
+        "Constructivista, conductista y humanista",
+        "Inductivo, deductivo y hipotético-deductivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto identifica tres enfoques del área de Matemáticas: el enfoque competencial (transversal, dinámico e integral), el experimental (basado en vivencia, manipulación y experimentación) y el aprendizaje gradual y progresivo (de conocimientos previos hacia los más complejos). Los demás agrupamientos pertenecen a otras clasificaciones pedagógicas."
+    },
+    {
+      "question": "El enfoque competencial del área de Matemáticas se caracteriza por tres rasgos. ¿Cuáles son?",
+      "options": [
+        "Interdisciplinariedad, funcionalidad y creatividad",
+        "Transversalidad, dinamismo y carácter integral",
+        "Globalización, secuenciación y contextualización",
+        "Significatividad, actividad y cooperación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, el enfoque competencial del área de Matemáticas se caracteriza por su transversalidad, dinamismo y carácter integral. Las otras combinaciones no corresponden a la descripción del enfoque competencial del Decreto 155/2022."
+    },
+    {
+      "question": "En el enfoque experimental del área de Matemáticas, ¿cuáles son los dos ejes vertebradores y contenidos prioritarios?",
+      "options": [
+        "El cálculo mental y la geometría",
+        "Las TIC y los entornos virtuales de aprendizaje",
+        "La resolución de problemas y las destrezas socioemocionales",
+        "La aritmética y el álgebra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto señala que en el enfoque experimental, la práctica es fundamental para el aprendizaje y 'la resolución de problemas y las destrezas socioemocionales son los ejes vertebradores y contenidos prioritarios'. Los otros pares no corresponden a esta definición del Decreto."
+    },
+    {
+      "question": "Según el enfoque de aprendizaje gradual y progresivo del área de Matemáticas, ¿en qué dirección se orienta la progresión del conocimiento?",
+      "options": [
+        "De lo abstracto a lo concreto, de lo formal a lo práctico",
+        "De lo teórico a lo experimental, de lo simbólico a lo manipulativo",
+        "De lo deductivo a lo inductivo, de lo global a lo específico",
+        "De lo concreto hacia lo abstracto, de lo práctico a lo simbólico y formal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El enfoque de aprendizaje gradual y progresivo parte del trabajo práctico y concreto para llegar a la abstracción, a lo simbólico y a lo formal, priorizando formas empíricas e inductivas avanzando hacia la formalización deductiva. La dirección inversa sería incorrecta."
+    },
+    {
+      "question": "Según Cantero (2010), ¿qué carácter destaca del área de Matemáticas en relación con el desarrollo cognitivo del alumnado?",
+      "options": [
+        "Carácter vivencial y funcional",
+        "Carácter constructivo y gradual",
+        "Carácter informativo y simbólico",
+        "Carácter instrumental e interdisciplinar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cantero (2010) destaca el carácter constructivo y gradual del área, pues el currículo parte del desarrollo cognitivo y emocional del alumnado avanzando del pensamiento concreto al abstracto. Los otros caracteres también se mencionan en el tema pero no son atribuidos específicamente a Cantero."
+    },
+    {
+      "question": "¿Qué se entiende por el 'carácter instrumental' del área de Matemáticas en Educación Primaria?",
+      "options": [
+        "Que las matemáticas son útiles para diseñar instrumentos de medición",
+        "Que junto con la Lengua Castellana y Literatura, es el área instrumental para adquirir los conocimientos del resto de áreas",
+        "Que las matemáticas son la única herramienta para desarrollar el pensamiento lógico",
+        "Que el área utiliza instrumentos manipulativos como base de todo aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El carácter instrumental de las Matemáticas significa que, junto con la LCL, es el área instrumental para adquirir los conocimientos del resto de áreas. Esta función instrumental justifica su interdisciplinariedad y presencia transversal. Las otras opciones confunden el término."
+    },
+    {
+      "question": "¿Qué característica del área de Matemáticas se relaciona con el uso adecuado de notación simbólica para representar información de manera precisa?",
+      "options": [
+        "Carácter constructivo",
+        "Carácter vivencial y funcional",
+        "Carácter informativo",
+        "Carácter formativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El carácter informativo de las Matemáticas corresponde a su función como herramienta para representar de forma precisa diversa información con notación simbólica. El carácter formativo contribuye al desarrollo intelectual; el vivencial-funcional construye conocimiento desde vivencias propias."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen los 'métodos pedagógicos'?",
+      "options": [
+        "Los recursos materiales y digitales utilizados por el profesorado en el proceso de enseñanza",
+        "Los indicaciones para orientar al profesorado en el diseño de estrategias, procedimientos y acciones docentes para favorecer el aprendizaje",
+        "Las actividades de evaluación continua que miden el logro de competencias",
+        "Los principios psicológicos que fundamentan el proceso de enseñanza-aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define los métodos pedagógicos como 'las indicaciones para orientar al profesorado en el diseño y en la planificación de las estrategias, los procedimientos y las acciones docentes con la finalidad de favorecer el aprendizaje del alumnado para lograr los objetivos y adquirir las CC'."
+    },
+    {
+      "question": "¿Qué define el artículo 6 del Decreto 155/2022 como 'currículo'?",
+      "options": [
+        "El conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de la EP",
+        "El plan de estudios organizado por áreas y ciclos educativos para cada etapa",
+        "Las orientaciones didácticas y los materiales curriculares aprobados por la administración",
+        "El conjunto de normas que regulan la organización, estructura y funcionamiento de los centros educativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 del Decreto 155/2022 define el currículo como 'el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de la EP'. Las otras opciones presentan definiciones parciales o incorrectas."
+    },
+    {
+      "question": "Según las propuestas metodológicas generales, ¿qué teoría del aprendizaje justifica partir del nivel de desarrollo psicoevolutivo del alumnado?",
+      "options": [
+        "La teoría del aprendizaje social de Bandura",
+        "La teoría del desarrollo cognitivo de Piaget",
+        "La teoría de las inteligencias múltiples de Gardner",
+        "La teoría del condicionamiento operante de Skinner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que 'considerando la teoría del desarrollo cognitivo de Piaget, es fundamental que la enseñanza parta del nivel del desarrollo psicoevolutivo del alumnado'. La ZDP es de Vigotsky y el aprendizaje significativo de Ausubel, que también se mencionan en el texto."
+    },
+    {
+      "question": "¿Qué autor fundamenta la necesidad de relacionar los conocimientos previos del alumnado con las nuevas experiencias en el aprendizaje matemático?",
+      "options": [
+        "Vigotsky, a través del concepto de Zona de Desarrollo Próximo",
+        "Piaget, mediante los estadios del desarrollo cognitivo",
+        "Ausubel, a través del aprendizaje significativo",
+        "Bruner, mediante el aprendizaje por descubrimiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto señala que se fomenta un 'aprendizaje significativo en el que, siguiendo a Ausubel, se relacionen con las experiencias nuevas'. La ZDP es el concepto de Vigotsky (mencionado para avanzar hacia lo más complejo), y Piaget fundamenta partir del desarrollo psicoevolutivo."
+    },
+    {
+      "question": "¿A quién atribuye el texto el concepto de Zona de Desarrollo Próximo (ZDP) en el contexto del aprendizaje matemático?",
+      "options": [
+        "Piaget",
+        "Ausubel",
+        "Vigotsky",
+        "Bruner"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto indica que se avanza de lo concreto hacia lo abstracto 'promoviendo el trabajo en la ZDP establecida por Vigotsky'. Piaget fundamenta el desarrollo psicoevolutivo, Ausubel el aprendizaje significativo y Bruner no se menciona en este contexto."
+    },
+    {
+      "question": "¿Cuál es el 'triple enfoque' del área de Matemáticas recogido en el Anexo II epígrafe 9.4 del Decreto 155/2022?",
+      "options": [
+        "Matemáticas para pensar, para crear y para explorar",
+        "Matemáticas como ciencia, como arte y como lenguaje",
+        "Matemáticas útiles para lo cotidiano, para comprender la realidad y para la formación intelectual",
+        "Matemáticas para calcular, para medir y para representar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Anexo II epígrafe 9.4 del Decreto 155/2022 establece que el área de Matemáticas se aborda desde un triple enfoque: son útiles e imprescindibles para lo cotidiano, nos ayudan a comprender la realidad y contribuyen a la formación intelectual de las personas."
+    },
+    {
+      "question": "En las propuestas metodológicas generales del área de Matemáticas, ¿qué herramienta se menciona específicamente para atender a la diversidad del alumnado?",
+      "options": [
+        "El Plan de Atención a la Diversidad (PAD)",
+        "El Diseño Universal para el Aprendizaje (DUA)",
+        "El Programa de Refuerzo Educativo (PRE)",
+        "La Adaptación Curricular Individualizada (ACI)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona específicamente el Diseño Universal para el Aprendizaje (DUA) como herramienta para atender a la diversidad, 'respetando ritmos, estilos y necesidades'. El PAD, PRE y ACI no se mencionan en este apartado del tema."
+    },
+    {
+      "question": "¿Qué perspectiva se menciona expresamente en las propuestas metodológicas generales para reforzar la autoestima y eliminar estereotipos en el aprendizaje matemático?",
+      "options": [
+        "Perspectiva intercultural y de equidad",
+        "Perspectiva socioemocional y de género",
+        "Perspectiva constructivista y crítica",
+        "Perspectiva sociocultural y democrática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que todo debe abordarse 'desde una perspectiva socioemocional y de género que refuerce la autoestima, la motivación y la perseverancia, valore el error como fuente de aprendizaje y elimine estereotipos introduciendo referentes femeninos'."
+    },
+    {
+      "question": "¿Cuáles constituyen los dos ejes principales de la actividad matemática según las propuestas metodológicas del Decreto 155/2022?",
+      "options": [
+        "El cálculo aritmético y la geometría",
+        "Las destrezas socioemocionales y la resolución de problemas",
+        "El pensamiento lógico y el razonamiento abstracto",
+        "La estadística y la probabilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto afirma explícitamente que 'las destrezas socioemocionales y la resolución de problemas constituyen los dos ejes principales de la actividad matemática', abordándose transversalmente en toda el área. El resto son contenidos o bloques del área, no los ejes principales."
+    },
+    {
+      "question": "¿Qué metodología específica del área de Matemáticas trabaja en grupos heterogéneos para fomentar la resolución compartida de problemas y la escucha activa?",
+      "options": [
+        "Aprendizaje Basado en Proyectos",
+        "Aprendizaje cooperativo",
+        "Aprendizaje-servicio",
+        "Aprendizaje Basado en Problemas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje cooperativo es el que trabaja en 'grupos heterogéneos que fomenta la resolución compartida de problemas, la comunicación matemática y la escucha activa trabajando juntos para lograr un objetivo común'. El ABP parte de una cuestión del entorno con producto final."
+    },
+    {
+      "question": "¿Qué metodología permite abordar las matemáticas de forma globalizada, relacionándolas con otras áreas del currículo, aumentando la motivación y el razonamiento?",
+      "options": [
+        "Aprendizaje cooperativo en grupos heterogéneos",
+        "Aprendizaje-servicio comunitario",
+        "Unidades Integradas",
+        "Metacognición matemática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las Unidades Integradas permiten 'abordar las matemáticas de forma globalizada, relacionándolas con otras áreas del currículo y aumentando la motivación y el razonamiento del alumnado'. El aprendizaje cooperativo se centra en la colaboración; las Unidades Integradas en la globalización."
+    },
+    {
+      "question": "¿En qué se diferencia el Aprendizaje Basado en Proyectos (ABP) del Aprendizaje Basado en Problemas (ABPr) en el contexto del área de Matemáticas?",
+      "options": [
+        "El ABP se usa solo en matemáticas; el ABPr en todas las áreas",
+        "El ABP parte de una cuestión del entorno próximo con un producto final; el ABPr impulsa el pensamiento crítico ante situaciones problemáticas cercanas",
+        "El ABP fomenta el trabajo individual; el ABPr el trabajo cooperativo",
+        "El ABP evalúa competencias digitales; el ABPr evalúa competencias matemáticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ABP 'parte de una cuestión del entorno próximo con el fin de elaborar un producto final, aplicando de manera práctica conceptos algebraicos, geométricos o estocásticos', mientras que el ABPr 'impulsa el pensamiento lógico y crítico al plantear situaciones problemáticas cercanas'. La distinción clave es el producto final vs. el proceso de razonamiento."
+    },
+    {
+      "question": "¿Qué metodología específica del área de Matemáticas 'combina el aprendizaje con un servicio a la comunidad dotando el conocimiento matemático de un sentido social y utilidad'?",
+      "options": [
+        "Aprendizaje cooperativo",
+        "Aprendizaje Basado en Proyectos",
+        "Metacognición",
+        "Aprendizaje-servicio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El aprendizaje-servicio 'combina el aprendizaje con un servicio a la comunidad dotando el conocimiento matemático de un sentido social y utilidad'. El ABP elabora un producto final; la metacognición reflexiona sobre procesos de pensamiento propios."
+    },
+    {
+      "question": "¿Qué papel adopta el docente en las metodologías específicas del área de Matemáticas según el tema?",
+      "options": [
+        "Transmisor de conocimientos y evaluador de resultados finales",
+        "Mediador y guía que diseña situaciones de aprendizaje significativas",
+        "Facilitador de recursos digitales y gestor del aula virtual",
+        "Experto en contenidos matemáticos que explica y demuestra procedimientos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que 'el docente adopta un rol de mediador y guía diseñando situaciones de aprendizaje significativas y seleccionando recursos variados que favorezcan la exploración, la investigación y la interacción entre compañeros'. Las otras opciones corresponden a modelos más tradicionales o parciales."
+    },
+    {
+      "question": "¿Cuáles son algunos de los proyectos de innovación que la Xunta de Galicia promueve relacionados con las matemáticas y STEM?",
+      "options": [
+        "Erasmus+, eTwinning y STEM4Schools",
+        "Polos Creativos, Innova-Lab en modalidad Mat-Lab y PROA+",
+        "Plan Lector, Proxecto Faro y Plan de Bibliotecas Escolares",
+        "Programas de robótica educativa, olimpiadas matemáticas y ajedrez escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona específicamente los Polos Creativos, los proyectos Innova-Lab en la modalidad Mat-Lab, PROA+ para mejorar la competencia matemática, y dentro del Plan Proxecta, programas como Meteoescolas o Proxecto Terra. Las otras opciones no aparecen en el texto."
+    },
+    {
+      "question": "¿Dentro de qué plan de la Xunta de Galicia se enmarcan programas como Meteoescolas, Proxecto Terra, Recíclate con SOGAMA o Proxecto ríos?",
+      "options": [
+        "Plan de Mejora de Competencias Básicas",
+        "Plan Proxecta",
+        "Plan de Innovación Educativa",
+        "Plan STEM Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que 'dentro del Plan Proxecta, programas como Meteoescolas, Proxecto Terra, Recíclate con SOGAMA o Proxecto ríos' son ejemplos de proyectos de innovación relacionados con las matemáticas. Los demás planes no aparecen en el texto del tema."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen las Competencias Clave (CC)?",
+      "options": [
+        "Los aprendizajes básicos imprescindibles que debe adquirir el alumnado al finalizar cada ciclo",
+        "Los desempeños imprescindibles para que el alumnado progrese con garantías de éxito en su itinerario formativo y afronte los principales retos globales y locales",
+        "Las habilidades cognitivas que permiten al alumnado acceder a los conocimientos de cada área",
+        "Los indicadores de logro que miden el nivel de rendimiento del alumnado en cada materia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las CC como 'los desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo y afrontar los principales retos y desafíos globales y locales'. Las otras definiciones son parciales o incorrectas."
+    },
+    {
+      "question": "¿Las Competencias Clave del sistema educativo español son adaptación de qué documento europeo?",
+      "options": [
+        "La Carta Magna de la Educación de la Unión Europea de 2015",
+        "La Recomendación del Consejo de la Unión Europea del 22 de mayo de 2018",
+        "El Marco Europeo de Competencias del Parlamento Europeo de 2016",
+        "El Tratado de Lisboa sobre Educación y Formación de 2007"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las CC son la adaptación al sistema educativo de las competencias para el aprendizaje permanente establecidas en la Recomendación del Consejo de la Unión Europea del 22 de mayo de 2018. No son adaptación de una Carta Magna, ni del Tratado de Lisboa."
+    },
+    {
+      "question": "¿Dónde aparecen recogidas las Competencias Clave y los descriptores operativos en el marco del Decreto 155/2022?",
+      "options": [
+        "En el Anexo II de cada área curricular",
+        "En el perfil de salida del alumnado",
+        "En el Plan de Convivencia del centro",
+        "En los programas de diversificación curricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las CC aparecen recogidas en el perfil de salida del alumnado, que define el nivel competencial esperado al completar la educación básica. Los descriptores operativos concretan ese perfil de salida. El Anexo II recoge los contenidos de cada área."
+    },
+    {
+      "question": "¿Qué indica el artículo 16 del Decreto 155/2022 sobre las actividades y las Competencias Clave?",
+      "options": [
+        "Que cada actividad debe desarrollar de forma exclusiva una competencia clave específica",
+        "Que las actividades deben favorecer el desarrollo simultáneo de más de una de las ocho CC",
+        "Que las CC se desarrollan únicamente en las áreas instrumentales",
+        "Que el número mínimo de CC que debe desarrollar cada actividad es cuatro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16 del Decreto 155/2022 indica que 'las actividades deben favorecer el desarrollo simultáneo de más de una de las ocho CC', pues no puede establecerse una conexión exclusiva con una única área. Esta es la base del enfoque competencial integrador."
+    },
+    {
+      "question": "¿Con qué competencia clave se relaciona más estrechamente el área de Matemáticas cuando favorece el uso de mapas, la planificación de rutas o el diseño de planos mediante la visualización espacial?",
+      "options": [
+        "Competencia Digital (CD)",
+        "Competencia en Comunicación Lingüística (CCL)",
+        "Competencia en Matemáticas y Competencia en Ciencia, Tecnología e Ingeniería (STEM)",
+        "Competencia Personal, Social y de Aprender a Aprender (CPSAA)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto señala que la Competencia STEM implica la comprensión del mundo mediante el pensamiento y razonamiento matemático, y que 'el desarrollo de la visualización mejora la capacidad para construir y manipular mentalmente figuras en el plano y en el espacio, lo que favorece el uso de mapas, la planificación de rutas o el diseño de planos'."
+    },
+    {
+      "question": "¿Cómo contribuye el área de Matemáticas a la Competencia en Comunicación Lingüística (CCL)?",
+      "options": [
+        "A través de la lectura de textos matemáticos históricos y científicos",
+        "Mediante el lenguaje matemático para expresar información precisa, describir razonamientos y procesos, y desarrollar el espíritu crítico",
+        "Solo mediante la interpretación escrita de enunciados de problemas",
+        "A través del aprendizaje de la terminología matemática en lengua extranjera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de Matemáticas contribuye a la CCL porque 'presenta su propio lenguaje matemático para expresar información precisa', implica 'un aprendizaje para describir y explicar razonamientos y procesos' y desarrolla 'el espíritu crítico y la mejora de destrezas comunicativas'."
+    },
+    {
+      "question": "¿Cómo se justifica la contribución del área de Matemáticas a la Competencia Plurilingüe (CP) según el texto?",
+      "options": [
+        "Mediante el aprendizaje de vocabulario matemático en inglés y francés",
+        "A través del uso adecuado de la lengua castellana como vehículo de aprendizaje, en consonancia con el Decreto 79/2010",
+        "Mediante la resolución de problemas en contextos internacionales y multiculturales",
+        "A través de la lectura de textos matemáticos en diferentes lenguas oficiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CP se desarrolla mediante el uso adecuado de la lengua castellana como vehículo de aprendizaje, 'en consonancia con lo establecido en el Decreto 79/2010 para el fomento del plurilingüismo'. Este decreto regula el plurilingüismo en la enseñanza no universitaria de Galicia."
+    },
+    {
+      "question": "¿Qué aplicaciones tecnológicas se mencionan en el texto como beneficiosas para la comprensión de contenidos matemáticos complejos?",
+      "options": [
+        "Khan Academy, Photomath y Wolfram Alpha",
+        "Geogebra, Excel, Geometría Dinámica y Marhpapa",
+        "Desmos, Matlab y Mathematica",
+        "Google Classroom, Edmodo y Moodle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona específicamente 'aplicaciones como Geogebra, Excel, Geometría Dinámica o Marhpapa' como beneficiosas para comprender contenidos complejos. También menciona aplicaciones de programación como Scratch o Codemonkey, pero no las del resto de opciones."
+    },
+    {
+      "question": "¿Qué aplicaciones de programación se mencionan en el texto para contribuir a la Competencia Digital en el área de Matemáticas?",
+      "options": [
+        "Python y Java",
+        "Scratch y Codemonkey",
+        "Minecraft y Roblox",
+        "Logo y Alice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona específicamente 'otras de programación como Scratch o Codemonkey' para contribuir a la Competencia Digital. Python y Java son lenguajes de programación avanzados no mencionados; Minecraft y Logo tampoco aparecen en el texto."
+    },
+    {
+      "question": "¿Cómo contribuyen las Matemáticas a la Competencia Personal, Social y de Aprender a Aprender (CPSAA)?",
+      "options": [
+        "Desarrollando la gestión emocional y la inteligencia interpersonal del alumnado",
+        "Proporcionando herramientas básicas para afrontar aprendizajes de distintas áreas y potenciando estrategias metacognitivas",
+        "Fomentando la participación en proyectos de servicio comunitario y voluntariado",
+        "Mediante la comprensión de datos económicos y estadísticos para la vida ciudadana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Matemáticas contribuyen a la CPSAA porque su 'carácter instrumental proporciona herramientas básicas para afrontar aprendizajes de distintas áreas' y 'la verbalización de los procesos matemáticos ayuda a tomar conciencia sobre lo aprendido potenciando estrategias metacognitivas'."
+    },
+    {
+      "question": "¿Cómo contribuye el área de Matemáticas a la Competencia Emprendedora (CE)?",
+      "options": [
+        "A través de la creación de empresas simuladas y proyectos de economía escolar",
+        "Mediante la resolución de problemas planificando estrategias, gestionando recursos y valorando críticamente los resultados con autonomía",
+        "A través del desarrollo de habilidades financieras y de gestión económica personal",
+        "Mediante el diseño de proyectos tecnológicos con aplicación comercial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Matemáticas contribuyen a la CE 'a través de la resolución de problemas; planificando estrategias, gestionando recursos y valorando críticamente los resultados, con autonomía, iniciativa personal y confianza para afrontar nuevas situaciones'. No se trata de crear empresas sino de actitudes emprendedoras."
+    },
+    {
+      "question": "¿Cómo se desarrolla la Competencia Ciudadana (CC) a través del área de Matemáticas?",
+      "options": [
+        "Mediante el estudio de datos estadísticos sobre la realidad social y política",
+        "A través del trabajo en equipo valorando otros puntos de vista y estrategias para la resolución de problemas",
+        "Mediante el análisis crítico de noticias con contenido matemático",
+        "A través de la participación en olimpiadas matemáticas internacionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que la CC se desarrolla 'a través del trabajo en equipo valorando otros puntos de vista y estrategias para la resolución de problemas'. Los datos estadísticos se asocian más con la CD; el análisis de noticias no se menciona."
+    },
+    {
+      "question": "¿De qué manera contribuyen las Matemáticas a la Competencia en Conciencia y Expresión Culturales (CCEC)?",
+      "options": [
+        "Mediante el análisis de obras de arte contemporáneo con técnicas matemáticas",
+        "Exponiendo el papel de las matemáticas en el desarrollo cultural de la humanidad y comprendiendo datos históricos o las formas geométricas de obras artísticas",
+        "A través del estudio de la arquitectura matemática de los monumentos culturales gallegos",
+        "Mediante la creación de composiciones artísticas basadas en secuencias numéricas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Matemáticas contribuyen a la CCEC 'exponiendo su papel en el desarrollo cultural de la humanidad y comprendiendo datos históricos o las formas geométricas de las obras artísticas'. No se limita a Galicia ni a creaciones propias de los alumnos."
+    },
+    {
+      "question": "Según el Decreto 155/2022, ¿cuántos tipos de objetivos se distinguen en la organización del área de Matemáticas?",
+      "options": [
+        "Dos tipos: objetivos de etapa y objetivos de área",
+        "Cuatro tipos: ODS, objetivos de etapa, objetivos de ciclo y objetivos de área",
+        "Tres tipos: ODS, objetivos de etapa y objetivos de área",
+        "Un solo tipo de objetivos comunes a todas las áreas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto distingue tres tipos de objetivos: los 17 Objetivos de Desarrollo Sostenible de la Agenda 2030, los objetivos de etapa (recogidos en el artículo 7 del Decreto 155/2022) y los objetivos de área. No existen objetivos de ciclo diferenciados en esta clasificación."
+    },
+    {
+      "question": "¿Con qué ODS se relacionan más estrechamente las Matemáticas según el tema?",
+      "options": [
+        "ODS1 (Fin de la pobreza), ODS4 (Educación de Calidad) y ODS10 (Reducción de desigualdades)",
+        "ODS4 (Educación de Calidad), ODS8 (Trabajo decente y crecimiento económico) y ODS9 (Industria, Innovación e Infraestructura)",
+        "ODS3 (Salud y bienestar), ODS7 (Energía asequible) y ODS11 (Ciudades sostenibles)",
+        "ODS4 (Educación de Calidad), ODS5 (Igualdad de género) y ODS16 (Paz, justicia e instituciones sólidas)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que las matemáticas se relacionan estrechamente con el ODS4 'Educación de Calidad', ODS8 'Trabajo decente y crecimiento económico' y ODS9 'Industria, Innovación e Infraestructura'. Los otros ODS no se mencionan en esta relación específica."
+    },
+    {
+      "question": "¿Cuántos objetivos de etapa recoge la Educación Primaria en el artículo 7 del Decreto 155/2022?",
+      "options": [
+        "12 objetivos comunes a todas las áreas",
+        "15 objetivos comunes a todas las áreas",
+        "10 objetivos organizados por ciclos",
+        "18 objetivos distribuidos por bloques de contenidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que 'la etapa de EP recoge un total de 15 objetivos en el artículo 7 del Decreto citado, comunes a todas las áreas'. El objetivo 'g' es el que se vincula más estrechamente con el área de Matemáticas."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen los 'objetivos de área'?",
+      "options": [
+        "Los logros que se espera que alcance el alumnado al finalizar cada ciclo de la etapa",
+        "Los desempeños que el alumnado debe poder desplegar en actividades o situaciones cuyo abordaje requiere los aprendizajes asociados a los contenidos de cada área",
+        "Los criterios de evaluación adaptados a las necesidades del alumnado con necesidades específicas",
+        "Los estándares de aprendizaje evaluables que concretan los criterios de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 define los objetivos de área como 'los desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere los aprendizajes asociados a los contenidos de cada área'. Constituyen un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos."
+    },
+    {
+      "question": "¿Con qué elemento del RD 157/2022 se corresponden los objetivos de área del Decreto 155/2022?",
+      "options": [
+        "Con los estándares de aprendizaje evaluables",
+        "Con las competencias específicas",
+        "Con los saberes básicos",
+        "Con los perfiles de área"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que 'estos objetivos de área se corresponden con las competencias específicas establecidas en el RD 157/2022'. Los saberes básicos del RD 157/2022 se corresponden con los contenidos del Decreto 155/2022."
+    },
+    {
+      "question": "¿Cuántos objetivos de área tiene el área de Matemáticas según el Anexo II epígrafe 9.2 del Decreto 155/2022?",
+      "options": [
+        "6 objetivos de área",
+        "10 objetivos de área",
+        "8 objetivos de área",
+        "5 objetivos de área"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto establece que 'los objetivos de matemáticas se recogen en el Anexo II epígrafe 9.2 del Decreto 155/2022 siendo un total de 8'. Van desde OBJ1 hasta OBJ8 e incluyen desde la interpretación de situaciones hasta el desarrollo de destrezas sociales."
+    },
+    {
+      "question": "¿Cuál es el OBJ4 del área de Matemáticas según el Decreto 155/2022?",
+      "options": [
+        "Reconocer y utilizar conexiones entre ideas matemáticas e interrelacionar conceptos para interpretar diversas situaciones",
+        "Comunicar y representar conceptos, procedimientos y resultados matemáticos utilizando el lenguaje oral, escrito y gráfico",
+        "Utilizar el pensamiento computacional para organizar datos, reconocer patrones y crear algoritmos sencillos que permitan modelizar situaciones cotidianas",
+        "Desarrollar destrezas personales para identificar y gestionar emociones ante retos matemáticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ4 es 'Utilizar el pensamiento computacional para organizar datos, reconocer patrones y crear algoritmos sencillos que permitan modelizar situaciones de la vida cotidiana'. El OBJ5 es sobre conexiones; el OBJ6 sobre comunicación y representación; el OBJ7 sobre destrezas personales y emociones."
+    },
+    {
+      "question": "¿Qué objetivo de área del Decreto 155/2022 se centra en el desarrollo de 'destrezas sociales' para respetar las emociones de los demás y participar activamente en equipos heterogéneos?",
+      "options": [
+        "OBJ5",
+        "OBJ6",
+        "OBJ7",
+        "OBJ8"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El OBJ8 es 'Desarrollar destrezas sociales, para respetar las emociones y experiencias de los demás y el valor de la diversidad y participar activamente en equipos de trabajo heterogéneos, fomentando el bienestar personal y creando relaciones saludables'. El OBJ7 es sobre destrezas personales y emociones individuales."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen los 'contenidos' en el área de Matemáticas?",
+      "options": [
+        "Los temas y unidades didácticas organizados por ciclos y cursos de la etapa primaria",
+        "Los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario para adquirir el nivel de desempeño de los criterios de evaluación y lograr los objetivos",
+        "Los materiales curriculares y recursos didácticos seleccionados por el profesorado",
+        "Los indicadores de evaluación que miden el rendimiento del alumnado en cada bloque"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 define los contenidos como 'los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario para adquirir el nivel de desempeño de los criterios de evaluación y para el logro de los objetivos'. Se corresponden con los saberes básicos del RD 157/2022."
+    },
+    {
+      "question": "¿Con qué elemento del RD 157/2022 se corresponden los contenidos del Decreto 155/2022?",
+      "options": [
+        "Con las competencias específicas del RD 157/2022",
+        "Con los estándares de aprendizaje evaluables del RD 157/2022",
+        "Con los saberes básicos del RD 157/2022",
+        "Con los criterios de evaluación del RD 157/2022"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto indica que los contenidos del Decreto 155/2022 'se corresponden con los saberes básicos del RD 157/2022'. Los objetivos de área se corresponden con las competencias específicas del RD 157/2022."
+    },
+    {
+      "question": "¿En cuántos bloques se estructuran los contenidos del área de Matemáticas en el Decreto 155/2022?",
+      "options": [
+        "4 bloques organizados en torno al pensamiento matemático",
+        "5 bloques centrados en las competencias numéricas",
+        "6 bloques en torno al concepto de sentido matemático",
+        "7 bloques distribuidos por ciclos educativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto indica que 'los contenidos se estructuran en 6 bloques en torno al concepto de sentido matemático, desarrollados en el Anexo II del Decreto autonómico'. Estos son: sentido numérico, de la medida, espacial, algebraico y pensamiento computacional, estocástico, y socioemocional."
+    },
+    {
+      "question": "¿Cuál es el contenido principal del bloque 3 de Matemáticas 'sentido espacial' según el Decreto 155/2022?",
+      "options": [
+        "La comprensión y comparación de atributos de los objetos del mundo natural",
+        "El lenguaje matemático y las representaciones simbólicas",
+        "El conocimiento geométrico de los objetos, identificando, representando y clasificando figuras",
+        "La comprensión, representación y uso flexible de los números y operaciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El bloque 3 de 'sentido espacial' 'se focaliza en el conocimiento geométrico de los objetos, identificando, representando y clasificando figuras'. El bloque 1 (sentido numérico) trata números y operaciones; el bloque 2 (sentido de la medida) trata atributos y comparaciones."
+    },
+    {
+      "question": "¿Qué bloque de contenidos de Matemáticas integra el 'sentido estocástico' orientado hacia la estadística y probabilidad?",
+      "options": [
+        "Bloque 4: sentido algebraico y pensamiento computacional",
+        "Bloque 5: sentido estocástico",
+        "Bloque 6: sentido socioemocional",
+        "Bloque 3: sentido espacial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El bloque 5 de 'sentido estocástico' 'se orienta hacia la estadística y probabilidad con el razonamiento y la interpretación de datos matemáticos para una valoración crítica y toma de decisiones'. El bloque 4 es el algebraico y computacional."
+    },
+    {
+      "question": "¿Qué aspectos integra el bloque 6 de 'sentido socioemocional' del área de Matemáticas?",
+      "options": [
+        "El cálculo mental, la geometría y la estadística desde una perspectiva emocional",
+        "Conocimientos, destrezas y actitudes para entender emociones, valores de respeto, igualdad y resolución pacífica de conflictos, y el error como elemento de aprendizaje",
+        "El trabajo cooperativo, la autoregulación y la gestión del tiempo en el aprendizaje matemático",
+        "Las estrategias metacognitivas y la reflexión sobre los procesos de resolución de problemas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El bloque 6 de sentido socioemocional 'integra conocimientos, destrezas y actitudes necesarias para entender las emociones, los valores de respeto, igualdad y resolución pacífica de conflictos y muestra el error como elemento de aprendizaje'. Las otras opciones mezclan elementos de diferentes bloques."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen los 'criterios de evaluación'?",
+      "options": [
+        "Los estándares mínimos que debe alcanzar el alumnado para superar cada curso",
+        "Los referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a que se refieren los objetivos de cada área",
+        "Los instrumentos de evaluación utilizados por el profesorado para calificar al alumnado",
+        "Las rúbricas de evaluación que describen los criterios de calificación de cada prueba"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 define los criterios de evaluación como 'los referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a que se refieren los objetivos de cada área en un momento determinado de su proceso de aprendizaje'."
+    },
+    {
+      "question": "¿Cuál es uno de los aspectos más relevantes de los criterios de evaluación de Matemáticas que hace referencia a la valoración de estrategias de resolución de problemas?",
+      "options": [
+        "Evaluar únicamente el resultado final correcto de cada problema planteado",
+        "Valorar la comunicación de resultados, la selección de estrategias adecuadas, la revisión y corrección del procedimiento en caso de error",
+        "Medir exclusivamente la velocidad de cálculo mental y la automatización de algoritmos",
+        "Evaluar la capacidad memorística de fórmulas y propiedades matemáticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los aspectos más relevantes de los criterios de evaluación de Matemáticas está 'valorar estrategias de resolución de problemas como la comunicación de resultados, selección de estrategias adecuadas, revisión y corrección del procedimiento en caso de error o comprobación del resultado'. El proceso es tan importante como el resultado."
+    },
+    {
+      "question": "Según los criterios de evaluación del área de Matemáticas, ¿qué se evalúa en relación con los procesos de resolución de problemas?",
+      "options": [
+        "La memorización de los pasos del algoritmo estándar para cada tipo de problema",
+        "La velocidad en obtener la solución y la presentación ordenada del trabajo",
+        "Los procesos, fases, planteamientos y validez de resultados, siendo capaces de reflexionar sobre ellos",
+        "La corrección gramatical de los enunciados que el alumnado redacta sobre los problemas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los criterios de evaluación incluyen 'evaluar los procesos en la resolución de problemas, fases, planteamientos y validez de resultados siendo capaces de reflexionar sobre ellos'. Se valora el proceso reflexivo y no solo el resultado final o la velocidad."
+    },
+    {
+      "question": "¿Qué establece el artículo 3 del Decreto 155/2022 sobre la organización y el carácter de las áreas en la Educación Primaria?",
+      "options": [
+        "Que las áreas se organizan de forma independiente para garantizar la especialización del alumnado",
+        "Que la EP se organiza en áreas con carácter global e integrador desarrollando en todas ellas la competencia matemática",
+        "Que cada área tiene un carácter autónomo sin conexión obligatoria con el resto del currículo",
+        "Que las áreas se organizan por ciclos con criterios de evaluación diferenciados para cada uno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 3 del Decreto 155/2022 establece que 'la EP se organiza en áreas con un carácter global e integrador desarrollando en todas ellas la competencia matemática como instrumento para la interpretación del mundo y resolución de problemas'."
+    },
+    {
+      "question": "¿Qué señala Cantero (2010) sobre la relación entre el lenguaje y las matemáticas?",
+      "options": [
+        "Que el lenguaje matemático debe enseñarse de forma aislada para evitar interferencias lingüísticas",
+        "Que el alumnado comprende mejor las situaciones cuando interrelaciona el lenguaje oral y escrito con el lenguaje matemático",
+        "Que las matemáticas no precisan del lenguaje verbal para su comprensión",
+        "Que el lenguaje matemático sustituye al lenguaje oral en la comprensión de los enunciados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cantero (2010) señala que 'el alumnado comprende mejor las situaciones cuando interrelaciona el lenguaje oral y escrito con el lenguaje matemático'. Esta interrelación es fundamental para comprender los enunciados de los problemas y expresar razonamientos."
+    },
+    {
+      "question": "¿Cómo se relaciona el área de Matemáticas con las Ciencias de la Naturaleza y las Ciencias Sociales?",
+      "options": [
+        "Mediante el uso de las matemáticas exclusivamente para el cálculo de datos estadísticos de las ciencias",
+        "A través de la aplicación de las matemáticas en el medio en que vive el niño, adquiriendo instrumentos para explorar, representar y predecir la realidad",
+        "Mediante la resolución conjunta de problemas de biología y geografía con fórmulas matemáticas",
+        "Solo a través de las gráficas y tablas que representan fenómenos naturales y sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las matemáticas se aplican 'en el medio en el que vive el niño'. Su aprendizaje implica 'la adquisición de instrumentos para explorar, representar, explicar y predecir la realidad, a la vez que potencia el pensamiento abstracto para recoger información del mundo natural'."
+    },
+    {
+      "question": "¿De qué manera se relacionan las Matemáticas con la Educación Física según el texto?",
+      "options": [
+        "Mediante el cálculo de estadísticas deportivas y marcas de los alumnos",
+        "A través de las nociones matemáticas beneficiosas para desarrollar la orientación y representación espacial mediante la medida de distancia y tiempo",
+        "Mediante el uso de algoritmos matemáticos para diseñar circuitos de ejercicios físicos",
+        "Solo a través de la medición de capacidades físicas como velocidad y resistencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área de Educación Física se relaciona con las Matemáticas porque 'las nociones matemáticas son beneficiosas para desarrollar la orientación y la representación espacial a través de medida de distancia y tiempo'. La relación es principalmente espacial y de medida."
+    },
+    {
+      "question": "¿Cómo se relacionan las Matemáticas con la Educación Plástica y Visual, y con Música y Danza?",
+      "options": [
+        "A través de la historia del arte y la música desde una perspectiva matemática",
+        "Mediante la representación espacial, las mediciones y el espacio geométrico necesarios para producciones artísticas, y la comprensión del tiempo como magnitud para el ritmo musical",
+        "Solo mediante el uso de la regla y el compás en producciones artísticas",
+        "Mediante el estudio de las proporciones áureas y las series de Fibonacci en el arte"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que desde las Matemáticas se trabaja 'la representación y la percepción espacial, las mediciones y el espacio geométrico necesarios para crear producciones artísticas' y 'la comprensión de la noción del tiempo como magnitud para ejecutar el ritmo y la duración de las composiciones musicales'."
+    },
+    {
+      "question": "¿Cómo se relaciona el área de Matemáticas con el área de Proyecto Competencial?",
+      "options": [
+        "A través del diseño de proyectos matemáticos interdisciplinares entre varias áreas",
+        "Mediante la investigación y exploración, potenciando habilidades para buscar, seleccionar, recoger y comprender datos y secuenciar pasos para resolver problemas",
+        "A través del desarrollo de las competencias digitales en contextos matemáticos",
+        "Mediante la evaluación conjunta de competencias a través de rúbricas compartidas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Matemáticas se relacionan con Proyecto Competencial 'a través de la investigación y exploración, potenciando habilidades para buscar, seleccionar, recoger y comprender datos y secuenciar pasos para resolver problemas'."
+    },
+    {
+      "question": "¿En qué curso se añade el área de Valores Cívicos y Éticos según el artículo 9 del Decreto 155/2022?",
+      "options": [
+        "En cuarto curso de Educación Primaria",
+        "En quinto curso de Educación Primaria",
+        "En sexto curso de Educación Primaria",
+        "En el tercer ciclo de Educación Primaria (5.º y 6.º)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 9 del Decreto 155/2022 establece que 'en sexto curso se añade el área de Valores Cívicos y Éticos'. Las Matemáticas se relacionan con esta área a través del respeto a las opiniones de otros y los distintos métodos para resolver problemas."
+    },
+    {
+      "question": "¿Qué elementos transversales del artículo 17 del Decreto 155/2022 deben incluirse en el área de Matemáticas?",
+      "options": [
+        "Solo la comprensión lectora y la competencia digital",
+        "La comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, la CD, la creatividad, el espíritu científico y emprendedor, entre otros",
+        "Únicamente los relacionados con la salud y el consumo responsable",
+        "Solo los elementos de convivencia y resolución pacífica de conflictos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 17 del Decreto 155/2022 establece que en Matemáticas se debe incluir 'la comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, la CD, la creatividad, el espíritu científico y emprendedor, la resolución pacífica de conflictos, el consumo responsable, el desarrollo sostenible, la educación para la salud, la justicia, la igualdad, la democracia o el respeto por los derechos humanos', entre otros."
+    },
+    {
+      "question": "¿Qué frase de Guerrero (2005) se cita en las conclusiones del tema para destacar la relevancia de las Matemáticas?",
+      "options": [
+        "'Las matemáticas son el lenguaje universal de la ciencia y la tecnología'",
+        "'Las matemáticas se aprenden y se enseñan, pero también se crean, se utilizan y sirven para aprender otras cosas'",
+        "'El verdadero aprendizaje matemático surge de la resolución de problemas reales'",
+        "'Las matemáticas son el fundamento del pensamiento lógico y científico del ser humano'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Guerrero (2005) afirma que 'Las matemáticas se aprenden y se enseñan, pero también se crean, se utilizan y, sirven para aprender otras cosas'. Esta cita sirve para destacar la relevancia multidimensional de las matemáticas como saber poderoso."
+    },
+    {
+      "question": "¿Qué implica el concepto de 'saber hacer' en el aprendizaje de las Matemáticas según las conclusiones del tema?",
+      "options": [
+        "La memorización de algoritmos y procedimientos matemáticos estándar",
+        "El uso del lenguaje matemático, el análisis de situaciones y la elaboración de estrategias para su resolución",
+        "La capacidad de realizar cálculos rápidos y precisos de forma automatizada",
+        "La adquisición de conocimientos matemáticos teóricos aplicables a situaciones académicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aprender matemáticas implica un 'saber hacer' basado en 'el uso del lenguaje matemático, el análisis de situaciones y la elaboración de estrategias para su resolución'. No se trata de memorización ni de cálculo automático."
+    },
+    {
+      "question": "¿Por qué se destaca en las conclusiones la importancia de detectar de forma temprana las dificultades en el área de Matemáticas?",
+      "options": [
+        "Para poder segregar al alumnado con dificultades en grupos de nivel homogéneo",
+        "Para ofrecer una respuesta educativa preventiva y ajustada a las necesidades individuales, siendo el DUA una herramienta clave",
+        "Para derivar al alumnado con dificultades a programas de apoyo externos al centro",
+        "Para informar a las familias sobre el nivel de rendimiento de sus hijos antes de fin de curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las conclusiones destacan la importancia de 'detectar de forma temprana posibles dificultades y de ofrecer una respuesta educativa preventiva y ajustada a las necesidades individuales, siendo el DUA una herramienta clave para garantizar la accesibilidad y la personalización de la enseñanza'."
+    },
+    {
+      "question": "¿Qué es la 'alfabetización numérica' como objetivo de las Matemáticas según el texto?",
+      "options": [
+        "El aprendizaje de los números naturales, enteros y decimales con sus operaciones básicas",
+        "La adquisición de conocimientos, habilidades y destrezas para entender una situación, plantearla como problema y usar el razonamiento matemático para buscar una solución",
+        "La capacidad de leer y escribir números en diferentes sistemas de numeración",
+        "El dominio del cálculo escrito y mental hasta el nivel requerido para la vida cotidiana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La alfabetización numérica implica 'la adquisición de conocimientos, habilidades y destrezas para entender una situación, plantearla como problema y usar el razonamiento matemático para buscar una solución del contexto cotidiano, seleccionar las herramientas adecuadas, interpretar las soluciones en contexto y tomar decisiones estratégicas'."
+    },
+    {
+      "question": "¿Cuál es la Ley Orgánica que modifica la LOE y que sirve de marco legislativo para el área de Matemáticas en EP según el tema?",
+      "options": [
+        "Ley Orgánica 8/2013, de 9 de diciembre (LOMCE)",
+        "Ley Orgánica 1/1990, de 3 de octubre (LOGSE)",
+        "Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)",
+        "Ley Orgánica 2/2006, de 3 de mayo (LOE)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El marco legislativo se fundamenta en la 'Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOMLOE)'. La LOE es la ley modificada, no el marco vigente; la LOMCE fue derogada por la LOMLOE."
+    },
+    {
+      "question": "¿Cuál es el Decreto autonómico gallego que establece la ordenación y el currículo de la Educación Primaria actualmente vigente?",
+      "options": [
+        "Decreto 229/2011, de 7 de diciembre, de atención a la diversidad",
+        "Decreto 79/2010, de 20 de mayo, para el plurilingüismo",
+        "Decreto 155/2022, de 15 de septiembre, de la EP en la Comunidad Autónoma de Galicia",
+        "Decreto 374/1996, de 17 de octubre, sobre la EP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, es el que establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Galicia actualmente vigente. El Decreto 79/2010 regula el plurilingüismo; el Decreto 229/2011 regula la atención a la diversidad."
+    },
+    {
+      "question": "¿Cuál es el Real Decreto de mínimos que establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal?",
+      "options": [
+        "RD 157/2022, de 1 de marzo",
+        "RD 126/2014, de 28 de febrero",
+        "RD 1190/2012, de 3 de agosto",
+        "RD 825/2010, de 25 de junio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, es el que establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal, en desarrollo de la LOMLOE. El RD 126/2014 correspondía a la LOMCE."
+    },
+    {
+      "question": "¿Cuál es la Orden autonómica gallega que desarrolla el Decreto 155/2022 y regula la evaluación en la Educación Primaria?",
+      "options": [
+        "Orden de 22 de julio de 1997, modificada por el Decreto 374/1996",
+        "Orden de 26 de mayo de 2023, publicada en el DOG el 13 de junio de 2023",
+        "Orden de 8 de mayo de 2025, sobre el calendario escolar",
+        "Orden de 5 de junio de 2021, sobre procedimientos de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022 y regula la evaluación en la EP en Galicia, publicada en el DOG número 111, de 13 de junio de 2023. La Orden de 22 de julio corresponde a normativa anterior."
+    },
+    {
+      "question": "¿Qué señala Godino et al. (2003) sobre la importancia de las Matemáticas según el texto introductorio?",
+      "options": [
+        "Que las matemáticas son fundamentales para el desarrollo del pensamiento científico abstracto",
+        "Que destaca su importancia para interpretar información de los medios de comunicación y desarrollarse en la vida diaria favoreciendo competencias numéricas, geométricas, estadísticas y de medida esenciales",
+        "Que las matemáticas deben enseñarse de forma manipulativa en todos los ciclos de la EP",
+        "Que la resolución de problemas debe ser el único método de enseñanza matemática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Godino et al. (2003) destaca la importancia de las Matemáticas 'para interpretar información de los medios de comunicación y para desarrollarse en la vida diaria, al favorecer las competencias numéricas, geométricas, estadísticas y de medida esenciales'."
+    },
+    {
+      "question": "¿Qué competencia del alumnado contribuye a mejorar el área de Matemáticas a través del vocabulario específico del área?",
+      "options": [
+        "La competencia digital y el manejo de herramientas tecnológicas",
+        "La competencia emprendedora y la iniciativa personal",
+        "La competencia comunicativa",
+        "La competencia en conciencia y expresión culturales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto indica que el área de Matemáticas 'contribuye a la mejora de la competencia comunicativa mediante el empleo del vocabulario específico del área'. El lenguaje matemático preciso enriquece la competencia comunicativa general del alumnado."
+    },
+    {
+      "question": "¿Cómo se favorece el desarrollo de 'elementos transversales' en el área de Matemáticas según el texto?",
+      "options": [
+        "Mediante la inclusión de contenidos de otras áreas en las unidades didácticas matemáticas",
+        "Preparando al alumnado para el ejercicio de una ciudadanía y participación activa en la vida económica, social, cultural y tecnológica con actitud crítica y responsable",
+        "A través de actividades interdisciplinares que combinen matemáticas con lengua y ciencias",
+        "Mediante la evaluación conjunta de los elementos transversales en las pruebas de competencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Matemáticas 'favorecen el trabajo de elementos transversales preparando al alumnado para el ejercicio de una ciudadanía y participación activa en la vida económica, social, cultural y tecnológica, con una actitud crítica y responsable'."
+    },
+    {
+      "question": "¿Qué se entiende por el 'carácter vivencial y funcional' del área de Matemáticas?",
+      "options": [
+        "Que las matemáticas se aprenden fundamentalmente a través de la experiencia física y la manipulación de objetos",
+        "La construcción de conocimientos a partir de las propias vivencias y percepción del mundo para resolver problemas de la vida cotidiana",
+        "Que las matemáticas tienen una función práctica exclusiva en el ámbito económico y laboral",
+        "Que el aprendizaje matemático se basa en situaciones vitales del contexto familiar del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El carácter vivencial y funcional de las Matemáticas consiste en 'construir conocimientos a partir de las propias vivencias y percepción del mundo para resolver problemas de la vida cotidiana'. Es más amplio que la sola manipulación física y va más allá del ámbito económico."
+    },
+    {
+      "question": "Según el texto, ¿cómo se garantiza el uso seguro, eficaz y responsable de las TIC en el área de Matemáticas?",
+      "options": [
+        "Mediante la prohibición de dispositivos móviles en las clases de matemáticas",
+        "A través del uso de contraseñas seguras y la protección de datos en las plataformas matemáticas",
+        "Mediante la digitalización de los entornos de aprendizaje integrada en la enseñanza del área",
+        "A través de la formación específica del profesorado en ciberseguridad matemática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto señala que el área promueve 'un uso seguro, eficaz y responsable de las TIC, debido a la digitalización de los entornos de aprendizaje'. La integración de las TIC en el proceso de aprendizaje es la forma de garantizar su uso apropiado."
+    },
+    {
+      "question": "¿Qué se entiende por 'metacognición' en el contexto de las metodologías específicas del área de Matemáticas?",
+      "options": [
+        "La evaluación del rendimiento matemático mediante pruebas estandarizadas",
+        "La reflexión sobre los propios procesos de pensamiento, estrategias y errores en el aprendizaje matemático",
+        "El conocimiento de los conceptos matemáticos más abstractos y complejos del currículo",
+        "La capacidad de resolver problemas matemáticos de nivel superior al correspondiente a la edad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La metacognición 'resulta esencial para reflexionar sobre los propios procesos de pensamiento, estrategias y errores' en el aprendizaje matemático. Es una habilidad de orden superior que permite al alumnado regular su propio aprendizaje."
+    },
+    {
+      "question": "¿Qué aspecto curricular se destaca como fundamental en la organización de los contenidos del área de Matemáticas, abordándose transversalmente en todos los bloques?",
+      "options": [
+        "El cálculo mental y la automatización de algoritmos matemáticos",
+        "El pensamiento computacional y la programación básica",
+        "La resolución de problemas y las destrezas emocionales",
+        "La geometría plana y espacial como base del razonamiento matemático"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto indica explícitamente que 'la resolución de problemas y las destrezas emocionales se abordan y evalúan de forma transversal en todos los bloques' de contenido del área de Matemáticas en el Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué establece el artículo 16 del Decreto 155/2022 en relación con los principios pedagógicos para el área de Matemáticas?",
+      "options": [
+        "Los principios de evaluación continua y formativa para la mejora del rendimiento",
+        "Los principios pedagógicos que orientan la metodología y la organización del área",
+        "Los criterios de agrupamiento del alumnado para las actividades cooperativas",
+        "Los criterios de selección de materiales didácticos y recursos tecnológicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16 del Decreto 155/2022 recoge los principios pedagógicos que orientan la metodología. Es el artículo al que se hace referencia junto a las aportaciones de Cantero (2010) y Godino et al. (2003) para establecer las propuestas metodológicas generales, y también indica que las actividades deben favorecer el desarrollo simultáneo de más de una CC."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el concepto de 'competencias básicas' de la LOE y el de 'competencias clave' de la LOMLOE?",
+      "options": [
+        "Las competencias clave son más específicas y centradas en cada área curricular",
+        "Las competencias clave son la versión actualizada que sustituye al término 'competencias básicas' de la LOE",
+        "Las competencias básicas incluían ocho dimensiones; las clave incluyen diez",
+        "Las competencias clave son solo para la etapa obligatoria; las básicas eran para toda la enseñanza"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que el concepto de competencias clave 'sustituye al término competencias básicas de la LOE'. Es un cambio terminológico que refleja la actualización del marco europeo de referencia adoptado en la Recomendación del Consejo de la UE de 2018."
+    },
+    {
+      "question": "¿Cuál es el bloque de contenidos del área de Matemáticas que aborda la comprensión y uso flexible de los números y operaciones?",
+      "options": [
+        "Bloque 2: sentido de la medida",
+        "Bloque 4: sentido algebraico y pensamiento computacional",
+        "Bloque 1: sentido numérico",
+        "Bloque 5: sentido estocástico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El bloque 1 de 'sentido numérico' 'se centra en la comprensión, representación y uso flexible de los números y operaciones'. El bloque 4 es el algebraico; el bloque 2 trata la medida y comparación de atributos."
+    },
+    {
+      "question": "¿Qué contiene el bloque 4 de 'sentido algebraico y pensamiento computacional' del área de Matemáticas?",
+      "options": [
+        "El conocimiento de las figuras geométricas planas y espaciales",
+        "El lenguaje matemático y las representaciones simbólicas",
+        "La estadística y probabilidad con el razonamiento e interpretación de datos",
+        "La comprensión y comparación de atributos mensurables de los objetos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El bloque 4 de 'sentido algebraico y pensamiento computacional' 'se centra en el lenguaje matemático y las representaciones simbólicas'. El bloque 5 (sentido estocástico) aborda estadística y probabilidad; el bloque 3 (sentido espacial) trata figuras geométricas."
+    },
+    {
+      "question": "¿Qué criterio de evaluación del área de Matemáticas valora específicamente el uso de medios tecnológicos?",
+      "options": [
+        "Evaluar la capacidad del alumnado para programar en lenguajes de código básico",
+        "Valorar la capacidad para utilizar medios tecnológicos en la búsqueda, selección, organización y comunicación de información matemática",
+        "Valorar el uso de calculadoras y hojas de cálculo en operaciones complejas",
+        "Evaluar la creación de presentaciones digitales sobre conceptos matemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los criterios de evaluación del área de Matemáticas se incluye 'valorar la capacidad para utilizar medios tecnológicos en la búsqueda, selección, organización y comunicación de información matemática'. Es más amplio que el uso de calculadoras o la programación básica."
+    },
+    {
+      "question": "¿Cuál es el criterio de evaluación matemático que se relaciona directamente con la toma de decisiones?",
+      "options": [
+        "Evaluar la precisión en el cálculo mental y escrito de operaciones básicas",
+        "Valorar la comprensión e interpretación de diferentes tipos de números",
+        "Evaluar la capacidad para tomar decisiones",
+        "Valorar la comunicación matemática oral y escrita de resultados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto menciona específicamente como uno de los criterios de evaluación 'evaluar la capacidad para tomar decisiones'. Esta capacidad se vincula con el razonamiento matemático para valorar críticamente los resultados y elegir estrategias."
+    },
+    {
+      "question": "¿Qué autor publicó 'Fundamentos de la enseñanza y el aprendizaje de las matemáticas' utilizado como referencia en el tema?",
+      "options": [
+        "Cantero, N.P. (2010)",
+        "Rico, L. y Flores, P. (2015)",
+        "Guerrero, A. (2005)",
+        "Godino, J.D., Batanero, C. y Font, V. (2003)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La obra 'Fundamentos de la enseñanza y el aprendizaje de las matemáticas' fue publicada por Godino, J.D., Batanero, C. y Font, V. en 2003 por la Universidad de Granada. Cantero (2010) publicó sobre el área de matemáticas en el currículo; Rico y Flores (2015) sobre enseñanza y aprendizaje."
+    },
+    {
+      "question": "¿Cuál es la obra de Rico y Flores (2015) citada en la bibliografía del tema?",
+      "options": [
+        "'Fundamentos de la enseñanza y el aprendizaje de las matemáticas'",
+        "'El área de matemáticas en el currículo de Educación Primaria'",
+        "'Enseñanza y aprendizaje de las matemáticas en Educación Primaria'",
+        "'Aprender a enseñar matemáticas'"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rico, L. y Flores, P. (2015) publicaron 'Enseñanza y aprendizaje de las matemáticas en Educación Primaria', editado en Madrid por Pirámide. 'Fundamentos de la enseñanza...' es de Godino et al.; 'El área de matemáticas...' es de Cantero; 'Aprender a enseñar matemáticas' es de Guerrero (Coord.)."
+    },
+    {
+      "question": "¿Dónde publicó Cantero (2010) el artículo sobre el área de matemáticas en el currículo de Educación Primaria?",
+      "options": [
+        "En la Revista de Educación del Ministerio de Educación",
+        "En la revista Innovación y Experiencias educativas, número 32",
+        "En la revista Matemáticas y sus didácticas",
+        "En los cuadernos de pedagogía de la Xunta de Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cantero, N.P. (2010) publicó 'El área de matemáticas en el currículo de Educación Primaria' en la revista 'Innovación y Experiencias educativas', número (32). Las otras publicaciones no corresponden a esta referencia bibliográfica."
+    },
+    {
+      "question": "¿Qué se especifica sobre la metodología matemática en relación con los contextos de aprendizaje según las propuestas generales?",
+      "options": [
+        "Que debe partir exclusivamente de situaciones de juego y actividades lúdicas",
+        "Que debe partir de contextos funcionales, reales y cotidianos, así como de contextos genuinamente matemáticos",
+        "Que debe centrarse en contextos abstractos para desarrollar el pensamiento formal",
+        "Que debe priorizar los contextos académicos y escolares sobre los cotidianos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La metodología debe partir 'de contextos funcionales, reales y cotidianos así como de contextos genuinamente matemáticos a partir de la actividad del alumnado'. No se limita a lo lúdico ni a lo abstracto, sino que incluye tanto lo cotidiano como lo propiamente matemático."
+    },
+    {
+      "question": "Según las propuestas metodológicas generales, ¿cuál es la secuencia correcta que debe seguir el proceso de aprendizaje matemático?",
+      "options": [
+        "Abstracción → Representación → Manipulación → Vivencia",
+        "Vivencia → Manipulación → Representación → Abstracción",
+        "Representación → Manipulación → Vivencia → Formalización",
+        "Formalización → Representación → Manipulación → Aplicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que en toda situación de aprendizaje debe estar presente 'la vivencia, manipulación, representación y abstracción' (en este orden). Esto es coherente con el enfoque gradual: de lo concreto (vivencia) hacia lo abstracto (abstracción). La dirección inversa sería el enfoque deductivo."
+    },
+    {
+      "question": "¿Qué función tienen los 'materiales manipulativos' en la metodología matemática según las propuestas generales del tema?",
+      "options": [
+        "Son recursos opcionales que pueden utilizarse cuando el alumnado tiene dificultades de abstracción",
+        "Son recursos fundamentales: ábacos, recortes de figuras, instrumentos de medición, que favorecen la vivencia y experimentación",
+        "Son materiales exclusivos para el primer ciclo de la EP, cuando el alumnado aún no ha adquirido la abstracción",
+        "Son complementos del libro de texto para ilustrar conceptos matemáticos complejos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La metodología debe 'dar importancia a los materiales introduciendo recursos manipulativos como ábacos, recortes de figuras o instrumentos de medición'. Estos son recursos fundamentales para la vivencia, manipulación y experimentación en todos los ciclos, no solo el primero."
+    },
+    {
+      "question": "¿Cómo define el Decreto 155/2022 el concepto de 'objetivos de etapa' en el artículo 6?",
+      "options": [
+        "Los desempeños mínimos que el alumnado debe alcanzar en cada área al finalizar cada ciclo",
+        "Los logros que se espera que alcance el alumnado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las CC",
+        "Los indicadores de progreso que orientan la evaluación continua a lo largo de toda la etapa",
+        "Los objetivos específicos de cada área que concretan los criterios de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define los objetivos de etapa como 'los logros que se espera que alcance el alumnado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las CC'. Son logros globales al final de la etapa, no por ciclos ni específicos de área."
+    },
+    {
+      "question": "¿En qué artículo y qué decreto se establecen los principios pedagógicos que orientan las propuestas metodológicas del área de Matemáticas?",
+      "options": [
+        "Artículo 3 del Decreto 155/2022, sobre la organización de la EP",
+        "Artículo 16 del Decreto 155/2022, sobre principios pedagógicos",
+        "Artículo 7 del Decreto 155/2022, sobre objetivos de etapa",
+        "Artículo 9 del Decreto 155/2022, sobre áreas de la EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona que 'atendiendo a los principios pedagógicos recogidos en el artículo 16 del citado decreto' se establecen las propuestas metodológicas generales para el área de Matemáticas. El artículo 7 recoge los objetivos de etapa; el artículo 3 la organización general."
+    },
+    {
+      "question": "¿Qué modelo pedagógico establece el texto como base para la enseñanza de las Matemáticas en relación con la interdisciplinariedad?",
+      "options": [
+        "Modelo constructivista centrado en los procesos cognitivos del alumnado",
+        "Modelo globalizador en el que los contenidos se trabajan de forma interdisciplinar y transversal con todas las áreas",
+        "Modelo por competencias que integra los contenidos en proyectos transversales",
+        "Modelo sociocultural que parte de las experiencias comunitarias del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto establece que 'la enseñanza de las matemáticas debe partir de un modelo globalizador en el que los contenidos se trabajen de forma interdisciplinar y transversal con todas las áreas'. Este modelo globalizador es el que sustenta la relación con otras áreas del currículo."
+    },
+    {
+      "question": "¿Cuál es la obra de Guerrero (2005) citada en el tema?",
+      "options": [
+        "'Las matemáticas en la escuela primaria: entre la teoría y la práctica'",
+        "'A casi 13 años… y sigue las matemáticas dando! Algunas reflexiones en torno a la enseñanza de la aritmética'",
+        "'Fundamentos didácticos para la enseñanza de las matemáticas en primaria'",
+        "'Resolución de problemas como eje central del currículo de matemáticas'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Guerrero, A. (2005) publicó 'A casi 13 años… y sigue las matemáticas dando! Algunas reflexiones en torno a la enseñanza de la aritmética' en la obra colectiva 'Aprender a enseñar matemáticas', coordinada por Guerrero, A. y Vidales, I."
+    },
+    {
+      "question": "¿Cuál es el OBJ1 del área de Matemáticas según el Decreto 155/2022?",
+      "options": [
+        "Resolver situaciones problematizadas aplicando diferentes técnicas y estrategias de razonamiento",
+        "Interpretar situaciones de la vida cotidiana proporcionando una representación matemática a través de conceptos, herramientas y estrategias para analizar información",
+        "Formular y comprobar conjeturas sencillas en situaciones de la vida cotidiana valorando el razonamiento y la argumentación",
+        "Utilizar el pensamiento computacional para organizar datos y reconocer patrones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ1 es 'Interpretar situaciones de la vida cotidiana proporcionando una representación matemática a través de conceptos, herramientas y estrategias para analizar información'. El OBJ2 es sobre resolución de situaciones; el OBJ3 sobre formulación de conjeturas; el OBJ4 sobre pensamiento computacional."
+    },
+    {
+      "question": "¿Cuál es el OBJ7 del área de Matemáticas según el Decreto 155/2022?",
+      "options": [
+        "Comunicar y representar conceptos, procedimientos y resultados matemáticos utilizando el lenguaje oral, escrito y gráfico",
+        "Reconocer y utilizar conexiones entre ideas matemáticas con otras áreas o situaciones de la vida cotidiana",
+        "Desarrollar destrezas personales para identificar y gestionar emociones ante retos matemáticos, fomentando la confianza y aceptando el error",
+        "Desarrollar destrezas sociales para respetar las emociones de los demás y participar en equipos heterogéneos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ7 es 'Desarrollar destrezas personales para identificar y gestionar emociones ante retos matemáticos, fomentando la confianza, aceptando el error como parte del aprendizaje y la incertidumbre, para mejorar la perseverancia y disfrutar del aprendizaje'. El OBJ8 es sobre destrezas sociales; el OBJ6 sobre comunicación."
+    },
+    {
+      "question": "¿Qué relación existe entre los objetivos de área del Decreto 155/2022 y el perfil de salida del alumnado?",
+      "options": [
+        "Los objetivos de área sustituyen al perfil de salida en la evaluación del alumnado",
+        "Los objetivos de área son un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos",
+        "El perfil de salida deriva directamente de los objetivos de área sin mediación de otros elementos",
+        "Los objetivos de área se utilizan para elaborar las programaciones de aula independientemente del perfil de salida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que los objetivos de área 'son un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos'. Forman parte de la cadena curricular que relaciona las grandes metas del sistema con los referentes concretos de evaluación."
+    },
+    {
+      "question": "¿Qué OBJ del área de Matemáticas establece la necesidad de 'formular y comprobar conjeturas sencillas o problemas matemáticos en situaciones de la vida cotidiana, valorando el razonamiento y la argumentación'?",
+      "options": [
+        "OBJ1",
+        "OBJ2",
+        "OBJ3",
+        "OBJ4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ3 es 'Formular y comprobar conjeturas sencillas o problemas matemáticos en situaciones de la vida cotidiana, valorando el razonamiento y la argumentación, para construir nuevo conocimiento'. El OBJ1 es sobre interpretar situaciones; el OBJ2 sobre resolver situaciones."
+    },
+    {
+      "question": "¿Cuál es el OBJ5 del área de Matemáticas según el Decreto 155/2022?",
+      "options": [
+        "Utilizar el pensamiento computacional para organizar datos y reconocer patrones",
+        "Comunicar y representar conceptos matemáticos utilizando el lenguaje oral, escrito y gráfico",
+        "Reconocer y utilizar conexiones entre ideas matemáticas, con otras áreas o situaciones de la vida cotidiana, interrelacionando conceptos para interpretar diversas situaciones",
+        "Desarrollar destrezas personales para identificar y gestionar emociones ante retos matemáticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ5 es 'Reconocer y utilizar conexiones entre ideas matemáticas, con otras áreas o situaciones de la vida cotidiana interrelacionando conceptos para interpretar diversas situaciones y contextos'. El OBJ4 es sobre pensamiento computacional; el OBJ6 sobre comunicación y representación."
+    },
+    {
+      "question": "¿Qué característica de las Matemáticas justifica su interdisciplinariedad y presencia transversal a través de habilidades lingüísticas de comprensión y expresión?",
+      "options": [
+        "El carácter formativo del área",
+        "El carácter instrumental del área, al ser junto con la LCL el área para adquirir conocimientos del resto de áreas",
+        "El carácter constructivo y gradual del área",
+        "El carácter vivencial y funcional del área"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El carácter instrumental de las Matemáticas 'justifica su interdisciplinariedad y su presencia transversal a través del desarrollo de habilidades lingüísticas de comprensión y expresión oral y escrita al interpretar y exponer datos o del uso de gráficas y tablas'."
+    },
+    {
+      "question": "¿Qué se afirma sobre los contenidos del área de Matemáticas conforme el Decreto 155/2022 en relación con su organización?",
+      "options": [
+        "Se organizan por ciclos educativos en unidades didácticas progresivas",
+        "Se organizan en bloques para cada área integrando conocimientos, actitudes y destrezas en torno al concepto de sentido matemático",
+        "Se organizan en competencias específicas con sus correspondientes criterios de evaluación",
+        "Se organizan en estándares de aprendizaje evaluables graduados por nivel de dificultad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los contenidos del área de Matemáticas 'se organizan en bloques para cada área. En el área de matemáticas, los contenidos se estructuran en 6 bloques en torno al concepto de sentido matemático, desarrollados en el Anexo II del Decreto autonómico, integrando conocimientos, actitudes y destrezas'."
+    },
+    {
+      "question": "¿Qué se comprende por 'sentido de la medida' en el bloque 2 del área de Matemáticas?",
+      "options": [
+        "El uso de instrumentos de medición estándar como regla, metro y balanza",
+        "La comprensión y comparación de atributos de los objetos del mundo natural y la elección de las unidades de estimación y medida más adecuadas e instrumentos de medición",
+        "El aprendizaje del sistema métrico decimal y las conversiones entre unidades",
+        "La estimación de medidas de objetos del entorno próximo mediante comparación directa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El bloque 2 de 'sentido de la medida' 'busca la comprensión y comparación de atributos de los objetos del mundo natural y entender y elegir las unidades de estimación y medida más adecuados y los instrumentos de medición'. Es más amplio que el mero uso de instrumentos o las conversiones."
+    },
+    {
+      "question": "¿Cómo se relaciona el área de Matemáticas con el Decreto 79/2010 según el texto del tema?",
+      "options": [
+        "El Decreto 79/2010 establece el horario de matemáticas en los centros bilingües de Galicia",
+        "La Competencia Plurilingüe se desarrolla mediante el uso adecuado de la lengua castellana como vehículo de aprendizaje, en consonancia con el Decreto 79/2010 para el fomento del plurilingüismo",
+        "El Decreto 79/2010 regula la enseñanza de las matemáticas en lengua gallega como lengua vehicular",
+        "El Decreto 79/2010 establece la obligatoriedad de enseñar contenidos matemáticos en inglés en determinados cursos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La CP se desarrolla en Matemáticas 'en consonancia con lo establecido en el Decreto 79/2010 para el fomento del plurilingüismo'. Este decreto gallego regula el plurilingüismo en la enseñanza no universitaria, publicado en el DOG del 25 de mayo de 2010."
+    },
+    {
+      "question": "Según el texto, ¿qué se valora en los criterios de evaluación en relación con los tipos de números?",
+      "options": [
+        "La capacidad para memorizar las propiedades de cada conjunto numérico",
+        "La comprensión, interpretación y uso adecuados de los diferentes tipos de números según su valor y el cálculo en diferentes situaciones",
+        "La velocidad en la resolución de operaciones con números naturales, decimales y fracciones",
+        "El conocimiento de la historia y evolución de los diferentes sistemas de numeración"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los criterios de evaluación matemáticos se incluye 'valorar la comprensión, interpretación y uso adecuados de los diferentes tipos de números según su valor y el cálculo en diferentes situaciones'. Se valora la comprensión y uso funcional, no la velocidad ni la memorización."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los criterios de evaluación y los contenidos en el área de Matemáticas?",
+      "options": [
+        "Los criterios son generales y los contenidos son específicos para cada ciclo",
+        "Los contenidos son conocimientos, destrezas y actitudes a aprender; los criterios son los referentes que indican los niveles de desempeño esperados en el alumnado",
+        "Los criterios se aplican al final de la etapa y los contenidos a lo largo de todo el proceso",
+        "Los contenidos son obligatorios y los criterios son orientativos para el profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los contenidos son 'los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario para adquirir el nivel de desempeño de los criterios de evaluación'. Los criterios de evaluación son 'los referentes que indican los niveles de desempeño esperados en el alumnado'. Son dos elementos curriculares diferentes y complementarios."
+    },
+    {
+      "question": "¿Qué implica el 'carácter formativo' del área de Matemáticas según el texto?",
+      "options": [
+        "Que el área de Matemáticas proporciona la formación necesaria para acceder a estudios superiores",
+        "Que contribuye al desarrollo intelectual del alumnado con la adquisición de estrategias cognitivas superiores",
+        "Que el área forma al alumnado en los valores cívicos y éticos para la vida en sociedad",
+        "Que proporciona la base formativa para el aprendizaje de otras áreas del currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El carácter formativo de las Matemáticas consiste en que 'contribuye al desarrollo intelectual del alumnado con la adquisición de estrategias cognitivas superiores'. No debe confundirse con el carácter instrumental (que permite aprender otras áreas) ni con la formación para estudios superiores."
+    },
+    {
+      "question": "¿Cómo se aborda la evaluación de los aprendizajes matemáticos contextualizados según los criterios de evaluación del tema?",
+      "options": [
+        "Mediante pruebas escritas estandarizadas aplicadas al final de cada unidad didáctica",
+        "Evaluando los aprendizajes contextualizados en situaciones de la vida cotidiana y del entorno",
+        "A través de exámenes orales que permitan al alumnado explicar sus procedimientos",
+        "Mediante portfolios de producciones matemáticas del alumnado durante el trimestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los aspectos más relevantes de los criterios de evaluación se incluye 'evaluar los aprendizajes contextualizados en situaciones de la vida cotidiana y del entorno'. La contextualización en situaciones reales es un principio fundamental de la evaluación matemática."
+    },
+    {
+      "question": "¿Qué tipo de agrupamiento se menciona en el aprendizaje cooperativo como metodología específica del área de Matemáticas?",
+      "options": [
+        "Grupos homogéneos por nivel académico para facilitar el apoyo entre iguales",
+        "Grupos heterogéneos que fomentan la resolución compartida de problemas y la comunicación matemática",
+        "Parejas de alumnado con niveles complementarios para el trabajo en tutoría entre iguales",
+        "Grupos flexibles que se reorganizan según la dificultad de cada actividad matemática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje cooperativo trabaja en 'grupos heterogéneos que fomenta la resolución compartida de problemas, la comunicación matemática y la escucha activa'. Los grupos heterogéneos son fundamentales para el aprendizaje cooperativo efectivo."
+    },
+    {
+      "question": "¿Qué tipos de contenidos aplica el Aprendizaje Basado en Proyectos (ABP) de manera práctica en el área de Matemáticas?",
+      "options": [
+        "Contenidos de aritmética básica y operaciones elementales con números naturales",
+        "Conceptos algebraicos, geométricos o estocásticos",
+        "Contenidos relacionados exclusivamente con la medida y la estadística",
+        "Contenidos de pensamiento computacional y programación básica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ABP 'parte de una cuestión del entorno próximo con el fin de elaborar un producto final, aplicando de manera práctica conceptos algebraicos, geométricos o estocásticos'. No se limita a aritmética ni a medida; abarca las diferentes ramas del currículo matemático."
+    },
+    {
+      "question": "¿Qué relación tiene el área de Matemáticas con el área de Valores Cívicos y Éticos según el texto?",
+      "options": [
+        "Las Matemáticas aportan datos estadísticos para analizar problemas éticos y cívicos actuales",
+        "El trabajo matemático implica respetar las opiniones de otros y distintos métodos para resolver problemas, trabajar colaborativamente y mejorar las destrezas comunicativas desde una perspectiva de igualdad",
+        "Las Matemáticas contribuyen a la formación ciudadana mediante el análisis de datos electorales y presupuestos públicos",
+        "La relación se limita al uso de gráficas para representar datos sobre problemas sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Matemáticas se relacionan con Valores Cívicos y Éticos porque 'el trabajo matemático implica respetar las opiniones de otros y los distintos métodos para resolver problemas, trabajar colaborativamente y mejorar las destrezas comunicativas desde una perspectiva de igualdad'."
+    },
+    {
+      "question": "¿Qué elementos del artículo 17 del Decreto 155/2022 sobre elementos transversales deben incluirse específicamente en el área de Matemáticas relacionados con la creatividad?",
+      "options": [
+        "La creatividad artística y la expresión plástica matemática",
+        "La creatividad y el espíritu científico y emprendedor",
+        "La creatividad digital y el diseño de aplicaciones matemáticas",
+        "La creatividad narrativa mediante el uso de historias y cuentos matemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 17 del Decreto 155/2022 establece que entre los elementos transversales del área de Matemáticas se debe incluir 'la creatividad, del espíritu científico y emprendedor'. La creatividad va ligada al espíritu científico en el contexto del área matemática."
+    },
+    {
+      "question": "¿Cuál es la finalidad última de la intervención educativa en Matemáticas según las conclusiones del tema?",
+      "options": [
+        "Preparar al alumnado para superar con éxito las pruebas de acceso a la ESO",
+        "Orientarse al logro de los objetivos y el desarrollo de las CC desde un enfoque global e interdisciplinar para una educación de calidad y el pleno desarrollo de la autonomía y participación activa del alumnado",
+        "Garantizar que todo el alumnado alcance el nivel mínimo de competencia matemática establecido en el perfil de salida",
+        "Desarrollar el pensamiento lógico-matemático como base para el aprendizaje científico posterior"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las conclusiones indican que 'la intervención educativa debe orientarse al logro de los objetivos y el desarrollo de las CC, tomando como referencia los contenidos curriculares y los criterios de evaluación. Todo ello desde un enfoque global e interdisciplinar que contribuya a una educación de calidad y al pleno desarrollo de la autonomía y la participación activa en la sociedad'."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la evaluación de los criterios matemáticos que valora 'estrategias de resolución' y el que valora 'procesos de resolución'?",
+      "options": [
+        "No existe diferencia significativa: ambos evalúan los mismos aspectos del proceso matemático",
+        "El de estrategias valora la comunicación de resultados y la selección de estrategias adecuadas; el de procesos evalúa las fases, planteamientos y validez de resultados con reflexión",
+        "El de estrategias es para el primer ciclo y el de procesos para el segundo y tercer ciclo",
+        "El de estrategias evalúa habilidades cognitivas; el de procesos evalúa actitudes matemáticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los dos criterios son distintos: 'valorar estrategias de resolución de problemas como la comunicación de resultados, selección de estrategias adecuadas, revisión y corrección del procedimiento en caso de error o comprobación del resultado' vs. 'evaluar los procesos en la resolución de problemas, fases, planteamientos y validez de resultados siendo capaces de reflexionar sobre ellos'."
+    },
+    {
+      "question": "En el contexto del área de Matemáticas, ¿qué se entiende por 'situaciones de aprendizaje funcionales' según las conclusiones del tema?",
+      "options": [
+        "Las situaciones que se desarrollan fuera del aula en contextos de la vida real",
+        "Las situaciones significativas que dotan de sentido los contenidos y permiten su aplicación en la vida cotidiana a través de la formulación de hipótesis, la resolución de problemas y la comunicación de datos",
+        "Las situaciones diseñadas para desarrollar las funciones matemáticas y el álgebra",
+        "Las situaciones de evaluación que permiten comprobar el funcionamiento cognitivo del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las conclusiones indican que las Matemáticas 'deben enseñarse en situaciones de aprendizaje funcionales y significativas que doten de sentido los contenidos y permitan su aplicación en la vida cotidiana a través de la formulación de hipótesis, la resolución de problemas y la comunicación de datos'."
+    },
+    {
+      "question": "¿Cuál es el OBJ2 del área de Matemáticas según el Decreto 155/2022?",
+      "options": [
+        "Utilizar el pensamiento computacional para organizar datos y crear algoritmos sencillos",
+        "Resolver situaciones problematizadas, aplicando diferentes técnicas, estrategias y formas de razonamiento, para obtener soluciones y comprobar su validez en relación con el contexto",
+        "Interpretar situaciones de la vida cotidiana proporcionando una representación matemática a través de conceptos y estrategias",
+        "Formular y comprobar conjeturas sencillas en situaciones de la vida cotidiana valorando el razonamiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ2 es 'Resolver situaciones problematizadas, aplicando diferentes técnicas, estrategias y formas de razonamiento, para obtener soluciones y comprobar su validez en relación con el contexto'. La verificación de la validez en contexto distingue al OBJ2 de los demás objetivos de resolución."
+    },
+    {
+      "question": "¿Cuál es el OBJ6 del área de Matemáticas según el Decreto 155/2022?",
+      "options": [
+        "Desarrollar destrezas personales para identificar y gestionar emociones ante retos matemáticos",
+        "Reconocer y utilizar conexiones entre ideas matemáticas con otras áreas o situaciones de la vida cotidiana",
+        "Comunicar y representar conceptos, procedimientos y resultados matemáticos, utilizando el lenguaje oral, escrito, gráfico, multimodal y la terminología matemática, para dar significado a las ideas matemáticas",
+        "Utilizar el pensamiento computacional para organizar datos y modelizar situaciones de la vida cotidiana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El OBJ6 es 'Comunicar y representar conceptos, procedimientos y resultados matemáticos, utilizando el lenguaje oral, escrito, gráfico, multimodal y la terminología matemática, para dar significado a las ideas matemáticas'. Destaca el uso de lenguaje multimodal y la terminología matemática específica."
+    },
+    {
+      "question": "¿Qué relación existe entre los contenidos del área y los criterios de evaluación según el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Los criterios de evaluación son un resumen de los contenidos más importantes del área",
+        "Los contenidos son necesarios para adquirir el nivel de desempeño de los criterios de evaluación y lograr los objetivos; los criterios indican los niveles de desempeño esperados",
+        "Los criterios de evaluación sustituyen a los contenidos cuando estos se trabajan de forma competencial",
+        "Los contenidos se derivan directamente de los criterios de evaluación establecidos a nivel estatal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 establece que los contenidos son 'los conocimientos, destrezas y actitudes propios de un área cuyo aprendizaje es necesario para adquirir el nivel de desempeño de los criterios de evaluación y para el logro de los objetivos'. Y los criterios 'indican los niveles de desempeño esperados'. Son elementos interdependientes pero distintos."
+    },
+    {
+      "question": "¿Cuáles son los ejemplos de elementos del aprendizaje matemático mencionados en la introducción que aparecen en la vida cotidiana?",
+      "options": [
+        "La resolución de ecuaciones, las estadísticas deportivas y los planos arquitectónicos",
+        "Las compras, la elaboración de recetas y la medición del tiempo",
+        "Los horarios de transportes, las medidas de cocina y las cuentas bancarias",
+        "La interpretación de facturas, los cálculos de descuentos y las medidas del hogar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto introductorio menciona que las Matemáticas están 'constantemente presentes en la vida cotidiana como por ejemplo en las compras, la elaboración de recetas, o la medición del tiempo'. Estos ejemplos cotidianos justifican su importancia como área instrumental."
+    },
+    {
+      "question": "¿Qué tipo de pensamiento fomenta específicamente el Aprendizaje Basado en Problemas (ABPr) en el área de Matemáticas?",
+      "options": [
+        "El pensamiento creativo y divergente para generar múltiples soluciones posibles",
+        "El pensamiento lógico y crítico al plantear situaciones problemáticas cercanas usando las matemáticas para analizar, razonar y tomar decisiones",
+        "El pensamiento abstracto y formal mediante la generalización de patrones matemáticos",
+        "El pensamiento computacional y algorítmico para resolver problemas complejos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ABPr 'impulsa el pensamiento lógico y crítico al plantear situaciones problemáticas cercanas utilizando las matemáticas como herramienta para analizar, razonar y tomar decisiones fundamentadas'. La cercanía de las situaciones y el razonamiento crítico son características definitorias del ABPr."
+    },
+    {
+      "question": "¿Qué aspecto del error en el aprendizaje matemático es consistente entre los diferentes enfoques metodológicos del tema?",
+      "options": [
+        "El error debe evitarse mediante una instrucción directa y clara del profesor",
+        "El error es un indicador negativo del rendimiento matemático del alumnado",
+        "El error se valora como fuente de aprendizaje y elemento de mejora en todos los enfoques",
+        "El error solo se admite en las fases iniciales del aprendizaje de un concepto nuevo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tema menciona el error como positivo en múltiples contextos: la perspectiva socioemocional 'valore el error como fuente de aprendizaje', el OBJ7 incluye 'aceptando el error como parte del aprendizaje', y el bloque 6 (socioemocional) 'muestra el error como elemento de aprendizaje'. Hay coherencia total."
+    },
+    {
+      "question": "¿Qué se afirma sobre la resolución de problemas en la Educación Primaria según la introducción del tema?",
+      "options": [
+        "La resolución de problemas solo cobra importancia en el tercer ciclo de la EP cuando el alumnado ha adquirido las operaciones básicas",
+        "Es en la EP cuando el uso de las matemáticas comienza a adquirir sentido para el alumnado, favoreciendo la comprensión, la creatividad, el razonamiento, la intuición y la abstracción",
+        "La resolución de problemas es un contenido secundario que se trabaja de forma complementaria al cálculo",
+        "Los problemas matemáticos deben presentarse siempre en contextos puramente matemáticos para desarrollar el razonamiento abstracto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La introducción destaca 'la importancia de la resolución de problemas durante toda la EP, ya que es en este periodo cuando el uso de las matemáticas comienza a adquirir sentido para el alumnado, favoreciendo la comprensión, la creatividad, el razonamiento, la intuición y la abstracción'."
+    },
+    {
+      "question": "¿Cuál es el papel del profesorado en la selección de recursos en las metodologías específicas de Matemáticas?",
+      "options": [
+        "Aplicar los materiales curriculares establecidos en la programación oficial sin variaciones",
+        "Seleccionar recursos variados que favorezcan la exploración, la investigación y la interacción entre compañeros",
+        "Priorizar los recursos digitales sobre los manipulativos para garantizar la competencia digital",
+        "Adaptar los recursos exclusivamente a las necesidades del alumnado con NEE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El docente como mediador y guía debe 'seleccionar recursos variados que favorezcan la exploración, la investigación y la interacción entre compañeros, atendiendo a la diversidad mediante la personalización e individualizando del aprendizaje'. Los recursos variados son para todo el alumnado, no solo para NEE."
+    },
+    {
+      "question": "¿Cómo se relaciona la metacognición con la Competencia Personal, Social y de Aprender a Aprender (CPSAA) en el área de Matemáticas?",
+      "options": [
+        "La metacognición sustituye a la evaluación externa del aprendizaje matemático",
+        "La verbalización de los procesos matemáticos ayuda a tomar conciencia sobre lo aprendido y lo que se necesita mejorar, potenciando estrategias metacognitivas que facilitan el desarrollo del aprender a aprender",
+        "La metacognición se desarrolla exclusivamente en el bloque 6 de sentido socioemocional",
+        "La metacognición matemática está reservada para el alumnado con altas capacidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que en relación con la CPSAA 'la verbalización de los procesos matemáticos ayuda a tomar conciencia sobre lo aprendido y lo que se necesita mejorar, potenciando estrategias metacognitivas que facilitan el desarrollo del aprender a aprender'. Es una relación explícita entre metacognición y CPSAA."
+    },
+    {
+      "question": "¿Qué elementos de las propuestas metodológicas generales se relacionan directamente con el bienestar y la salud emocional del alumnado en Matemáticas?",
+      "options": [
+        "El uso de actividades lúdicas y la reducción de la presión académica en las pruebas",
+        "La perspectiva socioemocional y de género, la autoestima, la motivación, la perseverancia y la valoración del error",
+        "La organización flexible del tiempo y el espacio del aula para reducir el estrés",
+        "El apoyo de familias y orientadores en el proceso de aprendizaje matemático"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las propuestas metodológicas generales incluyen 'una perspectiva socioemocional y de género que refuerce la autoestima, la motivación y la perseverancia, valore el error como fuente de aprendizaje y elimine estereotipos introduciendo referentes femeninos'. Son elementos directamente relacionados con el bienestar emocional."
+    },
+    {
+      "question": "¿Cuál es la función de los 'descriptores operativos' en relación con las Competencias Clave según el Decreto 155/2022?",
+      "options": [
+        "Son instrumentos de evaluación que miden el nivel de logro de cada competencia clave",
+        "Son el mecanismo a través del cual se deduce el nivel competencial del perfil de salida del alumnado",
+        "Son los indicadores de progreso que concretan los objetivos de área en resultados observables",
+        "Son los criterios de evaluación adaptados a las características de cada competencia clave"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El perfil de salida del alumnado 'define el nivel competencial esperado al completar la educación básica deducido a través de los descriptores operativos'. Los descriptores operativos concretan las CC y permiten deducir el nivel esperado en el perfil de salida."
+    },
+    {
+      "question": "¿Qué distingue el concepto de sentido matemático del simple uso de cantidades y formas geométricas según el Decreto 155/2022?",
+      "options": [
+        "El sentido matemático implica la memorización de definiciones y propiedades matemáticas formales",
+        "El sentido matemático permite analizar situaciones reales, identificar relaciones y estructuras y obtener modelos para descubrir patrones, regularidades y leyes matemáticas",
+        "El sentido matemático se refiere al uso correcto de la nomenclatura y simbología matemática",
+        "El sentido matemático es la capacidad de resolver problemas con múltiples procedimientos alternativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El decreto establece que el área se caracteriza por un 'conjunto de contenidos que permiten analizar situaciones reales, identificar relaciones y estructuras y obtener modelos para descubrir patrones, regularidades y leyes matemáticas, más allá de solo utilizar cantidades y formas geométricas'. El sentido matemático supera el uso mecánico."
+    },
+    {
+      "question": "¿Qué implica el 'enfoque globalizador e interdisciplinar' en la metodología del área de Matemáticas?",
+      "options": [
+        "Que los contenidos matemáticos se integran en proyectos interdisciplinares con otras áreas",
+        "Que la metodología adopta un enfoque globalizador e interdisciplinar siendo comunicativa, inclusiva, activa y participativa dirigida al logro de objetivos y las CC",
+        "Que todas las áreas del currículo se organizan en torno a los contenidos matemáticos como eje central",
+        "Que el aprendizaje matemático se desarrolla exclusivamente en contextos de la vida cotidiana global"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La metodología debe 'adoptar un enfoque globalizador e interdisciplinar y ser comunicativa, inclusiva, activa y participativa dirigida al logro de objetivos y de las CC y abordando los elementos transversales'. Es una característica metodológica global que se combina con otros atributos."
+    },
+    {
+      "question": "¿Por qué la Agenda 2030 de la ONU es relevante para el área de Matemáticas en Educación Primaria?",
+      "options": [
+        "Porque establece los estándares internacionales de evaluación matemática para 2030",
+        "Porque los 17 ODS aprobados en 2015 incluyen objetivos directamente relacionados con las Matemáticas como ODS4, ODS8 y ODS9",
+        "Porque la Agenda 2030 exige la incorporación de tecnología digital en la enseñanza matemática",
+        "Porque establece los contenidos mínimos de Matemáticas para todos los países miembros de la ONU"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Agenda 2030 con sus 17 ODS es relevante porque 'las matemáticas se relacionan estrechamente con el ODS4 Educación de Calidad, ODS8 Trabajo decente y crecimiento económico y ODS9 Industria, Innovación e Infraestructura'. Los ODS son el marco para los objetivos de desarrollo sostenible en educación."
+    },
+    {
+      "question": "¿Qué señala el texto sobre la relación entre las representaciones gráficas, la medida y la Competencia STEM en el área de Matemáticas?",
+      "options": [
+        "Las representaciones gráficas y la medida se utilizan exclusivamente en el área de Ciencias para interpretar datos experimentales",
+        "El uso de representaciones gráficas y la medida permite interactuar con el entorno y transmitir información precisa sobre aspectos cuantificables de la realidad",
+        "Las representaciones gráficas sustituyen al cálculo numérico en el desarrollo de la competencia STEM",
+        "La medida y las representaciones gráficas son contenidos exclusivos del bloque 2 del área de Matemáticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que 'el uso de representaciones gráficas y la medida permite interactuar con el entorno y transmitir información precisa sobre aspectos cuantificables de la realidad', lo que favorece la Competencia STEM. No es exclusivo de las Ciencias ni del bloque 2."
+    },
+    {
+      "question": "¿Cuál es la Comunidad Autónoma en cuyo contexto se enmarca el tema según la legislación autonómica citada?",
+      "options": [
+        "Cataluña",
+        "País Vasco",
+        "Galicia",
+        "Andalucía"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Todo el marco legislativo autonómico del tema hace referencia a Galicia: Decreto 155/2022 de la Comunidad Autónoma de Galicia, Decreto 79/2010 de Galicia, proyectos de la Xunta de Galicia, Orden de 26 de mayo de 2023 del DOG (Diario Oficial de Galicia)."
+    },
+    {
+      "question": "¿Qué se afirma sobre la evaluación continua en el área de Matemáticas en las propuestas metodológicas generales?",
+      "options": [
+        "Que debe realizarse al final de cada unidad didáctica mediante pruebas escritas",
+        "Que el uso de procedimientos e instrumentos de evaluación variados permite una evaluación continua y objetiva",
+        "Que debe basarse exclusivamente en la observación directa de las producciones del alumnado",
+        "Que se realiza solo al final de cada trimestre mediante pruebas orales y escritas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las propuestas metodológicas incluyen 'el uso de procedimientos e instrumentos de evaluación variados para una evaluación continua y objetiva'. La variedad de instrumentos y el carácter continuo son características esenciales de la evaluación matemática propuesta."
+    },
+    {
+      "question": "¿En qué se basa el 'aprendizaje significativo' en el contexto del área de Matemáticas según el tema?",
+      "options": [
+        "En la memorización de procedimientos mediante ejercicios repetitivos y sistematizados",
+        "En el aprendizaje por descubrimiento a través de la exploración libre de materiales matemáticos",
+        "En relacionar los conocimientos previos del alumnado con las nuevas experiencias de aprendizaje",
+        "En la aplicación práctica inmediata de los conceptos matemáticos aprendidos en clase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto indica que 'es fundamental que la enseñanza parta del nivel del desarrollo psicoevolutivo del alumnado y de sus conocimientos previos fomentando un aprendizaje significativo en el que, siguiendo a Ausubel, se relacionen con las experiencias nuevas'."
+    },
+    {
+      "question": "¿Cómo se describe la organización de las matemáticas como 'área instrumental' en relación con las áreas de lengua?",
+      "options": [
+        "Las Matemáticas sustituyen parcialmente a las áreas de lengua en el desarrollo de la comprensión lectora",
+        "Junto con la LCL (Lengua Castellana y Literatura), constituye el área instrumental para adquirir los conocimientos del resto de áreas",
+        "Las Matemáticas se coordinan exclusivamente con la Lengua Gallega (LGL) en el contexto gallego",
+        "El área instrumental matemática se ocupa del lenguaje formal y simbólico mientras que la lingüística se ocupa del lenguaje cotidiano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que las Matemáticas presentan 'un carácter instrumental al ser, junto con la LCL, el área instrumental para adquirir los conocimientos del resto de áreas'. La relación es con la LCL principalmente, aunque en la práctica también con la LGL en el contexto gallego."
+    },
+    {
+      "question": "Según el texto, ¿qué se trabaja en las áreas de Lengua (LCL, LGL, LE) que se relaciona con las Matemáticas?",
+      "options": [
+        "La comprensión de gráficas y tablas estadísticas en textos informativos",
+        "La lectura, la escritura y el cálculo como aprendizajes instrumentales para el aprendizaje, y la comprensión de enunciados y la expresión oral de resultados",
+        "El vocabulario matemático específico y su uso correcto en lengua materna y extranjera",
+        "La resolución de problemas matemáticos expresados en forma de texto narrativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En las áreas de LCL, LGL y LE 'la lectura, la escritura y el cálculo constituyen aprendizajes instrumentales para el aprendizaje'. Además, 'el lenguaje es necesario para comprender y razonar los enunciados de los problemas matemáticos, así como para expresar oralmente resultados, procesos y razonamientos'."
+    },
+    {
+      "question": "¿Qué aporta el área de Matemáticas al ámbito de las Ciencias de la Naturaleza y las Ciencias Sociales según el texto?",
+      "options": [
+        "El aprendizaje de fórmulas científicas y notación matemática aplicada a las ciencias",
+        "La adquisición de instrumentos para explorar, representar, explicar y predecir la realidad, potenciando el pensamiento abstracto para recoger información del mundo natural",
+        "El desarrollo de la capacidad de observación sistemática y clasificación de fenómenos naturales",
+        "El uso de la estadística y la probabilidad para interpretar datos científicos y sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En relación con las Ciencias de la Naturaleza y Ciencias Sociales, las Matemáticas aportan 'la adquisición de instrumentos para explorar, representar, explicar y predecir la realidad, a la vez que potencia el pensamiento abstracto para recoger información del mundo natural'."
+    },
+    {
+      "question": "¿Qué indica el artículo 9 del Decreto 155/2022 que el texto relaciona con las Matemáticas en cuanto a áreas del currículo?",
+      "options": [
+        "La organización de las áreas en el primer ciclo de la Educación Primaria",
+        "La incorporación del área de Valores Cívicos y Éticos en sexto curso",
+        "Los criterios para la agrupación del alumnado en el tercer ciclo",
+        "La carga horaria de las áreas instrumentales en la EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 9 del Decreto 155/2022 establece que 'en sexto curso se añade el área de Valores Cívicos y Éticos', lo cual se relaciona con las Matemáticas porque el trabajo matemático implica respetar opiniones ajenas, trabajar colaborativamente y comunicarse desde una perspectiva de igualdad."
+    },
+    {
+      "question": "¿Cuál es la relación entre las Matemáticas y la comprensión del tiempo como magnitud según la relación con otras áreas?",
+      "options": [
+        "Las Matemáticas aportan a Música y Danza la comprensión de la noción del tiempo como magnitud para ejecutar el ritmo y la duración de las composiciones musicales",
+        "Las Matemáticas aportan a Educación Física la medición del tiempo en actividades deportivas competitivas",
+        "Las Matemáticas desarrollan la noción del tiempo histórico necesaria para las Ciencias Sociales",
+        "Las Matemáticas estudian el tiempo como magnitud en el bloque 2 de sentido de la medida exclusivamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que las Matemáticas 'facilitan la comprensión de la noción del tiempo como magnitud para ejecutar el ritmo y la duración de las composiciones musicales', relacionando así las Matemáticas con el área de Música y Danza. No se menciona esta relación con Educación Física o Ciencias Sociales."
+    },
+    {
+      "question": "¿Cuáles son las cuatro fases que debe incluir toda situación de aprendizaje matemático según las propuestas metodológicas generales?",
+      "options": [
+        "Planificación, ejecución, evaluación y reflexión",
+        "Motivación, presentación, práctica y evaluación",
+        "Vivencia, manipulación, representación y abstracción",
+        "Exploración, investigación, análisis y síntesis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto afirma que 'en toda situación de aprendizaje debe estar presente la vivencia, manipulación, representación y abstracción a través de actividades lúdicas y cooperativas planteadas en forma de retos o problemas y mejorando la actividad mental y motriz'. Estas cuatro fases son la secuencia metodológica clave."
+    },
+    {
+      "question": "¿Qué papel juegan las 'actividades lúdicas y cooperativas' en las propuestas metodológicas generales del área de Matemáticas?",
+      "options": [
+        "Son actividades complementarias que se realizan fuera del horario lectivo",
+        "Son el medio a través del cual se trabajan la vivencia, manipulación, representación y abstracción, planteadas en forma de retos o problemas",
+        "Son actividades de refuerzo para el alumnado con bajo rendimiento en el área",
+        "Son actividades motivadoras que no tienen relación directa con los contenidos matemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En toda situación de aprendizaje debe estar presente la vivencia, manipulación, representación y abstracción 'a través de actividades lúdicas y cooperativas planteadas en forma de retos o problemas y mejorando la actividad mental y motriz'. Lo lúdico y cooperativo es el vehículo de los procesos de aprendizaje."
+    },
+    {
+      "question": "¿Qué implica la 'personalización e individualización del aprendizaje' en las metodologías específicas del área de Matemáticas?",
+      "options": [
+        "Diseñar un plan de trabajo individual para cada alumno del grupo clase",
+        "Atender a la diversidad del alumnado mediante la personalización e individualización del aprendizaje en el rol del docente como mediador",
+        "Eliminar los agrupamientos y trabajar siempre de forma individual para adaptarse a cada ritmo",
+        "Aplicar adaptaciones curriculares significativas a todo el alumnado según sus características"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El docente como mediador y guía diseña situaciones de aprendizaje significativas 'atendiendo a la diversidad mediante la personalización e individualizando del aprendizaje'. No implica trabajar siempre individualmente ni hacer adaptaciones a todos, sino responder a las diferentes necesidades."
+    },
+    {
+      "question": "¿Cuál es la función específica del bloque 4 de 'sentido algebraico y pensamiento computacional' en relación con el currículo de Matemáticas?",
+      "options": [
+        "Desarrollar la comprensión de las figuras geométricas tridimensionales y sus propiedades",
+        "Centrarse en el lenguaje matemático y las representaciones simbólicas para modelizar situaciones",
+        "Orientarse hacia la estadística y la probabilidad con el razonamiento e interpretación de datos",
+        "Integrar conocimientos, destrezas y actitudes socioemocionales en el aprendizaje matemático"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El bloque 4 de 'sentido algebraico y pensamiento computacional' 'se centra en el lenguaje matemático y las representaciones simbólicas'. Este bloque conecta con el OBJ4 de utilizar el pensamiento computacional para organizar datos, reconocer patrones y crear algoritmos."
+    },
+    {
+      "question": "¿Cómo se entiende el 'carácter constructivo y gradual' del área de Matemáticas según Cantero (2010)?",
+      "options": [
+        "Los contenidos matemáticos se construyen por acumulación de datos y fórmulas de menor a mayor dificultad",
+        "El currículo parte del desarrollo cognitivo y emocional del alumnado avanzando del pensamiento concreto al abstracto",
+        "La construcción del conocimiento matemático se realiza mediante la repetición sistemática de ejercicios",
+        "El aprendizaje matemático se construye de manera autónoma sin intervención del docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cantero (2010) destaca el carácter constructivo y gradual porque 'el currículo parte del desarrollo cognitivo y emocional del alumnado avanzando del pensamiento concreto al abstracto'. Esta visión conecta el constructivismo con la gradualidad del desarrollo psicoevolutivo."
+    },
+    {
+      "question": "¿Qué relación existe entre el bloque 6 de sentido socioemocional y la resolución de problemas en el currículo de Matemáticas?",
+      "options": [
+        "El bloque 6 sustituye a los demás bloques cuando el alumnado presenta dificultades emocionales",
+        "La resolución de problemas y las destrezas emocionales se abordan y evalúan de forma transversal en todos los bloques, no solo en el 6",
+        "El bloque 6 desarrolla la resolución de conflictos emocionales mediante el uso de las matemáticas",
+        "Las destrezas socioemocionales se trabajan en el bloque 6 de forma independiente de los contenidos matemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto aclara que 'la resolución de problemas y las destrezas emocionales se abordan y evalúan de forma transversal en todos los bloques'. El bloque 6 integra las destrezas socioemocionales, pero estas no se restringen a ese bloque sino que son transversales."
+    },
+    {
+      "question": "¿Cómo contribuye el área de Matemáticas a la preparación del alumnado para la vida democrática y ciudadana según el artículo 17 del Decreto 155/2022?",
+      "options": [
+        "A través del estudio de la estadística electoral y el análisis de datos de participación ciudadana",
+        "Incluyendo la justicia, la igualdad, la democracia y el respeto por los derechos humanos como elementos transversales del área",
+        "Mediante la incorporación de problemas matemáticos sobre economía política y gestión pública",
+        "A través del análisis crítico de datos económicos para comprender las decisiones políticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 17 del Decreto 155/2022 establece que entre los elementos transversales del área de Matemáticas se debe incluir 'la justicia, la igualdad, la democracia o el respeto por los derechos humanos'. Estos valores democráticos forman parte del trabajo transversal del área."
+    },
+    {
+      "question": "¿Cuándo fue aprobada la Agenda 2030 con los Objetivos de Desarrollo Sostenible según el texto?",
+      "options": [
+        "En 2010 por las Naciones Unidas",
+        "En 2015 por la ONU",
+        "En 2018 por el Consejo de la Unión Europea",
+        "En 2020 con la aprobación de la LOMLOE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que los 17 ODS corresponden a la 'Agenda 2030 aprobada por la ONU en el 2015'. No debe confundirse con la Recomendación del Consejo de la UE de 2018 (que establece las competencias clave) ni con la LOMLOE de 2020."
+    },
+    {
+      "question": "¿Cuál es la relación entre las competencias específicas del RD 157/2022 y los objetivos de área del Decreto 155/2022?",
+      "options": [
+        "Las competencias específicas del RD 157/2022 se dividen en los objetivos de área del Decreto autonómico",
+        "Los objetivos de área del Decreto 155/2022 se corresponden con las competencias específicas establecidas en el RD 157/2022",
+        "Las competencias específicas del RD 157/2022 son más amplias que los objetivos de área del Decreto 155/2022",
+        "Son dos elementos curriculares independientes sin correspondencia directa entre sí"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto establece explícitamente que 'estos objetivos de área se corresponden con las competencias específicas establecidas en el RD 157/2022'. El Decreto autonómico adapta las competencias específicas del currículo básico estatal a su propia terminología de objetivos de área."
+    },
+    {
+      "question": "¿Qué tipo de situaciones deben diseñar los docentes para que el aprendizaje matemático sea funcional y significativo según las conclusiones?",
+      "options": [
+        "Situaciones de evaluación auténtica que conecten con el mundo laboral futuro del alumnado",
+        "Situaciones de aprendizaje funcionales y significativas que doten de sentido los contenidos y permitan su aplicación en la vida cotidiana",
+        "Situaciones de enseñanza directa que presenten los conceptos de forma clara y ordenada",
+        "Situaciones de aprendizaje colaborativo mediante proyectos grupales interdisciplinares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las conclusiones señalan que 'las matemáticas deben enseñarse en situaciones de aprendizaje funcionales y significativas que doten de sentido los contenidos y permitan su aplicación en la vida cotidiana a través de la formulación de hipótesis, la resolución de problemas y la comunicación de datos'."
+    },
+    {
+      "question": "¿Qué señala el texto sobre las formas empíricas e inductivas de apropiación del conocimiento en el área de Matemáticas?",
+      "options": [
+        "Se priorizan en los primeros ciclos pero se abandonan en el tercer ciclo cuando se trabaja la deducción",
+        "Se priorizan al principio avanzando hacia la formalización deductiva",
+        "Se combinan con las deductivas desde el inicio para un aprendizaje equilibrado",
+        "Son métodos exclusivos del aprendizaje cooperativo en grupos heterogéneos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El enfoque de aprendizaje gradual y progresivo 'prioriza las formas empíricas e inductivas de apropiación del conocimiento avanzando hacia la formalización deductiva'. La secuencia es inducción → deducción, de lo experiencial a lo formal."
+    },
+    {
+      "question": "¿Qué implica la 'actividad mental y motriz' en las propuestas metodológicas generales del área de Matemáticas?",
+      "options": [
+        "La combinación de ejercicios físicos con resolución de problemas matemáticos en el aula",
+        "El desarrollo del movimiento y la coordinación corporal como base del aprendizaje matemático",
+        "La mejora de la actividad mental y motriz a través de actividades lúdicas y cooperativas planteadas como retos o problemas",
+        "La utilización del cuerpo como instrumento de medición en actividades de geometría"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto indica que en toda situación de aprendizaje la vivencia, manipulación, representación y abstracción se trabajan 'a través de actividades lúdicas y cooperativas planteadas en forma de retos o problemas y mejorando la actividad mental y motriz'. Es parte del proceso de aprendizaje activo."
+    },
+    {
+      "question": "¿Qué criterio de evaluación del área de Matemáticas está más directamente relacionado con la competencia digital?",
+      "options": [
+        "Evaluar los aprendizajes contextualizados en situaciones de la vida cotidiana",
+        "Evaluar los procesos en la resolución de problemas, fases, planteamientos y validez de resultados",
+        "Valorar la capacidad para utilizar medios tecnológicos en la búsqueda, selección, organización y comunicación de información matemática",
+        "Valorar las estrategias de resolución de problemas y la comprobación de resultados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El criterio que más directamente se relaciona con la competencia digital es 'valorar la capacidad para utilizar medios tecnológicos en la búsqueda, selección, organización y comunicación de información matemática'. Implica el uso de herramientas digitales para gestionar información matemática."
+    },
+    {
+      "question": "¿Qué se entiende por el 'carácter global e integrador' de la Educación Primaria mencionado en el artículo 3 del Decreto 155/2022?",
+      "options": [
+        "Que la EP abarca a todo el alumnado sin exclusión, garantizando una educación inclusiva y de calidad",
+        "Que la EP se organiza en áreas que no son independientes sino que se desarrollan interrelacionadas, y que la competencia matemática se desarrolla en todas ellas",
+        "Que los contenidos de la EP se organizan de forma global sin distinción entre áreas o disciplinas",
+        "Que la EP proporciona una formación completa e integral que abarca todas las dimensiones del desarrollo del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 3 establece que 'la EP se organiza en áreas con un carácter global e integrador desarrollando en todas ellas la competencia matemática como instrumento para la interpretación del mundo y resolución de problemas'. El carácter integrador implica que las áreas no son compartimentos estancos."
+    },
+    {
+      "question": "¿Qué papel juegan los 'referentes femeninos' en el área de Matemáticas según las propuestas metodológicas generales?",
+      "options": [
+        "Son figuras históricas estudiadas en el bloque de sentido socioemocional del área",
+        "Se introducen en la perspectiva socioemocional y de género para eliminar estereotipos de género en matemáticas",
+        "Son modelos de resolución de problemas alternativas a los métodos masculinos tradicionales",
+        "Se mencionan en el apartado de relación con otras áreas para vincular Matemáticas con Historia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La perspectiva socioemocional y de género en el área de Matemáticas busca que 'elimine estereotipos introduciendo referentes femeninos'. Los referentes femeninos son mujeres matemáticas o científicas que sirven como modelos para el alumnado, especialmente para eliminar el estereotipo de que las matemáticas son 'cosa de hombres'."
+    },
+    {
+      "question": "¿En qué publicación y con qué número de DOG se publicó el Decreto 155/2022?",
+      "options": [
+        "DOG número 183, de 26 de septiembre de 2022",
+        "DOG número 111, de 13 de junio de 2023",
+        "BOE número 52, de 2 de marzo de 2022",
+        "BOE número 340, de 30 de diciembre de 2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 se publicó en el 'Diario Oficial de Galicia, 183, de 26 de septiembre de 2022, 49595 a 50009'. El DOG 111 de junio de 2023 corresponde a la Orden de evaluación; el BOE 52 al RD 157/2022; el BOE 340 a la LOMLOE."
+    },
+    {
+      "question": "¿Qué indica el texto sobre la evaluación de la 'comunicación de datos' en los criterios del área de Matemáticas?",
+      "options": [
+        "La comunicación de datos se evalúa exclusivamente en el bloque 5 de sentido estocástico",
+        "Valorar la comunicación de resultados forma parte de los criterios que evalúan estrategias de resolución de problemas",
+        "La comunicación de datos se evalúa mediante pruebas de expresión escrita en el área de Lengua",
+        "La comunicación de datos matemáticos se evalúa solo en las actividades de trabajo cooperativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los criterios de evaluación que valoran 'estrategias de resolución de problemas' se incluye 'la comunicación de resultados'. Comunicar los resultados matemáticos es parte integral del proceso de resolución, no un aspecto separado ni exclusivo de un bloque concreto."
+    },
+    {
+      "question": "¿Cuál es la relación entre la competencia emprendedora y el área de Matemáticas en lo referente a la gestión de recursos?",
+      "options": [
+        "Las Matemáticas desarrollan habilidades de gestión financiera y administración de recursos económicos",
+        "La CE se desarrolla mediante la resolución de problemas planificando estrategias y gestionando recursos con autonomía e iniciativa personal",
+        "Las Matemáticas contribuyen a la CE exclusivamente a través de proyectos de economía escolar",
+        "La gestión de recursos en el área se refiere al uso eficiente del tiempo y los materiales del aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Matemáticas contribuyen a la CE 'a través de la resolución de problemas; planificando estrategias, gestionando recursos y valorando críticamente los resultados, con autonomía, iniciativa personal y confianza para afrontar nuevas situaciones'. 'Gestionar recursos' aquí se entiende en sentido amplio, no solo financiero."
+    },
+    {
+      "question": "¿Qué elementos curriculares conecta específicamente el artículo 6 del Decreto 155/2022 a través de los criterios de evaluación?",
+      "options": [
+        "Los ODS, los objetivos de etapa y los contenidos del área",
+        "Los objetivos de área, los contenidos y el perfil de salida",
+        "Los objetivos de área con los contenidos y el perfil de salida, siendo elemento de conexión",
+        "Los principios pedagógicos, la metodología y los materiales curriculares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que los objetivos de área son 'un elemento de conexión entre el perfil de salida, los criterios de evaluación y los contenidos'. Los criterios de evaluación son los que conectan los objetivos con el desempeño del alumnado, describiendo lo que se quiere valorar."
+    },
+    {
+      "question": "¿Qué establece el artículo 16 del Decreto 155/2022 en relación con el número de Competencias Clave que deben trabajarse simultáneamente?",
+      "options": [
+        "Que en cada actividad matemática se deben trabajar las ocho CC de manera equilibrada",
+        "Que no puede establecerse una conexión exclusiva entre actividades y una única área; las actividades deben favorecer el desarrollo simultáneo de más de una de las ocho CC",
+        "Que en cada unidad didáctica se deben trabajar al menos cuatro de las ocho CC",
+        "Que cada área se vincula a un mínimo de dos CC específicas del currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16 indica que 'las actividades deben favorecer el desarrollo simultáneo de más de una de las ocho CC recogidas en el artículo 8, pues no puede establecerse una conexión exclusiva con una única área'. No se establece un número mínimo específico, sino la necesidad de trabajar más de una CC."
+    },
+    {
+      "question": "¿Cuál es el número de artículo del Decreto 155/2022 que recoge los objetivos de etapa de la Educación Primaria?",
+      "options": [
+        "Artículo 3",
+        "Artículo 6",
+        "Artículo 7",
+        "Artículo 16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de etapa de la EP se recogen en el artículo 7 del Decreto 155/2022. El artículo 3 establece la organización de la EP; el artículo 6 las definiciones curriculares; el artículo 16 los principios pedagógicos."
+    },
+    {
+      "question": "¿Qué tipo de conocimiento produce el área de Matemáticas en relación con el pensamiento matemático y la comprensión del mundo según el texto?",
+      "options": [
+        "Conocimiento puramente abstracto y formal sin conexión con la realidad cotidiana",
+        "Conocimiento aplicado a través del razonamiento matemático para interpretar y producir información, resolver problemas y tomar decisiones en múltiples contextos",
+        "Conocimiento instrumental limitado al cálculo y la medición en situaciones prácticas",
+        "Conocimiento enciclopédico de las ramas y propiedades de la matemática como ciencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Competencia STEM en Matemáticas implica 'promover el razonamiento matemático para interpretar y producir información, resolver problemas y tomar decisiones en múltiples contextos'. El pensamiento matemático contribuye a la comprensión y descripción del entorno natural y social."
+    },
+    {
+      "question": "¿Qué se menciona específicamente sobre el uso de las TIC y los Entornos Virtuales de Aprendizaje (EVA) en las propuestas metodológicas generales?",
+      "options": [
+        "Que deben usarse exclusivamente para la evaluación diagnóstica del alumnado",
+        "Que la metodología debe integrar el uso seguro, crítico y responsable de las TIC y los EVA",
+        "Que los EVA sustituyen a los libros de texto en la metodología del área matemática",
+        "Que las TIC deben utilizarse como refuerzo para el alumnado con dificultades de aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las propuestas metodológicas generales indican que 'la metodología debe integrar el uso seguro, crítico y responsable de las TIC y los EVA'. Los tres adjetivos (seguro, crítico, responsable) son igualmente importantes. No se limita al refuerzo ni a la evaluación."
+    },
+    {
+      "question": "¿Cuál es la característica del área de Matemáticas relacionada con su contribución al desarrollo de habilidades para la participación en la vida económica y tecnológica?",
+      "options": [
+        "El carácter informativo del área en su función de representación simbólica",
+        "El carácter formativo al desarrollar estrategias cognitivas superiores",
+        "El trabajo de elementos transversales que prepara al alumnado para la ciudadanía activa",
+        "El carácter constructivo y gradual que avanza del pensamiento concreto al abstracto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las Matemáticas 'favorecen el trabajo de elementos transversales preparando al alumnado para el ejercicio de una ciudadanía y participación activa en la vida económica, social, cultural y tecnológica, con una actitud crítica y responsable'. Esta es la función transversal del área."
+    },
+    {
+      "question": "Según el tema, ¿qué aspectos de la evaluación matemática se relacionan directamente con las estrategias cognitivas?",
+      "options": [
+        "La velocidad de procesamiento y la automatización de procedimientos matemáticos",
+        "Los procesos de resolución de problemas, las fases, los planteamientos, la validez de resultados y la capacidad de reflexión",
+        "La memoria de trabajo y la retención de algoritmos matemáticos",
+        "El nivel de abstracción alcanzado en la representación de conceptos matemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación incluyen 'evaluar los procesos en la resolución de problemas, fases, planteamientos y validez de resultados siendo capaces de reflexionar sobre ellos'. Estos aspectos implican estrategias cognitivas de orden superior como la planificación, el monitoreo y la evaluación."
+    },
+    {
+      "question": "¿Qué aspecto de la CPSAA se desarrolla específicamente a través del área de Matemáticas según el texto?",
+      "options": [
+        "La regulación emocional ante situaciones de estrés académico",
+        "La autonomía, la perseverancia, el esfuerzo ante situaciones complejas, la incertidumbre, la colaboración y la comunicación de resultados",
+        "El desarrollo de relaciones interpersonales saludables en el grupo clase",
+        "La gestión del tiempo y la organización del trabajo personal del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En relación con la CPSAA, 'desde el área se fomenta la autonomía, la perseverancia, el esfuerzo ante situaciones complejas, la incertidumbre, la colaboración y la comunicación de resultados'. Estos valores y actitudes forman parte del aprendizaje matemático activo."
+    },
+    {
+      "question": "¿Cuál es el número del artículo del Decreto 155/2022 que define el concepto de 'currículo', 'métodos pedagógicos', 'contenidos', 'objetivos de área', 'objetivos de etapa' y 'criterios de evaluación'?",
+      "options": [
+        "Artículo 3",
+        "Artículo 6",
+        "Artículo 7",
+        "Artículo 16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 es el que contiene las definiciones de todos los elementos curriculares: currículo, métodos pedagógicos, contenidos, objetivos de área, objetivos de etapa y criterios de evaluación. El artículo 7 establece los objetivos de etapa concretos."
+    },
+    {
+      "question": "¿Qué indica la definición de criterios de evaluación del artículo 6 del Decreto 155/2022 sobre su temporalidad?",
+      "options": [
+        "Se aplican exclusivamente al final de la etapa educativa para valorar los logros globales",
+        "Indican los niveles de desempeño esperados 'en un momento determinado de su proceso de aprendizaje', sugiriendo su uso durante todo el proceso",
+        "Se aplican al inicio de cada unidad didáctica para evaluar los conocimientos previos",
+        "Se evalúan de forma bimestral en pruebas estandarizadas para toda la etapa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La definición de criterios de evaluación incluye la expresión 'en un momento determinado de su proceso de aprendizaje', lo que confirma que los criterios no son solo para el final de la etapa sino para cualquier momento del proceso, coherente con una evaluación continua y formativa."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un objetivo del área de Matemáticas según el Decreto 155/2022?",
+      "options": [
+        "Utilizar el pensamiento computacional para organizar datos y crear algoritmos sencillos",
+        "Desarrollar destrezas personales para identificar y gestionar emociones ante retos matemáticos",
+        "Dominar los algoritmos de las cuatro operaciones básicas con números naturales y decimales",
+        "Formular y comprobar conjeturas sencillas en situaciones de la vida cotidiana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Dominar los algoritmos de las cuatro operaciones básicas' no figura como objetivo de área en el Decreto 155/2022. Los 8 objetivos de área se centran en interpretar, resolver, formular, usar pensamiento computacional, conectar, comunicar, gestionar emociones y destrezas sociales, no en el dominio de algoritmos específicos."
+    },
+    {
+      "question": "¿Cuál es la postura que adopta el Decreto 155/2022 respecto a la interdisciplinariedad de las Matemáticas?",
+      "options": [
+        "Las Matemáticas mantienen su autonomía curricular sin necesidad de conectar con otras áreas",
+        "La enseñanza de las Matemáticas debe partir de un modelo globalizador en el que los contenidos se trabajen de forma interdisciplinar y transversal con todas las áreas",
+        "La interdisciplinariedad en Matemáticas se limita a su relación con las Ciencias Naturales y las Tecnologías",
+        "Las conexiones interdisciplinares se realizan opcionalmente según criterio del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 3 del Decreto 155/2022 establece que 'la enseñanza de las matemáticas debe partir de un modelo globalizador en el que los contenidos se trabajen de forma interdisciplinar y transversal con todas las áreas'. Es una orientación curricular obligatoria, no opcional."
+    },
+    {
+      "question": "¿Cuál es la relación entre la Competencia en Conciencia y Expresión Culturales (CCEC) y la historia de las Matemáticas?",
+      "options": [
+        "Las Matemáticas contribuyen a la CCEC exclusivamente a través del estudio de la geometría en el arte moderno",
+        "La CCEC se desarrolla exponiendo el papel de las matemáticas en el desarrollo cultural de la humanidad y comprendiendo datos históricos o formas geométricas de obras artísticas",
+        "La relación entre Matemáticas y CCEC se limita a la comprensión de la simetría y las proporciones en las artes",
+        "Las Matemáticas contribuyen a la CCEC solo mediante la interpretación de datos estadísticos sobre fenómenos culturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Matemáticas contribuyen a la CCEC 'exponiendo su papel en el desarrollo cultural de la humanidad y comprendiendo datos históricos o las formas geométricas de las obras artísticas'. Abarca tanto la historia de las matemáticas como su expresión en las artes."
+    },
+    {
+      "question": "¿Qué se afirma en el texto sobre la relación entre los objetivos y las competencias clave según el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Los objetivos de etapa se logran de forma independiente de las competencias clave",
+        "Los objetivos de etapa son logros cuya consecución está vinculada a la adquisición de las CC",
+        "Las CC derivan directamente de los objetivos de área sin elementos intermedios",
+        "Los objetivos y las CC son elementos curriculares paralelos sin conexión directa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 define los objetivos de etapa como 'los logros que se espera que alcance el alumnado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las CC'. La vinculación entre objetivos y CC es explícita en el Decreto."
+    },
+    {
+      "question": "¿Qué se destaca en la conclusión sobre el papel de las Matemáticas como 'área instrumental'?",
+      "options": [
+        "Que es el área más importante del currículo por su aplicación en el mundo laboral",
+        "Que resultan esenciales para la construcción de nuevos conocimientos y para el desarrollo integral del alumnado",
+        "Que su función instrumental se limita al primer ciclo de la EP cuando se establecen las bases del cálculo",
+        "Que su carácter instrumental justifica dedicarle más horas lectivas que al resto de áreas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las conclusiones del tema indican que 'las matemáticas como área instrumental, resultan esenciales para la construcción de nuevos conocimientos y para el desarrollo integral del alumnado'. El carácter instrumental no se limita a ningún ciclo ni implica más horas por sí mismo."
+    },
+    {
+      "question": "¿Cuál es la función que Godino et al. (2003) atribuye a las Matemáticas en relación con los medios de comunicación?",
+      "options": [
+        "Desarrollar el pensamiento crítico para analizar la publicidad y el marketing matemático",
+        "Proporcionar las herramientas para la creación y difusión de mensajes matemáticos en medios digitales",
+        "Favorecer la capacidad para interpretar información de los medios de comunicación en la vida diaria",
+        "Enseñar estadística para comprender los datos de audiencia y consumo mediático"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Godino et al. (2003) destaca la importancia de las Matemáticas 'para interpretar información de los medios de comunicación y para desarrollarse en la vida diaria'. La interpretación de información mediática es una función cívica fundamental de la alfabetización matemática."
+    },
+    {
+      "question": "¿Qué conexión hace el texto entre el área de Matemáticas y el aprendizaje de idiomas (LCL, LGL, LE)?",
+      "options": [
+        "El vocabulario matemático es el mismo en todas las lenguas, facilitando el aprendizaje plurilingüe",
+        "La lectura, la escritura y el cálculo son aprendizajes instrumentales comunes, y el lenguaje es necesario para comprender enunciados y expresar resultados y razonamientos matemáticos",
+        "Las Matemáticas se enseñan en lengua extranjera en los centros bilingües para desarrollar la competencia lingüística",
+        "La relación se limita a la comprensión lectora de los enunciados de los problemas matemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La relación con las áreas de LCL, LGL y LE es doble: 'la lectura, la escritura y el cálculo constituyen aprendizajes instrumentales para el aprendizaje' (función compartida) y 'el lenguaje es necesario para comprender y razonar los enunciados de los problemas matemáticos, así como para expresar oralmente resultados, procesos y razonamientos'."
+    },
+    {
+      "question": "¿En qué aspectos del aprendizaje matemático contribuye específicamente el Diseño Universal para el Aprendizaje (DUA) según el tema?",
+      "options": [
+        "El DUA se aplica exclusivamente a la adaptación de los criterios de evaluación para el alumnado con NEE",
+        "El DUA garantiza la accesibilidad y la personalización de la enseñanza, siendo clave para detectar dificultades y ofrecer respuesta educativa preventiva",
+        "El DUA proporciona materiales manipulativos adaptados para el alumnado con discapacidad motriz",
+        "El DUA establece los niveles de competencia matemática mínimos para cada ciclo de la EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona el DUA en dos contextos: como herramienta para atender a la diversidad respetando 'ritmos, estilos y necesidades' en las propuestas metodológicas, y como 'herramienta clave para garantizar la accesibilidad y la personalización de la enseñanza' en la detección temprana de dificultades."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre el área de Matemáticas y el pensamiento abstracto en el contexto de las Ciencias?",
+      "options": [
+        "Las Matemáticas desarrollan el pensamiento abstracto necesario para comprender los conceptos científicos teóricos",
+        "El aprendizaje matemático potencia el pensamiento abstracto para recoger información del mundo natural en relación con las Ciencias de la Naturaleza y Sociales",
+        "El pensamiento abstracto matemático se desarrolla exclusivamente en el bloque 4 de sentido algebraico",
+        "Las Matemáticas y las Ciencias comparten el pensamiento abstracto como elemento curricular transversal exclusivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En relación con las Ciencias de la Naturaleza y Ciencias Sociales, 'su aprendizaje implica la adquisición de instrumentos para explorar, representar, explicar y predecir la realidad, a la vez que potencia el pensamiento abstracto para recoger información del mundo natural'."
+    },
+    {
+      "question": "¿Qué establece el texto sobre el objetivo específico de las Matemáticas de 'alcanzar una adecuada alfabetización numérica'?",
+      "options": [
+        "Que la alfabetización numérica se limita al dominio de los números naturales y las cuatro operaciones",
+        "Que implica adquirir conocimientos, habilidades y destrezas para entender situaciones, plantearlas como problemas, usar el razonamiento matemático, seleccionar herramientas, interpretar soluciones y tomar decisiones",
+        "Que la alfabetización numérica es un objetivo de etapa que se alcanza al terminar el segundo ciclo de la EP",
+        "Que la alfabetización numérica se centra en la comprensión del sistema de numeración decimal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La alfabetización numérica implica 'la adquisición de conocimientos, habilidades y destrezas para entender una situación, plantearla como problema y usar el razonamiento matemático para buscar una solución del contexto cotidiano, seleccionar las herramientas adecuadas para su resolución, interpretar las soluciones en contexto y tomar decisiones estratégicas'."
+    },
+    {
+      "question": "¿Qué papel juegan los 'ritmos, estilos y necesidades' del alumnado en la metodología matemática del Decreto 155/2022?",
+      "options": [
+        "Son factores que justifican la agrupación del alumnado por niveles de rendimiento",
+        "Son los elementos que deben respetarse a través del DUA y la aplicación de apoyos y refuerzos para la prevención de dificultades",
+        "Son criterios de evaluación diagnóstica al inicio de cada unidad didáctica",
+        "Son factores que determinan el número de sesiones semanales necesarias para cada alumno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La metodología debe integrar 'diversos métodos que atiendan a la diversidad del alumnado, respetando ritmos, estilos y necesidades a través del Diseño Universal para el Aprendizaje (DUA) y la aplicación apoyos y refuerzos para la prevención de dificultades'. La respuesta es preventiva y universal, no segregadora."
+    },
+    {
+      "question": "¿Qué indica el tema sobre la contribución del área de Matemáticas al desarrollo sostenible dentro de los elementos transversales?",
+      "options": [
+        "Las Matemáticas contribuyen al desarrollo sostenible mediante el análisis de datos medioambientales",
+        "El desarrollo sostenible es uno de los elementos transversales que debe incluirse en el área de Matemáticas según el artículo 17 del Decreto 155/2022",
+        "El desarrollo sostenible en Matemáticas se aborda exclusivamente en el bloque de sentido estocástico mediante la estadística ambiental",
+        "La contribución de las Matemáticas al desarrollo sostenible se realiza solo a través de los proyectos Meteoescolas y Proxecto ríos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 17 del Decreto 155/2022 establece que el 'desarrollo sostenible' es uno de los elementos transversales que debe incluirse en el área de Matemáticas, junto con otros como la comprensión lectora, la CD, la creatividad o el consumo responsable."
+    },
+    {
+      "question": "¿Cuál es la postura del Decreto 155/2022 sobre la evaluación en el área de Matemáticas respecto al proceso vs. el resultado?",
+      "options": [
+        "El decreto prioriza los resultados finales como indicadores más objetivos del aprendizaje matemático",
+        "El decreto valora tanto los procesos (fases, planteamientos, reflexión) como las estrategias (selección, comunicación, corrección) y los resultados contextualizados en situaciones cotidianas",
+        "El decreto establece que solo se evalúan los resultados al final de cada ciclo",
+        "El decreto deja a criterio del profesorado si priorizar el proceso o el resultado en la evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los criterios de evaluación del área valoran los procesos ('evaluar los procesos en la resolución de problemas, fases, planteamientos y validez de resultados siendo capaces de reflexionar sobre ellos'), las estrategias ('valorar estrategias de resolución') y los aprendizajes contextualizados. No hay jerarquía proceso-resultado; ambos se evalúan."
+    },
+    {
+      "question": "¿Qué relación existe entre el aprendizaje-servicio y el sentido socioemocional del área de Matemáticas?",
+      "options": [
+        "El aprendizaje-servicio pertenece al bloque 6 de sentido socioemocional del área",
+        "El aprendizaje-servicio 'combina el aprendizaje con un servicio a la comunidad dotando el conocimiento matemático de un sentido social y utilidad', lo que conecta con los valores del bloque 6",
+        "El aprendizaje-servicio desarrolla la competencia ciudadana sin relación directa con el sentido socioemocional",
+        "El aprendizaje-servicio es incompatible con el enfoque competencial del área de Matemáticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje-servicio 'combina el aprendizaje con un servicio a la comunidad dotando el conocimiento matemático de un sentido social y utilidad'. Esta dimensión social y comunitaria conecta directamente con el bloque 6 de sentido socioemocional que integra valores de respeto, igualdad y participación."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el OBJ7 y el OBJ8 del área de Matemáticas según el Decreto 155/2022?",
+      "options": [
+        "El OBJ7 es para el segundo ciclo y el OBJ8 para el tercer ciclo de la EP",
+        "El OBJ7 desarrolla destrezas personales para gestionar las propias emociones ante retos matemáticos; el OBJ8 desarrolla destrezas sociales para respetar las emociones de los demás y participar en equipos",
+        "El OBJ7 se evalúa mediante la observación y el OBJ8 mediante autoevaluación del alumnado",
+        "El OBJ7 es transversal a todos los bloques y el OBJ8 es exclusivo del bloque 6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ7 es sobre 'destrezas personales para identificar y gestionar emociones ante retos matemáticos' (dimensión intrapersonal), mientras que el OBJ8 es sobre 'destrezas sociales, para respetar las emociones y experiencias de los demás y participar activamente en equipos' (dimensión interpersonal). La diferencia es personal vs. social."
+    },
+    {
+      "question": "¿Cuál es el enfoque que prioriza la 'vivencia, manipulación y experimentación de los contenidos en estrecha relación con el entorno próximo del alumnado' según el tema?",
+      "options": [
+        "Enfoque competencial",
+        "Enfoque experimental",
+        "Enfoque de aprendizaje gradual y progresivo",
+        "Enfoque globalizador"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El enfoque experimental es el 'basado en la vivencia, manipulación y experimentación de los contenidos, en estrecha relación con el entorno próximo del alumnado'. Este enfoque sitúa la práctica como fundamental para el aprendizaje y tiene como ejes la resolución de problemas y las destrezas socioemocionales."
+    }
+  ]
+}

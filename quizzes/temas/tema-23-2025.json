@@ -1,0 +1,2098 @@
+{
+  "title": "Tema 23. Las magnitudes y su medida",
+  "description": "Preguntas de nivel difícil sobre magnitudes y su medida, unidades e instrumentos de medida, estimación y aproximación, y recursos didácticos para la intervención educativa en Educación Primaria.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿En qué año fue creado el Sistema Internacional de Medidas (SI) y por qué organismo?",
+      "options": [
+        "En 1960, por la XI Conferencia General de Pesas y Medidas (CGPM)",
+        "En 1875, por el Comité Internacional de Pesas y Medidas (CIPM)",
+        "En 1948, por la X Conferencia General de Pesas y Medidas (CGPM)",
+        "En 1955, por la Organización Internacional de Normalización (ISO)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Sistema Internacional de Medidas (SI) fue creado en 1960 por la XI Conferencia General de Pesas y Medidas (CGPM), con el objetivo de unificar las unidades de medida a nivel global."
+    },
+    {
+      "question": "Según el texto, ¿cuáles son las tres funciones principales que justifican la presencia de las matemáticas en el currículo?",
+      "options": [
+        "Papel formativo, papel aplicado y funcional, y papel instrumental",
+        "Papel cognitivo, papel social y papel tecnológico",
+        "Papel formativo, papel evaluador y papel instrumental",
+        "Papel lógico, papel aplicado y papel comunicativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las matemáticas desempeñan tres funciones: un papel formativo (desarrolla capacidades intelectuales), un papel aplicado y funcional (proporciona herramientas para resolver problemas cotidianos) y un papel instrumental (facilita el acceso a otros conocimientos)."
+    },
+    {
+      "question": "¿Qué define a las magnitudes fundamentales, según el texto?",
+      "options": [
+        "Son básicas, no dependen de otras y se eligen por su frecuencia de uso",
+        "Se expresan mediante fórmulas que combinan otras magnitudes",
+        "Requieren especificar dirección y sentido para definirse completamente",
+        "Dependen de magnitudes derivadas para poder ser calculadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las magnitudes fundamentales son básicas, no dependen de otras magnitudes y se eligen por su frecuencia de uso. Ejemplos: masa, longitud y tiempo. Las magnitudes derivadas, en cambio, se definen a partir de las fundamentales."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre magnitudes escalares y vectoriales?",
+      "options": [
+        "Las escalares se definen con un número; las vectoriales requieren número, dirección y sentido",
+        "Las escalares dependen de otras magnitudes; las vectoriales son independientes",
+        "Las escalares tienen sustrato físico; las vectoriales no tienen base material",
+        "Las escalares son fundamentales; las vectoriales son siempre derivadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las magnitudes escalares se definen únicamente por un número (como la temperatura o el tiempo). Las magnitudes vectoriales, además de un número o módulo, requieren especificar su dirección y sentido, como la velocidad."
+    },
+    {
+      "question": "Según Godino et al. (2002), ¿en qué consiste el acto de medir?",
+      "options": [
+        "Asignar una valoración numérica objetiva a una magnitud comparándola con una unidad tomada como referencia",
+        "Estimar el valor aproximado de una magnitud usando los sentidos y la experiencia previa",
+        "Determinar la medida de una magnitud sin usar instrumentos de medición convencionales",
+        "Establecer la relación entre dos magnitudes del mismo tipo para obtener un cociente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Godino et al. (2002), medir consiste en asignar una valoración numérica objetiva a una magnitud, comparándola con una cantidad unitaria de la misma magnitud tomada arbitrariamente como referencia (unidad de medida)."
+    },
+    {
+      "question": "¿Cuáles son las tres condiciones que debe reunir toda unidad de medida para cumplir adecuadamente su función?",
+      "options": [
+        "Ser inalterable, universal y fácilmente reproducible",
+        "Ser precisa, cómoda y coherente con otras unidades del sistema",
+        "Ser accesible, verificable y matemáticamente exacta",
+        "Ser estándar, adaptable y de uso frecuente en el entorno escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Toda unidad de medida debe ser: inalterable (no modificarse con el tiempo ni según quien mida), universal (usarse en todos los países) y fácilmente reproducible. Estas condiciones garantizan comparaciones precisas y comunicación exacta."
+    },
+    {
+      "question": "¿Cuál es la diferencia conceptual entre 'medición' y 'medida' según el texto?",
+      "options": [
+        "Medición es el proceso de determinar la valoración numérica; medida es el resultado concreto obtenido",
+        "Medida es el proceso de comparar; medición es el instrumento usado para comparar",
+        "Medición es la estimación aproximada; medida es el valor exacto obtenido con instrumentos",
+        "Medida es el procedimiento técnico; medición es la interpretación del valor obtenido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La medición es el proceso de determinar la valoración numérica usando instrumentos y técnicas propias de cada magnitud. La medida es el resultado concreto obtenido de ese proceso de medición."
+    },
+    {
+      "question": "¿Cuántas magnitudes básicas reconoce el Sistema Internacional (SI) y cuáles son las más trabajadas en Educación Primaria?",
+      "options": [
+        "Siete magnitudes; en EP se trabajan principalmente longitud, masa y tiempo",
+        "Cinco magnitudes; en EP se trabajan longitud, masa y temperatura",
+        "Seis magnitudes; en EP se trabajan longitud, volumen y tiempo",
+        "Ocho magnitudes; en EP se trabajan masa, temperatura y cantidad de sustancia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El SI reconoce siete magnitudes básicas: longitud, masa, tiempo, temperatura, intensidad de corriente, intensidad luminosa y cantidad de sustancia. Las más trabajadas en Educación Primaria son la longitud, la masa y el tiempo."
+    },
+    {
+      "question": "Según Piaget, ¿a qué edad aproximada los niños comienzan a adquirir el principio de conservación de la longitud?",
+      "options": [
+        "A los 7 u 8 años",
+        "A los 5 o 6 años",
+        "A los 9 o 10 años",
+        "A los 11 o 12 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Godino et al. (2004), basándose en los estudios de Piaget, la comprensión del principio de conservación de la longitud (que las características del objeto no cambian pese a variaciones en su posición) comienza a adquirirse sobre los 7 u 8 años."
+    },
+    {
+      "question": "¿A qué edad son capaces los niños de medir el volumen tridimensional utilizando un elemento de comparación, según el texto?",
+      "options": [
+        "A los 11 y 12 años",
+        "A los 8 y 9 años",
+        "A los 9 y 10 años",
+        "A los 13 y 14 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, es a los 11 y 12 años cuando los niños son capaces de medir el volumen tridimensional utilizando un elemento de comparación. Esto tiene implicaciones directas en la secuenciación didáctica a lo largo de los tres ciclos de Educación Primaria."
+    },
+    {
+      "question": "¿Cuántas condiciones esenciales deben reunir las unidades fundamentales del SI según Godino et al. (2004)?",
+      "options": [
+        "Cuatro: comodidad, invariabilidad, inalterabilidad y reproducibilidad",
+        "Tres: universalidad, inalterabilidad y reproducibilidad",
+        "Cinco: comodidad, precisión, universalidad, invariabilidad y reproducibilidad",
+        "Dos: inalterabilidad y universalidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las unidades fundamentales deben reunir cuatro condiciones: comodidad (orden de magnitud adecuado), invariabilidad (valor constante), inalterabilidad (no afectadas por agentes externos) y reproducibilidad (fácilmente replicables)."
+    },
+    {
+      "question": "¿Cuáles son las cinco unidades de medida con mayor presencia curricular en Educación Primaria según el texto?",
+      "options": [
+        "Metro, gramo, segundo, litro y metro cuadrado",
+        "Kilómetro, kilogramo, hora, litro y metro cúbico",
+        "Metro, kilogramo, minuto, decilitro y centímetro cuadrado",
+        "Centímetro, gramo, segundo, mililitro y metro cuadrado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las unidades de medida con mayor presencia curricular en Educación Primaria son el metro, el gramo, el segundo, el litro y el metro cuadrado. Estas son las unidades básicas que los alumnos deben manejar a lo largo de la etapa."
+    },
+    {
+      "question": "¿Cómo se define el metro según Godino et al. (2004)?",
+      "options": [
+        "Se define por la luz en el vacío",
+        "Se basa en un cilindro de platino-iridio conservado en París",
+        "Es la fracción del día solar medio",
+        "Se define como la longitud de un péndulo de período exacto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Godino et al. (2004), el metro se define por la luz en el vacío. El kilogramo se basa en un cilindro de platino-iridio, y el segundo es una fracción del día solar medio."
+    },
+    {
+      "question": "¿Cuál es la primera fase en la adquisición del concepto de unidad según Chamorro y Belmonte (1988)?",
+      "options": [
+        "Ausencia de unidad: los niños usan comparaciones visuales sin medir",
+        "Unidad objetal: la unidad está ligada al objeto que se va a medir",
+        "Unidad situacional: la unidad depende del objeto pero puede cambiar",
+        "Unidad figural: la unidad comienza a transferirse entre objetos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La primera fase es la ausencia de unidad, en la que los niños usan comparaciones visuales sin medir. Le siguen la unidad objetal, la unidad situacional, la unidad figural y, finalmente, la unidad propiamente dicha."
+    },
+    {
+      "question": "¿En qué consiste la fase de 'unidad propiamente dicha' de Chamorro y Belmonte (1988)?",
+      "options": [
+        "La unidad se utiliza con total independencia del objeto medido",
+        "La unidad se transfiere entre objetos pero varía según el tamaño del objeto",
+        "La unidad está ligada al objeto que se va a medir y a lo que se mide",
+        "La unidad depende del objeto pero puede ir cambiando según el contexto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La fase final, 'unidad propiamente dicha', es el nivel en el que la unidad se utiliza con total independencia del objeto medido. Supone la plena comprensión del concepto abstracto de unidad de medida."
+    },
+    {
+      "question": "¿Por qué los instrumentos de medida son esenciales según el texto?",
+      "options": [
+        "Porque suplen las limitaciones sensoriales, permiten medir magnitudes no perceptibles y captar variaciones muy pequeñas o valores extremos",
+        "Porque eliminan el error humano en las mediciones y garantizan resultados perfectamente exactos",
+        "Porque son más rápidos que los métodos de estimación y facilitan el trabajo en el aula",
+        "Porque permiten medir cualquier tipo de magnitud con una sola herramienta estandarizada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los instrumentos de medida son esenciales porque suplen las limitaciones de los sentidos: las percepciones sensoriales pueden ser erróneas, hay magnitudes no directamente perceptibles, y los valores muy grandes, pequeños o las variaciones mínimas tampoco pueden captarse sensorialmente."
+    },
+    {
+      "question": "¿Qué instrumentos se utilizan para medir la temperatura en el contexto educativo mencionado en el texto?",
+      "options": [
+        "Termómetros de mercurio, clínicos, digitales y de máxima y mínima",
+        "Termómetros de infrarrojos, de contacto, digitales y de gas",
+        "Termómetros de cuarzo, atómicos, de mercurio y analógicos",
+        "Termómetros de arena, de líquido, digitales y de platino"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para medir la temperatura se emplean termómetros de mercurio, clínicos, digitales y de máxima y mínima. Estos son los instrumentos adecuados para el trabajo en el contexto de Educación Primaria."
+    },
+    {
+      "question": "¿Qué instrumentos se mencionan para medir la masa en Educación Primaria?",
+      "options": [
+        "La balanza de granatorio y la balanza digital",
+        "La báscula de resorte y el dinamómetro",
+        "La balanza de platillos y el densímetro",
+        "El pesómetro analógico y la balanza de brazos iguales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para medir la masa se emplean la balanza de granatorio, que permite medir comparando con otras masas, y la balanza digital. La balanza de granatorio es especialmente útil para introducir el concepto de medición por comparación."
+    },
+    {
+      "question": "¿Qué instrumentos se usan para medir los ángulos según el texto?",
+      "options": [
+        "El transportador y el compás",
+        "El goniómetro y el inclinómetro",
+        "El compás y el escuadra graduada",
+        "El calibrador y el micrómetro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, para los ángulos se usan el transportador y el compás. Otros instrumentos específicos incluyen probetas para volumen, barómetros para presión, voltímetro y amperímetro para magnitudes eléctricas."
+    },
+    {
+      "question": "¿Cuáles son los dos tipos de medida distinguidos en el texto según la forma de realizarla?",
+      "options": [
+        "Medida directa, usando instrumentos; y medida indirecta, calculada mediante operaciones aritméticas",
+        "Medida exacta, con instrumentos precisos; y medida aproximada, por estimación",
+        "Medida fundamental, de magnitudes básicas; y medida derivada, de magnitudes compuestas",
+        "Medida convencional, con unidades del SI; y medida no convencional, con partes del cuerpo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se distinguen la medida directa (se realiza utilizando instrumentos de medida como el metro o el litro) y la medida indirecta (se calcula a partir de operaciones aritméticas, cuando el objeto no puede medirse directamente)."
+    },
+    {
+      "question": "¿Cuáles son los dos tipos de sistemas de medida que se distinguen a nivel escolar según el texto?",
+      "options": [
+        "Sistemas regulares, con unidades principales y múltiplos/divisores; y sistemas irregulares, sin relación decimal",
+        "Sistemas convencionales, adoptados por acuerdo internacional; y sistemas no convencionales, de uso local",
+        "Sistemas métricos, basados en potencias de diez; y sistemas anglosajones, basados en fracciones",
+        "Sistemas fundamentales, para magnitudes básicas; y sistemas derivados, para magnitudes compuestas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se distinguen los sistemas regulares de unidades de medida (poseen unidades principales con múltiplos y divisores) y los sistemas irregulares (no contienen unidades principales ni subunidades con relación decimal entre ellas)."
+    },
+    {
+      "question": "¿Qué función cumplen los estándares de medida según el texto?",
+      "options": [
+        "Permiten comunicar medidas de forma abreviada y directa, y garantizan medidas precisas y consistentes en diferentes áreas geográficas",
+        "Establecen los límites de error aceptables en los instrumentos de medición industrial",
+        "Definen los protocolos para la calibración periódica de los instrumentos de medida",
+        "Determinan qué unidades deben usarse en cada área del conocimiento científico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los estándares de medida cumplen al menos dos funciones esenciales: permiten comunicar medidas de un modo abreviado y directo, y garantizan medidas precisas y consistentes en diferentes áreas geográficas."
+    },
+    {
+      "question": "¿Cuáles son los seis pasos del proceso de medida de magnitudes según el texto?",
+      "options": [
+        "Seleccionar el objeto, percibir qué medir, elegir la unidad, seleccionar el instrumento, comparar la cantidad con la unidad, y representar el valor resultante",
+        "Identificar la magnitud, estimar el valor, elegir el instrumento, medir, registrar el resultado y verificar la medición",
+        "Observar el objeto, definir la unidad, calibrar el instrumento, medir, calcular el error y presentar el resultado",
+        "Seleccionar el objeto, definir la magnitud, comparar con referentes, ajustar la unidad, medir y expresar el resultado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso de medida sigue seis pasos: (1) seleccionar el objeto, (2) percibir qué debe medirse, (3) elegir la unidad correspondiente, (4) seleccionar el instrumento adecuado, (5) comparar la cantidad con la unidad (operación física y matemática), y (6) representar el valor resultante."
+    },
+    {
+      "question": "¿Qué dos tipos de operaciones conlleva el quinto paso del proceso de medida según el texto?",
+      "options": [
+        "Una operación física propia de la magnitud y una operación matemática o cálculo aritmético",
+        "Una operación de estimación previa y una operación de medición instrumental exacta",
+        "Una operación de comparación visual y una operación de verificación con herramientas",
+        "Una operación de selección del instrumento y una operación de calibración del mismo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El quinto paso (comparar la cantidad con la unidad) conlleva una operación física propia de la magnitud (como medir una distancia con cinta métrica) y una operación matemática o cálculo aritmético para determinar cuántas veces está contenida la unidad en la cantidad."
+    },
+    {
+      "question": "¿Cómo define el texto la estimación en el contexto de la medida?",
+      "options": [
+        "El proceso de obtener una medida sin el uso de instrumentos, basándose únicamente en juicios subjetivos sobre las características de un objeto",
+        "El proceso de calcular el valor exacto de una magnitud utilizando técnicas matemáticas avanzadas",
+        "El proceso de aproximar el resultado de una medición después de realizarla con instrumentos",
+        "El proceso de comparar dos magnitudes diferentes para obtener su relación numérica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estimación en medida es el proceso de obtener una medida sin el uso de instrumentos, basándose únicamente en juicios subjetivos sobre las características de un objeto. El resultado se denomina medida estimada o aproximada."
+    },
+    {
+      "question": "¿Qué implica la estimación a nivel escolar según el texto?",
+      "options": [
+        "Tener interiorizada la unidad de medida correspondiente, como el metro o el gramo",
+        "Conocer los instrumentos de medida y sus graduaciones con precisión",
+        "Saber calcular el error cometido en cada estimación realizada",
+        "Dominar los múltiplos y divisores del sistema métrico decimal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A nivel escolar, la estimación implica tener interiorizada la unidad de medida correspondiente (como el metro o el gramo). No es solo una aproximación casual, sino que requiere haber construido representaciones mentales ajustadas de las unidades."
+    },
+    {
+      "question": "¿Cuáles son las dos estrategias de estimación que distingue Segovia (2017)?",
+      "options": [
+        "La comparación, que relaciona el objeto con un referente; y la descomposición y recomposición, que divide la cantidad en partes",
+        "La interiorización, que construye representaciones mentales; y el referente, que usa partes del cuerpo como medida",
+        "La estimación directa, para objetos accesibles; y la estimación indirecta, usando fórmulas matemáticas",
+        "La estimación perceptiva, basada en los sentidos; y la estimación calculada, usando operaciones aritméticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Segovia (2017) distingue dos estrategias: la comparación (relacionar mentalmente el objeto a estimar con una cantidad referente o unidad interiorizada) y la descomposición y recomposición (dividir la cantidad en partes más pequeñas, apreciar cada una y valorarlas conjuntamente)."
+    },
+    {
+      "question": "¿Qué tres destrezas son necesarias para realizar buenas estimaciones según el texto?",
+      "options": [
+        "Interiorización de unidades, conocimiento de referentes, y dominio de técnicas indirectas",
+        "Precisión visual, memoria numérica y rapidez de cálculo mental",
+        "Manejo de instrumentos, conocimiento de fórmulas y experiencia práctica",
+        "Comparación, descomposición y verificación experimental de resultados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tres destrezas para realizar buenas estimaciones son: la interiorización (representaciones mentales ajustadas de las unidades), el referente (conocer medidas de partes del cuerpo u objetos frecuentes del entorno) y las técnicas indirectas (aplicar fórmulas para calcular longitudes no medibles directamente)."
+    },
+    {
+      "question": "¿Qué referentes corporales menciona el texto como instrumentos de medida aproximada para los niños?",
+      "options": [
+        "El palmo, el pie, el paso y el dedo",
+        "El codo, la cuarta, la vara y la braza",
+        "La mano, el brazo, el pie y la altura corporal",
+        "El pulgar, el pie, el paso y el antebrazo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona el palmo, el pie, el paso y el dedo como referentes corporales que los niños deben tener interiorizados para usarlos como instrumentos de medida aproximada. Estos referentes son fundamentales en las primeras fases del aprendizaje de la estimación."
+    },
+    {
+      "question": "¿Cuáles son los tres momentos de la secuencia didáctica del proceso de medición según el texto?",
+      "options": [
+        "Percepción, comparación y asignación de una referencia estándar",
+        "Observación, medición y registro del resultado obtenido",
+        "Estimación, medición y verificación del error cometido",
+        "Identificación, comparación y abstracción de la unidad de medida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La secuencia didáctica del proceso de medición pasa por tres momentos: percepción (identificar qué medir), comparación (necesidad de patrón de medida estándar) y asignación de una referencia estándar (uso de unidades del SI, partiendo de unidades no convencionales)."
+    },
+    {
+      "question": "¿Cómo define el Decreto 155/2022 las orientaciones pedagógicas en su artículo 6?",
+      "options": [
+        "Indicaciones para orientar al profesorado en el diseño y planificación de estrategias con la finalidad de favorecer el aprendizaje",
+        "Instrucciones para organizar el currículo de las áreas en los distintos ciclos de Educación Primaria",
+        "Directrices para evaluar el progreso del alumnado mediante distintos instrumentos y procedimientos",
+        "Recomendaciones para adaptar los contenidos a las necesidades específicas del alumnado con dificultades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las orientaciones pedagógicas como indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes para favorecer el aprendizaje y la adquisición de competencias clave."
+    },
+    {
+      "question": "¿Qué objetivo de etapa de EP recoge el artículo 7 del Decreto 155/2022 relacionado con el tema?",
+      "options": [
+        "Desarrollar competencias matemáticas básicas e iniciarse en la resolución de problemas con operaciones elementales, geometría y estimaciones aplicables a la vida cotidiana",
+        "Dominar el sistema métrico decimal y los instrumentos de medida para su uso en situaciones reales",
+        "Adquirir el pensamiento lógico-matemático y la capacidad de abstracción necesarios para la educación secundaria",
+        "Comprender las relaciones entre magnitudes y usar el Sistema Internacional en contextos científicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 7 del Decreto 155/2022 establece como objetivo de etapa (objetivo g): desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas que requieran operaciones elementales, conocimientos geométricos y estimaciones, aplicándolos a situaciones de la vida cotidiana."
+    },
+    {
+      "question": "¿En qué bloque curricular se enmarca el sentido de la medida según el Decreto 155/2022?",
+      "options": [
+        "Bloque 2 'Sentido de la Medida'",
+        "Bloque 3 'Sentido Espacial y Geométrico'",
+        "Bloque 1 'Sentido Numérico'",
+        "Bloque 4 'Sentido Algebraico'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El sentido de la medida se enmarca en el Decreto 155/2022 en el área de matemáticas en el Bloque 2 'Sentido de la Medida', centrado en comparar atributos, elegir unidades adecuadas, usar instrumentos y comprender relaciones entre magnitudes."
+    },
+    {
+      "question": "¿Qué tipo de metodologías promueve el Decreto 155/2022 para la enseñanza de las matemáticas?",
+      "options": [
+        "Metodologías activas y globalizadoras como el aprendizaje basado en problemas y en proyectos",
+        "Metodologías transmisivas centradas en la explicación directa del docente",
+        "Metodologías individuales y competitivas que fomenten el esfuerzo personal",
+        "Metodologías digitales basadas en el uso intensivo de las tecnologías de la información"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 promueve metodologías activas y globalizadoras, como el aprendizaje basado en problemas y en proyectos, vinculadas a contextos reales, cotidianos y matemáticos, que respondan a la diversidad del aula."
+    },
+    {
+      "question": "¿Cuáles son los cuatro momentos de la secuencia de aprendizaje guiado que menciona el texto?",
+      "options": [
+        "Vivencia, manipulación, representación y abstracción",
+        "Observación, experimentación, formalización y evaluación",
+        "Motivación, exploración, consolidación y transferencia",
+        "Percepción, comparación, medición y abstracción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La enseñanza debe seguir una secuencia de vivencia, manipulación, representación y abstracción. Este proceso respeta el estadio de operaciones concretas de Piaget en el que se encuentran los alumnos de Educación Primaria."
+    },
+    {
+      "question": "¿Cuál es la distinción entre materiales manipulativos no estructurados y estructurados según el texto?",
+      "options": [
+        "Los no estructurados no fueron diseñados con fines educativos pero resultan útiles; los estructurados fueron diseñados específicamente para la enseñanza",
+        "Los no estructurados son materiales digitales sin secuencia fija; los estructurados son materiales con actividades predefinidas",
+        "Los no estructurados permiten la experimentación libre; los estructurados siguen un protocolo de uso obligatorio",
+        "Los no estructurados son recursos del entorno natural; los estructurados son materiales fabricados industrialmente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los materiales manipulativos no estructurados no fueron diseñados con fines educativos pero resultan útiles (monedas, envases, piedras). Los estructurados fueron diseñados específicamente para la enseñanza, como policubos, tangrams, regletas encajables y geoplanos."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre instrumentos de medición estándar y no estándar según el texto?",
+      "options": [
+        "Los estándar son instrumentos convencionales como reglas o balanzas; los no estándar son palillos, cuadrículas o partes del cuerpo",
+        "Los estándar pertenecen al SI; los no estándar son del sistema métrico antiguo",
+        "Los estándar son digitales; los no estándar son analógicos o mecánicos",
+        "Los estándar miden magnitudes fundamentales; los no estándar miden magnitudes derivadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los instrumentos estándar incluyen la regla graduada, la cinta métrica, cronómetros, recipientes graduados y balanzas de platillos. Los no estándar son palillos, tiras de cartón, cuadrículas o partes del cuerpo, especialmente útiles en las primeras fases del aprendizaje."
+    },
+    {
+      "question": "¿Qué ventajas específicas tienen las TIC para la enseñanza de la medida según el texto?",
+      "options": [
+        "Autonomía, adaptación al ritmo individual y motivación",
+        "Precisión matemática, eliminación de errores y retroalimentación inmediata",
+        "Acceso a datos reales, visualización 3D y trabajo colaborativo en red",
+        "Reproducción de experimentos, simulación de mediciones y registro automático"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las TIC permiten alcanzar los mismos objetivos que los materiales manipulativos en entorno virtual, con ventajas como la autonomía, la adaptación al ritmo individual y la motivación. Sin embargo, deben usarse con cautela y como complemento, no sustituto, de las actividades manipulativas."
+    },
+    {
+      "question": "Según el texto, ¿qué papel debe desempeñar el docente respecto al uso de las TIC en la enseñanza de la medida?",
+      "options": [
+        "Decidir cuándo y cómo usarlas, proponer actividades y mantener el foco en el problema matemático, no en el dispositivo",
+        "Delegar en el alumnado la selección de las herramientas digitales más adecuadas para cada actividad",
+        "Integrar las TIC en todas las actividades para garantizar la equidad digital del alumnado",
+        "Supervisar el uso técnico de los dispositivos y resolver los problemas informáticos que surjan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El docente debe garantizar que el foco permanezca en el problema matemático y no en el manejo del dispositivo. Debe decidir cuándo y cómo usar las TIC, proponer actividades y fomentar el interés por los métodos matemáticos tradicionales. La tecnología complementa, no sustituye, las actividades manipulativas."
+    },
+    {
+      "question": "¿Qué situaciones y problemas reales del entorno cotidiano menciona el texto para trabajar los contenidos de medida?",
+      "options": [
+        "Altura y peso corporal, tallas de ropa, recetas de cocina, horarios de actividades y distancias entre lugares",
+        "Precios de productos, temperaturas meteorológicas, velocidades de vehículos y capacidades de recipientes",
+        "Áreas de habitaciones, volúmenes de envases, tiempos de transporte y consumo energético",
+        "Longitudes de rutas, masas de alimentos, duraciones de películas y superficies de terrenos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona como situaciones del entorno cotidiano: la medición de la altura y el peso corporal, las tallas de ropa, las recetas de cocina, los horarios de actividades, las distancias entre lugares y rutas conocidas."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre magnitudes con sustrato físico y magnitudes sin sustrato físico?",
+      "options": [
+        "Las de sustrato físico tienen base material (longitud, peso, superficie); las sin sustrato físico son más abstractas (tiempo, temperatura)",
+        "Las de sustrato físico son fundamentales; las sin sustrato físico son derivadas de otras magnitudes",
+        "Las de sustrato físico se miden directamente; las sin sustrato físico solo se estiman",
+        "Las de sustrato físico son escalares; las sin sustrato físico son vectoriales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las magnitudes con sustrato físico tienen base material o física (longitud, peso, superficie) y resultan más accesibles perceptivamente. Las sin sustrato físico (tiempo, temperatura) cuya percepción resulta más abstracta para el alumnado, lo que tiene implicaciones didácticas."
+    },
+    {
+      "question": "¿Qué dos propiedades esenciales comparten todas las cantidades de una magnitud según el texto?",
+      "options": [
+        "Pueden ordenarse según su grado de intensidad y pueden medirse de forma objetiva",
+        "Pueden sumarse aritméticamente y pueden dividirse en partes iguales",
+        "Pueden expresarse en unidades del SI y pueden convertirse entre sistemas",
+        "Pueden compararse visualmente y pueden representarse gráficamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las distintas cantidades de una magnitud comparten dos propiedades esenciales: pueden ordenarse (según su mayor o menor grado o intensidad) y pueden medirse (es posible establecer su valor, exacto o aproximado, de forma objetiva)."
+    },
+    {
+      "question": "¿Cómo combina el individuo el aprendizaje de la medida según Godino et al. (2004)?",
+      "options": [
+        "Combinando destrezas sensoriales y perceptivas con aspectos de geometría y aritmética, e interviniendo también procesos psicológicos",
+        "Combinando la memorización de fórmulas con la práctica repetitiva de mediciones en el aula",
+        "Combinando el trabajo individual con el aprendizaje cooperativo y la evaluación formativa",
+        "Combinando el conocimiento teórico de los sistemas de medida con el manejo técnico de instrumentos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Godino et al. (2004), un individuo aprende a medir mediante la combinación de destrezas sensoriales y perceptivas con aspectos de geometría y aritmética, interviniendo también procesos psicológicos que ayudan a comprender la utilidad del sistema de medición."
+    },
+    {
+      "question": "¿A qué edad los niños comienzan a comprender la medición de la superficie de forma más precisa, aplicando un enfoque lógico?",
+      "options": [
+        "A los 8-10 años, comenzando a aplicar un enfoque lógico y a medir por recubrimiento con unidades más pequeñas",
+        "A los 6-7 años, mediante métodos de ensayo y error con unidades no convencionales",
+        "A los 11-12 años, simultáneamente con la adquisición de la noción de volumen tridimensional",
+        "A los 5-6 años, con la comprensión de la conservación básica de las propiedades físicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los niños no suelen comprender la medición de la superficie de forma precisa hasta los 8-10 años. Inicialmente usan métodos de ensayo y error, y es a partir de esa edad cuando comienzan a aplicar un enfoque más lógico y adquieren la noción de medir por recubrimiento."
+    },
+    {
+      "question": "¿Qué ejemplos de materiales estructurados para la enseñanza de la medida menciona el texto?",
+      "options": [
+        "Policubos, tangrams, regletas encajables, geoplanos, dominós sobre el sistema métrico y listones de longitudes",
+        "Metros articulados, balanzas de platillos, probetas graduadas y relojes de arena",
+        "Monedas, billetes, piedras, envases y objetos cotidianos del entorno del alumno",
+        "Calculadoras, tabletas digitales, programas de geometría dinámica y aplicaciones de medida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los materiales estructurados diseñados específicamente para la enseñanza incluyen policubos, tangrams, regletas encajables, geoplanos, dominós sobre el sistema métrico y unidades, materiales de fracciones y listones que representan las principales medidas de longitud."
+    },
+    {
+      "question": "¿Qué criterios para elegir el instrumento de medida más adecuado menciona el texto?",
+      "options": [
+        "Tamaño del objeto, economía en el proceso, precisión, rapidez y facilidad de manipulación",
+        "Coste del instrumento, disponibilidad en el aula, durabilidad y facilidad de calibración",
+        "Exactitud de la medida, tipo de magnitud, número de alumnos y tiempo disponible",
+        "Compatibilidad con el SI, portabilidad, resistencia y rango de medición"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los criterios para elegir el instrumento de medida más adecuado son: el tamaño del objeto, la economía en el proceso, la precisión requerida, la rapidez de la medición y la facilidad de manipulación."
+    },
+    {
+      "question": "¿Qué razones menciona el texto para trabajar la estimación en el aula?",
+      "options": [
+        "Permite trabajar con simulaciones de situaciones reales, atiende a la razonabilidad de los resultados, desarrolla el pensamiento ágil, fomenta estrategias propias y tolera el error como aprendizaje",
+        "Reduce el tiempo de medición, elimina la necesidad de instrumentos y facilita la evaluación del alumnado",
+        "Desarrolla la memoria numérica, mejora el cálculo mental y prepara para el uso de calculadoras",
+        "Anticipa los resultados exactos, minimiza los errores de medición y optimiza el uso de materiales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las razones para trabajar la estimación incluyen: trabajar con simulaciones de situaciones reales, atender a la razonabilidad de resultados, desarrollar el pensamiento ágil e hipotético, fomentar estrategias propias y comprensivas, conectar con resolución de problemas, tolerar el error y aplicar distintas estrategias."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la Educación Primaria según el artículo 4 del Decreto 155/2022?",
+      "options": [
+        "Facilitar al alumnado los aprendizajes del cálculo y habilidades lógico-matemáticas, entre otros, para garantizar una formación integral y prepararlo para la ESO",
+        "Desarrollar el pensamiento abstracto y las competencias científicas necesarias para la educación secundaria",
+        "Proporcionar conocimientos matemáticos básicos para la resolución de problemas de la vida cotidiana",
+        "Garantizar la adquisición del sistema métrico decimal y las unidades del Sistema Internacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el artículo 4 del Decreto 155/2022, la finalidad de la EP es facilitar al alumnado los aprendizajes del cálculo y las habilidades lógicas y matemáticas, entre otros, a fin de garantizar una formación integral que contribuya al pleno desarrollo de su personalidad y prepararlo para la ESO."
+    },
+    {
+      "question": "¿Qué autores destacan la importancia de la medida por su relación con los sistemas numéricos y la geometría?",
+      "options": [
+        "Godino et al. (2004) y Alsina (2004)",
+        "Chamorro y Belmonte (1988) y Segovia (2017)",
+        "Rico y Flores (2015) y Chamorro (2003)",
+        "Piaget y Godino et al. (2002)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Godino et al. (2004) y Alsina (2004) destacan la importancia de la medida por su estrecha relación con los sistemas numéricos o con las formas y figuras de la geometría."
+    },
+    {
+      "question": "¿Qué capacidades requiere el desarrollo de la estimación en el aula según el texto?",
+      "options": [
+        "Análisis, identificación de la magnitud, trabajo en equipo, formulación de hipótesis, juego, localización de referentes, ensayo y error, manipulación y verificación",
+        "Memorización de unidades, precisión numérica, velocidad de cálculo y dominio instrumental",
+        "Observación sistemática, registro de datos, interpretación gráfica y comunicación matemática",
+        "Abstracción lógica, razonamiento deductivo, aplicación de fórmulas y verificación experimental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El desarrollo de la estimación requiere capacidades como: análisis, identificación de la magnitud, trabajo en equipo, formulación de hipótesis, juego como recurso motivador, localización de puntos de referencia, ensayo y error, manipulación, operación, planificación y verificación de resultados."
+    },
+    {
+      "question": "¿Cuál es el rol del profesor en la enseñanza de las matemáticas según el Decreto 155/2022?",
+      "options": [
+        "Actúa como mediador y facilitador, seleccionando recursos variados y promoviendo un entorno de exploración e interacción",
+        "Actúa como transmisor de conocimiento, explicando los contenidos de forma clara y sistemática",
+        "Actúa como evaluador principal, diseñando pruebas para verificar el aprendizaje del alumnado",
+        "Actúa como organizador del currículo, adaptando los contenidos a los distintos niveles del aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En relación al rol del profesor, este actúa como mediador y facilitador, seleccionando recursos variados y promoviendo un entorno de aprendizaje para la exploración, la interacción y la seguridad en la resolución de retos."
+    },
+    {
+      "question": "¿Qué instrumento se menciona para medir la presión además del barómetro?",
+      "options": [
+        "El manómetro",
+        "El altímetro",
+        "El anemómetro",
+        "El higrómetro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona barómetros y manómetros para medir la presión. El barómetro mide la presión atmosférica, mientras que el manómetro mide la presión de fluidos en sistemas cerrados."
+    },
+    {
+      "question": "¿Qué instrumentos se mencionan para medir las magnitudes eléctricas?",
+      "options": [
+        "El voltímetro de tensión y el amperímetro de intensidad",
+        "El ohmímetro de resistencia y el vatímetro de potencia",
+        "El galvanómetro de corriente y el electrómetro de carga",
+        "El oscilómetro de frecuencia y el multímetro de magnitudes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para las magnitudes eléctricas se mencionan el voltímetro (para la tensión) y el amperímetro (para la intensidad). Estos son los instrumentos básicos de medida eléctrica relevantes para la etapa educativa."
+    },
+    {
+      "question": "¿Qué instrumentos se usan para medir superficies según el texto?",
+      "options": [
+        "Papel cuadriculado, papel milimetrado, tramas y geoplanos",
+        "Regla graduada, transportador, escuadra y compás",
+        "Metros articulados, cintas métricas y flexómetros",
+        "Planómetros, curvímetros y digitalizadores de superficie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para las superficies se mencionan el papel cuadriculado, el papel milimetrado, las tramas y los geoplanos. Estos materiales permiten al alumnado trabajar el concepto de superficie de forma manipulativa."
+    },
+    {
+      "question": "¿Cuáles son los instrumentos más precisos para medir la longitud mencionados en el texto?",
+      "options": [
+        "La regla, el flexómetro o cinta métrica, el micrómetro y el calibrador",
+        "La vara de medir, el odómetro, el teodolito y el telémetro",
+        "El curvímetro, la cinta métrica, el estadímetro y el nivel",
+        "El compás de puntas, la regla de acero, el pie de rey y la cinta de agrimensor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los instrumentos más exactos para medir la longitud son: la regla, el flexómetro o cinta métrica, el micrómetro y el calibrador. Inicialmente pueden emplearse partes del cuerpo como la mano, el pie o el dedo."
+    },
+    {
+      "question": "¿Qué tipos de relojes se mencionan en el texto para medir el tiempo?",
+      "options": [
+        "De sol, de arena, de cuarzo, digitales y atómicos",
+        "De péndulo, de cuerda, digitales, analógicos y atómicos",
+        "De sol, mecánicos, de cuarzo, digitales y de GPS",
+        "De arena, de mercurio, analógicos, digitales y de cesio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para medir el tiempo se utilizan distintos tipos de relojes: de sol, de arena, de cuarzo, digitales y atómicos, además del cronómetro. Esta variedad permite trabajar la evolución histórica de los instrumentos de medida del tiempo."
+    },
+    {
+      "question": "¿En qué estadio piagetiano se encuentran los alumnos de Educación Primaria y qué implicación tiene?",
+      "options": [
+        "En el estadio de operaciones concretas, lo que les dificulta el manejo de contenidos abstractos",
+        "En el estadio preoperacional, lo que limita su capacidad para realizar mediciones directas",
+        "En el estadio de operaciones formales, lo que les permite trabajar con magnitudes abstractas",
+        "En el estadio sensoriomotor, lo que requiere el uso exclusivo de materiales manipulativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Durante la Educación Primaria los alumnos se encuentran en el estadio de operaciones concretas de Piaget, lo que les dificulta el manejo de contenidos abstractos. Esto justifica la importancia de la manipulación y la experimentación en el aprendizaje de la medida."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones describe mejor la fase de 'unidad figural' de Chamorro y Belmonte (1988)?",
+      "options": [
+        "La unidad comienza a transferirse entre objetos, pero se tiende a usar unidades grandes para objetos grandes y pequeñas para objetos pequeños",
+        "La unidad está completamente ligada al objeto que se va a medir y no puede transferirse",
+        "La unidad depende del objeto pero puede ir cambiando según el objeto medido",
+        "La unidad se utiliza con total independencia del objeto, con plena abstracción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de unidad figural (cuarta fase), la unidad comienza a transferirse entre objetos, aunque todavía se tiende a usar grandes unidades para objetos grandes y pequeñas para objetos pequeños. Es un estadio intermedio hacia la comprensión plena de la unidad."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre un sistema de medida 'regular' e 'irregular' según el texto?",
+      "options": [
+        "Los regulares tienen unidades principales con múltiplos y divisores; los irregulares no tienen relación decimal entre sus unidades",
+        "Los regulares pertenecen al SI; los irregulares pertenecen a sistemas locales o históricos",
+        "Los regulares son de uso internacional; los irregulares son de uso exclusivamente nacional",
+        "Los regulares se usan en ciencias; los irregulares se usan en comercio y vida cotidiana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los sistemas regulares de unidades poseen unidades principales junto con sus múltiplos y divisores con relación decimal. Los sistemas irregulares no contienen unidades principales ni subunidades con una relación decimal entre ellas, como ocurre con algunas medidas históricas."
+    },
+    {
+      "question": "¿Qué magnitud se obtiene dividiendo el espacio entre el tiempo, según el texto?",
+      "options": [
+        "La velocidad (v = e / t)",
+        "La aceleración (a = v / t)",
+        "La densidad (d = m / v)",
+        "La presión (p = F / S)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona la velocidad como ejemplo de magnitud derivada que se obtiene dividiendo el espacio entre el tiempo (v = e / t). Las magnitudes derivadas se definen a partir de las magnitudes fundamentales mediante fórmulas."
+    },
+    {
+      "question": "¿Qué aspecto de la perspectiva de género debe considerarse en la enseñanza de las matemáticas según el texto?",
+      "options": [
+        "Atender a la perspectiva socioemocional y de género, visibilizando referentes femeninos en matemáticas",
+        "Adaptar los problemas de medida a los intereses diferenciados de chicos y chicas",
+        "Organizar grupos separados por género para favorecer un ritmo de aprendizaje adecuado",
+        "Diseñar actividades específicas de medida orientadas a las preferencias del alumnado femenino"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que es importante atender a la perspectiva socioemocional y de género y a la educación en valores, impulsando la visibilización de referentes femeninos en matemáticas, además de la autoconfianza y la perseverancia."
+    },
+    {
+      "question": "¿Cuál es la función de la evaluación reguladora según el texto?",
+      "options": [
+        "Integrarse en todo el proceso de enseñanza-aprendizaje para controlarlo, orientarlo y mejorarlo, adaptándose a la diversidad",
+        "Calificar el rendimiento del alumnado al final de cada unidad didáctica mediante pruebas objetivas",
+        "Verificar que el alumnado ha adquirido los contenidos mínimos establecidos en el currículo",
+        "Proporcionar información al centro educativo sobre los resultados del grupo-clase"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación reguladora debe integrarse en todo el proceso de enseñanza y aprendizaje para controlarlo, orientarlo y mejorarlo, adaptándose a la diversidad mediante distintos instrumentos y procedimientos."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre aprender a medir y meramente conocer fórmulas de conversión según el texto?",
+      "options": [
+        "Aprender a medir implica guiar al alumnado en un proceso de descubrimiento progresivo para comprender la necesidad social de medir, interiorizar unidades y manejar instrumentos",
+        "Conocer fórmulas de conversión es suficiente para aplicar las medidas en situaciones de la vida cotidiana",
+        "Aprender a medir consiste en memorizar las equivalencias entre múltiplos y divisores del sistema métrico",
+        "La comprensión de fórmulas y equivalencias es el objetivo principal de la enseñanza de la medida en EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, enseñar magnitudes y medida no consiste en transmitir fórmulas y equivalencias, sino en guiar al alumnado en un proceso de descubrimiento progresivo que le permita comprender la necesidad social de medir, interiorizar las unidades y manejar los instrumentos con destreza."
+    },
+    {
+      "question": "¿Qué tipo de errores en las mediciones menciona el texto y cuáles son sus causas?",
+      "options": [
+        "Errores por participación humana en el proceso y errores del propio instrumento (calibrado, batería o defectos de fábrica)",
+        "Errores de cálculo aritmético y errores de lectura de la escala del instrumento",
+        "Errores de selección de la unidad inadecuada y errores de conversión entre sistemas",
+        "Errores de estimación previa y errores de interpretación del resultado obtenido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los errores en las mediciones pueden deberse a la participación humana en el proceso o a errores del propio instrumento de medición, como problemas de calibrado, batería o defectos de fábrica."
+    },
+    {
+      "question": "¿Qué diferencia existe entre las orientaciones metodológicas generales y las específicas para la medida según el texto?",
+      "options": [
+        "Las generales abarcan enfoques activos y contextos reales; las específicas incluyen relacionar la medida con otras áreas, actividades de medición real y estimación con análisis de errores",
+        "Las generales son del Decreto nacional; las específicas son del Decreto autonómico gallego",
+        "Las generales se aplican a toda la etapa; las específicas son solo para el tercer ciclo de EP",
+        "Las generales se centran en el currículo; las específicas se centran en la evaluación del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones generales promueven enfoques activos y contextos reales. Las específicas para la medida incluyen: relacionar la medida con otras áreas, actividades con magnitudes y cantidades, medición real con instrumentos auténticos, reflexión sobre graduaciones, problemas reales y estimación con análisis de errores."
+    },
+    {
+      "question": "¿Cuándo y cómo se adoptó el Sistema Internacional de Unidades en España según el texto?",
+      "options": [
+        "Se adoptó después de que la Conferencia de Pesas y Medidas de París de 1960 lo estableciera",
+        "Se adoptó en 1875 con la firma del Convenio del Metro en París",
+        "Se adoptó en 1978 con la aprobación de la Constitución Española",
+        "Se adoptó en 1992 con la adhesión de España al espacio científico europeo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, en 1960 la Conferencia de Pesas y Medidas de París estableció el Sistema Internacional de Unidades (SI) y este sistema fue adoptado posteriormente en España."
+    },
+    {
+      "question": "¿Cuál es la secuencia completa de fases de adquisición del concepto de unidad según Chamorro y Belmonte (1988)?",
+      "options": [
+        "Ausencia de unidad, unidad objetal, unidad situacional, unidad figural y unidad propiamente dicha",
+        "Unidad perceptiva, unidad comparativa, unidad relativa, unidad formal y unidad abstracta",
+        "Ausencia de unidad, unidad comparativa, unidad instrumental, unidad estándar y unidad formal",
+        "Unidad corporal, unidad objetal, unidad estándar, unidad formal y unidad propiamente dicha"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chamorro y Belmonte (1988) describen cinco fases en la adquisición del concepto de unidad: (1) ausencia de unidad, (2) unidad objetal, (3) unidad situacional, (4) unidad figural y (5) unidad propiamente dicha."
+    },
+    {
+      "question": "¿Qué aspecto del sentido de la medida en el Decreto 155/2022 está relacionado con la experimentación?",
+      "options": [
+        "Comprender las relaciones entre magnitudes a través de la experimentación",
+        "Memorizar las tablas de conversión del sistema métrico decimal mediante ejercicios repetidos",
+        "Aplicar algoritmos de cálculo para resolver problemas con medidas compuestas",
+        "Dominar el uso de instrumentos de medida de precisión mediante práctica guiada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 2 'Sentido de la Medida' del Decreto 155/2022 centra su enfoque en comprender y comparar atributos, elegir unidades adecuadas, usar instrumentos y comprender las relaciones entre magnitudes, todo ello a través de la experimentación."
+    },
+    {
+      "question": "¿Qué elemento diferencia a las magnitudes derivadas de las fundamentales según el texto?",
+      "options": [
+        "Las magnitudes derivadas se expresan mediante fórmulas que las relacionan con magnitudes fundamentales",
+        "Las magnitudes derivadas son más difíciles de medir que las fundamentales",
+        "Las magnitudes derivadas solo pueden medirse con instrumentos digitales de alta precisión",
+        "Las magnitudes derivadas no tienen unidades de medida propias en el Sistema Internacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las magnitudes derivadas se definen a partir de las magnitudes fundamentales y pueden expresarse mediante fórmulas, como la velocidad (v = e / t) o el volumen. Las fundamentales, en cambio, no dependen de otras magnitudes."
+    },
+    {
+      "question": "¿Por qué la medición de magnitudes es una tarea compleja para los niños según Piaget?",
+      "options": [
+        "Requiere un desarrollo lógico significativo y su aprendizaje no resulta fácil ni espontáneo",
+        "Requiere el dominio previo del cálculo aritmético y las operaciones con decimales",
+        "Requiere instrumentos de medida sofisticados que no están disponibles en las escuelas",
+        "Requiere haber superado el estadio de operaciones formales del desarrollo cognitivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Desde el punto de vista psicoevolutivo, la medición de una magnitud es una tarea compleja que requiere un desarrollo lógico significativo, por lo que su aprendizaje no resulta fácil ni espontáneo para el alumnado, según los estudios de Piaget."
+    },
+    {
+      "question": "¿Qué función tienen los sentidos matemáticos según el texto?",
+      "options": [
+        "Deben trabajarse junto a los procesos matemáticos de manera integrada",
+        "Deben desarrollarse de forma previa a los procesos matemáticos y de forma secuencial",
+        "Deben evaluarse independientemente de los procesos matemáticos para mayor objetividad",
+        "Deben trabajarse exclusivamente en el bloque de sentido numérico antes que en la medida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los sentidos matemáticos deben trabajarse junto a los procesos matemáticos de manera integrada. Esto es un aspecto esencial de la enseñanza de las matemáticas en EP según el marco curricular del Decreto 155/2022."
+    },
+    {
+      "question": "¿Cuál es la principal ventaja del aprendizaje cooperativo para la enseñanza de la medida según el texto?",
+      "options": [
+        "Permite resolver problemas de manera conjunta, promoviendo la inclusión, la igualdad y la convivencia",
+        "Permite dividir las tareas de medición para optimizar el tiempo disponible en el aula",
+        "Permite que los alumnos más avanzados ayuden a los que tienen más dificultades",
+        "Permite comparar los resultados de distintos grupos para detectar errores de medición"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje cooperativo resulta clave para resolver problemas de manera conjunta, promoviendo la inclusión, la igualdad y la convivencia. Es una metodología activa fundamental en la enseñanza de las matemáticas y la medida."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los errores cometidos por el instrumento y los cometidos por el humano en una medición?",
+      "options": [
+        "Los del instrumento se deben a problemas de calibrado, batería o defectos de fábrica; los humanos surgen de la participación del medidor en el proceso",
+        "Los del instrumento son sistemáticos y predecibles; los humanos son aleatorios e imprevisibles",
+        "Los del instrumento se eliminan con tecnología digital; los humanos se eliminan con mayor formación",
+        "Los del instrumento afectan a la precisión; los humanos afectan a la exactitud de la medida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los errores pueden deberse a la participación humana en el proceso (errores del operador) o a errores del propio instrumento de medición, tales como problemas de calibrado, batería o defectos de fábrica."
+    },
+    {
+      "question": "¿Por qué es importante que el alumnado de EP trabaje con instrumentos auténticos de medida según el texto?",
+      "options": [
+        "Porque favorece la reflexión sobre las graduaciones de los instrumentos y su funcionamiento real",
+        "Porque reduce el tiempo necesario para aprender las unidades del sistema métrico",
+        "Porque permite evitar el uso de materiales manipulativos no estructurados en el aula",
+        "Porque garantiza que las mediciones obtenidas tengan el máximo nivel de precisión posible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones metodológicas específicas incluyen proponer actividades de medición real con instrumentos auténticos y favorecer la reflexión sobre las graduaciones de los instrumentos y su funcionamiento. Esto conecta el aprendizaje con situaciones reales."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre 'medir' y 'estimar' según el texto?",
+      "options": [
+        "Medir asigna un valor numérico objetivo con instrumentos; estimar obtiene una medida sin instrumentos basándose en juicios subjetivos",
+        "Medir es un proceso exacto; estimar es un proceso que siempre conduce a resultados incorrectos",
+        "Medir requiere unidades del SI; estimar puede usar cualquier referente no convencional",
+        "Medir es un proceso cuantitativo; estimar es un proceso cualitativo de comparación visual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Medir consiste en asignar una valoración numérica objetiva comparando con una unidad de referencia. Estimar es el proceso de obtener una medida sin uso de instrumentos, basándose únicamente en juicios subjetivos sobre las características del objeto."
+    },
+    {
+      "question": "¿Cuál es la segunda fase de la secuencia didáctica de medición según el texto?",
+      "options": [
+        "La comparación: una vez percibido el rasgo, surge la necesidad de compararlo con otras mediciones, lo que lleva a necesitar un patrón estándar",
+        "La asignación de una referencia estándar: se pasa de unidades no convencionales al SI",
+        "La percepción: el docente crea la necesidad de medir proponiendo estímulos y objetos",
+        "La medición instrumental: el alumnado usa instrumentos reales para obtener valores exactos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La segunda fase de la secuencia didáctica es la comparación: una vez medido el rasgo seleccionado, surge la necesidad de compararlo con otras mediciones, lo que lleva a la necesidad de un patrón de medida estándar."
+    },
+    {
+      "question": "¿Qué rol desempeña el docente en la fase de percepción de la secuencia didáctica de medición?",
+      "options": [
+        "Crear la necesidad de medir proponiendo estímulos y objetos que generen esa necesidad",
+        "Explicar los procedimientos de medición y las unidades del sistema métrico decimal",
+        "Proporcionar los instrumentos adecuados para que el alumnado realice mediciones precisas",
+        "Evaluar si el alumnado percibe correctamente las diferencias entre magnitudes similares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de percepción, el docente debe crear la necesidad de medir proponiendo estímulos y objetos que generen esa necesidad. Por ejemplo, medir la altura de un compañero da significado a la longitud como magnitud."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del tercer momento en la secuencia didáctica de medición?",
+      "options": [
+        "Asignar un valor determinado al resultado, pasando de unidades no convencionales a las unidades del SI",
+        "Comparar los resultados de medición con los de otros grupos del aula para verificar la precisión",
+        "Seleccionar el instrumento de medida más adecuado en función del objeto y la magnitud",
+        "Estimar el valor de la magnitud antes de proceder a su medición con instrumentos convencionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tercer momento (asignación de una referencia estándar) consiste en asignar un valor determinado al resultado de la medición, pasando de las unidades no convencionales utilizadas en las fases anteriores a la justificación y el uso de las unidades del SI."
+    },
+    {
+      "question": "¿Cuál es la relación entre el aprendizaje de la medida y el desarrollo cognitivo según el texto?",
+      "options": [
+        "El tratamiento escolar de la medida es uno de los principales motores del desarrollo cognitivo y contribuye a la competencia matemática y al desarrollo integral",
+        "El desarrollo cognitivo es un prerrequisito para el aprendizaje de la medida, no al contrario",
+        "La medida es un contenido matemático sin relación directa con el desarrollo cognitivo del alumnado",
+        "El aprendizaje de la medida solo contribuye al desarrollo cognitivo en el tercer ciclo de EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, el tratamiento que la escuela dé a estos conocimientos no solo contribuirá a alcanzar los objetivos curriculares, sino que será uno de los principales motores del desarrollo cognitivo, contribuyendo a la competencia matemática y las competencias clave, favoreciendo el desarrollo integral."
+    },
+    {
+      "question": "¿Qué tipo de pensamiento fomenta el trabajo de la estimación en el aula según el texto?",
+      "options": [
+        "El pensamiento ágil e hipotético",
+        "El pensamiento abstracto y deductivo",
+        "El pensamiento algorítmico y procedimental",
+        "El pensamiento convergente y analítico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre las razones para trabajar la estimación en el aula, el texto señala que esta actividad desarrolla el pensamiento ágil e hipotético, además de fomentar estrategias propias y comprensivas y conectar con la resolución de problemas."
+    },
+    {
+      "question": "¿Por qué la estimación se considera un aprendizaje fundamental relacionado con las magnitudes según el texto?",
+      "options": [
+        "Porque permite trabajar con situaciones reales, atiende a la razonabilidad, desarrolla el pensamiento flexible y tolera el error como parte del aprendizaje",
+        "Porque elimina la necesidad de usar instrumentos de medida en el aula y ahorra tiempo",
+        "Porque es la única forma de medir cuando no se dispone de materiales manipulativos estructurados",
+        "Porque garantiza resultados más precisos que la medición directa con instrumentos convencionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estimación es fundamental porque permite trabajar con simulaciones de situaciones reales, atiende a la razonabilidad de los resultados, desarrolla el pensamiento ágil e hipotético, fomenta estrategias propias, conecta con resolución de problemas y permite tolerar el error como aprendizaje."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la 'unidad objetal' y la 'unidad situacional' de Chamorro y Belmonte (1988)?",
+      "options": [
+        "En la objetal, la unidad está ligada al objeto que se mide; en la situacional, la unidad depende del objeto pero puede ir cambiando según el objeto",
+        "En la objetal, el niño ya puede transferir la unidad entre objetos; en la situacional, todavía no puede hacerlo",
+        "En la objetal, se usan unidades corporales; en la situacional, se usan unidades convencionales del SI",
+        "En la objetal, no existe ninguna unidad de medida; en la situacional, comienza a aparecer la noción de unidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la unidad objetal, la unidad está ligada al propio objeto que se va a medir. En la unidad situacional, la unidad aún depende del objeto pero puede ir cambiando según el objeto que se mide, lo que representa un avance en la abstracción."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la función formativa y la función funcional de las orientaciones metodológicas específicas según el texto?",
+      "options": [
+        "La formativa fomenta autonomía, razonamiento y toma de decisiones; la funcional contribuye a las habilidades de estimación y toma de decisiones en la vida diaria",
+        "La formativa se centra en la evaluación; la funcional se centra en la aplicación práctica inmediata",
+        "La formativa trabaja conceptos abstractos; la funcional trabaja procedimientos concretos",
+        "La formativa es responsabilidad del docente; la funcional es responsabilidad del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones metodológicas son importantes tanto para el desarrollo formativo (fomentando autonomía, razonamiento y toma de decisiones) como para el aspecto funcional (aprender a medir y seleccionar el instrumento adecuado influye en las habilidades de estimación y toma de decisiones en la vida diaria)."
+    },
+    {
+      "question": "¿Qué ley nacional regula las enseñanzas mínimas de Educación Primaria mencionada en el texto?",
+      "options": [
+        "El Real Decreto 157/2022, de 1 de marzo",
+        "La Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)",
+        "El Decreto 155/2022, de 15 de septiembre",
+        "La Orden de 26 de mayo de 2023"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel nacional. La LOMLOE es la ley orgánica de educación que lo respalda, y el Decreto 155/2022 es la normativa autonómica gallega."
+    },
+    {
+      "question": "¿Cuál es el ámbito de aplicación del Decreto 155/2022?",
+      "options": [
+        "Establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia",
+        "Establece las enseñanzas mínimas de la educación primaria en todo el territorio nacional",
+        "Regula la evaluación del alumnado de educación primaria en Galicia",
+        "Establece los criterios de acceso y permanencia en la educación primaria de Galicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia. Es la normativa autonómica que desarrolla el Real Decreto 157/2022 en el contexto gallego."
+    },
+    {
+      "question": "¿Cuál es el año de publicación del Real Decreto que establece las enseñanzas mínimas de EP y la fecha exacta?",
+      "options": [
+        "Real Decreto 157/2022, de 1 de marzo de 2022",
+        "Real Decreto 157/2022, de 15 de septiembre de 2022",
+        "Real Decreto 157/2022, de 30 de diciembre de 2020",
+        "Real Decreto 157/2022, de 26 de mayo de 2023"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria. El Decreto 155/2022 gallego tiene fecha de 15 de septiembre de 2022."
+    },
+    {
+      "question": "¿Cuántas magnitudes básicas reconoce el SI y cuáles son sus nombres completos?",
+      "options": [
+        "Siete: longitud, masa, tiempo, temperatura, intensidad de corriente, intensidad luminosa y cantidad de sustancia",
+        "Seis: longitud, masa, tiempo, temperatura, intensidad de corriente e intensidad luminosa",
+        "Cinco: longitud, masa, tiempo, temperatura y cantidad de sustancia",
+        "Ocho: longitud, masa, tiempo, temperatura, intensidad, luminosidad, cantidad de sustancia y ángulo plano"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Sistema Internacional reconoce exactamente siete magnitudes básicas: longitud, masa, tiempo, temperatura, intensidad de corriente, intensidad luminosa y cantidad de sustancia. Las más trabajadas en EP son longitud, masa y tiempo."
+    },
+    {
+      "question": "¿En qué consiste la estrategia de 'descomposición y recomposición' de Segovia (2017)?",
+      "options": [
+        "Dividir mentalmente la cantidad en partes más pequeñas, apreciar cada una y valorarlas conjuntamente",
+        "Relacionar mentalmente el objeto con una cantidad conocida que sirve como referente",
+        "Aplicar fórmulas matemáticas para calcular longitudes no medibles directamente",
+        "Construir representaciones mentales ajustadas de las principales unidades de medida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estrategia de descomposición y recomposición de Segovia (2017) se aplica cuando la cantidad a estimar está compuesta por partes. Consiste en dividir mentalmente la cantidad en partes más pequeñas, apreciar cada una de ellas y después valorarlas conjuntamente."
+    },
+    {
+      "question": "¿Qué situaciones motivan la realización de una estimación según el texto?",
+      "options": [
+        "No poder obtener un valor exacto (objeto muy pequeño), trabajar con números aproximados (presupuestos) o no disponer de los instrumentos adecuados",
+        "Falta de tiempo para medir con instrumentos, actividades de clase o ejercicios de evaluación formativa",
+        "Objetos demasiado grandes para ser medidos directamente o magnitudes abstractas sin sustrato físico",
+        "Necesidad de comparar varias magnitudes simultáneamente o de verificar resultados previos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las situaciones que motivan la estimación incluyen: no poder obtener valor exacto por tratarse de un objeto muy pequeño (como el número de lentejas en un paquete), cuando se trabaja con números muy aproximados como en presupuestos, o cuando existen limitaciones de información o no se dispone de instrumentos."
+    },
+    {
+      "question": "¿Cuál es el proceso que deben seguir los niños para mejorar progresivamente sus estimaciones?",
+      "options": [
+        "Comparar objetos entre sí, estimar medidas cercanas a su experiencia cotidiana y medir con exactitud para comparar resultados",
+        "Memorizar unidades de medida, practicar conversiones y verificar estimaciones con calculadora",
+        "Observar mediciones del docente, imitar el proceso y finalmente realizar estimaciones propias",
+        "Estimar primero sin referentes, luego con referentes corporales y finalmente con instrumentos formales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para mejorar sus estimaciones, los niños deben practicar: comparar objetos entre sí, estimar medidas cercanas a su experiencia cotidiana y, finalmente, medir con exactitud y comparar los resultados con sus estimaciones previas."
+    },
+    {
+      "question": "¿Cómo contribuye la enseñanza de la medida al desarrollo integral del alumnado según la conclusión del texto?",
+      "options": [
+        "Contribuye al desarrollo de la competencia matemática y de las competencias clave, favoreciendo el desarrollo integral del alumnado",
+        "Contribuye exclusivamente al desarrollo de la competencia en ciencia y tecnología del alumnado",
+        "Contribuye al desarrollo del pensamiento lógico-formal necesario para la educación secundaria",
+        "Contribuye solo al conocimiento del sistema métrico decimal y sus aplicaciones prácticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la conclusión, el tratamiento escolar de los contenidos de medida contribuirá al desarrollo cognitivo, a la competencia matemática y de las competencias clave, favoreciendo el desarrollo integral del alumnado."
+    },
+    {
+      "question": "¿Cuál es el valor de la longitud como magnitud en el contexto educativo primario?",
+      "options": [
+        "Proporciona herramientas para interpretar y cuantificar el mundo, con aplicación en entornos próximos y lejanos",
+        "Permite calcular áreas y volúmenes necesarios para el aprendizaje de la geometría avanzada",
+        "Es la magnitud más importante del SI por ser la base de todas las demás magnitudes fundamentales",
+        "Facilita la comprensión de las magnitudes derivadas como la velocidad y la aceleración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las magnitudes y su medida, incluyendo la longitud, proporcionan al alumnado las herramientas necesarias para interpretar y cuantificar el mundo que le rodea, con aplicación primero al entorno más próximo y posteriormente al más lejano."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los errores debidos al instrumento y los debidos al proceso de medición en cuanto a su origen?",
+      "options": [
+        "Los del instrumento provienen del propio aparato (calibrado, batería, defectos); los del proceso provienen de la actuación humana al medir",
+        "Los del instrumento son errores absolutos; los del proceso son errores relativos o porcentuales",
+        "Los del instrumento son aleatorios; los del proceso son sistemáticos y predecibles",
+        "Los del instrumento aumentan con la temperatura; los del proceso aumentan con la fatiga"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los errores del instrumento provienen del propio aparato: problemas de calibrado, batería o defectos de fábrica. Los errores del proceso provienen de la participación humana: la técnica de medición, la lectura del instrumento o la interpretación del resultado."
+    },
+    {
+      "question": "¿Qué principio de conservación resulta más tardío en adquirirse: el de la longitud, la superficie o el volumen?",
+      "options": [
+        "El del volumen, que se adquiere a los 11-12 años, frente a la longitud (7-8 años) y la superficie (8-10 años)",
+        "El de la superficie, que se adquiere a los 8-10 años, frente a la longitud (5-6 años) y el volumen (9-10 años)",
+        "El de la longitud, que es el más complejo por requerir la comprensión de la continuidad espacial",
+        "Todos se adquieren simultáneamente alrededor de los 8-9 años en el estadio de operaciones concretas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El principio de conservación del volumen (medición tridimensional) se adquiere más tarde: a los 11-12 años. El de la longitud comienza a adquirirse a los 7-8 años, y el de la superficie de forma más precisa a los 8-10 años."
+    },
+    {
+      "question": "¿Cuál es la ventaja didáctica de usar partes del cuerpo para medir en las primeras fases del aprendizaje?",
+      "options": [
+        "Permiten al alumnado comprender el acto de medir de forma concreta y significativa antes de pasar a instrumentos convencionales",
+        "Garantizan mediciones más precisas que los instrumentos convencionales para objetos pequeños",
+        "Facilitan la memorización de las equivalencias entre múltiplos y divisores del metro",
+        "Eliminan la necesidad de materiales manipulativos estructurados en el aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las partes del cuerpo usadas como instrumentos no estándar son especialmente útiles en las primeras fases del aprendizaje para que el alumnado comprenda el acto de medir de forma concreta y significativa, antes de pasar a los instrumentos convencionales y las unidades del SI."
+    },
+    {
+      "question": "¿Cuál es la función de la comparación como estrategia de estimación según Segovia (2017)?",
+      "options": [
+        "Es la base de toda estimación y consiste en relacionar mentalmente el objeto a estimar con una cantidad referente o unidad interiorizada",
+        "Consiste en dividir el objeto en partes más pequeñas para estimar el total por suma de partes",
+        "Consiste en aplicar fórmulas de conversión para pasar de unidades no convencionales al SI",
+        "Consiste en usar instrumentos de medida aproximada como el palmo o el pie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La comparación es la base de toda estimación y se lleva a cabo en todas sus actividades. Consiste en relacionar mentalmente el objeto a estimar con una cantidad que se toma como referente o con una unidad ya interiorizada. Es la primera y más fundamental estrategia de estimación."
+    },
+    {
+      "question": "¿Cuál es el contenido central del Bloque 2 'Sentido de la Medida' del Decreto 155/2022?",
+      "options": [
+        "Comprender y comparar atributos de objetos; elegir unidades adecuadas; usar instrumentos; y comprender relaciones entre magnitudes mediante la experimentación",
+        "Dominar los algoritmos de conversión entre unidades del sistema métrico decimal",
+        "Resolver problemas de medida aplicando el Sistema Internacional en contextos cotidianos",
+        "Conocer los instrumentos de medida y sus características técnicas de precisión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 2 'Sentido de la Medida' se centra en: comprender y comparar atributos de los objetos; entender y elegir las unidades adecuadas para estimar, medir y comparar; usar instrumentos adecuados para realizar mediciones; y comprender las relaciones entre magnitudes, a través de la experimentación."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la obra de Alsina (2004) y la de Godino et al. (2004) según el contexto del texto?",
+      "options": [
+        "Alsina se centra en el desarrollo de competencias matemáticas con recursos lúdico-manipulativos; Godino et al. trabajan la didáctica de las matemáticas para maestros",
+        "Alsina trabaja la geometría y la medida; Godino et al. trabajan el sentido numérico",
+        "Alsina se centra en la educación secundaria; Godino et al. se centran en la educación primaria",
+        "Alsina desarrolla el enfoque teórico; Godino et al. desarrollan el enfoque práctico e instrumental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alsina (2004) desarrolló 'Desarrollo de competencias matemáticas con recursos lúdico-manipulativos. Para niños y niñas de 6 a 12 años'. Godino et al. (2004) trabajaron la 'Didáctica de las matemáticas para maestros' (Proyecto Edumat-Maestros), abarcando todos los contenidos matemáticos."
+    },
+    {
+      "question": "¿Cuál es la distinción que el texto hace entre el kilogramo y el metro en cuanto a su definición?",
+      "options": [
+        "El metro se define por la luz en el vacío; el kilogramo se basa en un cilindro de platino-iridio",
+        "El metro se define por el meridiano terrestre; el kilogramo se define por la densidad del agua",
+        "El metro se basa en un patrón de platino-iridio; el kilogramo se define por la luz en el vacío",
+        "El metro es una magnitud vectorial; el kilogramo es una magnitud escalar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Godino et al. (2004), el metro se define por la luz en el vacío, mientras que el kilogramo se basa en un cilindro de platino-iridio. El segundo, a su vez, se define como una fracción del día solar medio."
+    },
+    {
+      "question": "¿Por qué el texto destaca que la tecnología debe entenderse como complemento y no sustituto de las actividades manipulativas?",
+      "options": [
+        "Porque el foco debe permanecer en el problema matemático y no en el manejo del dispositivo, y los materiales manipulativos son esenciales en el estadio de operaciones concretas",
+        "Porque las TIC son menos precisas que los instrumentos de medida convencionales para uso escolar",
+        "Porque el coste de los dispositivos digitales es una barrera para la equidad en el aula",
+        "Porque el uso de tecnología no está contemplado en el currículo de Educación Primaria vigente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tecnología debe entenderse como complemento porque su uso exige cautela: el foco debe permanecer en el problema matemático y no en el manejo del dispositivo. Además, los materiales manipulativos son fundamentales en el estadio de operaciones concretas en que se encuentran los alumnos de EP."
+    },
+    {
+      "question": "¿Qué aspectos emocionales relacionados con las matemáticas menciona el texto que deben trabajarse transversalmente?",
+      "options": [
+        "Autoconfianza, perseverancia, valoración del error como aprendizaje y manejo de la ansiedad ante la incertidumbre matemática",
+        "Motivación intrínseca, curiosidad científica, trabajo en equipo y comunicación matemática",
+        "Resiliencia, creatividad matemática, tolerancia a la frustración y pensamiento crítico",
+        "Cooperación, responsabilidad individual, honestidad en los resultados y respeto por los compañeros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las destrezas emocionales que deben abordarse transversalmente incluyen: la autoconfianza, la perseverancia, la valoración del error como parte del aprendizaje, el manejo de la ansiedad ante la incertidumbre de los problemas matemáticos y la visibilización de referentes femeninos."
+    },
+    {
+      "question": "¿Cuándo se publicó la LOMLOE en el Boletín Oficial del Estado?",
+      "options": [
+        "El 30 de diciembre de 2020, en el BOE número 340",
+        "El 2 de marzo de 2022, en el BOE número 52",
+        "El 15 de septiembre de 2022, en el DOG número 183",
+        "El 13 de junio de 2023, en el DOG número 111"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Ley Orgánica 3/2020 (LOMLOE) fue publicada en el BOE número 340, de 30 de diciembre de 2020. El Real Decreto 157/2022 fue publicado en el BOE de 2 de marzo de 2022, y el Decreto 155/2022 gallego en el DOG de 26 de septiembre de 2022."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el concepto de 'medición' y el concepto de 'estimación' en cuanto al uso o no de instrumentos?",
+      "options": [
+        "La medición usa instrumentos y técnicas para determinar un valor numérico; la estimación prescinde de instrumentos y se basa en juicios subjetivos",
+        "La medición produce valores exactos; la estimación siempre produce valores mayores que la medida real",
+        "La medición es un proceso objetivo; la estimación es un proceso exclusivamente cualitativo",
+        "La medición se aplica a magnitudes fundamentales; la estimación a magnitudes derivadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La medición es el proceso de determinar la valoración numérica usando instrumentos y técnicas propias de cada magnitud. La estimación es el proceso de obtener una medida sin el uso de instrumentos, basándose en juicios subjetivos sobre las características del objeto."
+    },
+    {
+      "question": "¿Cuál es la importancia del aprendizaje significativo en la enseñanza de la medida según el texto?",
+      "options": [
+        "Permite al alumnado dotar de sentido a los contenidos mediante situaciones complejas que integran diferentes ámbitos del conocimiento",
+        "Garantiza que el alumnado memorice correctamente las fórmulas y equivalencias del sistema métrico",
+        "Asegura que los contenidos de medida se transfieran automáticamente a otras áreas curriculares",
+        "Reduce el tiempo necesario para que el alumnado domine los procedimientos de medición"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje significativo es necesario para que el alumnado dote de sentido a los contenidos, lo que exige ofrecer situaciones complejas que integren diferentes ámbitos del conocimiento, favoreciendo la construcción de aprendizajes útiles para la resolución de problemas."
+    },
+    {
+      "question": "¿Qué implicaciones tiene para la secuenciación didáctica el hecho de que la conservación del volumen se adquiera a los 11-12 años?",
+      "options": [
+        "Que los contenidos de volumen deben trabajarse en el tercer ciclo de EP, no en los primeros ciclos",
+        "Que el volumen debe introducirse antes que la longitud por ser más abstracto",
+        "Que el volumen solo puede trabajarse en la etapa de Educación Secundaria Obligatoria",
+        "Que el volumen debe enseñarse simultáneamente con la superficie para reforzar ambos conceptos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El hecho de que la conservación del volumen se adquiera a los 11-12 años implica que los contenidos de medida del volumen tridimensional deben ubicarse preferentemente en el tercer ciclo de EP. Estos hallazgos tienen implicaciones directas para la secuenciación didáctica."
+    },
+    {
+      "question": "¿Qué tipo de magnitud es la temperatura según la clasificación por su expresión?",
+      "options": [
+        "Es una magnitud escalar, ya que se define únicamente por un número",
+        "Es una magnitud vectorial, ya que requiere especificar su dirección",
+        "Es una magnitud fundamental, ya que no depende de otras magnitudes",
+        "Es una magnitud derivada, ya que se expresa mediante una fórmula que incluye otras magnitudes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La temperatura es una magnitud escalar, ya que se define únicamente por un número (sin necesidad de especificar dirección ni sentido). La velocidad, en cambio, es vectorial porque requiere módulo, dirección y sentido."
+    },
+    {
+      "question": "¿Cuál es el ejemplo de magnitud vectorial que menciona el texto y qué la caracteriza?",
+      "options": [
+        "La velocidad, que además de un número o módulo requiere especificar su dirección y sentido",
+        "La temperatura, que se define únicamente por un valor numérico",
+        "La masa, que no depende de otras magnitudes para su definición",
+        "El volumen, que se expresa mediante una fórmula que incluye la longitud"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La velocidad es el ejemplo de magnitud vectorial mencionado en el texto. Las magnitudes vectoriales requieren, además de un número o módulo, especificar su dirección y sentido, a diferencia de las escalares como la temperatura o el tiempo."
+    },
+    {
+      "question": "¿Por qué el concepto de magnitud 'sin sustrato físico' resulta más difícil de enseñar según el texto?",
+      "options": [
+        "Porque su percepción resulta más abstracta para el alumnado al no tener base material",
+        "Porque no existen instrumentos de medida adecuados para trabajarlas en el aula",
+        "Porque no forman parte del currículo oficial de Educación Primaria vigente",
+        "Porque requieren conocimientos de física que el alumnado de EP no posee"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las magnitudes sin sustrato físico (como el tiempo o la temperatura) son más difíciles de enseñar porque su percepción resulta más abstracta para el alumnado, al no tener una base material o física directamente manejable, a diferencia de magnitudes como la longitud o el peso."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los instrumentos de medida de longitud 'iniciales' y los 'más exactos' según el texto?",
+      "options": [
+        "Los iniciales son partes del cuerpo (mano, pie, dedo); los más exactos son la regla, la cinta métrica, el micrómetro y el calibrador",
+        "Los iniciales son instrumentos analógicos; los más exactos son instrumentos digitales",
+        "Los iniciales miden en unidades no convencionales; los más exactos miden en unidades del SI",
+        "Los iniciales solo sirven para objetos pequeños; los más exactos sirven para cualquier tamaño"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para medir la longitud se pueden emplear inicialmente partes del cuerpo como la mano, el pie o el dedo (instrumentos no estándar). Como instrumentos más exactos se usan la regla, el flexómetro o cinta métrica, el micrómetro y el calibrador."
+    },
+    {
+      "question": "¿Qué función cumplen las unidades de medida según el texto y por qué son útiles?",
+      "options": [
+        "Permiten realizar comparaciones precisas y facilitan el acuerdo y la comunicación sobre mediciones exactas",
+        "Eliminan el error humano en las mediciones al proporcionar un patrón objetivo de comparación",
+        "Establecen los límites de tolerancia aceptable en los procesos de medición industrial",
+        "Definen la precisión máxima alcanzable con los instrumentos de medida disponibles"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las unidades de medida son útiles porque permiten realizar comparaciones precisas y facilitan el acuerdo y la comunicación sobre mediciones exactas. Para cumplir estas funciones deben ser inalterables, universales y fácilmente reproducibles."
+    },
+    {
+      "question": "¿Cuándo y dónde se estableció el Sistema Internacional de Unidades según el texto?",
+      "options": [
+        "En 1960, en la Conferencia de Pesas y Medidas de París",
+        "En 1875, en el Convenio del Metro de París",
+        "En 1948, en la Conferencia General de Pesas y Medidas de Londres",
+        "En 1971, en la XIV Conferencia General de Pesas y Medidas de Ginebra"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que en 1960 la Conferencia de Pesas y Medidas de París estableció el sistema práctico denominado 'Sistema Internacional de Unidades' (SI), con el fin de unificar las unidades y facilitar su uso a nivel global."
+    },
+    {
+      "question": "¿Cuál es el objetivo del aprendizaje de magnitudes según el Decreto 155/2022 relacionado con la experimentación?",
+      "options": [
+        "Comprender las relaciones entre magnitudes a través de la experimentación directa con objetos",
+        "Memorizar las fórmulas de conversión entre los distintos sistemas de medida",
+        "Desarrollar la precisión en el uso de instrumentos de medida de alta tecnología",
+        "Calcular áreas y volúmenes mediante procedimientos algorítmicos formales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 2 'Sentido de la Medida' del Decreto 155/2022 centra el aprendizaje en comprender las relaciones entre magnitudes a través de la experimentación. El enfoque es activo y manipulativo, no meramente teórico o memorístico."
+    },
+    {
+      "question": "¿Qué tipos de problemas reales propone el texto para el aprendizaje de la medida en el aula?",
+      "options": [
+        "Medición de altura y peso corporal, tallas de ropa, recetas de cocina, horarios de actividades y distancias entre lugares conocidos",
+        "Cálculo de áreas de habitaciones, volúmenes de envases, velocidades de vehículos y presiones meteorológicas",
+        "Problemas de conversión de unidades, cálculo de errores de medición y diseño de experimentos científicos",
+        "Construcción de maquetas a escala, diseño de planos de edificios y cálculo de distancias geográficas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona como problemas reales del entorno cotidiano: la medición de la altura y el peso corporal, las tallas de ropa, las recetas de cocina, los horarios de actividades, las distancias entre lugares y rutas conocidas."
+    },
+    {
+      "question": "¿Cuál es la diferencia conceptual entre 'medir' y 'medición' según el texto?",
+      "options": [
+        "Medir es la acción de asignar valor numérico comparando con una unidad; medición es el proceso completo de determinación del valor usando instrumentos y técnicas",
+        "Medir se refiere al uso de instrumentos; medición se refiere a la estimación sin instrumentos",
+        "Medir produce la medida exacta; medición produce solo una medida aproximada",
+        "Medir es la acción física; medición es la interpretación matemática del resultado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Medir consiste en asignar una valoración numérica objetiva a una magnitud comparándola con una unidad de referencia. La medición es el proceso de determinar esa valoración numérica usando instrumentos y técnicas propias de cada magnitud. La medida es el resultado concreto."
+    },
+    {
+      "question": "¿Por qué el texto considera que el aprendizaje de la medida requiere combinar geometría y aritmética?",
+      "options": [
+        "Porque el proceso de medida implica tanto operaciones físicas propias de la magnitud como cálculos aritméticos para determinar el valor numérico",
+        "Porque las unidades de medida están definidas a partir de las figuras geométricas básicas",
+        "Porque los instrumentos de medida se basan en principios geométricos de proporcionalidad",
+        "Porque la conversión entre unidades requiere conocimientos de aritmética y geometría analítica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso de medida implica una operación física propia de la magnitud (geometría, como medir una distancia con cinta métrica) y una operación matemática o cálculo aritmético para determinar el valor numérico que indica cuántas veces está contenida la unidad en la cantidad."
+    },
+    {
+      "question": "¿Cuál es la condición de 'invariabilidad' que deben cumplir las unidades fundamentales?",
+      "options": [
+        "Constancia en su valor a lo largo del tiempo y en diferentes circunstancias",
+        "No ser modificadas por agentes atmosféricos externos como temperatura o humedad",
+        "Ser universalmente aceptadas en todos los países del mundo",
+        "Poder reproducirse fácilmente en cualquier laboratorio del mundo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La invariabilidad hace referencia a la constancia en el valor de la unidad. La inalterabilidad (condición separada) se refiere a no verse afectada por agentes atmosféricos u otros. La universalidad indica su uso en todos los países, y la reproducibilidad su fácil replicación."
+    },
+    {
+      "question": "¿Qué diferencia existe entre la 'inalterabilidad' y la 'invariabilidad' de una unidad de medida según el texto?",
+      "options": [
+        "La inalterabilidad significa que no se ve afectada por agentes atmosféricos; la invariabilidad significa constancia en su valor",
+        "La inalterabilidad se refiere a la permanencia histórica; la invariabilidad se refiere a la precisión",
+        "La inalterabilidad es una propiedad física; la invariabilidad es una propiedad matemática",
+        "La inalterabilidad es exigida por el SI; la invariabilidad solo se exige a las unidades derivadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, la inalterabilidad indica que la unidad no se ve afectada por agentes atmosféricos u otros factores externos. La invariabilidad se refiere a la constancia en su valor a lo largo del tiempo. Son dos condiciones distintas que deben cumplir las unidades fundamentales."
+    },
+    {
+      "question": "¿Por qué el segundo se define como 'fracción del día solar medio' según el texto?",
+      "options": [
+        "Para establecer una unidad de tiempo reproducible y vinculada a un fenómeno natural observable",
+        "Porque es más fácil de medir que otras referencias temporales como el año solar",
+        "Porque el día solar medio es la unidad más pequeña perceptible por los sentidos humanos",
+        "Porque permite una conversión directa con las unidades de longitud y masa del SI"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El segundo se define como una fracción del día solar medio como una forma de establecer una unidad de tiempo reproducible y vinculada a un fenómeno natural observable universalmente. Junto con el metro y el kilogramo, son las unidades básicas que deben definirse claramente en EP."
+    },
+    {
+      "question": "¿Qué función tiene la 'comodidad' como condición de las unidades fundamentales?",
+      "options": [
+        "Que el orden de magnitud de la unidad sea adecuado para su uso práctico habitual",
+        "Que la unidad sea fácil de recordar y de aplicar en los cálculos matemáticos",
+        "Que la unidad pueda ser reproducida fácilmente con los instrumentos disponibles",
+        "Que la unidad sea aceptada por la comunidad científica internacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La comodidad como condición de las unidades fundamentales se refiere a que su orden de magnitud sea adecuado para su uso práctico. Una unidad demasiado grande o demasiado pequeña para las mediciones habituales sería incómoda de usar."
+    },
+    {
+      "question": "¿Cómo describe el texto la evolución histórica de las unidades de medida?",
+      "options": [
+        "Han evolucionado desde los sistemas egipcios y babilónicos hasta el Sistema Métrico Decimal y el SI creado en 1960",
+        "Han evolucionado desde el sistema anglosajón hasta el Sistema Internacional de forma progresiva",
+        "Han evolucionado desde unidades arbitrarias locales hasta sistemas nacionales y finalmente al SI",
+        "Han evolucionado desde medidas corporales hasta instrumentos de precisión digital"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, las unidades de medida han evolucionado significativamente a lo largo de la historia, desde los sistemas egipcios y babilónicos hasta llegar al Sistema Métrico Decimal y al Sistema Internacional de Medidas (SI), creado en 1960."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el aprendizaje de la medida en los primeros años y en el tercer ciclo según el enfoque psicoevolutivo?",
+      "options": [
+        "En los primeros años se trabaja la longitud y la superficie con métodos de ensayo y error; en el tercer ciclo se incorpora el volumen tridimensional con enfoque más lógico",
+        "En los primeros años se usan únicamente instrumentos no convencionales; en el tercer ciclo solo se usan instrumentos del SI",
+        "En los primeros años se trabaja solo la estimación; en el tercer ciclo se incorpora la medición exacta",
+        "En los primeros años se aprenden las unidades fundamentales; en el tercer ciclo las derivadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Desde el enfoque psicoevolutivo: en los primeros años se trabajan la longitud (conservación desde los 7-8 años) y la superficie (comprensión precisa a los 8-10 años) con métodos de ensayo y error. En el tercer ciclo (11-12 años) se puede incorporar la medición del volumen tridimensional."
+    },
+    {
+      "question": "¿Qué papel juegan los 'procesos psicológicos' en el aprendizaje de la medida según Godino et al. (2004)?",
+      "options": [
+        "Ayudan a comprender la utilidad del sistema de medición y refuerzan el sentido de logro del estudiante",
+        "Permiten al estudiante memorizar las equivalencias entre unidades del sistema métrico",
+        "Facilitan la automatización de los procedimientos de medición mediante la práctica repetida",
+        "Desarrollan la capacidad de estimación sin necesidad de referentes corporales o instrumentos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Godino et al. (2004), en el aprendizaje de la medida intervienen procesos psicológicos que ayudan a comprender la utilidad del sistema de medición y refuerzan el sentido de logro del estudiante. Estos procesos complementan las destrezas sensoriales y los aspectos geométrico-aritméticos."
+    },
+    {
+      "question": "¿Qué aspecto del currículo aborda la enseñanza de las unidades de medida y el sistema métrico decimal?",
+      "options": [
+        "El currículo aborda la enseñanza de las unidades de medida, el sistema métrico decimal y las operaciones aritméticas con medidas",
+        "El currículo aborda la enseñanza de las unidades exclusivamente desde la perspectiva histórica",
+        "El currículo aborda solo las unidades fundamentales del SI, dejando las derivadas para secundaria",
+        "El currículo aborda las unidades de medida únicamente en relación con la geometría y las formas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que el currículo aborda la enseñanza de las unidades de medida, el sistema métrico decimal y las operaciones aritméticas con medidas. No obstante, también es fundamental relacionar la medida con otras áreas, proponer actividades de medición real y actividades de estimación."
+    },
+    {
+      "question": "¿Cuál es la relación entre la magnitud 'velocidad' y las magnitudes fundamentales según el texto?",
+      "options": [
+        "La velocidad es una magnitud derivada que se obtiene dividiendo el espacio (longitud) entre el tiempo",
+        "La velocidad es una magnitud fundamental que no depende de otras magnitudes para definirse",
+        "La velocidad es una magnitud escalar que se define únicamente mediante un valor numérico",
+        "La velocidad es una magnitud sin sustrato físico cuya percepción resulta abstracta para el alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La velocidad es una magnitud derivada que se obtiene dividiendo el espacio (magnitud fundamental de longitud) entre el tiempo (magnitud fundamental temporal): v = e / t. Es el ejemplo de magnitud derivada que cita el texto."
+    },
+    {
+      "question": "¿Qué diferencia existe entre la 'medida directa' e 'indirecta' en cuanto a cuándo se usa la indirecta?",
+      "options": [
+        "La indirecta se usa cuando el objeto no puede medirse directamente por su tamaño, forma u otra circunstancia",
+        "La indirecta se usa cuando no se dispone de instrumentos de medida adecuados en el aula",
+        "La indirecta se usa cuando se necesita mayor precisión que la que ofrecen los instrumentos convencionales",
+        "La indirecta se usa exclusivamente para magnitudes derivadas como la velocidad o la densidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La medida indirecta se calcula a partir de operaciones aritméticas cuando el objeto no puede medirse directamente por su tamaño, forma u otra circunstancia. La medida directa, en cambio, se realiza utilizando instrumentos de medida como el metro o el litro."
+    },
+    {
+      "question": "¿Cuál es la aportación específica de Alsina (2004) en el contexto de los recursos didácticos para la medida?",
+      "options": [
+        "Destaca la necesidad de combinar instrumentos y materiales manipulativos con las posibilidades de las TIC",
+        "Propone la enseñanza de la medida exclusivamente mediante situaciones de la vida cotidiana",
+        "Desarrolla las cinco fases de adquisición del concepto de unidad de medida en EP",
+        "Distingue las dos estrategias principales de estimación: comparación y descomposición"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alsina (2004) destaca que para el aprendizaje de la medida es necesario combinar instrumentos y materiales manipulativos, que permitan al alumnado experimentar, con todas las posibilidades que ofrecen las TIC. Esta combinación es su principal aportación en este contexto."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el 'volumen' como magnitud y su instrumento de medida según el texto?",
+      "options": [
+        "El volumen como magnitud es una propiedad cuantificable; las probetas y vasos de precipitado son los instrumentos para medirlo",
+        "El volumen es una magnitud fundamental; las probetas son los únicos instrumentos válidos para medirlo",
+        "El volumen es una magnitud derivada; su medida es siempre indirecta mediante fórmulas geométricas",
+        "El volumen es una magnitud vectorial; los instrumentos de medida son especialmente precisos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto distingue el volumen como magnitud (propiedad cuantificable de los objetos) de sus instrumentos de medida: las probetas y los vasos de precipitado. Estos instrumentos permiten medir directamente el volumen de líquidos y, con técnicas específicas, de sólidos."
+    },
+    {
+      "question": "¿Qué permite al alumnado adquirir el manejo de instrumentos con destreza según la conclusión del texto?",
+      "options": [
+        "Un proceso de descubrimiento progresivo que parte de la necesidad social de medir y la interiorización de unidades",
+        "La memorización sistemática de las características técnicas de cada instrumento de medida",
+        "La práctica repetida de mediciones con instrumentos convencionales del Sistema Internacional",
+        "El aprendizaje teórico de las equivalencias entre múltiplos y divisores de cada unidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la conclusión, el alumnado adquiere el manejo de instrumentos con destreza a través de un proceso de descubrimiento progresivo que le permita comprender la necesidad social de medir, interiorizar las unidades y estimar con criterio."
+    },
+    {
+      "question": "¿Qué utilidad tienen los relojes de sol y de arena en el contexto educativo de primaria?",
+      "options": [
+        "Permiten trabajar la evolución histórica de los instrumentos de medida del tiempo y la noción de duración",
+        "Son los instrumentos más precisos disponibles para medir el tiempo en el aula de EP",
+        "Permiten medir el tiempo con mayor exactitud que los relojes digitales convencionales",
+        "Son los únicos instrumentos apropiados para el primer ciclo de Educación Primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aunque el texto no lo dice explícitamente, los relojes de sol y de arena mencionados junto con los de cuarzo, digitales y atómicos sirven para trabajar la evolución histórica de los instrumentos de medida del tiempo y la noción de duración, conectando con el sentido histórico de la medida."
+    },
+    {
+      "question": "¿Cuáles son los dos aspectos centrales del valor de las magnitudes y la medida según la conclusión del texto?",
+      "options": [
+        "Valor formativo (desarrollo de capacidades) y aplicabilidad directa a la vida cotidiana",
+        "Valor instrumental (acceso a otros conocimientos) y valor cultural (patrimonio histórico)",
+        "Valor científico (base de la investigación) y valor tecnológico (base de la innovación)",
+        "Valor numérico (desarrollo del sentido numérico) y valor geométrico (comprensión del espacio)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión señala que las magnitudes y su medida constituyen un ámbito esencial tanto por su valor formativo (desarrolla capacidades para interpretar y cuantificar el mundo) como por su aplicabilidad directa a la vida cotidiana, primero con el entorno próximo y luego con el más lejano."
+    },
+    {
+      "question": "¿Qué implicación tiene para la enseñanza el hecho de que los niños se encuentren en el estadio de operaciones concretas durante la EP?",
+      "options": [
+        "Que se debe priorizar la manipulación y la experimentación sobre los contenidos abstractos",
+        "Que los alumnos de EP son capaces de comprender magnitudes abstractas sin apoyo manipulativo",
+        "Que la enseñanza debe centrarse en la memorización de reglas y fórmulas matemáticas",
+        "Que los alumnos de EP no necesitan instrumentos de medida reales para aprender las unidades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El estadio de operaciones concretas de Piaget les dificulta el manejo de contenidos abstractos. Esto implica que es imprescindible planificar las actividades con materiales manipulativos, experimentación y situaciones concretas, respetando los estadios psicoevolutivos de los niños."
+    },
+    {
+      "question": "¿Qué aporta el aprendizaje basado en problemas a la enseñanza de las magnitudes y la medida?",
+      "options": [
+        "Vincula los contenidos a contextos reales y cotidianos, promoviendo el aprendizaje activo y la resolución de situaciones auténticas",
+        "Garantiza la adquisición de todos los contenidos del bloque de sentido de la medida en menor tiempo",
+        "Permite evaluar con mayor objetividad el dominio de las unidades del sistema métrico decimal",
+        "Facilita la memorización de fórmulas y equivalencias mediante problemas contextualizados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje basado en problemas es una metodología activa y globalizadora que vincula los contenidos a contextos reales, cotidianos y matemáticos. Para la medida, permite trabajar situaciones auténticas de medición y estimación que dan sentido al aprendizaje."
+    },
+    {
+      "question": "¿Cuál es la función de los 'geoplanos' como recurso didáctico para la medida?",
+      "options": [
+        "Permiten trabajar la medida de superficies de forma manipulativa y visual",
+        "Permiten medir ángulos con mayor precisión que el transportador convencional",
+        "Permiten medir volúmenes tridimensionales mediante el conteo de unidades cúbicas",
+        "Permiten comparar longitudes de segmentos y perímetros de figuras geométricas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los geoplanos se mencionan tanto como material estructurado para la enseñanza como instrumento para trabajar las superficies. Permiten al alumnado trabajar la medida de superficies de forma manipulativa y visual, contando las unidades cuadradas de la trama."
+    },
+    {
+      "question": "¿Por qué la enseñanza de la medida debe vincularse con la resolución de problemas según el texto?",
+      "options": [
+        "Porque la resolución de problemas y las destrezas emocionales son ejes fundamentales de la actividad matemática",
+        "Porque los problemas son el único recurso didáctico que permite evaluar el dominio de la medida",
+        "Porque los problemas permiten a los alumnos practicar exclusivamente los algoritmos de conversión",
+        "Porque la resolución de problemas elimina la necesidad de usar materiales manipulativos en clase"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La resolución de problemas y las destrezas emocionales son ejes fundamentales de la actividad matemática que deben abordarse transversalmente. La medida se vincula a la resolución de problemas reales que den sentido y contexto al aprendizaje."
+    },
+    {
+      "question": "¿Qué característica específica de los instrumentos de medida ayuda a minimizar las diferencias entre las mediciones y la realidad?",
+      "options": [
+        "La precisión de los instrumentos desarrollados gracias a la tecnología",
+        "La universalidad de los instrumentos reconocidos por el Sistema Internacional",
+        "La reproducibilidad de los patrones de medida utilizados en el calibrado",
+        "La invariabilidad de las unidades de medida que emplean los instrumentos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gracias al desarrollo de la tecnología, existen instrumentos de gran precisión que minimizan las diferencias entre las mediciones y la realidad. La precisión es la característica instrumental clave para reducir los errores de medición."
+    },
+    {
+      "question": "¿Qué diferencia hay entre la perspectiva de Piaget sobre la longitud y el volumen en el desarrollo de la medida?",
+      "options": [
+        "La conservación de la longitud se adquiere a los 7-8 años; la medición del volumen tridimensional no se alcanza hasta los 11-12 años",
+        "La conservación de la longitud es innata; la comprensión del volumen debe enseñarse explícitamente",
+        "La longitud es una magnitud más abstracta que el volumen para los niños de EP",
+        "La conservación de la longitud es más difícil de adquirir que la del volumen para los niños de EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Piaget estudió el desarrollo de las nociones de medida en entidades espaciales como longitud, superficie y volumen. La conservación de la longitud comienza a los 7-8 años, la comprensión precisa de la superficie a los 8-10 años, y la medición del volumen tridimensional a los 11-12 años."
+    },
+    {
+      "question": "¿Cuál es la obra de Godino et al. (2002) que trata específicamente la medida de magnitudes?",
+      "options": [
+        "'Medida de magnitudes y su didáctica para maestros', del Proyecto Edumat-Maestros",
+        "'Didáctica de las matemáticas para maestros', del Proyecto Edumat-Maestros",
+        "'Didáctica de las matemáticas para primaria', de Pearson Educación",
+        "'Enseñanza y aprendizaje de las matemáticas en Educación Primaria', de Pirámide"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Godino, Batanero y Roa (2002) publicaron 'Medida de magnitudes y su didáctica para maestros', dentro del Proyecto Edumat-Maestros. Es distinto de la obra de Godino et al. (2004) 'Didáctica de las matemáticas para maestros', que es más general."
+    },
+    {
+      "question": "¿Cuál es la obra de referencia de Chamorro citada en el texto y cuándo fue publicada?",
+      "options": [
+        "'Didáctica de las matemáticas para primaria', publicada en 2003 por Pearson Educación",
+        "'Didáctica de las matemáticas para maestros', publicada en 2004 por el Proyecto Edumat",
+        "'Desarrollo de competencias matemáticas con recursos lúdico-manipulativos', publicada en 2004",
+        "'Enseñanza y aprendizaje de las matemáticas en Educación Primaria', publicada en 2015"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chamorro, M.C. publicó en 2003 'Didáctica de las matemáticas para primaria' en Madrid, por Pearson Educación. Esta obra es la referencia de Chamorro (2003) citada en el texto."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre la medida y las demás áreas del currículo?",
+      "options": [
+        "Los contenidos de medida se proyectan transversalmente sobre los cinco bloques restantes del área de matemáticas",
+        "La medida solo se trabaja en el bloque específico de sentido de la medida sin conexión con otras áreas",
+        "La medida está relacionada únicamente con el bloque de geometría del área de matemáticas",
+        "Los contenidos de medida están completamente separados del resto de bloques matemáticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que los contenidos del Bloque 2 'Sentido de la Medida' se proyectan transversalmente sobre los cinco bloques restantes del área de matemáticas, lo que refuerza la importancia de la medida como contenido transversal en el currículo."
+    },
+    {
+      "question": "¿Qué recurso del entorno cotidiano resulta especialmente relevante como 'punto de partida privilegiado' para la enseñanza de la medida?",
+      "options": [
+        "El entorno cotidiano del alumnado ofrece situaciones y problemas reales como la medición corporal, las recetas y las distancias conocidas",
+        "Los laboratorios de ciencias con instrumentos de medida de alta precisión y calibrado",
+        "Los libros de texto con ejercicios contextualizados y problemas de aplicación resueltos",
+        "Las plataformas digitales educativas con simulaciones de medición y retroalimentación inmediata"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El entorno cotidiano del alumnado ofrece un punto de partida privilegiado con situaciones y problemas reales como la medición de la altura y el peso corporal, las tallas de ropa, las recetas de cocina, los horarios de actividades y las distancias entre lugares conocidos."
+    },
+    {
+      "question": "¿Cuáles son los tres niveles de aplicación del conocimiento de magnitudes que describe la conclusión del texto?",
+      "options": [
+        "Conocimiento de conceptos, dominio de instrumentos/sistemas, y capacidad de estimar con criterio",
+        "Adquisición teórica, aplicación práctica y evaluación de resultados obtenidos",
+        "Comprensión básica, aplicación cotidiana y formalización matemática avanzada",
+        "Percepción sensorial, comparación con referentes y abstracción de la unidad de medida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión identifica tres niveles: el conocimiento de conceptos de magnitud, medida y unidad; el dominio de los instrumentos y sistemas de medida; y la capacidad de estimar con criterio. Estos tres componentes permiten al alumnado interpretar y cuantificar el mundo."
+    },
+    {
+      "question": "¿Cuál es la función del 'aprendizaje significativo' frente al aprendizaje memorístico en la enseñanza de la medida?",
+      "options": [
+        "El aprendizaje significativo conecta los contenidos con experiencias previas y problemas reales, construyendo conocimiento útil y duradero",
+        "El aprendizaje significativo garantiza la memorización de fórmulas y algoritmos de conversión",
+        "El aprendizaje significativo permite al alumnado resolver automáticamente problemas de medida sin reflexión",
+        "El aprendizaje significativo es un término equivalente al aprendizaje cooperativo en el contexto matemático"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje significativo permite al alumnado dotar de sentido a los contenidos, conectándolos con situaciones complejas que integran diferentes ámbitos del conocimiento. Esto favorece la construcción de aprendizajes útiles para la resolución de problemas, frente a la mera memorización."
+    },
+    {
+      "question": "¿Cuál es la relación entre el 'referente' como destreza de estimación y los instrumentos no estándar?",
+      "options": [
+        "El referente consiste en conocer la medida de partes del cuerpo u objetos frecuentes para usarlos como punto de comparación al estimar, de forma similar a los instrumentos no estándar",
+        "El referente sustituye completamente a los instrumentos no estándar en las fases avanzadas de EP",
+        "El referente solo se usa con magnitudes fundamentales, no con magnitudes derivadas",
+        "El referente es una destreza exclusiva del tercer ciclo, cuando el alumno ya domina las unidades del SI"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El referente consiste en conocer la medida de partes del cuerpo u objetos frecuentes del entorno para tomarlos como referencias al estimar. Esto es similar al uso de instrumentos no estándar (partes del cuerpo como el palmo, pie, paso o dedo), que también se usan como medidas de referencia."
+    },
+    {
+      "question": "¿Por qué el texto considera importante incluir actividades de estimación con análisis de errores?",
+      "options": [
+        "Porque permite tolerar el error como parte del aprendizaje y desarrollar estrategias para mejorar progresivamente las estimaciones",
+        "Porque el análisis de errores es el único método válido para evaluar la competencia estimativa del alumnado",
+        "Porque elimina los errores de estimación mediante la corrección sistemática de las respuestas incorrectas",
+        "Porque el análisis de errores facilita la transición de unidades no convencionales al Sistema Internacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades de estimación con análisis de errores son importantes porque permiten tolerar el error como parte del aprendizaje y desarrollar estrategias propias y comprensivas. El error se valora como una oportunidad de aprendizaje, no como un fracaso."
+    },
+    {
+      "question": "¿Cuál es el objetivo del Sistema Internacional de Unidades según el texto?",
+      "options": [
+        "Unificar las unidades de medida y facilitar su uso a nivel global, determinando símbolos, unidades y nomenclatura",
+        "Establecer los límites de tolerancia aceptables en los instrumentos de medida industriales",
+        "Definir los procedimientos de calibración de los instrumentos de medida de precisión",
+        "Regular el comercio internacional mediante el uso de unidades de medida estandarizadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Sistema Internacional (SI) determina los símbolos, la unidad a emplear y la nomenclatura correspondiente a cada magnitud. Su objetivo es evitar los problemas derivados de la diversidad de unidades existentes, estableciendo un único sistema para las magnitudes fundamentales."
+    },
+    {
+      "question": "¿Qué diferencia existe entre un sistema de medida y una unidad de medida según el texto?",
+      "options": [
+        "Un sistema de medida reúne un conjunto de elementos y sus equivalencias; una unidad de medida es la cantidad unitaria de referencia para comparar",
+        "Un sistema de medida es más general; una unidad es más específica para cada instrumento",
+        "Un sistema de medida es internacional; una unidad puede ser local o convencional",
+        "Un sistema de medida agrupa magnitudes fundamentales; una unidad corresponde a magnitudes derivadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Un sistema de medida reúne un conjunto de elementos y sus equivalencias que, mediante un proceso de comparación, permiten asignar un valor a una magnitud. Una unidad de medida es la cantidad unitaria de la misma magnitud tomada arbitrariamente como referencia para comparar."
+    },
+    {
+      "question": "¿Qué relación establece la conclusión entre la enseñanza de la medida y los objetivos de las áreas curriculares?",
+      "options": [
+        "El tratamiento escolar de la medida no solo contribuye a los objetivos curriculares, sino que también es un motor del desarrollo cognitivo",
+        "El tratamiento escolar de la medida solo tiene importancia para el logro de los objetivos del área de matemáticas",
+        "El tratamiento escolar de la medida tiene un impacto exclusivamente en el bloque de sentido numérico",
+        "El tratamiento escolar de la medida se limita a facilitar el acceso a los contenidos de geometría"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión establece que el tratamiento que la escuela dé a estos conocimientos no contribuirá tan solo a alcanzar los objetivos de las áreas curriculares, sino que será uno de los principales motores del desarrollo cognitivo, contribuyendo a la competencia matemática y el desarrollo integral."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre 'magnitud', 'medida' y 'unidad' como conceptos clave del tema?",
+      "options": [
+        "Magnitud es la propiedad cuantificable; unidad es la cantidad de referencia para comparar; medida es el resultado concreto obtenido",
+        "Magnitud es el instrumento de medida; medida es el proceso de comparación; unidad es el resultado",
+        "Magnitud es el objeto medido; medida es la propiedad cuantificada; unidad es el proceso de comparación",
+        "Magnitud es el valor numérico; medida es la propiedad física; unidad es el instrumento empleado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Magnitud es una propiedad cuantificable que puede medirse (como longitud o masa). La unidad de medida es la cantidad unitaria tomada como referencia para la comparación. La medida es el resultado concreto obtenido del proceso de medición (valor numérico + denominación de la unidad)."
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre los 'sistemas irregulares' y los 'sistemas regulares' de medida en cuanto a su uso didáctico?",
+      "options": [
+        "Los sistemas irregulares carecen de relación decimal entre unidades, lo que dificulta la comprensión del patrón de cambio de escala",
+        "Los sistemas irregulares son más fáciles de aprender porque sus unidades son más intuitivas",
+        "Los sistemas irregulares se usan exclusivamente en los primeros ciclos de EP por su simplicidad",
+        "Los sistemas irregulares permiten medir con mayor precisión las magnitudes fundamentales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los sistemas irregulares no contienen unidades principales ni subunidades con una relación decimal entre ellas, lo que dificulta la comprensión del patrón de cambio de escala (multiplicar/dividir por 10). Los sistemas regulares, con múltiplos y divisores decimales, son más coherentes didácticamente."
+    },
+    {
+      "question": "¿En qué consiste la 'interiorización' como destreza para realizar estimaciones según el texto?",
+      "options": [
+        "La capacidad de construir representaciones mentales ajustadas de las principales unidades de medida sin recurrir a instrumentos",
+        "La capacidad de memorizar las equivalencias numéricas entre múltiplos y divisores del SI",
+        "La capacidad de comparar objetos entre sí sin necesitar referentes corporales ni instrumentos",
+        "La capacidad de aplicar fórmulas matemáticas para calcular medidas inaccesibles directamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La interiorización es la capacidad de construir representaciones mentales ajustadas de las principales unidades de medida en sus diferentes variantes (alto, ancho, largo) sin recurrir a instrumentos. Es la primera y más fundamental destreza para realizar buenas estimaciones."
+    },
+    {
+      "question": "¿Por qué el texto considera que la medida de magnitudes tiene un 'carácter instrumental' según la introducción?",
+      "options": [
+        "Porque las matemáticas tienen un papel instrumental que facilita el acceso a otros conocimientos",
+        "Porque los instrumentos de medida son el elemento central del aprendizaje matemático en EP",
+        "Porque el Sistema Internacional de Medidas facilita el uso de instrumentos de precisión",
+        "Porque los instrumentos de medida son la única forma válida de cuantificar las magnitudes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que las matemáticas tienen un carácter instrumental que vincula esta área con la mayoría de las áreas de conocimiento. Este papel instrumental facilita el acceso a otros conocimientos, lo que justifica la importancia de las magnitudes y su medida en el currículo."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la función que cumplen los estándares de medida en la comunicación y en la garantía de precisión?",
+      "options": [
+        "Permiten comunicar medidas de modo abreviado y directo, y garantizan precisión y consistencia en diferentes áreas geográficas",
+        "Facilitan la comunicación oral de resultados y garantizan la reproducibilidad de los experimentos",
+        "Permiten la comunicación entre distintos sistemas de medida y garantizan la universalidad de los valores",
+        "Facilitan la comunicación matemática entre alumnado y garantizan la objetividad de la evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los estándares de medida cumplen al menos dos funciones esenciales: permiten comunicar medidas de un modo abreviado y directo, y garantizan medidas precisas y consistentes en diferentes áreas geográficas, haciendo posible la comparación de resultados independientemente de su origen."
+    },
+    {
+      "question": "¿Cuáles son las cuatro condiciones que deben reunir las unidades fundamentales del SI según el texto?",
+      "options": [
+        "Comodidad, invariabilidad, inalterabilidad y reproducibilidad",
+        "Universalidad, inalterabilidad, precisión y reproducibilidad",
+        "Comodidad, universalidad, invariabilidad y exactitud",
+        "Precisión, inalterabilidad, reproducibilidad y universalidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las unidades fundamentales del SI deben reunir cuatro condiciones: comodidad (orden de magnitud adecuado para su uso), invariabilidad (constancia en su valor), inalterabilidad (no afectadas por agentes externos) y reproducibilidad (fácilmente replicables). Son distintas de las tres condiciones de las unidades de medida en general."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los procesos de aprendizaje de la longitud y del volumen en cuanto al tipo de operaciones que implican?",
+      "options": [
+        "La longitud se trabaja desde los 7-8 años con operaciones más simples; el volumen requiere pensamiento tridimensional que emerge a los 11-12 años",
+        "La longitud requiere operaciones abstractas previas; el volumen se trabaja desde los primeros años con manipulación",
+        "La longitud y el volumen se trabajan simultáneamente con los mismos tipos de operaciones",
+        "La longitud solo puede medirse directamente; el volumen siempre requiere medida indirecta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La longitud puede comenzar a trabajarse desde los 7-8 años con operaciones relativamente simples de conservación y comparación. El volumen tridimensional requiere pensamiento espacial más complejo que no emerge hasta los 11-12 años, lo que implica que se ubica en el tercer ciclo de EP."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre la necesidad de medir y el origen de los sistemas de medida?",
+      "options": [
+        "El reconocimiento del sistema de medida y las unidades como una necesidad convencional de toda comunidad social",
+        "Los sistemas de medida surgieron de la necesidad científica de precisión en los experimentos de laboratorio",
+        "Los sistemas de medida se crearon por acuerdos entre gobiernos para facilitar el comercio internacional",
+        "La necesidad de medir surgió exclusivamente del desarrollo de las ciencias físicas modernas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que uno de los objetivos del tratamiento didáctico de la medida es reconocer el sistema de medida y las unidades como una necesidad convencional de toda comunidad social, conectando el aprendizaje con la dimensión histórica y cultural de la medida."
+    },
+    {
+      "question": "¿Cuáles son los ejemplos de magnitudes fundamentales que menciona el texto?",
+      "options": [
+        "Masa, longitud y tiempo como ejemplos de magnitudes fundamentales",
+        "Velocidad, temperatura y volumen como ejemplos de magnitudes fundamentales",
+        "Superficie, peso y presión como ejemplos de magnitudes fundamentales",
+        "Densidad, aceleración y fuerza como ejemplos de magnitudes fundamentales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona la masa, la longitud y el tiempo como ejemplos de magnitudes fundamentales: son básicas, no dependen de otras y se eligen por su frecuencia de uso. La velocidad y el volumen, en cambio, son magnitudes derivadas."
+    },
+    {
+      "question": "¿Cuál es el ejemplo concreto que usa el texto para ilustrar cómo la estimación implica tener interiorizada la unidad de medida?",
+      "options": [
+        "Tener interiorizado el metro o el gramo para valorar magnitudes de forma aproximada",
+        "Usar el palmo o el pie como referentes para estimar longitudes sin instrumentos",
+        "Comparar el peso de un objeto con el de una moneda conocida de un euro",
+        "Estimar el volumen de un recipiente comparándolo con una botella de un litro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que a nivel escolar, la estimación implica tener interiorizada la unidad de medida correspondiente, como el metro o el gramo. Estas son las unidades de referencia mental que el alumno usa para valorar magnitudes de forma aproximada."
+    },
+    {
+      "question": "¿Cuál es el papel que juegan los 'referentes corporales' en la estimación según el texto?",
+      "options": [
+        "Sirven como instrumentos de medida aproximada que los niños deben tener interiorizados",
+        "Sustituyen definitivamente a los instrumentos convencionales en la enseñanza de la medida",
+        "Son exclusivamente útiles en el primer ciclo de EP y se abandonan posteriormente",
+        "Permiten obtener medidas exactas equivalentes a las del Sistema Internacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los referentes corporales (palmo, pie, paso, dedo) son instrumentos de medida aproximada que los niños deben tener interiorizados para usarlos al estimar. Son especialmente útiles en las primeras fases del aprendizaje y forman parte de la destreza de 'referente' para la estimación."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la primera y la segunda fase de la secuencia didáctica de medición?",
+      "options": [
+        "La primera es la percepción del rasgo a medir; la segunda es la comparación con otras mediciones que genera la necesidad de un patrón estándar",
+        "La primera es la estimación previa; la segunda es la medición con instrumentos reales",
+        "La primera usa instrumentos no estándar; la segunda usa instrumentos del Sistema Internacional",
+        "La primera trabaja con magnitudes fundamentales; la segunda con magnitudes derivadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La primera fase es la percepción: el docente crea la necesidad de medir proponiendo estímulos concretos. La segunda es la comparación: una vez medido el rasgo, surge la necesidad de compararlo con otras mediciones, lo que lleva a la necesidad de un patrón de medida estándar."
+    },
+    {
+      "question": "¿Por qué las técnicas indirectas de estimación son necesarias según el texto?",
+      "options": [
+        "Para calcular longitudes que no pueden medirse directamente, aplicando fórmulas o teoremas",
+        "Para sustituir los instrumentos de medida cuando no están disponibles en el aula",
+        "Para verificar la precisión de las mediciones directas realizadas con instrumentos convencionales",
+        "Para convertir entre unidades de distintos sistemas cuando no se conocen las equivalencias exactas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las técnicas indirectas son la tercera destreza para estimación: consisten en aplicar fórmulas o teoremas para calcular longitudes que no pueden medirse directamente, bien por ser inaccesibles, bien por ser el resultado de una combinación de magnitudes."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los 'materiales no estructurados' y los 'instrumentos de medición no estándar' según el texto?",
+      "options": [
+        "Los materiales no estructurados son objetos cotidianos como monedas o envases; los instrumentos no estándar son palillos, tiras de cartón o partes del cuerpo usados para medir",
+        "Los materiales no estructurados son exclusivamente de origen natural; los no estándar son de fabricación industrial",
+        "Los materiales no estructurados no pueden usarse para medir; los no estándar sí permiten cuantificar magnitudes",
+        "Los materiales no estructurados se usan en los primeros ciclos; los no estándar se usan en el tercer ciclo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los materiales no estructurados son objetos cotidianos (monedas, billetes, piedras, envases) no diseñados con fines educativos pero útiles en el aula. Los instrumentos de medición no estándar son elementos como palillos, tiras de cartón, cuadrículas o partes del cuerpo usados específicamente para medir."
+    },
+    {
+      "question": "¿Cuál es el objetivo de la 'asignación de una referencia estándar' como tercer momento de la secuencia didáctica?",
+      "options": [
+        "Pasar de las unidades no convencionales utilizadas en fases anteriores a la justificación y uso de las unidades del SI",
+        "Asignar nombres convencionales a los instrumentos de medida utilizados en el proceso",
+        "Definir cuál es el instrumento más adecuado para cada tipo de magnitud medida",
+        "Establecer la relación entre la estimación previa y la medida exacta obtenida con instrumentos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tercer momento de la secuencia didáctica consiste en asignar un valor determinado al resultado de la medición, pasando de las unidades no convencionales utilizadas en las fases anteriores a la justificación y el uso de las unidades del Sistema Internacional."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el 'micro' y el 'calibrador' como instrumentos de medida de longitud?",
+      "options": [
+        "El micrómetro mide con mayor precisión que el calibrador, siendo adecuado para objetos muy pequeños",
+        "El micrómetro es un instrumento digital; el calibrador es un instrumento analógico",
+        "El micrómetro mide longitudes largas; el calibrador mide longitudes cortas",
+        "El micrómetro mide magnitudes eléctricas; el calibrador mide longitudes lineales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El micrómetro y el calibrador son instrumentos de alta precisión para medir la longitud. El micrómetro ofrece mayor precisión que el calibrador y es adecuado para objetos muy pequeños. Ambos se mencionan junto con la regla y el flexómetro como instrumentos más exactos que los corporales."
+    },
+    {
+      "question": "¿Cuál es la razón por la que el texto considera que la estimación 'conecta con la resolución de problemas'?",
+      "options": [
+        "Porque la estimación implica analizar situaciones, formular hipótesis y tomar decisiones sobre magnitudes, que son capacidades propias de la resolución de problemas",
+        "Porque los problemas matemáticos siempre requieren una estimación previa antes de calcular la solución exacta",
+        "Porque la resolución de problemas en EP se basa exclusivamente en habilidades de estimación",
+        "Porque estimar y resolver problemas son el mismo tipo de actividad cognitiva en matemáticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estimación conecta con la resolución de problemas porque implica capacidades compartidas: análisis de la situación, identificación de la magnitud, formulación de hipótesis, toma de decisiones y verificación de resultados. Estas son capacidades fundamentales tanto en la estimación como en la resolución de problemas."
+    },
+    {
+      "question": "¿Cuál es el argumento principal del texto para justificar que la tecnología no debe sustituir a los materiales manipulativos?",
+      "options": [
+        "Porque el foco debe permanecer en el problema matemático y los materiales manipulativos son esenciales en el estadio de operaciones concretas",
+        "Porque los materiales digitales son menos precisos que los manipulativos para medir en EP",
+        "Porque el currículo prohíbe el uso de tecnología en las actividades de medida de EP",
+        "Porque los alumnos de EP no tienen las habilidades digitales necesarias para usar las TIC eficazmente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tecnología no debe sustituir a los materiales manipulativos porque el foco debe permanecer en el problema matemático (no en el dispositivo) y porque los materiales manipulativos son esenciales para el estadio de operaciones concretas en que se encuentran los alumnos de EP."
+    },
+    {
+      "question": "¿Cuál es el ejemplo concreto que usa el texto para ilustrar cómo la percepción en la medida puede dar significado a la longitud?",
+      "options": [
+        "Medir la altura de un compañero da significado a la longitud",
+        "Medir el peso de una mochila da significado a la masa",
+        "Medir el tiempo que tarda en sonar un timbre da significado al segundo",
+        "Medir la temperatura del aula da significado a la escala termométrica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona explícitamente que medir la altura de un compañero da significado a la longitud como magnitud. Este ejemplo ilustra cómo el docente puede crear la necesidad de medir proponiendo situaciones concretas y significativas."
+    },
+    {
+      "question": "¿Qué relación existe entre el principio de conservación de la longitud y el concepto de magnitud?",
+      "options": [
+        "Los niños deben comprender que las características de los objetos (como la longitud) no cambian a pesar de las variaciones en su posición",
+        "El principio de conservación demuestra que la longitud es una magnitud escalar y no vectorial",
+        "La comprensión de la conservación de la longitud es prerrequisita para aprender el SI",
+        "El principio de conservación permite a los niños convertir entre múltiplos y divisores del metro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El principio de conservación de la longitud implica que los niños comprendan que las características de los objetos (como su longitud) no cambian a pesar de las variaciones en su posición que puedan generar percepciones erróneas. Esta comprensión es fundamental para el aprendizaje de la medida."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el 'juego como recurso motivador' y las 'actividades de estimación' propiamente dichas?",
+      "options": [
+        "El juego es una capacidad que favorece el contexto de aprendizaje de la estimación; las actividades de estimación son la práctica concreta de esa habilidad",
+        "El juego es el objetivo final de la enseñanza de la medida; las actividades de estimación son el medio para lograrlo",
+        "El juego se usa exclusivamente en el primer ciclo; las actividades de estimación se usan en todos los ciclos",
+        "El juego reemplaza a las actividades de estimación cuando los alumnos muestran dificultades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El juego como recurso motivador es una de las capacidades que se desarrollan en el proceso de estimación. Favorece el contexto de aprendizaje haciéndolo más atractivo y significativo. Las actividades de estimación son la práctica concreta de la habilidad estimativa."
+    },
+    {
+      "question": "¿Cuál es la primera actividad para trabajar la estimación que menciona el texto para los niños?",
+      "options": [
+        "Comparar objetos entre sí como base para desarrollar la habilidad estimativa",
+        "Medir con exactitud para luego comparar con la estimación previa realizada",
+        "Interiorizar la unidad de medida antes de intentar cualquier estimación",
+        "Aprender los referentes corporales para usarlos en la estimación de longitudes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para mejorar sus estimaciones, los niños deben practicar en este orden: primero comparar objetos entre sí, luego estimar medidas cercanas a su experiencia cotidiana, y finalmente medir con exactitud y comparar los resultados con las estimaciones previas."
+    },
+    {
+      "question": "¿Por qué la resolución de problemas se considera un 'eje fundamental' de la actividad matemática según el texto?",
+      "options": [
+        "Porque junto con las destrezas emocionales, debe abordarse transversalmente en toda el área de matemáticas",
+        "Porque la resolución de problemas es el único método válido para evaluar el aprendizaje matemático",
+        "Porque los problemas permiten practicar todos los algoritmos de conversión del sistema métrico",
+        "Porque los problemas eliminan la necesidad de usar materiales manipulativos en el aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La resolución de problemas y el desarrollo de destrezas emocionales son ejes fundamentales de la actividad matemática que deben abordarse transversalmente en el área. No son contenidos específicos de un bloque, sino elementos que impregnan toda la enseñanza matemática."
+    },
+    {
+      "question": "¿Cuál es el ejemplo que usa el texto para ilustrar la magnitud derivada 'volumen'?",
+      "options": [
+        "El volumen se menciona como magnitud derivada junto con la velocidad como ejemplos de magnitudes que se expresan mediante fórmulas",
+        "El volumen se usa para ilustrar cómo las magnitudes fundamentales dan lugar a instrumentos de medida específicos",
+        "El volumen se usa para mostrar que algunas magnitudes solo pueden medirse de forma indirecta",
+        "El volumen se usa como ejemplo de magnitud sin sustrato físico que resulta abstracta para el alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto menciona el volumen junto con la velocidad como ejemplos de magnitudes derivadas que se definen a partir de las fundamentales y pueden expresarse mediante fórmulas. La velocidad es v = e/t, y el volumen se obtiene a partir de las dimensiones de longitud."
+    },
+    {
+      "question": "¿Cuál es la diferencia en la aplicación didáctica entre medir con partes del cuerpo y medir con instrumentos estándar?",
+      "options": [
+        "Las partes del cuerpo son útiles en las primeras fases para comprender el acto de medir; los instrumentos estándar proporcionan mayor precisión y permiten comparaciones universales",
+        "Las partes del cuerpo son exclusivamente para el primer ciclo; los instrumentos estándar son para el tercer ciclo",
+        "Las partes del cuerpo miden magnitudes fundamentales; los instrumentos estándar miden derivadas",
+        "Las partes del cuerpo siempre ofrecen medidas más fiables por ser más naturales e intuitivas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las partes del cuerpo son especialmente útiles en las primeras fases del aprendizaje para que el alumnado comprenda el acto de medir de forma concreta. Los instrumentos estándar (regla, cinta métrica, balanza) proporcionan mayor precisión y permiten comparaciones universales mediante unidades del SI."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre 'medir la longitud' con partes del cuerpo inicialmente y con instrumentos exactos posteriormente?",
+      "options": [
+        "Las partes del cuerpo (mano, pie, dedo) son unidades no convencionales para explorar el concepto; la regla, cinta métrica, micrómetro y calibrador son instrumentos más exactos para medidas precisas",
+        "Las partes del cuerpo miden solo longitudes pequeñas; los instrumentos exactos miden cualquier longitud",
+        "Las partes del cuerpo son instrumentos de estimación; los instrumentos exactos producen valores definitivos",
+        "Las partes del cuerpo se usan en primer ciclo; los instrumentos exactos exclusivamente en tercer ciclo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las partes del cuerpo (mano, pie, dedo) funcionan como unidades no convencionales que permiten al alumno explorar el concepto de medición de longitud de forma concreta. La regla, el flexómetro, el micrómetro y el calibrador son instrumentos más exactos que permiten medidas precisas en unidades del SI."
+    },
+    {
+      "question": "¿Cuál es el papel de la 'manipulación' en el proceso de estimación según el texto?",
+      "options": [
+        "Es una de las capacidades que se desarrollan en el proceso de estimación, permitiendo explorar las características físicas del objeto",
+        "Es el único método válido para desarrollar la habilidad estimativa en alumnos de primer ciclo",
+        "Sustituye a la medición formal cuando no se dispone de instrumentos en el aula",
+        "Es la última fase del proceso de estimación, que se realiza después de la verificación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La manipulación es una de las capacidades que se desarrollan en el proceso de estimación, junto con el análisis, la identificación de la magnitud, el trabajo en equipo, la formulación de hipótesis, el juego, la localización de referentes, el ensayo y error, la operación, la planificación y la verificación."
+    },
+    {
+      "question": "¿Cuál es la principal implicación educativa del principio de conservación de la superficie según el texto?",
+      "options": [
+        "Que la medición precisa de superficies no debe abordarse antes de los 8-10 años, cuando se adquiere el enfoque lógico necesario",
+        "Que la superficie debe introducirse antes que la longitud en la secuencia didáctica de EP",
+        "Que la superficie solo puede medirse con papel cuadriculado y no con fórmulas geométricas",
+        "Que la noción de superficie se adquiere simultáneamente con la de volumen a los 11-12 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que los niños no suelen comprender la medición de la superficie de forma precisa hasta los 8-10 años. Antes usan métodos de ensayo y error. Esto implica que la enseñanza de la medición precisa de superficies no debe abordarse sistemáticamente antes de esa edad."
+    },
+    {
+      "question": "¿Cuál es la función de los 'dominós sobre el sistema métrico' como material estructurado?",
+      "options": [
+        "Facilitar el aprendizaje de las equivalencias entre unidades del sistema métrico de forma lúdica",
+        "Permitir al alumnado medir longitudes reales en el aula de forma manipulativa",
+        "Desarrollar la habilidad de estimación mediante el juego con referentes de tamaño",
+        "Introducir el concepto de unidad de medida a través de la comparación visual de fichas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los dominós sobre el sistema métrico son materiales estructurados diseñados específicamente para la enseñanza, que facilitan el aprendizaje de las equivalencias entre unidades del sistema métrico de forma lúdica. El juego es un recurso motivador que favorece la comprensión de las relaciones entre unidades."
+    },
+    {
+      "question": "¿Por qué el texto considera que la diversidad de unidades existentes antes del SI generaba problemas?",
+      "options": [
+        "Porque la diversidad de unidades impedía la comunicación precisa y la comparación de mediciones entre diferentes contextos geográficos",
+        "Porque los instrumentos de medida solo podían calibrarse con un sistema único de unidades",
+        "Porque la diversidad de unidades generaba errores aritméticos en las conversiones entre sistemas",
+        "Porque los alumnos tenían que aprender múltiples sistemas, lo que dificultaba el aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que el SI se estableció para evitar los problemas derivados de la diversidad de unidades existentes. La diversidad impedía la comunicación precisa de medidas, dificultaba las comparaciones entre diferentes contextos geográficos y hacía necesarios acuerdos previos sobre las unidades utilizadas."
+    },
+    {
+      "question": "¿Cuál es la función de 'plantear problemas reales de medida en situaciones cotidianas' como orientación metodológica?",
+      "options": [
+        "Conectar los contenidos de medida con la vida real del alumnado, dotándolos de sentido y favoreciendo el aprendizaje significativo",
+        "Evaluar el nivel de dominio del alumnado con situaciones idénticas a las de la vida cotidiana",
+        "Reducir el tiempo dedicado a la enseñanza teórica de las unidades y los sistemas de medida",
+        "Sustituir el uso de materiales manipulativos por situaciones verbales de medida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Plantear problemas reales de medida y medición en situaciones cotidianas conecta los contenidos con la vida real del alumnado, dotándolos de sentido y favoreciendo el aprendizaje significativo. Es una de las orientaciones metodológicas específicas para la enseñanza de las magnitudes."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los 'listones que representan las principales medidas de longitud' y la 'cinta métrica' como recursos?",
+      "options": [
+        "Los listones son materiales estructurados diseñados para la enseñanza; la cinta métrica es un instrumento estándar de medición",
+        "Los listones miden longitudes largas; la cinta métrica mide longitudes cortas",
+        "Los listones son instrumentos no estándar; la cinta métrica es un instrumento digital",
+        "Los listones solo se usan en el primer ciclo; la cinta métrica se usa en todos los ciclos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los listones que representan las principales medidas de longitud son materiales estructurados diseñados específicamente para la enseñanza (para visualizar y comparar unidades de longitud). La cinta métrica o flexómetro es un instrumento estándar de medición precisa."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre el aprendizaje de la medida y la 'necesidad social de medir'?",
+      "options": [
+        "La comprensión de la necesidad social de medir es el primer objetivo del proceso de descubrimiento progresivo en la enseñanza de la medida",
+        "La necesidad social de medir se enseña a través de la historia de los sistemas de medida",
+        "La necesidad social de medir solo se trabaja en el tercer ciclo cuando los alumnos pueden abstraer conceptos sociales",
+        "La necesidad social de medir queda implícita en los contenidos sin necesidad de trabajarla explícitamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que enseñar magnitudes y medida implica guiar al alumnado en un proceso de descubrimiento progresivo que le permita comprender la necesidad social de medir. Esta comprensión es el primer objetivo del proceso, sobre el que se construye el dominio de las unidades e instrumentos."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre las obras de Godino et al. de 2002 y 2004 según el texto?",
+      "options": [
+        "La de 2002 trata específicamente la medida de magnitudes y su didáctica; la de 2004 es una didáctica general de las matemáticas para maestros",
+        "La de 2002 es para maestros de secundaria; la de 2004 es para maestros de primaria",
+        "La de 2002 trabaja el enfoque constructivista; la de 2004 trabaja el enfoque conductista",
+        "La de 2002 es un artículo académico; la de 2004 es un manual universitario completo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Godino, Batanero y Roa (2002) publicaron 'Medida de magnitudes y su didáctica para maestros', centrada específicamente en la medida. Godino, Batanero y Font (2004) publicaron 'Didáctica de las matemáticas para maestros', una obra más general del Proyecto Edumat-Maestros."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la 'percepción sensorial' y los 'procesos psicológicos' en el aprendizaje de la medida?",
+      "options": [
+        "La percepción sensorial involucra los sentidos directamente; los procesos psicológicos ayudan a comprender la utilidad del sistema y refuerzan el logro",
+        "La percepción sensorial es innata; los procesos psicológicos son adquiridos mediante la enseñanza",
+        "La percepción sensorial trabaja magnitudes físicas; los procesos psicológicos trabajan magnitudes abstractas",
+        "La percepción sensorial corresponde al estadio preoperacional; los procesos psicológicos al de operaciones concretas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La percepción sensorial involucra directamente los sentidos y permite apreciar las magnitudes físicamente. Los procesos psicológicos, que también intervienen en el aprendizaje de la medida, ayudan a comprender la utilidad del sistema de medición y refuerzan el sentido de logro del estudiante."
+    },
+    {
+      "question": "¿Cuál es el papel de los 'policubos' como material estructurado para la enseñanza de la medida?",
+      "options": [
+        "Permiten trabajar el concepto de volumen de forma manipulativa mediante la construcción de figuras tridimensionales",
+        "Permiten medir la longitud de objetos comparándolos con unidades cúbicas estándar",
+        "Permiten estimar la masa de objetos colocándolos sobre una superficie plana",
+        "Permiten visualizar las equivalencias entre múltiplos y divisores del sistema métrico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los policubos son materiales estructurados que permiten trabajar el concepto de volumen de forma manipulativa mediante la construcción de figuras tridimensionales. Al contar los cubos unitarios, el alumnado comprende el concepto de unidad de volumen."
+    },
+    {
+      "question": "¿Qué entiende el texto por 'orientaciones pedagógicas' y quién las define?",
+      "options": [
+        "Son indicaciones para orientar al profesorado en el diseño de estrategias para favorecer el aprendizaje, definidas en el artículo 6 del Decreto 155/2022",
+        "Son instrucciones obligatorias del Ministerio de Educación para la planificación de cada unidad didáctica",
+        "Son recomendaciones de los autores de referencia como Godino, Alsina y Chamorro para la enseñanza",
+        "Son los principios metodológicos generales del Real Decreto 157/2022 para la educación primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones pedagógicas son definidas en el artículo 6 del Decreto 155/2022 como indicaciones para orientar al profesorado en el diseño y en la planificación de las estrategias, los procedimientos y las acciones docentes con la finalidad de favorecer el aprendizaje del alumnado."
+    },
+    {
+      "question": "¿Cuál es la relación entre la 'planificación' como capacidad y el proceso de estimación?",
+      "options": [
+        "La planificación es una de las capacidades que el proceso de estimación desarrolla en el alumnado",
+        "La planificación es el paso previo a la estimación que realiza el docente, no el alumnado",
+        "La planificación solo se requiere en la estimación de magnitudes derivadas, no fundamentales",
+        "La planificación sustituye a la verificación cuando la estimación resulta suficientemente precisa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación es una de las capacidades que el proceso de estimación requiere y desarrolla en el alumnado, junto con el análisis, la identificación de la magnitud, el trabajo en equipo, la formulación de hipótesis, el juego, la localización de referentes, el ensayo y error, la manipulación, la operación y la verificación."
+    },
+    {
+      "question": "¿Por qué el texto destaca que enseñar medida no consiste únicamente en transmitir fórmulas y equivalencias?",
+      "options": [
+        "Porque el objetivo es guiar al alumnado en un proceso de descubrimiento que le permita comprender la necesidad social de medir, interiorizar unidades, manejar instrumentos y estimar con criterio",
+        "Porque las fórmulas y equivalencias no son útiles en las situaciones de la vida cotidiana del alumnado",
+        "Porque memorizar fórmulas es un objetivo del segundo ciclo, no del primer o tercer ciclo",
+        "Porque el currículo de EP no incluye el aprendizaje de fórmulas de conversión entre unidades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Enseñar medida no consiste en transmitir fórmulas y equivalencias porque el objetivo es más amplio y profundo: guiar al alumnado en un proceso de descubrimiento progresivo que le permita comprender la necesidad social de medir, interiorizar las unidades, manejar los instrumentos con destreza y estimar con criterio."
+    },
+    {
+      "question": "¿Cuál es la relación entre la 'evaluación reguladora' y la 'atención a la diversidad' según el texto?",
+      "options": [
+        "La evaluación reguladora debe adaptarse a la diversidad mediante distintos instrumentos y procedimientos para controlar, orientar y mejorar el proceso",
+        "La evaluación reguladora es el único instrumento válido para detectar las necesidades del alumnado con dificultades",
+        "La evaluación reguladora excluye la atención a la diversidad por su carácter objetivo y estandarizado",
+        "La evaluación reguladora solo se aplica al alumnado con necesidades específicas de apoyo educativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación reguladora debe integrarse en todo el proceso de enseñanza y aprendizaje para controlarlo, orientarlo y mejorarlo, adaptándose a la diversidad mediante distintos instrumentos y procedimientos. La atención a la diversidad es un elemento inherente a la evaluación reguladora."
+    },
+    {
+      "question": "¿Cuál es el valor formativo del aprendizaje de las magnitudes y su medida según el texto?",
+      "options": [
+        "Contribuye al desarrollo de capacidades intelectuales y es uno de los principales motores del desarrollo cognitivo",
+        "Proporciona herramientas para resolver problemas matemáticos de nivel superior en secundaria",
+        "Facilita el dominio de los instrumentos de medida necesarios para las profesiones técnicas",
+        "Garantiza la adquisición del sistema métrico decimal para su uso en la vida cotidiana adulta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El valor formativo de las magnitudes y su medida radica en que contribuye al desarrollo de capacidades intelectuales (papel formativo de las matemáticas) y es uno de los principales motores del desarrollo cognitivo, contribuyendo a la competencia matemática y al desarrollo integral del alumnado."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los 'instrumentos estándar de medición' y los 'materiales estructurados' para la enseñanza de la medida?",
+      "options": [
+        "Los instrumentos estándar (regla, balanza, cronómetro) sirven para medir con precisión; los materiales estructurados (policubos, tangrams, regletas) sirven para comprender conceptos matemáticamente",
+        "Los instrumentos estándar son solo para docentes; los materiales estructurados son para el alumnado",
+        "Los instrumentos estándar miden magnitudes fundamentales; los estructurados trabajan magnitudes derivadas",
+        "Los instrumentos estándar son de uso individual; los materiales estructurados son exclusivamente de uso grupal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los instrumentos estándar de medición (regla graduada, cinta métrica, cronómetros, recipientes graduados, balanzas de platillos) sirven para medir con precisión. Los materiales estructurados (policubos, tangrams, regletas encajables, geoplanos) son diseñados específicamente para enseñar y comprender conceptos matemáticos."
+    },
+    {
+      "question": "¿Cuál es la importancia del 'entorno cotidiano' como punto de partida para la enseñanza de la medida?",
+      "options": [
+        "Ofrece situaciones y problemas reales significativos para el alumnado, favoreciendo el aprendizaje contextualizado y significativo",
+        "Permite prescindir completamente de los materiales manipulativos estructurados en el aula",
+        "Garantiza que el alumnado aprenda las unidades del SI antes que los múltiplos y divisores",
+        "Reemplaza la necesidad de trabajar con instrumentos de medida en el aula de matemáticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El entorno cotidiano ofrece un punto de partida privilegiado porque proporciona situaciones y problemas reales significativos para el alumnado, favoreciendo el aprendizaje contextualizado y significativo. La conexión con la vida real es clave para motivar y dar sentido al aprendizaje de la medida."
+    }
+  ]
+}

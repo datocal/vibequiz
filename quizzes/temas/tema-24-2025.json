@@ -1,0 +1,2065 @@
+{
+  "title": "Tema 24: Evolución de la percepción espacial en Educación Primaria",
+  "description": "Preguntas de alto nivel sobre percepción espacial, geometría y su didáctica en Educación Primaria, basadas en el Tema 24 del programa de oposiciones 2025.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Cuáles son los cuatro componentes que Piaget y Alsina identifican como necesarios para la correcta adquisición de la percepción espacial?",
+      "options": [
+        "Noción espacial, localización espacial, espacialidad general y ordenación espacial",
+        "Orientación, lateralidad, representación mental y abstracción geométrica",
+        "Percepción visual, percepción táctil, coordinación motriz y esquema corporal",
+        "Topología, proyección, medida euclidiana y representación simbólica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cuatro componentes de la percepción espacial son: noción espacial (percibir características del espacio), localización espacial (situar objetos o personas), espacialidad general (actuar en el espacio usando los sentidos y el movimiento) y ordenación espacial (organizar elementos siguiendo criterios de posición o secuencia)."
+    },
+    {
+      "question": "Según el texto, ¿a qué edad aproximada el niño consolida la lateralidad y adquiere progresivamente la capacidad de situarse y orientar objetos?",
+      "options": [
+        "A los 4-5 años, coincidiendo con el inicio de la educación infantil",
+        "A los 6-7 años, coincidiendo con la consolidación de la lateralidad",
+        "A los 8-9 años, cuando se desarrolla el pensamiento operacional concreto pleno",
+        "A los 10-11 años, al inicio del pensamiento formal según Piaget"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, sobre los 6-7 años, con la consolidación de la lateralidad, el niño adquiere progresivamente la capacidad de situarse y orientar objetos, personas o a sí mismo, tal como describe Piaget (1986)."
+    },
+    {
+      "question": "¿En qué etapa del modelo de Piaget los niños comprenden nociones como cerca/lejos, junto/separado y delante/detrás?",
+      "options": [
+        "Etapa de propiedades proyectivas, comprendiendo la perspectiva del observador",
+        "Etapa de propiedades euclídeas, aplicando conceptos matemáticos al espacio",
+        "Etapa de propiedades topológicas, entendiendo relaciones de posición básicas",
+        "Etapa sensoriomotriz, basada exclusivamente en la experiencia corporal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La etapa de propiedades topológicas es la primera en el modelo de Piaget, donde los niños comienzan a entender relaciones sencillas sobre cómo están colocados los objetos, como cerca/lejos, junto/separado, delante/detrás o derecha/izquierda."
+    },
+    {
+      "question": "¿Cuándo se inicia y se afianza la etapa de las propiedades proyectivas según Piaget?",
+      "options": [
+        "Comienza alrededor de los 2 años y se afianza entre los 5 y los 6",
+        "Comienza sobre los 4 años y se afianza entre los 7 y los 8",
+        "Comienza sobre los 6 años y se afianza entre los 9 y los 10",
+        "Comienza sobre los 8 años y se afianza entre los 11 y los 12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La etapa de propiedades proyectivas comienza sobre los 4 años y se afianza entre los 7 y los 8. En ella, los niños empiezan a entender la profundidad, la perspectiva y que los objetos mantienen su tamaño y forma aunque cambie su posición o el ángulo de observación."
+    },
+    {
+      "question": "¿Qué caracteriza específicamente la etapa de propiedades euclídeas en el modelo piagetiano del espacio?",
+      "options": [
+        "La comprensión de relaciones topológicas como proximidad y separación entre objetos",
+        "La capacidad de entender que los objetos mantienen forma y tamaño desde distintos ángulos",
+        "La comprensión de que el espacio y las figuras pueden describirse con conceptos matemáticos, midiendo longitudes, superficies, ángulos o volúmenes",
+        "La habilidad de localizar objetos usando referencias como arriba/abajo y delante/detrás"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la etapa de propiedades euclídeas, el niño comprende que el espacio y las figuras pueden describirse con conceptos matemáticos, adquiriendo la capacidad de medir longitudes, superficies, ángulos o volúmenes. Es la etapa más avanzada del modelo piagetiano."
+    },
+    {
+      "question": "¿Cuántos niveles describe el modelo de Van Hiele para el desarrollo de la percepción espacial y en qué nivel se sitúa la mayoría del alumnado de Educación Primaria?",
+      "options": [
+        "Cuatro niveles; la mayoría del alumnado de EP se sitúa entre los niveles 1 y 2",
+        "Cinco niveles; la mayoría del alumnado de EP se sitúa entre los niveles 0 y 1",
+        "Tres niveles; la mayoría del alumnado de EP se sitúa en el nivel 0",
+        "Seis niveles; la mayoría del alumnado de EP se sitúa entre los niveles 1 y 3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El modelo de Van Hiele describe cinco niveles (0-4). Los alumnos de EP se encuentran, en su mayoría, entre los niveles 0 y 1, aunque algún alumno en 5º o 6º puede presentar un pensamiento geométrico propio del nivel 2."
+    },
+    {
+      "question": "En el modelo de Van Hiele, ¿qué diferencia esencial existe entre el nivel 0 (visualización) y el nivel 1 (análisis)?",
+      "options": [
+        "En el nivel 0 se trabaja en el plano; en el nivel 1 se trabaja en el espacio tridimensional",
+        "En el nivel 0 se reconocen figuras por apariencia sin analizar propiedades; en el nivel 1 se identifican partes y características de cada figura",
+        "En el nivel 0 se realizan demostraciones formales; en el nivel 1 se trabaja con manipulación concreta",
+        "En el nivel 0 se clasifica según propiedades; en el nivel 1 se trabaja con axiomas matemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el nivel 0 (visualización) se reconocen las figuras por su apariencia física sin analizar sus propiedades. En el nivel 1 (análisis), que marca los inicios del pensamiento geométrico, el niño identifica partes y características de cada figura mediante la manipulación y la observación."
+    },
+    {
+      "question": "¿Qué capacidad define específicamente el nivel 2 de Van Hiele denominado 'deducción informal'?",
+      "options": [
+        "Reconocer figuras geométricas por su aspecto visual global",
+        "Realizar razonamientos lógicos formales y comprender demostraciones matemáticas de varios pasos",
+        "Relacionar propiedades de figuras geométricas y deducir unas a partir de otras, apoyándose aún en manipulación y observación",
+        "Trabajar con la geometría de manera completamente abstracta, sin necesidad de ejemplos concretos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El nivel 2 de Van Hiele (deducción informal) implica relacionar propiedades de las figuras y deducir unas a partir de otras, así como clasificarlas según sus propiedades. Sin embargo, el razonamiento lógico sigue apoyándose en la manipulación y la observación, a diferencia del nivel 3 donde el razonamiento es completamente formal."
+    },
+    {
+      "question": "¿Qué nivel del modelo de Van Hiele corresponde a trabajar la geometría de manera completamente abstracta, sin necesidad de ejemplos concretos?",
+      "options": [
+        "Nivel 1 (análisis)",
+        "Nivel 2 (deducción informal)",
+        "Nivel 3 (deducción formal)",
+        "Nivel 4 (rigor)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El nivel 4 (rigor) es donde el alumnado trabaja con la geometría de manera abstracta, sin necesidad de ejemplos concretos. En el nivel 3 (deducción formal) se realizan razonamientos lógicos y se comprenden demostraciones, pero aún se mantiene cierta referencia a figuras concretas."
+    },
+    {
+      "question": "Según el Decreto 155/2022, ¿en qué artículo se recoge la finalidad de la Educación Primaria en la que se incluye la formación en habilidades matemáticas?",
+      "options": [
+        "Artículo 2, sobre el concepto y principios de la etapa",
+        "Artículo 4, sobre la finalidad de la Educación Primaria",
+        "Artículo 7, sobre los objetivos de etapa",
+        "Artículo 8, sobre las competencias clave"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 recoge en su artículo 4, referido a la finalidad de la EP, la importancia de facilitar al alumnado los aprendizajes del cálculo y las habilidades lógicas y matemáticas para garantizar una formación integral."
+    },
+    {
+      "question": "¿Cuál es el objetivo de etapa 'g' del artículo 7 del Decreto 155/2022 relacionado con la geometría?",
+      "options": [
+        "Conocer y apreciar los valores y normas de convivencia para ser ciudadanos activos y democráticos",
+        "Desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas que requieran conocimientos geométricos y estimaciones, aplicándolos a situaciones de la vida cotidiana",
+        "Adquirir las habilidades básicas de lectura, escritura y cálculo para el progreso en los aprendizajes",
+        "Desarrollar capacidades afectivas y habilidades para la prevención de conflictos y resolución pacífica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo g del artículo 7 del Decreto 155/2022 establece 'desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas que requieran la realización de operaciones elementales de cálculo, conocimientos geométricos y estimaciones, así como ser capaces de aplicarlos a las situaciones de su vida cotidiana'."
+    },
+    {
+      "question": "¿En qué bloque del Decreto 155/2022 se recogen los contenidos de geometría para Educación Primaria?",
+      "options": [
+        "Bloque 1: Sentido numérico",
+        "Bloque 2: Sentido de la medida",
+        "Bloque 3: Sentido espacial",
+        "Bloque 4: Sentido algebraico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los contenidos de geometría en el Decreto 155/2022 se recogen en el Bloque 3 'Sentido espacial', que busca que el alumnado comprenda los aspectos geométricos del mundo, identifique y clasifique figuras, descubra sus propiedades y describa sus movimientos."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre una línea poligonal abierta y una cerrada?",
+      "options": [
+        "La abierta está formada por curvas; la cerrada está formada por segmentos rectos",
+        "La abierta tiene extremos; la cerrada no tiene extremos, formando una figura cerrada",
+        "La abierta forma polígonos; la cerrada no puede delimitar ninguna figura",
+        "La abierta es regular; la cerrada puede ser regular o irregular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una línea poligonal es un conjunto de segmentos unidos secuencialmente por sus extremos. Las líneas poligonales abiertas tienen extremos libres, mientras que las cerradas no tienen extremos porque el último segmento se une al primero, pudiendo delimitar un polígono."
+    },
+    {
+      "question": "¿Cuáles son los tres elementos principales de un polígono mencionados en el texto?",
+      "options": [
+        "Lados, diagonales y ángulos exteriores",
+        "Lados, vértices y ángulos interiores",
+        "Base, altura y área",
+        "Perímetro, superficie y simetría"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los elementos principales de un polígono son los lados (segmentos de recta que forman la línea poligonal), los vértices (puntos donde se unen dos lados) y los ángulos (formados en el interior por cada pareja de lados consecutivos). Además poseen superficie y perímetro como medidas."
+    },
+    {
+      "question": "¿Cuánto suman los ángulos interiores de un triángulo y cuánto suman los de un cuadrilátero?",
+      "options": [
+        "Los triángulos suman 90º y los cuadriláteros 180º",
+        "Los triángulos suman 180º y los cuadriláteros 360º",
+        "Los triángulos suman 180º y los cuadriláteros 270º",
+        "Los triángulos suman 360º y los cuadriláteros 540º"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los ángulos interiores de un triángulo suman siempre 180º, mientras que los de un cuadrilátero suman 360º. Este es un dato fundamental para la clasificación y comprensión de estas figuras geométricas básicas."
+    },
+    {
+      "question": "¿Cómo se clasifican los triángulos según sus ángulos?",
+      "options": [
+        "Equiláteros, isósceles y escalenos",
+        "Acutángulos, rectángulos y obtusángulos",
+        "Regulares, irregulares y mixtos",
+        "Convexos, cóncavos y degenerados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según sus ángulos, los triángulos se clasifican en acutángulos (con tres ángulos agudos), rectángulos (con un ángulo recto de 90º) y obtusángulos (con un ángulo obtuso mayor de 90º). La clasificación según los lados es distinta: equilátero, isósceles y escaleno."
+    },
+    {
+      "question": "¿Cómo se clasifican los triángulos según sus lados?",
+      "options": [
+        "Agudos, obtusos y rectos, en función del mayor de sus ángulos",
+        "Equiláteros (tres lados iguales), isósceles (dos lados iguales) y escalenos (tres lados distintos)",
+        "Regulares (todos los lados iguales) e irregulares (lados distintos)",
+        "Convexos (todos los ángulos agudos) y cóncavos (algún ángulo obtuso)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según sus lados, los triángulos se clasifican en equiláteros (tres lados iguales), isósceles (dos lados iguales y uno diferente) y escalenos (los tres lados son distintos). Esta clasificación es independiente de la que se realiza según los ángulos."
+    },
+    {
+      "question": "¿Qué es la mediatriz de un triángulo?",
+      "options": [
+        "El segmento que une un vértice con el punto medio del lado opuesto",
+        "La recta que parte de un vértice y divide el ángulo en dos partes iguales",
+        "La recta perpendicular que pasa por el punto medio de los lados",
+        "El segmento perpendicular que va desde un vértice al lado opuesto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La mediatriz es la recta perpendicular que pasa por el punto medio de los lados. No debe confundirse con la mediana (segmento que une un vértice con el punto medio del lado opuesto), la bisectriz (divide el ángulo en dos partes iguales) ni la altura (perpendicular desde un vértice al lado opuesto)."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la bisectriz y la mediana de un triángulo?",
+      "options": [
+        "La bisectriz une un vértice con el punto medio del lado opuesto; la mediana divide el ángulo en dos partes iguales",
+        "La bisectriz divide un ángulo en dos partes iguales; la mediana une un vértice con el punto medio del lado opuesto",
+        "La bisectriz es perpendicular al lado opuesto; la mediana pasa por el punto medio del lado",
+        "La bisectriz pasa por el punto medio de los lados; la mediana divide el ángulo en partes iguales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La bisectriz es la recta que parte de un vértice y divide el ángulo en dos partes iguales, mientras que la mediana es el segmento que une un vértice con el punto medio del lado opuesto. Son dos líneas notables distintas del triángulo, junto con la mediatriz y la altura."
+    },
+    {
+      "question": "¿Qué diferencia a los cuadriláteros convexos de los cóncavos?",
+      "options": [
+        "Los convexos tienen todos sus lados iguales; los cóncavos tienen lados de distinta longitud",
+        "Los convexos tienen todos sus ángulos menores de 180º; los cóncavos tienen al menos un ángulo mayor de 180º",
+        "Los convexos tienen pares de lados paralelos; los cóncavos no tienen lados paralelos",
+        "Los convexos son siempre polígonos regulares; los cóncavos son irregulares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los cuadriláteros convexos son aquellos en los que todos sus ángulos son menores de 180º. Los cóncavos son aquellos en los que al menos un ángulo interior es mayor de 180º, lo que provoca que la figura 'entre hacia dentro' en ese vértice."
+    },
+    {
+      "question": "¿En cuántos grupos se clasifican los cuadriláteros convexos y cuáles son?",
+      "options": [
+        "Dos grupos: paralelogramos y no paralelogramos",
+        "Tres grupos: paralelogramos, trapecios y trapezoides",
+        "Cuatro grupos: cuadrados, rectángulos, rombos y romboides",
+        "Dos grupos: regulares e irregulares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los cuadriláteros convexos se clasifican en tres grandes grupos: paralelogramos (dos pares de lados opuestos paralelos, como el cuadrado, rectángulo y rombo), trapecios (solo un par de lados paralelos) y trapezoides (sin pares de lados paralelos)."
+    },
+    {
+      "question": "¿Qué característica define a un paralelogramo y cuáles son ejemplos de este tipo de cuadrilátero?",
+      "options": [
+        "Tener un par de lados paralelos; ejemplos: trapecio rectángulo y trapecio isósceles",
+        "No tener ningún par de lados paralelos; ejemplos: romboide y deltoide",
+        "Tener dos pares de lados opuestos paralelos; ejemplos: cuadrado, rectángulo y rombo",
+        "Tener todos los lados iguales y ángulos rectos; ejemplos: cuadrado y rectángulo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los paralelogramos tienen dos pares de lados opuestos paralelos. Entre sus ejemplos encontramos el cuadrado (lados y ángulos iguales), el rectángulo (lados opuestos iguales y cuatro ángulos rectos) y el rombo (lados iguales y ángulos opuestos iguales, pero no rectos)."
+    },
+    {
+      "question": "¿Cuál es la diferencia geométrica entre la circunferencia y el círculo?",
+      "options": [
+        "La circunferencia tiene radio mayor que el círculo; el círculo tiene radio igual al diámetro",
+        "La circunferencia es la curva cerrada cuyos puntos equidistan del centro; el círculo es la región del plano comprendida dentro de esa curva",
+        "La circunferencia incluye el interior; el círculo es solo la línea perimetral",
+        "La circunferencia puede ser elíptica; el círculo es siempre perfectamente redondo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La circunferencia es la curva cerrada y plana cuyos puntos están a igual distancia del centro (el radio). El círculo, en cambio, es la región del plano comprendida dentro de una circunferencia, es decir, incluye tanto la curva como su interior."
+    },
+    {
+      "question": "¿Qué es la cuerda de una circunferencia y en qué se diferencia del diámetro?",
+      "options": [
+        "La cuerda une dos puntos cualesquiera sin pasar por el centro; el diámetro es la cuerda que pasa por el centro y equivale a dos radios",
+        "La cuerda pasa siempre por el centro de la circunferencia; el diámetro une dos puntos del arco",
+        "La cuerda es la distancia del centro a cualquier punto de la circunferencia; el diámetro une dos puntos opuestos",
+        "La cuerda es una recta exterior; el diámetro es una recta interior que toca la circunferencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La cuerda es el segmento que une dos puntos cualesquiera de la circunferencia sin pasar por el centro. El diámetro es un caso particular de cuerda que sí pasa por el centro y equivale a dos radios, siendo la cuerda más larga posible de una circunferencia."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre una recta tangente y una recta secante respecto a una circunferencia?",
+      "options": [
+        "La tangente corta la circunferencia en dos puntos; la secante toca la circunferencia en un único punto",
+        "La tangente toca la circunferencia en un único punto sin cortarla; la secante corta la circunferencia en dos puntos",
+        "La tangente pasa por el centro de la circunferencia; la secante es exterior a ella",
+        "La tangente es paralela al radio; la secante es perpendicular al diámetro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La recta tangente toca la circunferencia en un único punto sin cortarla, mientras que la secante corta la circunferencia en dos puntos distintos. Ambas son rectas vinculadas a la circunferencia pero con diferente tipo de intersección."
+    },
+    {
+      "question": "¿Cómo se calcula el área de un círculo?",
+      "options": [
+        "A = 2·π·r (longitud de la circunferencia)",
+        "A = π·d (donde d es el diámetro)",
+        "A = π·r² (donde r es el radio)",
+        "A = π·r/2 (la mitad del producto de π por el radio)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área del círculo se calcula con la fórmula A = π·r², donde r es el radio. No debe confundirse con la longitud de la circunferencia (2·π·r). Esta distinción es importante para el trabajo en Educación Primaria."
+    },
+    {
+      "question": "¿Qué es un sector circular y qué es un segmento circular dentro de un círculo?",
+      "options": [
+        "El sector circular está delimitado por un arco y una cuerda; el segmento circular está delimitado por dos radios y el arco que une sus extremos",
+        "El sector circular está delimitado por dos radios y el arco que une sus extremos; el segmento circular está delimitado por un arco y la cuerda que une sus extremos",
+        "El sector circular es la mitad del círculo; el segmento circular es un cuarto del círculo",
+        "El sector circular coincide con el diámetro; el segmento circular coincide con el radio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sector circular es la parte del círculo delimitada entre dos radios y el arco que une sus extremos (como 'una porción de pizza'). El segmento circular está delimitado por un arco y la cuerda que une sus extremos, sin incluir el centro del círculo."
+    },
+    {
+      "question": "¿Qué diferencia a los poliedros de otros cuerpos geométricos?",
+      "options": [
+        "Los poliedros tienen superficies curvas; los demás cuerpos tienen solo superficies planas",
+        "Los poliedros son cuerpos sólidos cuyas caras son figuras planas formadas por polígonos; los demás tienen superficies curvas",
+        "Los poliedros son cuerpos de revolución; los demás son cuerpos de traslación",
+        "Los poliedros tienen solo dos dimensiones; los demás cuerpos tienen tres dimensiones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los poliedros son cuerpos sólidos cuyas caras son figuras planas formadas por polígonos. Sus elementos principales son las caras (polígonos), las aristas (segmentos donde se unen dos caras) y los vértices (puntos donde confluyen las aristas). Los cuerpos redondos o de revolución, en cambio, tienen superficies curvas."
+    },
+    {
+      "question": "¿Cuáles son los cinco Sólidos de Platón mencionados en el texto?",
+      "options": [
+        "Cubo, prisma, pirámide, cilindro y esfera",
+        "Tetraedro, cubo, octaedro, dodecaedro e icosaedro",
+        "Tetraedro, hexaedro, pirámide cuadrangular, prisma triangular y dodecaedro",
+        "Cubo, octaedro, dodecaedro, icosaedro y esfera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los Sólidos de Platón son los cinco poliedros regulares convexos: tetraedro, cubo (hexaedro regular), octaedro, dodecaedro e icosaedro. Son ejemplos de poliedros regulares convexos en los que todas las caras son polígonos regulares iguales."
+    },
+    {
+      "question": "¿Qué distingue a un poliedro regular convexo de uno regular cóncavo?",
+      "options": [
+        "El convexo tiene caras de distintos polígonos regulares; el cóncavo tiene caras de un único tipo de polígono regular",
+        "En el convexo todas las líneas entre puntos interiores quedan dentro de él; en el cóncavo esas líneas pueden salir fuera del cuerpo",
+        "El convexo tiene aristas curvas; el cóncavo tiene aristas rectas",
+        "El convexo es irregular; el cóncavo es regular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los poliedros regulares convexos son aquellos en los que todas las líneas entre puntos interiores quedan dentro de la figura y pueden apoyarse sobre cualquier cara sin dejar huecos. En los cóncavos, las líneas entre puntos interiores pueden salir fuera del cuerpo, dejando huecos en su apoyo."
+    },
+    {
+      "question": "¿Cuál es la diferencia estructural entre un prisma y una pirámide?",
+      "options": [
+        "El prisma tiene dos bases iguales y paralelas unidas por caras rectangulares; la pirámide tiene una base poligonal y caras triangulares que convergen en un vértice",
+        "El prisma tiene una sola base y caras triangulares; la pirámide tiene dos bases paralelas y caras rectangulares",
+        "El prisma termina siempre en punta; la pirámide termina en una base plana",
+        "El prisma es un cuerpo redondo; la pirámide es un poliedro irregular"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El prisma tiene dos bases iguales y paralelas unidas por caras laterales rectangulares o paralelogramos. La pirámide tiene una base poligonal y caras laterales triangulares que se unen en un único vértice superior. El tronco de pirámide se obtiene al cortar una pirámide con un plano paralelo a la base."
+    },
+    {
+      "question": "¿Qué son los Sólidos de Arquímedes y cómo se diferencian de los Sólidos de Platón?",
+      "options": [
+        "Los Sólidos de Arquímedes son poliedros cóncavos; los de Platón son convexos",
+        "Los Sólidos de Arquímedes son poliedros convexos con caras de polígonos regulares que pueden ser de diferentes tipos; los de Platón tienen caras de un único tipo de polígono regular",
+        "Los Sólidos de Arquímedes son cuerpos de revolución; los de Platón son poliedros",
+        "Los Sólidos de Arquímedes tienen superficies curvas; los de Platón tienen solo superficies planas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los Sólidos de Arquímedes son poliedros convexos con caras de polígonos regulares que pueden ser de diferentes tipos entre sí (por ejemplo, combinando triángulos y cuadrados). Los Sólidos de Platón, en cambio, tienen todas sus caras del mismo tipo de polígono regular."
+    },
+    {
+      "question": "¿Cuál es la diferencia conceptual entre un 'cuerpo redondo' y un 'cuerpo de revolución'?",
+      "options": [
+        "El cuerpo redondo es más grande que el cuerpo de revolución",
+        "El cuerpo redondo está limitado por superficies curvas; el cuerpo de revolución se genera al girar una figura plana alrededor de un eje",
+        "El cuerpo de revolución tiene superficies planas; el cuerpo redondo tiene superficies curvas",
+        "Ambos términos son sinónimos perfectos sin distinción conceptual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cuerpo redondo es aquel limitado por superficies curvas (definición por sus características geométricas). El cuerpo de revolución se genera al girar una figura plana alrededor de un eje (definición por su proceso de generación). Aunque se suelen usar juntos, no son términos exactamente equivalentes."
+    },
+    {
+      "question": "¿Qué figura plana se hace girar para generar un cilindro y cuál para generar un cono?",
+      "options": [
+        "Para el cilindro se gira un triángulo rectángulo; para el cono se gira un rectángulo",
+        "Para el cilindro se gira un semicírculo; para el cono se gira un círculo completo",
+        "Para el cilindro se gira un rectángulo; para el cono se gira un triángulo rectángulo",
+        "Para el cilindro se gira un cuadrado; para el cono se gira un triángulo equilátero"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El cilindro se obtiene al girar un rectángulo alrededor de uno de sus lados (el eje), formando dos bases circulares paralelas e iguales unidas por una superficie lateral curva. El cono se genera al girar un triángulo rectángulo alrededor de uno de sus catetos, formando una base circular y una superficie lateral que termina en un vértice."
+    },
+    {
+      "question": "¿Cómo se genera la esfera como cuerpo de revolución?",
+      "options": [
+        "Al girar un rectángulo alrededor de su diagonal",
+        "Al girar un círculo completo alrededor de su centro",
+        "Al girar un semicírculo sobre su diámetro",
+        "Al girar un triángulo equilátero alrededor de su mediatriz"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La esfera se genera al girar un semicírculo sobre su diámetro. Es el único cuerpo de revolución que no tiene bases, aristas ni vértices. Este conocimiento es importante para el trabajo con cuerpos geométricos en Educación Primaria."
+    },
+    {
+      "question": "¿Qué elementos tiene la esfera que la diferencian del cilindro y el cono?",
+      "options": [
+        "La esfera tiene una base; el cilindro y el cono tienen dos bases cada uno",
+        "La esfera no tiene bases, aristas ni vértices; el cilindro tiene dos bases y el cono tiene una base y un vértice",
+        "La esfera tiene dos bases iguales; el cilindro y el cono tienen una base irregular",
+        "La esfera tiene aristas curvas; el cilindro y el cono tienen aristas rectas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La esfera no tiene bases, aristas ni vértices: es un cuerpo completamente liso. El cilindro tiene dos bases circulares iguales y paralelas. El cono tiene una base circular y termina en un vértice. Estas diferencias son clave para clasificar los cuerpos de revolución en EP."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre proyecciones paralelas (cilíndricas) y proyecciones centrales (cónicas)?",
+      "options": [
+        "En las paralelas, las líneas de proyección parten de un mismo punto; en las cónicas, las líneas son paralelas entre sí",
+        "En las paralelas, las líneas de proyección son paralelas entre sí; en las cónicas, las líneas parten de un mismo punto",
+        "Las paralelas producen imágenes más distorsionadas; las cónicas producen imágenes más exactas",
+        "Las paralelas se usan solo en topografía; las cónicas se usan solo en arquitectura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En las proyecciones paralelas o cilíndricas, las líneas de proyección son paralelas entre sí. En las proyecciones centrales o cónicas, todas las líneas de proyección parten de un mismo punto. La proyección cónica es la más similar a la percepción visual humana de la realidad."
+    },
+    {
+      "question": "¿Cuáles son los cuatro sistemas de representación clásicos mencionados en el texto y a qué ámbito pertenece cada uno?",
+      "options": [
+        "Diédrico (dibujo técnico), planos acotados (topografía), axonométrico (representación 3D) y cónico (percepción visual)",
+        "Isométrico (dibujo técnico), planos acotados (cartografía), proyectivo (arquitectura) y euclidiano (matemáticas)",
+        "Diédrico (ingeniería), esférico (astronomía), cónico (fotografía) y ortogonal (topografía)",
+        "Perspectiva caballera (arte), planta (arquitectura), alzado (ingeniería) y perfil (diseño)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cuatro sistemas clásicos son: diédrico (usado en dibujo técnico), planos acotados (propios de la topografía), axonométrico (para la representación tridimensional) y cónico (el más similar a la percepción visual de la realidad). En EP se utilizan versiones adaptadas y simplificadas de estos sistemas."
+    },
+    {
+      "question": "¿Cuáles son los tres sistemas de representación adaptados que se emplean en Educación Primaria?",
+      "options": [
+        "Perspectiva caballera, perspectiva isométrica y vistas ortogonales técnicas",
+        "Dibujo en perspectiva intuitiva, proyección plana y representación mediante vistas (alzado, planta y perfil)",
+        "Sistema diédrico simplificado, planos acotados básicos y perspectiva cónica intuitiva",
+        "Dibujo a mano alzada, calco de figuras y fotografía desde distintos ángulos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En EP se emplean tres sistemas adaptados: el dibujo en perspectiva intuitiva (reproduce cómo se perciben los objetos sin seguir reglas exactas), la proyección plana (dibuja solo una cara sin profundidad) y la representación mediante vistas (alzado desde el frente, planta desde arriba y perfil desde un lado)."
+    },
+    {
+      "question": "¿Qué representa el alzado, la planta y el perfil en la representación mediante vistas?",
+      "options": [
+        "Alzado es la vista desde arriba, planta es la vista de frente y perfil es la vista desde abajo",
+        "Alzado es la vista de frente, planta es la vista desde arriba y perfil es la vista desde un lado",
+        "Alzado es la vista desde un lado, planta es la vista de frente y perfil es la vista desde arriba",
+        "Alzado es la vista desde abajo, planta es la vista desde un lado y perfil es la vista de frente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la representación mediante vistas: el alzado es la vista del objeto de frente, la planta es la vista desde arriba y el perfil es la vista desde un lado. Este sistema ayuda a comprender que un objeto puede observarse desde distintos ángulos y es fundamental para el pensamiento espacial."
+    },
+    {
+      "question": "¿Cuál es el orden progresivo en que se aprenden los sistemas de representación en EP según el texto?",
+      "options": [
+        "Se inicia con representación mediante vistas, se avanza con proyección plana y se consolida con perspectiva intuitiva",
+        "Se inicia con dibujos intuitivos y proyección plana, se avanza con representación mediante vistas y se consolida con la comprensión de diferentes perspectivas",
+        "Se inicia con el sistema diédrico, se avanza hacia el axonométrico y se consolida con el cónico",
+        "Se inicia con la memorización de fórmulas, se avanza con ejercicios de cálculo y se consolida con la representación espacial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje progresivo de los sistemas de representación en EP sigue este orden: se inicia con dibujos intuitivos y proyección plana (lo más natural), se avanza con la representación mediante vistas (comprendiendo diferentes ángulos) y se consolida con la comprensión de cómo representar objetos desde diferentes perspectivas."
+    },
+    {
+      "question": "¿Cuál es la aportación de Bishop (2017) al conocimiento de la percepción espacial en los primeros años?",
+      "options": [
+        "Bishop describe los cinco niveles de desarrollo geométrico ampliamente usados en EP",
+        "Bishop señala que la experiencia sensoriomotriz es clave para la estructuración mental del espacio en los primeros años",
+        "Bishop propone que la percepción espacial se desarrolla principalmente a través de la instrucción formal",
+        "Bishop demuestra que la lateralidad se consolida entre los 4 y 5 años de edad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bishop (2017) señala que la experiencia sensoriomotriz (explorar el espacio usando el propio cuerpo como referencia, a través de los sentidos, la manipulación y el desplazamiento) es clave para la estructuración mental del espacio en los primeros años de vida."
+    },
+    {
+      "question": "¿Qué afirma Godino et al. (2004) sobre las primeras interacciones del niño con su entorno?",
+      "options": [
+        "Las primeras interacciones del niño con su entorno se basan casi totalmente en experiencias numéricas y de conteo",
+        "Las primeras interacciones del niño con su entorno se basan casi totalmente en experiencias espaciales, a través de los sentidos",
+        "Las primeras interacciones del niño con su entorno son predominantemente lingüísticas y sociales",
+        "Las primeras interacciones del niño con su entorno determinan exclusivamente su desarrollo motriz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Godino et al. (2004) exponen que las primeras interacciones del niño con su entorno se basan casi totalmente en experiencias espaciales, a través de los sentidos. Esto fundamenta la importancia de partir del entorno próximo y la manipulación en la enseñanza de la geometría en EP."
+    },
+    {
+      "question": "Según Alsina (2004), ¿qué permite el aprendizaje manipulativo y activo en la enseñanza de la geometría?",
+      "options": [
+        "Memorizar más rápidamente las fórmulas geométricas y los nombres de las figuras",
+        "Construir el propio conocimiento, desarrollar la visualización espacial, la orientación y el razonamiento geométrico",
+        "Alcanzar el nivel 3 de Van Hiele antes de los 10 años de manera generalizada",
+        "Sustituir completamente el uso de materiales digitales y tecnológicos en el aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alsina (2004) resalta que el aprendizaje manipulativo y activo permite al alumnado construir su propio conocimiento al comprender mejor los conocimientos geométricos, así como desarrollar la visualización espacial, la orientación y el razonamiento geométrico."
+    },
+    {
+      "question": "¿Qué fases propone Alsina (2012) para el proceso de aprendizaje de la geometría en EP?",
+      "options": [
+        "Memorización, comprensión, aplicación y evaluación",
+        "Manipulación y experimentación, representaciones gráficas y digitales, pensamiento lógico-matemático e integración en resolución de problemas",
+        "Observación, definición, clasificación y demostración formal",
+        "Exploración libre, instrucción directa, práctica guiada y práctica autónoma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alsina (2012) propone un proceso de aprendizaje basado en: manipulación y experimentación con materiales concretos, avanzar hacia representaciones gráficas y digitales, desarrollar el pensamiento lógico-matemático (razonamiento y argumentación) e integrar la resolución de problemas aplicando la geometría en situaciones reales."
+    },
+    {
+      "question": "¿Qué son los bloques lógicos y para qué se usan específicamente en geometría?",
+      "options": [
+        "Son materiales digitales para visualizar figuras en 3D desde distintas perspectivas",
+        "Son materiales estructurados diseñados para realizar clasificaciones, identificar figuras por sus características y comparar áreas",
+        "Son herramientas para medir longitudes y perímetros con precisión milimétrica",
+        "Son plantillas de poliedros para construir cuerpos tridimensionales con cartulina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los bloques lógicos son materiales estructurados diseñados específicamente para la enseñanza. En geometría se usan para realizar clasificaciones, identificar figuras por sus características o comparar áreas. Son uno de los recursos manipulativos convencionales más relevantes para la geometría en EP."
+    },
+    {
+      "question": "¿Para qué sirve específicamente el geoplano como recurso manipulativo en geometría?",
+      "options": [
+        "Para construir cuerpos geométricos tridimensionales mediante pliegues y montaje",
+        "Para trabajar las propiedades de las figuras planas, el perímetro, el área y descomponer polígonos",
+        "Para visualizar figuras desde distintas perspectivas mediante tecnología aumentada",
+        "Para realizar transformaciones geométricas como giros y traslaciones en el espacio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El geoplano es beneficioso para trabajar las propiedades de las figuras planas, el perímetro, el área y descomponer polígonos. Es un tablero con clavos o pines donde se tensan gomas para formar figuras, lo que permite explorar propiedades geométricas de forma manipulativa."
+    },
+    {
+      "question": "¿Cuál es la función didáctica del tangram como recurso manipulativo?",
+      "options": [
+        "Observar las figuras tridimensionales y comparar áreas y volúmenes",
+        "Crear figuras planas, cuerpos geométricos o experimentar con simetrías",
+        "Componer y descomponer figuras mediante piezas geométricas",
+        "Medir longitudes y perímetros de polígonos con precisión"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tangram es un recurso manipulativo que sirve para componer y descomponer figuras mediante sus piezas geométricas. Los mecanos, en cambio, sirven para crear figuras planas, cuerpos geométricos o experimentar con simetrías. Los sólidos geométricos permiten observar figuras tridimensionalmente y comparar áreas y volúmenes."
+    },
+    {
+      "question": "¿Qué son los recursos manipulativos no estructurados y cómo se diferencian de los estructurados?",
+      "options": [
+        "Los no estructurados son materiales digitales; los estructurados son materiales físicos",
+        "Los no estructurados no han sido diseñados con fines educativos pero resultan útiles en el aula; los estructurados están diseñados específicamente para la enseñanza",
+        "Los no estructurados son más complejos y apropiados para cursos superiores; los estructurados son más simples y para cursos iniciales",
+        "Los no estructurados son herramientas digitales como aplicaciones; los estructurados son materiales de papel y cartón"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los recursos manipulativos no estructurados son aquellos que no han sido diseñados con fines educativos pero resultan útiles en el aula (cajas, envases, palillos, arcilla, etc.). Los estructurados están diseñados específicamente para la enseñanza (bloques lógicos, geoplano, tangram, mecanos, etc.)."
+    },
+    {
+      "question": "¿Qué es Geogebra y para qué se utiliza en la enseñanza de la geometría?",
+      "options": [
+        "Una plataforma gamificada que facilita el aprendizaje lúdico con personajes animados",
+        "Una herramienta gratuita para construir figuras geométricas, realizar transformaciones y visualizar desde distintas perspectivas",
+        "Una aplicación para explorar formas con geoplanos virtuales y bloques en 3D",
+        "Una herramienta en línea con tangram, mosaicos y calculadoras de perímetros y áreas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Geogebra es una herramienta gratuita que permite construir figuras geométricas en el espacio, realizar transformaciones (giros, traslaciones), y visualizar todas sus partes desde distintas perspectivas. Es una de las plataformas digitales más consolidadas para la enseñanza de la geometría."
+    },
+    {
+      "question": "¿Qué ofrece específicamente Mathigon Polypad como recurso digital para geometría?",
+      "options": [
+        "Construcción de figuras geométricas con herramientas de medición precisas y demostraciones formales",
+        "Actividades con bloques geométricos, mosaicos, pentominós, tangram, construcción de redes y poliedros 3D",
+        "Exploración de formas con geoplanos virtuales, simetría y visualización de relaciones espaciales",
+        "Actividades gamificadas con personajes y niveles de dificultad creciente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mathigon Polypad ofrece actividades con bloques geométricos, mosaicos, pentominós, tangram, construcción de redes y poliedros 3D. BrainingCamp, en cambio, permite explorar formas geométricas con geoplanos virtuales, simetría y visualización de relaciones espaciales."
+    },
+    {
+      "question": "¿Qué aplicaciones se mencionan en el texto como ejemplos de recursos gamificados para la enseñanza de la geometría?",
+      "options": [
+        "Geogebra, Tinkercad y GeoSketchpad",
+        "BrainingCamp, Toy Theater y Mathigon",
+        "Didactoons, Monster Numbers y MathLand",
+        "Khan Academy, Desmos y Scratch"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las aplicaciones gamificadas mencionadas en el texto son Didactoons, Monster Numbers y MathLand, que facilitan el aprendizaje lúdico de la geometría. Geogebra y Tinkercad son herramientas de construcción y visualización, no específicamente gamificadas."
+    },
+    {
+      "question": "¿Qué herramienta se describe como 'adaptada para el uso de los niños, que engloba elementos manipulativos virtuales de tangram, mosaicos, patrones de simetría y calculadoras de perímetros y áreas'?",
+      "options": [
+        "Geogebra",
+        "BrainingCamp",
+        "Mathigon Polypad",
+        "Toy Theater Geometry Tools"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Toy Theater Geometry Tools es una herramienta en línea adaptada para el uso de los niños que engloba elementos manipulativos virtuales de tangram, mosaicos, patrones de simetría y calculadoras de perímetros y áreas. BrainingCamp, en cambio, permite explorar formas con geoplanos virtuales y sólidos 3D."
+    },
+    {
+      "question": "Según el artículo 16 del Decreto 155/2022, ¿en qué tipo de metodologías debe apoyarse la enseñanza en Educación Primaria?",
+      "options": [
+        "Metodologías tradicionales basadas en la instrucción directa y la memorización sistemática",
+        "Metodologías activas y el uso de recursos didácticos adecuados que favorezcan un aprendizaje significativo y funcional",
+        "Metodologías conductistas centradas en el refuerzo positivo y la repetición de ejercicios",
+        "Metodologías basadas exclusivamente en el aprendizaje digital y las nuevas tecnologías"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16 del Decreto 155/2022 establece los principios pedagógicos de la EP, señalando que la enseñanza debe apoyarse en metodologías activas y el uso de recursos didácticos adecuados que favorezcan un aprendizaje significativo y funcional."
+    },
+    {
+      "question": "¿Cuáles son las cuatro estrategias fundamentales para desarrollar las competencias clave en geometría mencionadas en el texto?",
+      "options": [
+        "Memorización, práctica, evaluación y retroalimentación",
+        "Aprendizaje funcional, destrezas icónicas y de representación, resolución de problemas geométricos y búsqueda de la certeza a través del razonamiento",
+        "Observación, definición, clasificación y demostración formal",
+        "Juego libre, instrucción directa, trabajo cooperativo y evaluación por rúbricas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las cuatro estrategias fundamentales para el desarrollo de las CC en geometría son: promover el aprendizaje funcional (instrumentos reales), desarrollar destrezas icónicas y de representación, plantear tareas de resolución de problemas geométricos, y promover el gusto por la búsqueda de la certeza a través del razonamiento."
+    },
+    {
+      "question": "¿En qué contextos del entorno se pueden observar formas geométricas según el texto?",
+      "options": [
+        "Solo en el entorno natural y en el entorno artístico",
+        "En el entorno natural, artístico y arquitectónico, lúdico y científico-tecnológico",
+        "Principalmente en el entorno escolar y en los libros de texto",
+        "Exclusivamente en el entorno construido por el ser humano, no en la naturaleza"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, las formas geométricas pueden observarse en el entorno natural (simetría de hojas, paneles hexagonales de abejas, espirales de caracoles), en el artístico y arquitectónico (edificios, monumentos, obras de arte), en el lúdico (puzles, ajedrez, legos) y en el científico-tecnológico e informático."
+    },
+    {
+      "question": "¿Qué ley orgánica modifica la LOE y sirve de base legal para el contexto educativo del Tema 24?",
+      "options": [
+        "La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)",
+        "La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la LOE (LOMLOE)",
+        "La Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE)",
+        "La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo (LOGSE)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Tema 24 toma como base la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOMLOE), así como el Decreto 155/2022 de la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿Cuál es la fecha y número del Decreto que establece el currículo de Educación Primaria en Galicia?",
+      "options": [
+        "Decreto 105/2014, de 4 de septiembre",
+        "Decreto 155/2022, de 15 de septiembre",
+        "Decreto 229/2011, de 7 de diciembre",
+        "Decreto 330/2009, de 4 de junio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Galicia, publicado en el Diario Oficial de Galicia número 183, de 26 de septiembre de 2022."
+    },
+    {
+      "question": "¿Qué herramienta digital permite al alumnado interactuar con objetos geométricos de manera 'dinámica e inmersiva' según el texto?",
+      "options": [
+        "Geogebra y Mathigon, que ofrecen actividades de construcción de figuras",
+        "Las pizarras digitales y la realidad aumentada",
+        "Toy Theater y BrainingCamp, con calculadoras de perímetros",
+        "Monster Numbers y Didactoons, que gamifican el aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, las pizarras digitales y la realidad aumentada permiten al alumnado interactuar con los objetos geométricos de manera dinámica e inmersiva, integrando las tecnologías en el proceso de representación y visualización geométrica."
+    },
+    {
+      "question": "¿Qué herramienta digital se menciona en el texto junto con Geogebra para la visualización de figuras desde distintas perspectivas?",
+      "options": [
+        "BrainingCamp",
+        "Tinkercad",
+        "Toy Theater",
+        "Monster Numbers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Junto con Geogebra, el texto menciona Tinkercad y los simuladores 3D como herramientas que permiten visualizar figuras desde distintas perspectivas. Tinkercad es una aplicación de diseño 3D accesible para estudiantes de primaria."
+    },
+    {
+      "question": "¿Cuál es la función didáctica de los 'sólidos geométricos' como recurso manipulativo convencional estructurado?",
+      "options": [
+        "Realizar clasificaciones de figuras planas por sus características",
+        "Trabajar el perímetro y el área descomponiendo polígonos",
+        "Observar las figuras tridimensionalmente y comparar áreas y volúmenes",
+        "Componer y descomponer figuras mediante piezas geométricas planas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los sólidos geométricos son recursos manipulativos estructurados que se usan para observar las figuras tridimensionalmente y comparar áreas y volúmenes. Los bloques lógicos sirven para clasificar; el geoplano para perímetro y área de figuras planas; el tangram para componer y descomponer figuras."
+    },
+    {
+      "question": "¿Qué tipo de actividades permite la construcción de prismas y pirámides con palillos, plastilina o cuerdas?",
+      "options": [
+        "Actividades de observación del entorno para conectar geometría con la realidad",
+        "Actividades de exploración y manipulación para descubrir propiedades geométricas",
+        "Actividades de representación gráfica para desarrollar la percepción espacial",
+        "Actividades de transformación y simetría para comprender movimientos en el plano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actividades de exploración y manipulación permiten descubrir propiedades geométricas mediante la construcción de prismas y pirámides con materiales como palillos, plastilina o cuerdas. Son fundamentales en la primera fase del aprendizaje de la geometría según Alsina."
+    },
+    {
+      "question": "¿Qué ejemplo de 'actividad de observación del entorno' se menciona en el texto?",
+      "options": [
+        "Elaborar figuras planas con regla, escuadra y cartabón desde distintas perspectivas",
+        "Usar un espejo para descubrir ejes de simetría en figuras geométricas",
+        "Los paseos geométricos por el centro o el barrio para identificar formas como cuadrados en baldosas o círculos en mesas",
+        "Construir redes de poliedros para comprender la superficie lateral de los cuerpos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las actividades de observación del entorno conectan la geometría con la realidad cotidiana. El ejemplo mencionado son los paseos geométricos por el centro o el barrio para identificar formas geométricas como cuadrados en baldosas o círculos en mesas."
+    },
+    {
+      "question": "¿Qué actividades ayudan a comprender cómo las figuras pueden modificarse mediante movimientos en el plano?",
+      "options": [
+        "Las actividades de exploración y manipulación con palillos y plastilina",
+        "Las actividades de representación gráfica con regla, escuadra y compás",
+        "Las actividades de transformación y simetría, como usar espejos o plantillas para giros",
+        "Las actividades de resolución de problemas en situaciones de la vida cotidiana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las actividades de transformación y simetría ayudan a comprender cómo las figuras pueden modificarse mediante movimientos en el plano. Se pueden usar espejos para descubrir ejes de simetría o plantillas de cuerpos geométricos para realizar giros, según se describe en el texto."
+    },
+    {
+      "question": "¿Qué valor pedagógico especial destaca Alsina (2004) del aprendizaje basado en el juego?",
+      "options": [
+        "Que permite evaluar objetivamente las competencias geométricas del alumnado",
+        "Que forma parte de la vida real del niño, es motivador, integra conocimientos, habilidades y actitudes, permite afrontar el contenido sin miedo al error, respeta la diversidad y favorece la socialización",
+        "Que garantiza el aprendizaje de los cinco niveles de Van Hiele en la EP",
+        "Que sustituye eficazmente a los materiales manipulativos en la enseñanza de la geometría"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alsina (2004) destaca que el aprendizaje basado en el juego tiene gran acogida porque forma parte de la vida real del niño, es motivador, integra conocimientos, habilidades y actitudes, permite afrontar el contenido sin miedo al error, respeta la diversidad y favorece la socialización."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre los materiales manipulativos físicos y los recursos digitales?",
+      "options": [
+        "Los materiales digitales deben sustituir completamente a los físicos en la EP actual",
+        "Los materiales físicos son superiores a los digitales para el aprendizaje geométrico",
+        "Los recursos digitales son más útiles cuando se combinan con materiales manipulativos físicos, enriqueciendo la exploración de conocimientos que requieren mayor abstracción",
+        "Los materiales físicos y digitales son incompatibles y deben usarse en momentos separados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto establece que los recursos digitales son especialmente útiles cuando se combinan con materiales manipulativos físicos, enriqueciendo la exploración y comprensión de conocimientos geométricos que requieren mayor nivel de abstracción y resultan más complejos para el alumnado de EP."
+    },
+    {
+      "question": "Según el texto, ¿qué doble objetivo se logra al integrar recursos manipulativos físicos con herramientas digitales en la enseñanza de la geometría?",
+      "options": [
+        "Se logra cumplir con los objetivos curriculares y fomentar la competencia STEM, a la vez que se motiva al alumnado y se atiende a la diversidad",
+        "Se logra reducir el tiempo de preparación del docente y aumentar la eficiencia evaluativa",
+        "Se garantiza el aprendizaje de todos los niveles de Van Hiele y los objetivos de Piaget",
+        "Se facilita la transición al sistema de secundaria y se mejoran los resultados en pruebas estandarizadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el texto, la integración de recursos manipulativos físicos con herramientas digitales logra dar cumplimiento a los objetivos curriculares y fomentar la competencia STEM, al tiempo que fomenta la motivación y atiende a la diversidad mediante diferentes métodos de acceso al aprendizaje."
+    },
+    {
+      "question": "¿Qué papel juegan las herramientas como regla, escuadra y compás en la enseñanza de la geometría en EP?",
+      "options": [
+        "Son herramientas exclusivas del profesorado para preparar materiales, no apropiadas para el alumnado de EP",
+        "Se utilizan para elaborar croquis y planos adaptados al nivel del alumnado, mejorando la abstracción y comprensión espacial",
+        "Pertenecen exclusivamente a la fase de consolidación del aprendizaje y no deben introducirse antes de 6º de EP",
+        "Solo son útiles para actividades de medición de longitudes, no para representación geométrica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, el alumnado puede utilizar herramientas como regla, escuadra y compás para elaborar croquis y planos adaptados a su nivel. Estas herramientas forman parte de las actividades de representación gráfica que mejoran la capacidad de abstracción y la comprensión espacial."
+    },
+    {
+      "question": "¿Cuál es la distinción que hace el texto entre un polígono regular y uno irregular?",
+      "options": [
+        "El regular tiene todos los ángulos iguales a 90º; el irregular tiene ángulos de distintas medidas",
+        "El regular tiene todos los lados y ángulos iguales; el irregular tiene caras o ángulos distintos",
+        "El regular tiene un número par de lados; el irregular tiene un número impar de lados",
+        "El regular puede inscribirse en un círculo; el irregular no puede inscribirse en ninguna figura curva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los polígonos regulares son aquellos en que todos sus lados y ángulos son iguales. Los irregulares tienen lados o ángulos de distintas medidas. Esta misma distinción se aplica a los poliedros: regulares (caras iguales y ángulos iguales) e irregulares (caras y ángulos distintos)."
+    },
+    {
+      "question": "¿Cuáles son los polígonos más habituales trabajados en Educación Primaria según el texto?",
+      "options": [
+        "Pentágonos y hexágonos, especialmente en su forma regular",
+        "Triángulos y cuadriláteros",
+        "Heptágonos y octógonos, por su relevancia en el entorno cotidiano",
+        "Todos los polígonos desde el triángulo hasta el decágono"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, en Educación Primaria los polígonos más habituales son los triángulos y los cuadriláteros. También se trabajan otros polígonos como el pentágono (5 lados), hexágono (6 lados), heptágono (7 lados) y octógono (8 lados), especialmente en su forma regular."
+    },
+    {
+      "question": "¿Qué tipo de cuadrilátero convexo son el trapecio rectángulo y el trapecio isósceles?",
+      "options": [
+        "Son tipos de paralelogramos con un par de lados perpendiculares",
+        "Son tipos de trapecios con un solo par de lados paralelos",
+        "Son tipos de trapezoides sin ningún par de lados paralelos",
+        "Son tipos de rombos con ángulos opuestos iguales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El trapecio rectángulo y el trapecio isósceles son tipos de trapecios. Los trapecios se caracterizan por tener solo un par de lados paralelos (a diferencia de los paralelogramos que tienen dos pares). Los trapezoides, en cambio, no tienen ningún par de lados paralelos."
+    },
+    {
+      "question": "¿Qué es un ángulo y cuáles son los tipos de ángulos mencionados en el texto?",
+      "options": [
+        "La abertura formada por dos semirrectas con un origen común (vértice); tipos: agudo, recto, obtuso, llano y completo",
+        "La medida en grados de la abertura entre dos rectas paralelas; tipos: agudo, recto y obtuso",
+        "El espacio comprendido entre dos rectas perpendiculares; tipos: interior y exterior",
+        "La diferencia angular entre el punto de referencia y la figura estudiada; tipos: positivo y negativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ángulo es la abertura formada por dos semirrectas con un origen común denominado vértice. Los tipos de ángulos mencionados en el texto son: agudo (menor de 90º), recto (exactamente 90º), obtuso (entre 90º y 180º), llano (180º) y completo (360º)."
+    },
+    {
+      "question": "¿Cuál es la definición de 'recta' que se presenta en el texto, y en qué se diferencia de un segmento?",
+      "options": [
+        "La recta tiene una longitud determinada; el segmento se extiende indefinidamente en ambos extremos",
+        "La recta es un conjunto infinito de puntos alineados que se extiende indefinidamente; el segmento es la porción de recta comprendida entre dos puntos con longitud determinada",
+        "La recta une dos puntos concretos; el segmento puede extenderse sin límite",
+        "La recta y el segmento son conceptos equivalentes en geometría elemental"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La recta es un conjunto infinito de puntos alineados que se extiende indefinidamente en ambos extremos (sin principio ni fin). El segmento, en cambio, es la porción de recta comprendida entre dos puntos y posee una longitud determinada y finita."
+    },
+    {
+      "question": "¿Cuál es la definición de plano en geometría según el texto?",
+      "options": [
+        "Una línea recta que se extiende indefinidamente en una sola dimensión",
+        "Un volumen tridimensional con longitud, anchura y grosor",
+        "Una superficie ilimitada con dos dimensiones (longitud y anchura) sin grosor, en la que cualquier recta que una dos de sus puntos queda contenida en ella",
+        "Una figura plana delimitada por una línea poligonal cerrada con área definida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El plano es una superficie ilimitada que tiene dos dimensiones (longitud y anchura) sin grosor, en la que cualquier recta que una dos de sus puntos queda contenida en él. Las figuras que se representan en un plano se denominan figuras planas, a diferencia de las espaciales que tienen tres dimensiones."
+    },
+    {
+      "question": "¿Qué diferencia al espacio del plano en geometría?",
+      "options": [
+        "El espacio tiene dos dimensiones (longitud y anchura); el plano tiene tres dimensiones",
+        "El espacio es el ámbito tridimensional con longitud, anchura y grosor; el plano es una superficie bidimensional sin grosor",
+        "El espacio solo contiene cuerpos redondos; el plano solo contiene poliedros",
+        "El espacio es finito y medible; el plano es infinito e ilimitado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El espacio es el ámbito tridimensional en el que se sitúan los objetos y figuras, poseyendo tres dimensiones: longitud, anchura y grosor. El plano, en cambio, es una superficie con solo dos dimensiones (longitud y anchura) y sin grosor."
+    },
+    {
+      "question": "Según el texto, ¿por qué la enseñanza de la geometría es relevante para otras áreas curriculares?",
+      "options": [
+        "Porque permite desarrollar la memoria y la concentración útiles en todas las materias",
+        "Porque promueve habilidades de clasificación, construcción o dibujo, y es de relevancia para áreas como las ciencias o el arte",
+        "Porque constituye el fundamento exclusivo del pensamiento lógico-matemático",
+        "Porque su dominio es prerequisito obligatorio para el aprendizaje de la lectura y la escritura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Alsina citado en el texto, la geometría promueve habilidades de clasificación, construcción o dibujo, siendo de relevancia para otras áreas curriculares como las ciencias o el arte. Además, está presente en sectores como la industria, el arte, el diseño o la arquitectura."
+    },
+    {
+      "question": "¿Qué describe la 'noción espacial' como componente de la percepción espacial?",
+      "options": [
+        "La capacidad de situar objetos o personas en un lugar determinado usando referencias como arriba/abajo",
+        "La capacidad global para comprender y actuar en el espacio a través de los sentidos y el movimiento corporal",
+        "La capacidad del individuo para percibir y comprender las características del espacio, incluyendo nociones de tamaño, forma, dirección y distancia",
+        "La capacidad de organizar elementos en el espacio siguiendo criterios de posición, secuencia o distribución"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La noción espacial es la capacidad del individuo para percibir y comprender las características del espacio que le rodea, incluyendo las nociones de tamaño, forma, dirección y distancia. No debe confundirse con la localización espacial (situar objetos), la espacialidad general (actuar en el espacio) ni la ordenación espacial (organizar según criterios)."
+    },
+    {
+      "question": "¿Qué describe la 'ordenación espacial' como componente de la percepción espacial?",
+      "options": [
+        "La capacidad del individuo para percibir y comprender las características del espacio",
+        "La capacidad de situar objetos o personas usando referencias como arriba/abajo o izquierda/derecha",
+        "La capacidad global para comprender y actuar en el espacio usando los sentidos y el movimiento",
+        "La capacidad de organizar elementos en el espacio siguiendo criterios de posición, secuencia o distribución"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La ordenación espacial se refiere a la capacidad de organizar elementos en el espacio siguiendo criterios de posición, secuencia o distribución. Es el cuarto componente de la percepción espacial, junto con la noción espacial, la localización espacial y la espacialidad general."
+    },
+    {
+      "question": "¿Qué es la 'espacialidad general' como componente de la percepción espacial?",
+      "options": [
+        "La capacidad para percibir las características del espacio como tamaño, forma y dirección",
+        "La capacidad de situar objetos o personas en lugares determinados del espacio",
+        "La capacidad global para comprender y actuar en el espacio a través de los sentidos y el movimiento corporal",
+        "La capacidad de organizar elementos en el espacio siguiendo criterios de posición o secuencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La espacialidad general alude a la capacidad global para comprender y actuar en el espacio, a través de la información procedente de los sentidos y del propio movimiento corporal. Es una capacidad integradora que engloba el conjunto de habilidades necesarias para orientarse y actuar en el espacio."
+    },
+    {
+      "question": "En el modelo de Van Hiele, ¿qué caracteriza específicamente al nivel 3 (deducción formal)?",
+      "options": [
+        "Se reconocen figuras por apariencia sin analizar propiedades geométricas",
+        "Se relacionan propiedades de figuras y se razona apoyándose en manipulación y observación",
+        "Se realizan razonamientos lógicos formales y se comprenden demostraciones matemáticas de varios pasos",
+        "Se trabaja con la geometría de manera completamente abstracta sin ejemplos concretos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El nivel 3 (deducción formal) del modelo de Van Hiele se caracteriza porque el alumnado realiza razonamientos lógicos formales y comprende demostraciones matemáticas de varios pasos. A diferencia del nivel 2 donde el razonamiento se apoya en observación, y el nivel 4 donde se trabaja en total abstracción."
+    },
+    {
+      "question": "¿Qué forma geométrica tiene la esfera como cuerpo de revolución y qué la distingue de todos los demás cuerpos de revolución?",
+      "options": [
+        "Tiene una base circular que la distingue del cilindro y el cono que tienen dos bases",
+        "Tiene dos bases esféricas que la convierten en el cuerpo de revolución más simétrico",
+        "Es un cuerpo sin bases, aristas ni vértices, lo que la distingue del cilindro (dos bases) y el cono (una base y un vértice)",
+        "Tiene una superficie lateral curva continua, igual que el cilindro pero sin bases planas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La esfera es el único cuerpo de revolución que no tiene bases, aristas ni vértices: es completamente curva. El cilindro tiene dos bases circulares. El cono tiene una base circular y un vértice. El tronco de cono tiene dos bases circulares de diferente tamaño. Esta característica hace de la esfera el más distintivo de los cuerpos redondos."
+    },
+    {
+      "question": "¿Qué es el 'tronco de pirámide' y cómo se obtiene geométricamente?",
+      "options": [
+        "Una pirámide con base rectangular; se obtiene girando un trapecio alrededor de un eje",
+        "El sólido obtenido al cortar una pirámide con un plano paralelo a la base, eliminando el vértice",
+        "Una pirámide truncada por la intersección de dos planos no paralelos a la base",
+        "Un cuerpo de revolución generado al girar un triángulo isósceles alrededor de su eje de simetría"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tronco de pirámide es el sólido obtenido al cortar una pirámide con un plano paralelo a la base, eliminando la parte superior que incluye el vértice. El resultado es un cuerpo con dos bases poligonales paralelas de diferente tamaño. Similarmente, el tronco de cono resulta de cortar un cono con un plano paralelo a su base."
+    },
+    {
+      "question": "¿Qué es la 'proyección' en geometría descriptiva y cómo funciona?",
+      "options": [
+        "El proceso de ampliar o reducir una figura manteniendo sus proporciones intactas",
+        "El proceso de trasladar un objeto del espacio al plano mediante líneas imaginarias denominadas líneas de proyección",
+        "El proceso de calcular el volumen de un sólido a partir de sus medidas lineales",
+        "El proceso de identificar los ejes de simetría de una figura geométrica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La proyección es el proceso de trasladar un objeto del espacio al plano mediante líneas imaginarias denominadas líneas de proyección. Estas pueden ser paralelas o cilíndricas (líneas paralelas entre sí) o centrales o cónicas (líneas que parten de un mismo punto)."
+    },
+    {
+      "question": "¿Cuál es el sistema de representación 'más similar a la percepción visual de la realidad' según el texto?",
+      "options": [
+        "El sistema diédrico, utilizado en dibujo técnico de ingeniería",
+        "Los planos acotados, propios de la topografía y la cartografía",
+        "El sistema axonométrico, para la representación tridimensional",
+        "El sistema cónico, que reproduce la perspectiva visual humana"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Según el texto, el sistema cónico es el más similar a la percepción visual de la realidad, porque reproduce la perspectiva tal como la percibe el ojo humano: los objetos lejanos parecen más pequeños. Por eso se utiliza en pintura y fotografía realista."
+    },
+    {
+      "question": "¿Cuál es el sistema de representación 'más natural para el niño' en EP y por qué?",
+      "options": [
+        "La representación mediante vistas, porque muestra el objeto desde tres ángulos simultáneamente",
+        "El sistema diédrico, porque proporciona medidas exactas de todas las dimensiones",
+        "El dibujo en perspectiva intuitiva, porque reproduce aproximadamente cómo se perciben los objetos sin seguir reglas exactas",
+        "La proyección plana, porque elimina la complejidad de la profundidad espacial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El dibujo en perspectiva intuitiva es el más natural para el niño porque reproduce de forma aproximada cómo se perciben los objetos en la realidad sin seguir reglas exactas. No requiere el dominio de sistemas formales de proyección y responde a la percepción visual natural del niño."
+    },
+    {
+      "question": "¿En qué ámbitos de la realidad destacan especialmente las formas geométricas según el texto, más allá del aula?",
+      "options": [
+        "En la industria, el arte, el diseño y la arquitectura",
+        "Exclusivamente en las ciencias exactas como física y química",
+        "En los deportes y actividades físicas, y en la música",
+        "Solo en el diseño gráfico y las artes visuales contemporáneas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Alsina citado en el texto, la geometría está presente en múltiples sectores como la industria, el arte, el diseño y la arquitectura. Además, es imprescindible para desenvolverse en la vida cotidiana: orientarse por el espacio o hacer estimaciones sobre distancias y formas."
+    },
+    {
+      "question": "¿Cuál es el objetivo del Bloque 3 'Sentido Espacial' del Decreto 155/2022 según el Anexo II?",
+      "options": [
+        "Que los niños memoricen las propiedades de todas las figuras geométricas planas y espaciales",
+        "Que los niños adquieran la capacidad para reconocer, representar, describir y analizar formas y estructuras espaciales, fomentando la observación, la orientación y la resolución de problemas en contextos cotidianos",
+        "Que los niños dominen los sistemas formales de representación geométrica como el diédrico y el axonométrico",
+        "Que los niños alcancen el nivel 2 de Van Hiele antes de finalizar la Educación Primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, el Bloque 3 'Sentido Espacial' del Decreto 155/2022 tiene como objetivo que los niños adquieran la capacidad para reconocer, representar, describir y analizar formas y estructuras espaciales, fomentando la observación, la orientación y la resolución de problemas en contextos cotidianos."
+    },
+    {
+      "question": "¿Qué competencia clave vincula especialmente la enseñanza de la geometría según el texto?",
+      "options": [
+        "La competencia lingüística, al desarrollar el vocabulario matemático específico",
+        "La competencia digital, al requerir el uso de aplicaciones tecnológicas",
+        "La competencia STEM, al favorecer el pensamiento y la representación matemáticos",
+        "La competencia cultural y artística, al conectar la geometría con el arte y el diseño"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el texto, la enseñanza de la geometría se vincula estrechamente con la competencia STEM, al favorecer el pensamiento y la representación matemáticos. El enfoque competencial del área va más allá de los conceptos geométricos para desarrollar habilidades aplicables a diversas situaciones."
+    },
+    {
+      "question": "¿Qué aspecto de la geometría destaca la conclusión del Tema 24 como objetivo principal de su enseñanza?",
+      "options": [
+        "La memorización sistemática de definiciones, propiedades y fórmulas geométricas",
+        "El reconocimiento visual de figuras y su denominación correcta",
+        "Dar herramientas para entender figuras, sus propiedades y su representación, con el fin de comprender el mundo y resolver problemas",
+        "La demostración formal de teoremas geométricos a partir de axiomas fundamentales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La conclusión del Tema 24 destaca que la enseñanza de la geometría debe ir más allá de la memorización o el reconocimiento visual. El verdadero objetivo es dar las herramientas necesarias para entender todo tipo de figuras, sus propiedades y su representación, para comprender el mundo que les rodea y resolver problemas."
+    },
+    {
+      "question": "¿Qué proceso describe el texto como la evolución del niño en EP respecto al conocimiento espacial?",
+      "options": [
+        "Pasan de conocer el espacio tridimensional a comprender el espacio bidimensional",
+        "Pasan de entender el espacio de forma básica e intuitiva a desarrollar un razonamiento matemático más sólido y lógico",
+        "Pasan del pensamiento abstracto al pensamiento concreto y manipulativo",
+        "Pasan del aprendizaje colaborativo al aprendizaje autónomo e individual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto describe que durante la EP los niños pasan de entender el espacio de forma muy básica e intuitiva (ligada a la experiencia corporal) a desarrollar un razonamiento matemático mucho más sólido y lógico. Este proceso es clave y coincide con la progresión descrita en los modelos de Piaget y Van Hiele."
+    },
+    {
+      "question": "¿Qué tres tipos de propuestas didácticas recomienda el texto para trabajar la percepción espacial como docentes?",
+      "options": [
+        "Instrucción directa, práctica repetitiva y evaluación formal",
+        "Propuestas que partan del entorno próximo y su observación, de la manipulación y la exploración, y de representaciones gráficas y digitales",
+        "Trabajo individual, trabajo en parejas y trabajo cooperativo en grupos",
+        "Actividades de iniciación, actividades de desarrollo y actividades de consolidación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, las propuestas didácticas fundamentales para trabajar la percepción espacial deben partir del entorno próximo y su observación, de la manipulación y la exploración, y de representaciones gráficas y digitales, con metodologías activas, significativas y basadas en el juego."
+    },
+    {
+      "question": "¿Cuántos lados tienen respectivamente el pentágono, el hexágono, el heptágono y el octógono?",
+      "options": [
+        "4, 5, 6 y 7 lados respectivamente",
+        "5, 6, 7 y 8 lados respectivamente",
+        "6, 7, 8 y 9 lados respectivamente",
+        "3, 4, 5 y 6 lados respectivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El pentágono tiene 5 lados, el hexágono tiene 6 lados, el heptágono tiene 7 lados y el octógono tiene 8 lados. Estos polígonos, especialmente en su forma regular, se trabajan en Educación Primaria como extensión de los triángulos y cuadriláteros."
+    },
+    {
+      "question": "¿Cuáles son los elementos principales de un poliedro?",
+      "options": [
+        "Bases, superficies laterales y aristas",
+        "Caras, aristas y vértices",
+        "Lados, ángulos y diagonales",
+        "Bases, alturas y áreas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los elementos principales de un poliedro son las caras (figuras planas formadas por polígonos), las aristas (segmentos donde se unen dos caras) y los vértices (puntos donde confluyen tres o más aristas). Estos elementos son la base para describir, clasificar y comparar poliedros."
+    },
+    {
+      "question": "¿Qué distingue la 'localización espacial' de la 'noción espacial' como componentes de la percepción espacial?",
+      "options": [
+        "La localización espacial percibe características del espacio como tamaño y forma; la noción espacial sitúa objetos usando referencias",
+        "La localización espacial consiste en situar objetos o personas usando referencias como arriba/abajo; la noción espacial es la capacidad de percibir características del espacio como tamaño, forma, dirección y distancia",
+        "Son conceptos equivalentes que se usan indistintamente en la literatura especializada",
+        "La localización espacial es innata; la noción espacial se desarrolla exclusivamente mediante instrucción formal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La localización espacial consiste en situar objetos, personas o a uno mismo en un lugar determinado del espacio, utilizando referencias como arriba/abajo, delante/detrás, izquierda/derecha. La noción espacial es la capacidad para percibir y comprender las características del espacio: tamaño, forma, dirección y distancia."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el dibujo en perspectiva intuitiva y la proyección plana en EP?",
+      "options": [
+        "La perspectiva intuitiva dibuja solo una cara sin profundidad; la proyección plana reproduce el objeto en 3D",
+        "La perspectiva intuitiva reproduce cómo se perciben los objetos aproximadamente, mostrando profundidad; la proyección plana dibuja solo una cara del objeto sin profundidad",
+        "La perspectiva intuitiva requiere instrumentos de medición precisos; la proyección plana se realiza a mano alzada",
+        "La perspectiva intuitiva es el sistema más complejo para el niño; la proyección plana es el más natural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La perspectiva intuitiva reproduce de forma aproximada cómo se perciben los objetos en la realidad, mostrando cierta profundidad y tridimensionalidad sin seguir reglas exactas. La proyección plana, en cambio, consiste en dibujar solo una cara del objeto, sin profundidad, como si se 'aplanara' contra el papel."
+    },
+    {
+      "question": "¿Cómo contribuye la enseñanza de los sistemas de representación (vistas, planos) al desarrollo del alumnado según el texto?",
+      "options": [
+        "Permite al alumnado dominar las técnicas de dibujo técnico necesarias para la educación secundaria",
+        "Permite entender que dibujos, planos y mapas son formas de comunicar la realidad, facilitando la interpretación de planos sencillos y la relación entre realidad tridimensional y representaciones gráficas",
+        "Desarrolla exclusivamente la habilidad motriz fina necesaria para la escritura y el dibujo preciso",
+        "Facilita la memorización de las propiedades de las figuras geométricas planas y espaciales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, dominar las representaciones geométricas permite al alumnado entender que dibujos, planos y mapas son formas de comunicar la realidad, facilitando la interpretación de planos sencillos del entorno y la relación entre la realidad tridimensional y sus representaciones gráficas."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el 'pensamiento geométrico' del nivel 1 y del nivel 2 de Van Hiele en cuanto al uso de la manipulación?",
+      "options": [
+        "En el nivel 1 no se necesita manipulación; en el nivel 2 la manipulación es imprescindible para todo razonamiento",
+        "En el nivel 1 el niño identifica partes de figuras mediante manipulación y observación; en el nivel 2 puede relacionar y deducir propiedades aunque el razonamiento sigue apoyándose en manipulación y observación",
+        "Ambos niveles dependen por igual de la manipulación; la diferencia está en el tipo de figuras trabajadas",
+        "En el nivel 1 se usa manipulación virtual; en el nivel 2 se usa manipulación física"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el nivel 1 (análisis) el niño identifica partes y características de figuras mediante manipulación y observación directa. En el nivel 2 (deducción informal) ya puede relacionar propiedades y deducir unas a partir de otras, y clasificar figuras según propiedades, aunque su razonamiento sigue apoyándose en la manipulación y la observación, sin llegar aún al razonamiento puramente formal."
+    },
+    {
+      "question": "¿Qué ejemplo del entorno natural se menciona en el texto para ilustrar la presencia de formas geométricas?",
+      "options": [
+        "Los arcos, columnas y mosaicos de edificios y monumentos históricos",
+        "Los puzles, el ajedrez y los juegos de construcción como legos",
+        "La simetría de las hojas, los paneles hexagonales de las abejas y las espirales de los caracoles",
+        "Los circuitos integrados y los polígonos de los diseños de robótica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto menciona como ejemplos del entorno natural: la simetría de las hojas, los paneles hexagonales de las abejas y las espirales de los caracoles. En el entorno artístico y arquitectónico, en cambio, se encuentran arcos, columnas y mosaicos en edificios y obras de arte."
+    },
+    {
+      "question": "¿Qué modelo teórico establece que las primeras interacciones del niño con el entorno son principalmente experiencias espaciales a través de los sentidos?",
+      "options": [
+        "El modelo de Van Hiele (1957) sobre niveles de desarrollo geométrico",
+        "El modelo piagetiano de etapas del espacio (1986)",
+        "La aportación de Godino, Batanero y Font (2004) sobre el aprendizaje de figuras tridimensionales",
+        "La perspectiva de Bishop (2017) sobre la experiencia sensoriomotriz espacial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Godino, Batanero y Font (2004) exponen específicamente que las primeras interacciones del niño con su entorno se basan casi totalmente en experiencias espaciales, a través de los sentidos. Esta afirmación fundamenta la importancia del enfoque manipulativo y experiencial en la enseñanza de la geometría en EP."
+    },
+    {
+      "question": "¿Qué establece el Real Decreto 157/2022 y cuál es su relación con el Decreto 155/2022?",
+      "options": [
+        "El Real Decreto 157/2022 establece el currículo específico de Galicia; el Decreto 155/2022 establece las enseñanzas mínimas nacionales",
+        "El Real Decreto 157/2022 establece la ordenación y las enseñanzas mínimas de EP a nivel nacional; el Decreto 155/2022 desarrolla el currículo de EP en la Comunidad Autónoma de Galicia en consonancia con aquél",
+        "Ambos son decretos autonómicos de Galicia que regulan diferentes etapas educativas",
+        "El Real Decreto 157/2022 regula la evaluación; el Decreto 155/2022 regula el currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal (BOE 52, de 2 de marzo de 2022). El Decreto 155/2022, de 15 de septiembre, desarrolla el currículo de EP en la Comunidad Autónoma de Galicia, en consonancia con el Real Decreto nacional."
+    },
+    {
+      "question": "¿Qué elementos geométricos del entorno lúdico se mencionan en el texto como ejemplos de la presencia de la geometría?",
+      "options": [
+        "La simetría de las hojas, los panales hexagonales y las espirales de caracoles",
+        "Los arcos, columnas y mosaicos de edificios y obras de arte",
+        "Los puzles, el ajedrez y los juegos de construcción como los legos",
+        "Los circuitos integrados, los polígonos de robótica y los diseños informáticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el entorno lúdico, el texto menciona como ejemplos de presencia geométrica los puzles, el ajedrez y los juegos de construcción como los legos. Cada uno de estos juegos implica el reconocimiento y manipulación de formas geométricas, lo que los convierte en recursos aprovechables en el aula."
+    },
+    {
+      "question": "¿Qué herramienta digital se menciona como útil junto con los simuladores 3D para visualizar figuras, diferente de Geogebra y Tinkercad?",
+      "options": [
+        "BrainingCamp, que usa geoplanos virtuales y sólidos en 3D",
+        "Mathigon Polypad, que ofrece poliedros 3D y redes",
+        "Toy Theater, con calculadoras de perímetros y áreas",
+        "Didactoons, con actividades gamificadas de geometría"
+      ],
+      "correctAnswer": 0,
+      "explanation": "BrainingCamp permite explorar formas geométricas, trabajar la simetría y visualizar relaciones espaciales mediante geoplanos virtuales, bloques geométricos, mosaicos y sólidos en 3D. A diferencia de Geogebra (construcción y transformación) o Tinkercad (diseño 3D), BrainingCamp se centra en la exploración y visualización con elementos virtuales."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el 'dibujo en perspectiva intuitiva' y los sistemas formales de representación en el contexto de EP?",
+      "options": [
+        "La perspectiva intuitiva sigue reglas matemáticas estrictas; los sistemas formales son más libres y creativos",
+        "La perspectiva intuitiva reproduce aproximadamente la percepción del objeto sin reglas exactas; los sistemas formales (diédrico, axonométrico) requieren procedimientos precisos más complejos para EP",
+        "La perspectiva intuitiva solo funciona para figuras planas; los sistemas formales se aplican a cuerpos 3D",
+        "La perspectiva intuitiva la realizan solo los docentes; los sistemas formales son los que aprenden los alumnos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El dibujo en perspectiva intuitiva reproduce de forma aproximada cómo se perciben los objetos sin seguir reglas exactas: es el más natural para el niño. Los sistemas formales como el diédrico o el axonométrico siguen procedimientos precisos de proyección y representación que resultan demasiado complejos para el alumnado de EP, por lo que se usan versiones adaptadas."
+    },
+    {
+      "question": "¿Cuál de estas afirmaciones sobre los polígonos regulares es correcta?",
+      "options": [
+        "Un polígono regular tiene todos los ángulos iguales, pero puede tener lados de distinta longitud",
+        "Un polígono regular es aquel en el que todos sus lados y ángulos son iguales",
+        "Un polígono regular tiene siempre un número par de lados y ángulos",
+        "Un polígono regular puede ser convexo o cóncavo según el número de lados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un polígono regular es aquel en que todos sus lados son iguales y todos sus ángulos son también iguales. Por ejemplo, el triángulo equilátero, el cuadrado, el pentágono regular o el hexágono regular. Si solo los lados son iguales (pero no los ángulos) o viceversa, no se trata de un polígono regular."
+    },
+    {
+      "question": "¿Cuál es la relación entre el radio y el diámetro de una circunferencia?",
+      "options": [
+        "El diámetro es la mitad del radio",
+        "El diámetro equivale a tres radios",
+        "El diámetro equivale a dos radios",
+        "El radio equivale a dos diámetros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El diámetro de una circunferencia equivale a dos radios (d = 2r). El radio es la distancia desde el centro hasta cualquier punto de la circunferencia, mientras que el diámetro es la cuerda que pasa por el centro, uniendo dos puntos opuestos de la circunferencia."
+    },
+    {
+      "question": "¿Qué estrategia didáctica describe el texto al mencionar 'promover el gusto por la búsqueda de la certeza a través del razonamiento' en geometría?",
+      "options": [
+        "Fomentar que el alumnado memorice los teoremas geométricos fundamentales",
+        "Fomentar el uso espontáneo de los conocimientos geométricos en diferentes áreas del currículo",
+        "Motivar al alumnado a resolver ejercicios de geometría con calculadora",
+        "Desarrollar la capacidad de copiar y reproducir figuras geométricas con precisión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, promover el gusto por la búsqueda de la certeza a través del razonamiento implica fomentar el uso espontáneo de los conocimientos geométricos en diferentes áreas del currículo. Esta estrategia busca que el alumnado aplique el razonamiento geométrico de manera natural en distintos contextos."
+    },
+    {
+      "question": "¿Qué tipo de figuras son el sector circular y el segmento circular?",
+      "options": [
+        "Son figuras espaciales tridimensionales derivadas de la esfera",
+        "Son partes del círculo (región plana delimitada por la circunferencia)",
+        "Son figuras poligonales aproximadas al círculo con muchos lados",
+        "Son proyecciones del cono sobre el plano horizontal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sector circular y el segmento circular son partes del círculo, es decir, de la región plana delimitada por la circunferencia. El sector circular está delimitado por dos radios y el arco entre sus extremos. El segmento circular está delimitado por un arco y la cuerda que une sus extremos."
+    },
+    {
+      "question": "¿Cuál es la diferencia clave entre los 'poliedros irregulares' como el prisma y la pirámide, respecto a los poliedros regulares?",
+      "options": [
+        "Los poliedros irregulares tienen superficies curvas; los regulares tienen solo superficies planas",
+        "Los poliedros irregulares tienen caras y ángulos distintos; los regulares tienen caras de polígonos regulares iguales y ángulos iguales",
+        "Los poliedros irregulares no pueden apoyarse en ninguna cara; los regulares se apoyan en cualquier cara",
+        "Los poliedros irregulares son cuerpos de revolución; los regulares son poliedros convexos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los poliedros irregulares tienen caras y ángulos distintos, a diferencia de los regulares que tienen caras de polígonos regulares iguales y ángulos iguales. Entre los poliedros irregulares destacan el prisma, las pirámides, el tronco de pirámide y los sólidos de Arquímedes."
+    },
+    {
+      "question": "Según el texto, ¿qué uso tienen los mecanos como recurso manipulativo estructurado en geometría?",
+      "options": [
+        "Para medir perímetros y áreas de figuras planas con precisión",
+        "Para crear figuras planas, cuerpos geométricos o experimentar con simetrías",
+        "Para clasificar polígonos según sus ángulos y lados",
+        "Para visualizar las vistas (alzado, planta y perfil) de los cuerpos geométricos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los mecanos son recursos manipulativos estructurados que se usan en geometría para crear figuras planas, cuerpos geométricos o experimentar con simetrías. Permiten al alumnado construir estructuras geométricas flexibles, comprendiendo propiedades como la rigidez o la transformación de figuras."
+    },
+    {
+      "question": "¿Cuál es la relación entre el enfoque competencial en geometría y la competencia STEM según el texto?",
+      "options": [
+        "La competencia STEM se opone al enfoque competencial en geometría, pues prioriza la ciencia sobre las matemáticas",
+        "La enseñanza de la geometría con enfoque competencial favorece el pensamiento y la representación matemáticos, vinculándose estrechamente con la competencia STEM",
+        "La competencia STEM solo se desarrolla a través de actividades de robótica y programación, no de geometría",
+        "El enfoque competencial en geometría elimina la necesidad de trabajar la competencia STEM específicamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, la enseñanza de la geometría con enfoque competencial no se centra solo en conceptos, sino en desarrollar habilidades aplicables a diversas situaciones. Esto la vincula estrechamente con la competencia STEM, al favorecer el pensamiento y la representación matemáticos que son fundamentales en ciencia, tecnología, ingeniería y matemáticas."
+    },
+    {
+      "question": "¿En qué publicación oficial se publicó el Decreto 155/2022 y cuándo?",
+      "options": [
+        "En el Boletín Oficial del Estado (BOE), el 2 de marzo de 2022",
+        "En el Diario Oficial de Galicia (DOG), el 26 de septiembre de 2022",
+        "En el Boletín Oficial de la Comunidad de Madrid, el 15 de septiembre de 2022",
+        "En el Boletín Oficial del Estado (BOE), el 30 de diciembre de 2020"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, fue publicado en el Diario Oficial de Galicia (DOG), número 183, de 26 de septiembre de 2022, páginas 49595 a 50009. Esta distinción es importante ya que es un decreto autonómico gallego, no estatal."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el 'aprendizaje funcional' como estrategia y la 'resolución de problemas geométricos' en la enseñanza de la geometría?",
+      "options": [
+        "El aprendizaje funcional se basa en la memorización de fórmulas; la resolución de problemas en su aplicación",
+        "El aprendizaje funcional usa instrumentos de medida reales y alternativos para favorecer la estimación; la resolución de problemas aplica los conocimientos geométricos de forma práctica en situaciones reales",
+        "El aprendizaje funcional es teórico; la resolución de problemas es exclusivamente práctico",
+        "Ambas estrategias son sinónimas y se usan indistintamente en la enseñanza de la geometría"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje funcional como estrategia implica usar instrumentos de medida reales y alternativos para favorecer la capacidad de estimación. La resolución de problemas geométricos, por su parte, permite aplicar los conocimientos geométricos de forma práctica a situaciones reales. Son estrategias complementarias pero diferentes."
+    },
+    {
+      "question": "¿Qué tipo de triángulo tiene 'un ángulo recto' y cómo se denomina?",
+      "options": [
+        "Se denomina triángulo obtusángulo y tiene un ángulo mayor de 90º",
+        "Se denomina triángulo rectángulo y tiene un ángulo de exactamente 90º",
+        "Se denomina triángulo acutángulo y tiene tres ángulos menores de 90º",
+        "Se denomina triángulo isósceles y tiene dos ángulos iguales de 45º cada uno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El triángulo rectángulo es el que tiene un ángulo de exactamente 90º (ángulo recto). El triángulo acutángulo tiene los tres ángulos agudos (menores de 90º). El triángulo obtusángulo tiene un ángulo obtuso (mayor de 90º). Esta clasificación es según los ángulos, diferente a la clasificación según los lados."
+    },
+    {
+      "question": "¿Qué es el 'perímetro' de un polígono y cómo se obtiene?",
+      "options": [
+        "Es la medida de la superficie interior del polígono, calculada con fórmulas específicas para cada figura",
+        "Es la distancia desde el centro del polígono hasta cualquiera de sus vértices",
+        "Es la suma de la longitud de todos sus lados",
+        "Es el número de lados multiplicado por la longitud del lado más largo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El perímetro de un polígono se obtiene sumando la longitud de todos sus lados. Es una medida lineal (en unidades de longitud) que representa la distancia total del contorno del polígono. No debe confundirse con el área, que mide la superficie interior."
+    },
+    {
+      "question": "¿Qué posición ocupa el nivel 1 (análisis) de Van Hiele en el desarrollo del pensamiento geométrico?",
+      "options": [
+        "Es el nivel inicial donde se reconocen figuras por apariencia visual",
+        "Es el nivel más avanzado donde se trabaja en completa abstracción geométrica",
+        "Marca los inicios del pensamiento geométrico, donde el niño identifica partes y características de las figuras",
+        "Es el nivel intermedio donde se realizan demostraciones formales de varios pasos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El nivel 1 (análisis) de Van Hiele marca los inicios del pensamiento geométrico. El niño es capaz de identificar las partes y características de cada figura a través de la manipulación y la observación. Supera el nivel 0 de mero reconocimiento visual, pero no llega aún a las deducciones del nivel 2."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre un 'trapecio' y un 'trapezoide' como tipos de cuadriláteros convexos?",
+      "options": [
+        "El trapecio tiene dos pares de lados paralelos; el trapezoide tiene solo un par de lados paralelos",
+        "El trapecio tiene solo un par de lados paralelos; el trapezoide no tiene ningún par de lados paralelos",
+        "El trapecio no tiene lados paralelos; el trapezoide tiene todos los lados paralelos",
+        "El trapecio es siempre rectángulo; el trapezoide puede ser de cualquier forma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El trapecio tiene solo un par de lados paralelos (llamados bases), a diferencia de los paralelogramos que tienen dos pares. El trapezoide, en cambio, no tiene ningún par de lados paralelos. Ambos son cuadriláteros convexos, junto con los paralelogramos."
+    },
+    {
+      "question": "¿Qué propiedades tiene el 'rombo' como paralelogramo?",
+      "options": [
+        "Tiene lados opuestos iguales y cuatro ángulos rectos de 90º cada uno",
+        "Tiene todos los lados iguales y los cuatro ángulos iguales (rectos)",
+        "Tiene todos los lados iguales y ángulos opuestos iguales, pero esos ángulos no son rectos",
+        "Tiene dos pares de lados iguales pero no tiene ningún par de lados paralelos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El rombo es un paralelogramo con todos sus lados iguales y ángulos opuestos iguales, pero esos ángulos no son rectos (a diferencia del cuadrado que tiene los cuatro ángulos rectos). El rectángulo tiene lados opuestos iguales y cuatro ángulos rectos, pero sus lados no son todos iguales (a menos que sea cuadrado)."
+    },
+    {
+      "question": "¿Cuál es la diferencia geométrica entre un 'cuadrado' y un 'rectángulo' como paralelogramos?",
+      "options": [
+        "El cuadrado tiene todos los lados iguales y los cuatro ángulos rectos; el rectángulo tiene lados opuestos iguales y cuatro ángulos rectos, pero los lados adyacentes pueden ser distintos",
+        "El cuadrado tiene ángulos de 90º y 45º alternados; el rectángulo tiene todos los ángulos de 90º",
+        "El cuadrado tiene dos pares de lados paralelos; el rectángulo tiene solo un par de lados paralelos",
+        "El cuadrado es un caso especial de trapecio; el rectángulo es un caso especial de rombo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cuadrado tiene todos sus lados iguales y los cuatro ángulos rectos (90º): es el paralelogramo más regular. El rectángulo tiene lados opuestos iguales y los cuatro ángulos rectos, pero los lados adyacentes pueden tener longitudes diferentes. El cuadrado es un caso particular de rectángulo donde todos los lados son iguales."
+    },
+    {
+      "question": "¿Cuál es la contribución específica de Alsina (2004) que se cita en el apartado de recursos didácticos?",
+      "options": [
+        "Describe los cinco niveles del desarrollo geométrico ampliamente aplicados en EP",
+        "Destaca la importancia de combinar instrumentos y materiales manipulativos con las TIC para la enseñanza de la geometría",
+        "Establece las tres etapas en la construcción del espacio según el desarrollo cognitivo",
+        "Propone la sustitución de los materiales físicos por herramientas digitales en la enseñanza"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el apartado de recursos didácticos, Alsina (2004) destaca específicamente la importancia de combinar instrumentos y materiales manipulativos con las TIC para la enseñanza de la geometría. Esta idea fundamenta el uso complementario de ambos tipos de recursos que propone el tema."
+    },
+    {
+      "question": "¿Cómo se describe la 'representación mediante vistas' como sistema de representación en EP?",
+      "options": [
+        "Consiste en dibujar solo una cara del objeto sin mostrar profundidad",
+        "Reproduce aproximadamente cómo se percibe el objeto en la realidad sin reglas exactas",
+        "Consiste en representar el objeto desde tres posiciones: alzado (frente), planta (arriba) y perfil (lado)",
+        "Consiste en proyectar el objeto sobre un plano con líneas de proyección convergentes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La representación mediante vistas consiste en representar el objeto desde distintas posiciones: alzado (de frente), planta (desde arriba) y perfil (desde un lado). Este sistema ayuda a comprender que un objeto puede observarse desde distintos ángulos y es un paso avanzado en la progresión de los sistemas de representación en EP."
+    },
+    {
+      "question": "¿Qué libro de Alsina (2004) se cita en la bibliografía del Tema 24?",
+      "options": [
+        "'Matemáticas en la calle: actividades para la Educación Primaria'",
+        "'Desarrollo de competencias matemáticas con recursos lúdico-manipulativos. Para niños y niñas de 6 a 12 años'",
+        "'Enseñanza de la geometría: del espacio al plano'",
+        "'Didáctica de la geometría para maestros de Primaria'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El libro de Alsina citado en la bibliografía del Tema 24 es 'Desarrollo de competencias matemáticas con recursos lúdico-manipulativos. Para niños y niñas de 6 a 12 años', publicado en Madrid por Narcea en 2004. Este texto fundamenta especialmente las orientaciones metodológicas y los recursos didácticos del tema."
+    },
+    {
+      "question": "¿Qué aspectos cognitivos promueve la enseñanza de la geometría según la introducción del Tema 24?",
+      "options": [
+        "Habilidades de memorización, reconocimiento y denominación de figuras",
+        "Habilidades de clasificación, construcción y dibujo",
+        "Habilidades exclusivamente numéricas y de cálculo",
+        "Habilidades lingüísticas y de comunicación matemática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la introducción del Tema 24, el aprendizaje de la geometría requiere pensar y hacer, promoviendo habilidades de clasificación, construcción y dibujo. Estas habilidades son de relevancia para otras áreas curriculares como las ciencias o el arte, más allá del aprendizaje matemático."
+    },
+    {
+      "question": "¿Qué describe la 'localización espacial' como componente de la percepción espacial?",
+      "options": [
+        "La capacidad para percibir las características del espacio: tamaño, forma, dirección y distancia",
+        "La capacidad de situar objetos, personas o a uno mismo en un lugar determinado del espacio, usando referencias como arriba/abajo, delante/detrás, izquierda/derecha",
+        "La capacidad global para comprender y actuar en el espacio a través de los sentidos y el movimiento",
+        "La capacidad de organizar elementos en el espacio siguiendo criterios de posición o secuencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La localización espacial consiste en situar objetos, personas o a uno mismo en un lugar determinado del espacio, utilizando referencias como arriba y abajo, delante y detrás, izquierda y derecha. Es el segundo componente de la percepción espacial, diferente de la noción espacial (percibir características), la espacialidad general (actuar en el espacio) y la ordenación espacial (organizar elementos)."
+    },
+    {
+      "question": "¿Por qué el texto señala que 'comprender el plano y el espacio será esencial para desenvolverse por el entorno'?",
+      "options": [
+        "Porque son conceptos abstractos que preparan para el aprendizaje del álgebra en secundaria",
+        "Porque plano y espacio son la base para abordar los elementos, formas y relaciones geométricas del entorno, y permiten orientarse y entender la realidad cotidiana",
+        "Porque la geometría plana y espacial son los únicos contenidos de matemáticas con aplicación práctica",
+        "Porque el dominio del plano y el espacio es requisito para la lectura de mapas en ciencias sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que comprender el plano y el espacio es esencial porque son la base para abordar los elementos, formas y relaciones geométricas del entorno. Además, ambos conceptos son imprescindibles para desenvolverse en la vida cotidiana: orientarse por el espacio, hacer estimaciones sobre distancias y formas, e interpretar representaciones gráficas."
+    },
+    {
+      "question": "¿Qué información proporciona la 'altura' de un triángulo?",
+      "options": [
+        "Es el segmento que une un vértice con el punto medio del lado opuesto",
+        "Es la recta que divide el ángulo en dos partes iguales",
+        "Es el segmento perpendicular que va desde un vértice al lado opuesto (o su prolongación)",
+        "Es la recta perpendicular que pasa por el punto medio de los lados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La altura de un triángulo es el segmento perpendicular que va desde un vértice al lado opuesto (o a su prolongación si es necesario). No debe confundirse con la mediana (une vértice con punto medio del lado opuesto), la bisectriz (divide el ángulo en dos partes iguales) o la mediatriz (perpendicular al punto medio del lado)."
+    },
+    {
+      "question": "¿Qué ocurre con el conocimiento espacial del niño después de los 6-7 años según el texto?",
+      "options": [
+        "La percepción espacial queda completamente consolidada y ya no experimenta cambios",
+        "El niño avanza hacia un conocimiento más abstracto del espacio, realizando representaciones mentales más complejas",
+        "El niño regresa a formas más concretas y manipulativas de conocer el espacio",
+        "La percepción espacial se transfiere exclusivamente al ámbito matemático formal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, después de los 6-7 años (cuando el niño consolida la lateralidad y adquiere la capacidad de situarse y orientar objetos), avanza hacia un conocimiento más abstracto del espacio, realizando representaciones mentales más complejas. Este proceso de abstracción progresiva es característico del desarrollo cognitivo en EP."
+    },
+    {
+      "question": "¿Cuál es el objetivo específico mencionado en el texto de los 'sistemas de representación' para el alumnado de EP?",
+      "options": [
+        "Dominar las técnicas formales de dibujo técnico para su aplicación en secundaria",
+        "Entender que dibujos, planos y mapas son formas de comunicar la realidad, e interpretar planos sencillos relacionando la realidad tridimensional con sus representaciones gráficas",
+        "Memorizar los nombres y características de los cuatro sistemas de representación clásicos",
+        "Representar objetos tridimensionales con precisión milimétrica usando instrumentos de medición"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo de los sistemas de representación en EP es que el alumnado entienda que dibujos, planos y mapas son formas de comunicar la realidad, pudiendo interpretar planos sencillos del entorno y establecer la relación entre la realidad tridimensional y sus representaciones gráficas."
+    },
+    {
+      "question": "¿Qué tipo de polígono es el cuadrado según su clasificación dentro de los cuadriláteros?",
+      "options": [
+        "Es un trapezoide porque no tiene lados paralelos entre sí",
+        "Es un trapecio porque tiene solo un par de lados paralelos",
+        "Es un paralelogramo con todos los lados iguales y todos los ángulos rectos",
+        "Es un polígono irregular porque sus diagonales tienen distinta longitud"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El cuadrado es un paralelogramo (tiene dos pares de lados opuestos paralelos) con todos los lados iguales y los cuatro ángulos rectos (90º). Por tanto, es a la vez un tipo de rectángulo (lados opuestos iguales y cuatro ángulos rectos) y un tipo de rombo (todos los lados iguales). Es el paralelogramo más regular posible."
+    },
+    {
+      "question": "¿Cuántos lados tiene un hexágono regular y qué ejemplo natural se menciona en el texto?",
+      "options": [
+        "Tiene 5 lados; ejemplo natural: la estrella de mar",
+        "Tiene 6 lados; ejemplo natural: los paneles hexagonales de las abejas",
+        "Tiene 7 lados; ejemplo natural: los cristales de cuarzo",
+        "Tiene 8 lados; ejemplo natural: las flores de ocho pétalos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El hexágono tiene 6 lados. El ejemplo natural mencionado en el texto son los paneles hexagonales de las abejas (la estructura del panal de miel), que ilustra la presencia de formas geométricas en el entorno natural. Es uno de los polígonos más frecuentes en la naturaleza por su eficiencia estructural."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los materiales no estructurados y los estructurados que se citan en el texto como ejemplos de recursos no estructurados?",
+      "options": [
+        "Los materiales no estructurados son digitales; los estructurados son físicos. Ejemplos no estructurados: Geogebra y BrainingCamp",
+        "Los materiales no estructurados no tienen finalidad educativa diseñada pero se usan en el aula; ejemplos: cajas, palillos, plastilina o conchas",
+        "Los materiales no estructurados son exclusivos del docente; los estructurados los usa el alumnado. Ejemplos no estructurados: geoplano y tangram",
+        "Los materiales no estructurados son los más costosos; los estructurados son los más económicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los materiales no estructurados son aquellos que no han sido diseñados con fines educativos pero resultan útiles en el aula. Los ejemplos citados en el texto incluyen objetos cotidianos o naturales del entorno: cajas, envases, monedas, billetes, palillos, arcilla, plastilina o conchas."
+    },
+    {
+      "question": "¿Qué tipo de cuerpo geométrico es el cilindro y cuáles son sus elementos principales?",
+      "options": [
+        "Es un poliedro irregular con dos bases cuadradas unidas por cuatro caras rectangulares",
+        "Es un cuerpo de revolución obtenido al girar un rectángulo, formado por dos bases circulares iguales y paralelas unidas por una superficie lateral curva",
+        "Es un cuerpo redondo generado al girar un triángulo rectángulo, con una base circular y una superficie lateral que termina en un vértice",
+        "Es un poliedro regular con dos bases hexagonales y seis caras rectangulares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cilindro es un cuerpo de revolución obtenido al girar un rectángulo alrededor de uno de sus lados. Está formado por dos bases circulares iguales y paralelas, unidas por una superficie lateral curva. No debe confundirse con el cono (que tiene una sola base y un vértice) ni con el prisma (que tiene caras planas)."
+    },
+    {
+      "question": "¿Qué destaca Godino et al. (2004) sobre el aprendizaje de las figuras tridimensionales?",
+      "options": [
+        "Debe iniciarse con la memorización de nombres y propiedades antes de cualquier actividad manipulativa",
+        "Debe iniciarse mediante actividades manipulativas de construcción de poliedros para desarrollar posteriormente representaciones mentales",
+        "Debe realizarse exclusivamente con herramientas digitales 3D para garantizar la precisión geométrica",
+        "Debe postergarse hasta que el alumnado alcance el nivel 2 de Van Hiele como mínimo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Godino et al. (2004) señalan que el aprendizaje de las figuras tridimensionales debe iniciarse mediante actividades manipulativas de construcción de poliedros, para posteriormente desarrollar representaciones mentales más abstractas. Esto coincide con el enfoque progresivo de lo concreto a lo abstracto propuesto en el tema."
+    },
+    {
+      "question": "¿Cuál es la contribución de Chamorro (2003) al ámbito de la didáctica de las matemáticas mencionada en el texto?",
+      "options": [
+        "Es el autor del modelo de los cinco niveles de desarrollo geométrico",
+        "Propone el aprendizaje lúdico-manipulativo para niños de 6 a 12 años",
+        "Es autor del libro 'Didáctica de las matemáticas para primaria', publicado en Madrid por Pearson Educación en 2003",
+        "Expone que las primeras interacciones del niño con el entorno son espaciales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La referencia bibliográfica de Chamorro en el texto corresponde al libro 'Didáctica de las matemáticas para primaria', publicado en Madrid por Pearson Educación en 2003. El modelo de cinco niveles es de Van Hiele; el aprendizaje lúdico-manipulativo es de Alsina; las interacciones espaciales son de Godino et al."
+    },
+    {
+      "question": "¿Cuántos autores se citan en la bibliografía 'de autor' del Tema 24 y quiénes son?",
+      "options": [
+        "Tres autores: Alsina, Piaget y Van Hiele",
+        "Cinco autores o grupos: Alsina, Bishop, Chamorro, Godino/Batanero/Font y Rico/Flores",
+        "Cuatro autores: Alsina, Bishop, Piaget y Godino",
+        "Seis autores: Alsina, Bishop, Chamorro, Godino, Batanero y Font"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La bibliografía 'de autor' del Tema 24 incluye cinco referencias: Alsina (2004), Bishop (2007), Chamorro (2003), Godino/Batanero/Font (2004) y Rico/Flores (2015). Piaget y Van Hiele se citan en el texto pero no aparecen como referencias bibliográficas propias en la lista de bibliografía."
+    },
+    {
+      "question": "¿Cuál es el libro de Rico y Flores (2015) citado en la bibliografía del Tema 24?",
+      "options": [
+        "'Matemáticas para la Educación Primaria: enfoque curricular'",
+        "'Enseñanza y aprendizaje de las matemáticas en Educación Primaria', publicado en Madrid por Pirámide",
+        "'Didáctica de las matemáticas para maestros', publicado por la Universidad de Granada",
+        "'Didáctica de las matemáticas para primaria', publicado por Pearson Educación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rico, L. y Flores, P. (2015) son autores de 'Enseñanza y aprendizaje de las matemáticas en Educación Primaria', publicado en Madrid por la editorial Pirámide. Chamorro (2003) es el autor de 'Didáctica de las matemáticas para primaria' (Pearson); Godino et al. (2004) publicaron 'Didáctica de las matemáticas para maestros'."
+    },
+    {
+      "question": "¿Por qué la geometría en EP requiere 'pensar y hacer' según el texto?",
+      "options": [
+        "Porque las matemáticas son una materia exclusivamente teórica que requiere reflexión profunda",
+        "Porque el aprendizaje geométrico promueve habilidades activas como clasificar, construir y dibujar, que requieren tanto conocimiento conceptual como actividad práctica",
+        "Porque la normativa curricular exige que el 50% del tiempo se dedique a actividades teóricas y el 50% a prácticas",
+        "Porque la geometría es la única área de las matemáticas que puede enseñarse mediante juego y manipulación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que el aprendizaje de la geometría requiere pensar y hacer porque promueve habilidades activas de clasificación, construcción o dibujo. Estas habilidades son tanto cognitivas (pensar, razonar, clasificar) como prácticas (construir, dibujar, manipular), lo que hace necesaria la combinación de reflexión y acción."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre un 'cuerpo de revolución' generado por giro y los poliedros?",
+      "options": [
+        "Los cuerpos de revolución tienen caras planas poligonales; los poliedros tienen superficies curvas",
+        "Los cuerpos de revolución se generan al girar una figura plana alrededor de un eje y tienen superficies curvas; los poliedros tienen caras planas poligonales",
+        "Los cuerpos de revolución son siempre más grandes que los poliedros",
+        "Los cuerpos de revolución solo existen en tres dimensiones; los poliedros pueden ser bidimensionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los cuerpos de revolución se generan al girar una figura plana alrededor de un eje y están limitados por superficies curvas (cilindro, cono, esfera). Los poliedros, en cambio, tienen caras planas formadas por polígonos (prismas, pirámides, Sólidos de Platón). Esta distinción es fundamental para clasificar los cuerpos geométricos."
+    },
+    {
+      "question": "¿Cuál es la función de la Orden de 26 de mayo de 2023 en el contexto del Decreto 155/2022?",
+      "options": [
+        "Establece el currículo de EP en Galicia, complementando el Decreto 155/2022",
+        "Desarrolla el Decreto 155/2022 y regula la evaluación en la etapa de Educación Primaria en Galicia",
+        "Modifica el Real Decreto 157/2022 para adaptarlo al contexto gallego",
+        "Regula la formación del profesorado de EP en la Comunidad Autónoma de Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación y el currículo de la educación primaria en Galicia, y regula específicamente la evaluación en esa etapa educativa. Fue publicada en el DOG número 111, de 13 de junio de 2023."
+    },
+    {
+      "question": "¿Qué es una 'figura plana' y qué la diferencia de un 'cuerpo geométrico'?",
+      "options": [
+        "La figura plana es tridimensional; el cuerpo geométrico es bidimensional",
+        "La figura plana se representa en un plano con dos dimensiones; el cuerpo geométrico o sólido tiene tres dimensiones y volumen",
+        "La figura plana tiene volumen; el cuerpo geométrico solo tiene área y perímetro",
+        "La figura plana es siempre irregular; el cuerpo geométrico puede ser regular o irregular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las figuras planas se representan en un plano y tienen dos dimensiones (longitud y anchura) sin volumen. Los cuerpos geométricos o sólidos son figuras tridimensionales que tienen tres dimensiones (longitud, anchura y grosor) y, por tanto, poseen volumen. Al pasar del plano al espacio, las figuras adquieren esta dimensión adicional."
+    },
+    {
+      "question": "¿Qué característica del hexágono regular lo hace tan frecuente en la naturaleza?",
+      "options": [
+        "Su uso en el panales de miel de las abejas, que ilustra su eficiencia para cubrir una superficie sin dejar huecos",
+        "Sus seis ángulos rectos de 90º que lo convierten en la figura más estable",
+        "Su semejanza con la circunferencia que le otorga propiedades casi curvilíneas",
+        "Su capacidad para generar simetría rotacional de orden 4, como los cristales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El hexágono regular aparece en los panales de miel de las abejas, que es el ejemplo natural mencionado en el texto. Los hexágonos regulares pueden cubrir completamente una superficie sin dejar huecos (teselación), y su estructura proporciona gran resistencia con un mínimo de material, lo que lo hace eficiente en la naturaleza."
+    },
+    {
+      "question": "¿Cuál de los cinco Sólidos de Platón tiene cuatro caras triangulares?",
+      "options": [
+        "El cubo (hexaedro regular), con seis caras cuadradas",
+        "El octaedro, con ocho caras triangulares equiláteras",
+        "El tetraedro, con cuatro caras triangulares equiláteras",
+        "El icosaedro, con veinte caras triangulares equiláteras"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tetraedro es el Sólido de Platón que tiene cuatro caras triangulares equiláteras. El cubo tiene seis caras cuadradas. El octaedro tiene ocho caras triangulares. El dodecaedro tiene doce caras pentagonales. El icosaedro tiene veinte caras triangulares. El tetraedro es el poliedro más simple de los cinco sólidos de Platón."
+    },
+    {
+      "question": "¿Cuál es la función de la 'descripción y representación de formas geométricas' en el desarrollo del pensamiento espacial del alumnado?",
+      "options": [
+        "Permite al alumnado reproducir figuras con máxima precisión sin necesidad de comprenderlas",
+        "Favorece al desarrollo de la percepción espacial y del razonamiento geométrico al aprender a describir y representar gráficamente las formas",
+        "Se limita a desarrollar habilidades motoras finas sin impacto en el razonamiento matemático",
+        "Sustituye la necesidad de trabajar con materiales manipulativos físicos en el aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, una vez que el alumnado conoce las formas planas y espaciales, debe aprender a describirlas y representarlas gráficamente, lo que favorece el desarrollo de la percepción espacial y del razonamiento geométrico. La representación no es un fin en sí misma, sino una herramienta para profundizar la comprensión."
+    },
+    {
+      "question": "¿Qué instrumentos de medición se mencionan en el texto para el trabajo de representación gráfica en EP?",
+      "options": [
+        "Transportador de ángulos, regla milimetrada y calibre",
+        "Regla, escuadra y compás",
+        "Compás, teodolito y nivel",
+        "Regla, calculadora y escáner digital"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona que en las actividades de representación gráfica el alumnado puede utilizar herramientas como regla, escuadra y compás para elaborar croquis y planos adaptados a su nivel. También se menciona el cartabón como instrumento para elaborar figuras planas en las actividades de representación gráfica."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre las actividades de 'representación gráfica' y las de 'transformación y simetría' en geometría?",
+      "options": [
+        "Las de representación gráfica son más avanzadas que las de transformación y simetría",
+        "Las de representación gráfica desarrollan percepción espacial y precisión en el dibujo geométrico; las de transformación y simetría ayudan a comprender cómo las figuras pueden modificarse mediante movimientos",
+        "Las de representación gráfica solo se pueden realizar con materiales físicos; las de transformación requieren herramientas digitales",
+        "Las de representación gráfica trabajan figuras planas; las de transformación trabajan exclusivamente figuras espaciales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actividades de representación gráfica desarrollan la percepción espacial y la precisión en el dibujo geométrico, ayudando a comprender propiedades y diferencias de las figuras. Las actividades de transformación y simetría, en cambio, ayudan a comprender cómo las figuras pueden modificarse mediante movimientos en el plano (traslaciones, giros, simetrías)."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el punto en geometría es correcta según el texto?",
+      "options": [
+        "El punto es la porción de recta comprendida entre dos posiciones determinadas",
+        "El punto indica una posición en el espacio sin extensión ni dimensión",
+        "El punto es la abertura formada por dos semirrectas con un origen común",
+        "El punto es una superficie ilimitada con dos dimensiones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, el punto indica una posición en el espacio. Es el elemento geométrico más fundamental y elemental, sin extensión ni dimensión. A partir del punto se construyen los demás elementos geométricos: la recta (conjunto de puntos alineados), el segmento (porción de recta entre dos puntos), etc."
+    },
+    {
+      "question": "¿Cuál de los siguientes pares describe correctamente la diferencia entre poliedros regulares convexos y los Sólidos de Arquímedes?",
+      "options": [
+        "Los Sólidos de Platón tienen caras de distintos polígonos regulares; los Sólidos de Arquímedes tienen caras de un único tipo de polígono regular",
+        "Los Sólidos de Platón tienen caras de un único tipo de polígono regular; los Sólidos de Arquímedes son poliedros convexos con caras de polígonos regulares que pueden ser de diferentes tipos",
+        "Los Sólidos de Platón son cóncavos; los Sólidos de Arquímedes son convexos",
+        "Los Sólidos de Platón incluyen el cilindro y la esfera; los Sólidos de Arquímedes solo incluyen poliedros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los Sólidos de Platón (tetraedro, cubo, octaedro, dodecaedro e icosaedro) tienen todas sus caras del mismo tipo de polígono regular. Los Sólidos de Arquímedes son poliedros convexos con caras de polígonos regulares que pueden ser de diferentes tipos entre sí (por ejemplo, triángulos y cuadrados juntos), lo que los hace más variados pero menos regulares."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el nivel 0 (visualización) y los niveles superiores en el pensamiento geométrico según Van Hiele?",
+      "options": [
+        "En el nivel 0 se trabaja con figuras tridimensionales; en los niveles superiores solo con figuras planas",
+        "En el nivel 0 se reconocen figuras por apariencia global sin analizar propiedades; los niveles superiores implican progresivamente mayor análisis, deducción y abstracción de propiedades",
+        "El nivel 0 requiere materiales digitales; los niveles superiores requieren materiales físicos",
+        "En el nivel 0 el docente explica y el alumno escucha; en los niveles superiores el alumno trabaja autónomamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El nivel 0 (visualización) se caracteriza por el reconocimiento global de figuras por su apariencia, sin análisis de propiedades. Los niveles superiores implican progresión: nivel 1 analiza partes y características, nivel 2 deduce propiedades relacionándolas, nivel 3 realiza demostraciones formales, nivel 4 trabaja en total abstracción sin ejemplos concretos."
+    },
+    {
+      "question": "¿Cuál es el doble vínculo entre la geometría y el currículo de EP que establece el Decreto 155/2022?",
+      "options": [
+        "La geometría es exclusiva del área de matemáticas y no se vincula con otras áreas del currículo",
+        "La geometría se vincula tanto al objetivo de etapa 'g' (resolución de problemas con conocimientos geométricos) del artículo 7, como al Bloque 3 'Sentido Espacial' del Anexo II",
+        "La geometría se regula únicamente en el artículo 4 sobre la finalidad de la EP, sin desarrollo curricular específico",
+        "La geometría se vincula al currículo de ciencias y artes, pero no tiene bloque propio en matemáticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 vincula la geometría al currículo de EP de forma doble: en su artículo 7, el objetivo de etapa 'g' incluye el desarrollo de competencias matemáticas con conocimientos geométricos; y en el Anexo II, el Bloque 3 'Sentido Espacial' desarrolla específicamente los contenidos geométricos para la etapa."
+    },
+    {
+      "question": "¿Cuál es la característica que distingue al 'punto' de la 'recta' y del 'segmento' como elementos geométricos básicos?",
+      "options": [
+        "El punto tiene una dimensión; la recta tiene dos dimensiones; el segmento tiene tres dimensiones",
+        "El punto indica una posición sin extensión; la recta es un conjunto infinito de puntos sin extremos; el segmento es una porción de recta finita entre dos puntos",
+        "El punto es curvo; la recta es recta; el segmento puede ser curvo o recto",
+        "El punto forma polígonos; la recta forma planos; el segmento forma ángulos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto indica una posición en el espacio sin extensión. La recta es un conjunto infinito de puntos alineados que se extiende indefinidamente en ambos extremos (sin principio ni fin). El segmento es la porción de recta comprendida entre dos puntos determinados, con una longitud finita definida."
+    },
+    {
+      "question": "¿Por qué el texto señala que los sistemas de representación formales 'resultan complejos para el alumnado de EP'?",
+      "options": [
+        "Porque los niños de EP no tienen la madurez lectora suficiente para interpretar los símbolos técnicos",
+        "Porque los sistemas formales como el diédrico o el axonométrico requieren reglas y procedimientos precisos de proyección que superan el nivel cognitivo y geométrico de los estudiantes de EP",
+        "Porque los materiales necesarios para los sistemas formales son demasiado costosos para las escuelas",
+        "Porque los sistemas formales solo se pueden trabajar con herramientas digitales que no están disponibles en todos los centros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los sistemas de representación formales como el diédrico, planos acotados, axonométrico y cónico requieren el dominio de reglas y procedimientos precisos de proyección que superan el nivel cognitivo y geométrico del alumnado de EP. Por eso se emplean versiones adaptadas: perspectiva intuitiva, proyección plana y representación mediante vistas."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una característica específica del cono como cuerpo de revolución?",
+      "options": [
+        "Tiene dos bases circulares iguales y paralelas unidas por una superficie lateral curva",
+        "No tiene bases, aristas ni vértices; es completamente liso",
+        "Tiene una base circular y una superficie lateral curva que termina en un vértice",
+        "Se genera al girar un semicírculo sobre su diámetro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El cono tiene una base circular y una superficie lateral curva que termina en un vértice. Se genera al girar un triángulo rectángulo alrededor de uno de sus catetos. El cilindro tiene dos bases circulares (no termina en vértice). La esfera no tiene bases ni vértices. El tronco de cono tiene dos bases de distinto tamaño."
+    },
+    {
+      "question": "¿Qué relación establecen los modelos de Piaget y Van Hiele con el desarrollo del alumnado de EP?",
+      "options": [
+        "Piaget describe el desarrollo espacial por edades; Van Hiele describe el desarrollo geométrico por niveles independientes de la edad cronológica",
+        "Piaget y Van Hiele son modelos idénticos que describen los mismos estadios con nombres diferentes",
+        "Piaget se aplica solo a educación infantil; Van Hiele solo a educación secundaria",
+        "Piaget describe el desarrollo matemático general; Van Hiele describe exclusivamente el pensamiento algebraico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Piaget describe tres etapas en la construcción del espacio vinculadas al desarrollo cognitivo y aproximadamente a rangos de edad (topológica, proyectiva, euclidiana). Van Hiele describe cinco niveles de desarrollo del pensamiento geométrico que son independientes de la edad y dependen más de la instrucción y experiencia recibida. Ambos modelos son complementarios en la comprensión del desarrollo geométrico."
+    },
+    {
+      "question": "¿Cuál es el proceso que sigue un niño en EP cuando pasa de la etapa topológica a la proyectiva según Piaget?",
+      "options": [
+        "Pasa de entender relaciones básicas de posición (cerca/lejos, junto/separado) a comprender la profundidad, perspectiva y conservación de forma y tamaño según el punto de vista",
+        "Pasa de medir longitudes a medir superficies y volúmenes con instrumentos matemáticos",
+        "Pasa de reconocer figuras por apariencia global a identificar sus propiedades mediante análisis",
+        "Pasa de trabajar en el plano bidimensional a trabajar en el espacio tridimensional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa topológica, el niño comprende relaciones básicas de posición como cerca/lejos, junto/separado, delante/detrás. Al avanzar a la etapa proyectiva (desde los 4 años, afianzándose entre los 7 y 8), comienza a entender la profundidad, la perspectiva y que los objetos conservan su tamaño y forma aunque cambien de posición o ángulo de observación."
+    },
+    {
+      "question": "¿Qué implica el 'enfoque competencial' en la enseñanza de la geometría según el texto?",
+      "options": [
+        "Que el docente explique todos los conceptos geométricos antes de que el alumnado realice cualquier actividad práctica",
+        "Que la enseñanza no se centra solo en conceptos sino en desarrollar habilidades aplicables a diversas situaciones, conectando con la competencia STEM",
+        "Que se evalúe únicamente el conocimiento de definiciones y propiedades geométricas formales",
+        "Que se sustituya el trabajo manipulativo por el uso de libros de texto y ejercicios tipo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El enfoque competencial en la enseñanza de la geometría implica no centrarse solo en conceptos, sino en desarrollar habilidades aplicables a diversas situaciones. Esto se vincula con la competencia STEM (favoreciendo el pensamiento y la representación matemáticos) y con el objetivo de que el alumnado pueda aplicar sus conocimientos en contextos reales y variados."
+    },
+    {
+      "question": "¿Cuáles son los dos objetivos pedagógicos que menciona el texto al describir el 'pensamiento lógico-matemático' como fase del aprendizaje geométrico?",
+      "options": [
+        "Memorizar teoremas y aplicar algoritmos de cálculo geométrico",
+        "Promover el razonamiento y la argumentación, y generalizar los aprendizajes geométricos",
+        "Reproducir figuras con precisión y calcular áreas y volúmenes con fórmulas",
+        "Clasificar figuras por su número de lados y reconocer sus nombres correctos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, desarrollar el pensamiento lógico-matemático como fase del aprendizaje geométrico implica promover el razonamiento y la argumentación, y la generalización de los aprendizajes. Esta fase sigue a la manipulación y a la representación gráfica, preparando para la última fase de resolución de problemas."
+    },
+    {
+      "question": "¿Qué hace al 'dibujo en perspectiva intuitiva' apropiado como punto de partida en el aprendizaje de los sistemas de representación en EP?",
+      "options": [
+        "Que sigue las mismas reglas exactas del sistema cónico formal, facilitando la transición al dibujo técnico",
+        "Que reproduce cómo se perciben los objetos en la realidad sin reglas exactas, siendo el sistema más natural e intuitivo para el niño",
+        "Que muestra solo una cara del objeto, simplificando la tarea al máximo para los alumnos más jóvenes",
+        "Que requiere el uso de regla y compás desde el primer momento, desarrollando la precisión motriz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El dibujo en perspectiva intuitiva es el punto de partida porque reproduce aproximadamente cómo se perciben los objetos en la realidad sin seguir reglas exactas. Al ser el más natural para el niño, conecta con su forma espontánea de representar el mundo y sirve como base para avanzar progresivamente hacia sistemas más formalizados."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los conceptos de 'área' y 'perímetro' de un polígono?",
+      "options": [
+        "El área mide la longitud total del contorno; el perímetro mide la superficie interior",
+        "El área mide la superficie interior del polígono; el perímetro es la suma de la longitud de todos sus lados",
+        "El área se calcula multiplicando todos los lados; el perímetro es la raíz cuadrada del área",
+        "El área y el perímetro son la misma medida expresada en diferentes unidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El área mide la superficie interior de un polígono (en unidades cuadradas) y se calcula con fórmulas específicas para cada figura. El perímetro es la suma de la longitud de todos sus lados (en unidades lineales) y representa la distancia total del contorno exterior del polígono."
+    },
+    {
+      "question": "¿Cuál es la importancia pedagógica de los 'paseos geométricos' como actividad didáctica?",
+      "options": [
+        "Permiten al alumnado practicar la orientación espacial y el cálculo de distancias en el exterior",
+        "Conectan la geometría con la realidad cotidiana, identificando formas geométricas en el entorno del centro o el barrio",
+        "Sustituyen la necesidad de trabajar con materiales manipulativos en el aula",
+        "Desarrollan exclusivamente la capacidad de representar figuras geométricas mediante el dibujo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los paseos geométricos son actividades de observación del entorno que conectan la geometría con la realidad cotidiana. El alumnado identifica formas geométricas en el entorno del centro o el barrio, como cuadrados en baldosas o círculos en mesas. Esta conexión con la realidad hace más significativo el aprendizaje y motiva al alumnado."
+    },
+    {
+      "question": "¿Qué ventaja didáctica tiene el tangram frente a los bloques lógicos en el trabajo geométrico?",
+      "options": [
+        "El tangram permite clasificar figuras por su color, tamaño y forma; los bloques lógicos solo sirven para componer figuras",
+        "El tangram se usa para componer y descomponer figuras de manera flexible y creativa; los bloques lógicos se usan principalmente para clasificar e identificar figuras por sus características",
+        "El tangram trabaja figuras tridimensionales; los bloques lógicos solo trabajan figuras planas",
+        "El tangram es adecuado para alumnos de 1º y 2º; los bloques lógicos son exclusivos de 5º y 6º de EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tangram se usa principalmente para componer y descomponer figuras mediante sus piezas geométricas, fomentando la creatividad y el pensamiento espacial. Los bloques lógicos, en cambio, se usan para realizar clasificaciones, identificar figuras por sus características (color, tamaño, forma, grosor) o comparar áreas. Cada recurso tiene su función específica."
+    },
+    {
+      "question": "¿Cuál es la característica que hace al hexágono especialmente relevante en el entorno natural, según el ejemplo del texto?",
+      "options": [
+        "Su capacidad para dividirse en triángulos equiláteros, lo que lo hace visualmente atractivo",
+        "Su presencia en los panales de miel, donde las abejas lo usan para maximizar el almacenamiento usando el mínimo de material",
+        "Su propiedad de tener todos los ángulos de 120º, igual que el triángulo equilátero ampliado",
+        "Su uso en las ruedas de los vehículos por su forma aproximadamente circular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El hexágono regular aparece en los panales de miel de las abejas, ejemplo mencionado en el texto. Los hexágonos regulares pueden cubrir completamente una superficie plana sin dejar huecos (son uno de los tres polígonos regulares que permiten teselación completa), y ofrecen la mayor capacidad de almacenamiento con el mínimo de material."
+    },
+    {
+      "question": "¿Qué significa que un polígono sea 'convexo' y cuál es la diferencia práctica con uno 'cóncavo'?",
+      "options": [
+        "Convexo significa que tiene todos los lados iguales; cóncavo significa que tiene ángulos distintos",
+        "Convexo significa que todos sus ángulos son menores de 180º y cualquier segmento entre dos puntos interiores queda dentro de la figura; cóncavo tiene al menos un ángulo mayor de 180º y algunos segmentos entre puntos interiores pueden salir fuera",
+        "Convexo significa que la figura es regular; cóncavo significa que la figura es irregular",
+        "Convexo significa que la figura tiene más ángulos que lados; cóncavo significa que tiene igual número de ángulos y lados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un polígono convexo tiene todos sus ángulos menores de 180º, y cualquier segmento que une dos puntos interiores queda completamente dentro de la figura. Un polígono cóncavo tiene al menos un ángulo interior mayor de 180º (ángulo entrante), lo que provoca que algún segmento entre puntos interiores pueda salir fuera de la figura."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la 'etapa de propiedades topológicas' en Piaget y la educación geométrica que trabaja el sistema euclidiano?",
+      "options": [
+        "La topología trabaja con medidas exactas de longitud y ángulo; el sistema euclidiano trabaja con relaciones cualitativas de posición",
+        "La etapa topológica trabaja relaciones cualitativas de posición sin medición; el sistema euclidiano trabaja con medidas cuantitativas de longitudes, superficies, ángulos y volúmenes",
+        "La topología se estudia en EP; el sistema euclidiano se estudia exclusivamente en secundaria",
+        "La topología trabaja con cuerpos tridimensionales; el sistema euclidiano trabaja solo con figuras planas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La etapa topológica trabaja relaciones cualitativas de posición (cerca/lejos, junto/separado, delante/detrás) sin medición cuantitativa. El sistema euclidiano, que aparece en la última etapa piagetiana, introduce la medición cuantitativa: el niño comprende que el espacio y las figuras pueden describirse con conceptos matemáticos, midiendo longitudes, superficies, ángulos o volúmenes."
+    },
+    {
+      "question": "¿Cuál es el elemento geométrico básico que se define como 'la abertura formada por dos semirrectas con un origen común denominado vértice'?",
+      "options": [
+        "El segmento",
+        "La recta",
+        "El ángulo",
+        "El polígono"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El ángulo es la abertura formada por dos semirrectas que parten de un mismo origen denominado vértice. Los ángulos se clasifican en agudos (menos de 90º), rectos (exactamente 90º), obtusos (entre 90º y 180º), llanos (180º) y completos (360º). Es un elemento fundamental tanto en el estudio de los polígonos como en el de los poliedros."
+    },
+    {
+      "question": "¿Cuál es la relación entre el 'tronco de cono' y el 'cono'?",
+      "options": [
+        "El tronco de cono es el doble de un cono; se obtiene uniendo dos conos por su base",
+        "El tronco de cono resulta de cortar un cono con un plano paralelo a su base, eliminando la parte superior",
+        "El tronco de cono es un tipo de cilindro con bases de diferente diámetro",
+        "El tronco de cono se obtiene girar un trapecio rectángulo alrededor de su lado perpendicular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tronco de cono resulta de cortar un cono con un plano paralelo a su base, eliminando la parte que incluye el vértice. El resultado es un cuerpo con dos bases circulares paralelas de diferente tamaño, unidas por una superficie lateral curva. Es análogo al tronco de pirámide, que resulta de cortar una pirámide con un plano paralelo a su base."
+    },
+    {
+      "question": "¿Cuál de las siguientes herramientas digitales se describe como 'gratuita' en el texto?",
+      "options": [
+        "BrainingCamp, que ofrece geoplanos virtuales y sólidos 3D",
+        "Toy Theater Geometry Tools, con tangram y calculadoras de áreas",
+        "Geogebra, que permite construir figuras y realizar transformaciones",
+        "Monster Numbers, con actividades gamificadas de geometría"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto describe específicamente a Geogebra como 'una herramienta gratuita que permite construir figuras geométricas en el espacio, realizar transformaciones, giros o traslaciones y visualizar todas sus partes desde distintas perspectivas'. Es una de las herramientas digitales más utilizadas en la enseñanza de la geometría a nivel mundial."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre las 'destrezas icónicas y de representación' y las 'tareas de resolución de problemas geométricos' como estrategias para las CC?",
+      "options": [
+        "Las destrezas icónicas se trabajan solo con materiales físicos; la resolución de problemas requiere herramientas digitales",
+        "Las destrezas icónicas desarrollan la formalización de lenguajes matemáticos y gráficos para facilitar su interpretación y aplicación; la resolución de problemas aplica los conocimientos geométricos a situaciones prácticas",
+        "Las destrezas icónicas son evaluables objetivamente; la resolución de problemas no puede evaluarse con criterios claros",
+        "Las destrezas icónicas son estrategias para alumnos con dificultades; la resolución de problemas es para alumnos avanzados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las destrezas icónicas y de representación implican promover la formalización de los lenguajes matemáticos y gráficos para facilitar su interpretación y aplicación en distintos contextos. Las tareas de resolución de problemas geométricos permiten aplicar los conocimientos geométricos de forma práctica a situaciones reales o simuladas."
+    },
+    {
+      "question": "¿Qué aspecto de la enseñanza de la geometría en EP recoge el artículo 16 del Decreto 155/2022 sobre principios pedagógicos?",
+      "options": [
+        "La obligación de usar materiales digitales en todas las sesiones de geometría",
+        "La necesidad de apoyarse en metodologías activas y recursos didácticos adecuados para un aprendizaje significativo y funcional",
+        "La prohibición de usar materiales no estructurados en las clases de matemáticas",
+        "La obligación de seguir el orden establecido en los bloques del currículo sin alteración"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 16 del Decreto 155/2022, sobre principios pedagógicos, establece que la enseñanza en EP debe apoyarse en metodologías activas y el uso de recursos didácticos adecuados que favorezcan un aprendizaje significativo y funcional. Este principio es la base para las orientaciones metodológicas específicas de la geometría."
+    },
+    {
+      "question": "¿Qué papel desempeña la 'simetría de las hojas' mencionada en el texto para la enseñanza de la geometría?",
+      "options": [
+        "Es un ejemplo de geometría fractal demasiado compleja para trabajar en EP",
+        "Es un ejemplo de forma geométrica del entorno natural que ilustra la presencia de la geometría en la naturaleza",
+        "Es un ejemplo de figura asimétrica útil para enseñar la ausencia de regularidad",
+        "Es un ejemplo específico de geometría proyectiva apropiado para 6º de EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La simetría de las hojas es un ejemplo de forma geométrica del entorno natural que ilustra la presencia de la geometría en la naturaleza. El texto la menciona junto con los panales hexagonales de las abejas y las espirales de los caracoles como ejemplos del entorno natural donde las formas geométricas están presentes y pueden observarse."
+    },
+    {
+      "question": "¿Cuál es el impacto de la 'experiencia sensoriomotriz' en el desarrollo de la percepción espacial según Bishop (2017)?",
+      "options": [
+        "La experiencia sensoriomotriz es irrelevante para el desarrollo espacial, que depende exclusivamente de la instrucción formal",
+        "La experiencia sensoriomotriz es clave para la estructuración mental del espacio en los primeros años, al explorar el espacio usando el cuerpo, los sentidos y el desplazamiento",
+        "La experiencia sensoriomotriz solo influye en el desarrollo motor, no en el pensamiento espacial",
+        "La experiencia sensoriomotriz es útil hasta los 4 años y luego debe sustituirse por instrucción geométrica formal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bishop (2017) señala que la experiencia sensoriomotriz (explorar activamente el espacio usando el propio cuerpo como referencia, a través de los sentidos, la manipulación y el desplazamiento por el entorno) es clave para la estructuración mental del espacio en los primeros años. Esta experiencia forma la base sobre la que se construye el conocimiento espacial más abstracto."
+    },
+    {
+      "question": "¿Cuál de los siguientes cuerpos geométricos se relaciona correctamente con el objeto cotidiano mencionado en el texto?",
+      "options": [
+        "Esfera - lata de conservas",
+        "Cilindro - cono de helado",
+        "Cono - cono de helado",
+        "Tronco de cono - pelota de tenis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto menciona explícitamente que los cuerpos redondos permiten relacionar la geometría con objetos cotidianos como latas (cilindros), conos de helado (conos) o pelotas (esferas). El cono de helado es un ejemplo claro de cono, con su base circular y su superficie que termina en un vértice."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el Real Decreto 157/2022 es correcta según la bibliografía del Tema 24?",
+      "options": [
+        "Fue publicado el 15 de septiembre de 2022 en el Boletín Oficial de Galicia, número 183",
+        "Fue publicado el 1 de marzo de 2022 en el BOE número 52, de 2 de marzo de 2022, páginas 24386 a 24504",
+        "Fue publicado el 29 de diciembre de 2020 en el BOE número 340, páginas 122868 a 122953",
+        "Fue publicado el 26 de mayo de 2023 en el DOG número 111, páginas 36230 a 36270"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, fue publicado en el Boletín Oficial del Estado (BOE), número 52, de 2 de marzo de 2022, páginas 24386 a 24504. La LOMLOE fue publicada el 30 de diciembre de 2020 en el BOE 340. El Decreto 155/2022 fue en el DOG 183. La Orden de 2023 fue en el DOG 111."
+    },
+    {
+      "question": "¿Qué elemento diferencia a un triángulo 'isósceles' de un triángulo 'equilátero'?",
+      "options": [
+        "El isósceles tiene tres lados iguales; el equilátero tiene dos lados iguales y uno diferente",
+        "El isósceles tiene dos lados iguales y uno diferente; el equilátero tiene los tres lados iguales",
+        "El isósceles tiene un ángulo recto; el equilátero tiene tres ángulos agudos iguales de 60º",
+        "El isósceles puede ser obtusángulo; el equilátero siempre es rectángulo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El triángulo isósceles tiene dos lados iguales y uno diferente (y, por tanto, dos ángulos iguales). El triángulo equilátero tiene los tres lados iguales (y los tres ángulos iguales de 60º). El equilátero es un caso particular de isósceles donde los dos lados iguales son también iguales al tercero."
+    },
+    {
+      "question": "¿Qué tipo de triangulo tiene los tres ángulos agudos (menores de 90º) y cómo se denomina?",
+      "options": [
+        "Se denomina triángulo rectángulo porque sus tres ángulos son agudos y uno podría convertirse en recto",
+        "Se denomina triángulo obtusángulo porque sus ángulos agudos son menores que los obtusos",
+        "Se denomina triángulo acutángulo porque sus tres ángulos son agudos",
+        "Se denomina triángulo escaleno porque la suma de sus ángulos es menor de 180º"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El triángulo acutángulo es el que tiene los tres ángulos agudos (todos menores de 90º). El triángulo rectángulo tiene exactamente un ángulo recto (90º). El triángulo obtusángulo tiene un ángulo obtuso (mayor de 90º). La suma de los tres ángulos siempre es 180º en cualquier tipo de triángulo."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un elemento básico de la circunferencia según el texto?",
+      "options": [
+        "El radio (distancia de los puntos al centro)",
+        "El sector circular (parte delimitada por dos radios y el arco)",
+        "La cuerda (segmento que une dos puntos sin pasar por el centro)",
+        "El diámetro (cuerda que pasa por el centro, equivale a dos radios)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sector circular no es un elemento de la circunferencia, sino del círculo (la región del plano delimitada por la circunferencia). Los elementos propios de la circunferencia son: el centro, el radio, el diámetro, la cuerda, la recta tangente y la recta secante. El sector y el segmento circulares son partes del círculo."
+    },
+    {
+      "question": "¿Cuál es el significado del artículo 4 del Decreto 155/2022 en el contexto del Tema 24?",
+      "options": [
+        "Regula la evaluación del alumnado en la etapa de Educación Primaria",
+        "Define la finalidad de la Educación Primaria, incluyendo facilitar aprendizajes del cálculo y habilidades lógicas y matemáticas",
+        "Establece los objetivos de etapa de la Educación Primaria, entre ellos el objetivo 'g' sobre geometría",
+        "Regula la organización y distribución horaria de las áreas en Educación Primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4 del Decreto 155/2022 define la finalidad de la Educación Primaria, señalando que busca 'facilitar al alumnado los aprendizajes del cálculo y las habilidades lógicas y matemáticas a fin de garantizar una formación integral que contribuya al pleno desarrollo de su personalidad'. El artículo 7 recoge los objetivos de etapa, incluyendo el objetivo 'g' sobre geometría."
+    },
+    {
+      "question": "¿Qué tipo de razonamiento caracteriza al nivel 3 de Van Hiele (deducción formal) en comparación con el nivel 2 (deducción informal)?",
+      "options": [
+        "En el nivel 3 el razonamiento sigue apoyándose en manipulación; en el nivel 2 ya es completamente abstracto",
+        "En el nivel 3 se realizan razonamientos lógicos formales y se comprenden demostraciones de varios pasos; en el nivel 2 el razonamiento aún se apoya en manipulación y observación",
+        "En el nivel 3 se trabaja con figuras planas; en el nivel 2 se trabaja con cuerpos espaciales",
+        "En el nivel 3 y el nivel 2 el razonamiento es equivalente, solo difiere la complejidad de los problemas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El nivel 3 (deducción formal) se caracteriza porque el alumnado realiza razonamientos lógicos formales y comprende demostraciones matemáticas de varios pasos, sin necesidad de apoyarse en la manipulación. El nivel 2 (deducción informal) también permite relacionar y deducir propiedades, pero el razonamiento lógico sigue apoyándose en la manipulación y la observación."
+    },
+    {
+      "question": "¿Cuál es la función de los 'recursos manipulativos' en el aprendizaje de la geometría según la propuesta metodológica del Tema 24?",
+      "options": [
+        "Son materiales auxiliares que el docente puede usar opcionalmente si dispone de tiempo extra",
+        "Son la base del primer momento del aprendizaje, permitiendo explorar formas geométricas y descubrir propiedades mediante manipulación y experimentación",
+        "Son exclusivamente para alumnos con dificultades de aprendizaje como medida de apoyo específico",
+        "Son materiales de evaluación formativa que sustituyen a las pruebas escritas en EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los recursos manipulativos son la base de la primera fase del proceso de aprendizaje propuesto por Alsina (2012): la manipulación y experimentación con materiales concretos. Esta fase es fundamental porque permite al alumnado explorar las formas geométricas y descubrir sus propiedades de manera activa, construyendo conocimiento a partir de la experiencia directa."
+    },
+    {
+      "question": "¿Qué describe el texto como ventajas específicas de combinar geometría con 'la realidad aumentada' en EP?",
+      "options": [
+        "Permite realizar exámenes y evaluaciones de forma más objetiva y automatizada",
+        "Permite al alumnado interactuar con los objetos geométricos de manera dinámica e inmersiva",
+        "Facilita la memorización de las propiedades y definiciones geométricas más rápidamente",
+        "Sustituye completamente la necesidad de trabajar con materiales físicos en el aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, la realidad aumentada (junto con las pizarras digitales) permite al alumnado interactuar con los objetos geométricos de manera dinámica e inmersiva. Esta característica de la realidad aumentada la convierte en una herramienta especialmente valiosa para la enseñanza de la geometría, especialmente para conceptos espaciales abstractos."
+    },
+    {
+      "question": "¿Cuál es la razón por la que Alsina insiste en el 'aprendizaje funcional' como estrategia en geometría?",
+      "options": [
+        "Porque facilita la memorización de las fórmulas de área y volumen de todas las figuras",
+        "Porque el uso de instrumentos de medida reales y alternativos favorece la capacidad de estimación, conectando la geometría con la vida práctica",
+        "Porque es la única estrategia que garantiza el cumplimiento del objetivo curricular",
+        "Porque reduce el tiempo de preparación de materiales por parte del docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje funcional como estrategia implica usar instrumentos de medida reales y alternativos (no solo reglas o metros estándar) para favorecer la capacidad de estimación del alumnado. Esto conecta la geometría con la vida práctica y desarrolla competencias aplicables en situaciones cotidianas, haciendo el aprendizaje más significativo y funcional."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el modelo de Piaget sobre el espacio es incorrecta?",
+      "options": [
+        "Piaget describió tres grandes etapas en la construcción de la percepción espacial",
+        "La etapa de propiedades topológicas es la primera en el modelo piagetiano",
+        "La etapa de propiedades proyectivas comienza sobre los 4 años y se afianza entre los 7 y los 8",
+        "En la etapa de propiedades euclídeas los niños comprenden únicamente relaciones de proximidad y separación entre objetos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La afirmación incorrecta es la última: las relaciones de proximidad y separación entre objetos (cerca/lejos, junto/separado) corresponden a la primera etapa, la de propiedades topológicas, no a la euclidiana. En la etapa de propiedades euclídeas, el niño comprende que el espacio puede describirse con conceptos matemáticos, midiendo longitudes, superficies, ángulos o volúmenes."
+    },
+    {
+      "question": "¿Qué implica que los alumnos de EP se sitúen entre los niveles 0 y 1 de Van Hiele 'con algún alumno en 5º o 6º en nivel 2'?",
+      "options": [
+        "Que la enseñanza en EP debe centrarse exclusivamente en el nivel 0 y nunca ir más allá",
+        "Que la mayoría de los alumnos de EP reconocen figuras y analizan sus propiedades básicas, pero solo algunos avanzados pueden relacionar propiedades y realizar deducciones simples",
+        "Que los alumnos de EP son incapaces de cualquier razonamiento geométrico formal",
+        "Que el nivel 2 es el objetivo mínimo para todos los alumnos al finalizar 6º de EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Que la mayoría del alumnado de EP se sitúe en los niveles 0-1 significa que pueden reconocer figuras por apariencia (nivel 0) e identificar partes y características mediante análisis (nivel 1). Algunos alumnos de 5º o 6º pueden alcanzar el nivel 2 (deducción informal), relacionando propiedades y realizando deducciones simples. Esto orienta la instrucción hacia estos niveles."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una razón por la que la enseñanza de la geometría debe 'ir más allá de la memorización' según la conclusión del Tema 24?",
+      "options": [
+        "Porque la memorización no es evaluable con los instrumentos de evaluación actuales",
+        "Porque el objetivo es dar herramientas para entender figuras, propiedades y representaciones para comprender el mundo y resolver problemas, no solo reproducir definiciones",
+        "Porque los alumnos de EP tienen limitaciones cognitivas que les impiden memorizar contenidos geométricos",
+        "Porque el currículo no contempla la memorización como objetivo de aprendizaje en ningún área"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La conclusión del Tema 24 establece que la enseñanza de la geometría debe ir más allá de la memorización de conceptos o el mero reconocimiento visual porque el verdadero objetivo es dar las herramientas necesarias para entender todo tipo de figuras, sus propiedades y su representación, con el fin de comprender el mundo que les rodea y resolver problemas."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es uno de los cuatro componentes de la percepción espacial según el texto?",
+      "options": [
+        "La noción espacial",
+        "La lateralidad espacial",
+        "La localización espacial",
+        "La ordenación espacial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los cuatro componentes de la percepción espacial mencionados en el texto son: noción espacial, localización espacial, espacialidad general y ordenación espacial. La lateralidad espacial no es uno de estos cuatro componentes, aunque sí se menciona en el texto como una habilidad que se consolida alrededor de los 6-7 años y facilita la localización espacial."
+    },
+    {
+      "question": "¿Cuál es la contribución del juego al aprendizaje geométrico según Alsina (2004) y en qué se diferencia de otras metodologías?",
+      "options": [
+        "El juego forma parte de la evaluación sumativa y determina la calificación del alumnado en geometría",
+        "El juego forma parte de la vida real del niño, es motivador, integra conocimientos y actitudes, permite afrontar el contenido sin miedo al error, respeta la diversidad y favorece la socialización, siendo así más completo que metodologías de instrucción directa",
+        "El juego es únicamente una actividad de introducción motivadora antes de la instrucción directa formal",
+        "El juego solo puede usarse con alumnos de los primeros cursos de EP, no con los más mayores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Alsina (2004), el aprendizaje basado en el juego tiene gran acogida porque forma parte de la vida real del niño, es motivador, integra conocimientos, habilidades y actitudes, permite afrontar el contenido sin miedo al error, respeta la diversidad y favorece la socialización. Estas características hacen del juego una metodología más completa e integradora que la instrucción directa."
+    },
+    {
+      "question": "¿Cuál es la función didáctica específica de BrainingCamp como recurso digital para la geometría en EP?",
+      "options": [
+        "Construir figuras geométricas en el espacio y realizar transformaciones como giros y traslaciones",
+        "Explorar formas geométricas, trabajar la simetría y visualizar relaciones espaciales mediante geoplanos virtuales, bloques geométricos, mosaicos y sólidos en 3D",
+        "Ofrecer actividades gamificadas con personajes y niveles de dificultad progresivos",
+        "Proporcionar calculadoras de perímetros y áreas con tangram y mosaicos virtuales adaptados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "BrainingCamp permite explorar formas geométricas, trabajar la simetría y visualizar relaciones espaciales, mediante geoplanos virtuales, bloques geométricos, mosaicos y sólidos en 3D. Geogebra se centra en construir y transformar figuras; las apps gamificadas son Didactoons, Monster Numbers y MathLand; Toy Theater ofrece tangram, mosaicos y calculadoras."
+    },
+    {
+      "question": "¿Cuál es la posición del 'punto' como elemento geométrico básico en relación con los demás elementos que se presentan en el texto?",
+      "options": [
+        "El punto es el elemento más complejo; los demás elementos (recta, segmento, plano) son simplificaciones del punto",
+        "El punto es el elemento más fundamental y básico a partir del cual se construyen los demás elementos geométricos (recta, segmento, plano, ángulo)",
+        "El punto tiene las mismas propiedades que el segmento, pero con longitud infinitamente pequeña",
+        "El punto pertenece solo al espacio tridimensional; los demás elementos pueden ser bidimensionales o tridimensionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto es el elemento más fundamental de la geometría: indica una posición en el espacio sin extensión ni dimensión. A partir del punto se construyen los demás elementos: la recta (conjunto infinito de puntos alineados), el segmento (porción de recta entre dos puntos), el ángulo (formado por semirrectas que parten de un punto), y el plano (determinado por puntos)."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el 'aprendizaje significativo' en geometría es correcta según el texto?",
+      "options": [
+        "El aprendizaje significativo en geometría se consigue memorizando todas las definiciones y fórmulas antes de cualquier actividad práctica",
+        "El aprendizaje significativo en geometría se logra basándose en la manipulación, exploración y conexión con la realidad cotidiana, más allá de la memorización de definiciones",
+        "El aprendizaje significativo en geometría requiere exclusivamente el uso de herramientas digitales modernas",
+        "El aprendizaje significativo en geometría es igual al aprendizaje significativo en cualquier otra área, sin características específicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, la enseñanza de la geometría debe basarse en la manipulación, exploración y conexión con la realidad cotidiana para lograr un aprendizaje significativo y funcional, favoreciendo la comprensión del espacio y sus relaciones más allá de la mera memorización de definiciones. Este enfoque es lo que Alsina (2004) denomina aprendizaje manipulativo y activo."
+    }
+  ]
+}

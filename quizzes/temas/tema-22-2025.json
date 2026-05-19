@@ -1,0 +1,1966 @@
+{
+  "title": "Tema 22. El aprendizaje de los números y el cálculo numérico",
+  "description": "Preguntas de nivel avanzado sobre números naturales, enteros, fraccionarios y decimales, sistemas de numeración, relaciones entre números, procedimientos de cálculo e intervención educativa en Educación Primaria.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según Gómez (1993), ¿cuántos usos de los números se distinguen como mínimo?",
+      "options": [
+        "Cuatro usos: contar, numerar, ordenar y medir",
+        "Cinco usos: contar cantidades, numerar y ordenar, medir magnitudes, operar y ordenar estableciendo posiciones",
+        "Tres usos: contar, medir y operar",
+        "Seis usos: contar, numerar, ordenar, medir, operar y representar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gómez (1993) destaca al menos cinco usos de los números: contar cantidades, numerar y ordenar elementos dentro de una serie, medir magnitudes, operar y ordenar estableciendo posiciones en secuencias. Las otras opciones modifican incorrectamente el número o la naturaleza de dichos usos."
+    },
+    {
+      "question": "El Decreto 155/2022, en su artículo 4, define la finalidad de la Educación Primaria en relación con las matemáticas como:",
+      "options": [
+        "Desarrollar la competencia digital y matemática para afrontar los retos del siglo XXI",
+        "Facilitar al alumnado los aprendizajes del cálculo y las habilidades lógicas y matemáticas a fin de garantizar una formación integral",
+        "Garantizar el dominio de las cuatro operaciones básicas antes de finalizar la etapa",
+        "Iniciar al alumnado en el pensamiento algebraico y la resolución de problemas complejos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece como finalidad de la EP 'facilitar al alumnado los aprendizajes del cálculo y las habilidades lógicas y matemáticas a fin de garantizar una formación integral que contribuya al pleno desarrollo de su personalidad'. Las otras opciones, aunque relacionadas con la educación matemática, no recogen textualmente este artículo."
+    },
+    {
+      "question": "¿En qué bloque de contenidos del Decreto 155/2022 se articulan principalmente los contenidos de numeración y cálculo?",
+      "options": [
+        "Bloque 2: Sentido de la medida",
+        "Bloque 3: Sentido espacial",
+        "Bloque 1: Sentido numérico",
+        "Bloque 4: Sentido algebraico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los contenidos de numeración y cálculo se articulan principalmente en el Bloque 1 'Sentido Numérico' del Decreto 155/2022. Este bloque aborda de manera específica la comprensión y el uso flexible de los números y las operaciones, proyectándose transversalmente sobre los cinco bloques restantes del área."
+    },
+    {
+      "question": "Según Gelman y Gallistel (1978), ¿cuál de los siguientes NO es uno de los cinco principios fundamentales del aprendizaje del conteo?",
+      "options": [
+        "El principio de correspondencia biunívoca",
+        "El principio de cardinalidad",
+        "El principio de reversibilidad",
+        "El principio de orden indiferente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los cinco principios de Gelman y Gallistel (1978) son: correspondencia biunívoca, orden estable, cardinalidad, abstracción y orden indiferente. La reversibilidad no es uno de estos principios; es un concepto piagetiano relacionado con el desarrollo cognitivo y el aprendizaje de las operaciones aritméticas."
+    },
+    {
+      "question": "Según Piaget, ¿qué tres nociones previas debe haber adquirido el alumnado para elaborar adecuadamente el concepto de número?",
+      "options": [
+        "Clasificación, seriación y conservación",
+        "Conservación, seriación e inclusión de clases",
+        "Cardinalidad, ordinalidad y abstracción",
+        "Seriación, abstracción y correspondencia biunívoca"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Desde la perspectiva de Piaget, una elaboración adecuada del número exige haber adquirido tres nociones previas durante el periodo de operaciones concretas: la conservación, la seriación y la inclusión de clases. Estas se diferencian de los principios del conteo de Gelman y Gallistel, con los que no deben confundirse."
+    },
+    {
+      "question": "¿Cómo define Godino et al. (2004) el concepto de número?",
+      "options": [
+        "Un símbolo convencional que representa una cantidad discreta",
+        "Una abstracción compleja que indica una cantidad referida a la unidad",
+        "Un conjunto de reglas posicionales que permite representar magnitudes",
+        "Una herramienta cognitiva para establecer relaciones de orden entre objetos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Godino et al. (2004) destaca que el concepto de número es 'una abstracción compleja que indica una cantidad referida a la unidad', construida a partir de diversas experiencias de exploración e indagación. Las otras definiciones, aunque parcialmente correctas, no recogen la definición precisa de estos autores."
+    },
+    {
+      "question": "El principio de cardinalidad en el aprendizaje del conteo implica que:",
+      "options": [
+        "Cada objeto de un conjunto se cuenta una vez y solo una vez",
+        "El último número pronunciado al contar representa la cantidad total del conjunto",
+        "El resultado del conteo es el mismo independientemente del orden en que se cuenten los elementos",
+        "Los números siguen un orden fijo e invariable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de cardinalidad establece que el último número pronunciado al contar un conjunto representa la cantidad total de ese conjunto. No debe confundirse con la correspondencia biunívoca (contar cada objeto una vez), el orden indiferente (resultado igual independientemente del orden) ni el orden estable (los números siguen un orden fijo)."
+    },
+    {
+      "question": "En relación con los números fraccionarios, ¿cómo se clasifican las fracciones impropias?",
+      "options": [
+        "Aquellas en que el numerador es menor que el denominador y el valor es inferior a la unidad",
+        "Aquellas en que el denominador es menor o igual que el numerador y el valor es igual o superior a la unidad",
+        "Aquellas en que numerador y denominador son iguales y el valor es exactamente la unidad",
+        "Aquellas en que el numerador es múltiplo del denominador y permiten representar números enteros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las fracciones impropias son aquellas en que el denominador es menor o igual que el numerador, siendo su valor igual o superior a la unidad (por ejemplo, 5/4). Las fracciones propias, en cambio, tienen el denominador mayor que el numerador y su valor es menor que la unidad."
+    },
+    {
+      "question": "¿Cuáles son los tres elementos clave que caracterizan un sistema de numeración?",
+      "options": [
+        "Base, valor posicional y representación gráfica",
+        "Base, cifras o dígitos, y principios y reglas",
+        "Unidad, decena y centena como agrupaciones básicas",
+        "Símbolos, algoritmos y operaciones definidas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un sistema de numeración se caracteriza por tres elementos clave: la base (número de símbolos utilizados), las cifras o dígitos (combinaciones que forman los números) y los principios y reglas (que definen cómo se estructuran los números). En el sistema decimal, la base es 10 y el principio más importante es el de posición."
+    },
+    {
+      "question": "El principio de agrupamiento en el sistema decimal establece que:",
+      "options": [
+        "Cada cifra tiene un valor distinto según su posición en el número",
+        "Cada unidad de un orden equivale a 10 unidades del orden inferior",
+        "Los símbolos utilizados son los dígitos del 0 al 9",
+        "La base del sistema es el número 10 y permite representar infinitas cantidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de agrupamiento establece que cada unidad de un orden equivale a 10 unidades del orden inferior. Esto es distinto del principio de posición, según el cual el valor de cada cifra depende de su ubicación. Ambos principios son fundamentales en el sistema posicional decimal."
+    },
+    {
+      "question": "Desde la perspectiva semiótica o didáctica, ¿qué acción matemática representa la división?",
+      "options": [
+        "Repetir o contar una cantidad a saltos iguales",
+        "Perder, quitar o separar cantidades",
+        "Repartir equitativamente, fraccionar o distribuir",
+        "Reunir, agregar o juntar cantidades"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Desde la perspectiva semiótica o didáctica, la división representa acciones de repartir equitativamente, fraccionar o distribuir. La suma se asocia a reunir/agregar, la resta a perder/quitar/separar y la multiplicación a repetir o contar a saltos iguales. Identificar estas perspectivas es clave en la enseñanza de operaciones."
+    },
+    {
+      "question": "¿Cuáles son las tres propiedades esenciales de un algoritmo matemático?",
+      "options": [
+        "Eficacia, generalidad y brevedad",
+        "Claridad, eficacia y universalidad",
+        "Precisión, sistematicidad y aplicabilidad",
+        "Fiabilidad, rapidez y reversibilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un algoritmo presenta tres propiedades esenciales: claridad, eficacia y universalidad. Estas propiedades lo convierten en un proceso mecánico, resuelto en un número finito de pasos aplicados siempre de la misma manera. Las otras combinaciones no corresponden a las propiedades definidas en el tema."
+    },
+    {
+      "question": "Gómez (1998) distingue dos tipos de cálculo mental. ¿Cuáles son?",
+      "options": [
+        "Cálculo exacto y cálculo aproximado",
+        "Cálculo estímulo-respuesta y cálculo pensado",
+        "Cálculo memorístico y cálculo estratégico",
+        "Cálculo automático y cálculo reflexivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gómez (1998) distingue dos tipos de cálculo mental: el de estímulo-respuesta, basado en respuestas rápidas a través de operaciones memorizadas, y el cálculo pensado, que implica seleccionar y aplicar estrategias mentales deliberadamente. Las otras denominaciones no corresponden a la clasificación de este autor."
+    },
+    {
+      "question": "¿Cómo se define la estimación en el contexto del cálculo numérico?",
+      "options": [
+        "Un cálculo mental rápido basado en hechos numéricos memorizados",
+        "Un cálculo aproximado suficientemente fiable que se usa cuando no se precisa un resultado exacto",
+        "Un procedimiento algorítmico que obtiene resultados redondeados",
+        "Una estrategia de comprobación posterior al cálculo escrito"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La estimación es un cálculo aproximado suficientemente fiable que se usa cuando no se precisa un resultado exacto. Se emplea habitualmente con cantidades grandes y se basa en el redondeo de números. Tiene utilidad social y sirve como mecanismo para detectar errores en algoritmos tradicionales."
+    },
+    {
+      "question": "Según Ortiz y Ortega (2009), los hechos numéricos multiplicativos incluyen:",
+      "options": [
+        "Sumar con dobles y aplicar la propiedad conmutativa en la suma",
+        "Las tablas de multiplicar, multiplicar por potencias de 10 y hallar dobles",
+        "El conteo en saltos iguales y las parejas de números complementarios",
+        "Las fracciones decimales y los porcentajes más frecuentes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ortiz y Ortega (2009) dividen los hechos numéricos en grupos aditivos (conteo en saltos, dobles en suma, propiedad conmutativa, elemento neutro en suma) y grupos multiplicativos, que incluyen las tablas de multiplicar, multiplicar por potencias de 10, aplicar la propiedad conmutativa y hallar y utilizar dobles."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se recoge el objetivo de etapa 'g' relacionado con las matemáticas?",
+      "options": [
+        "Artículo 4",
+        "Artículo 6",
+        "Artículo 7",
+        "Artículo 9"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El objetivo de etapa 'g' —'Desarrollar las competencias matemáticas básicas iniciándose en la resolución de problemas que requieran operaciones elementales de cálculo...'— se recoge en el artículo 7 del Decreto 155/2022. El artículo 4 define la finalidad de la EP y el artículo 6 establece orientaciones pedagógicas."
+    },
+    {
+      "question": "La 'alfabetización numérica' se define en el tema como:",
+      "options": [
+        "El dominio de los algoritmos escritos de las cuatro operaciones básicas",
+        "La capacidad para utilizar, relacionar, interpretar y aplicar números y operaciones en situaciones cotidianas de forma eficaz",
+        "El conocimiento del sistema de numeración decimal y sus principios fundamentales",
+        "La habilidad para resolver problemas matemáticos en contextos escolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La alfabetización numérica se entiende como la capacidad para utilizar, relacionar, interpretar y aplicar números y operaciones en situaciones cotidianas de forma eficaz. Esta definición va más allá del mero dominio de algoritmos o del sistema de numeración, abarcando una competencia funcional y aplicada."
+    },
+    {
+      "question": "¿Cuál es la distinción entre fracción propia e impropia en relación con el valor resultante?",
+      "options": [
+        "La fracción propia tiene valor mayor que la unidad; la impropia, menor",
+        "La fracción propia tiene valor menor que la unidad; la impropia, igual o mayor",
+        "Ambas pueden tener cualquier valor según el contexto de aplicación",
+        "La fracción propia es equivalente a un número entero; la impropia no"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En las fracciones propias el denominador es mayor que el numerador y el resultado es menor que la unidad. En las fracciones impropias, el denominador es menor o igual que el numerador y el valor es igual o superior a la unidad. Esta distinción es fundamental para comprender las fracciones en Educación Primaria."
+    },
+    {
+      "question": "¿Qué orden de resolución específico diferencia a la división de las demás operaciones escritas básicas?",
+      "options": [
+        "La división se resuelve de arriba a abajo, mientras las demás de abajo a arriba",
+        "La división se resuelve de derecha a izquierda, igual que la suma y la resta",
+        "La división se resuelve de izquierda a derecha, mientras las otras se realizan de derecha a izquierda",
+        "La división no tiene un orden específico de resolución a diferencia del resto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el cálculo escrito, las operaciones se resuelven generalmente de derecha a izquierda, salvo la división, que se resuelve de izquierda a derecha. Esta diferencia es esencial para enseñar correctamente los algoritmos escritos en Educación Primaria."
+    },
+    {
+      "question": "¿Cuáles son las cuatro perspectivas desde las que puede abordarse el número según el tema?",
+      "options": [
+        "Formal, operacional, semántico y sintáctica",
+        "Conceptual, procedimental, actitudinal y metacognitivo",
+        "Abstracto, concreto, representacional y simbólico",
+        "Matemático, didáctico, psicológico y social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El número puede abordarse desde cuatro aspectos: el formal (concepto, estructuras y propiedades), el operacional (algoritmos y operaciones), el semántico (utilidad y aplicación) y el sintáctico (representación y comunicación). Estas perspectivas deben trabajarse de manera integrada en el aula."
+    },
+    {
+      "question": "Según el Decreto 155/2022, el objetivo OBJ1 del área de matemáticas se relaciona directamente con:",
+      "options": [
+        "Desarrollar el pensamiento lógico mediante la resolución de problemas",
+        "Interpretar situaciones de la vida cotidiana proporcionando una representación matemática",
+        "Adquirir las competencias matemáticas básicas necesarias para la etapa secundaria",
+        "Utilizar instrumentos de medida y estimación en contextos reales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El OBJ1 del área de matemáticas, recogido en el epígrafe 9 del Anexo II del Decreto 155/2022, establece: 'Interpretar situaciones de la vida cotidiana proporcionando una representación matemática a través de conceptos, herramientas y estrategias para analizar información'. Es el objetivo más directamente relacionado con números y cálculo."
+    },
+    {
+      "question": "¿Cuántos bloques de contenidos estructuran el área de matemáticas en el Decreto 155/2022?",
+      "options": [
+        "Cuatro bloques",
+        "Cinco bloques",
+        "Seis bloques",
+        "Ocho bloques"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El área de matemáticas se estructura en 6 bloques de contenidos en el Decreto 155/2022. El Bloque 1 es el de Sentido Numérico, que aborda la comprensión y uso flexible de los números y las operaciones, siendo el más directamente relacionado con los contenidos de numeración y cálculo."
+    },
+    {
+      "question": "¿Qué diferencia el cálculo exacto del cálculo estimado según la clasificación del tema?",
+      "options": [
+        "El cálculo exacto usa algoritmos escritos; el estimado se basa exclusivamente en cálculo mental",
+        "El cálculo exacto busca un resultado preciso; el estimado es aproximado y suficientemente fiable",
+        "El cálculo exacto es más rápido; el estimado requiere mayor reflexión y tiempo",
+        "El cálculo exacto se realiza con calculadora; el estimado emplea materiales manipulativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Atendiendo al tipo de resultado, el cálculo puede ser exacto (busca un resultado preciso) o estimado/aproximado (suficientemente fiable para situaciones donde no se precisa exactitud). Esta clasificación es independiente del soporte o procedimiento utilizado (escrito, mental, calculadora)."
+    },
+    {
+      "question": "¿Qué normativa autonómica establece el currículo de Educación Primaria en la Comunidad Autónoma de Galicia?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Real Decreto 157/2022, de 1 de marzo",
+        "Ley Orgánica 3/2020, de 29 de diciembre",
+        "Orden de 26 de mayo de 2023"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, es la normativa autonómica que establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Galicia. El Real Decreto 157/2022 es la normativa estatal, y la LOMLOE (LO 3/2020) es la ley orgánica básica."
+    },
+    {
+      "question": "La multiplicación puede interpretarse como una adición reiterada. Por ejemplo, 6 × 4 equivale a:",
+      "options": [
+        "4 + 4 + 4 + 4 + 4 + 4 (seis veces el 4)",
+        "6 + 6 + 6 + 6 (cuatro veces el 6)",
+        "Ambas interpretaciones son válidas y equivalentes",
+        "La interpretación depende del contexto semántico del problema"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, 6 × 4 = 6 + 6 + 6 + 6, es decir, se suma el primer factor (6) tantas veces como indica el segundo (4). Aunque matemáticamente 6 × 4 = 4 × 6, la interpretación específica del tema presenta la multiplicación como adición reiterada del primer factor."
+    },
+    {
+      "question": "¿Qué propiedades se trabajan principalmente en la multiplicación en Educación Primaria?",
+      "options": [
+        "Conmutativa, asociativa y de elemento neutro",
+        "Conmutativa, asociativa, distributiva del producto respecto de la suma y de elemento neutro",
+        "Conmutativa, distributiva y de elemento absorbente",
+        "Asociativa, distributiva y de elemento neutro e inverso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la multiplicación se priorizan las propiedades conmutativa, asociativa, distributiva de producto respecto de la suma y de elemento neutro. En la suma se trabajan también las propiedades conmutativa, asociativa, distributiva y de elemento neutro. El elemento absorbente e inverso no forman parte de las propiedades trabajadas en esta etapa."
+    },
+    {
+      "question": "¿Qué tipo de cálculo se reserva para situaciones específicas en las que el volumen de datos o la complejidad así lo justifiquen, según la planificación curricular en EP?",
+      "options": [
+        "El cálculo mental",
+        "La estimación",
+        "El cálculo con calculadora",
+        "Los algoritmos escritos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En Educación Primaria se priorizará el cálculo mental y los algoritmos escritos, reservando la calculadora para situaciones específicas en que el volumen de datos o la complejidad del problema así lo justifiquen. Esto sigue el planteamiento de Godino et al. (2004), que defiende que la herramienta debe emplearse para dar más importancia a la comprensión del procedimiento que al resultado."
+    },
+    {
+      "question": "¿Qué proceso es descrito como 'el proceso clave en la adquisición del pensamiento numérico'?",
+      "options": [
+        "La cardinalidad",
+        "La seriación",
+        "El conteo",
+        "La abstracción"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El conteo —proceso de asignar un número a cada elemento de una colección para determinar cuántos hay en total— es descrito como el proceso clave en la adquisición del pensamiento numérico. El desarrollo del concepto de número está estrechamente vinculado a este proceso."
+    },
+    {
+      "question": "Los números decimales presentan dos partes separadas por una coma. ¿En qué orden aparecen las fracciones de la unidad en la parte decimal?",
+      "options": [
+        "Milésimas, centésimas y décimas (en orden creciente)",
+        "Décimas, centésimas y milésimas (en orden decreciente)",
+        "Centésimas, décimas y milésimas (sin orden específico)",
+        "Décimas y centésimas exclusivamente, sin incluir milésimas en EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En los números decimales, los dígitos de la parte decimal indican fracciones de la unidad en orden decreciente: décimas, centésimas y milésimas. La parte entera precede a la coma y la parte decimal la sigue, representando divisiones cada vez más pequeñas de la unidad."
+    },
+    {
+      "question": "¿Cuál es la diferencia fundamental entre el conjunto de los números naturales (N) y el de los enteros (Z)?",
+      "options": [
+        "Los enteros incluyen los números fraccionarios además de los naturales",
+        "Los enteros incorporan los valores negativos al conjunto de los naturales",
+        "Los enteros solo incluyen los números negativos, excluyendo el cero",
+        "Los enteros permiten representar magnitudes continuas a diferencia de los naturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los números enteros (Z) amplían el conjunto de los naturales (N) incorporando los valores negativos. Mantienen las propiedades y operaciones de los números naturales y permiten representar magnitudes como temperaturas bajo cero o plantas subterráneas. Los números fraccionarios forman el conjunto Q, no Z."
+    },
+    {
+      "question": "Según Castro et al. (1985), ¿para qué surgió la aritmética junto con los primeros sistemas de numeración?",
+      "options": [
+        "Para desarrollar el pensamiento abstracto y la lógica formal",
+        "Para cubrir necesidades de recuento y operaciones, expresando simbólicamente características del mundo real",
+        "Para facilitar el intercambio comercial entre civilizaciones antiguas",
+        "Para sistematizar el conocimiento matemático y transmitirlo a generaciones futuras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Castro et al. (1985) señalan que la aritmética surgió junto con los primeros sistemas de numeración para cubrir necesidades de recuento y operaciones, permitiendo expresar simbólicamente características del mundo real como las cantidades, el orden y la medida. La aritmética tiene, por tanto, un origen eminentemente práctico."
+    },
+    {
+      "question": "¿Cuáles son las dos habilidades cognitivas que requiere el aprendizaje de las operaciones numéricas básicas, según el texto?",
+      "options": [
+        "El pensamiento abstracto y la memoria a largo plazo",
+        "El desarrollo de la función simbólica y la reversibilidad del pensamiento",
+        "La capacidad de seriación y la conservación de la cantidad",
+        "La abstracción y la representación mental de cantidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje de las operaciones numéricas básicas requiere el desarrollo de la función simbólica y la reversibilidad del pensamiento, aspectos que se consolidan en los primeros cursos de EP, durante el periodo de operaciones concretas descrito por Piaget."
+    },
+    {
+      "question": "¿Qué describe el principio de conservación en el marco piagetiano aplicado al número?",
+      "options": [
+        "La capacidad de ordenar elementos según un criterio establecido",
+        "La certeza de que todo está compuesto por un conjunto de partes que pueden distribuirse como se desee",
+        "La habilidad para distinguir las partes dentro de un todo",
+        "El reconocimiento de que el conteo produce el mismo resultado independientemente del orden"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La conservación, en el marco piagetiano, es la certeza de que todo está compuesto por un conjunto de partes que pueden distribuirse como se desee. La seriación es la capacidad de ordenar según un criterio y la inclusión de clases es distinguir las partes dentro de un todo (base de la adición y sustracción)."
+    },
+    {
+      "question": "¿Qué tipo de materiales son los 'bloques multibase' en la clasificación de recursos manipulativos para la numeración?",
+      "options": [
+        "Materiales de agrupación no estructurada",
+        "Materiales estructurados con divisiones divisibles",
+        "Materiales estructurados sin divisiones pero con diferencias apreciables por tamaño",
+        "Materiales sin divisiones ni diferencias apreciables"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los bloques multibase (también llamados Montessori) son materiales estructurados con divisiones divisibles. Las regletas Cuisenaire son materiales sin divisiones pero con diferencias apreciables en la representación por tamaño o color. Las fichas de colores son materiales sin divisiones ni diferencias apreciables pero que sirven para clasificar o contar."
+    },
+    {
+      "question": "¿Cuál es la secuencia de tres etapas para abordar la representación numérica en el aula, según el tema?",
+      "options": [
+        "Abstracta, semiabstracta y concreta",
+        "Concreta, expandida y convencional",
+        "Manipulativa, icónica y simbólica",
+        "Vivencial, representacional y formal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La representación numérica requiere abordar una secuencia de tres etapas: concreta (con objetos reales), expandida (con notación de centenas, decenas y unidades) y convencional (escritura numérica estándar). Esta secuencia específica difiere de la secuencia enattiva-icónica-simbólica de Bruner, aunque ambas comparten el principio de partir de lo concreto."
+    },
+    {
+      "question": "¿Qué es la 'conservación' en la teoría piagetiana aplicada al aprendizaje del número?",
+      "options": [
+        "La capacidad de mantener en la memoria la secuencia numérica aprendida",
+        "La certeza de que una cantidad permanece invariable aunque cambie su disposición espacial",
+        "El principio por el que el último número contado representa la cantidad total",
+        "La habilidad de clasificar objetos en subconjuntos según sus propiedades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La conservación piagetiana —aplicada al número— es la comprensión de que una cantidad permanece invariable aunque cambie su disposición espacial (por ejemplo, si se redistribuyen los elementos de una colección). Es una de las tres nociones previas que Piaget considera necesarias para construir adecuadamente el concepto de número."
+    },
+    {
+      "question": "¿Cuáles son los dos tipos de estimación que distingue el texto?",
+      "options": [
+        "Estimación mental y estimación instrumental",
+        "Estimación en cálculo y estimación en medida",
+        "Estimación exacta y estimación aproximada",
+        "Estimación directa y estimación por comparación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto distingue dos tipos de estimación: la estimación en cálculo (referida a operaciones matemáticas) y la estimación en medida. Ambas tienen utilidad social y contribuyen a detectar errores en los procedimientos de cálculo exacto, por lo que se recomienda estimar antes de aplicar un algoritmo."
+    },
+    {
+      "question": "¿Cuál de los siguientes materiales pertenece a la categoría de 'recursos manipulativos no estructurados'?",
+      "options": [
+        "Bloques lógicos de Dienes",
+        "Regletas de Cuisenaire",
+        "Monedas y envases cotidianos",
+        "Material Montessori para fracciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los recursos manipulativos no estructurados son aquellos no pensados específicamente para educar, como objetos cotidianos: monedas, billetes, piedras, envases. Los bloques lógicos de Dienes, las regletas Cuisenaire y el material Montessori son materiales estructurados, diseñados específicamente para la enseñanza."
+    },
+    {
+      "question": "Según el artículo 6 del Decreto 155/2022, ¿cómo se definen las orientaciones pedagógicas?",
+      "options": [
+        "Directrices para la evaluación del aprendizaje matemático en contextos escolares",
+        "Indicaciones para orientar al profesorado en el diseño y planificación de estrategias con la finalidad de favorecer el aprendizaje",
+        "Recomendaciones sobre los recursos didácticos más adecuados para cada nivel",
+        "Criterios de secuenciación de los contenidos matemáticos a lo largo de la etapa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 6 del Decreto 155/2022 define las orientaciones pedagógicas como 'indicaciones para orientar al profesorado en el diseño y en la planificación de las estrategias, los procedimientos y las acciones docentes con la finalidad de favorecer el aprendizaje del alumnado para lograr los objetivos y adquirir las CC'."
+    },
+    {
+      "question": "¿Cuál es la ventaja específica de los recursos digitales y las TIC para el aprendizaje de los números, según Alsina (2004)?",
+      "options": [
+        "Permiten eliminar los materiales manipulativos físicos, simplificando la enseñanza",
+        "Garantizan resultados superiores a los métodos tradicionales en todas las edades",
+        "Permiten alcanzar los mismos objetivos que los materiales manipulativos en un entorno virtual",
+        "Facilitan la evaluación automática del progreso sin intervención docente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alsina (2004) destaca que los recursos digitales y las TIC permiten alcanzar los mismos objetivos que los materiales manipulativos, pero en un entorno virtual, con ventajas como la autonomía, la adaptación al ritmo individual y la motivación. No obstante, su uso exige cautela y son un complemento, no un sustituto."
+    },
+    {
+      "question": "¿Qué proceso de aprendizaje describe la secuencia 'vivencia, manipulación, representación y abstracción' en la enseñanza de las matemáticas?",
+      "options": [
+        "El modelo de aprendizaje cooperativo",
+        "El proceso de aprendizaje guiado",
+        "El aprendizaje basado en proyectos",
+        "La evaluación reguladora del proceso de enseñanza"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La secuencia de vivencia, manipulación, representación y abstracción corresponde al proceso de aprendizaje guiado, que se recomienda como referencia metodológica en la enseñanza de las matemáticas. Esta secuencia favorece la construcción progresiva del conocimiento, partiendo de la experiencia concreta hacia la abstracción."
+    },
+    {
+      "question": "¿Qué describe el principio de seriación en la teoría piagetiana del número?",
+      "options": [
+        "La certeza de que la cantidad de objetos no varía al cambiar su disposición",
+        "La capacidad de ordenar elementos según un criterio",
+        "La comprensión de que el conjunto incluye subconjuntos con propiedades compartidas",
+        "El reconocimiento de que los números siguen un orden fijo e invariable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La seriación es la capacidad de ordenar elementos según un criterio, y es una de las tres nociones previas que Piaget considera necesarias para construir adecuadamente el concepto de número. No debe confundirse con la conservación (invariabilidad de la cantidad) ni con la inclusión de clases (distinción de partes dentro de un todo)."
+    },
+    {
+      "question": "¿Qué ámbito de la competencia STEM se relaciona directamente con el aprendizaje de los números y el cálculo?",
+      "options": [
+        "Competencia Digital y Competencia en Ciencia",
+        "Competencia Matemática y Competencia en Ciencia, Tecnología e Ingeniería (STEM)",
+        "Competencia Lingüística y Competencia Matemática",
+        "Competencia en Ciencias Sociales y Competencia STEM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje de los números y el cálculo se orienta al desarrollo de la Competencia Matemática y Competencia en Ciencia, Tecnología e Ingeniería (STEM), que permite aplicar el razonamiento matemático para resolver problemas en diferentes contextos. Esta competencia está vinculada directamente al Bloque 1 del área de matemáticas."
+    },
+    {
+      "question": "¿Cómo puede entenderse la división desde la perspectiva semiótica, según el punto de vista semiótico presentado en el tema?",
+      "options": [
+        "Como una adición reiterada de cantidades iguales",
+        "Como una resta sucesiva hasta que no sea posible quitar más",
+        "Como la operación inversa de la suma con resultados siempre exactos",
+        "Como la distribución de una cantidad en partes proporcionales iguales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Desde el punto de vista semiótico o didáctico, la división puede entenderse como una resta sucesiva hasta que no sea posible quitar más. Del mismo modo, la multiplicación puede interpretarse como una adición reiterada de sumandos iguales. Estas interpretaciones conectan las operaciones entre sí de forma significativa."
+    },
+    {
+      "question": "¿Qué función desempeña el docente en relación con las TIC en la enseñanza de las matemáticas, según el texto?",
+      "options": [
+        "Seleccionar el software educativo más actualizado para cada contenido",
+        "Garantizar que la tecnología sustituya progresivamente a los materiales manipulativos",
+        "Decidir cuándo y cómo usarlas, proponer actividades y evaluar los avances reales",
+        "Introducir las TIC desde el primer ciclo para desarrollar la competencia digital"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el texto, el docente debe decidir cuándo y cómo usar las TIC, proponer actividades, fomentar el interés por los métodos matemáticos tradicionales y evaluar los avances reales. La tecnología es un complemento de las actividades manipulativas, nunca un sustituto, y requiere cautela en su uso."
+    },
+    {
+      "question": "¿Qué materiales se utilizan específicamente para trabajar el principio de posición en la numeración?",
+      "options": [
+        "Bloques multibase y regletas Cuisenaire",
+        "Ábacos u otros soportes que permiten visualizar el valor posicional",
+        "Monedas, billetes y objetos cotidianos agrupados de diez en diez",
+        "Fichas de colores para clasificar y contar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de posición se trabaja específicamente con ábacos u otros soportes que permiten visualizar el valor posicional de cada cifra. Los bloques multibase son más adecuados para el principio de agrupamiento, y las regletas Cuisenaire para la comprensión de relaciones numéricas y operaciones."
+    },
+    {
+      "question": "¿Cuál es la fecha de aprobación del Real Decreto que establece las enseñanzas mínimas de Educación Primaria a nivel estatal?",
+      "options": [
+        "15 de septiembre de 2022",
+        "29 de diciembre de 2020",
+        "1 de marzo de 2022",
+        "26 de mayo de 2023"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal. El Decreto 155/2022 es la norma autonómica gallega (15 de septiembre), la LOMLOE es de 29 de diciembre de 2020, y la Orden de 26 de mayo de 2023 desarrolla el decreto gallego."
+    },
+    {
+      "question": "¿Qué rol específico asume el docente según el modelo pedagógico general descrito en el tema para la enseñanza de las matemáticas?",
+      "options": [
+        "Instructor y transmisor del conocimiento matemático formal",
+        "Mediador y facilitador que promueve un entorno de exploración e interacción",
+        "Evaluador del progreso individual y corrector de errores conceptuales",
+        "Diseñador de algoritmos y secuencias de aprendizaje eficientes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En relación con el rol del profesor, el texto especifica que actúa como mediador y facilitador, seleccionando recursos variados y promoviendo un entorno de aprendizaje para la exploración, la interacción y la seguridad en la resolución de retos. Este rol contrasta con el modelo tradicional de instructor transmisor."
+    },
+    {
+      "question": "¿Cuál es la función del entorno cotidiano como recurso didáctico para el aprendizaje de los números, según el tema?",
+      "options": [
+        "Permite reemplazar los materiales estructurados en contextos con pocos recursos",
+        "Facilita el trabajo con clasificaciones, ordenaciones, seriaciones y análisis de datos a partir de contextos reales",
+        "Garantiza un aprendizaje más riguroso al conectar con las necesidades del alumnado",
+        "Sirve exclusivamente para introducir el concepto de número en los primeros cursos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El entorno (autobuses, ascensores, matrículas, portales, tickets) es un recurso valioso que permite trabajar clasificaciones, ordenaciones, seriaciones, comparaciones y análisis de datos a partir de contextos reales y motivadores. Pedir al alumnado que busque y traiga esa información al aula enriquece el aprendizaje."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una característica del cálculo mental según su definición en el tema?",
+      "options": [
+        "Es un cálculo sistemático, exacto y dependiente de algoritmos formales",
+        "Es rápido, flexible y constructivo, exigiendo comprensión de la operación",
+        "Es lento y reflexivo, basado en la verificación de resultados con herramientas",
+        "Es mecánico y memorístico, fundamentado en el recuerdo de hechos numéricos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cálculo mental es descrito como rápido, flexible y constructivo, y exige comprensión de la operación para realizar una representación mental. Se realiza mediante procesos mentales internos apoyados en hechos numéricos y habilidades como el conteo, la descomposición, la compensación o la redistribución."
+    },
+    {
+      "question": "¿Qué normativa constituye la base legal sobre la que se apoya el Decreto 155/2022 para los principios pedagógicos?",
+      "options": [
+        "El artículo 16 de la LOMLOE (LO 3/2020)",
+        "El artículo 7 del Real Decreto 157/2022",
+        "El Decreto 374/1996 sobre enseñanzas mínimas",
+        "La Orden de 26 de mayo de 2023 sobre evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 toma como base los principios pedagógicos del artículo 16 de la LOMLOE (Ley Orgánica 3/2020, de 29 de diciembre) para establecer las orientaciones metodológicas del área de matemáticas. Este artículo proporciona el marco pedagógico general sobre el que se construye el currículo gallego."
+    },
+    {
+      "question": "¿Qué describe la 'perspectiva algorítmica' de las operaciones aritméticas?",
+      "options": [
+        "El conjunto de significados ligados a acciones con cantidades para resolver problemas",
+        "La definición matemática de la operación como ley de composición interna",
+        "La concepción de las operaciones como procedimientos sistemáticos de cálculo",
+        "La relación entre las operaciones y su aplicación en la vida cotidiana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La perspectiva algorítmica concibe las operaciones como procedimientos sistemáticos de cálculo. La perspectiva matemática las define como leyes de composición interna, y la perspectiva semiótica o didáctica resalta los significados ligados a acciones con cantidades. En EP, el enfoque recae principalmente sobre las perspectivas semiótica y algorítmica."
+    },
+    {
+      "question": "¿Cuál es la definición de fracción fraccionaria (número fraccionario) que ofrece el texto?",
+      "options": [
+        "Un par ordenado de números naturales que representan cantidades discretas",
+        "Un par ordenado de números enteros representados con la expresión a/b donde b es siempre distinto de cero",
+        "Un cociente entre dos números naturales cuyo resultado es menor que la unidad",
+        "Una representación simbólica de divisiones exactas entre números enteros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los números fraccionarios se expresan como un par ordenado de números enteros representados con la expresión a/b, donde a es el numerador y b el denominador, siendo b siempre distinto de cero. Representan cualquier división, incluidas las no exactas, diferenciando fracciones propias (valor menor que 1) e impropias (valor igual o mayor que 1)."
+    },
+    {
+      "question": "¿En qué consiste el principio de 'orden indiferente' en el aprendizaje del conteo según Gelman y Gallistel?",
+      "options": [
+        "Los números pueden emplearse en cualquier orden para contar distintos tipos de objetos",
+        "El resultado del conteo es el mismo independientemente del orden en que se cuenten los elementos",
+        "Cada objeto puede contarse en cualquier momento sin afectar el resultado final",
+        "El cardinal de un conjunto no cambia aunque se modifique la disposición espacial de los elementos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de orden indiferente establece que el resultado del conteo es el mismo independientemente del orden en que se cuenten los elementos del conjunto. No debe confundirse con la abstracción (contar cualquier tipo de objeto) ni con la conservación piagetiana (invariabilidad de la cantidad al cambiar disposición)."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del aprendizaje cooperativo en la enseñanza de las matemáticas, según las orientaciones pedagógicas del Decreto 155/2022?",
+      "options": [
+        "Fomentar la competición positiva entre el alumnado para mejorar el rendimiento matemático",
+        "Resolver problemas de manera conjunta, promoviendo la inclusión, la igualdad y la convivencia",
+        "Distribuir las tareas de cálculo para reducir la carga cognitiva individual",
+        "Desarrollar habilidades comunicativas mediante la explicación de procedimientos matemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje cooperativo resulta clave para resolver problemas de manera conjunta, promoviendo la inclusión, la igualdad y la convivencia. Este enfoque no se reduce a dividir tareas o competir, sino que busca construir conocimiento colectivamente en un entorno inclusivo y respetuoso."
+    },
+    {
+      "question": "¿Cuál de los siguientes ejemplos ilustra el uso de los números enteros negativos en la vida cotidiana, según el texto?",
+      "options": [
+        "Calcular el precio de un artículo con descuento del 20%",
+        "Medir el largo de una tela en metros y centímetros",
+        "Representar temperaturas bajo cero o plantas subterráneas en un ascensor",
+        "Distribuir una cantidad de dinero entre varias personas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto menciona explícitamente como ejemplos de uso cotidiano de los números enteros negativos las temperaturas bajo cero y las plantas subterráneas en un ascensor. Los descuentos, las medidas y los repartos son contextos más propios de los números fraccionarios o decimales."
+    },
+    {
+      "question": "La 'perspectiva matemática' de las operaciones aritméticas las define como:",
+      "options": [
+        "Procedimientos sistemáticos de cálculo aplicables a cualquier conjunto numérico",
+        "Una ley de composición interna que asocia dos números de un mismo conjunto a otro número de ese conjunto",
+        "Relaciones entre cantidades que permiten modelizar situaciones de la vida real",
+        "Conjuntos de propiedades que caracterizan las relaciones entre los distintos conjuntos numéricos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Desde la perspectiva matemática, la operación aritmética es una 'ley de composición interna' que asocia dos números de un mismo conjunto a otro número de ese mismo conjunto. La perspectiva semiótica/didáctica resalta los significados y la algorítmica las concibe como procedimientos de cálculo."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones describe correctamente la relación entre el cálculo y el algoritmo según el tema?",
+      "options": [
+        "El algoritmo es el proceso práctico de calcular; el cálculo es la técnica formal utilizada",
+        "El algoritmo es la técnica o fórmula; el cálculo aritmético es el proceso práctico de aplicar las operaciones",
+        "Son conceptos equivalentes que se utilizan indistintamente en la enseñanza de las matemáticas",
+        "El algoritmo engloba al cálculo como uno de sus procedimientos posibles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El algoritmo se refiere a la técnica o fórmula (procedimiento sistemático y secuenciado), mientras que el cálculo aritmético es el proceso práctico de aplicar estas operaciones. El cálculo puede realizarse de varias formas: mediante algoritmos escritos, manipulación de objetos, material didáctico, calculadora o cálculo mental."
+    },
+    {
+      "question": "¿Qué principio del aprendizaje del conteo establece que 'cada objeto de un conjunto se cuenta una vez'?",
+      "options": [
+        "El principio de abstracción",
+        "El principio de orden estable",
+        "El principio de correspondencia biunívoca",
+        "El principio de cardinalidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El principio de correspondencia biunívoca establece que cada objeto de un conjunto se cuenta una vez y solo una vez. El principio de cardinalidad se refiere a que el último número representa la cantidad total, y el orden estable a que los números siguen un orden fijo."
+    },
+    {
+      "question": "¿En qué se diferencian las regletas Cuisenaire de los bloques multibase en relación con su estructura física?",
+      "options": [
+        "Las regletas tienen divisiones divisibles; los bloques multibase no tienen divisiones",
+        "Las regletas no tienen divisiones pero presentan diferencias apreciables por tamaño o color; los bloques tienen divisiones divisibles",
+        "Las regletas son materiales no estructurados; los bloques multibase son materiales estructurados",
+        "Las regletas trabajan el principio de posición; los bloques trabajan el principio de agrupamiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las regletas Cuisenaire son materiales sin divisiones pero con diferencias apreciables en la representación por tamaño o color de las unidades. Los bloques multibase (Montessori) son materiales con divisiones divisibles. Las fichas de colores son materiales sin divisiones ni diferencias apreciables."
+    },
+    {
+      "question": "¿Cuál es la 'utilidad social' de la estimación mencionada en el texto?",
+      "options": [
+        "Permite verificar los resultados obtenidos con algoritmos escritos antes de presentarlos",
+        "Facilita el cálculo aproximado del importe de la compra u otras situaciones cotidianas",
+        "Desarrolla la capacidad de razonamiento matemático en situaciones de incertidumbre",
+        "Proporciona un método alternativo al cálculo mental en situaciones complejas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La utilidad social de la estimación se ejemplifica en el texto con el cálculo del importe aproximado de la compra. Además, la estimación sirve como mecanismo para detectar errores en algoritmos tradicionales, por lo que se recomienda estimar antes de aplicar un cálculo exacto."
+    },
+    {
+      "question": "¿Qué término describe la capacidad para contar elementos de cualquier tipo, independientemente de su naturaleza, según Gelman y Gallistel?",
+      "options": [
+        "Orden indiferente",
+        "Cardinalidad",
+        "Abstracción",
+        "Orden estable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El principio de abstracción establece que es posible contar elementos de cualquier tipo, independientemente de su naturaleza (objetos físicos, sonidos, acciones, etc.). El principio de orden indiferente indica que el resultado es el mismo independientemente del orden, y el orden estable que los números siguen una secuencia fija."
+    },
+    {
+      "question": "¿Cuál es la Ley Orgánica que modifica la LOE y constituye el marco legal básico de este tema?",
+      "options": [
+        "Ley Orgánica 2/2006, de 3 de mayo de Educación",
+        "Ley Orgánica 3/2020, de 29 de diciembre, que modifica la LO 2/2006",
+        "Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa",
+        "Ley Orgánica 1/1990, de 3 de octubre, de Ordenación del Sistema Educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El marco legal básico del tema es la Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE), por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo de Educación. La LOMCE (LO 8/2013) fue derogada por la LOMLOE, y la LOGSE (LO 1/1990) es una norma anterior ya superada."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los 'hechos numéricos aditivos' y los 'multiplicativos', según Ortiz y Ortega (2009)?",
+      "options": [
+        "Los aditivos incluyen las tablas de multiplicar; los multiplicativos, el conteo en saltos",
+        "Los aditivos se refieren al conteo en saltos, dobles en suma y propiedad conmutativa; los multiplicativos incluyen tablas y multiplicar por potencias de 10",
+        "Los aditivos son automáticos y los multiplicativos requieren razonamiento estratégico",
+        "Los aditivos se aprenden antes que los multiplicativos en todos los niveles de EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ortiz y Ortega (2009) distinguen hechos numéricos aditivos (conteo en saltos iguales, sumar con dobles o parejas, propiedad conmutativa, elemento neutro en suma) de los multiplicativos (tablas de multiplicar, multiplicar por potencias de 10, propiedad conmutativa, dobles). La secuencia de aprendizaje puede variar según el enfoque curricular."
+    },
+    {
+      "question": "¿Qué habilidades se incluyen en el proceso del cálculo mental según la definición del texto?",
+      "options": [
+        "Memorización, automatización y recuperación de hechos numéricos",
+        "Conteo, descomposición, compensación y redistribución",
+        "Estimación, redondeo y aproximación progresiva",
+        "Algoritmos mentales, tablas de multiplicar y propiedades aritméticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cálculo mental se realiza mediante procesos mentales internos apoyados en hechos numéricos y en habilidades como el conteo, la descomposición, la compensación y la redistribución. Estas habilidades van más allá de la mera memorización y permiten que el cálculo sea flexible y constructivo."
+    },
+    {
+      "question": "¿Cuál es el enfoque que se prioriza en Educación Primaria respecto a las perspectivas de las operaciones aritméticas?",
+      "options": [
+        "La perspectiva matemática y la algorítmica",
+        "La perspectiva semiótica o didáctica y la algorítmica",
+        "La perspectiva matemática y la semiótica",
+        "Las tres perspectivas con igual importancia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la Educación Primaria, el enfoque principal recae sobre las perspectivas semiótica y algorítmica. La perspectiva semiótica resalta los significados de las operaciones ligados a acciones con cantidades, y la algorítmica las concibe como procedimientos sistemáticos de cálculo. La perspectiva matemática pura se trabaja en etapas posteriores."
+    },
+    {
+      "question": "¿Cómo se describe la evolución histórica del cálculo en el texto?",
+      "options": [
+        "Comenzó como cálculo escrito formal y evolucionó hacia el cálculo mental",
+        "Surgió como cálculo intuitivo y ha evolucionado a través de la creación de algoritmos formales",
+        "Se inició con los algoritmos de multiplicación y división antes que con la suma y la resta",
+        "Fue creado por matemáticos griegos y perfeccionado durante el Renacimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cálculo, inicialmente intuitivo, ha evolucionado a través de la creación de algoritmos formales, facilitando la resolución de problemas de forma práctica y funcional. Esta evolución histórica es coherente con la propuesta didáctica de partir de lo concreto hacia lo abstracto en la enseñanza."
+    },
+    {
+      "question": "¿Qué aspectos debe abordar la numeración en el aula según las orientaciones metodológicas específicas del tema?",
+      "options": [
+        "Campos conceptuales numéricos y representaciones numéricas",
+        "Algoritmos de cálculo y propiedades de las operaciones",
+        "Estimación de cantidades y relaciones de orden entre números",
+        "Aplicación de los números en contextos de medida y geometría"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La numeración en el aula debe abordar campos conceptuales numéricos (diferencias entre número y cantidad, cardinalidad y ordinalidad, tipos de números) y representaciones numéricas (cifras, secuencias numéricas, sistema posicional, numeración hablada y escrita). Estos son los dos grandes bloques de contenido de la numeración."
+    },
+    {
+      "question": "¿Qué tipo de materiales son los 'bloques lógicos de Dienes' en la clasificación del texto?",
+      "options": [
+        "Materiales manipulativos no estructurados de uso cotidiano",
+        "Recursos digitales con entorno virtual interactivo",
+        "Materiales estructurados diseñados específicamente para la enseñanza",
+        "Materiales de agrupación no estructurada para el principio de agrupamiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los bloques lógicos de Dienes son materiales estructurados, diseñados específicamente para la enseñanza y para ayudar a comprender conceptos numéricos y aritméticos de forma visual y práctica. Se incluyen junto a regletas de Cuisenaire, bloques multibase, ábacos y tabla del 100, entre otros materiales estructurados."
+    },
+    {
+      "question": "¿Cuáles son las 'destrezas emocionales' que deben desarrollarse como ejes fundamentales de la actividad matemática?",
+      "options": [
+        "La memoria, la atención y la concentración en la resolución de problemas",
+        "La autoconfianza, la perseverancia, la valoración del error y el manejo de la ansiedad",
+        "La creatividad, la curiosidad matemática y el pensamiento divergente",
+        "La motivación extrínseca, la autoestima académica y el clima de aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La perspectiva socioemocional en las matemáticas incluye impulsar la autoconfianza, la perseverancia, la valoración del error como parte del aprendizaje, el manejo de la ansiedad ante la incertidumbre de los problemas matemáticos y la visibilización de referentes femeninos. Estos aspectos se abordan transversalmente en el área."
+    },
+    {
+      "question": "Según el texto, ¿cuándo se consolidan la función simbólica y la reversibilidad del pensamiento necesarias para aprender las operaciones?",
+      "options": [
+        "Durante la etapa preoperacional, entre los 2 y 7 años",
+        "En los primeros cursos de EP, durante el periodo de operaciones concretas",
+        "Al final de la EP, con el inicio del pensamiento formal",
+        "En la Educación Infantil, antes de la escolarización obligatoria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La función simbólica y la reversibilidad del pensamiento se consolidan en los primeros cursos de EP, durante el periodo de operaciones concretas descrito por Piaget. Este periodo es el marco psicológico en el que el alumnado puede comprender y aprender las operaciones numéricas básicas."
+    },
+    {
+      "question": "¿Qué describe la 'inclusión de clases' como noción piagetiana previa al concepto de número?",
+      "options": [
+        "La capacidad de agrupar objetos en categorías según sus atributos",
+        "Distinguir las partes dentro de un todo, lo que permite comprender situaciones de adición y sustracción",
+        "La comprensión de que una cantidad no cambia al redistribuirse sus elementos",
+        "La habilidad de ordenar objetos de mayor a menor según un criterio continuo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La inclusión de clases es la capacidad de distinguir las partes dentro de un todo, fundamental para comprender las situaciones de adición y sustracción. La conservación es la invariabilidad de la cantidad al redistribuirla, y la seriación es la ordenación según un criterio. Las tres son nociones previas necesarias para el concepto de número."
+    },
+    {
+      "question": "¿Cómo se define el 'aprendizaje significativo' en el contexto de la enseñanza de las matemáticas según el Decreto 155/2022?",
+      "options": [
+        "Un aprendizaje centrado en la memorización de fórmulas y algoritmos para su uso posterior",
+        "Aquel que exige ofrecer situaciones complejas que integren diferentes ámbitos del conocimiento y permitan al alumnado dotar de sentido a los contenidos",
+        "El aprendizaje que se produce mediante el descubrimiento autónomo sin intervención docente",
+        "Una metodología basada en la repetición guiada hasta la automatización de los procedimientos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje significativo exige ofrecer situaciones complejas que integren diferentes ámbitos del conocimiento, favoreciendo la construcción de aprendizajes útiles para la resolución de problemas y permitiendo que el alumnado dote de sentido a los contenidos. Contrasta con el aprendizaje memorístico o mecánico."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los objetos de 'agrupación no estructurada' y los de 'agrupación estructurada' para trabajar el principio de agrupamiento?",
+      "options": [
+        "Los no estructurados son materiales cotidianos como monedas o botones; los estructurados son materiales ensamblados o ensartados",
+        "Los no estructurados son materiales de laboratorio; los estructurados son los ábacos",
+        "Los no estructurados son digitales; los estructurados son físicos y manipulativos",
+        "Los no estructurados se utilizan en los primeros cursos; los estructurados en los últimos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los objetos de agrupación no estructurada son materiales cotidianos (monedas, botones, palillos) que no fueron diseñados específicamente para la enseñanza. Los objetos de agrupación estructurada son materiales como los de ensartado o ensamblado, diseñados para facilitar la comprensión del agrupamiento. Ambos se utilizan antes del material didáctico estructurado."
+    },
+    {
+      "question": "¿Qué implica el concepto de 'evaluación reguladora' en la enseñanza de las matemáticas según el texto?",
+      "options": [
+        "Una evaluación final que mide el grado de adquisición de los contenidos al terminar la unidad",
+        "Una evaluación que se integra en todo el proceso para controlarlo, orientarlo y mejorarlo, adaptándose a la diversidad",
+        "Un sistema de calificación diferenciado según las capacidades individuales del alumnado",
+        "La evaluación de los materiales didácticos utilizados para ajustar la programación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación reguladora debe integrarse en todo el proceso de enseñanza y aprendizaje para controlarlo, orientarlo y mejorarlo, adaptándose a la diversidad mediante distintos instrumentos y procedimientos. Este concepto va más allá de la evaluación sumativa final y tiene una función formativa continua."
+    },
+    {
+      "question": "¿Cuál es la propuesta específica de Godino et al. (2004) sobre el uso de la calculadora en EP?",
+      "options": [
+        "Debe utilizarse desde los primeros cursos para facilitar la comprensión conceptual",
+        "Puede usarse para comprobar resultados o trabajar con cantidades elevadas, dando más importancia a la comprensión del procedimiento que al resultado",
+        "Debe reservarse exclusivamente para el tercer ciclo de EP",
+        "Su uso sistemático favorece el desarrollo del cálculo mental al liberar carga memorística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Godino et al. (2004) propone que la calculadora puede utilizarse para comprobar resultados o para trabajar operaciones con cantidades elevadas, dando más importancia a la comprensión del procedimiento que al resultado. En EP se priorizará el cálculo mental y los algoritmos escritos, reservando la calculadora para situaciones específicas."
+    },
+    {
+      "question": "¿Qué objetivo persigue la enseñanza de las propiedades de la suma y la multiplicación en EP?",
+      "options": [
+        "Preparar al alumnado para el álgebra formal en la educación secundaria",
+        "Establecer relaciones entre números y facilitar la comprensión antes que la memorización",
+        "Desarrollar la velocidad de cálculo mental a través de reglas mnemotécnicas",
+        "Fundamentar el trabajo con fracciones y números decimales en los últimos cursos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje de las propiedades de las operaciones se prioriza como herramienta para establecer relaciones entre números. Su aprendizaje se apoya en el uso de material didáctico que favorece la comprensión antes que la memorización, en línea con el enfoque activo y significativo de la enseñanza matemática en EP."
+    },
+    {
+      "question": "¿Cuáles son los tres principios específicos que deben trabajarse para abordar la numeración en el aula, según el texto?",
+      "options": [
+        "Principio de agrupamiento, principio de posición y representación numérica",
+        "Principio de cardinalidad, principio de ordinalidad y principio de abstracción",
+        "Principio de base 10, principio posicional y principio de equivalencia",
+        "Principio de conservación, principio de seriación y principio de inclusión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para trabajar la numeración en el aula deben abordarse tres principios: el principio de agrupamiento en base 10, el principio de posición y la representación numérica (con su secuencia de etapas concreta, expandida y convencional). Estos principios son distintos de los principios del conteo de Gelman y Gallistel."
+    },
+    {
+      "question": "¿Qué elementos didácticos específicos se mencionan para la comprensión de las operaciones aritméticas?",
+      "options": [
+        "Su comprensión, su significado, su aplicación en problemas y los algoritmos y cálculo aritmético",
+        "La memorización de las tablas, la práctica de algoritmos escritos y el uso de la calculadora",
+        "El juego matemático, la resolución de problemas y la evaluación diagnóstica",
+        "Los materiales manipulativos, las TIC y la metodología de proyectos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para las operaciones aritméticas es fundamental partir de su comprensión, su significado y su aplicación en la resolución de problemas, y trabajar los algoritmos y el cálculo aritmético a través de habilidades y estrategias de cálculo mental y escrito, uso de tablas y herramientas como ábacos o bloques multibase."
+    },
+    {
+      "question": "¿Cuántos objetivos de etapa relacionados con las matemáticas se establecen en el área de matemáticas del Decreto 155/2022?",
+      "options": [
+        "Cuatro objetivos específicos del área",
+        "Seis objetivos de área y uno de etapa",
+        "Ocho objetivos del área establecidos en el Anexo II",
+        "Diez objetivos organizados por ciclos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los números y el cálculo son imprescindibles para la consecución de los ocho objetivos del área de matemáticas recogidos en el epígrafe 9 del Anexo II del Decreto 155/2022. El objetivo más directamente relacionado es el OBJ1, sobre interpretación matemática de situaciones cotidianas."
+    },
+    {
+      "question": "¿Cuál es la aportación específica de Alsina (2004) mencionada en el tema?",
+      "options": [
+        "Propone los cinco principios fundamentales del aprendizaje del conteo",
+        "Destaca que para aprender los números es necesario combinar materiales manipulativos con las posibilidades de las TIC",
+        "Define la estimación como herramienta para detectar errores en algoritmos tradicionales",
+        "Distingue los dos tipos de cálculo mental: estímulo-respuesta y cálculo pensado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alsina (2004) destaca que para el aprendizaje de los números es necesario combinar instrumentos y materiales manipulativos, que permitan al alumnado experimentar, con todas las posibilidades que ofrecen las TIC. Su libro 'Desarrollo de competencias matemáticas con recursos lúdico-manipulativos' es la referencia bibliográfica del tema."
+    },
+    {
+      "question": "¿Por qué razón el cálculo escrito en la suma y la multiplicación resuelve las operaciones de un solo dígito de forma diferente a las de múltiples cifras?",
+      "options": [
+        "Porque los algoritmos solo son aplicables a números con más de una cifra",
+        "Porque las operaciones de un solo dígito se asocian al conocimiento de las tablas, mientras que los algoritmos extienden estas operaciones a múltiples cifras",
+        "Porque el valor posicional solo es relevante cuando hay al menos dos cifras en cada operando",
+        "Porque las tablas de sumar y multiplicar son suficientes hasta los 100, que es el límite del primer ciclo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La resolución de operaciones de un solo dígito suele asociarse al conocimiento de las tablas de sumar o multiplicar, mientras que los algoritmos escritos permiten extender estas operaciones a números con más de una cifra. Los algoritmos representan una generalización del conocimiento de las tablas."
+    },
+    {
+      "question": "¿Qué aspectos del proceso de aprendizaje matemático se incluyen en el concepto de 'sentidos matemáticos'?",
+      "options": [
+        "Los cinco sentidos perceptivos aplicados al aprendizaje matemático manipulativo",
+        "Los contenidos conceptuales, procedimentales y actitudinales del área",
+        "Dimensiones del conocimiento matemático que se trabajan junto a los procesos matemáticos de manera integrada",
+        "Las competencias específicas del área de matemáticas definidas en el currículo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los sentidos matemáticos son dimensiones del conocimiento matemático que deben trabajarse junto a los procesos matemáticos de manera integrada. El texto menciona que 'los sentidos matemáticos deben trabajarse junto a los procesos matemáticos de manera integrada', sin reducirlos a los cinco sentidos perceptivos ni a las categorías curriculares convencionales."
+    },
+    {
+      "question": "¿Cuál es el conjunto numérico representado por la letra N según la definición del texto?",
+      "options": [
+        "Los números negativos: N = {..., -3, -2, -1}",
+        "Los números naturales: N = {0, 1, 2, 3...}",
+        "Los números enteros: N = {..., -2, -1, 0, 1, 2...}",
+        "Los números racionales: N = {a/b donde b ≠ 0}"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los números naturales forman el conjunto N = {0, 1, 2, 3...}. Los números enteros forman el conjunto Z (que incluye negativos, cero y positivos), y los racionales el conjunto Q. El texto especifica que en N están definidas las cuatro operaciones básicas y una relación de orden que permite situarlos en una semirrecta que comienza en el cero."
+    },
+    {
+      "question": "¿Cuál de los siguientes aspectos de la intervención educativa se relaciona con la 'perspectiva de género' mencionada en el texto?",
+      "options": [
+        "Adaptar los problemas matemáticos a los intereses de niños y niñas por separado",
+        "Diseñar actividades diferenciadas según las capacidades de cada género",
+        "Visibilizar referentes femeninos e impulsar la autoconfianza en el área matemática",
+        "Establecer grupos de trabajo homogéneos para favorecer la igualdad de oportunidades"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La perspectiva de género en las orientaciones pedagógicas se concreta en impulsar la autoconfianza y la perseverancia, y en la visibilización de referentes femeninos en las matemáticas. No implica actividades diferenciadas por género ni grupos homogéneos, sino eliminar barreras y ampliar referentes para todo el alumnado."
+    },
+    {
+      "question": "¿Cuál es la relación entre los números decimales y las fracciones según el texto?",
+      "options": [
+        "Los decimales son una representación alternativa de todas las fracciones propias",
+        "Los decimales son el resultado de divisiones no exactas entre números enteros y se vinculan con las fracciones y los porcentajes",
+        "Los decimales preceden a las fracciones en el aprendizaje porque son más intuitivos",
+        "Los decimales se limitan a representar medidas de longitud y capacidad en EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los números decimales son el resultado de divisiones no exactas entre números enteros. El alumnado aprenderá a utilizarlos en múltiples contextos de medidas, aproximación, porcentajes y uso de calculadoras. En EP se trabajan las fracciones sencillas relacionadas con situaciones cotidianas de reparto, vinculándose con los números decimales y los porcentajes."
+    },
+    {
+      "question": "¿Cuál es la clave pedagógica que subyace a la propuesta de trabajar los algoritmos 'desde la comprensión'?",
+      "options": [
+        "Los alumnos deben memorizar los pasos del algoritmo antes de comprender su funcionamiento",
+        "Los algoritmos deben construirse y practicarse con comprensión de su funcionamiento, no solo como procedimientos mecánicos",
+        "Los algoritmos se enseñan directamente sin apoyo manipulativo para desarrollar el pensamiento abstracto",
+        "La comprensión del algoritmo se logra automáticamente mediante la práctica repetida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los algoritmos se trabajan desde la comprensión del funcionamiento y mediante la construcción y práctica reiterada de procedimientos. Esto contrasta con un enfoque puramente mecánico y se apoya en el uso de materiales manipulativos como ábacos y bloques multibase para facilitar la comprensión antes de la automatización."
+    },
+    {
+      "question": "¿Qué tipo de problemas aborda específicamente el Bloque 1 'Sentido Numérico' del Decreto 155/2022?",
+      "options": [
+        "Problemas geométricos que requieren medida y estimación de magnitudes",
+        "La comprensión y el uso flexible de los números y las operaciones",
+        "La representación y análisis de datos estadísticos numéricos",
+        "El desarrollo del pensamiento algebraico mediante patrones numéricos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Bloque 1 'Sentido Numérico' aborda de manera específica la comprensión y el uso flexible de los números y las operaciones. Este bloque es el núcleo del área de matemáticas en lo relativo a numeración y cálculo, y proyecta sus contenidos transversalmente sobre los cinco bloques restantes."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre la multiplicación y la suma?",
+      "options": [
+        "La multiplicación es el inverso de la suma en todos los contextos matemáticos",
+        "La multiplicación es una suma reiterada de sumandos iguales y está estrechamente relacionada con la suma",
+        "La suma y la multiplicación comparten las mismas propiedades en todos los conjuntos numéricos",
+        "La multiplicación siempre produce resultados mayores que la suma de los mismos operandos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Desde el punto de vista semiótico o didáctico, la suma y la multiplicación están estrechamente relacionadas, ya que la multiplicación puede interpretarse como una adición reiterada de sumandos iguales (6 × 4 = 6 + 6 + 6 + 6). Esta relación facilita la comprensión de la multiplicación a partir de la suma."
+    },
+    {
+      "question": "¿Cuál es la aportación específica de los 'números naturales' en comparación con el resto de conjuntos numéricos trabajados en EP?",
+      "options": [
+        "Son los únicos que permiten realizar las cuatro operaciones sin restricciones",
+        "Son los primeros en abordarse porque sirven para contar, establecer el cardinal y designar el orden en series discretas",
+        "Son los más simples porque no incluyen el cero ni los negativos",
+        "Son los que permiten representar magnitudes continuas mediante fracciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los números naturales son los primeros en abordarse en EP porque sirven para contar, establecer el cardinal de una colección y designar el orden de un elemento en una serie discreta. El conjunto N = {0, 1, 2, 3...} tiene definidas las cuatro operaciones básicas y una relación de orden que permite situarlos en una semirrecta desde cero."
+    },
+    {
+      "question": "¿Qué aspectos son necesarios para el dominio de los contenidos de numeración y cálculo según las orientaciones metodológicas específicas?",
+      "options": [
+        "Conocimiento teórico, práctica algorítmica y evaluación continua",
+        "Desarrollar conocimientos, capacidades y destrezas en torno a la numeración y las operaciones aritméticas",
+        "Dominio del sistema posicional, las tablas y los algoritmos escritos",
+        "Comprensión conceptual, aplicación tecnológica y cooperación entre pares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El dominio de los contenidos de numeración y cálculo requiere desarrollar conocimientos, capacidades y destrezas en torno a la numeración y las operaciones aritméticas. Estos dos grandes ámbitos —numeración y operaciones— engloban tanto los aspectos conceptuales como los procedimentales del área."
+    },
+    {
+      "question": "¿Cuál es la posición del Bloque 1 respecto a los demás bloques del área de matemáticas?",
+      "options": [
+        "Es independiente de los demás bloques y se trabaja de manera separada",
+        "Se proyecta transversalmente sobre los cinco bloques restantes del área",
+        "Precede linealmente a los otros bloques que se trabajan de forma secuencial",
+        "Complementa exclusivamente al Bloque 2 de Sentido de la Medida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Bloque 1 'Sentido Numérico' se proyecta transversalmente sobre los cinco bloques restantes del área. Esto significa que el aprendizaje de los números y el cálculo no es un contenido aislado sino que impregna y fundamenta el trabajo con la medida, la geometría, el álgebra, la estadística y la probabilidad."
+    },
+    {
+      "question": "¿Cuál es el valor pedagógico del uso del entorno como recurso didáctico en el aprendizaje de los números?",
+      "options": [
+        "Sustituye los materiales estructurados cuando no están disponibles",
+        "Permite contextualizar el aprendizaje en situaciones reales y motivadoras",
+        "Facilita el desarrollo de la competencia digital del alumnado",
+        "Garantiza la transferencia automática del aprendizaje a contextos extraescolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El entorno permite trabajar clasificaciones, ordenaciones, seriaciones, comparaciones y análisis de datos a partir de contextos reales y motivadores. Su valor pedagógico reside en la contextualización del aprendizaje, conectando los conceptos matemáticos con la realidad cotidiana del alumnado, no en sustituir materiales ni desarrollar competencia digital."
+    },
+    {
+      "question": "¿Cuál es la definición de 'algoritmo' que proporciona el texto en el contexto del cálculo escrito?",
+      "options": [
+        "Una fórmula matemática que genera resultados exactos aplicable a todos los tipos de números",
+        "Un procedimiento sistemático y secuenciado para realizar operaciones aritméticas trabajando con números de manera simbólica",
+        "Un conjunto de reglas que rige el sistema posicional decimal",
+        "Una herramienta de verificación que permite comprobar los resultados del cálculo mental"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un algoritmo es un procedimiento sistemático y secuenciado para realizar operaciones aritméticas, permitiendo trabajar con números de manera simbólica en lugar de física. Presenta tres propiedades: claridad, eficacia y universalidad, y se aplica en un número finito de pasos siempre de la misma manera."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la 'cardinalidad' y la 'ordinalidad' en el trabajo con números naturales en EP?",
+      "options": [
+        "La cardinalidad indica la posición de un elemento en una serie; la ordinalidad indica la cantidad total",
+        "La cardinalidad permite establecer el total de una colección; la ordinalidad determina el lugar de un elemento en una serie",
+        "Ambos conceptos son equivalentes y se trabajan conjuntamente sin distinción",
+        "La cardinalidad se trabaja en los primeros cursos; la ordinalidad en los últimos de EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cardinalidad permite establecer el cardinal de una colección (cuántos elementos hay), mientras que la ordinalidad determina el lugar que ocupa un elemento en una serie (el primero, el segundo, etc.). Los números naturales sirven para contar (cardinalidad) y para designar el orden en series discretas (ordinalidad)."
+    },
+    {
+      "question": "¿Qué implica la denominación 'enfoques funcionales y activos' en la enseñanza de las matemáticas según el Decreto 155/2022?",
+      "options": [
+        "Priorizar la práctica mecánica de algoritmos para garantizar la funcionalidad del aprendizaje",
+        "Vincular la enseñanza a contextos reales, cotidianos y matemáticos empleando metodologías activas y globalizadoras",
+        "Diseñar actividades lúdicas que reduzcan la ansiedad matemática en el alumnado",
+        "Introducir las cuatro operaciones básicas en un orden funcional determinado por el currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los enfoques funcionales y activos implican vincular la enseñanza a contextos reales, cotidianos y matemáticos, empleando metodologías activas y globalizadoras como el aprendizaje basado en problemas y en proyectos, que respondan a la diversidad de aula y a una enseñanza individualizada."
+    },
+    {
+      "question": "¿Cuál es el papel de la resolución de problemas en la enseñanza de las matemáticas según las orientaciones pedagógicas generales?",
+      "options": [
+        "Es una actividad de aplicación que se trabaja al final de cada unidad didáctica",
+        "Es un eje fundamental de la actividad matemática que se aborda transversalmente en el área",
+        "Es el método principal de evaluación del aprendizaje matemático en todos los cursos",
+        "Es una habilidad avanzada que se desarrolla en el tercer ciclo de Educación Primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La resolución de problemas y el desarrollo de destrezas emocionales son ejes fundamentales de la actividad matemática, abordándose transversalmente en el área. No se trata de una actividad final ni de evaluación, sino de un enfoque que impregna todo el proceso de enseñanza y aprendizaje matemático."
+    },
+    {
+      "question": "¿Cómo se relaciona el aprendizaje de los números con el 'pensamiento lógico' según el texto?",
+      "options": [
+        "El pensamiento lógico es previo al aprendizaje numérico y debe desarrollarse en Educación Infantil",
+        "La numeración y el cálculo contribuyen al desarrollo de habilidades cognitivas de alto nivel, reforzando el pensamiento lógico",
+        "El pensamiento lógico se desarrolla exclusivamente a través de la geometría, no de los números",
+        "El pensamiento lógico y el numérico son independientes y se desarrollan en paralelo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Más allá de las funciones prácticas, la numeración y el cálculo son la base del aprendizaje matemático, fundamentales para otras disciplinas científicas y contribuyen al desarrollo de habilidades cognitivas de alto nivel, reforzando el pensamiento lógico y la capacidad de resolución de problemas."
+    },
+    {
+      "question": "¿Qué ley orgánica es modificada por la LOMLOE (LO 3/2020)?",
+      "options": [
+        "La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación del Sistema Educativo (LOGSE)",
+        "La Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación (LOCE)",
+        "La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)",
+        "La Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Ley Orgánica 3/2020 (LOMLOE) modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). El texto del tema lo señala explícitamente: 'Ley Orgánica 3/2020, de 29 de diciembre por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo de Educación'. La LOMCE (2013) fue derogada por la LOMLOE."
+    },
+    {
+      "question": "¿Cuál es la razón pedagógica para colocar los números verticalmente y justificados a la derecha en el cálculo escrito?",
+      "options": [
+        "Es una convención estética para mejorar la presentación del trabajo matemático",
+        "Permite alinear correctamente los valores posicionales de cada cifra para aplicar los algoritmos",
+        "Facilita la corrección por parte del docente al revisar las operaciones del alumnado",
+        "Es el orden natural de escritura que coincide con la numeración en el eje vertical"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es esencial enseñar a colocar correctamente los números para cada operación (verticalmente y justificados a la derecha) porque esto permite alinear correctamente los valores posicionales de cada cifra. Así, las unidades quedan debajo de unidades, las decenas debajo de decenas, etc., lo que es imprescindible para aplicar correctamente los algoritmos escritos."
+    },
+    {
+      "question": "¿Qué función tiene la estimación como 'mecanismo para detectar errores'?",
+      "options": [
+        "Permite identificar errores tipográficos en la escritura de los números",
+        "Sirve para verificar si el resultado de un algoritmo es razonablemente correcto antes de finalizar el cálculo",
+        "Detecta errores en la comprensión de los enunciados de los problemas",
+        "Identifica errores en la secuencia de aprendizaje de los algoritmos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La estimación sirve como mecanismo para detectar errores en algoritmos tradicionales: si el resultado estimado difiere considerablemente del calculado, indica que probablemente hay un error. Por eso se recomienda estimar antes de aplicar un cálculo exacto. Esta función preventiva es uno de los usos más valiosos de la estimación en EP."
+    },
+    {
+      "question": "¿Qué implica el 'principio de orden estable' en el aprendizaje del conteo?",
+      "options": [
+        "Los objetos de una colección deben ordenarse antes de contarlos",
+        "Los números siguen un orden fijo que no varía en ninguna circunstancia",
+        "El resultado del conteo es siempre el mismo independientemente del punto de inicio",
+        "Los números se aprenden en un orden establecido por el currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El principio de orden estable establece que los números siguen un orden fijo e invariable en la secuencia numérica. Esto permite que al contar siempre se use la misma secuencia (1, 2, 3, 4...). No debe confundirse con el orden indiferente (que se refiere al orden de los objetos, no de los números) ni con la cardinalidad."
+    },
+    {
+      "question": "¿Qué se entiende por 'campos conceptuales numéricos' en las orientaciones metodológicas específicas?",
+      "options": [
+        "Los diferentes algoritmos de cálculo aplicables a cada conjunto numérico",
+        "Las diferencias entre número y cantidad, cardinalidad y ordinalidad, y tipos de números",
+        "Los ámbitos temáticos en los que se aplican los números en la vida cotidiana",
+        "Los conceptos matemáticos previos necesarios para comprender el sistema de numeración"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los campos conceptuales numéricos comprenden las diferencias entre número y cantidad, la cardinalidad y ordinalidad, y los tipos de números naturales, enteros, fraccionarios y decimales. Estos campos conceptuales se trabajan junto con las representaciones numéricas (cifras, secuencias, sistema posicional, numeración hablada y escrita)."
+    },
+    {
+      "question": "¿Qué afirma el texto sobre la relación entre los contenidos del Bloque 1 y los demás bloques del área matemática?",
+      "options": [
+        "El Bloque 1 es autónomo y puede trabajarse independientemente de los demás",
+        "Los contenidos del Bloque 1 deben integrarse en la enseñanza de los demás bloques por su vinculación con medida, problemas, geometría y estadística",
+        "Los contenidos del Bloque 1 deben completarse antes de abordar los demás bloques",
+        "El Bloque 1 tiene relación directa con el Bloque 2 pero no con los demás"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje de los números y el cálculo debe integrarse en la enseñanza del resto de bloques del área matemática por su estrecha vinculación con la medida, la resolución de problemas, la geometría y la estadística, así como con el resto de áreas curriculares. Esta transversalidad es fundamental en la conclusión del tema."
+    },
+    {
+      "question": "¿Cuántas operaciones numéricas básicas se mencionan en el tema?",
+      "options": [
+        "Tres: suma, resta y multiplicación",
+        "Cuatro: suma, resta, multiplicación y división",
+        "Cinco: suma, resta, multiplicación, división y potenciación",
+        "Seis: suma, resta, multiplicación, división, raíz y potencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona cuatro operaciones numéricas básicas: suma, resta, multiplicación y división. Estas operaciones permiten manipular datos y representar diversas acciones, y su aprendizaje requiere el desarrollo de la función simbólica y la reversibilidad del pensamiento, que se consolidan en el periodo de operaciones concretas."
+    },
+    {
+      "question": "¿Qué característica específica distingue al cálculo pensado del cálculo de estímulo-respuesta según Gómez (1998)?",
+      "options": [
+        "El cálculo pensado es más lento; el de estímulo-respuesta es más preciso",
+        "El cálculo pensado implica seleccionar y aplicar estrategias mentales deliberadamente; el de estímulo-respuesta se basa en respuestas rápidas de operaciones memorizadas",
+        "El cálculo pensado usa materiales; el de estímulo-respuesta es completamente mental",
+        "El cálculo pensado es propio de los últimos cursos de EP; el de estímulo-respuesta de los primeros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gómez (1998) distingue el cálculo de estímulo-respuesta (basado en respuestas rápidas a través de operaciones memorizadas, como las tablas) del cálculo pensado (que implica seleccionar y aplicar estrategias mentales deliberadamente, con mayor reflexión). Ambos tipos son válidos y complementarios en EP."
+    },
+    {
+      "question": "¿En qué contexto específico se sitúa el aprendizaje de los números en los primeros cursos de EP según el texto?",
+      "options": [
+        "En el periodo de las operaciones formales descrito por Piaget",
+        "En el periodo preoperacional en el que se consolida el pensamiento simbólico",
+        "En el periodo de operaciones concretas en el que se desarrollan la función simbólica y la reversibilidad",
+        "En la transición entre el periodo sensoriomotor y el preoperacional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto sitúa el aprendizaje de las operaciones numéricas en el periodo de operaciones concretas descrito por Piaget, que corresponde a los primeros cursos de EP. En este periodo se consolidan la función simbólica y la reversibilidad del pensamiento, necesarias para comprender las operaciones básicas."
+    },
+    {
+      "question": "¿Qué instrumento curricular sirve como 'única fuente de verdad' para la organización de categorías y quizzes en la aplicación?",
+      "options": [
+        "El Real Decreto 157/2022 como referencia normativa estatal",
+        "El Decreto 155/2022 como referencia normativa autonómica de Galicia",
+        "El Bloque 1 'Sentido Numérico' como organizador de los contenidos matemáticos",
+        "El Anexo II del Decreto 155/2022 como referencia de objetivos del área"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Decreto 155/2022 es la norma de referencia para la organización curricular en Galicia, estableciendo los objetivos del área, los bloques de contenido y las orientaciones pedagógicas. Es el instrumento normativo que concreta la LOMLOE y el Real Decreto 157/2022 en el contexto educativo gallego."
+    },
+    {
+      "question": "Según las orientaciones pedagógicas, ¿qué papel juega el error en el proceso de aprendizaje matemático?",
+      "options": [
+        "El error debe evitarse mediante actividades graduadas que garanticen el éxito",
+        "El error debe valorarse como parte del aprendizaje y trabajarse la perseverancia ante él",
+        "El error es un indicador de dificultades de aprendizaje que requiere intervención especializada",
+        "El error motiva la búsqueda de estrategias de apoyo y refuerzo fuera del horario escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las orientaciones pedagógicas del Decreto 155/2022 resaltan la importancia de impulsar la valoración del error como parte del aprendizaje y el manejo de la ansiedad ante la incertidumbre de los problemas matemáticos. Este enfoque concibe el error como una oportunidad de aprendizaje, no como un fracaso."
+    },
+    {
+      "question": "¿Cuál es el argumento principal que justifica que la tecnología sea un complemento y no un sustituto de las actividades manipulativas?",
+      "options": [
+        "Los materiales manipulativos son menos costosos que los recursos digitales",
+        "El docente debe garantizar que el foco permanezca en el problema matemático, no en el manejo del dispositivo",
+        "Las actividades manipulativas desarrollan la motricidad fina además de los contenidos matemáticos",
+        "Los recursos digitales no permiten trabajar todos los contenidos del currículo matemático"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Su uso exige cautela y es tarea del docente garantizar que el foco permanezca en el problema matemático y no en el manejo del dispositivo en sí mismo. En esta era digital, la tecnología es un complemento de las actividades manipulativas y no puede ser su sustituto, ya que el objetivo siempre es el aprendizaje matemático."
+    },
+    {
+      "question": "¿Qué propiedad matemática específica se describe cuando la división se entiende como una 'resta sucesiva hasta que no sea posible quitar más'?",
+      "options": [
+        "La propiedad distributiva de la división respecto de la resta",
+        "La relación inversa entre la división y la multiplicación",
+        "La conexión semiótica entre la resta y la división a través de la sustracción iterada",
+        "La propiedad asociativa aplicada a la resta en el contexto de la división"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La interpretación de la división como resta sucesiva describe la conexión semiótica o didáctica entre estas dos operaciones a través de la sustracción iterada. Del mismo modo que la multiplicación se relaciona con la suma, la división se relaciona con la resta desde una perspectiva de significado, no puramente formal."
+    },
+    {
+      "question": "¿Cuáles son los dos grandes procedimientos de cálculo prioritarios en Educación Primaria según el texto?",
+      "options": [
+        "La calculadora y los algoritmos escritos",
+        "El cálculo mental y los algoritmos escritos",
+        "La estimación y el cálculo mental",
+        "Los algoritmos escritos y la estimación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En Educación Primaria se priorizará el cálculo mental y los algoritmos escritos, reservando la calculadora para situaciones específicas. La estimación, aunque importante, es un procedimiento complementario. Esta priorización garantiza que el alumnado desarrolle tanto la comprensión conceptual como las destrezas procedimentales básicas."
+    },
+    {
+      "question": "¿Cuál es la característica del sistema decimal que lo define como sistema 'posicional'?",
+      "options": [
+        "Utiliza exactamente diez símbolos para representar todos los números",
+        "El valor de cada cifra depende de su ubicación en el número",
+        "Permite agrupar en decenas y centenas de manera ilimitada",
+        "Fue el primer sistema de numeración en utilizar el cero como cifra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sistema decimal es posicional porque el valor de cada cifra depende de su ubicación (posición) en el número. Este es el principio de posición, el más importante del sistema decimal. Además, el principio de agrupamiento establece que cada unidad de un orden equivale a 10 del orden inferior."
+    },
+    {
+      "question": "Según las orientaciones metodológicas, ¿cuándo se trabaja el cálculo —mental, estimado, escrito e instrumental— en la EP?",
+      "options": [
+        "De manera progresiva, cada tipo en un ciclo diferente",
+        "De forma integrada a lo largo de toda la etapa",
+        "El mental en los primeros cursos y el escrito en los últimos",
+        "El escrito antes que el mental, para construir la base algorítmica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cálculo —mental, estimado, escrito e instrumental— se trabaja de forma integrada a lo largo de toda la etapa. Esto no implica que todos tengan la misma importancia en cada curso, pero sí que no se reservan exclusivamente a ciclos concretos, sino que se trabajan de manera continua y complementaria."
+    },
+    {
+      "question": "¿Cuál es la aportación de la perspectiva semiótica para relacionar la suma y la multiplicación en EP?",
+      "options": [
+        "Permite definir la multiplicación como la operación inversa de la división",
+        "Vincula ambas operaciones al identificar la multiplicación como suma reiterada de sumandos iguales",
+        "Establece que la suma y la multiplicación tienen las mismas propiedades formales",
+        "Facilita la automatización de las tablas de multiplicar a partir del conocimiento de la suma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Desde el punto de vista semiótico, la suma y la multiplicación están relacionadas porque la multiplicación puede interpretarse como suma reiterada de sumandos iguales (6 × 4 = 6 + 6 + 6 + 6). Esta conexión semántica facilita la comprensión de la multiplicación a partir de situaciones de suma iterada, antes de trabajar el algoritmo formal."
+    },
+    {
+      "question": "¿Por qué se afirma en el texto que las matemáticas 'constituyen uno de los pilares fundamentales de la Educación Primaria'?",
+      "options": [
+        "Porque tienen el mayor número de horas en el horario escolar de la EP",
+        "Porque están presentes en cualquier actividad humana y los números y las formas se convierten en herramientas para interpretar la realidad",
+        "Porque son el área con mayor dificultad y por tanto requieren mayor dedicación",
+        "Porque sus contenidos son la base para todas las demás áreas del currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las matemáticas son uno de los pilares de la EP porque están presentes en cualquier actividad humana y los conceptos de números y formas se convierten en herramientas fundamentales para interpretar la realidad, tomar decisiones y resolver problemas cotidianos. Su relevancia no deriva del número de horas ni de su dificultad."
+    },
+    {
+      "question": "¿Qué implica la 'diversidad de aula' en las orientaciones pedagógicas del área de matemáticas?",
+      "options": [
+        "La necesidad de aplicar diferentes sistemas de evaluación para cada alumno",
+        "El uso de metodologías activas y globalizadoras que respondan a las distintas necesidades del alumnado",
+        "La obligación de organizar el aula en grupos de nivel para atender a cada perfil",
+        "La adaptación del currículo matemático a los distintos ritmos de aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La diversidad de aula se atiende mediante metodologías activas y globalizadoras que respondan a la diversidad y promuevan una enseñanza individualizada. El aprendizaje cooperativo también contribuye a la inclusión. No implica necesariamente grupos de nivel o adaptaciones curriculares, sino un enfoque metodológico flexible."
+    },
+    {
+      "question": "¿Cuál es el argumento del texto para vincular el aprendizaje de los números con el 'desarrollo de un pensamiento matemático sólido y autónomo'?",
+      "options": [
+        "El dominio de los algoritmos escritos garantiza la autonomía en la resolución de cálculos",
+        "Proporcionar estrategias eficaces para adquirir la noción de número y dominar las operaciones favorece el razonamiento matemático",
+        "La práctica sistemática de cálculo mental desarrolla la autonomía cognitiva del alumnado",
+        "La digitalización de las herramientas matemáticas favorece el aprendizaje autónomo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje de los números y el cálculo ocupa un lugar central, siendo fundamental proporcionar al alumnado estrategias eficaces para adquirir la noción de número y dominar las operaciones básicas, favoreciendo su razonamiento matemático y contribuyendo al desarrollo de un pensamiento matemático sólido y autónomo."
+    },
+    {
+      "question": "¿En qué tipo de situaciones cotidianas se mencionan los números enteros negativos como herramienta de representación?",
+      "options": [
+        "Medición de distancias y superficies en contextos geográficos",
+        "Temperaturas bajo cero y plantas subterráneas en ascensores",
+        "Cálculo de descuentos y precios con IVA en situaciones comerciales",
+        "Representación de deudas y saldos negativos en contextos financieros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona explícitamente las temperaturas bajo cero y las plantas subterráneas en un ascensor como ejemplos de uso cotidiano de los números enteros negativos. Aunque los saldos bancarios negativos también son un ejemplo válido, no son los que aparecen en el texto del tema."
+    },
+    {
+      "question": "¿Cuál es la secuencia de cuatro formas en que puede realizarse el 'cálculo aritmético' según el tema?",
+      "options": [
+        "Escrito, oral, estimado e instrumental",
+        "Mediante algoritmos escritos, manipulación de objetos, material didáctico estructurado, calculadora o mediante hechos numéricos y cálculo mental",
+        "Mental, escrito, estimado y digital",
+        "Formal, informal, aproximado y exacto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cálculo aritmético puede realizarse: mediante algoritmos escritos (papel o soporte digital), mediante manipulación de objetos y recuento, mediante material didáctico estructurado, mediante calculadora, y mediante hechos numéricos usando la memoria y estrategias mentales (cálculo mental y estimaciones). Son cinco modalidades en total."
+    },
+    {
+      "question": "¿Cuál es la función principal que se atribuye al 'conteo' en el desarrollo del pensamiento numérico?",
+      "options": [
+        "Es el proceso final que confirma la adquisición del concepto de número",
+        "Es el proceso clave para pasar de los números naturales a los enteros",
+        "Es el proceso clave en la adquisición del pensamiento numérico, vinculado al concepto de número",
+        "Es la habilidad matemática fundamental que precede al aprendizaje de la lectoescritura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El conteo —proceso de asignar un número a cada elemento de una colección para determinar cuántos hay en total— es el proceso clave en la adquisición del pensamiento numérico. El desarrollo del concepto de número está estrechamente vinculado a este proceso, y las actividades de recuento permiten interiorizar los conceptos de cardinalidad y ordinalidad."
+    },
+    {
+      "question": "¿Cuál es el significado de la suma desde la 'perspectiva semiótica o didáctica'?",
+      "options": [
+        "Una ley de composición interna que asocia dos naturales a otro natural",
+        "Representa acciones de reunir, agregar o juntar cantidades",
+        "Un procedimiento sistemático de cálculo con propiedades conmutativa y asociativa",
+        "La operación inversa de la resta en el conjunto de los números naturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Desde la perspectiva semiótica o didáctica, la suma representa acciones de reunir, agregar o juntar. La resta se asocia a perder/quitar/separar, la multiplicación a repetir a saltos iguales y la división a repartir/fraccionar/distribuir. Esta perspectiva es fundamental para dar significado a las operaciones en contextos reales."
+    },
+    {
+      "question": "¿Cuál es la propuesta del texto para la enseñanza de la EP en relación con las 'situaciones complejas'?",
+      "options": [
+        "Evitar situaciones complejas en los primeros cursos para no generar ansiedad matemática",
+        "Ofrecer situaciones complejas que integren diferentes ámbitos del conocimiento favoreciendo la construcción de aprendizajes útiles",
+        "Diseñar situaciones complejas exclusivamente en el tercer ciclo de EP",
+        "Reservar las situaciones complejas para el área de matemáticas sin incluirlas en otras áreas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje significativo exige ofrecer situaciones complejas que integren diferentes ámbitos del conocimiento, favoreciendo la construcción de aprendizajes útiles para la resolución de problemas. Estas situaciones no deben limitarse a un ciclo concreto ni a un área, sino integrarse de manera transversal."
+    },
+    {
+      "question": "¿Cuáles son las tres categorías de objetos utilizados para trabajar el principio de agrupamiento en base 10?",
+      "options": [
+        "Naturales, artificiales y digitales",
+        "No estructurados, estructurados y material didáctico estructurado",
+        "Concretos, representacionales y abstractos",
+        "Manipulativos, simbólicos y digitales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para trabajar el principio de agrupamiento en base 10 se utilizan: objetos de agrupación no estructurada (monedas, botones, palillos), objetos de agrupación estructurada (ensartado, ensamblado) y material didáctico estructurado (bloques multibase, regletas Cuisenaire, fichas de colores). Esta progresión va de lo más informal a lo más formal."
+    },
+    {
+      "question": "¿Cómo describe el texto la naturaleza del aprendizaje matemático en relación con las otras áreas curriculares?",
+      "options": [
+        "Las matemáticas son una disciplina autónoma que no necesita relacionarse con otras áreas",
+        "El aprendizaje de los números debe integrarse con la medida, la resolución de problemas, la geometría, la estadística y otras áreas",
+        "Las matemáticas fundamentan exclusivamente las ciencias naturales y la tecnología",
+        "La transversalidad matemática se limita a los contextos de lengua y educación física"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje de los números debe integrarse en la enseñanza del resto de bloques del área matemática por su estrecha vinculación con la medida, la resolución de problemas, la geometría y la estadística, así como con el resto de áreas curriculares. Esta visión transversal es fundamental para un aprendizaje completo."
+    },
+    {
+      "question": "¿Por qué el texto afirma que las fracciones en EP se trabajan 'en busca de un aprendizaje significativo'?",
+      "options": [
+        "Porque las fracciones son los contenidos matemáticos más difíciles de la EP",
+        "Porque se relacionan con situaciones cotidianas de reparto y se vinculan con decimales y porcentajes",
+        "Porque requieren el uso de materiales manipulativos que conectan con la experiencia física",
+        "Porque son la base para el álgebra que se desarrolla en la ESO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En EP se trabajan fracciones sencillas relacionadas con situaciones cotidianas de reparto, en busca de un aprendizaje significativo, y vinculándose con los números decimales y los porcentajes. La conexión con el reparto y la vida cotidiana hace que el aprendizaje sea significativo porque parte de la experiencia del alumnado."
+    },
+    {
+      "question": "¿Cuál es la Orden de 26 de mayo de 2023 a la que se hace referencia en la bibliografía del tema?",
+      "options": [
+        "La que establece el currículo básico de EP a nivel estatal",
+        "La que desarrolla el Decreto 155/2022 y regula la evaluación en la etapa de EP en Galicia",
+        "La que introduce las competencias clave en el sistema educativo español",
+        "La que regula la atención a la diversidad en la Educación Primaria en Galicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia, y regula la evaluación en esa etapa educativa. Fue publicada en el Diario Oficial de Galicia el 13 de junio de 2023."
+    },
+    {
+      "question": "¿Cuál es la característica del 'cálculo escrito' que lo diferencia del 'cálculo mental' como procedimiento?",
+      "options": [
+        "El cálculo escrito siempre produce resultados más precisos que el cálculo mental",
+        "El cálculo escrito se realiza en papel o soporte digital mediante algoritmos sistemáticos; el mental usa procesos internos",
+        "El cálculo escrito solo es aplicable a números grandes; el mental a operaciones sencillas",
+        "El cálculo escrito es previo al mental en la secuencia de aprendizaje de EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cálculo escrito se realiza en papel o soporte digital mediante algoritmos sistemáticos y secuenciados. El cálculo mental se realiza mediante procesos mentales internos apoyados en hechos numéricos y estrategias como la descomposición o la compensación. Ambos son complementarios y se trabajan de forma integrada en EP."
+    },
+    {
+      "question": "¿Cuál es la razón por la que el texto concluye que el aprendizaje de los números y el cálculo 'trasciende la mera adquisición de técnicas operativas'?",
+      "options": [
+        "Porque estos contenidos se aplican también en otras áreas curriculares",
+        "Porque constituye la base del pensamiento matemático y una herramienta para interpretar y actuar en el mundo",
+        "Porque requiere el desarrollo de habilidades emocionales además de cognitivas",
+        "Porque supone la adquisición de las competencias matemáticas básicas para la ESO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje de los números y el cálculo trasciende la mera adquisición de técnicas operativas porque constituye la base del pensamiento matemático y una herramienta fundamental para interpretar y actuar en el mundo. Esta perspectiva amplia justifica el énfasis en la comprensión, el significado y la aplicación, no solo en los procedimientos."
+    },
+    {
+      "question": "¿Qué implica el concepto de 'enseñanza individualizada' en el contexto de las orientaciones pedagógicas matemáticas?",
+      "options": [
+        "Diseñar una programación diferente para cada alumno del grupo-clase",
+        "Adaptar las metodologías y recursos para responder a las distintas necesidades y ritmos del alumnado",
+        "Organizar el trabajo matemático de manera individual sin cooperación entre pares",
+        "Evaluar al alumnado de forma personalizada y desvinculada de los criterios generales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La enseñanza individualizada implica adaptar las metodologías activas y globalizadoras para responder a la diversidad de aula y a las distintas necesidades y ritmos de aprendizaje. No significa programaciones individuales para cada alumno, sino un enfoque flexible y adaptado que atienda las diferencias dentro de un marco común."
+    },
+    {
+      "question": "¿Cuál es la razón pedagógica específica por la que los materiales manipulativos estructurados se clasifican según sus 'divisiones'?",
+      "options": [
+        "Para determinar el nivel de dificultad adecuado para cada curso",
+        "Para que el alumnado pueda distinguir visualmente las relaciones entre unidades de distintos órdenes",
+        "Para garantizar que cada material trabaje exclusivamente un principio matemático",
+        "Para que el docente seleccione el material más económico y duradero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los materiales estructurados se clasifican según sus divisiones para permitir que el alumnado distinga visualmente las relaciones entre unidades de distintos órdenes posicionales. Los bloques con divisiones divisibles muestran explícitamente estas relaciones; los que tienen diferencias de tamaño o color las sugieren; los que carecen de diferencias requieren más abstracción del alumnado."
+    },
+    {
+      "question": "¿Qué relación establece el texto entre la 'semirrecta' y los números naturales?",
+      "options": [
+        "Los naturales forman una recta infinita con el cero en el centro",
+        "Los naturales se sitúan en una semirrecta que comienza en el cero y no tiene fin, con una relación de orden",
+        "La semirrecta numérica incluye los enteros negativos en su extensión izquierda",
+        "La semirrecta representa únicamente los números del 0 al 100 trabajados en EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los números naturales tienen una relación de orden (de menor, mayor o igual) que permite situarlos en una semirrecta que comienza en el cero y no tiene fin. Los números enteros, al incorporar los negativos, extienden esta representación a una recta completa con el cero en el centro."
+    },
+    {
+      "question": "¿Cuál es la competencia matemática clave que debe desarrollarse con el aprendizaje de los números en EP, según el texto?",
+      "options": [
+        "La competencia en comunicación lingüística aplicada a problemas matemáticos",
+        "La Competencia Matemática y en Ciencia, Tecnología e Ingeniería (STEM)",
+        "La competencia digital para el uso de herramientas de cálculo tecnológico",
+        "La competencia de aprender a aprender aplicada a la resolución de problemas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Todo el aprendizaje matemático debe orientarse al desarrollo de la Competencia Matemática y Competencia en Ciencia, Tecnología e Ingeniería (STEM), que permite aplicar el razonamiento matemático para resolver problemas en diferentes contextos. Esta es la competencia específica del área de matemáticas en EP."
+    },
+    {
+      "question": "¿Qué aspecto del aprendizaje de los números garantiza que este contribuya al 'pleno desarrollo de la personalidad' del alumnado?",
+      "options": [
+        "El dominio de los algoritmos escritos como base del pensamiento formal",
+        "El desarrollo de una formación integral que incluye aspectos cognitivos, emocionales y sociales",
+        "La adquisición de las competencias matemáticas básicas necesarias para la ESO",
+        "El desarrollo de la automatización de cálculos para ahorrar recursos cognitivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La finalidad de la EP, según el Decreto 155/2022, es garantizar una formación integral que contribuya al pleno desarrollo de la personalidad. Esto incluye no solo los aspectos cognitivos del aprendizaje matemático, sino también los emocionales (autoconfianza, perseverancia) y los sociales (cooperación, inclusión, convivencia)."
+    },
+    {
+      "question": "¿Por qué se afirma que el sistema de numeración es necesario 'para trabajar con el número'?",
+      "options": [
+        "Porque sin el sistema de numeración no es posible realizar operaciones mentales",
+        "Porque permite representar cualquier cantidad de manera ordenada y universal mediante símbolos y reglas",
+        "Porque garantiza que todos los alumnos usen la misma forma de escribir los números",
+        "Porque el sistema posicional es el único que permite representar números grandes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para trabajar con el número es necesario disponer de un sistema que permita representarlos de manera ordenada y universal. Un sistema de numeración es un conjunto de símbolos y reglas que permite expresar cualquier cantidad, siendo la base, las cifras o dígitos, y los principios y reglas sus tres elementos clave."
+    },
+    {
+      "question": "¿En qué se basa la propuesta de 'partir de la experiencia concreta del alumnado para progresar hacia la abstracción' en la enseñanza de los números?",
+      "options": [
+        "En los principios de la pedagogía Montessori aplicados al currículo matemático",
+        "En el proceso de aprendizaje guiado que sigue la secuencia vivencia, manipulación, representación y abstracción",
+        "En el enfoque basado en competencias que prioriza la aplicación sobre la teoría",
+        "En el modelo cognitivo de Vygotsky sobre la zona de desarrollo próximo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La propuesta de partir de lo concreto hacia la abstracción se fundamenta en el proceso de aprendizaje guiado que sigue la secuencia vivencia, manipulación, representación y abstracción. Esta secuencia es la referencia metodológica del Decreto 155/2022 y coincide con la progresión enattivo-icónico-simbólica de Bruner y el constructivismo piagetiano."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un ejemplo de las 'representaciones numéricas' que deben trabajarse en el aula según el tema?",
+      "options": [
+        "Las cuatro operaciones básicas y sus propiedades",
+        "Las cifras, las secuencias numéricas, el sistema posicional y la numeración hablada y escrita",
+        "Los diferentes tipos de números y las relaciones entre ellos",
+        "Los materiales manipulativos y los recursos digitales disponibles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las representaciones numéricas incluyen las cifras, las secuencias numéricas, el sistema posicional y la numeración hablada y escrita. Estos elementos forman, junto con los campos conceptuales numéricos, los dos grandes componentes de la numeración que deben abordarse en el aula."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el 'número' y la 'cantidad' en los campos conceptuales numéricos?",
+      "options": [
+        "El número es discreto; la cantidad puede ser continua o discreta",
+        "El número es una abstracción matemática; la cantidad es una magnitud del mundo real con unidad de medida",
+        "Son conceptos equivalentes que se usan indistintamente en la enseñanza matemática de EP",
+        "El número es cardinal; la cantidad es ordinal en todos los contextos matemáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El número es una abstracción matemática compleja, mientras que la cantidad es una magnitud del mundo real que se expresa con una unidad de medida. Esta distinción es uno de los campos conceptuales numéricos que deben abordarse en el aula, junto con la diferencia entre cardinalidad y ordinalidad y los tipos de números."
+    },
+    {
+      "question": "¿Cuál de los siguientes materiales de agrupación estructurada se menciona específicamente en el texto para trabajar el principio de agrupamiento?",
+      "options": [
+        "Monedas y palillos dispuestos en grupos de diez",
+        "Materiales de ensartado o ensamblado",
+        "Regletas Cuisenaire con diferencias de color",
+        "Fichas de colores para clasificar y contar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona el ensartado y el ensamblado como ejemplos de objetos de agrupación estructurada para trabajar el principio de agrupamiento en base 10. Las monedas y palillos son de agrupación no estructurada, y las regletas y fichas son materiales didácticos estructurados propiamente dichos."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones es correcta respecto a las propiedades de la suma en EP?",
+      "options": [
+        "La suma tiene propiedades conmutativa, asociativa, distributiva y de elemento neutro",
+        "La suma tiene propiedades conmutativa, asociativa y de elemento neutro, pero no distributiva",
+        "La suma tiene las mismas propiedades que la multiplicación, incluyendo la distributiva de la suma respecto del producto",
+        "La suma solo tiene las propiedades conmutativa y asociativa en los números naturales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la suma destacan las propiedades conmutativa, asociativa, distributiva y de elemento neutro. En la multiplicación también se trabajan estas propiedades más la distributiva del producto respecto de la suma. Distinguir qué propiedades corresponden a cada operación es fundamental para el trabajo en EP."
+    },
+    {
+      "question": "¿Qué argumenta el texto sobre la relación entre la enseñanza de los números y la 'toma de decisiones'?",
+      "options": [
+        "La toma de decisiones es una competencia social que no se trabaja específicamente en matemáticas",
+        "Los números y las formas son herramientas fundamentales para interpretar la realidad, tomar decisiones y resolver problemas cotidianos",
+        "La toma de decisiones matemáticas se desarrolla exclusivamente a través de la probabilidad y la estadística",
+        "La capacidad de tomar decisiones depende del desarrollo emocional, no del aprendizaje matemático"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto afirma que los números y las formas, aprendidos en EP, se convierten en herramientas fundamentales para interpretar la realidad, tomar decisiones y resolver problemas cotidianos. Esta visión funcional y aplicada justifica la centralidad del aprendizaje matemático en la etapa de Primaria."
+    },
+    {
+      "question": "¿Cuál es la razón por la que los materiales 'sin divisiones ni diferencias apreciables' como las fichas de colores son útiles para la numeración?",
+      "options": [
+        "Permiten desarrollar la comprensión del valor posicional mediante la agrupación libre",
+        "Sirven para clasificar o contar, siendo útiles cuando se quiere trabajar sin referencia visual a la magnitud",
+        "Son los más adecuados para introducir el principio de posición en los primeros cursos",
+        "Desarrollan exclusivamente la cardinalidad sin trabajar la ordinalidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las fichas de colores son materiales sin divisiones ni diferencias apreciables que sirven para clasificar o contar. Su uso es adecuado cuando se quiere trabajar el número sin que el material dé pistas visuales sobre el valor de cada pieza, lo que requiere mayor abstracción por parte del alumnado."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es uno de los cinco usos del número descritos por Gómez (1993)?",
+      "options": [
+        "Contar cantidades",
+        "Medir magnitudes",
+        "Codificar información",
+        "Operar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los cinco usos de los números según Gómez (1993) son: contar cantidades, numerar y ordenar elementos dentro de una serie, medir magnitudes, operar y ordenar estableciendo posiciones en secuencias. La codificación de información no aparece en esta clasificación, aunque es una función real de los números (como en el ISBN o en los códigos postales)."
+    },
+    {
+      "question": "¿Cuál es la relación entre los 'procesos matemáticos' y los 'sentidos matemáticos' en la enseñanza de las matemáticas en EP?",
+      "options": [
+        "Los procesos matemáticos son previos a los sentidos y deben desarrollarse antes",
+        "Los sentidos son competencias emocionales; los procesos son habilidades cognitivas independientes",
+        "Deben trabajarse de manera integrada, no como elementos separados",
+        "Los procesos matemáticos engloban a los sentidos matemáticos como subconjunto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los sentidos matemáticos deben trabajarse junto a los procesos matemáticos de manera integrada. No se conciben como elementos separados ni como previos uno al otro, sino como dimensiones complementarias del conocimiento matemático que se desarrollan conjuntamente a lo largo de la etapa."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la 'numeración hablada' y la 'numeración escrita' como representaciones numéricas?",
+      "options": [
+        "La numeración hablada es informal y la escrita es la oficial del currículo matemático",
+        "La numeración hablada es la expresión oral de los números; la escrita es su representación gráfica convencional",
+        "La numeración hablada precede siempre a la escrita en la secuencia de aprendizaje de EP",
+        "La numeración hablada y escrita son equivalentes y se trabajan simultáneamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La numeración hablada es la expresión oral de los números (el lenguaje numérico verbal), mientras que la escritura numérica es su representación gráfica convencional. Ambas formas de representación son dimensiones de la numeración que deben abordarse en el aula, junto con las cifras, las secuencias numéricas y el sistema posicional."
+    },
+    {
+      "question": "¿Cuál es el planteamiento del texto respecto a los 'materiales manipulativos' en relación con las TIC?",
+      "options": [
+        "Los materiales manipulativos son más eficaces para los primeros cursos y las TIC para los últimos",
+        "Las TIC pueden alcanzar los mismos objetivos que los manipulativos en entorno virtual, siendo un complemento nunca un sustituto",
+        "Los materiales manipulativos deben sustituirse progresivamente por las TIC conforme avanza la EP",
+        "Ambos tipos de recursos tienen ventajas e inconvenientes equivalentes sin relación de superioridad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los recursos digitales y las TIC permiten alcanzar los mismos objetivos que los materiales manipulativos en un entorno virtual, siendo un complemento y nunca un sustituto. Además, su uso exige cautela para que el foco permanezca en el problema matemático y no en el manejo del dispositivo."
+    },
+    {
+      "question": "¿Cuál es el argumento didáctico central para recomendar estimar antes de aplicar un cálculo exacto?",
+      "options": [
+        "La estimación desarrolla la velocidad de cálculo y reduce el tiempo de resolución",
+        "Sirve como mecanismo para detectar errores en algoritmos tradicionales",
+        "Prepara mentalmente al alumnado para la operación formal que viene a continuación",
+        "Desarrolla la competencia de aproximación necesaria para la vida cotidiana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se recomienda estimar antes de aplicar un cálculo exacto porque la estimación sirve como mecanismo para detectar errores: si el resultado estimado y el calculado difieren considerablemente, es probable que haya un error en el algoritmo. Esta función preventiva y verificadora es uno de los argumentos más sólidos para trabajar la estimación."
+    },
+    {
+      "question": "¿Qué garantiza la 'evaluación reguladora' cuando se adapta a la diversidad mediante distintos instrumentos y procedimientos?",
+      "options": [
+        "Que todos los alumnos alcancen los mismos estándares al final de la etapa",
+        "Que el proceso de enseñanza-aprendizaje se controle, oriente y mejore atendiendo a las distintas necesidades",
+        "Que se identifiquen los alumnos con dificultades para derivarlos a apoyos especializados",
+        "Que la evaluación sea objetiva e imparcial para todos los miembros del grupo-clase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación reguladora, al adaptarse a la diversidad mediante distintos instrumentos y procedimientos, garantiza que el proceso de enseñanza y aprendizaje se controle, oriente y mejore. Su función no es clasificar ni derivar al alumnado, sino proporcionar información continua para ajustar la enseñanza a las necesidades de cada estudiante."
+    },
+    {
+      "question": "¿Cuál es el nombre del proyecto del que forma parte el manual de Godino, Batanero y Font (2004) citado en el tema?",
+      "options": [
+        "Proyecto PISA de evaluación matemática internacional",
+        "Proyecto Edumat-Maestros",
+        "Proyecto de Didáctica de las Matemáticas de Granada",
+        "Proyecto TIMSS de innovación en la enseñanza de matemáticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El manual 'Didáctica de las matemáticas para maestros' de Godino, Batanero y Font (2004) forma parte del Proyecto Edumat-Maestros, disponible en la web de la Universidad de Granada. Este es el texto citado en el tema para las definiciones de número, concepto de número y uso de la calculadora."
+    },
+    {
+      "question": "¿Cuál es la aportación específica de Chamorro (2003) mencionada en la bibliografía del tema?",
+      "options": [
+        "Los cinco principios fundamentales del aprendizaje del conteo",
+        "El libro 'Didáctica de las matemáticas para primaria', publicado por Pearson Educación",
+        "La distinción entre los dos tipos de cálculo mental: estímulo-respuesta y pensado",
+        "La propuesta de los cuatro aspectos desde los que abordar el concepto de número"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chamorro, M.C. (2003) es citada en la bibliografía con su libro 'Didáctica de las matemáticas para primaria', publicado por Pearson Educación en Madrid. Es una de las cuatro obras de autor citadas en la bibliografía del tema, junto a Alsina (2004), Godino et al. (2004) y Rico y Flores (2015)."
+    },
+    {
+      "question": "¿Cuál es el modelo de Gelman y Gallistel (1978) que se menciona en el texto?",
+      "options": [
+        "El modelo de las etapas del desarrollo cognitivo matemático",
+        "El modelo del aprendizaje del conteo basado en cinco principios fundamentales",
+        "El modelo de las representaciones numéricas concretas, icónicas y simbólicas",
+        "El modelo de los niveles de abstracción en la comprensión del número"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El modelo de Gelman y Gallistel (1978) es el modelo del aprendizaje del conteo, que se basa en cinco principios fundamentales: correspondencia biunívoca, orden estable, cardinalidad, abstracción y orden indiferente. Este modelo es el referente psicológico más citado en el tema para explicar cómo se adquiere el conteo."
+    },
+    {
+      "question": "¿Cuál de los siguientes ejemplos ilustra mejor la 'perspectiva semántica' de la utilidad de los números?",
+      "options": [
+        "El número 3 es el sucesor del número 2 en el conjunto de los naturales",
+        "Para calcular 3 × 4 aplicamos la propiedad conmutativa: 3 × 4 = 4 × 3",
+        "Al ir al mercado, calculamos el total de la compra sumando los precios de cada artículo",
+        "Los números enteros negativos permiten extender el conjunto de los naturales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La perspectiva semántica o semiótica resalta la utilidad y aplicación de los números en contextos reales. El ejemplo de calcular el total de la compra ilustra directamente este aspecto, mostrando cómo los números se usan funcionalmente. Las otras opciones ilustran la perspectiva formal, operacional o sintáctica."
+    },
+    {
+      "question": "¿Cuántos cursos tiene la etapa de Educación Primaria a la que hace referencia el Decreto 155/2022?",
+      "options": [
+        "Cuatro cursos, organizados en dos ciclos",
+        "Seis cursos, organizados en tres ciclos",
+        "Cinco cursos, organizados en dos etapas",
+        "Seis cursos, organizados en dos etapas de tres cursos cada una"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Educación Primaria comprende seis cursos, organizados en tres ciclos de dos cursos cada uno. El Real Decreto 157/2022 y el Decreto 155/2022 regulan esta estructura. El texto hace referencia a los primeros cursos de EP como el periodo en que se desarrollan las nociones básicas de número y las primeras operaciones."
+    },
+    {
+      "question": "¿Qué diferencia existe entre el 'valor formativo' y el 'valor funcional' de las matemáticas según el texto?",
+      "options": [
+        "El valor formativo es académico; el valor funcional es para la vida cotidiana",
+        "El valor formativo contribuye a la adquisición de competencias y el desarrollo personal; el funcional permite aplicar los conocimientos a situaciones reales",
+        "Son conceptos equivalentes en el marco de la educación por competencias",
+        "El valor formativo se refiere a los contenidos conceptuales; el funcional a los procedimentales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los contenidos matemáticos presentan un alto valor formativo (contribuyen a la adquisición de las competencias clave y al desarrollo integral del alumnado) y funcional (permiten aplicar el conocimiento numérico a situaciones cotidianas de forma eficaz). Ambas dimensiones justifican la presencia central de las matemáticas en el currículo de EP."
+    },
+    {
+      "question": "¿Cuál es el argumento principal que justifica trabajar el cálculo de forma integrada a lo largo de toda la EP?",
+      "options": [
+        "Evitar que los alumnos pierdan las habilidades adquiridas entre un ciclo y otro",
+        "Garantizar que el cálculo —mental, estimado, escrito e instrumental— se trabaje de forma complementaria y progresiva",
+        "Cumplir con los requisitos curriculares del Decreto 155/2022 para cada ciclo",
+        "Facilitar la evaluación continua del aprendizaje matemático en todos los cursos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cálculo —mental, estimado, escrito e instrumental— debe trabajarse de forma integrada a lo largo de toda la etapa porque son procedimientos complementarios que se refuerzan mutuamente. No se trata de reservar cada tipo de cálculo a un ciclo concreto, sino de desarrollarlos conjuntamente con progresión."
+    },
+    {
+      "question": "¿Cuál es el objetivo de 'preparar al alumnado para cursar con aprovechamiento la Educación Secundaria Obligatoria' en relación con las matemáticas?",
+      "options": [
+        "Que el alumnado domine los contenidos del currículo de ESO antes de finalizar la EP",
+        "Que la formación integral de la EP, incluyendo el desarrollo matemático, proporcione las bases para afrontar la ESO",
+        "Que el alumnado memorice los algoritmos escritos de las cuatro operaciones para su uso en la ESO",
+        "Que la EP garantice el acceso a los estudios universitarios mediante el dominio matemático"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La finalidad de la EP, según el Decreto 155/2022, incluye preparar al alumnado para cursar con aprovechamiento la ESO. Esto implica que la formación integral de la EP —incluyendo el desarrollo matemático, competencial y personal— proporcione las bases sólidas para afrontar la etapa siguiente, no solo el dominio de contenidos específicos."
+    },
+    {
+      "question": "¿Cuál es la característica específica de los 'objetos cotidianos' como recursos didácticos para los números?",
+      "options": [
+        "Son materiales estructurados diseñados para la enseñanza formal",
+        "Son recursos no estructurados que no fueron pensados para educar, como monedas, billetes y piedras",
+        "Son materiales de agrupación estructurada que facilitan el principio de agrupamiento",
+        "Son recursos digitales que simulan objetos reales en entornos virtuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetos cotidianos (monedas, billetes, piedras, envases) son recursos manipulativos no estructurados, es decir, objetos que no fueron pensados específicamente para educar o jugar. Su valor didáctico reside en su conexión con la experiencia real del alumnado, siendo el punto de partida para el aprendizaje significativo."
+    },
+    {
+      "question": "¿Cuáles son las tres formas en que se clasifican los materiales didácticos estructurados en la enseñanza de la numeración según el texto?",
+      "options": [
+        "Concretos, semiabstractos y abstractos",
+        "Con divisiones divisibles, sin divisiones con diferencias apreciables, y sin divisiones ni diferencias apreciables",
+        "Manipulativos, representacionales y simbólicos",
+        "Para el principio de agrupamiento, para el de posición y para la representación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los materiales didácticos estructurados se clasifican en: materiales con divisiones divisibles (como bloques multibase o Montessori), materiales sin divisiones pero con diferencias apreciables en tamaño o color (como regletas Cuisenaire) y materiales sin divisiones y sin diferencias apreciables pero útiles para clasificar o contar (como fichas de colores)."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el 'aprendizaje basado en problemas' y el 'aprendizaje basado en proyectos' como metodologías activas en las matemáticas?",
+      "options": [
+        "El basado en problemas es individual; el basado en proyectos es cooperativo",
+        "Ambas son metodologías activas y globalizadoras que responden a la diversidad de aula; el primero parte de problemas concretos y el segundo de proyectos más amplios e interdisciplinares",
+        "El basado en problemas se aplica exclusivamente en matemáticas; el de proyectos es interdisciplinar",
+        "Son equivalentes y pueden usarse indistintamente como metodologías activas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ambas son metodologías activas y globalizadoras mencionadas en el Decreto 155/2022 para la enseñanza de las matemáticas. Aunque el texto no las diferencia en detalle, el aprendizaje basado en problemas parte de problemas concretos a resolver, mientras que el de proyectos implica procesos más amplios e interdisciplinares. Ambas responden a la diversidad de aula."
+    },
+    {
+      "question": "¿Cuál es la descripción del concepto de 'cálculo' en relación con las operaciones aritméticas según el texto?",
+      "options": [
+        "El cálculo es el conjunto de técnicas simbólicas para representar y manipular números",
+        "El cálculo es el proceso práctico de aplicar las operaciones, pudiendo realizarse de varias formas",
+        "El cálculo es el resultado numérico obtenido tras aplicar una operación matemática",
+        "El cálculo es la rama de las matemáticas que estudia las operaciones con números"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cálculo aritmético es el proceso práctico de aplicar las operaciones, pudiendo realizarse de varias formas: mediante algoritmos escritos, manipulación de objetos, material didáctico estructurado, calculadora o mediante hechos numéricos y estrategias mentales. Se distingue del algoritmo, que es la técnica o fórmula."
+    },
+    {
+      "question": "¿Cuáles son los dos grandes autores que fundamentan las dos principales perspectivas psicológicas del aprendizaje del número presentes en el tema?",
+      "options": [
+        "Vygotsky y Bruner: zona de desarrollo próximo y representaciones simbólicas",
+        "Piaget y Gelman-Gallistel: periodo de operaciones concretas y principios del conteo",
+        "Montessori y Dewey: materiales estructurados y aprendizaje experiencial",
+        "Gardner y Flavell: inteligencias múltiples y metacognición matemática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tema integra dos grandes referentes psicológicos: Piaget, con su modelo del periodo de operaciones concretas y las tres nociones previas (conservación, seriación, inclusión de clases), y Gelman-Gallistel (1978), con los cinco principios del aprendizaje del conteo. Ambos marcos complementan la comprensión del desarrollo del número en EP."
+    },
+    {
+      "question": "¿Cuál es la aportación de Rico y Flores (2015) mencionada en la bibliografía del tema?",
+      "options": [
+        "Los principios fundamentales del aprendizaje del conteo",
+        "El libro 'Enseñanza y aprendizaje de las matemáticas en Educación Primaria', publicado por Pirámide",
+        "La clasificación de los hechos numéricos en aditivos y multiplicativos",
+        "Las orientaciones sobre el uso de la calculadora en la EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rico, L. y Flores, P. (2015) son citados con el libro 'Enseñanza y aprendizaje de las matemáticas en Educación Primaria', publicado por Pirámide en Madrid. Es una de las cuatro obras de autor citadas en la bibliografía del tema, junto a Alsina (2004), Chamorro (2003) y Godino et al. (2004)."
+    },
+    {
+      "question": "¿Cuál es el papel del 'Anexo II' del Decreto 155/2022 en la organización del área de matemáticas?",
+      "options": [
+        "Define los criterios de evaluación para cada curso de EP",
+        "Recoge los objetivos del área de matemáticas en su epígrafe 9",
+        "Establece los horarios mínimos para el área de matemáticas",
+        "Describe los recursos didácticos recomendados para la enseñanza matemática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Anexo II del Decreto 155/2022 recoge en su epígrafe 9 los objetivos del área de matemáticas, siendo ocho los objetivos establecidos. Entre ellos, el OBJ1 está más directamente relacionado con los números y el cálculo: 'Interpretar situaciones de la vida cotidiana proporcionando una representación matemática'."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un ejemplo de 'entorno cotidiano' mencionado explícitamente en el texto como recurso para el aprendizaje de los números?",
+      "options": [
+        "Los billetes de banco y las monedas de distintas denominaciones",
+        "Los autobuses, ascensores, matrículas, portales y tickets de compra",
+        "Los calendarios y relojes presentes en el aula",
+        "Las reglas y cintas métricas como instrumentos de medida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto menciona explícitamente como elementos del entorno útiles para el aprendizaje de los números: los autobuses, ascensores, matrículas, portales y tickets de compra. Estos contextos permiten trabajar clasificaciones, ordenaciones, seriaciones, comparaciones y análisis de datos a partir de situaciones reales y motivadoras."
+    },
+    {
+      "question": "¿Cuál es la propuesta del texto respecto al 'aprendizaje cooperativo' y su relación con la inclusión?",
+      "options": [
+        "El aprendizaje cooperativo debe complementarse con aprendizaje individual para garantizar la inclusión",
+        "El aprendizaje cooperativo para resolver problemas matemáticos conjuntamente promueve la inclusión, la igualdad y la convivencia",
+        "La inclusión se garantiza mediante adaptaciones curriculares individuales, con el cooperativo como apoyo",
+        "El cooperativo es el método más eficaz para alumnos con necesidades educativas especiales en matemáticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje cooperativo resulta clave para resolver problemas de manera conjunta, promoviendo la inclusión, la igualdad y la convivencia. Esta es la relación directa que establece el Decreto 155/2022 entre el aprendizaje cooperativo en matemáticas y los valores de inclusión e igualdad."
+    },
+    {
+      "question": "¿En qué sentido afirma el texto que el aprendizaje de los números 'contribuye al desarrollo de la alfabetización numérica'?",
+      "options": [
+        "Garantizando el dominio de los algoritmos escritos de las cuatro operaciones en EP",
+        "Desarrollando la capacidad para utilizar, relacionar, interpretar y aplicar números y operaciones en situaciones cotidianas",
+        "Asegurando el acceso a los números decimales y fraccionarios en los últimos cursos de EP",
+        "Proporcionando el vocabulario matemático necesario para la comprensión lectora en matemáticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La alfabetización numérica se entiende como la capacidad para utilizar, relacionar, interpretar y aplicar números y operaciones en situaciones cotidianas de forma eficaz. El aprendizaje de los números contribuye a su desarrollo no mediante el dominio de algoritmos aislados, sino a través de una comprensión funcional y aplicada."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el 'numerador' y el 'denominador' en una fracción?",
+      "options": [
+        "El numerador indica cuántas partes tiene el todo; el denominador cuántas se toman",
+        "El numerador (a) indica las partes tomadas; el denominador (b) indica el número de partes iguales en que se divide el todo, siendo siempre distinto de cero",
+        "El numerador siempre es menor que el denominador en las fracciones propias",
+        "El numerador y el denominador son intercambiables en las fracciones equivalentes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la expresión a/b, a es el numerador (indica las partes que se toman) y b es el denominador (indica el número de partes iguales en que se divide el todo), siendo b siempre distinto de cero. Si el numerador es menor que el denominador, la fracción es propia (valor menor que 1); si es igual o mayor, es impropia."
+    },
+    {
+      "question": "¿Cuál es la importancia del 'valor formativo y funcional' de los números para las competencias clave?",
+      "options": [
+        "Permite que las matemáticas se evalúen mediante todos los instrumentos de evaluación de las CC",
+        "Los números y el cálculo contribuyen a la adquisición de las competencias clave, especialmente la matemática y STEM",
+        "Garantiza que los contenidos matemáticos se integren en todas las áreas del currículo",
+        "Establece que los números son la base de todas las competencias clave sin excepción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alto valor formativo y funcional de los números y las operaciones contribuye a la adquisición de las competencias clave, especialmente a la consecución de la alfabetización numérica y al desarrollo de la Competencia Matemática y STEM. Esta es la razón curricular fundamental para la centralidad de los números en la EP."
+    },
+    {
+      "question": "¿Cuál es la propuesta del texto para el aprendizaje de la 'ordenación de los números en la EP'?",
+      "options": [
+        "La ordenación es una propiedad exclusiva de los números naturales que no se extiende a los enteros",
+        "Los números tienen una relación de orden (menor, mayor o igual) que permite situarlos en una semirrecta o recta según el conjunto numérico",
+        "La ordenación de los números se trabaja exclusivamente a través de la recta numérica",
+        "La ordenación numérica es previa al conteo y debe aprenderse en Educación Infantil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los números naturales tienen una relación de orden (menor, mayor o igual) que permite situarlos en una semirrecta que comienza en el cero. Los números enteros, al incorporar los negativos, permiten situarlos en una recta completa. La ordenación es una propiedad fundamental que conecta la cardinalidad con la ordinalidad."
+    },
+    {
+      "question": "¿Cuál es el concepto de 'aprendizaje progresivo' aplicado a las operaciones de cálculo según el texto?",
+      "options": [
+        "Cada operación se introduce en un curso específico y no se trabaja antes ni después",
+        "Las operaciones de cálculo se abordan de manera progresiva con el fin de fortalecer la comprensión numérica y su aplicación en distintos contextos",
+        "La progresión se basa en la dificultad algorítmica: suma, resta, multiplicación y división",
+        "El aprendizaje progresivo implica introducir primero los naturales, luego los enteros, fraccionarios y decimales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las operaciones de cálculo se abordan de manera progresiva con el fin de fortalecer la comprensión numérica y su aplicación en distintos contextos. Esta progresividad no es solo de complejidad algorítmica sino de comprensión conceptual y aplicación en situaciones cada vez más complejas y variadas."
+    },
+    {
+      "question": "¿Cuál es la relación entre la 'Competencia Matemática' y las actividades de cálculo según el texto?",
+      "options": [
+        "Las actividades de cálculo son la base exclusiva de la competencia matemática en EP",
+        "El desarrollo de la competencia matemática requiere integrar el cálculo con el razonamiento y la resolución de problemas",
+        "La competencia matemática se adquiere fundamentalmente a través de los algoritmos escritos",
+        "El cálculo mental es el componente de la competencia matemática más valorado en la EP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El desarrollo de la competencia matemática va más allá del cálculo, integrando el razonamiento matemático para resolver problemas en diferentes contextos. La Competencia Matemática y STEM permite aplicar el razonamiento matemático, y su desarrollo requiere combinar cálculo, comprensión conceptual y resolución de problemas."
+    },
+    {
+      "question": "¿Cuál de las siguientes publicaciones está disponible en la web de la Universidad de Granada según la referencia bibliográfica del tema?",
+      "options": [
+        "Alsina (2004): Desarrollo de competencias matemáticas con recursos lúdico-manipulativos",
+        "Godino, Batanero y Font (2004): Didáctica de las matemáticas para maestros",
+        "Rico y Flores (2015): Enseñanza y aprendizaje de las matemáticas en EP",
+        "Chamorro (2003): Didáctica de las matemáticas para primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El manual de Godino, Batanero y Font (2004) 'Didáctica de las matemáticas para maestros. Proyecto Edumat-Maestros' está disponible en la web de la Universidad de Granada (ugr.es/~jgodino). Esta referencia es la única con URL específica entre las obras de autor citadas en el tema."
+    },
+    {
+      "question": "¿Cuál es el argumento pedagógico para que los docentes 'fomenten y mantengan el interés por los métodos matemáticos tradicionales' en el contexto digital?",
+      "options": [
+        "Los métodos tradicionales son más eficaces para desarrollar el pensamiento formal",
+        "La tecnología puede desplazar el foco hacia el dispositivo en lugar del problema matemático, por lo que el interés por métodos tradicionales garantiza el aprendizaje real",
+        "Los métodos tradicionales son más accesibles para todo el alumnado, incluido el que no tiene dispositivos",
+        "Los métodos tradicionales forman parte del patrimonio cultural matemático que debe preservarse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El docente debe fomentar y mantener el interés por los métodos matemáticos tradicionales porque el uso de la tecnología exige cautela: puede hacer que el foco se desplace al manejo del dispositivo en lugar del problema matemático. Garantizar el interés por los métodos tradicionales asegura que el aprendizaje real no se pierda."
+    },
+    {
+      "question": "¿Cuál es la contribución específica de la 'base del aprendizaje matemático' que desempeñan los números y el cálculo?",
+      "options": [
+        "Permiten el acceso a los contenidos de geometría y estadística en ciclos posteriores",
+        "Constituyen la base del aprendizaje matemático y son fundamentales para otras disciplinas científicas",
+        "Son el prerequisito para el desarrollo del pensamiento algebraico en la ESO",
+        "Fundamentan la competencia digital mediante el uso de calculadoras y herramientas tecnológicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Más allá de las funciones prácticas, la numeración y el cálculo son la base del aprendizaje matemático y fundamentales para otras disciplinas científicas. También contribuyen al desarrollo de habilidades cognitivas de alto nivel, reforzando el pensamiento lógico y la capacidad de resolución de problemas en múltiples contextos."
+    },
+    {
+      "question": "¿Cuál es la razón por la que el texto describe el aprendizaje de los números en EP como 'inicialmente en torno a los números y las formas'?",
+      "options": [
+        "Porque la geometría y la aritmética son las dos ramas más antiguas de las matemáticas",
+        "Porque en los primeros años de EP el aprendizaje gira en torno a números y formas como herramientas para interpretar la realidad",
+        "Porque los números y las formas son los contenidos más sencillos del currículo matemático",
+        "Porque el currículo establece que los números y las formas se trabajen antes que la medida y la estadística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la EP, el aprendizaje gira inicialmente en torno a los números y las formas, conceptos que se convierten en herramientas fundamentales para interpretar la realidad, tomar decisiones y resolver problemas cotidianos. Esta afirmación no implica una secuencia rígida sino que describe el núcleo del aprendizaje matemático en los primeros años."
+    },
+    {
+      "question": "¿Qué diferencia el 'cálculo con calculadora' de los otros procedimientos de cálculo en el contexto de EP?",
+      "options": [
+        "La calculadora produce resultados más rápidos y fiables que cualquier otro procedimiento",
+        "Es un apoyo al cálculo mental y escrito que debe emplearse de forma complementaria, reservándose para situaciones específicas",
+        "Es el procedimiento más moderno y debe reemplazar gradualmente al cálculo escrito",
+        "Se utiliza principalmente para la estimación y la verificación de resultados aproximados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La calculadora es un apoyo al cálculo mental y escrito que puede emplearse de forma complementaria. En EP se priorizará el cálculo mental y los algoritmos escritos, reservando la calculadora para situaciones específicas en que el volumen de datos o la complejidad del problema así lo justifiquen. Es un instrumento, no un método principal."
+    },
+    {
+      "question": "¿Cuáles son los dos grandes aspectos en torno a los que se articula el dominio de la numeración y el cálculo en EP?",
+      "options": [
+        "El conocimiento teórico y la práctica procedimental",
+        "La numeración y las operaciones aritméticas",
+        "El cálculo mental y el cálculo escrito",
+        "Los números naturales y las operaciones básicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El dominio de los contenidos de numeración y cálculo requiere desarrollar conocimientos, capacidades y destrezas en torno a dos grandes aspectos: la numeración (comprensión de los números, sus representaciones y las relaciones entre ellos) y las operaciones aritméticas (comprensión, significado y aplicación en la resolución de problemas)."
+    },
+    {
+      "question": "¿Qué aspecto central de la conclusión del tema refleja mejor el enfoque pedagógico del Decreto 155/2022?",
+      "options": [
+        "El dominio de los algoritmos escritos es la base del pensamiento matemático en EP",
+        "El cálculo, el escrito, la estimación y la calculadora deben trabajarse de forma complementaria integrando materiales manipulativos y recursos digitales en un proceso reflexivo y emocionalmente seguro",
+        "Las TIC son la principal herramienta para el aprendizaje de los números en el siglo XXI",
+        "La competencia matemática se adquiere progresivamente desde los números naturales hasta los decimales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La conclusión del tema recoge que el cálculo mental, el escrito, la estimación y el uso de la calculadora deben trabajarse de forma complementaria, integrando los materiales manipulativos y los recursos digitales en un proceso de aprendizaje reflexivo y emocionalmente seguro. Este enfoque integrador y equilibrado refleja el espíritu pedagógico del Decreto 155/2022."
+    }
+  ]
+}

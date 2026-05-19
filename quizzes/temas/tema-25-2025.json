@@ -1,0 +1,2065 @@
+{
+  "title": "Tema 25: Recogida, organización y representación de la información",
+  "description": "Estadística en Educación Primaria: tablas de datos, tipos de gráficos, aplicaciones interdisciplinares y uso de las TIC para el tratamiento de datos.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué autor señala que 'la estadística es una parte de la educación necesaria para adquirir la capacidad de leer e interpretar tablas y gráficos estadísticos que con frecuencia aparecen en los medios de comunicación'?",
+      "options": [
+        "Godino (2004)",
+        "Alsina (2004)",
+        "Chamorro (2003)",
+        "Vygotsky (1978)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es Godino (2004) quien realiza esta afirmación sobre la estadística y su presencia en los medios de comunicación. Alsina (2004) es citado en relación al juego y la estadística como medio para conocer la realidad, mientras que Chamorro y Vygotsky abordan otros aspectos."
+    },
+    {
+      "question": "El marco normativo principal que sustenta el Tema 25 en la Comunidad Autónoma de Galicia es:",
+      "options": [
+        "El Decreto 155/2022, de 15 de septiembre, y la LOMLOE",
+        "El Real Decreto 157/2022 y la LOE de 2006",
+        "La Orden de 26 de mayo de 2023 y la LOMCE",
+        "El Decreto 374/1996 y la LOMLOE"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El marco normativo principal es la LOMLOE (Ley Orgánica 3/2020) y el Decreto 155/2022, de 15 de septiembre, que establece la ordenación y el currículo de Educación Primaria en Galicia. El Real Decreto 157/2022 complementa pero no es el eje principal autonómico."
+    },
+    {
+      "question": "¿En qué artículo del Decreto 155/2022 se destaca la importancia del área de matemáticas como finalidad de la EP?",
+      "options": [
+        "Artículo 4",
+        "Artículo 7",
+        "Artículo 8",
+        "Artículo 12"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece la finalidad de la EP, mencionando el área de matemáticas. El artículo 7 recoge los objetivos de etapa y el artículo 8 hace referencia a las competencias clave."
+    },
+    {
+      "question": "El objetivo de etapa que implica 'desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas' aparece en el Decreto 155/2022 como:",
+      "options": [
+        "Objetivo de etapa 'g' del artículo 7",
+        "Objetivo de etapa 'i' del artículo 7",
+        "Finalidad del artículo 4",
+        "Competencia del artículo 8"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo de etapa 'g' del artículo 7 del Decreto 155/2022 es el que implica desarrollar las competencias matemáticas básicas. El objetivo 'i' hace referencia a las competencias tecnológicas digitales."
+    },
+    {
+      "question": "Los contenidos del Tema 25 se relacionan con el bloque del Decreto 155/2022:",
+      "options": [
+        "Bloque 5 'Sentido estocástico'",
+        "Bloque 3 'Sentido numérico'",
+        "Bloque 4 'Sentido espacial'",
+        "Bloque 2 'Sentido algebraico'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 5 'Sentido estocástico' es el que orienta hacia el razonamiento, interpretación y valoración de datos para la toma de decisiones a partir de información estadística, que es el núcleo del Tema 25."
+    },
+    {
+      "question": "¿Cuál es la definición más precisa de 'estadística' según el tema?",
+      "options": [
+        "Ciencia que estudia, recoge, analiza y ordena datos con el fin de obtener conclusiones, hacer predicciones y tomar decisiones fundamentadas",
+        "Método matemático para calcular medias y frecuencias de conjuntos de datos numéricos",
+        "Disciplina que organiza únicamente datos cuantitativos mediante tablas y gráficos para facilitar su visualización",
+        "Procedimiento lógico de recogida y representación de datos cualitativos y cuantitativos en muestras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La definición recogida en el tema es que la estadística 'es la ciencia que estudia, recoge, analiza y ordena datos con el fin de obtener conclusiones, hacer predicciones y tomar decisiones fundamentadas'. Las demás opciones son parciales o inexactas."
+    },
+    {
+      "question": "Una 'población infinita' en estadística se caracteriza por:",
+      "options": [
+        "Tener un número de elementos muy elevado o ilimitado",
+        "Tener exactamente un número ilimitado de elementos sin posibilidad de acotarse",
+        "Ser una población que no puede ser estudiada ni mediante muestra",
+        "Poseer elementos que no pueden ser contados ni clasificados cualitativamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una población infinita tiene un número de elementos muy elevado o ilimitado, en contraposición a la finita, que tiene un número limitado de elementos. No implica que sea absolutamente incontable ni que no pueda usarse muestra."
+    },
+    {
+      "question": "En estadística, el término 'dato' hace referencia a:",
+      "options": [
+        "Cada uno de los individuos, elementos u objetos que componen una población",
+        "Cada valor numérico obtenido tras medir una variable cuantitativa continua",
+        "La frecuencia absoluta de un elemento en el conjunto total de la muestra",
+        "Cualquier resultado de una encuesta que puede ser cuantificado numéricamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El 'dato' se define como cada uno de los individuos, elementos u objetos que componen una población determinada. No se limita a valores numéricos ni a resultados de encuesta."
+    },
+    {
+      "question": "¿Qué distingue al 'censo' de la 'muestra' en estadística?",
+      "options": [
+        "El censo recoge información de todos los elementos de la población; la muestra es una parte representativa",
+        "El censo analiza datos cualitativos; la muestra analiza datos cuantitativos de la población",
+        "El censo usa encuestas; la muestra utiliza observación sistemática como técnica principal",
+        "El censo se aplica a poblaciones finitas; la muestra a poblaciones infinitas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El censo es el procedimiento en el que se recoge y analiza información de todos los elementos de la población, mientras que la muestra es una parte representativa seleccionada cuando analizar toda la población es inviable."
+    },
+    {
+      "question": "Las variables estadísticas 'ordinales' se caracterizan por:",
+      "options": [
+        "Presentar una jerarquía entre las categorías, como un nivel de satisfacción o una calificación académica",
+        "Identificar categorías sin orden, como el color de ojos o el género",
+        "Expresar un carácter que puede ser medido con un número discreto y finito",
+        "Tomar cualquier valor posible dentro de un intervalo determinado como la temperatura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las variables ordinales son un subtipo de las cualitativas que presentan jerarquía entre categorías. Las nominales no tienen orden. Las variables cuantitativas (discretas o continuas) se miden con números."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un ejemplo de variable cuantitativa discreta?",
+      "options": [
+        "Número de alumnos en una clase",
+        "Temperatura registrada en un observatorio meteorológico",
+        "Altura media del alumnado de un ciclo educativo",
+        "Nivel de satisfacción de los docentes con la formación recibida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El número de alumnos en una clase es discreta porque toma valores contables y finitos. La temperatura y la altura son variables continuas. El nivel de satisfacción es cualitativa ordinal."
+    },
+    {
+      "question": "La frecuencia relativa se calcula como:",
+      "options": [
+        "El cociente entre la frecuencia absoluta y el número total de datos",
+        "El número de veces que se repite un dato en el conjunto total",
+        "La suma de todas las frecuencias absolutas dividida entre la moda",
+        "La diferencia entre la frecuencia acumulada y la frecuencia absoluta del dato"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La frecuencia relativa es el cociente entre la frecuencia absoluta y el número total de datos, indicando la importancia proporcional de un dato. La frecuencia absoluta es el número de repeticiones sin dividir."
+    },
+    {
+      "question": "¿Cuál es la primera fase del método estadístico según el tema?",
+      "options": [
+        "Definir la variable que va a ser objeto de estudio",
+        "Delimitar el colectivo concretando los elementos incluidos en el estudio",
+        "Elegir una muestra y evaluar su fiabilidad",
+        "Recoger los datos mediante técnicas e instrumentos adecuados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La primera fase es definir la variable de estudio. A continuación se delimita el colectivo, luego se elige la muestra, y después se recogen los datos. El orden lógico es fundamental para el método estadístico."
+    },
+    {
+      "question": "Entre las técnicas de recogida de datos recogidas en el tema, ¿cuál NO se menciona explícitamente?",
+      "options": [
+        "Experimentación en laboratorio",
+        "Observación sistemática o continua",
+        "Encuestas",
+        "Sociometría"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La experimentación en laboratorio no se menciona como técnica de recogida de datos en el tema. Sí se citan la observación sistemática, la observación asistemática, las encuestas y la sociometría."
+    },
+    {
+      "question": "La 'tabulación de datos' en el método estadístico consiste en:",
+      "options": [
+        "La ordenación y agrupación de los datos recogidos en tablas para su análisis posterior",
+        "El análisis de los datos para determinar las características del fenómeno estudiado",
+        "La representación gráfica de los datos a través de tablas o gráficos estadísticos",
+        "La fase de contraste de hipótesis y emisión de una generalización final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tabulación de datos es la quinta fase del método estadístico y consiste en ordenar y agrupar los datos en tablas para su análisis posterior. El análisis es la fase siguiente y la representación gráfica viene después."
+    },
+    {
+      "question": "En EP, la última fase del método estadístico se concreta en que el alumnado:",
+      "options": [
+        "Sea capaz de responder a la pregunta inicial del estudio a partir de los datos analizados, expresando conclusiones oral y escrita",
+        "Diseñe y ejecute un nuevo estudio estadístico más complejo a partir de los resultados obtenidos",
+        "Contraste hipótesis mediante procedimientos probabilísticos formales propios del nivel académico",
+        "Elabore una generalización matemática verificable mediante cálculo de frecuencias relativas acumuladas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En EP, la última fase (contrastar hipótesis y emitir generalización) se adapta al nivel evolutivo: el alumnado responde a la pregunta inicial de estudio expresando conclusiones de forma oral y escrita, sin procedimientos probabilísticos formales."
+    },
+    {
+      "question": "¿Cuántas características principales de las tablas de datos se mencionan en el tema?",
+      "options": [
+        "Cuatro: claras, concisas, precisas y autoexplicativas",
+        "Tres: claras, concisas y precisas",
+        "Cinco: claras, concisas, precisas, autoexplicativas y atractivas",
+        "Cuatro: claras, ordenadas, precisas y comparables"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema indica exactamente cuatro características de las tablas de datos: claras (visión completa y rápida), concisas (solo información relevante), precisas (sin errores en transcripción) y autoexplicativas (mediante título y encabezado)."
+    },
+    {
+      "question": "¿Qué parte de una tabla de datos identifica los datos organizados verticalmente?",
+      "options": [
+        "El encabezado de columna",
+        "El encabezado de fila",
+        "El título o campo del cuerpo",
+        "Las notas al pie de la tabla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El encabezado de columna identifica los datos organizados verticalmente (de arriba abajo). El encabezado de fila detalla los datos organizados horizontalmente (de izquierda a derecha)."
+    },
+    {
+      "question": "Según las recomendaciones didácticas del tema para elaborar tablas en el aula, ¿qué conviene ubicar en las filas?",
+      "options": [
+        "El concepto principal sobre el que se quiere informar",
+        "Las variables cuantitativas continuas del estudio estadístico",
+        "Los encabezados que identifican categorías de datos secundarios",
+        "Los valores numéricos de frecuencias absolutas y relativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La primera recomendación didáctica es ubicar en filas el concepto principal sobre el que se quiere informar. Esto facilita la lectura e interpretación de la tabla por parte del alumnado."
+    },
+    {
+      "question": "¿Qué condición mínima debe existir para poder elaborar un gráfico estadístico?",
+      "options": [
+        "Como mínimo, dos elementos de comparación",
+        "Al menos tres categorías de datos cualitativos distintos",
+        "Un mínimo de cinco datos en la muestra estadística",
+        "La existencia de frecuencias relativas calculadas previamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para poder elaborar un gráfico estadístico debe existir, como mínimo, dos elementos de comparación. No se requieren tres categorías, ni cinco datos, ni frecuencias relativas calculadas."
+    },
+    {
+      "question": "¿Qué tipo de gráfico 'representa la evolución o continuidad de los datos a lo largo del tiempo'?",
+      "options": [
+        "Gráfico de líneas o lineal",
+        "Diagrama de barras",
+        "Histograma",
+        "Diagrama de sectores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El gráfico de líneas o lineal representa la evolución o continuidad de los datos a lo largo del tiempo, uniendo puntos mediante una línea. El diagrama de barras compara categorías, el histograma muestra frecuencias en rangos y el de sectores muestra porcentajes."
+    },
+    {
+      "question": "¿Cuál es la diferencia fundamental entre el histograma y el diagrama de barras?",
+      "options": [
+        "En el histograma no hay separación entre columnas y se usan para datos agrupados en rangos; las barras tienen separación y comparan categorías",
+        "El histograma usa barras horizontales; el diagrama de barras usa columnas verticales",
+        "El histograma representa porcentajes; el diagrama de barras representa frecuencias absolutas",
+        "El histograma se usa para variables cualitativas; el diagrama de barras para variables cuantitativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La diferencia clave es que el histograma usa columnas verticales sin separación entre ellas para representar frecuencias de datos agrupados en rangos. El diagrama de barras tiene separación entre rectángulos y compara categorías o su evolución."
+    },
+    {
+      "question": "Los polígonos de frecuencias se obtienen:",
+      "options": [
+        "Uniendo con una línea los puntos medios de las barras superiores de un histograma",
+        "Uniendo los extremos superiores de las barras de un diagrama de barras con una recta",
+        "Dividiendo un círculo en sectores proporcionales a las frecuencias de cada categoría",
+        "Representando los valores de la muestra como puntos en un eje numérico continuo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los polígonos de frecuencias se obtienen uniendo con una línea los puntos medios de las barras superiores de un histograma, lo que facilita comparar varias distribuciones superpuestas en un mismo gráfico."
+    },
+    {
+      "question": "¿Para qué tipo de representación son especialmente adecuados los diagramas de sectores o circulares?",
+      "options": [
+        "Para representar y visualizar porcentajes dentro de un total",
+        "Para comparar la evolución de datos a lo largo del tiempo",
+        "Para representar distribuciones de datos agrupados en intervalos",
+        "Para mostrar la frecuencia de datos en conjuntos pequeños de valores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El diagrama de sectores es especialmente adecuado para representar y visualizar porcentajes, ya que cada categoría ocupa un sector proporcional al porcentaje que representa dentro del total."
+    },
+    {
+      "question": "¿Cuál es una característica definitoria de los pictogramas como tipo de gráfico?",
+      "options": [
+        "Emplean imágenes o iconos relacionados con los datos que se quieren representar",
+        "Representan la distribución por edad y sexo mediante barras horizontales enfrentadas",
+        "Combinan barras verticales con un gráfico de líneas en la misma representación",
+        "Sitúan un punto por cada valor del conjunto de datos en un eje numérico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los pictogramas emplean imágenes o iconos relacionados con los datos. Son visuales, atractivos y accesibles, especialmente para los primeros cursos de EP. Las barras horizontales enfrentadas describen las pirámides de población."
+    },
+    {
+      "question": "¿Qué gráfico combina barras verticales unidas (para precipitaciones) con un gráfico de líneas (para temperaturas)?",
+      "options": [
+        "Climograma",
+        "Histograma",
+        "Cartograma",
+        "Polígono de frecuencias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El climograma es el gráfico que combina barras verticales unidas para representar precipitaciones junto con un gráfico de líneas para temperaturas. El histograma solo usa columnas; el cartograma usa mapas; el polígono de frecuencias deriva del histograma."
+    },
+    {
+      "question": "Las pirámides de población o pirámides demográficas se definen como:",
+      "options": [
+        "Dobles histogramas de barras horizontales enfrentadas que muestran la distribución de la población por edad y sexo",
+        "Gráficos de sectores dobles que comparan distribuciones de datos en dos grupos distintos",
+        "Polígonos de frecuencias superpuestos que representan datos demográficos en intervalos de edad",
+        "Diagramas de barras verticales en grupos que comparan poblaciones por franjas etarias y género"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las pirámides demográficas son dobles histogramas de barras horizontales enfrentadas que muestran la distribución de la población por edad y sexo, permitiendo analizar su estructura, evolución, natalidad, mortalidad y grado de envejecimiento."
+    },
+    {
+      "question": "¿Qué tipos de gráficos se mencionan como propios del último ciclo de EP, además de los seis principales?",
+      "options": [
+        "Diagramas de árbol, organigramas, diagramas de Venn y diagramas 3D",
+        "Cartogramas, climogramas, pirámides de población y diagramas de puntos",
+        "Polígonos de frecuencias, histogramas, gráficos lineales y diagramas circulares",
+        "Diagramas de dispersión, cajas y bigotes, y gráficos de radar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el último ciclo se pueden introducir diagramas de árbol, organigramas, línea cronológica, diagramas de Venn, esquemas y mapas conceptuales, árboles genealógicos, pirámides alimenticias y diagramas 3D, entre otros."
+    },
+    {
+      "question": "Respecto al vocabulario en los gráficos, ¿qué característica general debe tener?",
+      "options": [
+        "Ser común y comprensible para el nivel del alumnado, evitando tecnicismos",
+        "Ser técnico y preciso para habituar al alumnado al lenguaje matemático formal",
+        "Ser breve y limitado a etiquetas numéricas para reducir la carga cognitiva",
+        "Adaptarse al idioma vehicular del aula, independientemente del ciclo educativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una de las características generales de los gráficos es que el vocabulario usado debe ser común y comprensible para el nivel del alumnado, evitando tecnicismos. El objetivo es la comunicabilidad y claridad, no el rigor terminológico."
+    },
+    {
+      "question": "¿Qué indica el tema sobre el empleo del colorido en los gráficos?",
+      "options": [
+        "Facilita la comparación visual y diferenciación de categorías, pero debe evitarse su exceso y los tonos excesivamente chillones",
+        "Debe usarse con moderación, prefiriendo escalas de grises para evitar distracciones visuales",
+        "Es opcional y puede omitirse cuando el gráfico incluye etiquetas numéricas suficientes",
+        "Se reserva para los gráficos del tercer ciclo, ya que en los primeros cursos distorsiona la comprensión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El empleo adecuado del colorido facilita la comparación visual y diferenciación de categorías, pero debe evitarse su exceso y los tonos excesivamente chillones. No se limita al tercer ciclo ni se recomienda escala de grises."
+    },
+    {
+      "question": "La definición de 'currículo' que ofrece la LOMLOE en su artículo 6 incluye:",
+      "options": [
+        "Objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación",
+        "Objetivos, contenidos, actividades, recursos materiales y criterios de evaluación",
+        "Competencias clave, saberes básicos, situaciones de aprendizaje y criterios de calificación",
+        "Finalidades, objetivos, contenidos, metodología y estándares de aprendizaje evaluables"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE define el currículo en su artículo 6 como el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas reguladas en la Ley."
+    },
+    {
+      "question": "En el primer ciclo de EP, ¿qué tipos de datos trabaja el alumnado preferentemente según el Decreto 155/2022?",
+      "options": [
+        "Datos cualitativos principalmente, incorporando datos cuantitativos en muestras pequeñas en segundo curso",
+        "Datos cuantitativos discretos desde primero y datos cualitativos ordinales desde segundo",
+        "Datos de frecuencia absoluta y relativa desde el inicio del primer ciclo",
+        "Datos cuantitativos continuos extraídos de mediciones de variables temporales y meteorológicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo, el trabajo se centra en datos cualitativos para recoger, clasificar y representar, incorporando en segundo curso los datos cuantitativos en muestras pequeñas. La frecuencia absoluta se introduce en el segundo ciclo."
+    },
+    {
+      "question": "¿Qué instrumento de representación se introduce específicamente en el segundo ciclo de EP?",
+      "options": [
+        "Las tablas de doble entrada y el registro simbólico",
+        "Los diagramas de sectores y los gráficos poligonales",
+        "Las pirámides de población y los climogramas",
+        "Los diagramas de árbol y los mapas conceptuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo ciclo (3.º y 4.º) se incorporan nuevos instrumentos como los histogramas, las tablas de doble entrada y el registro simbólico, junto con la frecuencia absoluta y la moda. Los diagramas de sectores y poligonales son del tercer ciclo."
+    },
+    {
+      "question": "¿En qué ciclo de EP se introduce el vocabulario probabilístico con el término 'seguro' junto a 'posible' e 'imposible'?",
+      "options": [
+        "En el segundo ciclo, concretamente en tercer curso",
+        "En el primer ciclo, desde primero de EP",
+        "En el tercer ciclo, a partir de quinto curso",
+        "En el segundo ciclo, a partir de cuarto curso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo ciclo, ya en tercer curso, se amplía el vocabulario probabilístico con el término 'seguro' junto a los de 'posible' e 'imposible'. En cuarto se profundiza en el reconocimiento de la incertidumbre."
+    },
+    {
+      "question": "En el tercer ciclo de EP, ¿qué tipo de tablas se incorporan junto a las de frecuencias absolutas?",
+      "options": [
+        "Tablas de frecuencias relativas",
+        "Tablas de doble entrada",
+        "Tablas de distribución acumulada",
+        "Tablas de contingencia bivariante"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el tercer ciclo (5.º y 6.º) se incorporan las tablas de frecuencias relativas junto a las absolutas, los diagramas de sectores y los gráficos poligonales. Las tablas de doble entrada son propias del segundo ciclo."
+    },
+    {
+      "question": "¿Qué aprende el alumnado de sexto curso de EP en relación con la selección del tipo de representación?",
+      "options": [
+        "A seleccionar el tipo de representación más adecuado según la información",
+        "A utilizar programas de hoja de cálculo para generar representaciones automáticas",
+        "A elaborar pirámides de población con datos censales simplificados",
+        "A calcular e interpretar el promedio y la moda de conjuntos de datos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En sexto curso, el alumnado ya aprende a seleccionar el tipo de representación más adecuado según la información. Aunque la hoja de cálculo y el promedio también se trabajan en el tercer ciclo, la competencia de selección de representación se concreta en sexto."
+    },
+    {
+      "question": "¿Cómo contribuyen las áreas lingüísticas al tratamiento de datos en el currículo interdisciplinar?",
+      "options": [
+        "Proporcionando vocabulario, expresiones y estrategias para describir e interpretar tablas y gráficos, y para enunciar conclusiones oral y escrita",
+        "Ofreciendo textos estadísticos históricos para su análisis e interpretación crítica en el aula",
+        "Desarrollando la competencia digital mediante el uso de herramientas de procesamiento de texto",
+        "Incorporando gráficos y tablas como soporte visual para la comprensión lectora de textos informativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las áreas lingüísticas contribuyen al tratamiento de datos aportando vocabulario, expresiones y estrategias para describir e interpretar datos, y para enunciar conclusiones orales y escritas, además de habilidades de búsqueda y síntesis de información."
+    },
+    {
+      "question": "¿Qué ejemplo concreto de aplicación estadística en Ciencias Sociales se menciona en el tema?",
+      "options": [
+        "Elaborar pirámides de población con datos censales simplificados",
+        "Representar datos de experimentos en gráficos de líneas para observar tendencias",
+        "Calcular la frecuencia de palabras en textos históricos usando tablas de doble entrada",
+        "Diseñar encuestas sobre hábitos de lectura y plasmarlos en diagramas de sectores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona específicamente elaborar pirámides de población con datos censales simplificados como ejemplo de aplicación estadística en Ciencias Sociales. También se cita recoger datos meteorológicos y representarlos en climogramas."
+    },
+    {
+      "question": "¿Cómo se vincula la Educación Plástica con la estadística según el tema?",
+      "options": [
+        "Proporciona conocimientos de diseño gráfico beneficiosos para confeccionar e interpretar tablas y gráficos",
+        "Permite explorar sistemas de notación musical como lenguaje alternativo de representación de datos",
+        "Desarrolla la creatividad necesaria para diseñar pictogramas originales en el aula de EP",
+        "Introduce herramientas digitales de edición de imágenes para la creación de infografías estadísticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Educación Plástica proporciona conocimientos de diseño gráfico beneficiosos para confeccionar e interpretar tablas y gráficos. Es la música la que explora sistemas de notación como representación alternativa."
+    },
+    {
+      "question": "¿En qué área se trabaja el tratamiento de datos relacionado con la valoración de puntuaciones de pruebas y torneos deportivos?",
+      "options": [
+        "Educación Física",
+        "Ciencias de la Naturaleza",
+        "Proyecto Competencial",
+        "Valores Cívicos y Éticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Educación Física ofrece un contexto natural para el registro y tratamiento de datos, como la valoración de puntuaciones de pruebas y torneos deportivos, o la interpretación de datos del cuerpo humano y hábitos saludables."
+    },
+    {
+      "question": "¿Qué objetivo de etapa recoge el Decreto 155/2022 en su artículo 7 en relación con las TIC?",
+      "options": [
+        "Objetivo 'i': desarrollar las competencias tecnológicas básicas e iniciarse en su utilización para el aprendizaje, desarrollando un espíritu crítico",
+        "Objetivo 'g': desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas que requieren conocimientos geométricos",
+        "Objetivo 'h': conocer y valorar los aspectos básicos de la cultura tecnológica y la importancia del uso responsable de internet",
+        "Objetivo 'f': utilizar diferentes representaciones y expresiones artísticas e iniciarse en la construcción de propuestas visuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo de etapa 'i' del artículo 7 del Decreto 155/2022 es el que hace referencia a las TIC: 'desarrollar las competencias tecnológicas básicas e iniciarse en su utilización, para el aprendizaje, desarrollando un espíritu crítico'. El objetivo 'g' es el de matemáticas."
+    },
+    {
+      "question": "¿Qué competencia clave del artículo 8 del Decreto 155/2022 se relaciona directamente con el uso de las TIC para el tratamiento de datos?",
+      "options": [
+        "La Competencia Digital",
+        "La Competencia Matemática y en Ciencia, Tecnología e Ingeniería",
+        "La Competencia Personal, Social y de Aprender a Aprender",
+        "La Competencia en Comunicación Lingüística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Competencia Digital, recogida en el artículo 8 del Decreto 155/2022, es la que se establece para que el alumnado adquiera habilidades para buscar, procesar y comunicar información de manera crítica y transformarla en conocimiento."
+    },
+    {
+      "question": "¿Qué autor y teoría se cita para justificar el partir del nivel de desarrollo psicoevolutivo del alumnado en el uso de las TIC?",
+      "options": [
+        "Las etapas evolutivas de Piaget",
+        "La Zona de Desarrollo Próximo de Vygotsky",
+        "El aprendizaje significativo de Ausubel",
+        "Los beneficios del juego según Alsina (2004)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Piaget y sus etapas evolutivas son la referencia para partir del nivel psicoevolutivo del alumnado al seleccionar herramientas TIC. Vygotsky se cita para la Zona de Desarrollo Próximo y Ausubel para los aprendizajes significativos."
+    },
+    {
+      "question": "La Zona de Desarrollo Próximo (ZDP) propuesta por Vygotsky se define en el tema como:",
+      "options": [
+        "La distancia entre lo que el alumnado puede hacer por sí solo y lo que puede hacer con ayuda",
+        "El conjunto de aprendizajes previos que el alumnado debe tener para iniciar un nuevo contenido",
+        "La diferencia entre el nivel de competencia del alumno y el nivel exigido por el currículo",
+        "El espacio de trabajo entre pares que facilita la construcción colaborativa del conocimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema define la ZDP de Vygotsky como la distancia entre lo que el alumnado puede hacer por sí solo y lo que puede hacer con ayuda, relevante para ajustar el uso de las TIC al nivel del alumno."
+    },
+    {
+      "question": "¿Cuáles son los ejemplos de software de hojas de cálculo mencionados en el tema para el tratamiento de datos?",
+      "options": [
+        "LibreOffice Calc, Microsoft Excel y Numbers",
+        "Google Sheets, LibreOffice Calc y OpenOffice",
+        "Microsoft Excel, Google Sheets y Symbolab",
+        "Numbers, GeoGebra y LibreOffice Calc"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona específicamente LibreOffice Calc, Microsoft Excel y Numbers como herramientas de hoja de cálculo para tabular datos, calcular estadísticos y generar gráficos automáticamente. Symbolab es una calculadora estadística online."
+    },
+    {
+      "question": "¿Qué aplicación educativa ofrece 'un módulo de estadística visual e interactiva' según el tema?",
+      "options": [
+        "GeoGebra",
+        "Canva",
+        "Mentimeter",
+        "Kahoot"
+      ],
+      "correctAnswer": 0,
+      "explanation": "GeoGebra ofrece un módulo de estadística visual e interactiva. Canva y Genially facilitan la creación de infografías estadísticas, mientras que Mentimeter, Kahoot y Plickers permiten recoger datos en tiempo real."
+    },
+    {
+      "question": "¿Qué aplicaciones permiten 'recoger datos en tiempo real y visualizarlos de forma inmediata en el aula'?",
+      "options": [
+        "Mentimeter, Kahoot y Plickers",
+        "GeoGebra, Canva y Genially",
+        "LibreOffice Calc, Symbolab y Numbers",
+        "Canva, Mentimeter y Microsoft Excel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mentimeter, Kahoot y Plickers son las aplicaciones de encuestas interactivas que permiten recoger datos en tiempo real y visualizarlos inmediatamente en el aula. GeoGebra, Canva y Genially tienen otras funciones."
+    },
+    {
+      "question": "¿Cómo se define el 'hardware' en el contexto del tratamiento de datos en el aula según el tema?",
+      "options": [
+        "El conjunto de elementos materiales y periféricos del sistema informático",
+        "El conjunto de programas informáticos utilizados para el tratamiento estadístico",
+        "Los recursos tecnológicos que permiten la representación gráfica de datos en pantalla",
+        "Los dispositivos portátiles y tabletas que acceden a plataformas educativas en línea"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El hardware se define en el tema como el conjunto de elementos materiales y periféricos del sistema informático, incluyendo ordenadores portátiles, tablets, PDI, scanners e impresoras. El software es el conjunto de programas informáticos."
+    },
+    {
+      "question": "¿Cuál es la cita de Alsina (2004) recogida en la conclusión del tema?",
+      "options": [
+        "'La estadística es un medio para conocer mejor la realidad'",
+        "'El tratamiento de datos resulta esencial en la sociedad de la información actual'",
+        "'La estadística es una parte de la educación necesaria para leer e interpretar gráficos'",
+        "'La estadística se convierte en una herramienta de resolución de problemas transversal'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la conclusión, Alsina (2004) es citado con la frase 'la estadística es un medio para conocer mejor la realidad'. La cita de Godino es la referida a leer e interpretar gráficos, y el rol transversal es una paráfrasis del tema."
+    },
+    {
+      "question": "¿Qué principio pedagógico se menciona en la conclusión del tema para atender a la diversidad del alumnado?",
+      "options": [
+        "Los principios del Diseño Universal para el Aprendizaje (DUA)",
+        "Los principios de la Zona de Desarrollo Próximo de Vygotsky",
+        "Los principios del aprendizaje basado en el juego de Alsina",
+        "Los principios del constructivismo social de Ausubel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión menciona el Diseño Universal para el Aprendizaje (DUA) como marco para atender a la diversidad. La ZDP de Vygotsky se menciona en el apartado de TIC y Ausubel en relación con aprendizajes significativos."
+    },
+    {
+      "question": "¿Qué tipo de metodología se menciona que debe promover el docente según el apartado de TIC del tema?",
+      "options": [
+        "Metodologías activas que sitúen al alumnado en el centro del proceso de aprendizaje",
+        "Metodologías transmisivas que garanticen la correcta asimilación de los conceptos estadísticos",
+        "Metodologías basadas en el trabajo individual para potenciar la autonomía del alumnado",
+        "Metodologías expositivas complementadas con el uso de herramientas digitales interactivas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema indica que el docente debe promover metodologías activas que sitúen al alumnado en el centro del proceso de aprendizaje, potenciando su autonomía. No se proponen metodologías transmisivas ni expositivas como principales."
+    },
+    {
+      "question": "¿En qué área del Decreto 155/2022 aplica el alumnado de sexto los conocimientos estadísticos para la participación democrática según el tema?",
+      "options": [
+        "Valores Cívicos y Éticos",
+        "Ciencias Sociales",
+        "Proyecto Competencial",
+        "Lengua Castellana y Literatura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En Valores Cívicos y Éticos, el alumnado de sexto aprende a estructurar ideas y argumentarlas, comprendiendo cómo el tratamiento de datos y el uso de gráficos son necesarios para la participación activa y crítica en la sociedad democrática, como ilustra el escrutinio electoral."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre una variable cuantitativa discreta y una continua según el tema?",
+      "options": [
+        "La discreta toma valores contables y finitos; la continua puede tomar cualquier valor de un intervalo",
+        "La discreta se mide mediante encuestas; la continua mediante observación sistemática",
+        "La discreta estudia atributos sin orden; la continua estudia atributos con jerarquía",
+        "La discreta representa categorías nominales; la continua representa categorías ordinales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las variables cuantitativas discretas toman valores contables y finitos (p.ej., número de alumnos), mientras que las continuas pueden tomar cualquier valor de un intervalo determinado (p.ej., la temperatura o la altura). No se relacionan con el tipo de técnica de recogida."
+    },
+    {
+      "question": "¿Qué afirma el tema sobre el rol del docente respecto a la actitud crítica ante los gráficos?",
+      "options": [
+        "Debe promover que los niños aprendan a detectar posibles manipulaciones que puedan distorsionar la percepción de los datos",
+        "Debe garantizar que el foco permanezca en el contenido matemático y no en el manejo del dispositivo",
+        "Debe seleccionar únicamente gráficos con datos verificados para evitar confusión en el alumnado",
+        "Debe promover la elaboración de gráficos propios antes de aprender a interpretarlos críticamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema indica que el docente debe promover una actitud crítica para que los niños no solo aprendan a construir gráficos, sino también a detectar posibles manipulaciones que distorsionen la percepción de los datos. El foco en el contenido matemático se menciona respecto a las TIC."
+    },
+    {
+      "question": "¿En qué fase del método estadístico se decide entre usar una muestra o realizar un censo?",
+      "options": [
+        "En la fase de elegir una muestra y evaluar su fiabilidad",
+        "En la fase de definir la variable de estudio",
+        "En la fase de delimitar el colectivo",
+        "En la fase de tabulación de los datos obtenidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La decisión sobre muestra o censo se toma en la tercera fase: elegir una muestra y evaluar su fiabilidad, verificando que los elementos son representativos en función del tiempo disponible, los recursos y el tamaño del colectivo."
+    },
+    {
+      "question": "¿Cuál de estas herramientas NO pertenece al software mencionado para el tratamiento de datos en el aula?",
+      "options": [
+        "Pizarra Digital Interactiva (PDI)",
+        "LibreOffice Calc",
+        "GeoGebra",
+        "Mentimeter"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Pizarra Digital Interactiva (PDI) es hardware (elemento material del sistema informático), no software. LibreOffice Calc, GeoGebra y Mentimeter son programas informáticos (software)."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de los gráficos estadísticos según su utilidad descrita en el tema?",
+      "options": [
+        "Proporcionar una visión generalizada de los resultados, ofreciendo una lectura rápida e intuitiva y permitiendo captar diferencias y tendencias de un vistazo",
+        "Sustituir a las tablas de datos en el proceso de representación estadística mediante una forma más visual",
+        "Facilitar el cálculo de frecuencias absolutas y relativas de forma automatizada para el alumnado",
+        "Presentar los datos de forma completa e íntegra sin necesidad de seleccionar los más relevantes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La utilidad principal de los gráficos es proporcionar una visión generalizada de los resultados, ofreciendo una lectura rápida e intuitiva que permite captar diferencias y tendencias de un vistazo. No sustituyen a las tablas sino que las complementan."
+    },
+    {
+      "question": "Según el tema, ¿en qué consiste la 'comodidad de lectura' como característica de los gráficos?",
+      "options": [
+        "La posibilidad de leer el gráfico sin necesidad de mover o girar la hoja",
+        "La facilidad de interpretar los datos sin necesidad de consultar la leyenda",
+        "La opción de reducir el tamaño del gráfico sin perder la legibilidad de los datos",
+        "La claridad tipográfica que permite leer los valores numéricos sin esfuerzo visual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La comodidad de lectura se refiere a la posibilidad de leer el gráfico sin necesidad de mover o girar la hoja, asegurando así su comunicabilidad y claridad. No hace referencia a la leyenda, el tamaño o la tipografía."
+    },
+    {
+      "question": "¿Qué aspecto metodológico relacionado con Vygotsky debe considerar el docente al integrar las TIC según el tema?",
+      "options": [
+        "Los resultados de la evaluación inicial y la Zona de Desarrollo Próximo para partir de los conocimientos previos",
+        "Las etapas de desarrollo cognitivo para seleccionar herramientas cuya complejidad se ajuste al ciclo",
+        "El aprendizaje significativo para que la tecnología actúe como aliada de la comprensión conceptual",
+        "El aprendizaje basado en el juego para garantizar la motivación intrínseca del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vygotsky aporta la ZDP: la distancia entre lo que el alumno puede hacer solo y con ayuda. El docente debe considerar esto junto a los conocimientos previos y la evaluación inicial. Piaget aporta las etapas de desarrollo y Ausubel el aprendizaje significativo."
+    },
+    {
+      "question": "Los 'diagramas de puntos' mencionados en el tema resultan especialmente recomendables para:",
+      "options": [
+        "Conjuntos de datos pequeños",
+        "Datos agrupados en intervalos amplios de frecuencia",
+        "Comparar distribuciones de dos o más grupos demográficos",
+        "Representar la evolución de variables continuas a lo largo del tiempo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los diagramas de puntos, que sitúan un punto por cada valor del conjunto de datos, son recomendables para conjuntos de datos pequeños. Los histogramas son para datos en rangos y las pirámides para distribuciones demográficas."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una variable cualitativa nominal según los ejemplos del tema?",
+      "options": [
+        "El color de ojos",
+        "El nivel de satisfacción de los docentes",
+        "La calificación académica del alumnado",
+        "El número de personas que hablan un idioma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El color de ojos es una variable cualitativa nominal (identifica categorías sin orden). El nivel de satisfacción y la calificación académica son ordinales (tienen jerarquía). El número de personas que hablan un idioma es cuantitativa discreta."
+    },
+    {
+      "question": "¿Cuántas fases del método estadístico se describen en el tema?",
+      "options": [
+        "Ocho fases",
+        "Cinco fases",
+        "Seis fases",
+        "Siete fases"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema describe ocho fases: 1) definir la variable, 2) delimitar el colectivo, 3) elegir una muestra y evaluar su fiabilidad, 4) recoger los datos, 5) tabulación, 6) analizar los datos, 7) representar gráficamente, 8) contrastar hipótesis y emitir generalización."
+    },
+    {
+      "question": "¿Cuál es el concepto de 'moda' tal como se introduce en el segundo ciclo de EP según el Decreto 155/2022?",
+      "options": [
+        "El valor que se repite con mayor frecuencia en un conjunto de datos",
+        "El cociente entre la suma de todos los datos y el número total de datos",
+        "El valor central que divide el conjunto de datos en dos partes iguales",
+        "El valor máximo menos el mínimo de la distribución de datos estudiada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La moda se define en el tema como el valor que se repite con mayor frecuencia en un conjunto de datos, y se trabaja en el segundo ciclo. El cociente entre suma y total es la media aritmética; el valor central es la mediana; máximo menos mínimo es el rango."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una parte constitutiva de una tabla de datos según el tema?",
+      "options": [
+        "El eje de abscisas y el eje de ordenadas",
+        "El encabezado de columna",
+        "El encabezado de fila",
+        "Las notas al pie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los ejes de abscisas y ordenadas son elementos de los gráficos estadísticos, no de las tablas de datos. Las partes de una tabla son: disposición en filas y columnas, título/campo/cuerpo, encabezado de columna, encabezado de fila y, opcionalmente, notas al pie."
+    },
+    {
+      "question": "¿Qué afirma el tema sobre la simplificación excesiva en los gráficos estadísticos?",
+      "options": [
+        "Debe evitarse la sobrecarga de datos o elementos decorativos para mantener la simplicidad como característica esencial",
+        "Los gráficos deben ser lo más detallados posible para que el alumnado obtenga toda la información disponible",
+        "La sobrecarga de información es aceptable cuando el alumnado es del tercer ciclo y tiene madurez suficiente",
+        "La simplicidad se sacrifica cuando se trabajan datos cuantitativos continuos de alta complejidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema establece que la simplicidad es una característica esencial de los gráficos, y que debe evitarse la sobrecarga de datos o elementos decorativos. Esto aplica a todos los ciclos."
+    },
+    {
+      "question": "¿Cómo contribuye el área de Proyecto Competencial al tratamiento de datos según el tema?",
+      "options": [
+        "Desarrolla habilidades para manejar información mediante tareas contextualizadas y significativas, recogiendo información con encuestas o recursos digitales",
+        "Proporciona conocimientos de diseño gráfico para confeccionar e interpretar tablas y representaciones visuales",
+        "Introduce el lenguaje estadístico formal con términos como frecuencia, moda y media aritmética",
+        "Ofrece un contexto natural para el registro de datos físicos como el pulso y los resultados deportivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Proyecto Competencial desarrolla habilidades para manejar información mediante tareas contextualizadas y significativas, recogiendo información con encuestas o recursos digitales y organizándola en diferentes formatos. El diseño gráfico pertenece a Educación Plástica y los datos físicos a Educación Física."
+    },
+    {
+      "question": "¿Qué tipo de evaluación inicial menciona el tema como necesaria para el uso de las TIC?",
+      "options": [
+        "La evaluación inicial que todo docente debe elaborar al principio de curso para conocer los conocimientos previos",
+        "La evaluación diagnóstica de competencias digitales mediante una prueba estandarizada regional",
+        "La evaluación formativa continua que permita adaptar las herramientas TIC al progreso del alumnado",
+        "La evaluación sumativa final que valore los aprendizajes estadísticos trabajados con recursos tecnológicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona la evaluación inicial que todo docente debe elaborar al principio de curso para conocer los conocimientos previos del alumnado en relación al uso de las TIC y al tratamiento estadístico de datos."
+    },
+    {
+      "question": "¿En qué nivel de EP se trabaja por primera vez la 'frecuencia absoluta' como medida de recuento?",
+      "options": [
+        "En el segundo ciclo (3.º y 4.º de EP)",
+        "En el primer ciclo (1.º y 2.º de EP)",
+        "En el tercer ciclo (5.º y 6.º de EP)",
+        "Se introduce de forma simultánea en todos los ciclos de EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La frecuencia absoluta se introduce como medida de recuento en el segundo ciclo (3.º y 4.º de EP), junto con los histogramas, las tablas de doble entrada y el registro simbólico. En el tercer ciclo se añaden las frecuencias relativas."
+    },
+    {
+      "question": "¿Cuál de los siguientes instrumentos de recogida de datos se menciona en el tema?",
+      "options": [
+        "Las escalas de valoración",
+        "Las entrevistas semiestructuradas con grabación de audio",
+        "Los registros de observación mediante cámaras de video",
+        "Los cuestionarios online con respuesta automática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona entre los instrumentos: listas de control, escalas de valoración, registros anecdóticos, notas de campo, cuestionarios, entrevistas, pruebas y sociogramas. Las entrevistas con grabación, cámaras de video y cuestionarios online no se especifican."
+    },
+    {
+      "question": "¿Qué característica de las tablas de datos significa que recogen únicamente la información relevante para el estudio?",
+      "options": [
+        "La concisión",
+        "La claridad",
+        "La precisión",
+        "La autoexplicatividad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La concisión significa que la tabla recoge únicamente la información relevante para el estudio. La claridad permite una visión rápida y completa; la precisión evita errores en la transcripción; la autoexplicatividad se logra mediante el título y el encabezado."
+    },
+    {
+      "question": "Según el tema, ¿cuántos ciclos componen la Educación Primaria en cuanto a la distribución de contenidos estadísticos?",
+      "options": [
+        "Tres ciclos: primero (1.º-2.º), segundo (3.º-4.º) y tercer (5.º-6.º)",
+        "Dos etapas: baja (1.º a 3.º) y alta (4.º a 6.º)",
+        "Cuatro niveles: inicial, básico, intermedio y avanzado",
+        "Tres niveles: inicial (1.º-2.º), medio (3.º-4.º) y superior (5.º-6.º de forma individual)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Educación Primaria se organiza en tres ciclos: primer ciclo (1.º y 2.º), segundo ciclo (3.º y 4.º) y tercer ciclo (5.º y 6.º), con una progresión creciente de complejidad en los contenidos estadísticos."
+    },
+    {
+      "question": "¿Qué tipo de recursos manipulativos se mencionan en el primer ciclo de EP para trabajar la estadística?",
+      "options": [
+        "Regletas, policubos y piezas de construcción",
+        "Tangrams, bloques lógicos y materiales Montessori",
+        "Fichas de datos impresas, dado numérico y tarjetas de categorías",
+        "Hojas de cálculo simplificadas, tabletas y PDI"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo se trabaja la estadística con recursos manipulativos variados como regletas, policubos y piezas de construcción. Los tangrams y bloques lógicos no se mencionan específicamente en este contexto."
+    },
+    {
+      "question": "¿Qué tipo de datos trabaja el alumnado de primero de EP según la distribución de contenidos del tema?",
+      "options": [
+        "Datos de la vida cotidiana como temporales, meteorológicos, personales y escolares",
+        "Datos cuantitativos en muestras pequeñas con cálculo de frecuencia absoluta",
+        "Datos de encuestas propias con representación en tablas de doble entrada",
+        "Datos de estudios estadísticos diseñados y ejecutados por el propio alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En primero de EP el alumnado trabaja con datos de la vida cotidiana: temporales, meteorológicos, personales y escolares. Los datos cuantitativos en muestras se incorporan en segundo; las tablas de doble entrada en el segundo ciclo; los estudios propios en el tercer ciclo."
+    },
+    {
+      "question": "¿En qué curso de EP se profundiza en el 'reconocimiento de la incertidumbre' según el tema?",
+      "options": [
+        "En cuarto curso",
+        "En tercer curso",
+        "En quinto curso",
+        "En segundo curso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En cuarto curso (segundo ciclo) se profundiza en el reconocimiento de la incertidumbre. En tercer curso se introduce el vocabulario 'seguro' junto a 'posible' e 'imposible'. En primero y segundo se trabajan eventos posibles e imposibles."
+    },
+    {
+      "question": "¿Cuál de los siguientes aspectos se introduce específicamente en el tercer ciclo para los estudios estadísticos?",
+      "options": [
+        "La necesidad de trabajar con muestras cuando la población es demasiado grande",
+        "El concepto de frecuencia absoluta como medida básica de recuento",
+        "La distinción entre eventos posibles, imposibles y seguros",
+        "La lectura e interpretación de pictogramas y gráficos de barras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el tercer ciclo se introduce específicamente la necesidad de trabajar con muestras cuando la población es demasiado grande para ser analizada en su totalidad. La frecuencia absoluta se introduce en el segundo ciclo, los eventos posibles/imposibles en el primer ciclo."
+    },
+    {
+      "question": "¿Qué es lo que distingue al 'climograma' de un histograma convencional?",
+      "options": [
+        "El climograma combina barras para precipitaciones y una línea para temperaturas; el histograma solo usa columnas sin separación para frecuencias en rangos",
+        "El climograma usa barras horizontales; el histograma usa columnas verticales para las mismas variables",
+        "El climograma muestra datos en intervalos de tiempo; el histograma muestra distribuciones de variables cualitativas",
+        "El climograma es un gráfico de doble eje con escala logarítmica; el histograma usa escala lineal simple"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El climograma combina barras verticales unidas (precipitaciones) con un gráfico de líneas (temperaturas), representando dos variables meteorológicas. El histograma usa solo columnas sin separación para mostrar frecuencias de datos en rangos."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre los cartogramas es correcta según el tema?",
+      "options": [
+        "Son representaciones sobre mapas que muestran datos mediante colores, símbolos o tamaños según la variable o zona estudiada",
+        "Son gráficos que representan la distribución geográfica de la población por franjas de edad y sexo",
+        "Son diagramas de barras georreferenciados que permiten comparar datos entre distintas regiones geográficas",
+        "Son mapas conceptuales que organizan jerárquicamente la información estadística por regiones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cartogramas son representaciones sobre mapas en las que se muestran datos mediante colores, símbolos o tamaños según la variable o zona estudiada. No son diagramas de barras ni mapas conceptuales."
+    },
+    {
+      "question": "Según el tema, ¿cuál es la advertencia final sobre el uso de las TIC en el aula?",
+      "options": [
+        "Su uso exige cautela y el docente debe garantizar que el foco permanezca en el contenido matemático, no en el manejo del dispositivo",
+        "Las TIC pueden sustituir a los recursos manipulativos tradicionales una vez que el alumnado domine los conceptos básicos",
+        "El uso excesivo de TIC puede dificultar la adquisición de la competencia matemática en los primeros ciclos",
+        "Las TIC deben usarse con moderación en el primer ciclo y de forma intensiva en el tercer ciclo de EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema concluye el apartado de TIC señalando que su uso exige cautela y que es tarea del docente garantizar que el foco permanezca en el contenido matemático y no en el manejo del dispositivo en sí mismo."
+    },
+    {
+      "question": "¿Qué característica de las proporciones en los gráficos se menciona en el tema?",
+      "options": [
+        "Los elementos gráficos no pueden ser ni muy anchos ni muy altos",
+        "Las proporciones deben ser idénticas en todos los gráficos para facilitar la comparación",
+        "El ancho de las barras debe ser proporcional al número de categorías representadas",
+        "La altura de los elementos gráficos determina la escala del eje de ordenadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que en cuanto a las proporciones, los elementos gráficos no pueden ser ni muy anchos ni muy altos. Esto es parte de las características generales que deben reunir los gráficos estadísticos."
+    },
+    {
+      "question": "¿Cuál es la función del 'encabezado de fila' en una tabla de datos?",
+      "options": [
+        "Detallar los datos organizados horizontalmente",
+        "Identificar los datos organizados verticalmente",
+        "Explicar detalles adicionales al pie de la tabla",
+        "Reflejar el mensaje principal o tema de la tabla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El encabezado de fila detalla los datos organizados horizontalmente (de izquierda a derecha). El encabezado de columna identifica los datos organizados verticalmente; las notas al pie explican detalles adicionales; el título refleja el tema."
+    },
+    {
+      "question": "¿Cuál es el papel del lenguaje musical en relación con la estadística según el área de Educación Artística?",
+      "options": [
+        "Permite explorar otros tipos de lenguajes y sistemas de representación de la información, al emplear símbolos como claves, pentagramas y notas musicales",
+        "Proporciona conocimientos de diseño gráfico para confeccionar e interpretar gráficos estadísticos atractivos",
+        "Ofrece un contexto musical para el registro de datos mediante la notación de partituras",
+        "Desarrolla la creatividad necesaria para elegir colores y formas adecuados en la elaboración de gráficos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El lenguaje musical, al emplear símbolos y medios de notación como claves, pentagramas y notas musicales, permite explorar otros tipos de lenguajes y sistemas de representación de la información. El diseño gráfico pertenece a la Educación Plástica."
+    },
+    {
+      "question": "¿En qué fase del método estadístico se decide qué técnica e instrumento de recogida de datos usar?",
+      "options": [
+        "En la cuarta fase: recoger los datos",
+        "En la tercera fase: elegir la muestra y evaluar su fiabilidad",
+        "En la segunda fase: delimitar el colectivo",
+        "En la quinta fase: tabulación de los datos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es en la cuarta fase (recoger los datos) donde se eligen las técnicas (observación, encuestas, sociometría) e instrumentos (listas de control, cuestionarios, entrevistas) adecuados al nivel del alumnado, al objetivo y al colectivo."
+    },
+    {
+      "question": "¿Qué afirma el tema sobre el Real Decreto 157/2022?",
+      "options": [
+        "Establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal",
+        "Regula la evaluación en la etapa de Educación Primaria en la Comunidad Autónoma de Galicia",
+        "Establece la ordenación y el currículo de la educación primaria en Galicia junto al Decreto 155/2022",
+        "Define la competencia matemática como competencia clave obligatoria en todas las comunidades autónomas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022 establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal. El Decreto 155/2022 es el que establece el currículo autonómico de Galicia. La Orden de 26 de mayo de 2023 regula la evaluación en Galicia."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la 'observación sistemática' y la 'observación asistemática' como técnicas de recogida de datos?",
+      "options": [
+        "La sistemática es continua y planificada; la asistemática no sigue un plan previo establecido",
+        "La sistemática usa instrumentos estandarizados; la asistemática usa únicamente la observación directa",
+        "La sistemática se aplica a poblaciones grandes; la asistemática a muestras pequeñas",
+        "La sistemática registra datos cuantitativos; la asistemática registra únicamente datos cualitativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aunque el tema no desarrolla extensamente esta distinción, la observación sistemática o continua implica una planificación previa, mientras que la asistemática no sigue un plan previo. Ambas se mencionan como técnicas complementarias de recogida de datos."
+    },
+    {
+      "question": "¿Qué recomendación específica se da en el tema cuando una tabla de datos es muy extensa?",
+      "options": [
+        "Dividirla en partes más sencillas o adoptar una disposición alternativa",
+        "Eliminar las filas con datos menos relevantes para reducir su extensión",
+        "Convertirla automáticamente en un gráfico de barras para facilitar su lectura",
+        "Añadir más columnas para distribuir los datos de forma más equilibrada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tercera recomendación didáctica para elaborar tablas en el aula es que si la tabla es muy extensa, conviene dividirla en partes más sencillas o adoptar una disposición alternativa para facilitar su lectura e interpretación."
+    },
+    {
+      "question": "La competencia que el alumnado debe adquirir al finalizar el trabajo con datos en EP, relacionada con el currículo globalizador, es:",
+      "options": [
+        "La competencia matemática recogida en el artículo 8 del Decreto 155/2022",
+        "La competencia digital recogida en el artículo 7 del Real Decreto 157/2022",
+        "La competencia en comunicación lingüística para interpretar gráficos y tablas",
+        "La competencia personal, social y de aprender a aprender del artículo 8"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 5 'Sentido estocástico' tiene como objetivo que el alumnado adquiera la competencia matemática recogida en el artículo 8 del Decreto 155/2022, aunque el enfoque interdisciplinar también contribuye a otras competencias."
+    },
+    {
+      "question": "¿Cuál es el título completo de la ley orgánica que se cita como marco normativo principal del tema?",
+      "options": [
+        "Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOMLOE)",
+        "Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020 (LOE-LOMLOE)",
+        "Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE)",
+        "Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo (LOGSE)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE es la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. La LOMCE (2013) ha sido derogada; la LOGSE (1990) es otra ley anterior."
+    },
+    {
+      "question": "¿Qué tipo de aprendizaje menciona el tema como beneficioso para 'la construcción del aprendizaje sin miedo al error' según Alsina (2004)?",
+      "options": [
+        "El aprendizaje basado en el juego",
+        "El aprendizaje cooperativo en grupos heterogéneos",
+        "El aprendizaje significativo basado en la teoría de Ausubel",
+        "El aprendizaje activo mediante proyectos interdisciplinares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el tema, Alsina (2004) señala que el aprendizaje basado en el juego presenta múltiples beneficios para la construcción del aprendizaje sin miedo al error. El aprendizaje cooperativo y el significativo se mencionan por separado como otros enfoques."
+    },
+    {
+      "question": "¿Cuántos gráficos principales para EP se describen con detalle en el apartado 4 del tema?",
+      "options": [
+        "Seis: lineal, barras, histograma, polígonos de frecuencias, sectores y pictogramas",
+        "Cuatro: barras, histograma, sectores y pictogramas",
+        "Cinco: lineal, barras, histograma, sectores y pictogramas",
+        "Siete: lineal, barras, histograma, polígonos, sectores, pictogramas y climograma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el apartado 4 se destacan seis tipos de gráficos por ser los más usados en EP: gráfico de líneas, diagrama de barras, histograma, polígonos de frecuencias, diagrama de sectores y pictogramas. El climograma se menciona como gráfico adicional."
+    },
+    {
+      "question": "¿Cuál es la función de la 'leyenda' en un gráfico estadístico según el tema?",
+      "options": [
+        "Facilitar la interpretación del gráfico como elemento acompañante",
+        "Indicar el procedimiento estadístico utilizado para obtener los datos",
+        "Identificar el título o mensaje principal del gráfico estadístico",
+        "Sustituir al encabezado de columna en los diagramas de sectores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona la leyenda como uno de los elementos que acompañan al gráfico (junto al título, la tabla de datos y los símbolos necesarios) para facilitar su interpretación. No indica el procedimiento estadístico ni sustituye al encabezado."
+    },
+    {
+      "question": "¿Qué ventaja específica ofrecen los polígonos de frecuencias respecto al histograma?",
+      "options": [
+        "Facilitan la comparación de varias distribuciones superpuestas en un mismo gráfico",
+        "Permiten representar datos cualitativos ordinales con mayor precisión visual",
+        "Eliminan la necesidad de agrupar los datos en rangos o intervalos previos",
+        "Proporcionan una representación más precisa de los valores individuales de cada dato"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los polígonos de frecuencias tienen la ventaja específica de facilitar la comparación de varias distribuciones superpuestas en un mismo gráfico. Se obtienen del histograma y no eliminan la necesidad de agrupación en rangos."
+    },
+    {
+      "question": "Según el tema, ¿cuándo se consolida el uso de herramientas digitales como la hoja de cálculo en EP?",
+      "options": [
+        "En el tercer ciclo (5.º y 6.º de EP)",
+        "En el segundo ciclo (3.º y 4.º de EP)",
+        "En el primer ciclo (1.º y 2.º de EP)",
+        "Se introduce simultáneamente en todos los ciclos desde el inicio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema indica que en el tercer ciclo se consolida el uso de herramientas digitales como la hoja de cálculo. En los ciclos anteriores se usan recursos manipulativos y tecnológicos de forma más general sin especificar la hoja de cálculo."
+    },
+    {
+      "question": "El aprendizaje cooperativo en grupos heterogéneos se menciona en el tema para:",
+      "options": [
+        "Asegurar el equilibrio entre el aprendizaje individual y el grupal",
+        "Potenciar la autonomía del alumnado en la adquisición de la Competencia Digital",
+        "Garantizar que todos los alumnos dominen el uso de herramientas de hoja de cálculo",
+        "Facilitar la recogida de datos en tiempo real mediante encuestas entre pares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje cooperativo en grupos heterogéneos se menciona para asegurar el equilibrio entre el aprendizaje individual y el grupal. La autonomía se relaciona con metodologías activas y la CPSAA."
+    },
+    {
+      "question": "¿Cuál de las siguientes aplicaciones se menciona junto a Canva en el tema como plataforma para crear infografías estadísticas?",
+      "options": [
+        "Genially",
+        "Kahoot",
+        "Plickers",
+        "Symbolab"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona Canva y Genially como plataformas que facilitan la creación de infografías estadísticas atractivas. Kahoot y Plickers son aplicaciones de encuestas interactivas; Symbolab es una calculadora estadística online."
+    },
+    {
+      "question": "¿Cuál es la fecha exacta del Decreto 155/2022 según la bibliografía del tema?",
+      "options": [
+        "15 de septiembre de 2022",
+        "26 de septiembre de 2022",
+        "1 de marzo de 2022",
+        "26 de mayo de 2023"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 es de 15 de septiembre de 2022. El 26 de septiembre es la fecha del DOG donde se publicó. El 1 de marzo de 2022 es la fecha del Real Decreto 157/2022 estatal. El 26 de mayo de 2023 corresponde a la Orden de evaluación."
+    },
+    {
+      "question": "¿Qué Boletín Oficial y número recoge el Real Decreto 157/2022?",
+      "options": [
+        "BOE número 52, de 2 de marzo de 2022",
+        "DOG número 183, de 26 de septiembre de 2022",
+        "BOE número 340, de 30 de diciembre de 2020",
+        "DOG número 111, de 13 de junio de 2023"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022 se publicó en el BOE número 52, de 2 de marzo de 2022. El DOG 183 corresponde al Decreto 155/2022 gallego. El BOE 340 es de la LOMLOE. El DOG 111 es de la Orden de evaluación de 2023."
+    },
+    {
+      "question": "¿En qué consiste la 'interdisciplinariedad' que debe promover el docente al integrar las TIC?",
+      "options": [
+        "La globalidad con el resto de áreas del currículo",
+        "La conexión exclusiva entre matemáticas y ciencias de la naturaleza",
+        "El uso simultáneo de varias herramientas digitales para un mismo proyecto",
+        "La integración de contenidos estadísticos en el área de Lengua exclusivamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema indica que el docente debe promover la interdisciplinariedad y la globalidad con el resto de áreas del currículo, no limitándose a una sola conexión disciplinar. Esta globalidad es un principio del enfoque curricular de la LOMLOE."
+    },
+    {
+      "question": "¿Cuál de las siguientes características del diseño de los gráficos asegura 'su comunicabilidad y claridad' según el tema?",
+      "options": [
+        "La comodidad de lectura (poder leerlo sin mover o girar la hoja)",
+        "El empleo adecuado del colorido para diferenciar categorías",
+        "La simplicidad, evitando la sobrecarga de datos o elementos decorativos",
+        "El vocabulario común y comprensible para el nivel del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala específicamente que la comodidad de lectura, es decir, la posibilidad de leer el gráfico sin necesidad de mover o girar la hoja, es lo que asegura su comunicabilidad y claridad. Las demás son características igualmente importantes pero vinculadas a otros aspectos."
+    },
+    {
+      "question": "¿Qué autor y obra de la bibliografía del tema aborda específicamente la 'Didáctica de las matemáticas para primaria'?",
+      "options": [
+        "Chamorro, M.C. (2003). Madrid: Pearson Educación",
+        "Alsina, A. (2004). Madrid: Narcea",
+        "Godino, J.D., Batanero, C. y Font, V. (2004). Proyecto Edumat-Maestros",
+        "Rico, L. y Flores, P. (2015). Madrid: Pirámide"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chamorro (2003) es el autor de 'Didáctica de las matemáticas para primaria', publicado en Madrid por Pearson Educación. Alsina trata el desarrollo de competencias con recursos lúdico-manipulativos; Godino et al. abordan la didáctica para maestros; Rico y Flores la enseñanza y aprendizaje en EP."
+    },
+    {
+      "question": "¿Qué tipo de variables son las cualitativas nominales según el tema?",
+      "options": [
+        "Las que describen atributos sin orden, como el color de ojos o el género",
+        "Las que presentan jerarquía entre categorías, como el nivel de satisfacción",
+        "Las que expresan un carácter medible con un número entero y finito",
+        "Las que pueden tomar cualquier valor posible de un intervalo continuo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las variables cualitativas nominales identifican categorías sin orden entre ellas, como el color de ojos o el género. Las ordinales presentan jerarquía; las cuantitativas discretas se miden con números finitos; las continuas toman valores en un intervalo."
+    },
+    {
+      "question": "¿Qué se entiende por 'muestra representativa' en el contexto estadístico del tema?",
+      "options": [
+        "Una parte de la población seleccionada que permite ahorrar tiempo y recursos cuando analizar toda la población es inviable",
+        "Un conjunto de datos que incluye todos los elementos de la población para obtener conclusiones precisas",
+        "Un grupo de individuos seleccionados mediante encuesta que representa únicamente las variables cuantitativas",
+        "Un subconjunto de la población elegido aleatoriamente que siempre coincide con el 10% del total"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La muestra es una parte representativa de la población seleccionada para el estudio en aquellas situaciones en las que analizar toda la población es inviable por su tamaño, permitiendo ahorrar tiempo y recursos. No tiene un porcentaje fijo."
+    },
+    {
+      "question": "En el contexto del Decreto 155/2022, ¿cuál es el enfoque que demanda la LOMLOE para relacionar contenidos de diferentes áreas?",
+      "options": [
+        "Enfoque interdisciplinar y globalizador",
+        "Enfoque competencial y por proyectos",
+        "Enfoque modular y segmentado por áreas",
+        "Enfoque constructivista y basado en la resolución de problemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE demanda un enfoque interdisciplinar y globalizador donde los contenidos de un área se relacionen con las áreas restantes. El tema aplica este enfoque al mostrar cómo la estadística tiene aplicaciones en todas las áreas del currículo."
+    },
+    {
+      "question": "¿Cuál de los siguientes gráficos usa imágenes cuyo tamaño refleja la cantidad de datos representados?",
+      "options": [
+        "Los pictogramas (en los que el tamaño de la imagen refleja la cantidad)",
+        "Los cartogramas (en los que el tamaño del área refleja la población)",
+        "Las pirámides de población (en las que la longitud de la barra refleja la frecuencia)",
+        "Los diagramas de sectores (en los que el área del sector refleja el porcentaje)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En los pictogramas, en algunos casos se refleja la cantidad mediante el tamaño de las imágenes, mientras que en otros se repite la figura tantas veces como indique la cantidad. Los cartogramas usan mapas, las pirámides usan barras horizontales y los sectores usan áreas circulares."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el 'gráfico de barras' es correcta según el tema?",
+      "options": [
+        "Usa rectángulos del mismo ancho con altura proporcional a los valores, siendo útil para comparar magnitudes entre categorías o su evolución temporal",
+        "Usa columnas verticales sin separación entre ellas para representar frecuencias de datos agrupados en rangos",
+        "Representa cada categoría mediante un sector cuyo tamaño es proporcional al porcentaje del total",
+        "Une con una línea los puntos medios de las barras superiores del histograma para comparar distribuciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El diagrama de barras compara datos mediante rectángulos del mismo ancho con altura proporcional a los valores, siendo útil para comparar magnitudes entre categorías o su evolución temporal. Las columnas sin separación definen el histograma."
+    },
+    {
+      "question": "Según el Decreto 155/2022, ¿en qué ciclo se trabaja la 'comparación gráfica de datos para establecer relaciones y extraer conclusiones'?",
+      "options": [
+        "En el segundo ciclo (3.º y 4.º de EP)",
+        "En el primer ciclo (1.º y 2.º de EP)",
+        "En el tercer ciclo (5.º y 6.º de EP)",
+        "Se trabaja transversalmente en todos los ciclos de EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo ciclo se avanza en la comparación gráfica de datos para establecer relaciones y extraer conclusiones. En el primer ciclo se trabaja la lectura e interpretación básica; en el tercer ciclo se diseñan estudios estadísticos propios."
+    },
+    {
+      "question": "¿Qué tipo de datos procedentes de mediciones se trabajan en el tercer ciclo de EP?",
+      "options": [
+        "Datos procedentes de encuestas, mediciones u observaciones",
+        "Datos meteorológicos y censales de fuentes secundarias",
+        "Datos cualitativos nominales de encuestas sobre hábitos escolares",
+        "Datos de frecuencia absoluta procedentes de recuentos en el aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el tercer ciclo, el alumnado diseña y ejecuta estudios estadísticos sencillos partiendo del planteamiento de preguntas y de la recogida, registro y organización de datos procedentes de encuestas, mediciones u observaciones."
+    },
+    {
+      "question": "¿Qué distingue el 'método estadístico' de otras metodologías científicas según el tema?",
+      "options": [
+        "Es la metodología propia que estructura la recogida, organización y representación de los datos siguiendo una secuencia lógica de fases",
+        "Es un procedimiento exclusivo de las ciencias matemáticas que excluye la interpretación cualitativa de los datos",
+        "Es una metodología que comienza por la formulación de hipótesis antes de cualquier recogida de datos empíricos",
+        "Es un proceso circular que repite sus fases indefinidamente hasta alcanzar la saturación estadística de los datos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El método estadístico se define en el tema como la metodología propia que estructura la recogida, organización y representación de los datos siguiendo una secuencia lógica de fases. No excluye la interpretación cualitativa ni es exclusivamente matemático."
+    },
+    {
+      "question": "¿Qué ventaja específica tienen los gráficos de líneas respecto a otros tipos de gráficos?",
+      "options": [
+        "Resultan útiles para exponer una gran cantidad de datos en una sola representación",
+        "Permiten visualizar porcentajes dentro de un total de forma proporcional",
+        "Representan frecuencias de datos agrupados en intervalos sin superposición visual",
+        "Facilitan la comparación de categorías mediante rectángulos de igual ancho"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El gráfico de líneas resulta útil para exponer una gran cantidad de datos en una sola representación y para mostrar la evolución o continuidad a lo largo del tiempo. Los porcentajes corresponden al diagrama de sectores; los rangos al histograma."
+    },
+    {
+      "question": "¿Cuál de los siguientes pares de conceptos estadísticos se introduce en el primer ciclo de EP?",
+      "options": [
+        "Eventos posibles e imposibles",
+        "Frecuencia absoluta y moda",
+        "Frecuencia relativa y promedio",
+        "Incertidumbre y probabilidad de eventos seguros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo se trabaja la distinción entre eventos posibles e imposibles en situaciones cotidianas. La frecuencia absoluta y la moda son del segundo ciclo; la frecuencia relativa y el promedio del tercer ciclo; 'seguro' se introduce en tercer curso."
+    },
+    {
+      "question": "¿Cuál es la progresión correcta de los contenidos estadísticos a lo largo de los ciclos de EP según el tema?",
+      "options": [
+        "Recuento y representación básica → Consolidación de estrategias e introducción de frecuencias → Diseño y ejecución de estudios estadísticos propios",
+        "Diseño de estudios → Representación gráfica básica → Interpretación crítica de datos complejos",
+        "Pictogramas y barras → Frecuencias relativas y diagramas de sectores → Histogramas y tablas de doble entrada",
+        "Datos cualitativos → Datos cuantitativos discretos → Datos cuantitativos continuos en todos los ciclos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La progresión correcta es: primer ciclo (recuento y representación básica), segundo ciclo (consolidación de estrategias, frecuencia absoluta, moda, histogramas y tablas de doble entrada) y tercer ciclo (diseño y ejecución de estudios estadísticos propios)."
+    },
+    {
+      "question": "¿Qué competencia clave se menciona al describir el rol del área de Proyecto Competencial en el tratamiento de datos?",
+      "options": [
+        "No se especifica una competencia clave concreta para el Proyecto Competencial en este apartado",
+        "La Competencia Digital para el manejo de herramientas de recogida de datos online",
+        "La Competencia Matemática para el análisis e interpretación de datos estadísticos",
+        "La Competencia Personal, Social y de Aprender a Aprender para el trabajo autónomo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el apartado de aplicación en las áreas, al describir el Proyecto Competencial, el tema no especifica una competencia clave concreta, sino que indica que se desarrollan habilidades para manejar información mediante tareas contextualizadas y significativas."
+    },
+    {
+      "question": "¿Cuándo se menciona que el alumnado aprende a 'calcular e interpretar el promedio y la moda' comparando conjuntos de datos?",
+      "options": [
+        "En el tercer ciclo de EP",
+        "En el segundo ciclo de EP",
+        "En el primer ciclo de EP",
+        "En la transición entre el segundo y el tercer ciclo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es en el tercer ciclo cuando el alumnado trabaja el cálculo e interpretación del promedio y la moda, así como la comparación de conjuntos de datos para extraer conclusiones. La moda (sin cálculo formal) se introduce en el segundo ciclo."
+    },
+    {
+      "question": "¿Qué aspecto del aprendizaje potencia la Competencia Personal, Social y de Aprender a Aprender (CPSAA) según el apartado de TIC del tema?",
+      "options": [
+        "La autonomía del alumnado en la adquisición de aprendizajes",
+        "La capacidad para trabajar cooperativamente en grupos heterogéneos",
+        "La habilidad para buscar, procesar y comunicar información críticamente",
+        "El desarrollo del espíritu crítico ante el funcionamiento de los dispositivos tecnológicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que las metodologías activas potencian la autonomía del alumnado en la adquisición de la Competencia Personal, Social y de Aprender a Aprender (CPSAA). La habilidad de buscar y procesar información críticamente corresponde a la Competencia Digital."
+    },
+    {
+      "question": "¿Cuál de los siguientes datos biográficos sobre la bibliografía del tema es correcto?",
+      "options": [
+        "Rico, L. y Flores, P. (2015) publicaron 'Enseñanza y aprendizaje de las matemáticas en Educación Primaria' en Madrid: Pirámide",
+        "Alsina, A. (2004) publicó 'Didáctica de las matemáticas para maestros' en el Proyecto Edumat-Maestros",
+        "Chamorro, M.C. (2003) publicó 'Desarrollo de competencias matemáticas con recursos lúdico-manipulativos' en Madrid: Narcea",
+        "Godino, J.D. (2004) publicó 'Didáctica de las matemáticas para primaria' en Madrid: Pearson Educación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rico y Flores (2015) publicaron 'Enseñanza y aprendizaje de las matemáticas en Educación Primaria' en Madrid: Pirámide. Alsina publicó el libro sobre recursos lúdico-manipulativos; Chamorro la didáctica para primaria; Godino et al. la didáctica para maestros."
+    },
+    {
+      "question": "¿Qué diferencia existe entre la 'frecuencia absoluta' y la 'frecuencia acumulada'?",
+      "options": [
+        "La frecuencia absoluta es el número de veces que aparece un dato; la frecuencia acumulada no se menciona en el tema",
+        "La frecuencia absoluta se acumula a lo largo del conjunto de datos; la acumulada divide por el total",
+        "La frecuencia absoluta corresponde a datos cualitativos; la acumulada a datos cuantitativos",
+        "La frecuencia absoluta y la acumulada son sinónimos en el contexto de la EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema define la frecuencia absoluta como el número de veces que se repite un dato, y la frecuencia relativa como el cociente entre la absoluta y el total. La frecuencia acumulada no se menciona explícitamente en el tema."
+    },
+    {
+      "question": "¿Cuál es la razón principal por la que la estadística ha cobrado mayor presencia en los sistemas educativos según la introducción del tema?",
+      "options": [
+        "Su importancia para la vida cotidiana y para el desarrollo personal y académico del alumnado en una sociedad caracterizada por el acceso masivo a la información",
+        "La exigencia de las pruebas de evaluación externa que incluyen contenidos estadísticos desde los primeros cursos de EP",
+        "La incorporación de las TIC en el aula que hace imprescindible el manejo de datos digitales desde edades tempranas",
+        "La demanda del mercado laboral de profesionales con competencias estadísticas en todos los sectores productivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La introducción del tema señala que la estadística ha cobrado presencia en los sistemas educativos por su importancia para la vida cotidiana y para el desarrollo personal y académico del alumnado en el marco de una sociedad caracterizada por el acceso masivo a la información."
+    },
+    {
+      "question": "¿Qué elementos debe incluir un buen gráfico estadístico para facilitar su interpretación, según el tema?",
+      "options": [
+        "Una tabla de datos, el título, la leyenda y los símbolos necesarios",
+        "El título, las etiquetas numéricas en todas las barras y una nota metodológica",
+        "El título, la fuente de los datos, el eje de abscisas y el eje de ordenadas",
+        "La leyenda, el porcentaje de cada categoría y la fecha de elaboración del gráfico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema indica que un buen gráfico debe acompañarse de elementos como una tabla de datos, el título, la leyenda y los símbolos necesarios que faciliten su interpretación. No menciona etiquetas numéricas obligatorias ni fuentes de datos."
+    },
+    {
+      "question": "¿A qué se refiere el tema cuando habla de la 'tipografía' como característica de los gráficos?",
+      "options": [
+        "Debe ser clara y legible",
+        "Debe ser de color oscuro sobre fondo claro para garantizar el contraste",
+        "Debe ser grande para que sea visible desde todas las posiciones del aula",
+        "Debe usarse una única tipografía en todos los elementos del gráfico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema simplemente indica que la tipografía de los gráficos debe ser clara y legible, sin especificar el color, el tamaño mínimo ni la uniformidad de fuentes."
+    },
+    {
+      "question": "¿Cuál es la relación entre los polígonos de frecuencias y el histograma?",
+      "options": [
+        "Los polígonos de frecuencias se obtienen uniendo los puntos medios de las barras superiores del histograma",
+        "Los polígonos de frecuencias son una forma simplificada del histograma que elimina las columnas",
+        "El histograma se construye trazando líneas entre los valores medios de las categorías del polígono",
+        "Los polígonos de frecuencias sustituyen al histograma cuando los datos son cualitativos ordinales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los polígonos de frecuencias se obtienen uniendo con una línea los puntos medios de las barras superiores de un histograma. Son un tipo de representación derivada del histograma y no lo sustituyen, sino que lo complementan."
+    },
+    {
+      "question": "¿Qué afirma el tema sobre los 'eventos posibles e imposibles' en el primer ciclo de EP?",
+      "options": [
+        "Se trabaja la distinción entre ellos en situaciones cotidianas",
+        "Se introducen junto al concepto de 'seguro' para completar el vocabulario probabilístico",
+        "Se estudian mediante diagramas de árbol adaptados al nivel cognitivo del alumnado",
+        "Se representan gráficamente en pictogramas o diagramas de barras sencillos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo se trabaja la distinción entre eventos posibles e imposibles en situaciones cotidianas. El término 'seguro' se añade en tercer curso (segundo ciclo). Los diagramas de árbol corresponden al último ciclo."
+    },
+    {
+      "question": "¿Cuáles son los dos ejes que componen el gráfico de líneas según el tema?",
+      "options": [
+        "Un eje horizontal y un eje vertical",
+        "Un eje de frecuencias y un eje de categorías nominales",
+        "Un eje de tiempo y un eje de frecuencias relativas",
+        "Un eje de abscisas categórico y un eje de ordenadas logarítmico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema describe el gráfico de líneas como compuesto de dos ejes, uno horizontal y otro vertical, sobre los que se sitúan puntos que se unen mediante una línea. No especifica que el eje sea logarítmico ni que sea de frecuencias relativas."
+    },
+    {
+      "question": "¿Cuál es la secuencia correcta de las dos últimas fases del método estadístico según el tema?",
+      "options": [
+        "Representar gráficamente los datos → Contrastar hipótesis y emitir una generalización",
+        "Analizar los datos → Representar gráficamente los datos",
+        "Tabulación de los datos → Analizar los datos",
+        "Contrastar hipótesis → Representar gráficamente los resultados confirmados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las dos últimas fases del método estadístico son: representar gráficamente los datos (séptima fase) y contrastar hipótesis y emitir una generalización (octava y última fase). Analizar los datos es la sexta fase y la tabulación la quinta."
+    },
+    {
+      "question": "¿Cuál es el aporte específico de las Ciencias de la Naturaleza al tratamiento estadístico de datos según el tema?",
+      "options": [
+        "La búsqueda, selección, organización e interpretación de datos para la investigación científica y la recolección de datos meteorológicos",
+        "El desarrollo del vocabulario estadístico mediante la lectura de textos científicos especializados",
+        "La elaboración de pirámides de población con datos históricos y censales simplificados",
+        "El diseño de encuestas sobre hábitos de reciclaje para representarlos en diagramas de barras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las Ciencias de la Naturaleza aportan la búsqueda, selección, organización e interpretación de datos necesarios para la investigación científica y la recolección de datos meteorológicos (representables en climogramas). Las pirámides de población corresponden a Ciencias Sociales."
+    },
+    {
+      "question": "¿Qué es la 'navegación y búsqueda por internet' en el contexto del software para tratamiento de datos según el tema?",
+      "options": [
+        "Permite acceder a información y a calculadoras estadísticas como Symbolab",
+        "Permite descargar automáticamente bases de datos estadísticas actualizadas",
+        "Facilita la creación de encuestas online y la recopilación de respuestas en tiempo real",
+        "Ofrece acceso a plataformas de gráficos interactivos como GeoGebra y Canva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona que la navegación y búsqueda por internet permite acceder a información y a calculadoras estadísticas como Symbolab. GeoGebra y Canva se mencionan como aplicaciones educativas, no como resultado de la navegación web genérica."
+    },
+    {
+      "question": "¿Cuál de estas obras de la bibliografía aborda específicamente el 'desarrollo de competencias matemáticas con recursos lúdico-manipulativos'?",
+      "options": [
+        "Alsina, A. (2004). Para niños y niñas de 6 a 12 años. Madrid: Narcea",
+        "Chamorro, M.C. (2003). Didáctica de las matemáticas para primaria. Madrid: Pearson",
+        "Godino, J.D. et al. (2004). Didáctica de las matemáticas para maestros. Proyecto Edumat",
+        "Rico, L. y Flores, P. (2015). Enseñanza y aprendizaje de las matemáticas en EP. Madrid: Pirámide"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alsina, A. (2004) es el autor de 'Desarrollo de competencias matemáticas con recursos lúdico-manipulativos. Para niños y niñas de 6 a 12 años', publicado en Madrid por Narcea. Es la obra más citada a lo largo del tema."
+    },
+    {
+      "question": "¿Qué sucede en la fase de 'analizar los datos' del método estadístico según el tema?",
+      "options": [
+        "Se determinan las características del fenómeno y se enuncian las conclusiones",
+        "Se ordenan y agrupan los datos en tablas para su análisis posterior",
+        "Se contrastan las hipótesis iniciales y se emite una generalización final",
+        "Se recogen los datos mediante técnicas e instrumentos adecuados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de analizar los datos (sexta fase) se determinan las características del fenómeno y se enuncian las conclusiones. La tabulación (quinta fase) ordena y agrupa los datos; el contraste de hipótesis es la última fase; la recogida de datos es la cuarta."
+    },
+    {
+      "question": "Según el tema, ¿qué recursos tecnológicos convencionales y no convencionales se mencionan para el primer ciclo?",
+      "options": [
+        "Recursos manipulativos convencionales, no convencionales y tecnológicos para representar y comunicar datos",
+        "Pizarras digitales interactivas y tablets para la representación de pictogramas",
+        "Hojas de cálculo simplificadas y aplicaciones de encuestas interactivas",
+        "Regletas digitales y juegos educativos interactivos de recuento de datos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo se menciona el avance hacia la representación y comunicación de datos mediante pictogramas y gráficos de barras con apoyo de recursos manipulativos convencionales, no convencionales y tecnológicos. No se especifican tablets ni PDI en este ciclo."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el 'promedio' es correcta según el contexto del tema?",
+      "options": [
+        "Se trabaja su cálculo e interpretación en el tercer ciclo, junto con la moda",
+        "Se introduce en el segundo ciclo como valor que divide el conjunto en dos partes iguales",
+        "Se define como el valor que se repite con mayor frecuencia en el conjunto de datos",
+        "Se introduce en el primer ciclo mediante situaciones cotidianas de reparto igualitario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El promedio (media aritmética) se trabaja en el tercer ciclo de EP junto con la moda. La definición como valor que divide el conjunto en dos partes es de la mediana; el valor más frecuente es la moda; el primer ciclo trabaja eventos posibles e imposibles."
+    },
+    {
+      "question": "¿Cuál es el objetivo declarado del Bloque 5 'Sentido estocástico' del Decreto 155/2022?",
+      "options": [
+        "Orientarse hacia el razonamiento, interpretación y valoración de datos para la toma de decisiones a partir de información estadística",
+        "Desarrollar el cálculo mental y las operaciones básicas con datos numéricos procedentes de situaciones estadísticas",
+        "Facilitar al alumnado los aprendizajes de la geometría y las habilidades lógicas mediante datos estadísticos",
+        "Introducir al alumnado en el razonamiento algebraico mediante el análisis de patrones en series de datos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 5 'Sentido estocástico' se orienta hacia el razonamiento, interpretación y valoración de datos para la toma de decisiones a partir de información estadística. No está centrado en el cálculo mental ni en la geometría."
+    },
+    {
+      "question": "¿Cuáles son los dos grandes grupos en que se clasifica el software mencionado en el apartado de TIC?",
+      "options": [
+        "Herramientas de ofimática (incluida la hoja de cálculo) y otras aplicaciones educativas (GeoGebra, Canva, Mentimeter)",
+        "Herramientas de representación gráfica y herramientas de encuesta y recogida de datos",
+        "Software libre y software de pago para el tratamiento de datos estadísticos en el aula",
+        "Aplicaciones de escritorio y aplicaciones web para el procesamiento de datos estadísticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El software se clasifica en: herramientas de ofimática (hojas de cálculo como LibreOffice Calc, Excel y Numbers) y otras aplicaciones educativas (GeoGebra para estadística interactiva, Canva/Genially para infografías, Mentimeter/Kahoot/Plickers para encuestas en tiempo real)."
+    },
+    {
+      "question": "¿Qué implica la necesidad de que un gráfico 'llame la atención del observador' según el tema?",
+      "options": [
+        "Debe ser visualmente atractivo e invitar a la lectura",
+        "Debe usar colores llamativos para maximizar el impacto visual del alumnado",
+        "Debe incluir elementos decorativos que refuercen el tema tratado en el gráfico",
+        "Debe ser de gran tamaño para que todos los alumnos del aula puedan verlo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema indica que un buen gráfico debe estar diseñado para llamar la atención del observador, siendo visualmente atractivo e invitando a la lectura. Sin embargo, esto no implica colores excesivamente llamativos ni elementos decorativos que sobrecarguen el gráfico."
+    },
+    {
+      "question": "¿Qué obra normativa de la bibliografía del tema regula la evaluación de la Educación Primaria en Galicia?",
+      "options": [
+        "La Orden de 26 de mayo de 2023 que desarrolla el Decreto 155/2022",
+        "El Real Decreto 157/2022 que establece las enseñanzas mínimas de EP",
+        "La Ley Orgánica 3/2020 (LOMLOE) que modifica la LOE de 2006",
+        "El Decreto 155/2022 de 15 de septiembre en su artículo 8"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 es la que desarrolla el Decreto 155/2022 y regula la evaluación en la etapa de Educación Primaria en Galicia. El Real Decreto 157/2022 establece las enseñanzas mínimas a nivel estatal."
+    },
+    {
+      "question": "¿Cuál de las siguientes características de las tablas de datos significa que permiten ver la información 'de forma rápida y sencilla'?",
+      "options": [
+        "La claridad (visión completa y global de datos e interrelaciones)",
+        "La concisión (solo información relevante para el estudio)",
+        "La precisión (sin errores en la transcripción de los datos)",
+        "La autoexplicatividad (mediante título y encabezado)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La característica de 'claridad' es la que permite una visión completa y global de los datos, los resultados y sus interrelaciones de forma rápida y sencilla. La concisión implica incluir solo lo relevante; la precisión evita errores; la autoexplicatividad no necesita explicación externa."
+    },
+    {
+      "question": "¿Qué aspecto de la evaluación inicial destaca el tema en relación al uso de las TIC en el aula?",
+      "options": [
+        "Debe elaborarse al principio de curso para conocer los conocimientos previos en relación al uso de las TIC y el tratamiento estadístico de datos",
+        "Debe realizarse al final de cada trimestre para valorar el progreso en el uso de herramientas digitales",
+        "Debe centrarse en las competencias digitales del alumnado para agruparlos en niveles homogéneos",
+        "Debe incluir pruebas de manejo de software estadístico para determinar el punto de partida de cada alumno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema indica que es necesario partir de los conocimientos previos del alumnado, considerando la ZDP de Vygotsky y los resultados de la evaluación inicial que todo docente debe elaborar al principio de curso, tanto en relación al uso de las TIC como al tratamiento estadístico."
+    },
+    {
+      "question": "¿Cómo define el tema el concepto de 'población, colectivo o universo' en estadística?",
+      "options": [
+        "La totalidad de elementos, individuos u objetos cuyas características se pretende estudiar",
+        "El conjunto de datos seleccionados de forma representativa para el estudio estadístico",
+        "El número total de datos recogidos en la fase de tabulación del método estadístico",
+        "El grupo de elementos de la muestra que han sido analizados y de los que se extraen conclusiones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La población, colectivo o universo designa la totalidad de elementos, individuos u objetos cuyas características se pretende estudiar. La muestra es la parte representativa seleccionada de esa población; la tabulación es una fase del método estadístico."
+    },
+    {
+      "question": "Según el tema, ¿cuándo resultan los pictogramas especialmente accesibles?",
+      "options": [
+        "Para el alumnado de los primeros cursos de la etapa de EP",
+        "Para el alumnado con necesidades específicas de apoyo educativo (NEAE) en todos los cursos",
+        "Para el alumnado del tercer ciclo cuando necesita representar datos cualitativos nominales",
+        "Para el alumnado que trabaja con conjuntos de datos de más de veinte elementos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que los pictogramas son especialmente visuales, atractivos y accesibles para el alumnado de los primeros cursos de la etapa de EP, por lo que son un tipo de gráfico idóneo para el primer ciclo."
+    },
+    {
+      "question": "¿Cuál es la conclusión principal que extrae el tema sobre el tratamiento de datos en la sociedad actual?",
+      "options": [
+        "El tratamiento y manejo de datos resultan esenciales en la sociedad de la información actual, por lo que es necesario incorporar dichos conocimientos desde los primeros cursos de EP",
+        "Las TIC constituyen el único medio válido para el aprendizaje estadístico en la sociedad digital contemporánea",
+        "La estadística es una herramienta exclusivamente matemática que debe reservarse para los últimos cursos de EP",
+        "El enfoque interdisciplinar permite que la estadística sea trabajada en todas las áreas sin necesidad de un bloque matemático específico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión principal del tema es que el tratamiento y manejo de datos resultan esenciales en la sociedad de la información actual, siendo necesario incorporar dichos conocimientos desde los primeros cursos de EP."
+    },
+    {
+      "question": "¿Cuál es la Competencia Personal, Social y de Aprender a Aprender (CPSAA) según el rol que describe el tema en el apartado de TIC?",
+      "options": [
+        "La que el alumnado desarrolla al potenciar su autonomía mediante metodologías activas",
+        "La que se adquiere al trabajar cooperativamente con herramientas digitales estadísticas",
+        "La que permite buscar, procesar y comunicar información estadística de manera crítica",
+        "La que desarrolla el espíritu crítico ante el funcionamiento de los dispositivos tecnológicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema asocia la CPSAA a la potenciación de la autonomía del alumnado mediante metodologías activas. La habilidad de buscar y procesar información críticamente corresponde a la Competencia Digital; el espíritu crítico ante los dispositivos es parte del objetivo 'i' del artículo 7."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una limitación del uso de las TIC que el docente debe considerar según el tema?",
+      "options": [
+        "Las posibilidades y limitaciones de las herramientas tecnológicas disponibles en el centro",
+        "La dificultad del alumnado para manipular dispositivos en los primeros cursos de EP",
+        "La necesidad de conexión a internet continua para usar aplicaciones estadísticas",
+        "El riesgo de que el alumnado priorice el manejo del dispositivo sobre el contenido matemático"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El docente debe considerar las posibilidades y limitaciones de las herramientas tecnológicas. El riesgo de priorizar el manejo del dispositivo sobre el contenido matemático se menciona como advertencia final, no como limitación que deba 'considerarse' en la planificación metodológica."
+    },
+    {
+      "question": "¿Qué tipo de gráfico es especialmente adecuado para comparar magnitudes entre diferentes categorías?",
+      "options": [
+        "El diagrama o gráfico de barras",
+        "El gráfico de líneas o lineal",
+        "El diagrama de sectores o circular",
+        "El histograma de columnas verticales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El diagrama de barras es el especialmente útil para comparar magnitudes entre diferentes categorías o para observar su evolución a lo largo del tiempo. El gráfico de líneas muestra evolución temporal; el diagrama de sectores muestra porcentajes; el histograma representa datos en rangos."
+    },
+    {
+      "question": "¿Cuál de las siguientes descripciones corresponde a la característica de ser 'autoexplicativa' en una tabla de datos?",
+      "options": [
+        "La tabla se comprende a través de su título y encabezado sin necesidad de explicaciones adicionales",
+        "La tabla incluye una nota metodológica que explica el procedimiento estadístico utilizado",
+        "La tabla presenta los datos en orden lógico y coherente, de izquierda a derecha y de arriba abajo",
+        "La tabla recoge únicamente la información relevante para el estudio sin datos superfluos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una tabla es autoexplicativa cuando se comprende a través de su título y encabezado, sin necesidad de explicaciones adicionales. La disposición lógica hace referencia a la recomendación didáctica de coherencia; la información relevante es la característica de concisión."
+    },
+    {
+      "question": "¿Cuál es la diferencia conceptual entre 'tablas de datos' y 'gráficos estadísticos' como formas de representar información?",
+      "options": [
+        "Las tablas organizan datos en filas y columnas de forma sistemática; los gráficos son representaciones visuales mediante figuras geométricas, líneas o pictogramas",
+        "Las tablas representan únicamente datos cualitativos; los gráficos representan datos cuantitativos en escala numérica",
+        "Las tablas son más complejas que los gráficos y se introducen en ciclos más avanzados de EP",
+        "Las tablas permiten calcular frecuencias relativas directamente; los gráficos solo muestran frecuencias absolutas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tablas organizan datos en filas y columnas de forma sistemática, mientras que los gráficos son representaciones visuales de datos numéricos o categóricos a través de figuras geométricas, líneas o pictogramas. Ambos se usan en todos los ciclos y para distintos tipos de datos."
+    },
+    {
+      "question": "¿Qué frase resume el papel del docente respecto al tratamiento de datos en la conclusión del tema?",
+      "options": [
+        "Debe planificar didácticamente estos contenidos de forma gradual, con metodologías activas, partiendo del entorno próximo y convirtiendo al alumnado en protagonista, atendiendo a la diversidad mediante el DUA",
+        "Debe garantizar que el foco permanezca en el contenido matemático y no en el manejo del dispositivo tecnológico",
+        "Debe promover la actitud crítica para que el alumnado detecte manipulaciones en la percepción de los datos",
+        "Debe seleccionar el tipo de representación más adecuado para cada situación de aprendizaje estadístico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema sintetiza el papel del docente: abordar los contenidos de forma gradual, con metodologías activas, partiendo del entorno próximo, convirtiendo al alumnado en protagonista y atendiendo a la diversidad mediante los principios del DUA."
+    },
+    {
+      "question": "¿Cuál de los siguientes gráficos permite visualizar la distribución de la población por natalidad, mortalidad y grado de envejecimiento?",
+      "options": [
+        "Las pirámides de población o demográficas",
+        "Los cartogramas temáticos",
+        "Los climogramas meteorológicos",
+        "Los diagramas de sectores con datos censales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las pirámides de población permiten analizar la estructura y evolución de la población, visualizando el nivel de natalidad, mortalidad y el grado de juventud, madurez o envejecimiento, mediante dobles histogramas de barras horizontales enfrentadas por edad y sexo."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones describe correctamente la diferencia entre 'población finita' e 'infinita'?",
+      "options": [
+        "La finita tiene un número limitado de elementos; la infinita tiene un número muy elevado o ilimitado",
+        "La finita puede ser analizada mediante censo; la infinita requiere muestra con tamaño inferior al 5% del total",
+        "La finita incluye solo datos cualitativos; la infinita incluye variables cuantitativas continuas",
+        "La finita es propia de estudios locales; la infinita corresponde a estudios nacionales o internacionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La población finita tiene un número limitado de elementos, mientras que la población infinita tiene un número de elementos muy elevado o ilimitado. La distinción no se basa en el tipo de dato ni en el ámbito geográfico."
+    },
+    {
+      "question": "¿Cuál es el papel del 'Sentido estocástico' en relación con las competencias clave del Decreto 155/2022?",
+      "options": [
+        "Tiene como objetivo que el alumnado adquiera la competencia matemática del artículo 8",
+        "Tiene como objetivo principal desarrollar la Competencia Digital mediante el análisis de datos",
+        "Está orientado al desarrollo de la CPSAA mediante el trabajo autónomo con datos estadísticos",
+        "Busca desarrollar la Competencia en Comunicación Lingüística a través de la lectura de gráficos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 5 'Sentido estocástico' busca que el alumnado adquiera la competencia matemática recogida en el artículo 8 del Decreto 155/2022. Si bien contribuye a otras competencias, la competencia matemática es el objetivo principal de este bloque."
+    },
+    {
+      "question": "¿Cuál de las siguientes técnicas de recogida de datos se vincula específicamente con el estudio de relaciones sociales entre el alumnado?",
+      "options": [
+        "La sociometría",
+        "La observación asistemática",
+        "Las escalas de valoración",
+        "Los registros anecdóticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La sociometría es una técnica que estudia las relaciones sociales entre individuos de un grupo, y el sociograma es el instrumento asociado. La observación asistemática no sigue un plan; las escalas de valoración miden grados; los registros anecdóticos registran incidentes."
+    },
+    {
+      "question": "Según el tema, ¿cuál es la ventaja principal del uso de la muestra frente al censo en estadística?",
+      "options": [
+        "Permite ahorrar tiempo y recursos cuando analizar toda la población es inviable",
+        "Garantiza resultados más precisos que el censo al eliminar sesgos de la población total",
+        "Permite estudiar variables cuantitativas continuas que el censo no puede registrar",
+        "Es el único método válido cuando la población supera los mil elementos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La muestra permite ahorrar tiempo y recursos cuando analizar toda la población es inviable por su tamaño. No garantiza mayor precisión que el censo (al contrario), y no hay un número fijo a partir del cual sea obligatorio usarla."
+    },
+    {
+      "question": "En el tema, ¿cómo se denomina el procedimiento en que se recoge y analiza información de TODOS los elementos de la población?",
+      "options": [
+        "Censo",
+        "Muestreo",
+        "Tabulación",
+        "Encuesta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El censo es el procedimiento estadístico en el que se recoge y analiza información de todos los elementos de una población. El muestreo selecciona una parte representativa; la tabulación es una fase de organización; la encuesta es una técnica de recogida de datos."
+    },
+    {
+      "question": "¿Qué aspecto diferencia a la 'observación sistemática' de las 'listas de control' en el método estadístico?",
+      "options": [
+        "La observación sistemática es una técnica; las listas de control son un instrumento de registro",
+        "La observación sistemática recoge datos cuantitativos; las listas de control datos cualitativos",
+        "La observación sistemática es para poblaciones grandes; las listas de control para muestras pequeñas",
+        "La observación sistemática no requiere planificación previa; las listas de control sí la requieren"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema distingue entre técnicas (como la observación sistemática, asistemática, encuestas y sociometría) e instrumentos (como listas de control, escalas de valoración, cuestionarios y sociogramas). La observación es técnica; la lista de control es instrumento."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones describe mejor el enfoque de la LOMLOE respecto al currículo interdisciplinar?",
+      "options": [
+        "Demanda un enfoque interdisciplinar y globalizador donde los contenidos de un área se relacionen con las áreas restantes",
+        "Establece que cada área debe desarrollar sus propios objetivos y competencias de forma independiente",
+        "Propone que el área de matemáticas sea el eje vertebrador de todos los contenidos del currículo de EP",
+        "Define que los contenidos estadísticos sean trabajados exclusivamente en el área de matemáticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE demanda un enfoque interdisciplinar y globalizador donde los contenidos de un área se relacionen con las demás. Por eso el tema dedica un apartado a las aplicaciones de la estadística en todas las áreas del currículo de EP."
+    },
+    {
+      "question": "Según el tema, ¿qué gráfico se recomienda para visualizar cómo cambian los datos a lo largo del tiempo con muchos valores?",
+      "options": [
+        "El gráfico de líneas, ya que resulta útil para exponer una gran cantidad de datos en una sola representación",
+        "El diagrama de barras, ya que permite comparar la evolución de muchas categorías simultáneamente",
+        "El histograma, ya que representa frecuencias de muchos intervalos en columnas continuas",
+        "El diagrama de sectores, ya que visualiza la proporción de cada momento respecto al total"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El gráfico de líneas es el más adecuado para visualizar la evolución de datos a lo largo del tiempo y resulta útil para exponer una gran cantidad de datos en una sola representación. El histograma muestra distribuciones en rangos, no evolución temporal."
+    },
+    {
+      "question": "¿En qué consiste el enfoque 'globalizador' que el tema vincula al tratamiento de datos en EP?",
+      "options": [
+        "Relacionar los contenidos estadísticos con todas las áreas del currículo de EP de forma integrada",
+        "Aplicar los contenidos estadísticos a situaciones de contexto internacional y global",
+        "Tratar la estadística desde un único área para garantizar la coherencia y secuenciación de los contenidos",
+        "Integrar los datos estadísticos de distintas comunidades autónomas para comparar resultados educativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El enfoque globalizador supone relacionar los contenidos estadísticos con todas las áreas del currículo de EP de forma integrada, tal como demanda la LOMLOE. No se refiere a contextos internacionales ni a la comparación entre comunidades autónomas."
+    },
+    {
+      "question": "¿Cuál es la función de los 'registros anecdóticos' como instrumento de recogida de datos?",
+      "options": [
+        "Registrar incidentes o comportamientos significativos del alumnado de forma descriptiva",
+        "Medir grados de acuerdo o desacuerdo mediante una escala numérica predefinida",
+        "Verificar la presencia o ausencia de determinadas conductas o habilidades en una lista",
+        "Recoger datos cuantitativos de forma estructurada mediante preguntas cerradas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los registros anecdóticos recogen incidentes o comportamientos significativos de forma descriptiva y narrativa. Las escalas de valoración miden grados; las listas de control verifican presencia/ausencia; los cuestionarios recogen datos mediante preguntas estructuradas."
+    },
+    {
+      "question": "¿Cuál de las siguientes combinaciones de gráficos se trabaja explícitamente en el tercer ciclo según el Decreto 155/2022?",
+      "options": [
+        "Diagramas de sectores y gráficos poligonales junto con tablas de frecuencias relativas",
+        "Pictogramas y diagramas de barras junto con tablas de frecuencias absolutas",
+        "Histogramas y tablas de doble entrada junto con el registro simbólico",
+        "Polígonos de frecuencias y pirámides de población junto con la moda"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el tercer ciclo se incorporan los diagramas de sectores y los gráficos poligonales, junto con las tablas de frecuencias relativas. Los pictogramas y barras son del primer ciclo; los histogramas y tablas de doble entrada del segundo ciclo."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un ejemplo de aplicación estadística en el área de Educación Física recogido en el tema?",
+      "options": [
+        "Interpretar y analizar datos e información relativos al cuerpo humano como tomarse el pulso",
+        "Recoger datos meteorológicos y representarlos en climogramas del entorno escolar",
+        "Elaborar encuestas sobre hábitos de alimentación y plasmarlos en diagramas de barras",
+        "Interpretar mapas y leer gráficos procedentes de fuentes históricas y geográficas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Educación Física ofrece contexto para datos como tomarse el pulso o valorar resultados de torneos deportivos. Los datos meteorológicos en climogramas corresponden a Ciencias Sociales; las encuestas sobre alimentación a Proyecto Competencial; los mapas históricos a Ciencias Sociales."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones es correcta sobre el diagrama de sectores?",
+      "options": [
+        "Representa cada categoría mediante un sector cuyo tamaño es proporcional al porcentaje que representa dentro del total",
+        "Usa columnas verticales sin separación proporcionales al porcentaje de cada categoría",
+        "Une con una línea los extremos superiores de los sectores para visualizar tendencias entre categorías",
+        "Sitúa un punto en el centro del gráfico por cada categoría, siendo el radio proporcional al porcentaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El diagrama de sectores representa cada categoría mediante un sector de un círculo cuyo tamaño es proporcional al porcentaje que representa dentro del total. Las columnas sin separación definen el histograma; las líneas entre extremos superiores son los polígonos de frecuencias."
+    },
+    {
+      "question": "¿Qué teoría del aprendizaje justifica que la tecnología actúe como 'aliada para potenciar la comprensión conceptual' según el tema?",
+      "options": [
+        "La teoría de los aprendizajes significativos de Ausubel",
+        "Las etapas evolutivas del desarrollo cognitivo de Piaget",
+        "La Zona de Desarrollo Próximo de Vygotsky",
+        "El aprendizaje basado en el juego propuesto por Alsina (2004)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que debe fomentarse la construcción de aprendizajes significativos, en la línea de la teoría de Ausubel, de modo que la tecnología actúe como aliada para potenciar la comprensión conceptual. Piaget aporta las etapas evolutivas para seleccionar herramientas."
+    },
+    {
+      "question": "Según el tema, ¿qué tipos de datos cotidianos trabaja el alumnado de primer ciclo en estadística?",
+      "options": [
+        "Datos temporales, meteorológicos, personales y escolares",
+        "Datos de encuestas de opinión y datos de medición física",
+        "Datos de frecuencia relativa y datos de distribución por género",
+        "Datos censales simplificados y datos de hábitos de consumo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo, el trabajo se centra en datos de la vida cotidiana: temporales, meteorológicos, personales y escolares. Los datos de encuestas propias y mediciones se trabajan en el tercer ciclo; los datos censales aparecen como ejemplo en Ciencias Sociales del segundo ciclo."
+    },
+    {
+      "question": "¿Cuál es la definición de 'gráfico estadístico' que ofrece el tema?",
+      "options": [
+        "Representación visual de datos numéricos o categóricos a través de figuras geométricas, líneas o pictogramas que facilitan la comprensión, comparación e interpretación de la información",
+        "Diagrama matemático que expresa la relación entre variables cuantitativas mediante coordenadas cartesianas",
+        "Tabla de doble entrada que organiza visualmente datos estadísticos en filas y columnas con colores",
+        "Instrumento de representación que combina figuras geométricas con cálculos numéricos de frecuencias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema define el gráfico estadístico como una representación visual de datos numéricos o categóricos a través de figuras geométricas, líneas o pictogramas que facilitan la comprensión, comparación e interpretación de la información."
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones recoge correctamente los ejemplos de hardware para el aula mencionados en el tema?",
+      "options": [
+        "Ordenadores portátiles, tablets, Pizarras Digitales Interactivas (PDI), scanners e impresoras",
+        "Ordenadores de sobremesa, tablets, proyectores y teclados numéricos",
+        "Tablets, cámaras fotográficas, PDI y calculadoras científicas",
+        "Impresoras 3D, PDI, tablets y robots educativos programables"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema enumera como hardware del aula: ordenadores portátiles, tablets, Pizarras Digitales Interactivas (PDI), scanners e impresoras. No menciona cámaras fotográficas, robots programables ni calculadoras científicas entre los ejemplos."
+    },
+    {
+      "question": "¿Cuál es la razón específica por la que las tablas de datos son 'el elemento fundamental de la investigación estadística' según el tema?",
+      "options": [
+        "Porque en ellas se resumen todos los datos obtenidos",
+        "Porque permiten calcular directamente la frecuencia relativa de cada dato",
+        "Porque sustituyen al gráfico estadístico en las primeras fases del método",
+        "Porque son más precisas que los gráficos para representar variables cuantitativas continuas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tablas de datos son el elemento fundamental de la investigación estadística porque en ellas se resumen todos los datos obtenidos, constituyendo la base para el análisis posterior y para la elaboración de los gráficos."
+    },
+    {
+      "question": "¿En qué se diferencia la 'frecuencia relativa' de la 'frecuencia absoluta' en la práctica educativa de EP?",
+      "options": [
+        "La relativa se introduce en el tercer ciclo (5.º-6.º) como cociente entre absoluta y total; la absoluta se trabaja desde el segundo ciclo (3.º-4.º)",
+        "La relativa es el número de repeticiones de un dato; la absoluta es la proporción respecto al total",
+        "La relativa se trabaja en el primer ciclo con pictogramas; la absoluta se introduce en el segundo ciclo",
+        "La relativa y la absoluta se introducen simultáneamente en el segundo ciclo con los histogramas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La frecuencia relativa (cociente entre la frecuencia absoluta y el número total de datos) se introduce en el tercer ciclo, mientras que la frecuencia absoluta (número de repeticiones de un dato) se incorpora en el segundo ciclo. No se trabajan simultáneamente."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los gráficos 'convencionales' y los 'no convencionales' mencionados en el primer ciclo?",
+      "options": [
+        "El tema no distingue gráficos convencionales y no convencionales, sino recursos manipulativos convencionales y no convencionales para representar datos",
+        "Los convencionales son los seis tipos principales (barras, líneas, etc.); los no convencionales incluyen cartogramas y climogramas",
+        "Los convencionales usan coordenadas cartesianas; los no convencionales usan pictogramas o imágenes",
+        "Los convencionales se usan en el segundo ciclo; los no convencionales en el primer ciclo de EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema no distingue entre gráficos convencionales y no convencionales. Lo que distingue son los recursos manipulativos convencionales, no convencionales y tecnológicos como apoyo para representar y comunicar datos en el primer ciclo."
+    },
+    {
+      "question": "¿Cuál de los siguientes tipos de gráficos NO se menciona explícitamente en el apartado 4.1 del tema como tipo de gráfico?",
+      "options": [
+        "El diagrama de dispersión",
+        "El histograma",
+        "El polígono de frecuencias",
+        "El pictograma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El diagrama de dispersión no se menciona en el tema. Los seis gráficos principales mencionados son: gráfico de líneas, diagrama de barras, histograma, polígonos de frecuencias, diagrama de sectores y pictogramas."
+    },
+    {
+      "question": "¿Qué aspecto del diseño de los gráficos estadísticos hace referencia a su 'simplicidad' según el tema?",
+      "options": [
+        "Evitar la sobrecarga de datos o elementos decorativos",
+        "Usar únicamente escala de grises para no distraer con el color",
+        "Limitar el gráfico a un máximo de cuatro categorías representadas",
+        "Presentar el gráfico sin título ni leyenda para reducir los elementos visuales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La simplicidad, como característica esencial de los gráficos, implica evitar la sobrecarga de datos o elementos decorativos. No implica eliminar el color ni el título, ni limitar el número de categorías a cuatro."
+    },
+    {
+      "question": "¿Qué aporte específico hace el área de Ciencias Sociales al tratamiento estadístico de datos en EP?",
+      "options": [
+        "Permite leer mapas, interpretar gráficos históricos, elaborar pirámides de población y realizar encuestas sobre reciclaje",
+        "Proporciona vocabulario estadístico para describir fenómenos físicos y naturales del entorno",
+        "Ofrece contexto para el registro de datos físicos como el pulso o los resultados deportivos",
+        "Desarrolla la competencia digital necesaria para el uso de herramientas estadísticas en internet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las Ciencias Sociales aportan contextos como la lectura de mapas, la interpretación de gráficos históricos, la elaboración de pirámides de población con datos censales simplificados, y encuestas sobre hábitos de reciclaje representadas en diagramas de barras."
+    },
+    {
+      "question": "¿Qué implica el principio de 'organizar los datos siguiendo una disposición lógica y coherente' en las tablas?",
+      "options": [
+        "Organizar de izquierda a derecha o de arriba abajo para facilitar su lectura e interpretación",
+        "Ordenar los datos de mayor a menor frecuencia para resaltar los más relevantes del estudio",
+        "Colocar las variables cuantitativas antes que las cualitativas en la disposición de la tabla",
+        "Ubicar el encabezado de columna siempre en la primera fila de la tabla de datos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La segunda recomendación didáctica para elaborar tablas es organizar los datos siguiendo una disposición lógica y coherente (de izquierda a derecha o de arriba abajo) para facilitar su lectura e interpretación. No implica ordenar por frecuencia ni una disposición fija de variables."
+    },
+    {
+      "question": "Según el tema, ¿qué hace que la estadística sea relevante para la 'alfabetización matemática' del alumnado de EP?",
+      "options": [
+        "Que el alumnado trabaje y comprenda la recogida, organización y representación de datos como herramienta para su alfabetización matemática",
+        "Que el dominio del cálculo de frecuencias relativas garantice la fluidez en las operaciones matemáticas básicas",
+        "Que el uso de gráficos estadísticos desarrolle el pensamiento geométrico necesario para la alfabetización matemática",
+        "Que la interpretación de datos estadísticos sea un requisito previo para el trabajo con fracciones y porcentajes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que en EP el alumnado debe trabajar y comprender la recogida, organización y representación de datos como herramienta para su alfabetización matemática, conectando la estadística con la vida cotidiana y los medios de comunicación."
+    },
+    {
+      "question": "¿Qué tipo de conocimientos de diseño gráfico aporta la Educación Plástica al trabajo con datos?",
+      "options": [
+        "Conocimientos beneficiosos para confeccionar e interpretar tablas de datos y gráficos",
+        "Técnicas de ilustración para crear pictogramas originales y creativos en el aula de EP",
+        "Habilidades para diseñar infografías digitales usando herramientas como Canva o Genially",
+        "Destrezas para seleccionar colores apropiados que eviten la manipulación visual en los gráficos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Educación Plástica proporciona conocimientos de diseño gráfico beneficiosos para confeccionar e interpretar tablas de datos y gráficos. El tema no especifica que incluya técnicas de ilustración para pictogramas ni el uso de herramientas digitales concretas."
+    },
+    {
+      "question": "¿Cuál de los siguientes recursos de internet se menciona explícitamente en el tema para el trabajo estadístico?",
+      "options": [
+        "Symbolab como calculadora estadística",
+        "Wolfram Alpha como calculadora de distribuciones de probabilidad",
+        "Khan Academy como plataforma de ejercicios estadísticos interactivos",
+        "Desmos como herramienta de representación gráfica de datos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona Symbolab específicamente como una calculadora estadística accesible mediante la navegación y búsqueda por internet. Wolfram Alpha, Khan Academy y Desmos no se citan en el tema."
+    },
+    {
+      "question": "¿Cuál de las siguientes describe mejor el concepto de 'variable estadística' según el tema?",
+      "options": [
+        "Las características de los elementos de una población que pueden ser estudiadas",
+        "Los datos numéricos recogidos durante la fase de tabulación del método estadístico",
+        "Los valores obtenidos de la muestra que permiten calcular la frecuencia relativa",
+        "Los atributos cualitativos de los individuos que pueden clasificarse en categorías nominales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las variables estadísticas son las características de los elementos de una población que pueden ser estudiadas, y se clasifican en cualitativas (nominales y ordinales) y cuantitativas (discretas y continuas). No se limitan a datos numéricos ni a variables cualitativas."
+    },
+    {
+      "question": "¿Qué ejemplo específico relacionado con la Educación Física ilustra el uso de datos sobre hábitos saludables?",
+      "options": [
+        "Interpretar y analizar datos relativos al cuerpo humano como tomarse el pulso",
+        "Recoger datos sobre tiempos de carrera y representarlos en un gráfico de líneas",
+        "Calcular el promedio de pulsaciones del grupo para compararlo con valores de referencia",
+        "Elaborar encuestas sobre hábitos de actividad física y representarlos en diagramas de barras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona específicamente 'tomarse el pulso' como ejemplo de datos relativos al cuerpo humano y hábitos saludables trabajados desde Educación Física. No menciona representarlos en gráficos de líneas ni calcular el promedio de pulsaciones."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el histograma es correcta según el tema?",
+      "options": [
+        "Es similar al diagrama de barras en su forma, usa columnas verticales sin separación y se emplea para representar datos agrupados en rangos",
+        "Es igual al diagrama de barras pero con las barras representadas en posición horizontal",
+        "Usa columnas con separación entre ellas para mostrar la distribución de frecuencias relativas",
+        "Se construye uniendo los puntos medios de las barras superiores mediante una línea continua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El histograma usa columnas verticales sin separación entre ellas para representar frecuencias, empleándose para representar datos agrupados en rangos. Las columnas con separación definen el diagrama de barras; unir los puntos medios con línea define el polígono de frecuencias."
+    },
+    {
+      "question": "¿En qué medida puede considerarse el escrutinio de unos resultados electorales como ejemplo de aplicación estadística en EP?",
+      "options": [
+        "Como ilustración de cómo el tratamiento de datos y el uso de gráficos son necesarios para una participación activa y crítica en la sociedad democrática, trabajado desde Valores Cívicos y Éticos",
+        "Como un ejercicio de cálculo de porcentajes y frecuencias relativas trabajado en el área de Matemáticas",
+        "Como un proyecto interdisciplinar que integra el área de Ciencias Sociales, Matemáticas y Lengua Castellana",
+        "Como actividad diagnóstica para valorar si el alumnado ha adquirido la competencia estadística de sexto curso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona el escrutinio de resultados electorales como un ejemplo que ilustra cómo el tratamiento de datos y el uso de gráficos son necesarios para la participación activa y crítica en la sociedad democrática, desde el área de Valores Cívicos y Éticos en sexto curso."
+    },
+    {
+      "question": "¿Cuáles son las tres 'etapas de referencia' del desarrollo cognitivo que el tema menciona para justificar la selección de herramientas TIC?",
+      "options": [
+        "El tema menciona las etapas evolutivas de Piaget como referencia, no tres etapas específicas por nombre",
+        "Sensoriomotora, preoperacional y operacional concreta de Piaget",
+        "Preoperacional, operacional concreta y operacional formal de Piaget",
+        "Preescolar, escolar básica y escolar avanzada según el marco de Vygotsky"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona las etapas evolutivas de Piaget como referencia para seleccionar herramientas TIC cuya complejidad se ajuste a las capacidades cognitivas y motrices de cada ciclo, sin nombrar etapas específicas por su denominación técnica."
+    },
+    {
+      "question": "¿Cuál de estas afirmaciones sobre los contenidos del primer ciclo en el ámbito probabilístico es correcta según el tema?",
+      "options": [
+        "Se trabaja la distinción entre eventos posibles e imposibles en situaciones cotidianas",
+        "Se trabaja el vocabulario 'posible', 'imposible' y 'seguro' desde el primer curso de EP",
+        "Se introduce el reconocimiento de la incertidumbre mediante experimentos aleatorios sencillos",
+        "Se trabajan las probabilidades simples mediante diagramas de árbol adaptados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo únicamente se trabaja la distinción entre eventos posibles e imposibles. El término 'seguro' se introduce en tercer curso (segundo ciclo); el reconocimiento de la incertidumbre en cuarto; los diagramas de árbol en el tercer ciclo."
+    },
+    {
+      "question": "¿Cuántas páginas webs institucionales se recogen en la bibliografía del tema?",
+      "options": [
+        "Tres páginas web",
+        "Dos páginas web",
+        "Cuatro páginas web",
+        "Una página web"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La bibliografía del tema recoge tres páginas web: https://www.edu.xunta.gal, https://www.educaciónyfp.gob.es y https://www.edu.xunta.gal/programaseducativos/."
+    },
+    {
+      "question": "¿Cuál de los siguientes conceptos NO se define explícitamente en el apartado de 'Conceptos básicos y términos relacionados con la estadística' del tema?",
+      "options": [
+        "Media aritmética",
+        "Población o universo",
+        "Muestra",
+        "Frecuencia relativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La media aritmética no se define en el apartado de conceptos básicos. Sí se definen población/universo, dato, muestra, censo, variables estadísticas (cualitativas y cuantitativas), frecuencia absoluta y frecuencia relativa."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones resume correctamente la contribución del área de Lengua Extranjera al tratamiento de datos?",
+      "options": [
+        "Junto con Lengua Castellana y Lingua Galega, contribuye al vocabulario y estrategias para describir e interpretar datos y enunciar conclusiones",
+        "Facilita el acceso a estadísticas internacionales publicadas en inglés u otros idiomas extranjeros",
+        "Incorpora gráficos estadísticos de países de habla inglesa para desarrollar la competencia intercultural",
+        "Desarrolla habilidades de presentación oral de resultados estadísticos ante audiencias multilingües"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema agrupa las áreas lingüísticas (Lengua Castellana y Literatura, Lingua Galega e Literatura y Lengua Extranjera) como contribuyentes al vocabulario, expresiones y estrategias para describir e interpretar datos y enunciar conclusiones."
+    },
+    {
+      "question": "¿Cuál es el concepto opuesto a 'población finita' en el contexto estadístico del tema?",
+      "options": [
+        "Población infinita (número de elementos muy elevado o ilimitado)",
+        "Muestra representativa seleccionada de la población total de estudio",
+        "Colectivo o universo de elementos cuyas características se pretende estudiar",
+        "Censo estadístico en el que se recoge información de todos los elementos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El concepto opuesto a población finita es la población infinita, que tiene un número de elementos muy elevado o ilimitado. La muestra no es el opuesto de la población finita; el censo es el opuesto del muestreo como procedimiento."
+    },
+    {
+      "question": "¿Por qué se considera que los contenidos estadísticos requieren 'una planificación didáctica cuidadosa e intencional' según la conclusión del tema?",
+      "options": [
+        "Porque deben abordarse de forma gradual con metodologías activas, partiendo del entorno próximo y convirtiendo al alumnado en protagonista de su aprendizaje",
+        "Porque son los contenidos de mayor dificultad dentro del área de Matemáticas en la EP",
+        "Porque requieren el uso de herramientas TIC especializadas que deben prepararse con antelación",
+        "Porque la variedad de gráficos y tablas exige una secuenciación muy precisa en cada ciclo educativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión señala que los contenidos estadísticos requieren planificación didáctica cuidadosa e intencional porque deben abordarse de forma gradual, con metodologías activas, partiendo del entorno próximo y convirtiendo al alumnado en protagonista, atendiendo a la diversidad."
+    },
+    {
+      "question": "¿Qué instrumento de representación social permite visualizar relaciones entre individuos de un grupo?",
+      "options": [
+        "El sociograma",
+        "El organigrama",
+        "El diagrama de Venn",
+        "El árbol genealógico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El sociograma es el instrumento asociado a la sociometría (técnica de recogida de datos) que permite visualizar las relaciones sociales entre individuos de un grupo. El organigrama muestra jerarquías; el diagrama de Venn muestra relaciones entre conjuntos; el árbol genealógico muestra relaciones familiares."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones describe correctamente la relación entre el Real Decreto 157/2022 y el Decreto 155/2022?",
+      "options": [
+        "El Real Decreto 157/2022 establece las enseñanzas mínimas a nivel estatal; el Decreto 155/2022 desarrolla el currículo para Galicia",
+        "El Real Decreto 157/2022 establece el currículo de Galicia; el Decreto 155/2022 regula la evaluación autonómica",
+        "El Real Decreto 157/2022 modifica la LOMLOE; el Decreto 155/2022 la desarrolla en la Comunidad Autónoma",
+        "El Real Decreto 157/2022 y el Decreto 155/2022 tienen el mismo contenido pero diferente ámbito de aplicación territorial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de EP a nivel estatal. El Decreto 155/2022, de 15 de septiembre, desarrolla el currículo de EP específicamente para la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "Según la conclusión del tema, ¿qué función transversal cumple la estadística en el desarrollo de las Competencias Clave?",
+      "options": [
+        "Se convierte en una herramienta de resolución de problemas transversal y esencial para el desarrollo de las CC",
+        "Garantiza el desarrollo exclusivo de la competencia matemática en todos los cursos de EP",
+        "Actúa como eje vertebrador del currículo interdisciplinar en el área de matemáticas",
+        "Facilita únicamente el desarrollo de la Competencia Digital y la competencia matemática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En palabras de Godino (2004), tal como recoge la conclusión del tema, la estadística se convierte en una herramienta de resolución de problemas transversal y esencial para el desarrollo de las Competencias Clave, no solo de la competencia matemática."
+    },
+    {
+      "question": "¿Cuál de los siguientes aspectos debe considerarse para elegir la técnica e instrumento de recogida de datos más adecuados?",
+      "options": [
+        "El nivel psicoevolutivo del alumnado, el objetivo del estudio y la adecuación al colectivo de estudio",
+        "El número de datos disponibles, el tipo de gráfico seleccionado y el tiempo de tabulación previsto",
+        "La frecuencia absoluta esperada, el tipo de variable estadística y el tamaño de la muestra",
+        "El ciclo educativo, el área de conocimiento y las competencias digitales del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que la elección de técnicas e instrumentos de recogida de datos se realizará en función del nivel psicoevolutivo del alumnado, del objetivo del estudio y de la adecuación al colectivo de estudio."
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones no se menciona como objetivo del tratamiento de datos en EP según la conclusión del tema?",
+      "options": [
+        "Preparar al alumnado para el acceso a los estudios universitarios de estadística aplicada",
+        "Desarrollar el razonamiento crítico del alumnado",
+        "Preparar al alumnado para su vida personal y profesional",
+        "Comprender la información que rodea al alumnado en su entorno cotidiano"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La preparación para estudios universitarios de estadística no se menciona en la conclusión. Sí se señalan: desarrollar el razonamiento crítico, comprender la información del entorno y prepararse para la vida personal y profesional como objetivos del trabajo con datos en EP."
+    }
+  ]
+}

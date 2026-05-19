@@ -1,0 +1,2208 @@
+{
+  "title": "Tema 21. Resolución de problemas",
+  "description": "Resolución de problemas en Educación Primaria: clases, métodos, planificación, gestión de recursos, representación e intervención educativa según el marco normativo vigente.",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según Godino et al. (2004), ¿cuál es el papel de la resolución de problemas dentro del área de matemáticas en Educación Primaria?",
+      "options": [
+        "Es un contenido prioritario articulado dentro de los distintos bloques de contenido",
+        "Es un contenido complementario que se aborda al final de cada bloque temático",
+        "Es un proceso exclusivo del bloque de sentido numérico",
+        "Es una actividad de ampliación para el alumnado con mayor rendimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Godino et al. (2004) destacan que la resolución de problemas es un contenido prioritario del área de matemáticas, articulado dentro de los distintos bloques de contenido, constituyendo el eje central del aprendizaje matemático."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la EP recogida en el artículo 4 del Decreto 155/2022 vinculada directamente con las matemáticas?",
+      "options": [
+        "Facilitar al alumnado los aprendizajes del cálculo y las habilidades lógicas y matemáticas para garantizar una formación integral",
+        "Garantizar el dominio de las cuatro operaciones básicas antes de acceder a la educación secundaria",
+        "Desarrollar la competencia digital y el pensamiento computacional como eje central de la etapa",
+        "Asegurar la adquisición de la competencia lingüística como base para todas las demás competencias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 del Decreto 155/2022 recoge que la EP debe facilitar al alumnado los aprendizajes del cálculo y las habilidades lógicas y matemáticas para garantizar una formación integral que contribuya al pleno desarrollo de su personalidad y prepararlo para la ESO."
+    },
+    {
+      "question": "¿En cuántos bloques de contenidos se organiza el área de matemáticas en el Decreto 155/2022, y cómo se trabaja la resolución de problemas en ellos?",
+      "options": [
+        "6 bloques; la resolución de problemas se aborda y evalúa de forma transversal en cada uno de ellos",
+        "5 bloques; la resolución de problemas se concentra en el bloque de sentido numérico",
+        "7 bloques; la resolución de problemas es un bloque independiente con criterios propios",
+        "4 bloques; la resolución de problemas se integra solo en los dos últimos bloques"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El área de matemáticas se organiza en 6 bloques de contenidos y la resolución de problemas, junto con las destrezas emocionales, se aborda y evalúa de forma transversal en cada uno de ellos como eje fundamental."
+    },
+    {
+      "question": "¿Cuál es el objetivo de etapa relacionado con la resolución de problemas en el artículo 7 del Decreto 155/2022?",
+      "options": [
+        "Objetivo 'g': Desarrollar las competencias matemáticas básicas iniciándose en la resolución de problemas que requieran operaciones elementales",
+        "Objetivo 'a': Conocer y apreciar los valores de la convivencia democrática aplicados a situaciones matemáticas",
+        "Objetivo 'b': Desarrollar hábitos de trabajo individual y de equipo en la resolución de tareas matemáticas",
+        "Objetivo 'f': Adquirir habilidades para la resolución pacífica de conflictos en el contexto matemático"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo 'g' del artículo 7 del Decreto 155/2022 establece: Desarrollar las competencias matemáticas básicas iniciándose en la resolución de problemas que requieran operaciones elementales de cálculo, conocimiento geométrico y estimaciones, así como ser capaces de aplicarlos a situaciones de su vida cotidiana."
+    },
+    {
+      "question": "¿En qué epígrafe y anexo del Decreto 155/2022 se desarrollan los aspectos más relevantes del área de matemáticas, incluyendo los ejes fundamentales del aprendizaje?",
+      "options": [
+        "Epígrafe 9 del Anexo II",
+        "Epígrafe 4 del Anexo I",
+        "Epígrafe 7 del Anexo III",
+        "Epígrafe 2 del Anexo IV"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el epígrafe 9 del Anexo II del Decreto 155/2022 se desarrollan los aspectos más relevantes del área de matemáticas, destacando que la resolución de problemas y las destrezas emocionales constituyen los ejes fundamentales del aprendizaje matemático."
+    },
+    {
+      "question": "¿Cuántos procesos matemáticos organiza el área de matemáticas según el Decreto 155/2022 y cuáles son?",
+      "options": [
+        "Cinco: destrezas socioemocionales, resolución de problemas, razonamiento y prueba, conexiones, y comunicación y representación",
+        "Cuatro: resolución de problemas, razonamiento, comunicación y representación simbólica",
+        "Seis: cálculo, estimación, geometría, estadística, álgebra y resolución de problemas",
+        "Tres: comprensión conceptual, procedimientos algorítmicos y resolución de problemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El área de matemáticas se organiza en cinco procesos matemáticos: destrezas socioemocionales, resolución de problemas, razonamiento y prueba, conexiones, y comunicación y representación."
+    },
+    {
+      "question": "¿Cuál es el OBJ2 del área de matemáticas en el Decreto 155/2022, directamente vinculado a la resolución de problemas?",
+      "options": [
+        "Resolver situaciones problematizadas, aplicando diferentes técnicas, estrategias y formas de razonamiento, para obtener soluciones y comprobar su validez en relación con el contexto",
+        "Comprender y producir textos matemáticos aplicando distintas estrategias de cálculo mental y escrito",
+        "Identificar y utilizar relaciones matemáticas en situaciones geométricas y de medida del entorno",
+        "Desarrollar el pensamiento computacional mediante la programación y el uso de algoritmos básicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ2 del área de matemáticas en el Decreto 155/2022 establece: Resolver situaciones problematizadas, aplicando diferentes técnicas, estrategias y formas de razonamiento, para obtener soluciones y comprobar su validez en relación con el contexto."
+    },
+    {
+      "question": "Según Polya (1965), ¿qué es un problema matemático en contraposición con un ejercicio de cálculo rutinario?",
+      "options": [
+        "Una situación que no puede resolverse de forma inmediata mediante procedimientos rutinarios, obligando a reflexionar, buscar estrategias y aplicar conocimientos",
+        "Un ejercicio de cálculo que requiere la aplicación mecánica de un algoritmo previamente aprendido",
+        "Una tarea evaluativa que mide la capacidad del alumnado para recordar fórmulas y procedimientos estándar",
+        "Una actividad con múltiples soluciones posibles diseñada para fomentar la creatividad matemática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Polya (1965) define problema matemático como una situación que plantea una dificultad que no puede resolverse de forma inmediata mediante procedimientos rutinarios, obligando al alumnado a reflexionar, buscar estrategias, tomar decisiones y aplicar conocimientos."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre 'estrategias heurísticas' y 'sugerencias heurísticas' en la resolución de problemas?",
+      "options": [
+        "Las estrategias heurísticas son procedimientos para resolver problemas; las sugerencias heurísticas son pistas que orientan la elección de una estrategia",
+        "Las estrategias heurísticas son algoritmos exactos; las sugerencias son métodos de estimación aproximada",
+        "Las estrategias heurísticas se aplican al final del proceso; las sugerencias en la fase inicial de comprensión",
+        "Las estrategias heurísticas son exclusivas del profesorado; las sugerencias son generadas por el alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias heurísticas son los procedimientos utilizados para resolver problemas (como dividir un problema en partes, trabajar hacia atrás o ensayo-error). Las sugerencias heurísticas son pistas que orientan el camino y la elección de una estrategia para resolver el problema."
+    },
+    {
+      "question": "¿En cuántas grandes categorías se clasifican los problemas matemáticos según el Tema 21?",
+      "options": [
+        "Tres: problemas aditivos y sustractivos, problemas de multiplicación y división, y problemas de razonamiento lógico",
+        "Dos: problemas matemáticos puros y problemas relacionados con la vida real",
+        "Cuatro: aritméticos, algebraicos, geométricos y estadísticos",
+        "Cinco: cambio, combinación, comparación, igualación y razonamiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas matemáticos se clasifican en tres grandes categorías: problemas aditivos y sustractivos, problemas de multiplicación y división, y problemas de razonamiento lógico."
+    },
+    {
+      "question": "Según Carpenter y Monser (1983), ¿en cuántas subcategorías se dividen los problemas aditivos y sustractivos?",
+      "options": [
+        "Cuatro: cambio, combinación, comparación e igualación",
+        "Tres: razón, comparación y productos cartesianos",
+        "Dos: aditivos puros y sustractivos combinados",
+        "Cinco: cambio, combinación, comparación, igualación y transformación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Carpenter y Monser (1983) subdividen los problemas aditivos y sustractivos en cuatro categorías: cambio (cantidad inicial modificada), combinación (dos subconjuntos que forman un único conjunto), comparación (comparación de dos conjuntos distintos) e igualación (mezcla de comparación y cambio)."
+    },
+    {
+      "question": "¿Qué tipo de problema aditivo describe la situación en que dos subconjuntos se combinan para conformar un conjunto único?",
+      "options": [
+        "Problema de combinación",
+        "Problema de cambio",
+        "Problema de comparación",
+        "Problema de igualación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas de combinación son aquellos en que dos subconjuntos se combinan para conformar un conjunto único. Los de cambio implican una cantidad inicial modificada; los de comparación, comparar dos conjuntos; y los de igualación mezclan comparación y cambio."
+    },
+    {
+      "question": "Según Peled y Nesher (1996), ¿en cuántos tipos se clasifican los problemas de multiplicación y división?",
+      "options": [
+        "Tres: de razón, de comparación y de productos cartesianos",
+        "Cuatro: de razón, proporcionalidad, comparación y distribución",
+        "Dos: de multiplicación directa y de división partitiva",
+        "Cinco: de razón, escalar, comparación, cartesiano y combinatorio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Peled y Nesher (1996) clasifican los problemas de multiplicación y división en tres tipos: de razón (proporción simple y directa), de comparación (la colección mayor contiene un número exacto de veces a la menor) y de productos cartesianos (composición cartesiana de dos colecciones)."
+    },
+    {
+      "question": "¿Qué característica distingue a los problemas de 'productos cartesianos' dentro de los problemas de multiplicación y división?",
+      "options": [
+        "Implican la composición cartesiana de dos colecciones",
+        "Existe una proporción simple y directa entre las cantidades involucradas",
+        "La colección mayor contiene un número exacto de veces a la menor",
+        "Se resuelven combinando una suma y una multiplicación consecutivas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas de productos cartesianos implican la composición cartesiana de dos colecciones, a diferencia de los de razón (proporción simple directa) y los de comparación (la colección mayor contiene un número exacto de veces a la menor)."
+    },
+    {
+      "question": "¿Cuáles son las cuatro fases del método de Pólya para resolver un problema matemático?",
+      "options": [
+        "Comprender el problema, concebir un plan, ejecutar el plan y examinar la solución obtenida",
+        "Análisis, exploración, ejecución y comprobación",
+        "Familiarización, búsqueda de estrategias, desarrollo y revisión del proceso",
+        "Abordaje del problema, ataque mediante conjeturas, justificación y revisión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pólya propone cuatro fases: 1) Comprender el problema (leer, identificar datos y preguntas); 2) Concebir un plan (seleccionar estrategias y secuencia de operaciones); 3) Ejecutar el plan (seguir el plan con flexibilidad); 4) Examinar la solución obtenida (comprobar corrección y coherencia con el contexto)."
+    },
+    {
+      "question": "¿En qué año publicó Pólya el método de resolución que destaca Godino et al. (2004)?",
+      "options": [
+        "1945",
+        "1965",
+        "1985",
+        "1998"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pólya publicó su método en 1945, según destacan Godino et al. (2004). La obra 'Cómo plantear y resolver problemas' se publicó en español en México por Trillas en 1965, pero el método data de 1945."
+    },
+    {
+      "question": "¿Cuál es la diferencia fundamental entre el método de Pólya y el método de Schoenfeld en la concepción del proceso de resolución?",
+      "options": [
+        "Pólya concibe un proceso lineal por fases; Schoenfeld defiende un proceso no lineal en zig-zag con avances y retrocesos",
+        "Pólya se centra en la verificación final; Schoenfeld prioriza la exploración inicial del problema",
+        "Pólya usa tres fases y Schoenfeld usa cinco, siendo la única diferencia el número de etapas",
+        "Pólya trabaja con problemas reales y Schoenfeld trabaja exclusivamente con problemas abstractos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La diferencia fundamental es que Pólya concibe el proceso como lineal (fases secuenciales), mientras que Schoenfeld defiende que el proceso discurre por caminos en zig-zag con avances y retrocesos, sin ser lineal."
+    },
+    {
+      "question": "¿Cuáles son las cuatro fases del método de Schoenfeld (1985) y qué implica específicamente la fase de 'exploración'?",
+      "options": [
+        "Análisis, exploración, ejecución y comprobación; la exploración implica examinar problemas equivalentes, ligeramente o ampliamente modificados",
+        "Comprensión, planificación, ejecución y verificación; la exploración implica trazar diagramas y examinar casos particulares",
+        "Abordaje, ataque, justificación y revisión; la exploración implica probar estrategias al azar",
+        "Familiarización, búsqueda, desarrollo y revisión; la exploración implica simplificar el problema para encontrar el método"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Schoenfeld delimita cuatro fases: análisis (trazando diagramas, examinando casos particulares y simplificando), exploración (examinando problemas equivalentes, ligeramente modificados o ampliamente modificados), ejecución, y comprobación (verificando las soluciones obtenidas)."
+    },
+    {
+      "question": "¿Qué concepto propio introduce el método de Mason, Burton y Stacey (1998) que no aparece en los otros métodos?",
+      "options": [
+        "El 'monitor interno', un mecanismo que regula los aspectos personales y técnicos durante la resolución",
+        "Las 'sugerencias heurísticas' como pistas que orientan la elección de la estrategia adecuada",
+        "El 'análisis de la información disponible' como primer bloque de la planificación",
+        "La 'revisión del proceso' como fase final que reflexiona sobre errores y estrategias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mason, Burton y Stacey (1998) introducen el concepto de 'monitor interno', un mecanismo que regula los aspectos personales y técnicos durante la resolución y que puede fortalecerse mediante el análisis posterior del proceso."
+    },
+    {
+      "question": "¿En cuántas fases se estructura el modelo de Mason, Burton y Stacey (1998) y cuáles son?",
+      "options": [
+        "Tres fases: abordaje del problema, ataque mediante conjeturas y justificación, y revisión de lo anterior",
+        "Cuatro fases: análisis, exploración, ejecución y comprobación",
+        "Cuatro fases: comprensión, planificación, ejecución y valoración",
+        "Dos fases: planteamiento del problema y resolución con verificación final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El modelo de Mason, Burton y Stacey se estructura en tres fases: el abordaje del problema, el ataque mediante conjeturas y justificación, y la revisión de lo anterior."
+    },
+    {
+      "question": "¿Por qué el modelo de Guzmán (1991) goza de mayor aceptación en el contexto educativo según el Tema 21?",
+      "options": [
+        "Porque integra las aportaciones más relevantes de los tres modelos anteriores: Pólya, Schoenfeld y Mason-Burton-Stacey",
+        "Porque reduce el proceso a dos fases, simplificando la enseñanza para el alumnado de primaria",
+        "Porque es el único que incluye una fase específica de gestión emocional durante la resolución",
+        "Porque fue desarrollado específicamente para el contexto de la Educación Primaria española"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El modelo de Guzmán (1991) goza de mayor aceptación en el contexto educativo porque integra las aportaciones más relevantes de los tres modelos anteriores: Pólya, Schoenfeld y Mason-Burton-Stacey."
+    },
+    {
+      "question": "¿Cuáles son las cuatro fases del modelo de Guzmán (1991) y cuál es el contenido específico de la fase de 'revisión'?",
+      "options": [
+        "Familiarización, búsqueda de estrategias, desarrollo de la estrategia y revisión; la revisión implica reflexionar sobre la solución, los errores y el proceso, entendiendo por qué funcionó o no la estrategia",
+        "Análisis, exploración, ejecución y comprobación; la revisión verifica únicamente la corrección aritmética del resultado",
+        "Comprensión, planificación, ejecución y valoración; la revisión compara el resultado con otros problemas similares",
+        "Abordaje, ataque, conjeturas y revisión; la revisión busca estrategias alternativas para resolver el mismo problema"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El modelo de Guzmán se compone de: familiarización con el problema, búsqueda de estrategias heurísticas, desarrollo de la estrategia elegida, y revisión del proceso reflexionando sobre la solución, los errores y el proceso, tratando de entender por qué funcionó o no la estrategia aplicada."
+    },
+    {
+      "question": "¿Cuáles son las cuatro vertientes interconectadas que integra la competencia de resolución de problemas según el Tema 21?",
+      "options": [
+        "Planificación, gestión de los recursos, representación, e interpretación y valoración de los resultados",
+        "Comprensión, planificación, ejecución y evaluación del proceso matemático",
+        "Análisis, síntesis, aplicación y evaluación de las soluciones matemáticas",
+        "Motivación, estrategia, cálculo y verificación del resultado obtenido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La resolución de problemas integra cuatro vertientes interconectadas: la planificación, la gestión de los recursos, la representación y la interpretación y valoración de los resultados, vinculadas a los métodos de resolución y las técnicas heurísticas."
+    },
+    {
+      "question": "¿Qué es la 'planificación' en la resolución de problemas y en cuántos bloques se desglosa?",
+      "options": [
+        "Conjunto de capacidades para comprender y organizar la situación problemática; se desglosa en cuatro bloques: análisis de la información, organización de la información, exploración y concebir un plan",
+        "La fase de ejecución de operaciones matemáticas según el plan establecido; se desglosa en tres bloques: cálculo, verificación y comunicación",
+        "El proceso de evaluación final que verifica coherencia y corrección de los resultados; se estructura en dos bloques",
+        "La selección de materiales y agrupamientos para abordar la situación problemática; incluye un único bloque"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación es 'saber qué hacer antes de empezar a operar' y abarca capacidades asociadas a la comprensión de la situación para organizar, trazar un plan y tomar decisiones. Se desglosa en cuatro bloques: análisis de la información disponible, organización de la información mediante esquemas, exploración (con técnicas de Schoenfeld) y concebir y estructurar un plan de resolución."
+    },
+    {
+      "question": "¿Qué tipos de recursos incluye la 'gestión de recursos' en la resolución de problemas?",
+      "options": [
+        "Aspectos lingüísticos (comprensión gramatical y semántica), matemáticos (dominio de operaciones y símbolos) y estratégicos o heurísticos (analogías y comprobaciones)",
+        "Materiales manipulativos, recursos digitales y libros de texto adaptados al nivel del alumnado",
+        "Tiempo de resolución, espacio de trabajo y agrupamientos del aula para la tarea matemática",
+        "Calculadoras, reglas, compases y otros instrumentos de medida necesarios para el cálculo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La gestión de recursos incluye aspectos lingüísticos (comprensión gramatical, semántica y estructura del texto), matemáticos (dominio de operaciones y símbolos) y estratégicos o heurísticos (uso de analogías, comprobaciones o problemas similares)."
+    },
+    {
+      "question": "En la vertiente de 'representación', ¿qué se trabaja específicamente durante la fase de planificación?",
+      "options": [
+        "Se emplean esquemas, diagramas, dibujos y se organiza la secuencia de pasos a seguir con notación, lenguaje y modelos adecuados",
+        "Se trabaja la lectura comprensiva y la representación mediante esquemas, palabras o símbolos básicos",
+        "Se realizan y escriben cálculos y relaciones, estructurando pasos y resultados de forma ordenada",
+        "Se repasan los pasos con las soluciones encontradas y se comprueba si existen resultados alternativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de planificación, la representación implica emplear esquemas, diagramas, dibujos y organizar los pasos a seguir con notación, lenguaje y modelos adecuados. En comprensión se usan esquemas y palabras; en ejecución se realizan cálculos; y en valoración se repasan pasos y soluciones."
+    },
+    {
+      "question": "¿Cuáles son los tres aspectos de la 'interpretación y valoración global de los resultados' en la resolución de problemas?",
+      "options": [
+        "Comprobación de la bondad de la respuesta y coherencia del proceso; análisis de procedimientos y resultados alternativos; y análisis de las dificultades surgidas",
+        "Verificación del cálculo, comunicación del resultado y reflexión sobre el método empleado",
+        "Revisión del enunciado, comprobación de los datos y justificación de la solución obtenida",
+        "Evaluación del tiempo empleado, análisis del número de errores cometidos y valoración de la dificultad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La interpretación y valoración global comprende: 1) Comprobación de la bondad de la respuesta y coherencia de todo el proceso; 2) Análisis de procedimientos y resultados alternativos; 3) Análisis de las dificultades surgidas y las soluciones aplicadas para superarlas."
+    },
+    {
+      "question": "¿En qué artículo y decreto se definen las orientaciones pedagógicas para el área de matemáticas?",
+      "options": [
+        "Artículo 6 del Decreto 155/2022",
+        "Artículo 4 del Real Decreto 157/2022",
+        "Artículo 16 del Decreto 155/2022",
+        "Artículo 7 del Decreto 155/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones pedagógicas se definen en el artículo 6 del Decreto 155/2022 como las indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes para favorecer el aprendizaje del alumnado y lograr los objetivos."
+    },
+    {
+      "question": "¿Qué metodologías globalizadas menciona el Decreto 155/2022 para la enseñanza de las matemáticas en Educación Primaria?",
+      "options": [
+        "El aprendizaje basado en problemas y en proyectos",
+        "La instrucción directa y el aprendizaje memorístico estructurado",
+        "La enseñanza programada y el aprendizaje individualizado por fichas",
+        "El método Montessori y el aprendizaje por descubrimiento exclusivamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 menciona el aprendizaje basado en problemas y en proyectos como metodologías globalizadas para la enseñanza de las matemáticas, vinculadas a contextos reales, cotidianos y matemáticos, adaptadas a la diversidad del aula."
+    },
+    {
+      "question": "¿Cuál es la secuencia del proceso de aprendizaje guiado que debe seguir la enseñanza matemática según el Decreto 155/2022?",
+      "options": [
+        "Vivencia, manipulación, representación y abstracción",
+        "Motivación, exploración, práctica y evaluación",
+        "Observación, hipótesis, experimentación y conclusión",
+        "Introducción, desarrollo, aplicación y síntesis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tomando como referencia el proceso de aprendizaje guiado, la enseñanza debe seguir una secuencia de vivencia, manipulación, representación y abstracción, fomentando la exploración y la investigación en situaciones contextualizadas."
+    },
+    {
+      "question": "¿Qué papel desempeña el profesorado en la enseñanza de la resolución de problemas según las orientaciones pedagógicas del Decreto 155/2022?",
+      "options": [
+        "Actúa como mediador y facilitador, seleccionando recursos variados y promoviendo un entorno de exploración, interacción y seguridad",
+        "Actúa como transmisor principal del conocimiento matemático, explicando procedimientos y verificando su correcta aplicación",
+        "Actúa como evaluador externo que califica los resultados sin intervenir en el proceso de resolución",
+        "Actúa como organizador del tiempo y los agrupamientos sin interferir en las decisiones matemáticas del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En relación al rol del profesorado, este actúa como mediador y facilitador, seleccionando recursos variados y promoviendo un entorno de aprendizaje para la exploración, la interacción y la seguridad en la resolución de retos."
+    },
+    {
+      "question": "¿Qué aspecto de perspectiva de género destacan las orientaciones pedagógicas del Decreto 155/2022 en la enseñanza matemática?",
+      "options": [
+        "La visibilización de referentes femeninos en matemáticas como parte de la educación en valores",
+        "La segregación por sexo en los grupos de resolución de problemas para garantizar la equidad",
+        "La adaptación de los enunciados de los problemas para que incluyan exclusivamente personajes femeninos",
+        "La eliminación de estereotipos mediante la supresión de contextos de la vida real en los problemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones pedagógicas destacan la perspectiva socioemocional y de género, incluyendo la visibilización de referentes femeninos en matemáticas como parte de la educación en valores y la perspectiva de igualdad."
+    },
+    {
+      "question": "¿Qué enfoque debe evitar el profesorado según las orientaciones metodológicas específicas del Tema 21?",
+      "options": [
+        "Los enfoques rígidos basados exclusivamente en la práctica mecánica",
+        "El uso de materiales manipulativos como base de la enseñanza matemática",
+        "El aprendizaje cooperativo para resolver problemas de forma conjunta",
+        "La evaluación reguladora a lo largo de todo el proceso de enseñanza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El profesorado debe evitar enfoques rígidos basados exclusivamente en la práctica mecánica, fomentando en cambio la creatividad, el análisis, la gestión del miedo al error, la colaboración y la reflexión."
+    },
+    {
+      "question": "¿Qué dice el artículo 16 del Decreto 155/2022 sobre los principios pedagógicos relacionados con la progresión en la resolución de problemas?",
+      "options": [
+        "La intervención educativa buscará la adquisición de las CC teniendo en cuenta el proceso madurativo individual y los niveles de desempeño esperados para la etapa",
+        "La resolución de problemas debe evaluarse mediante pruebas estandarizadas al final de cada ciclo",
+        "Los problemas matemáticos deben abordarse exclusivamente de forma individual para valorar las capacidades propias",
+        "La dificultad de los problemas debe mantenerse constante a lo largo de toda la etapa para garantizar la equidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 de principios pedagógicos del Decreto 155/2022 establece que la intervención educativa de todas las áreas buscará la adquisición de las CC teniendo en cuenta el proceso madurativo individual y los niveles de desempeño esperados para la etapa."
+    },
+    {
+      "question": "¿Qué objetivo central trabaja el alumnado del primer curso del primer ciclo (6 a 8 años) en resolución de problemas?",
+      "options": [
+        "Comunicar de forma sencilla el proceso seguido en problemas básicos de matemáticas o de la vida cotidiana",
+        "Introducir la planificación del proceso de resolución y la representación gráfica mediante dibujos y esquemas",
+        "Aplicar el proceso de resolución en distintos contextos desarrollando razonamiento matemático propio",
+        "Ampliar la variedad de problemas y fomentar la explicación oral del proceso de resolución"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer curso del primer ciclo (6 a 8 años) el alumnado comienza a desarrollar la comprensión lectora, por lo que se trabaja la expresión verbal del razonamiento con el objetivo de que puedan comunicar de forma sencilla el proceso seguido en problemas básicos."
+    },
+    {
+      "question": "¿Qué novedad metodológica introduce el segundo ciclo (8 a 10 años) en la enseñanza de la resolución de problemas?",
+      "options": [
+        "Se introduce la planificación del proceso, enfocándose en el análisis del enunciado, la aplicación de estrategias y la representación gráfica mediante dibujos, esquemas y tablas",
+        "Se introduce la reflexión sobre los procesos y la diferenciación entre problemas y ejercicios matemáticos",
+        "Se introduce la comunicación sencilla del proceso seguido en problemas básicos de la vida cotidiana",
+        "Se introduce la resolución de problemas de razonamiento lógico mediante trabajo exclusivo en grupos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo ciclo (8 a 10 años) se introduce la planificación del proceso de resolución, enfocándose en el análisis y comprensión del enunciado y la aplicación de estrategias adecuadas, empleando representación gráfica mediante dibujos, esquemas y tablas, ensayo y error razonado y selección de operaciones idóneas."
+    },
+    {
+      "question": "¿Qué capacidades diferencia el tercer ciclo (10 a 12 años) respecto a los ciclos anteriores en resolución de problemas?",
+      "options": [
+        "Aplica el proceso en distintos contextos, desarrolla propio razonamiento y juicio crítico, diferencia problemas de ejercicios y reflexiona sobre los procesos extrayendo aprendizajes",
+        "Comienza a expresar verbalmente el proceso de resolución en problemas básicos de la vida cotidiana",
+        "Amplía la variedad de problemas y mejora la competencia lingüística para justificar las soluciones",
+        "Introduce la planificación y la representación gráfica mediante dibujos, esquemas y tablas básicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el tercer ciclo (10 a 12 años) el alumnado aplica el proceso en distintos contextos, desarrolla su propio razonamiento matemático y juicio crítico, valora los resultados, diferencia problemas de ejercicios, aplica estrategias idóneas y reflexiona sobre los procesos extrayendo aprendizajes útiles para situaciones futuras."
+    },
+    {
+      "question": "¿En qué consiste la actividad de 'el resumen' como facilitadora de la resolución de problemas?",
+      "options": [
+        "Eliminar datos inútiles y reescribir el problema suprimiendo los aspectos que no son precisos",
+        "Describir oralmente y después por escrito el proceso seguido mientras se resuelve el problema",
+        "Proporcionar datos incoherentes para que el alumnado formule el problema con los elementos correctos",
+        "Inventar problemas en grupos para después intercambiarlos y reflexionar sobre ellos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La actividad de 'el resumen' consiste en eliminar datos inútiles y reescribir el problema suprimiendo los aspectos que no son precisos, ayudando al alumnado a identificar la información relevante del enunciado."
+    },
+    {
+      "question": "¿En qué consiste el 'trabajo con datos contradictorios' como actividad facilitadora de la resolución de problemas?",
+      "options": [
+        "Se proporcionan datos incoherentes para que el alumnado reformule el problema con los elementos correctos, modificando los datos iniciales del enunciado",
+        "Se eliminan datos del enunciado para centrar la atención en la información más relevante del problema",
+        "Se analiza y describe oralmente el proceso seguido, poniendo énfasis en los pasos de comprensión",
+        "Se invita al alumnado a situarse en contextos reales distintos a los habituales del aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El trabajo con datos contradictorios consiste en proporcionar datos incoherentes para que el alumnado formule de nuevo el problema con los elementos correctos, modificando los datos iniciales del enunciado y desarrollando el sentido crítico."
+    },
+    {
+      "question": "¿Qué pasos deben desarrollar los alumnos en la actividad de 'análisis y reflexión del proceso de resolución'?",
+      "options": [
+        "Leer despacio varias veces; hacerse imagen mental o diagrama; identificar datos inútiles e incógnita; pensar en las operaciones y realizarlas; comprobar si el resultado es coherente",
+        "Escribir el enunciado de memoria, identificar la operación principal, calcular y verificar con calculadora",
+        "Resumir el enunciado, seleccionar la estrategia heurística, ejecutar el plan y comunicar el resultado",
+        "Leer una vez, subrayar todos los números, seleccionar la operación más sencilla y comprobar el resultado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el análisis y reflexión del proceso se debe: leer despacio varias veces hasta entender; hacerse una imagen mental o realizar un diagrama si es necesario; identificar los datos inútiles y la incógnita; pensar en las operaciones para la resolución y realizarlas; y comprobar si el resultado es coherente."
+    },
+    {
+      "question": "¿En qué consiste la actividad de 'cambio de textos entre grupos' para facilitar la resolución de problemas?",
+      "options": [
+        "Inventar problemas en diferentes grupos para después intercambiarlos, analizarlos y reflexionar sobre ellos planteando diferentes incógnitas",
+        "Modificar el enunciado de un problema dado para adaptarlo a distintos niveles de dificultad",
+        "Describir por escrito el proceso de resolución y compartirlo con otros grupos para comparar estrategias",
+        "Traducir problemas matemáticos al lenguaje simbólico y posteriormente al lenguaje verbal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La actividad de cambio de textos entre grupos consiste en inventar problemas en diferentes grupos para después intercambiarlos, analizarlos y reflexionar sobre ellos planteando diferentes incógnitas, fomentando la creatividad y el pensamiento crítico."
+    },
+    {
+      "question": "¿Qué propósito tienen las 'propuestas de problemas imposibles' como actividad de resolución en el aula?",
+      "options": [
+        "Invitar al alumnado a analizar y reflexionar sobre datos de enunciados que resulten imposibles, desarrollando la capacidad de análisis crítico",
+        "Presentar problemas sin solución conocida para fomentar la creatividad y la búsqueda de soluciones originales",
+        "Proponer ejercicios matemáticamente incorrectos para que el alumnado identifique y corrija los errores de cálculo",
+        "Ofrecer problemas extremadamente difíciles para que el alumnado practique la perseverancia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas imposibles invitan al alumnado a analizar y reflexionar sobre datos de enunciados que resulten imposibles, desarrollando su capacidad de análisis crítico al identificar por qué un problema no puede resolverse con los datos dados."
+    },
+    {
+      "question": "¿Qué beneficios específicos del juego en matemáticas destaca Alsina (2004)?",
+      "options": [
+        "Permite resolver simbólicamente problemas, es motivador, integra conocimientos y actitudes, permite afrontar el contenido sin miedo al error, respeta la diversidad y favorece la socialización",
+        "Permite evaluar objetivamente el nivel del alumnado sin la presión de las pruebas escritas formales",
+        "Reduce el tiempo necesario para aprender algoritmos matemáticos mediante la repetición lúdica",
+        "Sustituye la instrucción directa por el aprendizaje autónomo basado en el descubrimiento individual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alsina (2004) señala que el juego permite resolver simbólicamente problemas, es motivador al formar parte de la vida real, integra conocimientos, habilidades y actitudes, permite afrontar el contenido sin miedo al error aprendiendo del mismo, respeta la diversidad y favorece la socialización."
+    },
+    {
+      "question": "¿Cuáles son las principales dificultades en la resolución de problemas aritméticos verbales identificadas en el Tema 21?",
+      "options": [
+        "Falta de comprensión del enunciado, dificultad para reconocer la estrategia y el orden de las operaciones, y tendencia a no comprobar la coherencia de la solución",
+        "Dificultad con el cálculo mental, errores en las operaciones básicas y desconocimiento del vocabulario matemático",
+        "Falta de tiempo, desmotivación ante la dificultad y ausencia de materiales manipulativos apropiados",
+        "Problemas de lectura del enunciado, dificultad para trabajar en equipo y exceso de datos en el texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las principales dificultades son: la falta de comprensión del enunciado, la dificultad para reconocer la estrategia a seguir y el orden de las operaciones (aunque se conozca individualmente cada una), y la tendencia a no plantearse si la solución obtenida es coherente con la información recibida."
+    },
+    {
+      "question": "¿Qué son las 'autoinstrucciones' y cuál es su función en la resolución de problemas según el Tema 21?",
+      "options": [
+        "Preguntas guiadas como '¿qué pide el problema?' para interiorizar y guiar los procedimientos de resolución fomentando la autonomía",
+        "Instrucciones escritas que el profesor proporciona para que el alumnado las siga de forma autónoma",
+        "Algoritmos memorizados que el alumnado aplica automáticamente sin necesidad de reflexionar sobre el proceso",
+        "Evaluaciones formativas que el alumnado realiza sobre su propio proceso de aprendizaje al final de la sesión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las autoinstrucciones son preguntas guiadas como '¿qué pide el problema?' o '¿qué datos son importantes y cuáles se pueden desechar?', que el alumnado usa para interiorizar y guiar los procedimientos de resolución, fomentando la autonomía y el razonamiento metacognitivo."
+    },
+    {
+      "question": "¿Cuál es la afirmación de Pólya sobre el descubrimiento en la resolución de problemas recogida en la conclusión del Tema 21?",
+      "options": [
+        "'En la solución de todo problema hay un grano de descubrimiento, y es precisamente ese descubrimiento el que debemos fomentar en nuestro alumnado'",
+        "'La resolución de problemas es un proceso lineal que requiere seguir siempre los mismos pasos de forma ordenada'",
+        "'Los problemas matemáticos deben partir siempre de la experiencia concreta del alumnado para resultar significativos'",
+        "'El docente debe proporcionar todos los recursos necesarios para que el alumnado pueda resolver cualquier problema'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la conclusión del tema se cita a Pólya: 'en la solución de todo problema hay un grano de descubrimiento, y es precisamente ese descubrimiento el que debemos fomentar en nuestro alumnado', destacando la dimensión de descubrimiento y exploración matemática."
+    },
+    {
+      "question": "¿Qué tipo de problemas relacionados con la 'vida real' propone el Tema 21 como más adecuados para trabajar en el aula?",
+      "options": [
+        "Problemas que conectan las matemáticas con el entorno y con situaciones cotidianas del alumnado",
+        "Problemas extraídos exclusivamente de libros de texto adaptados al nivel curricular del grupo",
+        "Problemas complejos con múltiples operaciones que exigen un alto nivel de abstracción matemática",
+        "Problemas estrictamente numéricos sin contexto verbal para evitar la dificultad lectora"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas relacionados con la vida real son aquellos que conectan las matemáticas con el entorno y con situaciones cotidianas del alumnado, siendo más motivadores y funcionales que los puramente abstractos o descontextualizados."
+    },
+    {
+      "question": "¿Cuántos objetivos de área de matemáticas se mencionan en el Tema 21 y cuál de ellos se vincula directamente con la resolución de problemas?",
+      "options": [
+        "Se menciona el OBJ2 como el más directamente vinculado: resolver situaciones problematizadas aplicando técnicas, estrategias y formas de razonamiento para comprobar su validez",
+        "Se mencionan seis objetivos de área y todos están igualmente vinculados con la resolución de problemas",
+        "Se mencionan dos objetivos: OBJ1 para comprensión lectora matemática y OBJ2 para resolución",
+        "Se menciona únicamente el objetivo de etapa 'g' sin hacer referencia a objetivos específicos del área"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Tema 21 destaca el OBJ2 del área de matemáticas por su estrecha vinculación con la resolución de problemas: Resolver situaciones problematizadas, aplicando diferentes técnicas, estrategias y formas de razonamiento, para obtener soluciones y comprobar su validez en relación con el contexto."
+    },
+    {
+      "question": "¿Cuál de los siguientes conceptos es común a todos los métodos de resolución de problemas presentados en el Tema 21?",
+      "options": [
+        "Todos incluyen alguna forma de comprensión del problema, planificación o estrategia, ejecución y revisión o comprobación",
+        "Todos incluyen exactamente cuatro fases con los mismos nombres y el mismo contenido",
+        "Todos conciben el proceso de resolución como lineal con fases secuenciales no reversibles",
+        "Todos fueron desarrollados en el contexto específico de la Educación Primaria española"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aunque los métodos difieren en nombre, número exacto de fases y concepción del proceso (lineal vs. no lineal), todos incluyen alguna forma de comprensión del problema, estrategia o planificación, ejecución y revisión o comprobación, constituyendo la estructura común que identifica la conclusión del Tema 21."
+    },
+    {
+      "question": "¿Qué aspecto curricular destaca el Tema 21 que debe ser prioritario frente a otros en cuanto al tiempo y la atención en la enseñanza de las matemáticas?",
+      "options": [
+        "La resolución de problemas y las destrezas emocionales, siendo prioritaria su enseñanza frente a otros aspectos",
+        "El cálculo mental y escrito como base instrumental para abordar cualquier tipo de problema",
+        "La geometría y la medida por ser los bloques con mayor aplicación práctica en la vida cotidiana",
+        "El pensamiento computacional como competencia transversal clave para el siglo XXI"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El epígrafe 9 del Anexo II del Decreto 155/2022 resalta que la resolución de problemas y las destrezas emocionales constituyen los ejes fundamentales del aprendizaje matemático, siendo prioritaria su enseñanza frente a otros aspectos en cuanto al tiempo y la atención que requerirá su abordaje."
+    },
+    {
+      "question": "¿Qué destrezas activa la resolución de problemas según la introducción del Tema 21?",
+      "options": [
+        "Razonamiento, elaboración y ejecución de un plan, revisión, adaptación de estrategias, pensamiento computacional, representación de objetos y comunicación",
+        "Memorización de fórmulas, aplicación mecánica de algoritmos, velocidad de cálculo y precisión numérica",
+        "Lectura comprensiva, escritura matemática, cálculo mental y uso de instrumentos de medida",
+        "Clasificación, seriación, conservación de la cantidad y correspondencia término a término"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La resolución de problemas pone en acción destrezas como el razonamiento, la elaboración y ejecución de un plan, su revisión, la adaptación de estrategias, el pensamiento computacional, la representación de objetos y la comunicación matemática."
+    },
+    {
+      "question": "¿Cuál es el bloque del área de matemáticas que incluye el 'Sentido Algébrico y Pensamiento Computacional' según el Decreto 155/2022?",
+      "options": [
+        "Bloque 4",
+        "Bloque 3",
+        "Bloque 5",
+        "Bloque 6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 4 es el Sentido Algébrico y Pensamiento Computacional. Los seis bloques son: Bloque 1 Sentido Numérico, Bloque 2 Sentido de la Medida, Bloque 3 Sentido Espacial, Bloque 4 Sentido Algébrico y Pensamiento Computacional, Bloque 5 Sentido Estocástico y Bloque 6 Sentido Socioemocional."
+    },
+    {
+      "question": "¿Qué bloque del área de matemáticas en el Decreto 155/2022 recoge el 'Sentido Estocástico'?",
+      "options": [
+        "Bloque 5",
+        "Bloque 4",
+        "Bloque 6",
+        "Bloque 3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 5 es el Sentido Estocástico, que trabaja la estadística, la probabilidad y el análisis de datos. El Bloque 4 es Álgebra y Pensamiento Computacional, el Bloque 6 es Sentido Socioemocional y el Bloque 3 es Sentido Espacial."
+    },
+    {
+      "question": "¿Qué medidas pueden adoptar los centros educativos para mejorar la competencia en resolución de problemas según el Tema 21?",
+      "options": [
+        "Definir un método de resolución para toda la etapa, secuenciar tipos de problemas por niveles, determinar metodología y agrupamientos, incluir talleres, establecer criterios de evaluación y analizar dificultades",
+        "Aumentar las horas lectivas dedicadas a matemáticas y reducir las dedicadas a otras áreas curriculares",
+        "Adquirir recursos digitales y plataformas de aprendizaje adaptativo para personalizar la enseñanza",
+        "Contratar especialistas en matemáticas y reducir el número de alumnos por aula para atención individualizada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los centros pueden adoptar medidas como: definir un método de resolución aplicable en toda la etapa; secuenciar los tipos de problemas por niveles; determinar la metodología y agrupamientos; incluir talleres o integrar problemas en la dinámica de clase; establecer criterios de evaluación; y analizar dificultades y buscar estrategias para superarlas."
+    },
+    {
+      "question": "¿Cuándo se consolida la autonomía en la resolución de problemas según el Tema 21?",
+      "options": [
+        "Al final de la Educación Primaria",
+        "Al inicio del segundo ciclo, cuando el alumnado tiene 8 años",
+        "En el primer curso, cuando el alumnado accede a la etapa con 6 años",
+        "Al comienzo del tercer ciclo, con 10 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La autonomía en la resolución de problemas es un proceso gradual que requiere pensamiento y reflexión, capacidad que se consolida al final de la EP. Por ello, es clave introducir a los alumnos desde los primeros cursos, guiándolos inicialmente y reduciendo progresivamente la intervención docente."
+    },
+    {
+      "question": "¿Qué diferencia existe entre un problema matemático 'puro' y un problema de 'vida real' según el Tema 21?",
+      "options": [
+        "Los problemas puros surgen dentro de la propia disciplina matemática; los de vida real conectan las matemáticas con el entorno y situaciones cotidianas",
+        "Los problemas puros tienen una única solución correcta; los de vida real pueden tener múltiples soluciones válidas",
+        "Los problemas puros usan exclusivamente lenguaje simbólico; los de vida real usan lenguaje verbal y gráfico",
+        "Los problemas puros son más adecuados para el tercer ciclo; los de vida real se reservan para el primer ciclo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas matemáticos puros surgen dentro de la propia disciplina matemática, mientras que los problemas relacionados con la vida real conectan las matemáticas con el entorno y con situaciones cotidianas del alumnado."
+    },
+    {
+      "question": "¿Cuál de los siguientes aspectos forma parte de la 'gestión de recursos' relacionado con el uso del alumnado durante la concepción de un plan?",
+      "options": [
+        "El uso de representaciones, dibujos, esquemas y la elección de operaciones adecuadas",
+        "La comprensión gramatical y semántica del enunciado del problema planteado",
+        "La verificación de la pertinencia y coherencia del resultado obtenido al final",
+        "El dominio de operaciones y símbolos matemáticos para ejecutar el cálculo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de concepción de un plan, la gestión de recursos incluye el uso de representaciones, dibujos, esquemas y la elección de operaciones adecuadas. La comprensión del enunciado corresponde a la fase de comprensión; la verificación a la valoración del proceso."
+    },
+    {
+      "question": "¿Qué implica la 'exploración' como tercer bloque de la planificación en la resolución de problemas?",
+      "options": [
+        "Examinar casos particulares y problemas equivalentes o modificar problemas, usando las técnicas de Schoenfeld",
+        "Organizar la información disponible mediante esquemas y diagramas que reflejen datos e incógnitas",
+        "Determinar qué datos son necesarios, cuáles son superfluos y qué razonamientos parciales se pueden realizar",
+        "Razonar con parte o con toda la información, adelantando posibles resultados o probando estrategias heurísticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tercer bloque de la planificación es la exploración, que implica examinar casos particulares y problemas equivalentes o modificados, usando las técnicas de Schoenfeld. El primer bloque es el análisis de la información; el segundo, la organización; y el cuarto, concebir y estructurar un plan."
+    },
+    {
+      "question": "¿Qué comprueba el alumnado en la fase de 'comprobación de la bondad de la respuesta' dentro de la interpretación y valoración?",
+      "options": [
+        "Si el resultado es lógico, compatible con el enunciado y coherente al sustituirlo en la historia del problema",
+        "Si existe una estrategia alternativa que hubiera permitido resolver el problema de forma más eficiente",
+        "Si los pasos del proceso de resolución fueron seguidos correctamente según el plan diseñado",
+        "Si el tiempo empleado en la resolución se ajusta al esperado para el nivel educativo del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La comprobación de la bondad de la respuesta verifica si el resultado es lógico, compatible con el enunciado y coherente al sustituirlo en la historia del problema. Los otros aspectos corresponden al análisis de alternativas y al análisis de dificultades."
+    },
+    {
+      "question": "¿Qué tipo de reflexión distingue el primer bloque de la planificación ('análisis de la información disponible')?",
+      "options": [
+        "Reflexión sobre las posibilidades de la información disponible y reflexión sobre las relaciones de los datos con las preguntas",
+        "Reflexión sobre las estrategias heurísticas posibles y reflexión sobre los recursos disponibles en el aula",
+        "Reflexión sobre el tiempo necesario para resolver el problema y reflexión sobre la dificultad del enunciado",
+        "Reflexión sobre los errores cometidos en el pasado y reflexión sobre las soluciones alternativas posibles"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer bloque de la planificación se distinguen dos tipos de reflexión: sobre las posibilidades de la información disponible (qué datos son necesarios, superfluos o faltan) y sobre las relaciones de los datos con las preguntas."
+    },
+    {
+      "question": "¿Cuál es la normativa autonómica de Galicia que regula la evaluación en la Educación Primaria, desarrollando el Decreto 155/2022?",
+      "options": [
+        "Orden de 26 de mayo de 2023 publicada en el DOG número 111, de 13 de junio de 2023",
+        "Decreto 374/1996, de 17 de octubre, por el que se regula la evaluación en la EP en Galicia",
+        "Orden de 22 de julio de 1997, por la que se regulan determinados aspectos de la evaluación",
+        "Real Decreto 157/2022, de 1 de marzo, que establece las enseñanzas mínimas de la EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022 y regula la evaluación en la Educación Primaria en la Comunidad Autónoma de Galicia, publicada en el DOG número 111, de 13 de junio de 2023."
+    },
+    {
+      "question": "¿En qué consiste la actividad de 'imaginar modelos' como facilitadora de la resolución de problemas?",
+      "options": [
+        "Animar al alumnado a situarse en contextos reales o distintos a los habituales mediante representaciones ajustadas al contenido trabajado",
+        "Construir modelos matemáticos con material manipulativo para representar físicamente el problema",
+        "Crear diagramas y gráficas que representen la estructura del problema y sus relaciones",
+        "Diseñar tablas de doble entrada para organizar los datos del problema de forma sistemática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La actividad de 'imaginar modelos' consiste en animar a los alumnos a situarse en contextos reales o distintos a los habituales del aula, mediante representaciones ajustadas al contenido que se esté trabajando."
+    },
+    {
+      "question": "¿Cómo deben abordarse los problemas de razonamiento lógico en el último ciclo de Educación Primaria según el Tema 21?",
+      "options": [
+        "En grupos para después poner los resultados en común, con un tiempo más amplio para su resolución especialmente en las primeras experiencias",
+        "De forma individual para que cada alumno desarrolle su propio razonamiento sin la influencia del grupo",
+        "Mediante la resolución guiada paso a paso por el docente, reduciendo la autonomía del alumnado al mínimo",
+        "En parejas, con un tiempo estrictamente limitado para fomentar la agilidad en el razonamiento matemático"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas de razonamiento lógico, especialmente en el último ciclo, deben abordarse en grupos para después poner los resultados en común, y precisan de un tiempo más amplio para su resolución, especialmente en las primeras experiencias."
+    },
+    {
+      "question": "¿Qué habilidades trabajan los problemas de razonamiento lógico según el Tema 21?",
+      "options": [
+        "Clasificación, comparación, ordenación y razonamiento lógico, permitiendo interpretar y resolver problemas con múltiples sistemas de representación",
+        "Suma, resta, multiplicación y división, aplicadas a situaciones de la vida cotidiana del alumnado",
+        "Estimación, medida, geometría y estadística aplicadas al análisis de datos del entorno",
+        "Cálculo mental, cálculo escrito, algoritmos de divisiones y fracciones equivalentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas de razonamiento lógico trabajan habilidades de clasificación, comparación, ordenación y razonamiento lógico, lo que permite interpretar y resolver problemas de manera más efectiva manejando sistemas de representación físicos, verbales, visuales, geométricos y numéricos."
+    },
+    {
+      "question": "¿Qué características deben reunir los problemas planteados en el segundo ciclo (8 a 10 años) para la representación gráfica?",
+      "options": [
+        "Se emplean dibujos, esquemas y tablas, junto con ensayo y error razonado y selección de operaciones matemáticas idóneas",
+        "Se emplean exclusivamente diagramas de flujo y árboles de decisión para organizar el proceso",
+        "Se usan mapas conceptuales y líneas de tiempo para representar las relaciones del enunciado",
+        "Se utilizan rectas numéricas y material manipulativo como base principal de la representación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo ciclo se emplean técnicas como la representación gráfica mediante dibujos, esquemas y tablas, el ensayo y error razonado, y la selección de operaciones matemáticas idóneas."
+    },
+    {
+      "question": "¿Cuál de estas soluciones plantea el Tema 21 para superar las dificultades en la resolución de problemas aritméticos verbales?",
+      "options": [
+        "Motivar al alumnado con problemas reales, trabajar con variedad de tipos y buscar la automatización del modelo mediante razonamiento analógico",
+        "Reducir la dificultad de los problemas y proporcionar siempre la estrategia a seguir para que el alumnado ejecute solo las operaciones",
+        "Limitar los problemas al tipo aditivo en todos los ciclos para garantizar la comprensión del enunciado",
+        "Eliminar los problemas verbales y sustituirlos por ejercicios de cálculo con datos numéricos directos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para superar las dificultades es imprescindible motivar al alumnado proponiendo problemas reales de situaciones cotidianas, trabajar con varios tipos de problemas y planteamientos, y buscar la automatización del modelo mediante el razonamiento analógico y no la repetición mecánica."
+    },
+    {
+      "question": "¿Qué tipo de aprendizaje promueve el Decreto 155/2022 para que el alumnado dote de sentido a los contenidos matemáticos?",
+      "options": [
+        "Aprendizaje significativo que ofrezca situaciones complejas integrando diferentes ámbitos del conocimiento",
+        "Aprendizaje memorístico que garantice la retención de conceptos y fórmulas matemáticas fundamentales",
+        "Aprendizaje repetitivo mediante la práctica mecánica de algoritmos hasta la automatización completa",
+        "Aprendizaje por descubrimiento exclusivamente individual sin guía ni andamiaje del docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 destaca que es necesario proporcionar un aprendizaje significativo para que el alumnado dote de sentido a los contenidos, lo que exige ofrecer situaciones complejas que integren diferentes ámbitos del conocimiento y favorezcan la construcción de aprendizajes útiles para la resolución de problemas."
+    },
+    {
+      "question": "¿Qué papel tiene el aprendizaje cooperativo en la enseñanza de la resolución de problemas según el Decreto 155/2022?",
+      "options": [
+        "Resulta clave para resolver problemas de manera conjunta, promoviendo la inclusión, la igualdad y la convivencia",
+        "Se reserva exclusivamente para la resolución de problemas de razonamiento lógico en el tercer ciclo",
+        "Se considera opcional y queda a criterio del docente emplearlo según las características del grupo-clase",
+        "Se evita en las primeras fases de aprendizaje para que el alumnado desarrolle primero la autonomía individual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece que el aprendizaje cooperativo resulta clave para resolver problemas de manera conjunta, promoviendo la inclusión, la igualdad y la convivencia en el aula."
+    },
+    {
+      "question": "¿Qué tipo de evaluación debe estar presente a lo largo de todo el proceso de enseñanza de la resolución de problemas?",
+      "options": [
+        "La evaluación reguladora, para controlar, orientar y mejorar el proceso, adaptándose a la diversidad mediante distintos instrumentos",
+        "La evaluación sumativa al final de cada unidad didáctica para medir los resultados alcanzados",
+        "La evaluación diagnóstica inicial para conocer los conocimientos previos del alumnado sobre resolución de problemas",
+        "La evaluación externa estandarizada para comparar el rendimiento del alumnado con los estándares nacionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación reguladora debe estar presente a lo largo de todo el proceso de enseñanza y aprendizaje para controlarlo, orientarlo y mejorarlo, adaptándose a la diversidad mediante distintos instrumentos y procedimientos."
+    },
+    {
+      "question": "¿Cuál de estas características es propia de los problemas de 'comparación' dentro de los problemas de multiplicación y división según Peled y Nesher (1996)?",
+      "options": [
+        "La colección mayor contiene un número exacto de veces a la colección menor",
+        "Existe una proporción simple y directa entre las cantidades involucradas en el problema",
+        "Se trabaja la composición cartesiana de dos colecciones para obtener el total de combinaciones",
+        "Se suman y restan cantidades para obtener la diferencia entre dos conjuntos distintos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En los problemas de comparación de multiplicación y división, la colección mayor contiene un número exacto de veces a la menor. Los de razón tienen proporción simple directa; los de productos cartesianos, composición cartesiana de dos colecciones."
+    },
+    {
+      "question": "¿Qué dos tipos de reflexión distingue el análisis de la información disponible como primer bloque de la planificación?",
+      "options": [
+        "Reflexión sobre las posibilidades de la información disponible y reflexión sobre las relaciones entre datos y preguntas",
+        "Reflexión sobre la dificultad del problema y reflexión sobre las estrategias disponibles para abordarlo",
+        "Reflexión sobre los recursos materiales necesarios y reflexión sobre el tiempo estimado de resolución",
+        "Reflexión sobre los errores anteriores y reflexión sobre las soluciones alternativas al problema planteado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer bloque de la planificación se distinguen dos tipos de reflexión: sobre las posibilidades de la información disponible (qué datos son necesarios, superfluos o faltan) y sobre las relaciones de los datos con las preguntas del problema."
+    },
+    {
+      "question": "¿Qué aspecto específico trabaja el segundo bloque de la planificación ('organización de la información disponible')?",
+      "options": [
+        "La representación mediante esquemas y diagramas que reflejen los datos e incógnitas del problema",
+        "La determinación de qué datos son necesarios, cuáles son superfluos y si falta algún dato clave",
+        "El razonamiento con parte o con toda la información para adelantar posibles resultados",
+        "El examen de casos particulares y problemas equivalentes usando las técnicas de Schoenfeld"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El segundo bloque de la planificación, organización de la información disponible, implica la representación mediante esquemas y diagramas que reflejen los datos e incógnitas del problema. El primer bloque es el análisis; el tercero, la exploración; y el cuarto, concebir un plan."
+    },
+    {
+      "question": "¿Cuál es la obra de referencia de Chamorro (2003) citada en el Tema 21?",
+      "options": [
+        "'Didáctica de las matemáticas para primaria', Madrid: Pearson Educación",
+        "'Desarrollo de competencias matemáticas con recursos lúdico-manipulativos', Madrid: Narcea",
+        "'Cómo plantear y resolver problemas', México: Trillas",
+        "'Didáctica de las matemáticas para maestros. Proyecto Edumat-Maestros'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chamorro, M.C. (2003) publicó 'Didáctica de las matemáticas para primaria', Madrid: Pearson Educación, que es la obra de referencia citada en la bibliografía del Tema 21."
+    },
+    {
+      "question": "¿Cuál es la obra de referencia de Rico y Flores (2015) citada en el Tema 21?",
+      "options": [
+        "'Enseñanza y aprendizaje de las matemáticas en Educación Primaria', Madrid: Pirámide",
+        "'Didáctica de las matemáticas para primaria', Madrid: Pearson Educación",
+        "'Desarrollo de competencias matemáticas con recursos lúdico-manipulativos', Madrid: Narcea",
+        "'Didáctica de las matemáticas para maestros. Proyecto Edumat-Maestros'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rico, L. y Flores, P. (2015) publicaron 'Enseñanza y aprendizaje de las matemáticas en Educación Primaria', Madrid: Pirámide, que es otra de las obras de referencia del Tema 21."
+    },
+    {
+      "question": "¿Quiénes son los autores que según el Tema 21 coinciden en las características de un problema didácticamente valioso?",
+      "options": [
+        "Kilpatrick (1987) y Labarre (1991)",
+        "Carpenter y Monser (1983)",
+        "Peled y Nesher (1996)",
+        "Mason, Burton y Stacey (1998)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Kilpatrick (1987) y Labarre (1991) coinciden en que un problema didácticamente valioso debe reunir una serie de características: presentar una cuestión o desafío, tener resolución, utilizar lenguaje claro, poseer originalidad y nivel de dificultad adecuado, entre otras."
+    },
+    {
+      "question": "¿Qué tipo de enfoques deben vincularse con contextos reales y cotidianos según las orientaciones pedagógicas del Decreto 155/2022?",
+      "options": [
+        "Enfoques funcionales y activos vinculados a contextos reales, cotidianos y matemáticos",
+        "Enfoques abstractos y formales basados en la lógica matemática pura y los símbolos",
+        "Enfoques competitivos e individuales centrados en la mejora del rendimiento académico",
+        "Enfoques memorísticos y repetitivos para consolidar los procedimientos de cálculo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La enseñanza de las matemáticas debe basarse en enfoques funcionales y activos, vinculados a contextos reales, cotidianos y matemáticos, empleando metodologías globalizadas como el aprendizaje basado en problemas y en proyectos."
+    },
+    {
+      "question": "¿Qué tendencias curriculares actuales promueve el Tema 21 para mejorar la competencia en resolución de problemas?",
+      "options": [
+        "El desarrollo del razonamiento lógico-matemático, el pensamiento crítico y el uso de estrategias metacognitivas",
+        "El incremento del tiempo dedicado al cálculo mecánico y la práctica sistemática de algoritmos",
+        "La reducción del número de tipos de problemas para facilitar la comprensión y el dominio de cada uno",
+        "La evaluación exclusivamente cuantitativa mediante pruebas numéricas al final de cada trimestre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tendencias curriculares actuales promueven el desarrollo del razonamiento lógico-matemático, el pensamiento crítico y el uso de estrategias metacognitivas como elementos centrales de la enseñanza matemática."
+    },
+    {
+      "question": "¿Qué competencia de siglo XXI menciona la conclusión del Tema 21 que el alumnado debe adquirir mediante la resolución de problemas?",
+      "options": [
+        "La competencia STEM necesaria para afrontar los retos del siglo XXI",
+        "La competencia digital para manejar herramientas tecnológicas de cálculo avanzado",
+        "La competencia lingüística para expresar con precisión el proceso matemático seguido",
+        "La competencia ciudadana para aplicar las matemáticas a la participación democrática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema menciona que, a través de la resolución de problemas, el alumnado debe adquirir la competencia STEM necesaria para afrontar los retos del siglo XXI, junto con la confianza en sus propias habilidades y la valoración de la funcionalidad de las matemáticas."
+    },
+    {
+      "question": "¿En qué consiste el 'análisis de posibles errores' como actividad facilitadora de la resolución de problemas?",
+      "options": [
+        "Ayuda a desarrollar el sentido crítico al analizar errores en la formulación de problemas",
+        "Consiste en describir oralmente el proceso seguido para identificar dónde se produjo el error",
+        "Implica reescribir el problema eliminando los datos incorrectos del enunciado original",
+        "Supone inventar problemas incorrectos para que otros grupos identifiquen los fallos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El análisis de posibles errores en la formulación de problemas ayuda a desarrollar el sentido crítico del alumnado, al identificar y reflexionar sobre los errores presentes en la formulación de los problemas."
+    },
+    {
+      "question": "¿Qué tipo de autoinstrucciones menciona el Tema 21 como ejemplo para guiar la resolución de problemas?",
+      "options": [
+        "'¿Qué pide el problema?' y '¿Qué datos son importantes y cuáles se pueden desechar?'",
+        "'¿Cuánto tiempo tengo para resolver el problema?' y '¿Qué operación debo usar primero?'",
+        "'¿He revisado el enunciado?' y '¿He comunicado correctamente el resultado obtenido?'",
+        "'¿Es este un problema de suma o de resta?' y '¿Cuál es la operación más sencilla para resolverlo?'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Tema 21 menciona como ejemplos de autoinstrucciones preguntas guiadas como '¿qué pide el problema?' o '¿qué datos son importantes y cuáles se pueden desechar?', para interiorizar y guiar los procedimientos de resolución."
+    },
+    {
+      "question": "¿Qué proceso matemático del área de matemáticas implica activar el razonamiento analógico según el Tema 21?",
+      "options": [
+        "Buscar la automatización del modelo a través del razonamiento analógico y no de la repetición mecánica para superar las dificultades",
+        "Aplicar algoritmos memorizados de forma automática para resolver problemas de tipo rutinario",
+        "Ejecutar operaciones en el orden establecido sin reflexión sobre su pertinencia en el contexto",
+        "Identificar datos y operaciones mediante la memorización de patrones de problemas tipo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para superar las dificultades en resolución de problemas, debe buscarse la automatización del modelo a través del razonamiento analógico (reconocer estructuras similares en diferentes contextos) y no de la repetición mecánica."
+    },
+    {
+      "question": "¿Qué propone el Tema 21 sobre el nivel de dificultad de los problemas en la enseñanza de la resolución?",
+      "options": [
+        "Ajustar la dificultad progresivamente mediante distintos enfoques como enunciados verbales, modelización, juegos y materiales manipulativos",
+        "Mantener un nivel de dificultad constante para que el alumnado pueda trabajar de forma autónoma",
+        "Proponer problemas de máxima dificultad desde el principio para desarrollar la perseverancia",
+        "Reducir la dificultad al mínimo para que el alumnado experimente siempre éxito inmediato"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Tema 21 propone ajustar siempre la dificultad progresivamente mediante distintos enfoques como enunciados verbales, modelización, juegos y materiales manipulativos, adaptando los problemas al nivel del alumnado."
+    },
+    {
+      "question": "¿Qué papel tienen los sentidos matemáticos y los procesos matemáticos según las orientaciones pedagógicas del Decreto 155/2022?",
+      "options": [
+        "Deben trabajarse de manera integrada, siendo la resolución de problemas y las destrezas emocionales los ejes fundamentales",
+        "Los sentidos matemáticos se trabajan en los bloques de contenido y los procesos en unidades independientes",
+        "Los sentidos matemáticos son obligatorios y los procesos son opcionales según el criterio del docente",
+        "Los sentidos matemáticos se evalúan de forma sumativa y los procesos de forma cualitativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los sentidos matemáticos deben trabajarse junto a los procesos matemáticos de manera integrada. La resolución de problemas y el desarrollo de destrezas emocionales son los ejes fundamentales de la actividad matemática y se abordan transversalmente en toda el área."
+    },
+    {
+      "question": "¿Cuál es la LOMLOE que sirve de marco normativo para el Tema 21?",
+      "options": [
+        "Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+        "Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)",
+        "Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa (LOMCE)",
+        "Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo (LOGSE)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE es la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Sirve como marco normativo estatal para el tema junto con el Real Decreto 157/2022 y el Decreto 155/2022."
+    },
+    {
+      "question": "¿En qué diario oficial y número se publicó el Decreto 155/2022 de la Comunidad Autónoma de Galicia?",
+      "options": [
+        "Diario Oficial de Galicia (DOG), número 183, de 26 de septiembre de 2022",
+        "Boletín Oficial del Estado (BOE), número 52, de 2 de marzo de 2022",
+        "Diario Oficial de Galicia (DOG), número 111, de 13 de junio de 2023",
+        "Boletín Oficial del Estado (BOE), número 340, de 30 de diciembre de 2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 se publicó en el Diario Oficial de Galicia (DOG), número 183, de 26 de septiembre de 2022, páginas 49595 a 50009."
+    },
+    {
+      "question": "¿Qué aspectos específicos debe gestionar el alumnado durante la 'gestión de recursos' en la valoración del proceso?",
+      "options": [
+        "Revisar el desarrollo completo del proceso y verificar la pertinencia y coherencia del resultado",
+        "Utilizar representaciones, dibujos, esquemas y elegir las operaciones adecuadas para el plan",
+        "Comprender y comunicar ideas matemáticas confrontándolas con las de otros compañeros",
+        "Operar y aplicar correctamente los instrumentos organizando los pasos y resultados intermedios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de valoración del proceso, la gestión de recursos implica revisar el desarrollo completo del proceso y verificar la pertinencia y coherencia del resultado. Las representaciones corresponden a la concepción del plan; la comunicación, a comprensión y análisis; las operaciones, a ejecución."
+    },
+    {
+      "question": "¿Cuáles son las características evolutivas que presenta el alumnado en el segundo ciclo (8 a 10 años) que influyen en la enseñanza de la resolución de problemas?",
+      "options": [
+        "Mayor competencia lectora y autonomía, y avance en la destreza del cálculo",
+        "Inicio del desarrollo de la comprensión lectora y trabajo de la expresión verbal del razonamiento",
+        "Capacidad para aplicar el proceso en distintos contextos y valorar los resultados obtenidos",
+        "Desarrollo del pensamiento abstracto y de la actitud científica ante el aprendizaje matemático"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo ciclo (8 a 10 años) los alumnos presentan mayor competencia lectora y autonomía, y avanzan en la destreza del cálculo, lo que permite introducir la planificación del proceso de resolución de problemas con estrategias más elaboradas."
+    },
+    {
+      "question": "¿Qué tipo de contenidos se refuerzan en el tercer ciclo (10 a 12 años) según el Tema 21?",
+      "options": [
+        "La confianza en las propias capacidades, la actitud científica, la diferenciación entre problemas y ejercicios, y la reflexión sobre los procesos",
+        "El dominio de los algoritmos básicos, la práctica del cálculo mental y la resolución de problemas tipo",
+        "La comprensión lectora del enunciado y la expresión verbal del proceso seguido en la resolución",
+        "La introducción a la planificación, la representación gráfica y el análisis del enunciado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el tercer ciclo los contenidos buscan reforzar la confianza en las propias capacidades, fomentar una actitud científica ante el aprendizaje, diferenciar problemas de ejercicios, aplicar estrategias idóneas, reflexionar sobre los procesos y extraer aprendizajes útiles para futuras situaciones."
+    },
+    {
+      "question": "¿Cuál es el propósito de los ejes fundamentales 'resolución de problemas y destrezas emocionales' en el área de matemáticas según el Decreto 155/2022?",
+      "options": [
+        "Son prioritarios frente a otros aspectos en cuanto al tiempo y la atención que requieren, y se evalúan de forma transversal en los 6 bloques",
+        "Son complementarios a los contenidos de cada bloque y se trabajan de forma independiente en unidades específicas",
+        "Son exclusivos del Bloque 6 Sentido Socioemocional y no se integran en los demás bloques de contenido",
+        "Son evaluados de forma sumativa al final de cada curso para garantizar la progresión del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La resolución de problemas y las destrezas emocionales constituyen los ejes fundamentales del aprendizaje matemático, siendo prioritaria su enseñanza frente a otros aspectos en cuanto al tiempo y la atención requerida, abordándose y evaluándose de forma transversal en cada uno de los 6 bloques."
+    },
+    {
+      "question": "¿Qué aspecto de la enseñanza de la resolución de problemas debe fomentar el docente según las orientaciones metodológicas específicas del Tema 21?",
+      "options": [
+        "Fomentar la creatividad, ayudar en el análisis y la gestión del miedo al error, y promover la colaboración y la reflexión",
+        "Priorizar la velocidad de resolución para preparar al alumnado para situaciones de examen reales",
+        "Centrar la atención en el resultado correcto más que en el proceso seguido por el alumnado",
+        "Proporcionar siempre la estrategia a seguir para que el alumnado se centre en el cálculo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El profesorado debe fomentar la creatividad, ayudar en el análisis y en la gestión del miedo al error, promover la colaboración y la reflexión, y evitar enfoques rígidos basados exclusivamente en la práctica mecánica."
+    },
+    {
+      "question": "¿Cuál de las siguientes describe mejor la 'representación' como vertiente de la resolución de problemas según el Tema 21?",
+      "options": [
+        "La forma en que el alumnado traduce la información del problema a un formato que le permita trabajar con ella, siendo diferente en cada fase",
+        "El conjunto de esquemas y diagramas que el docente proporciona para facilitar la comprensión del enunciado",
+        "La expresión simbólica y algebraica del problema mediante variables e incógnitas matemáticas",
+        "El conjunto de materiales manipulativos que se emplean para representar físicamente la situación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La representación es la forma en que el alumnado traduce la información del problema a un formato que le permita trabajar con ella, siendo diferente en cada fase del proceso (comprensión, planificación, ejecución y valoración)."
+    },
+    {
+      "question": "¿Qué reflexión realiza el alumnado en la fase de valoración dentro de la vertiente de 'representación'?",
+      "options": [
+        "Repasa los pasos con las soluciones encontradas, reflexiona sobre el esquema del proceso seguido y comprueba si existen resultados alternativos",
+        "Realiza y escribe los cálculos y relaciones, estructurando pasos y resultados de forma ordenada",
+        "Trabaja la lectura comprensiva y la representación mediante esquemas, palabras o símbolos",
+        "Emplea esquemas, diagramas y dibujos, organizando los pasos a seguir con notación y modelos adecuados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de valoración dentro de la vertiente de representación, se repasan los pasos con las soluciones encontradas, se reflexiona sobre el esquema del proceso seguido y se comprueba si existen resultados alternativos. Las otras opciones corresponden a las fases de ejecución, comprensión y planificación, respectivamente."
+    },
+    {
+      "question": "¿Qué tipo de enunciados y actividades deben emplearse según las orientaciones metodológicas para ajustar progresivamente la dificultad?",
+      "options": [
+        "Enunciados verbales, modelización, juegos y materiales manipulativos",
+        "Fichas de ejercicios graduadas, vídeos explicativos y pruebas de nivel",
+        "Exámenes por ciclo, tareas individuales y proyectos grupales evaluados con rúbricas",
+        "Problemas tipo, algoritmos estándar y tablas de verificación de resultados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para ajustar la dificultad progresivamente se emplean distintos enfoques como enunciados verbales, modelización, juegos y materiales manipulativos, adaptando los planteamientos a las necesidades y nivel del alumnado."
+    },
+    {
+      "question": "¿Qué destrezas emocionales destaca el Tema 21 como necesarias para la enseñanza de la resolución de problemas?",
+      "options": [
+        "Autoconfianza, perseverancia, valoración del error como parte del aprendizaje y manejo de la ansiedad ante la incertidumbre",
+        "Empatía, cooperación, gestión de conflictos y habilidades de comunicación interpersonal",
+        "Disciplina, obediencia, respeto a las normas y capacidad de concentración prolongada",
+        "Motivación extrínseca, competitividad positiva, orientación al logro y resistencia a la frustración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las destrezas emocionales necesarias para la resolución de problemas incluyen la autoconfianza, la perseverancia, la valoración del error como parte del aprendizaje y el manejo de la ansiedad ante la incertidumbre de los problemas matemáticos."
+    },
+    {
+      "question": "¿Cuál es la obra de Godino et al. (2004) citada en el Tema 21?",
+      "options": [
+        "'Didáctica de las matemáticas para maestros. Proyecto Edumat-Maestros'",
+        "'Desarrollo de competencias matemáticas con recursos lúdico-manipulativos'",
+        "'Didáctica de las matemáticas para primaria'",
+        "'Enseñanza y aprendizaje de las matemáticas en Educación Primaria'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Godino, J.D., Batanero, C. y Font, V. (2004) publicaron 'Didáctica de las matemáticas para maestros. Proyecto Edumat-Maestros', obra disponible online en la Universidad de Granada que es una de las referencias fundamentales del Tema 21."
+    },
+    {
+      "question": "¿Qué aspecto de la resolución de problemas trabaja el segundo curso del primer ciclo respecto al primero según el Tema 21?",
+      "options": [
+        "Se amplía la variedad de problemas y se fomenta la explicación oral del proceso de resolución en interpretación de datos, situación planteada, proceso seguido y justificación de la solución",
+        "Se introduce la planificación del proceso con análisis del enunciado y representación gráfica",
+        "Se comienza a desarrollar la comprensión lectora para comunicar de forma sencilla el proceso",
+        "Se aplica el proceso de resolución en distintos contextos desarrollando el juicio crítico propio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo curso, al poseer mayor competencia lingüística y matemática, se amplía la variedad de problemas y se fomenta la explicación oral del proceso de resolución en la interpretación de datos, la situación planteada, el proceso seguido y la justificación de la solución obtenida."
+    },
+    {
+      "question": "¿Cuál es la característica principal que define a los problemas de 'cambio' dentro de los problemas aditivos y sustractivos?",
+      "options": [
+        "Hay una cantidad inicial que es sometida a una acción directa que la modifica",
+        "Dos subconjuntos se combinan para conformar un conjunto único mayor",
+        "Se comparan dos conjuntos distintos para determinar su diferencia",
+        "Se mezclan los rasgos de un problema de comparación y de un problema de cambio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas de cambio son aquellos en los que hay una cantidad inicial que es sometida a una acción directa que la modifica. Los de combinación fusionan dos subconjuntos; los de comparación, comparan dos conjuntos; y los de igualación mezclan comparación y cambio."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre la evaluación en la enseñanza de la resolución de problemas coincide con el Decreto 155/2022?",
+      "options": [
+        "La evaluación reguladora debe estar presente a lo largo de todo el proceso de enseñanza-aprendizaje para controlarlo, orientarlo y mejorarlo",
+        "La evaluación debe realizarse exclusivamente al final de cada unidad didáctica para medir los resultados",
+        "La evaluación de la resolución de problemas se limita a la corrección aritmética del resultado obtenido",
+        "La evaluación debe ser exclusivamente sumativa y cuantitativa para reflejar objetivamente el nivel del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece que la evaluación reguladora debe estar presente a lo largo de todo el proceso de enseñanza y aprendizaje para controlarlo, orientarlo y mejorarlo, adaptándose a la diversidad mediante distintos instrumentos y procedimientos."
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones describe mejor la finalidad de los 'problemas de productos cartesianos' en el aula de Educación Primaria?",
+      "options": [
+        "Trabajar la composición cartesiana de dos colecciones para hallar el total de combinaciones posibles",
+        "Establecer una proporción simple y directa entre las cantidades para resolver la situación",
+        "Comparar dos colecciones para determinar cuántas veces una contiene a la otra",
+        "Modificar una cantidad inicial mediante una acción directa que produce un resultado nuevo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas de productos cartesianos implican la composición cartesiana de dos colecciones, es decir, determinar el total de pares o combinaciones posibles entre los elementos de ambas. Son distintos de los de razón (proporción directa) y comparación (relación multiplicativa)."
+    },
+    {
+      "question": "¿Qué medida es la más importante para que el docente mejore el proceso de resolución de problemas según las orientaciones metodológicas del Tema 21?",
+      "options": [
+        "Fomentar actitud positiva, enseñar herramientas heurísticas y practicar las cuatro vertientes del proceso centrado en el proceso más que en el resultado",
+        "Aumentar la frecuencia de los problemas propuestos para que el alumnado gane velocidad de resolución",
+        "Corregir inmediatamente los errores del alumnado para evitar que consoliden aprendizajes incorrectos",
+        "Proporcionar siempre las operaciones necesarias para que el alumnado se centre en el cálculo correcto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones metodológicas específicas señalan que se debe proporcionar al alumnado estrategias y hábitos enfocándose en el proceso más que en el resultado, siendo clave fomentar una actitud positiva, enseñar herramientas heurísticas y practicar los pasos fundamentales de planificación, gestión de recursos, representación, interpretación y valoración."
+    },
+    {
+      "question": "¿Qué fase del método de Pólya implica seleccionar estrategias u operaciones adecuadas y definir su secuencia para llegar al resultado?",
+      "options": [
+        "Concebir un plan",
+        "Comprender el problema",
+        "Ejecutar el plan",
+        "Examinar la solución obtenida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La segunda fase del método de Pólya, 'concebir un plan', consiste en seleccionar las estrategias o las operaciones adecuadas y definir su secuencia para llegar al resultado. 'Comprender' es la primera fase; 'ejecutar' es la tercera; y 'examinar' es la cuarta."
+    },
+    {
+      "question": "¿Qué implica la tercera fase del método de Pólya, 'ejecutar el plan'?",
+      "options": [
+        "Seguir el orden y las estrategias planificadas, verificar cada paso y emplear diagramas con flexibilidad para replantear el proceso si no es exitoso",
+        "Seleccionar las estrategias adecuadas y definir su secuencia antes de comenzar a operar",
+        "Leer despacio el enunciado hasta entender las relaciones de la información proporcionada",
+        "Comprobar la corrección y coherencia del resultado con el contexto del problema"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tercera fase, 'ejecutar el plan', consiste en seguir el orden y las estrategias planificadas, verificando cada paso y empleando diagramas, tablas o gráficos, con flexibilidad para replantear el proceso si no es exitoso."
+    },
+    {
+      "question": "¿Qué implica la cuarta fase del método de Pólya, 'examinar la solución obtenida'?",
+      "options": [
+        "Comprobar la corrección y coherencia del resultado con el contexto del problema y analizar la posibilidad de emplear estrategias alternativas",
+        "Seguir el orden y las estrategias planificadas verificando cada paso del proceso",
+        "Seleccionar las estrategias o las operaciones adecuadas y definir su secuencia",
+        "Anotar los datos más relevantes e identificar las preguntas relacionando datos con esquemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La cuarta fase, 'examinar la solución obtenida', consiste en comprobar la corrección y coherencia del resultado con el contexto del problema y en analizar la posibilidad de emplear estrategias alternativas para enriquecer el aprendizaje."
+    },
+    {
+      "question": "¿Qué acciones se incluyen en la fase de 'análisis' del método de Schoenfeld (1985)?",
+      "options": [
+        "Trazar diagramas, examinar casos particulares y probar o simplificar el problema",
+        "Examinar problemas equivalentes, ligeramente modificados o ampliamente modificados",
+        "Verificar las soluciones obtenidas comprobando su corrección y pertinencia",
+        "Aplicar el plan diseñado en la fase anterior con flexibilidad y organización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de análisis del método de Schoenfeld se trazan diagramas, se examinan casos particulares y se prueba o simplifica el problema. La exploración examina problemas modificados; la ejecución aplica el plan; y la comprobación verifica los resultados."
+    },
+    {
+      "question": "¿Qué distingue la fase de 'familiarización con el problema' en el modelo de Guzmán (1991)?",
+      "options": [
+        "Las actuaciones están encaminadas a comprender la naturaleza del problema",
+        "Se selecciona la estrategia heurística más adecuada para resolver el problema",
+        "Se reflexiona sobre la solución, los errores y el proceso seguido durante la resolución",
+        "Se desarrolla la estrategia elegida en la fase anterior aplicando los recursos disponibles"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La primera fase del modelo de Guzmán es la familiarización con el problema, cuyas actuaciones están encaminadas a comprender la naturaleza del problema. La segunda fase es la búsqueda de estrategias; la tercera, el desarrollo de la estrategia; y la cuarta, la revisión del proceso."
+    },
+    {
+      "question": "¿Cuál de los cuatro métodos de resolución de problemas del Tema 21 tiene mayor aceptación en el contexto educativo y por qué?",
+      "options": [
+        "El modelo de Guzmán (1991), porque integra las aportaciones más relevantes de los modelos de Pólya, Schoenfeld y Mason-Burton-Stacey",
+        "El método de Pólya (1945), porque fue el primero en proponer un proceso estructurado y lineal por fases",
+        "El método de Schoenfeld (1985), porque reconoce la naturaleza no lineal y realista del proceso de resolución",
+        "El método de Mason-Burton-Stacey (1998), porque incluye el concepto de monitor interno que regula el proceso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El modelo de Guzmán (1991) goza de mayor aceptación en el contexto educativo porque integra las aportaciones más relevantes de los tres modelos anteriores: Pólya, Schoenfeld y Mason-Burton-Stacey."
+    },
+    {
+      "question": "¿Cómo define la Orden de 26 de mayo de 2023 el ámbito de regulación de la evaluación en la EP gallega?",
+      "options": [
+        "Desarrolla el Decreto 155/2022 y regula la evaluación en la etapa de educación primaria en la Comunidad Autónoma de Galicia",
+        "Establece las enseñanzas mínimas de la Educación Primaria en todo el territorio nacional",
+        "Modifica la LOMLOE para incluir nuevas competencias específicas en el área de matemáticas",
+        "Regula la ordenación de las enseñanzas de la educación secundaria obligatoria en Galicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 desarrolla el Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia, y regula la evaluación en esa etapa educativa."
+    },
+    {
+      "question": "¿Qué tipo de resolución de problemas va apareciendo en el último ciclo de la EP según el Tema 21?",
+      "options": [
+        "Problemas más complejos que evolucionan del cálculo simple al análisis y gestión de datos, fortaleciendo progresivamente el pensamiento matemático",
+        "Problemas más simples para que el alumnado consolide lo aprendido antes de pasar a la ESO",
+        "Problemas exclusivamente de razonamiento lógico para desarrollar el pensamiento abstracto",
+        "Problemas centrados en el cálculo mental para garantizar la automatización de las operaciones básicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el último ciclo de la EP, los problemas de razonamiento lógico se vuelven más complejos, evolucionando del cálculo simple al análisis y gestión de datos, lo que fortalece progresivamente el pensamiento matemático."
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones describe correctamente las 'orientaciones pedagógicas' según el Decreto 155/2022?",
+      "options": [
+        "Indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes para favorecer el aprendizaje del alumnado",
+        "Criterios de evaluación que el profesorado debe aplicar para valorar el grado de adquisición de las competencias",
+        "Contenidos mínimos que el alumnado debe dominar al finalizar cada uno de los ciclos de la etapa",
+        "Instrumentos de evaluación específicos para medir el nivel de competencia matemática del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones pedagógicas, definidas en el artículo 6 del Decreto 155/2022, son las indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes para favorecer el aprendizaje del alumnado y lograr los objetivos y adquirir las CC."
+    },
+    {
+      "question": "¿Cómo se concibe la resolución de problemas en el contexto del aula según el Decreto 155/2022?",
+      "options": [
+        "Como una actividad cotidiana que activa procesos como el razonamiento, el pensamiento computacional y la comunicación matemática, ofreciendo un contexto de aprendizaje experiencial",
+        "Como una tarea evaluativa periódica que permite medir el grado de adquisición de las competencias matemáticas",
+        "Como un contenido específico del bloque de sentido numérico que se trabaja de forma independiente",
+        "Como un recurso metodológico opcional que el docente puede emplear cuando el grupo-clase lo requiera"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La resolución de problemas se concibe como una actividad cotidiana que activa procesos como el razonamiento, el pensamiento computacional y la comunicación matemática. En el aula ofrece un contexto donde el alumnado experimenta, crea y contrasta ideas, aplicando destrezas de comprensión, identificación de datos y expresión de soluciones."
+    },
+    {
+      "question": "¿En qué consiste la 'búsqueda de estrategias heurísticas' como segunda fase del modelo de Guzmán (1991)?",
+      "options": [
+        "Seleccionar la estrategia heurística más adecuada para así comenzar la fase de desarrollo",
+        "Reflexionar sobre la solución, los errores y el proceso seguido para entender qué funcionó",
+        "Comprender la naturaleza del problema mediante actuaciones encaminadas a su análisis",
+        "Aplicar la estrategia elegida siguiendo el plan diseñado con los recursos disponibles"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La segunda fase del modelo de Guzmán es la búsqueda de estrategias heurísticas, que consiste en seleccionar la estrategia más adecuada para poder así comenzar la tercera fase, el desarrollo de la estrategia elegida."
+    },
+    {
+      "question": "¿Cuál de las siguientes actividades del Tema 21 desarrolla principalmente el sentido crítico del alumnado?",
+      "options": [
+        "El análisis de posibles errores en la formulación de problemas",
+        "El resumen que elimina datos inútiles y reescribe el enunciado",
+        "El cambio de textos entre grupos para intercambiar problemas inventados",
+        "La propuesta de problemas imposibles con datos que no permiten resolución"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El análisis de posibles errores en la formulación de problemas ayuda a desarrollar el sentido crítico del alumnado, al reflexionar sobre los errores presentes en la formulación. Los problemas imposibles también desarrollan análisis crítico, pero el análisis de errores es el que específicamente menciona el texto con este objetivo."
+    },
+    {
+      "question": "¿Cuántas actividades diferentes facilitan la resolución de problemas en el apartado 5.4 del Tema 21?",
+      "options": [
+        "Seis: el resumen, trabajo con datos contradictorios, análisis y reflexión del proceso, análisis de posibles errores, imaginar modelos, cambio de textos entre grupos y propuesta de problemas imposibles",
+        "Cuatro: el resumen, trabajo con datos contradictorios, análisis y reflexión del proceso, y cambio de textos",
+        "Tres: el resumen, los problemas imposibles y el juego como recurso matemático fundamental",
+        "Cinco: el resumen, datos contradictorios, imaginar modelos, problemas imposibles y el juego"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El apartado 5.4 describe siete tipos de actividades: el resumen, el trabajo con datos contradictorios, el análisis y reflexión del proceso de resolución, el análisis de posibles errores, imaginar modelos, el cambio de textos entre grupos, y la propuesta de problemas imposibles, además del juego mencionado por Alsina."
+    },
+    {
+      "question": "¿Qué relación establece el Tema 21 entre la resolución de problemas y las competencias del siglo XXI?",
+      "options": [
+        "La resolución de problemas permite que el alumnado desarrolle confianza en sus habilidades, valore la funcionalidad de las matemáticas y adquiera la competencia STEM para los retos del siglo XXI",
+        "La resolución de problemas garantiza el dominio de algoritmos computacionales necesarios para la ciudadanía digital",
+        "La resolución de problemas prepara al alumnado para superar las pruebas estandarizadas de evaluación internacional",
+        "La resolución de problemas asegura la adquisición de conocimientos matemáticos superiores para acceder a estudios universitarios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del Tema 21 establece que la resolución de problemas debe lograr que el alumnado desarrolle confianza en sus propias habilidades, valore la funcionalidad de las matemáticas en su vida cotidiana y adquiera la competencia STEM necesaria para afrontar los retos del siglo XXI."
+    },
+    {
+      "question": "¿Qué describe el cuarto bloque de la planificación en la resolución de problemas según el Tema 21?",
+      "options": [
+        "Concebir y estructurar un plan de resolución razonando con la información, adelantando posibles resultados o probando estrategias heurísticas",
+        "Examinar casos particulares y problemas equivalentes o modificados con técnicas de Schoenfeld",
+        "Organizar la información disponible mediante esquemas y diagramas que reflejen datos e incógnitas",
+        "Determinar qué datos son necesarios, cuáles son superfluos y qué razonamientos parciales se pueden realizar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cuarto y último bloque de la planificación consiste en concebir y estructurar un plan de resolución, razonando con parte o con toda la información, adelantando posibles resultados o probando estrategias heurísticas."
+    },
+    {
+      "question": "¿En qué fase de la 'representación' se realizan y escriben cálculos y relaciones, estructurando pasos y resultados de forma ordenada?",
+      "options": [
+        "Fase de ejecución",
+        "Fase de comprensión",
+        "Fase de planificación",
+        "Fase de valoración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de ejecución, dentro de la vertiente de representación, se realizan y escriben cálculos y relaciones, estructurando pasos y resultados de forma ordenada. La comprensión trabaja lectura comprensiva y esquemas; la planificación, diagramas y secuencia; la valoración, repaso de pasos y alternativas."
+    },
+    {
+      "question": "¿Cuál es la definición de 'gestión de recursos' en la resolución de problemas según el Tema 21?",
+      "options": [
+        "Los conocimientos y destrezas previas que el alumno necesita para resolver el problema, siendo capaz de gestionarlos a lo largo de todo el proceso y no solo al ejecutar las operaciones",
+        "Los materiales curriculares y recursos digitales que el docente selecciona para facilitar la resolución de problemas en el aula",
+        "Las estrategias de agrupamiento del alumnado para resolver problemas en parejas, grupos o de forma individual",
+        "El tiempo que el alumnado dedica a cada una de las fases del proceso de resolución de problemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La gestión de recursos se refiere a los conocimientos y destrezas previas que el alumno necesita para resolver el problema, siendo capaz de gestionarlos a lo largo de todo el proceso y no solo al ejecutar las operaciones."
+    },
+    {
+      "question": "¿Qué tipo de recursos lingüísticos incluye la 'gestión de recursos' en la resolución de problemas?",
+      "options": [
+        "Comprensión gramatical, semántica y estructura del texto del enunciado",
+        "Vocabulario matemático específico para nombrar con precisión las operaciones",
+        "Habilidades de lectura en voz alta para expresar correctamente el enunciado",
+        "Estrategias de escritura para comunicar formalmente el proceso y el resultado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los recursos lingüísticos dentro de la gestión de recursos incluyen la comprensión gramatical, semántica y estructura del texto del enunciado, siendo fundamentales para entender correctamente lo que se plantea en el problema."
+    },
+    {
+      "question": "¿Qué tipo de recursos heurísticos incluye la 'gestión de recursos' en la resolución de problemas?",
+      "options": [
+        "Uso de analogías, comprobaciones o problemas similares como estrategias para abordar el problema",
+        "Aplicación de algoritmos estándar y fórmulas memorizadas para calcular el resultado",
+        "Empleo de calculadoras y herramientas digitales para verificar los resultados obtenidos",
+        "Uso de tablas de multiplicar y reglas de divisibilidad para agilizar el cálculo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los recursos heurísticos en la gestión de recursos incluyen el uso de analogías (relacionar con problemas similares conocidos), comprobaciones y estrategias basadas en problemas similares ya resueltos anteriormente."
+    },
+    {
+      "question": "¿Cuál de las cuatro vertientes de la resolución de problemas se relaciona directamente con la fase de comprensión del método de Pólya?",
+      "options": [
+        "La planificación, especialmente su primer bloque de análisis de la información disponible",
+        "La gestión de recursos, en su fase de comprensión y análisis del enunciado",
+        "La representación, en su aplicación durante la fase de comprensión del problema",
+        "La interpretación y valoración, en la comprobación de la coherencia del resultado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación se corresponde con la fase de comprender el problema de Pólya, especialmente su primer bloque (análisis de la información disponible) que implica determinar qué datos son necesarios y cuáles son las preguntas que guían la resolución."
+    },
+    {
+      "question": "¿Qué normativa establece las enseñanzas mínimas de la EP y en qué BOE fue publicada?",
+      "options": [
+        "Real Decreto 157/2022, de 1 de marzo, publicado en el BOE número 52, de 2 de marzo de 2022",
+        "Decreto 155/2022, de 15 de septiembre, publicado en el DOG número 183, de 26 de septiembre de 2022",
+        "Ley Orgánica 3/2020, de 29 de diciembre, publicada en el BOE número 340, de 30 de diciembre de 2020",
+        "Orden de 26 de mayo de 2023, publicada en el DOG número 111, de 13 de junio de 2023"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 157/2022, de 1 de marzo, establece la ordenación y las enseñanzas mínimas de la Educación Primaria a nivel estatal. Fue publicado en el BOE número 52, de 2 de marzo de 2022, páginas 24386 a 24504."
+    },
+    {
+      "question": "¿Qué afirma el Tema 21 sobre la enseñanza de las matemáticas en relación con las destrezas emocionales?",
+      "options": [
+        "La resolución de problemas y las destrezas emocionales son los ejes fundamentales del aprendizaje, siendo prioritaria su enseñanza frente a otros aspectos en tiempo y atención",
+        "Las destrezas emocionales son competencias del área de Educación en Valores que no corresponden al área de matemáticas",
+        "Las destrezas emocionales se trabajan exclusivamente en el Bloque 6 y no se integran en los demás bloques",
+        "Las destrezas emocionales solo se evalúan en el tercer ciclo cuando el alumnado ha desarrollado madurez suficiente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La resolución de problemas y las destrezas emocionales constituyen los ejes fundamentales del aprendizaje de las matemáticas, siendo prioritaria su enseñanza frente a otros aspectos en cuanto al tiempo y la atención que requerirá su abordaje."
+    },
+    {
+      "question": "¿Cuál es la relación entre las cuatro vertientes de la resolución de problemas y los métodos de resolución según el Tema 21?",
+      "options": [
+        "Las cuatro vertientes están interconectadas y vinculadas a los métodos de resolución y con las técnicas heurísticas de aprendizaje",
+        "Las cuatro vertientes son independientes entre sí y corresponden cada una a un método de resolución diferente",
+        "Las cuatro vertientes son exclusivas del modelo de Guzmán y no aparecen en los demás métodos",
+        "Las cuatro vertientes son una simplificación de las fases de Pólya y solo aplican a ese método"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La resolución de problemas integra cuatro vertientes interconectadas entre sí y vinculadas a los métodos de resolución (Pólya, Schoenfeld, Mason-Burton-Stacey y Guzmán) y con las técnicas heurísticas de aprendizaje."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre la 'gestión de recursos' en la fase de ejecución del plan es correcta?",
+      "options": [
+        "El alumno opera y aplica correctamente los instrumentos matemáticos, organizando los pasos y resultados",
+        "El alumno revisa el desarrollo completo del proceso y verifica la pertinencia del resultado",
+        "El alumno utiliza representaciones, dibujos y esquemas para concebir el plan de resolución",
+        "El alumno comunica y confronta ideas, habilidades asociadas a la comprensión y análisis del problema"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de ejecución del plan, la gestión de recursos implica que el alumno opera y aplica correctamente los instrumentos matemáticos, organizando los pasos y resultados. La revisión corresponde a la valoración; las representaciones, a la concepción del plan; y la comunicación de ideas, a la comprensión."
+    },
+    {
+      "question": "¿Qué implica el 'análisis de los procedimientos y resultados alternativos' dentro de la interpretación y valoración?",
+      "options": [
+        "Plantearse si el problema podría haberse resuelto de otra manera o si existen más soluciones posibles",
+        "Verificar si el resultado es lógico, compatible con el enunciado y coherente al sustituirlo",
+        "Reflexionar sobre los posibles atascos surgidos y las soluciones aplicadas para superarlos",
+        "Comprobar que cada paso del proceso seguido es matemáticamente correcto y justificado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El análisis de procedimientos y resultados alternativos consiste en plantearse si se podría haber resuelto de otra manera o si existen más soluciones, enriqueciendo el aprendizaje matemático y fomentando la flexibilidad del pensamiento."
+    },
+    {
+      "question": "¿Cuál es el tercer aspecto de la 'interpretación y valoración global de los resultados' según el Tema 21?",
+      "options": [
+        "El análisis de las dificultades, reflexionando sobre los posibles atascos o inconvenientes surgidos y las soluciones aplicadas para superarlos",
+        "La comprobación de la bondad de la respuesta y la coherencia de todo el proceso",
+        "El análisis de procedimientos y resultados alternativos para enriquecer el aprendizaje",
+        "La comunicación formal del proceso y resultado a los compañeros y al docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tercer aspecto de la interpretación y valoración global es el análisis de las dificultades, reflexionando sobre los posibles atascos o inconvenientes surgidos durante la resolución y las soluciones aplicadas para superarlos."
+    },
+    {
+      "question": "¿Cuál de las siguientes describe mejor la distinción entre 'orientaciones pedagógicas' y 'orientaciones metodológicas específicas' en el Tema 21?",
+      "options": [
+        "Las orientaciones pedagógicas son indicaciones generales del Decreto 155/2022 para el diseño docente; las metodológicas específicas son estrategias concretas para mejorar la resolución de problemas",
+        "Las orientaciones pedagógicas son exclusivas para matemáticas; las metodológicas son para todas las áreas del currículo",
+        "Las orientaciones pedagógicas son de aplicación en el tercer ciclo; las metodológicas en el primero",
+        "Las orientaciones pedagógicas son elaboradas por el docente; las metodológicas son prescritas por la normativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones pedagógicas están definidas en el artículo 6 del Decreto 155/2022 como indicaciones generales para orientar al profesorado en el diseño docente, mientras que las orientaciones metodológicas específicas son estrategias concretas para mejorar la resolución de problemas focalizándose en el proceso."
+    },
+    {
+      "question": "¿Cuál es el enfoque correcto sobre el proceso frente al resultado según las orientaciones metodológicas específicas?",
+      "options": [
+        "Se debe enfocar en el proceso más que en el resultado, fomentando la actitud positiva y enseñando herramientas heurísticas",
+        "Se debe enfocar en el resultado final para que el alumnado sepa si ha comprendido el problema",
+        "Se debe dar igual importancia al proceso y al resultado para una evaluación equilibrada del aprendizaje",
+        "Se debe enfocar en el resultado para que el alumnado pueda comprobar inmediatamente su acierto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones metodológicas específicas señalan que se debe proporcionar al alumnado estrategias y hábitos para mejorar en la resolución de problemas, enfocándose en el proceso más que en el resultado."
+    },
+    {
+      "question": "¿Qué características deben reunir las actividades de resolución de problemas según las orientaciones metodológicas del Tema 21?",
+      "options": [
+        "Deben practicar los pasos fundamentales de planificación, gestión de recursos, representación, interpretación y valoración de resultados",
+        "Deben centrarse exclusivamente en el cálculo correcto para que el alumnado adquiera precisión aritmética",
+        "Deben ser idénticas para todo el alumnado para garantizar la equidad en la evaluación de competencias",
+        "Deben requerir siempre trabajo individual para que el docente pueda valorar la autonomía real del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones metodológicas señalan que es clave fomentar una actitud positiva, enseñar herramientas heurísticas y practicar los pasos fundamentales de planificación, gestión de recursos, representación, interpretación y valoración de resultados."
+    },
+    {
+      "question": "¿Cuáles son los marcos normativos que fundamentan el Tema 21 sobre resolución de problemas en EP?",
+      "options": [
+        "La LOMLOE (LO 3/2020), el Real Decreto 157/2022 y el Decreto 155/2022 de la Comunidad Autónoma de Galicia",
+        "La LOE (LO 2/2006), el Real Decreto 126/2014 y el Decreto 374/1996 de la Xunta de Galicia",
+        "La LOMCE (LO 8/2013), el Real Decreto 1513/2006 y el Decreto 105/2014 de la Xunta de Galicia",
+        "La LOGSE (LO 1/1990), el Real Decreto 1006/1991 y la Resolución de 1992 de la Xunta de Galicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Tema 21 toma como base la LOMLOE (Ley Orgánica 3/2020), el Real Decreto 157/2022, de 1 de marzo, y el Decreto 155/2022, de 15 de septiembre, de la Comunidad Autónoma de Galicia, que constituyen el marco normativo vigente."
+    },
+    {
+      "question": "¿Qué tipo de recursos matemáticos incluye la 'gestión de recursos' en la resolución de problemas?",
+      "options": [
+        "El dominio de operaciones y símbolos matemáticos necesarios para ejecutar el proceso de resolución",
+        "El uso de calculadoras, tablas numéricas y herramientas digitales de apoyo al cálculo",
+        "El conocimiento de las fases de los métodos de resolución para aplicarlos correctamente",
+        "El manejo de materiales manipulativos como regletas, fichas o geoplanos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los recursos matemáticos en la gestión de recursos incluyen el dominio de operaciones y símbolos matemáticos necesarios para ejecutar correctamente el proceso de resolución del problema planteado."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre un problema de 'igualación' y uno de 'comparación' aditivos según el Tema 21?",
+      "options": [
+        "Los de igualación mezclan un problema de comparación y de cambio; los de comparación implican comparar dos conjuntos distintos sin modificación",
+        "Los de igualación tienen siempre una solución única; los de comparación permiten múltiples respuestas",
+        "Los de igualación se resuelven con suma; los de comparación se resuelven con resta",
+        "Los de igualación son para primer ciclo; los de comparación son más complejos y para tercer ciclo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas de comparación implican comparar dos conjuntos distintos, mientras que los de igualación mezclan elementos de comparación y de cambio, siendo más complejos al combinar ambas estructuras."
+    },
+    {
+      "question": "¿Por qué es importante introducir la resolución de problemas desde los primeros cursos según el Tema 21?",
+      "options": [
+        "Porque la autonomía se consolida al final de la EP y es necesario guiar al alumnado inicialmente, reduciendo progresivamente la intervención docente",
+        "Porque los problemas matemáticos son el contenido más difícil del currículo y requieren más tiempo de práctica",
+        "Porque la normativa exige que se trabajen todos los tipos de problemas en cada curso de la etapa",
+        "Porque el cálculo mecánico se automatiza antes si se combina desde el inicio con la resolución de problemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La autonomía en la resolución de problemas se consolida al final de la EP, por lo que es clave introducir a los alumnos desde los primeros cursos, guiándolos inicialmente para ir reduciendo progresivamente la intervención docente, así como proponer variedad de enunciados y métodos diversos."
+    },
+    {
+      "question": "¿Cuál es la implicación del 'proceso de aprendizaje guiado' en la enseñanza de la resolución de problemas según el Decreto 155/2022?",
+      "options": [
+        "La enseñanza debe seguir la secuencia vivencia-manipulación-representación-abstracción, fomentando la exploración en situaciones contextualizadas",
+        "El docente proporciona todos los pasos y el alumnado los ejecuta sin necesidad de reflexionar sobre el proceso",
+        "El aprendizaje es completamente autónomo y el alumnado construye su conocimiento sin guía docente",
+        "El docente diseña la tarea y la evalúa, sin intervenir durante el proceso de resolución del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tomando como referencia el proceso de aprendizaje guiado, la enseñanza debe seguir una secuencia de vivencia, manipulación, representación y abstracción, fomentando la exploración y la investigación en situaciones contextualizadas."
+    },
+    {
+      "question": "¿Qué afirma el Tema 21 sobre la resolución de problemas como 'eje vertebrador' de la enseñanza matemática?",
+      "options": [
+        "Se configura como el eje vertebrador de la enseñanza de las matemáticas en EP, tal y como reconoce el marco normativo vigente",
+        "Es solo uno de los seis bloques de contenido y no tiene mayor relevancia que los demás",
+        "Es el eje principal del tercer ciclo pero no así de los ciclos anteriores donde prima el cálculo",
+        "Fue el eje vertebrador hasta la LOE pero la LOMLOE lo ha sustituido por el pensamiento computacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del Tema 21 afirma que la resolución de problemas se configura como el eje vertebrador de la enseñanza de las matemáticas en EP, tal y como reconoce el marco normativo vigente (LOMLOE, Real Decreto 157/2022 y Decreto 155/2022)."
+    },
+    {
+      "question": "¿Cuál es la característica del proceso de resolución de problemas que resalta Schoenfeld frente a la concepción de Pólya?",
+      "options": [
+        "El proceso no es lineal sino que discurre por caminos en zig-zag con avances y retrocesos",
+        "El proceso es más corto porque elimina la fase de comprensión del problema",
+        "El proceso incluye una fase adicional de gestión emocional no contemplada por Pólya",
+        "El proceso es exclusivamente individual y no permite la colaboración entre alumnos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Schoenfeld defiende que el proceso de resolución no es lineal, sino que discurre por caminos en zig-zag con avances y retrocesos, en contraposición con la concepción lineal de Pólya."
+    },
+    {
+      "question": "¿Cuál de estas definiciones de 'problema matemático' coincide con la de Polya (1965) según el Tema 21?",
+      "options": [
+        "Una situación que plantea una dificultad que no puede resolverse de forma inmediata mediante procedimientos rutinarios, obligando a reflexionar y buscar estrategias",
+        "Un conjunto de operaciones aritméticas presentadas de forma contextualizada para practicar el cálculo",
+        "Una actividad didáctica que evalúa si el alumnado ha comprendido los contenidos del bloque temático",
+        "Una tarea que requiere la aplicación mecánica de un algoritmo aprendido previamente en clase"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Polya (1965) define problema matemático como una situación que plantea una dificultad que no puede resolverse de forma inmediata mediante procedimientos rutinarios, obligando al alumnado a reflexionar, buscar estrategias, tomar decisiones y aplicar conocimientos."
+    },
+    {
+      "question": "¿Qué implica la revisión del proceso en el modelo de Guzmán (1991) como cuarta fase?",
+      "options": [
+        "Reflexionar sobre la solución, los errores y el proceso seguido, tratando de entender por qué funcionó o no la estrategia aplicada",
+        "Verificar únicamente la corrección aritmética del resultado obtenido al final del proceso",
+        "Seleccionar la estrategia heurística más adecuada para comenzar a desarrollar el plan",
+        "Comprender la naturaleza del problema antes de comenzar a buscar la estrategia de resolución"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La cuarta fase de revisión del proceso en el modelo de Guzmán implica reflexionar sobre la solución, los errores y el proceso seguido, tratando de entender por qué funcionó o no la estrategia aplicada."
+    },
+    {
+      "question": "¿Qué tipo de resolución de problemas se trabaja en el segundo curso del primer ciclo respecto al primero?",
+      "options": [
+        "Se amplía la variedad de problemas y se fomenta la explicación oral del proceso en interpretación de datos, situación planteada, proceso seguido y justificación",
+        "Se introduce por primera vez la resolución de problemas básicos de la vida cotidiana",
+        "Se introduce la planificación del proceso y la representación gráfica mediante dibujos y tablas",
+        "Se aplica el proceso de resolución en distintos contextos con razonamiento matemático propio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo curso del primer ciclo, al poseer mayor competencia lingüística y matemática que en el primero, se amplía la variedad de problemas y se fomenta la explicación oral del proceso de resolución en la interpretación de datos, la situación planteada, el proceso seguido y la justificación de la solución."
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones describe el propósito educativo de los problemas de 'razonamiento lógico' en el último ciclo de la EP?",
+      "options": [
+        "Evolucionan del cálculo simple al análisis y gestión de datos, fortaleciendo progresivamente el pensamiento matemático mediante sistemas de representación múltiples",
+        "Se centran en la aplicación de algoritmos de cálculo complejo para preparar el acceso a la ESO",
+        "Sustituyen los problemas aditivos y multiplicativos del primer y segundo ciclo",
+        "Se trabajan exclusivamente de forma individual para evaluar el razonamiento autónomo del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el último ciclo los problemas se vuelven más complejos, evolucionando del cálculo simple al análisis y gestión de datos, lo que fortalece progresivamente el pensamiento matemático. Se abordan en grupos manejando sistemas de representación físicos, verbales, visuales, geométricos y numéricos."
+    },
+    {
+      "question": "¿Cuál es el enfoque central que diferencia las orientaciones metodológicas específicas de las orientaciones pedagógicas generales en el Tema 21?",
+      "options": [
+        "Las orientaciones metodológicas específicas se centran en proporcionar estrategias y hábitos para mejorar en la resolución de problemas, focalizándose en el proceso más que en el resultado",
+        "Las orientaciones metodológicas específicas regulan la organización del tiempo y los agrupamientos del aula",
+        "Las orientaciones metodológicas específicas determinan los criterios de evaluación de la resolución de problemas",
+        "Las orientaciones metodológicas específicas establecen los contenidos mínimos por ciclos y cursos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones metodológicas específicas se centran en proporcionar al alumnado estrategias y hábitos para mejorar en la resolución de problemas, con un enfoque en el proceso más que en el resultado, fomentando actitud positiva, herramientas heurísticas y práctica de las cuatro vertientes."
+    },
+    {
+      "question": "¿Cuál es la relación entre la competencia matemática y la resolución de problemas según la introducción del Tema 21?",
+      "options": [
+        "La resolución de problemas constituye el eje central del aprendizaje matemático y una base sólida para el desarrollo de competencias",
+        "La competencia matemática se adquiere principalmente a través del dominio de los algoritmos de cálculo",
+        "La resolución de problemas es una de las seis competencias específicas del área de matemáticas",
+        "La competencia matemática se evalúa mediante pruebas de resolución de problemas al final de cada ciclo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La resolución de problemas constituye el eje central del aprendizaje matemático y una base sólida para el desarrollo de competencias, tal y como se recoge en el currículo académico vigente basado en la LOMLOE."
+    },
+    {
+      "question": "¿Qué aspecto caracteriza a los problemas 'funcionales' según las orientaciones metodológicas específicas del Tema 21?",
+      "options": [
+        "Se relacionan con el entorno del alumnado y despiertan su interés al conectar con situaciones reales o próximas a su vida",
+        "Son problemas que trabajan la función matemática como relación entre conjuntos numéricos",
+        "Son problemas algorítmicos que desarrollan el pensamiento computacional y la programación",
+        "Son problemas que incluyen exclusivamente funciones lineales y proporcionalidad directa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas funcionales son aquellos que tienen significado para el alumnado, se relacionan con el entorno y despiertan su interés. El término 'funcional' aquí no se refiere a funciones matemáticas sino a la utilidad práctica del problema para el alumnado."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los problemas de 'razón' y los de 'comparación' dentro de los problemas de multiplicación y división según Peled y Nesher?",
+      "options": [
+        "Los de razón tienen proporción simple y directa entre cantidades; los de comparación presentan dos colecciones donde la mayor contiene un número exacto de veces a la menor",
+        "Los de razón implican composición cartesiana; los de comparación tienen proporción simple entre cantidades",
+        "Los de razón usan multiplicación; los de comparación usan exclusivamente división partitiva",
+        "Los de razón son más simples y adecuados para el segundo ciclo; los de comparación para el tercero"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En los problemas de razón existe una proporción simple y directa entre las cantidades; en los de comparación, dos colecciones donde la mayor contiene un número exacto de veces a la menor. Los de productos cartesianos implican composición cartesiana de dos colecciones."
+    },
+    {
+      "question": "¿Qué papel tiene el juego en la resolución de problemas matemáticos según Alsina (2004)?",
+      "options": [
+        "Permite resolver simbólicamente problemas poniendo en práctica distintos procesos mentales, con gran acogida entre los niños por ser motivador y formar parte de su vida real",
+        "Sustituye completamente las actividades de resolución de problemas formales en los primeros cursos",
+        "Se reserva como actividad de refuerzo para el alumnado con dificultades en el aprendizaje matemático",
+        "Se emplea exclusivamente en el primer ciclo y se va eliminando progresivamente en los ciclos superiores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alsina (2004) destaca el juego en matemáticas porque permite resolver simbólicamente problemas y pone en práctica distintos procesos mentales, con gran acogida entre los niños al formar parte de su vida real, siendo motivador, integrando conocimientos, respetando la diversidad y favoreciendo la socialización."
+    },
+    {
+      "question": "¿Qué propone el Tema 21 para guiar el proceso de resolución desde los primeros cursos?",
+      "options": [
+        "Guiar inicialmente al alumnado y reducir progresivamente la intervención docente, proponiendo variedad de enunciados y métodos sin caer en la monotonía",
+        "Proporcionar siempre la estrategia a seguir para que el alumnado pueda centrarse en el cálculo correcto",
+        "Trabajar un único método de resolución hasta que el alumnado lo domine completamente",
+        "Evitar la variedad de tipos de problemas en los primeros cursos para no generar confusión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Tema 21 propone guiar inicialmente al alumnado para ir reduciendo progresivamente la intervención docente, así como proponer variedad de enunciados matemáticos y métodos de resolución diversos sin caer en la monotonía."
+    },
+    {
+      "question": "¿Cuál es el propósito educativo de la actividad 'análisis y reflexión del proceso de resolución' en el Tema 21?",
+      "options": [
+        "Hacer que el alumnado describa oral y después escritamente el proceso seguido durante la resolución, desarrollando la metacognición",
+        "Proporcionar datos incoherentes para que el alumnado identifique los errores y reformule el problema",
+        "Eliminar datos inútiles del enunciado para que el alumnado pueda centrarse en la información relevante",
+        "Invitar al alumnado a situarse en contextos reales distintos a los habituales mediante representaciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La actividad de análisis y reflexión del proceso de resolución implica hacer una descripción oral y después escrita del proceso seguido mientras se resuelve el problema, desarrollando la metacognición y la conciencia sobre el propio proceso de aprendizaje matemático."
+    },
+    {
+      "question": "¿Cuál es la relación entre los seis bloques de matemáticas y los procesos matemáticos según el Decreto 155/2022?",
+      "options": [
+        "Los sentidos matemáticos de los seis bloques deben trabajarse junto a los cinco procesos matemáticos de manera integrada",
+        "Los seis bloques contienen los procesos matemáticos y no existe distinción entre ambos elementos curriculares",
+        "Los procesos matemáticos son complementarios a los bloques y se trabajan al final de cada unidad didáctica",
+        "Los cinco procesos matemáticos reemplazan a los seis bloques en el tercer ciclo para mayor eficiencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los sentidos matemáticos de los seis bloques deben trabajarse junto a los cinco procesos matemáticos de manera integrada. Siendo la resolución de problemas y el desarrollo de destrezas emocionales los ejes fundamentales de la actividad matemática, se abordan de manera transversal en toda el área."
+    },
+    {
+      "question": "¿Cuál es el argumento del Tema 21 para justificar que la resolución de problemas debe ocupar un lugar central en la enseñanza de las matemáticas?",
+      "options": [
+        "Porque las matemáticas están presentes en cualquier actividad humana, son esenciales para comprender la realidad y la resolución de problemas activa destrezas clave de razonamiento, planificación y comunicación",
+        "Porque es el único tipo de contenido que aparece en todos los ciclos de la Educación Primaria de forma obligatoria",
+        "Porque los resultados en pruebas internacionales demuestran que los países con mejores resultados priorizan la resolución",
+        "Porque la normativa vigente lo exige explícitamente como contenido mínimo obligatorio en el BOE"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Tema 21 justifica la centralidad de la resolución de problemas porque las matemáticas están presentes en cualquier actividad humana y son esenciales para comprender la realidad, y porque la resolución de problemas activa destrezas clave: razonamiento, elaboración y ejecución de un plan, revisión, adaptación de estrategias, pensamiento computacional, representación y comunicación."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre un 'enfoque activo' y un 'enfoque rígido basado en la práctica mecánica' en la enseñanza de la resolución de problemas?",
+      "options": [
+        "El enfoque activo vincula los problemas a contextos reales y fomenta la creatividad y la reflexión; el rígido repite mecánicamente procedimientos sin comprensión ni transferencia",
+        "El enfoque activo es exclusivo del tercer ciclo; el rígido es más adecuado para el primer ciclo",
+        "El enfoque activo requiere más tiempo y recursos; el rígido es más eficiente para cubrir el currículo",
+        "El enfoque activo lo diseña el alumnado; el rígido lo diseña el docente siguiendo el libro de texto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 promueve enfoques funcionales y activos vinculados a contextos reales, mientras que el Tema 21 advierte que el profesorado debe evitar enfoques rígidos basados exclusivamente en la práctica mecánica, que no desarrollan comprensión ni capacidad de transferencia."
+    },
+    {
+      "question": "¿Cuántos métodos de resolución de problemas se presentan en el Tema 21 y cuál es el orden cronológico de su publicación?",
+      "options": [
+        "Cuatro métodos: Pólya (1945), Schoenfeld (1985), Mason-Burton-Stacey (1998) y Guzmán (1991)",
+        "Tres métodos: Pólya (1965), Schoenfeld (1985) y Guzmán (1991), de menor a mayor complejidad",
+        "Cuatro métodos: Schoenfeld (1985), Pólya (1945), Guzmán (1991) y Mason-Burton-Stacey (1998)",
+        "Dos métodos principales: Pólya (1945) y Guzmán (1991), complementados por referencias secundarias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Tema 21 presenta cuatro métodos: Pólya (1945), Schoenfeld (1985), Mason-Burton-Stacey (1998) y Guzmán (1991). En orden cronológico: Pólya 1945, Schoenfeld 1985, Guzmán 1991 y Mason-Burton-Stacey 1998."
+    },
+    {
+      "question": "¿Cuál de los siguientes autores NO es mencionado en la bibliografía del Tema 21?",
+      "options": [
+        "Freudenthal",
+        "Alsina",
+        "Polya",
+        "Chamorro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Freudenthal no aparece en la bibliografía del Tema 21. Los autores citados incluyen Alsina (2004), Chamorro (2003), Godino et al. (2004), Mariño y Hernández (2021), Pólya (1965), Rico y Flores (2015), Carpenter y Monser (1983), Peled y Nesher (1996), Kilpatrick (1987), Labarre (1991), Mason-Burton-Stacey (1998), Schoenfeld (1985) y Guzmán (1991)."
+    },
+    {
+      "question": "¿Cuántos artículos del Decreto 155/2022 se mencionan explícitamente en el Tema 21?",
+      "options": [
+        "Tres: artículo 4 (finalidad de la EP), artículo 6 (orientaciones pedagógicas) y artículo 7 (objetivos de etapa), más el artículo 16 (principios pedagógicos)",
+        "Dos: artículo 7 (objetivos de etapa) y artículo 9 del Anexo II (área de matemáticas)",
+        "Uno: el artículo 4 que recoge la finalidad de la Educación Primaria en Galicia",
+        "Cinco: artículos 4, 6, 7, 9 y 16, más el Anexo II completo del Decreto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Tema 21 menciona explícitamente el artículo 4 (finalidad de la EP), el artículo 6 (orientaciones pedagógicas), el artículo 7 (objetivo 'g' de etapa) y el artículo 16 (principios pedagógicos) del Decreto 155/2022, además del epígrafe 9 del Anexo II."
+    },
+    {
+      "question": "¿Cuáles son los cuatro bloques en que se desglosa la 'planificación' en la resolución de problemas y cuál es el segundo?",
+      "options": [
+        "El segundo bloque es la organización de la información disponible mediante esquemas y diagramas que reflejen datos e incógnitas",
+        "El segundo bloque es la exploración con técnicas de Schoenfeld, examinando casos particulares",
+        "El segundo bloque es el análisis de la información disponible para determinar qué datos son necesarios",
+        "El segundo bloque es concebir y estructurar un plan de resolución probando estrategias heurísticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cuatro bloques de la planificación son: 1) Análisis de la información disponible; 2) Organización de la información disponible mediante esquemas y diagramas que reflejen datos e incógnitas; 3) Exploración con técnicas de Schoenfeld; 4) Concebir y estructurar un plan de resolución."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la fase de 'comprobación' en Schoenfeld y la fase de 'examinar la solución' en Pólya?",
+      "options": [
+        "Ambas verifican los resultados obtenidos, pero Schoenfeld la incluye en un proceso no lineal en zig-zag mientras que Pólya la sitúa al final de un proceso lineal secuencial",
+        "Schoenfeld verifica únicamente la corrección aritmética; Pólya verifica además la coherencia con el contexto",
+        "Pólya comprueba la posibilidad de estrategias alternativas; Schoenfeld solo verifica la solución final",
+        "En Schoenfeld la comprobación es opcional; en Pólya es obligatoria como cuarta fase"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambas fases verifican los resultados obtenidos, pero la diferencia fundamental reside en que Schoenfeld sitúa esta comprobación dentro de un proceso no lineal en zig-zag, mientras que Pólya la ubica como cuarta fase final de un proceso lineal secuencial."
+    },
+    {
+      "question": "¿Cuál es el propósito del 'monitor interno' en el método de Mason, Burton y Stacey (1998)?",
+      "options": [
+        "Regular los aspectos personales y técnicos durante la resolución, siendo un mecanismo que puede fortalecerse mediante el análisis posterior del proceso",
+        "Proporcionar pistas externas que orienten al alumnado hacia la estrategia correcta durante la resolución",
+        "Evaluar cuantitativamente el resultado obtenido para determinar si la solución es correcta",
+        "Supervisar el tiempo empleado en cada fase para garantizar que el proceso no se alarga en exceso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El monitor interno es un mecanismo que regula los aspectos personales (emocionales, motivacionales) y técnicos (estratégicos, procedimentales) durante la resolución, y puede fortalecerse mediante el análisis posterior del proceso."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un tipo de problema aditivo y sustractivo según la clasificación de Carpenter y Monser (1983)?",
+      "options": [
+        "Problema de razón",
+        "Problema de cambio",
+        "Problema de combinación",
+        "Problema de igualación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El problema de razón corresponde a la clasificación de problemas de multiplicación y división (Peled y Nesher, 1996), no a los problemas aditivos y sustractivos. Los tipos aditivos son: cambio, combinación, comparación e igualación."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un tipo de problema de multiplicación y división según Peled y Nesher (1996)?",
+      "options": [
+        "Problema de igualación",
+        "Problema de razón",
+        "Problema de comparación",
+        "Problema de productos cartesianos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El problema de igualación corresponde a la clasificación de Carpenter y Monser (1983) para los problemas aditivos y sustractivos, no a los de multiplicación y división. Los tipos multiplicativos son: razón, comparación y productos cartesianos."
+    },
+    {
+      "question": "¿Cuál es la función de la 'organización de la información disponible' como segundo bloque de la planificación?",
+      "options": [
+        "Crear esquemas y diagramas que reflejen los datos e incógnitas del problema para facilitar su manipulación",
+        "Determinar qué datos son necesarios, cuáles son superfluos y si falta algún dato en el enunciado",
+        "Examinar casos particulares y problemas equivalentes o modificados con las técnicas de Schoenfeld",
+        "Razonar con la información disponible para adelantar posibles resultados y probar estrategias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El segundo bloque de la planificación, organización de la información disponible, implica crear esquemas y diagramas que reflejen datos e incógnitas del problema. El primer bloque determina qué datos son necesarios; el tercero examina casos particulares; el cuarto concibe el plan."
+    },
+    {
+      "question": "¿Cuál es el vínculo entre la finalidad de la EP en el Decreto 155/2022 y las matemáticas?",
+      "options": [
+        "La EP debe facilitar los aprendizajes del cálculo y las habilidades lógicas y matemáticas para garantizar una formación integral y preparar para la ESO",
+        "La EP debe priorizar la competencia lingüística como base para comprender los enunciados matemáticos",
+        "La EP debe garantizar el dominio de las cuatro operaciones aritméticas como competencia mínima obligatoria",
+        "La EP debe desarrollar el pensamiento computacional como competencia matemática fundamental del siglo XXI"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 4 del Decreto 155/2022 establece que la finalidad de la EP es facilitar al alumnado los aprendizajes del cálculo y las habilidades lógicas y matemáticas para garantizar una formación integral que contribuya al pleno desarrollo de su personalidad y prepararlo para cursar con aprovechamiento la ESO."
+    },
+    {
+      "question": "¿Cuáles son los tres tipos de recursos que el alumnado gestiona durante todo el proceso de resolución de problemas?",
+      "options": [
+        "Recursos lingüísticos, matemáticos y estratégicos o heurísticos",
+        "Recursos materiales, digitales y humanos disponibles en el aula",
+        "Recursos cognitivos, emocionales y procedimentales del proceso",
+        "Recursos conceptuales, algorítmicos y evaluativos de la resolución"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los recursos que el alumnado gestiona durante todo el proceso de resolución son: lingüísticos (comprensión gramatical, semántica y estructura del texto), matemáticos (dominio de operaciones y símbolos) y estratégicos o heurísticos (uso de analogías, comprobaciones o problemas similares)."
+    },
+    {
+      "question": "¿Qué describe la frase 'la resolución de problemas no es seguir un procedimiento mecánico' en la conclusión del Tema 21?",
+      "options": [
+        "Implica aplicar conceptos y actitudes aprendidos a situaciones reales, poniendo en juego métodos con una estructura común compartida",
+        "Implica que no existe un método fijo y cada alumnado debe desarrollar su propio enfoque de resolución",
+        "Implica que el cálculo mecánico debe eliminarse del currículo y sustituirse por el razonamiento puro",
+        "Implica que el resultado no importa sino únicamente el proceso reflexivo que lleva a él"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del Tema 21 afirma que resolver problemas no es seguir un procedimiento mecánico, sino aplicar los conceptos y actitudes aprendidos a situaciones reales del entorno, poniendo en juego métodos que comparten una estructura común: comprender, planificar, ejecutar y valorar."
+    },
+    {
+      "question": "¿En qué consiste el 'análisis de las dificultades' como tercer aspecto de la interpretación y valoración de resultados?",
+      "options": [
+        "Reflexionar sobre los posibles atascos o inconvenientes surgidos durante la resolución y las soluciones aplicadas para superarlos",
+        "Verificar si el resultado es lógico, compatible con el enunciado y coherente al sustituirlo",
+        "Plantearse si el problema podría haberse resuelto de otra manera o si existen más soluciones",
+        "Comunicar formalmente el proceso seguido y el resultado obtenido a los demás compañeros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El análisis de las dificultades consiste en reflexionar sobre los posibles atascos o inconvenientes surgidos durante la resolución y las soluciones que se aplicaron para superarlos, fomentando el aprendizaje de los errores."
+    },
+    {
+      "question": "¿Cuál es la estructura común que comparten todos los métodos de resolución de problemas según la conclusión del Tema 21?",
+      "options": [
+        "Comprender el problema, planificar un plan, ejecutarlo y valorar el resultado",
+        "Analizar, explorar, ejecutar y comprobar la solución del problema planteado",
+        "Familiarizarse, buscar estrategias, desarrollarlas y revisar el proceso seguido",
+        "Abordar el problema, atacar mediante conjeturas, justificar y revisar lo anterior"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del Tema 21 afirma que los métodos de Pólya, Schoenfeld, Mason y Guzmán comparten una estructura común: comprender el problema, planificar un plan, ejecutarlo y valorar el resultado, variando en su concepción de la linealidad o no del proceso."
+    },
+    {
+      "question": "¿Qué implica la 'representación' en la fase de ejecución dentro de las cuatro vertientes de la resolución de problemas?",
+      "options": [
+        "Realizar y escribir cálculos y relaciones, estructurando pasos y resultados de forma ordenada",
+        "Emplear esquemas, diagramas y dibujos organizando los pasos a seguir con notación adecuada",
+        "Trabajar la lectura comprensiva y la representación mediante esquemas, palabras o símbolos",
+        "Repasar los pasos con las soluciones encontradas y reflexionar sobre el proceso seguido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la fase de ejecución, la representación implica realizar y escribir cálculos y relaciones, estructurando pasos y resultados de forma ordenada. En planificación se usan esquemas y diagramas; en comprensión, lectura comprensiva; y en valoración, repaso de pasos y alternativas."
+    },
+    {
+      "question": "¿Cuáles son los recursos asociados a la 'comprensión y análisis' dentro de la gestión de recursos en la resolución de problemas?",
+      "options": [
+        "La habilidad para comunicar y confrontar ideas matemáticas",
+        "Las representaciones, dibujos, esquemas y la elección de operaciones adecuadas",
+        "La aplicación correcta de instrumentos y la organización de pasos y resultados",
+        "La revisión del desarrollo completo y la verificación de la pertinencia del resultado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los recursos asociados a la comprensión y análisis son la habilidad para comunicar y confrontar ideas matemáticas. Las representaciones y operaciones corresponden a la concepción del plan; la aplicación de instrumentos, a la ejecución; y la revisión, a la valoración del proceso."
+    },
+    {
+      "question": "¿Cuál es el objetivo específico del área de matemáticas más directamente vinculado con la resolución de problemas según el Decreto 155/2022?",
+      "options": [
+        "OBJ2: Resolver situaciones problematizadas, aplicando diferentes técnicas, estrategias y formas de razonamiento, para obtener soluciones y comprobar su validez en relación con el contexto",
+        "OBJ1: Comprender y comunicar textos matemáticos aplicando las convenciones del lenguaje matemático",
+        "OBJ3: Identificar y utilizar relaciones matemáticas en situaciones geométricas del entorno",
+        "OBJ4: Desarrollar el pensamiento computacional mediante algoritmos y la resolución de problemas digitales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ2 del área de matemáticas en el Decreto 155/2022 es el más directamente vinculado con la resolución de problemas: Resolver situaciones problematizadas, aplicando diferentes técnicas, estrategias y formas de razonamiento, para obtener soluciones y comprobar su validez en relación con el contexto."
+    },
+    {
+      "question": "¿Cuál es la definición del área de matemáticas que recoge el Decreto 155/2022 respecto a la resolución de problemas como actividad cotidiana?",
+      "options": [
+        "Se concibe como una actividad cotidiana que activa procesos como el razonamiento, el pensamiento computacional y la comunicación matemática, ofreciendo un contexto donde el alumnado experimenta, crea y contrasta ideas",
+        "Se concibe como la aplicación mecánica de algoritmos a situaciones cotidianas para desarrollar la automatización del cálculo",
+        "Se concibe como la verificación de la corrección de los procedimientos matemáticos aprendidos en clase",
+        "Se concibe como la evaluación sumativa del dominio de los contenidos matemáticos del currículo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La resolución de problemas se concibe en el Decreto 155/2022 como una actividad cotidiana que activa procesos como el razonamiento, el pensamiento computacional y la comunicación matemática. En el aula ofrece un contexto donde el alumnado experimenta, crea y contrasta ideas, aplicando destrezas de comprensión, identificación de datos y expresión de soluciones."
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones describe correctamente la 'exploración' en el método de Schoenfeld respecto a la 'exploración' en la planificación del Tema 21?",
+      "options": [
+        "La exploración de Schoenfeld examina problemas equivalentes o modificados; la exploración en la planificación del Tema 21 aplica precisamente estas técnicas de Schoenfeld como tercer bloque de la planificación",
+        "Son conceptos independientes sin relación entre sí dentro del proceso de resolución de problemas",
+        "La exploración de Schoenfeld es posterior a la ejecución; la de la planificación es anterior a la comprensión",
+        "La exploración de Schoenfeld es una fase exclusiva de la resolución de problemas algebraicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La exploración de Schoenfeld (fase de su método) consiste en examinar problemas equivalentes o modificados; el tercer bloque de la planificación en el Tema 21 aplica precisamente estas técnicas de Schoenfeld como herramienta dentro del proceso de planificación."
+    },
+    {
+      "question": "¿Cuál de los seis bloques del área de matemáticas en el Decreto 155/2022 corresponde al 'Sentido Numérico'?",
+      "options": [
+        "Bloque 1",
+        "Bloque 2",
+        "Bloque 3",
+        "Bloque 6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 1 es el Sentido Numérico. Los seis bloques son: 1 Numérico, 2 Medida, 3 Espacial, 4 Algébrico y Pensamiento Computacional, 5 Estocástico y 6 Socioemocional."
+    },
+    {
+      "question": "¿Cuál es el bloque del área de matemáticas en el Decreto 155/2022 que trabaja el 'Sentido de la Medida'?",
+      "options": [
+        "Bloque 2",
+        "Bloque 1",
+        "Bloque 3",
+        "Bloque 4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 2 es el Sentido de la Medida. Los seis bloques son: 1 Numérico, 2 Medida, 3 Espacial, 4 Algébrico y Pensamiento Computacional, 5 Estocástico y 6 Socioemocional."
+    },
+    {
+      "question": "¿Cuál es el bloque del área de matemáticas en el Decreto 155/2022 que corresponde al 'Sentido Espacial'?",
+      "options": [
+        "Bloque 3",
+        "Bloque 2",
+        "Bloque 4",
+        "Bloque 5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 3 es el Sentido Espacial. Los seis bloques son: 1 Numérico, 2 Medida, 3 Espacial, 4 Algébrico y Pensamiento Computacional, 5 Estocástico y 6 Socioemocional."
+    },
+    {
+      "question": "¿En qué consiste la 'variedad de enunciados matemáticos' que el Tema 21 propone para evitar la monotonía en la resolución de problemas?",
+      "options": [
+        "Proponer diversidad de tipos de problemas y métodos de resolución para que el alumnado desarrolle flexibilidad de pensamiento",
+        "Presentar el mismo tipo de problema con diferentes números para que el alumnado practique el cálculo",
+        "Utilizar exclusivamente problemas de la vida cotidiana para garantizar la motivación del alumnado",
+        "Emplear siempre problemas de los tres tipos (aditivos, multiplicativos y lógico-matemáticos) en cada sesión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La propuesta de variedad implica proponer diferentes tipos de problemas y métodos de resolución para que el alumnado desarrolle flexibilidad de pensamiento y no caiga en la monotonía de un único tipo o enfoque."
+    },
+    {
+      "question": "¿Qué relación establece el Tema 21 entre las matemáticas y la vida cotidiana del alumnado?",
+      "options": [
+        "Las matemáticas están presentes en cualquier actividad humana y son esenciales para comprender la realidad y resolver situaciones de la vida cotidiana",
+        "Las matemáticas son una disciplina teórica y su conexión con la vida cotidiana es un recurso didáctico opcional",
+        "Las matemáticas se aplican a la vida cotidiana solo en el tercer ciclo cuando el alumnado tiene madurez suficiente",
+        "Las matemáticas de la vida cotidiana son más sencillas que las matemáticas escolares y deben abordarse antes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La introducción del Tema 21 establece que las matemáticas están presentes en cualquier actividad humana y resultan esenciales para comprender la realidad y resolver situaciones de la vida cotidiana, justificando así la centralidad de la resolución de problemas en la EP."
+    },
+    {
+      "question": "¿Cuántas autoinstrucciones se mencionan explícitamente en el Tema 21 como ejemplos?",
+      "options": [
+        "Dos: '¿Qué pide el problema?' y '¿Qué datos son importantes y cuáles se pueden desechar?'",
+        "Cuatro: lectura, identificación de datos, selección de operaciones y comprobación del resultado",
+        "Una sola pregunta guiada que resume el proceso completo de resolución",
+        "Tres: comprensión del enunciado, selección de la estrategia y verificación de la coherencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Tema 21 menciona explícitamente dos ejemplos de autoinstrucciones: '¿qué pide el problema?' y '¿qué datos son importantes y cuáles se pueden desechar?', que sirven para interiorizar y guiar los procedimientos de resolución."
+    },
+    {
+      "question": "¿Cuál es el propósito principal de las orientaciones pedagógicas en relación con el profesorado según el artículo 6 del Decreto 155/2022?",
+      "options": [
+        "Orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes para favorecer el aprendizaje del alumnado",
+        "Prescribir los contenidos mínimos que el profesorado debe impartir en cada ciclo de la etapa",
+        "Establecer los criterios de evaluación y los estándares de aprendizaje evaluables por nivel",
+        "Regular la formación permanente del profesorado en metodologías de resolución de problemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las orientaciones pedagógicas, según el artículo 6 del Decreto 155/2022, son indicaciones para orientar al profesorado en el diseño y planificación de estrategias, procedimientos y acciones docentes con la finalidad de favorecer el aprendizaje del alumnado para lograr los objetivos y adquirir las CC."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre 'problemas matemáticos' y 'ejercicios matemáticos' que distingue el tercer ciclo según el Tema 21?",
+      "options": [
+        "Los problemas no pueden resolverse mediante procedimientos rutinarios y exigen reflexión y estrategia; los ejercicios aplican mecánicamente procedimientos ya conocidos",
+        "Los problemas son más largos y tienen más datos que los ejercicios, que son preguntas cortas",
+        "Los problemas se resuelven en grupo y los ejercicios de forma individual",
+        "Los problemas incluyen lenguaje verbal y los ejercicios solo incluyen expresiones numéricas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Siguiendo la definición de Polya (1965), los problemas son situaciones que no pueden resolverse mediante procedimientos rutinarios y exigen reflexión, estrategia y toma de decisiones; los ejercicios, en cambio, aplican mecánicamente un procedimiento o algoritmo ya conocido."
+    },
+    {
+      "question": "¿Qué aspecto de la enseñanza matemática destaca el Tema 21 al mencionar la 'variedad de enunciados y problemas' en las orientaciones metodológicas?",
+      "options": [
+        "Evitar la monotonía y desarrollar la flexibilidad del alumnado ante diferentes tipos y contextos de problemas",
+        "Garantizar que el alumnado domine todos los tipos de problemas antes de pasar al siguiente ciclo",
+        "Asegurar que cada alumno trabaje un tipo diferente de problema en cada sesión de matemáticas",
+        "Cumplir con el requisito normativo de abordar todos los tipos de problemas en la programación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La propuesta de variedad de enunciados y métodos tiene como objetivo evitar la monotonía y desarrollar en el alumnado la flexibilidad ante diferentes tipos y contextos de problemas, evitando caer en la rutina de un único enfoque."
+    },
+    {
+      "question": "¿Qué implica el 'análisis de las dificultades' que los centros educativos deben hacer para mejorar la competencia en resolución de problemas?",
+      "options": [
+        "Analizar las dificultades del alumnado y buscar estrategias para superarlas como medida de mejora del centro",
+        "Reducir la dificultad de los problemas propuestos para que el alumnado experimente mayor éxito",
+        "Seleccionar al alumnado con dificultades para participar en talleres específicos de resolución",
+        "Sustituir los problemas difíciles por ejercicios mecánicos hasta que el alumnado mejore su nivel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una de las medidas que los centros pueden adoptar para mejorar la competencia en resolución de problemas es analizar las dificultades del alumnado y buscar estrategias para superarlas, lo que permite ajustar la enseñanza a las necesidades reales."
+    },
+    {
+      "question": "¿Cuál es el propósito de 'incluir talleres de resolución o integrar problemas en la dinámica de clase' según el Tema 21?",
+      "options": [
+        "Mejorar la competencia en resolución de problemas como una de las medidas que los centros pueden adoptar a nivel de etapa",
+        "Sustituir las sesiones de cálculo por actividades más motivadoras de resolución de problemas",
+        "Evaluar de forma continua la resolución de problemas para obtener datos de progreso del alumnado",
+        "Desarrollar exclusivamente los problemas de razonamiento lógico mediante actividades especializadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Incluir talleres de resolución o integrar problemas en la dinámica de clase es una de las medidas que los centros pueden adoptar para mejorar la competencia en resolución de problemas a lo largo de toda la etapa."
+    },
+    {
+      "question": "¿Qué papel tienen la 'clasificación de problemas' y los 'métodos de resolución' en la práctica docente según la conclusión del Tema 21?",
+      "options": [
+        "Ofrecen al profesorado un marco sólido para diversificar los planteamientos en el aula",
+        "Son conocimientos teóricos que el profesorado debe conocer pero no necesariamente aplicar",
+        "Son contenidos que el alumnado debe memorizar y aplicar de forma autónoma al final de la etapa",
+        "Son herramientas de evaluación que permiten clasificar el nivel del alumnado en resolución"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del Tema 21 señala que la clasificación de los tipos de problemas abordada en el tema, junto con los métodos de resolución, ofrece al profesorado un marco sólido para diversificar los planteamientos en el aula."
+    },
+    {
+      "question": "¿Qué aspecto de la intervención educativa resulta imprescindible para superar las dificultades de la resolución de problemas según el Tema 21?",
+      "options": [
+        "Motivar al alumnado proponiendo problemas reales de situaciones de la vida cotidiana y del entorno",
+        "Simplificar los enunciados para que el alumnado pueda identificar las operaciones de forma directa",
+        "Reducir el número de tipos de problemas trabajados para concentrar la práctica en los más frecuentes",
+        "Evaluar con mayor frecuencia para que el alumnado sea consciente de sus errores y los corrija"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para solventar las dificultades en la resolución de problemas, resulta imprescindible motivar al alumnado proponiendo problemas reales de situaciones de la vida cotidiana y del entorno, trabajar con varios tipos de problemas y buscar la automatización del modelo mediante razonamiento analógico."
+    },
+    {
+      "question": "¿Qué aspectos debe atender el docente según la conclusión del Tema 21 para que el alumnado desarrolle competencia en resolución de problemas?",
+      "options": [
+        "Acompañar los métodos con estrategias de intervención que sitúen al alumnado en el centro del aprendizaje, atendiendo las cuatro vertientes y fomentando autonomía y pensamiento crítico",
+        "Garantizar que el alumnado memorice los pasos de cada método de resolución para aplicarlos correctamente",
+        "Centrar la enseñanza en el resultado correcto para que el alumnado desarrolle confianza en sus capacidades",
+        "Proporcionar siempre la estrategia adecuada para evitar que el alumnado cometa errores frustrantes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del Tema 21 señala que conocer los métodos no es suficiente: el docente debe acompañarlos de estrategias de intervención que sitúen al alumnado en el centro del aprendizaje, atendiendo las cuatro vertientes (planificación, gestión, representación y valoración) y fomentando autonomía y pensamiento crítico."
+    },
+    {
+      "question": "¿Cuál es el fin último de la enseñanza de la resolución de problemas según la conclusión del Tema 21?",
+      "options": [
+        "Que el alumnado desarrolle confianza en sus propias habilidades, valore la funcionalidad de las matemáticas y adquiera la competencia STEM para afrontar los retos del siglo XXI",
+        "Que el alumnado supere con éxito las pruebas de evaluación externa y mejore los resultados en PISA",
+        "Que el alumnado domine todos los tipos de problemas y métodos de resolución antes de acceder a la ESO",
+        "Que el alumnado alcance la automatización completa de los procedimientos algorítmicos matemáticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del Tema 21 establece que la enseñanza de la resolución de problemas debe lograr que el alumnado desarrolle confianza en sus propias habilidades, valore la funcionalidad de las matemáticas en su vida cotidiana y adquiera la competencia STEM necesaria para afrontar los retos del siglo XXI."
+    },
+    {
+      "question": "¿Qué tipo de proceso de enseñanza-aprendizaje debe seguir la adquisición de competencias matemáticas en la EP según el artículo 16 del Decreto 155/2022?",
+      "options": [
+        "Un proceso que tenga en cuenta el proceso madurativo individual del alumnado y los niveles de desempeño esperados para la etapa, aumentando progresivamente la complejidad",
+        "Un proceso uniforme para todo el alumnado independientemente de sus características evolutivas y cognitivas",
+        "Un proceso centrado en los contenidos mínimos estipulados por el currículo para cada nivel educativo",
+        "Un proceso basado en la evaluación continua que permita al docente ajustar el nivel de forma permanente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 del Decreto 155/2022 establece que la intervención educativa buscará la adquisición de las CC teniendo en cuenta el proceso madurativo individual y los niveles de desempeño esperados para la etapa, por lo que los conocimientos y destrezas de resolución de problemas irán aumentando progresivamente su complejidad."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos es exclusivo del modelo de Mason, Burton y Stacey (1998) frente a los otros tres métodos presentados en el Tema 21?",
+      "options": [
+        "El concepto de 'monitor interno' que regula los aspectos personales y técnicos durante la resolución",
+        "La fase de 'comprobación' que verifica la corrección y coherencia de los resultados obtenidos",
+        "La fase de 'familiarización' para comprender la naturaleza del problema antes de resolverlo",
+        "El concepto de proceso 'en zig-zag' con avances y retrocesos durante la resolución"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El concepto de 'monitor interno' es exclusivo del modelo de Mason, Burton y Stacey. El proceso 'en zig-zag' es de Schoenfeld; la 'familiarización' corresponde a Guzmán; la 'comprobación' aparece en Pólya y Schoenfeld."
+    },
+    {
+      "question": "¿Cuál de las siguientes características distingue el método de Guzmán (1991) del método de Pólya (1945)?",
+      "options": [
+        "Guzmán integra las aportaciones de Schoenfeld y Mason-Burton-Stacey, siendo más completo; Pólya solo define un proceso lineal de cuatro fases",
+        "Guzmán tiene tres fases y Pólya cuatro, siendo el de Guzmán más sencillo para el alumnado de primaria",
+        "Guzmán es el único que incluye la comprensión del problema como primera fase del proceso",
+        "Guzmán trabaja exclusivamente con problemas de vida real; Pólya con problemas matemáticos puros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El método de Guzmán integra las aportaciones de Schoenfeld y Mason-Burton-Stacey, siendo más completo que el de Pólya, que define solo un proceso lineal de cuatro fases. Por eso Guzmán goza de mayor aceptación en el contexto educativo."
+    },
+    {
+      "question": "¿Cuál es la implicación educativa de que los problemas de razonamiento lógico 'precisen de un tiempo más amplio para su resolución' según el Tema 21?",
+      "options": [
+        "El docente debe planificar sesiones específicas con tiempo suficiente, especialmente en las primeras experiencias con este tipo de problemas",
+        "El alumnado debe resolverlos en casa como tarea para aprovechar el tiempo de clase en otros contenidos",
+        "Solo el alumnado con mayor capacidad matemática puede abordar estos problemas dentro del tiempo de clase",
+        "El docente debe reducir la dificultad del problema para que pueda resolverse en el tiempo de una sesión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas de razonamiento lógico precisan de un tiempo más amplio para su resolución, especialmente en las primeras experiencias, lo que implica que el docente debe planificar sesiones específicas con tiempo suficiente para abordarlos adecuadamente."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la 'primera fase' de comprensión en el método de Pólya y la 'familiarización' en el modelo de Guzmán?",
+      "options": [
+        "Ambas implican comprender el problema, pero Pólya se centra en leer, anotar datos y relacionar con esquemas; Guzmán describe actuaciones encaminadas a comprender la naturaleza del problema de forma más amplia",
+        "Pólya trabaja exclusivamente la comprensión lectora del enunciado; Guzmán añade el aspecto emocional",
+        "Son fases idénticas porque Guzmán tomó directamente la primera fase de Pólya sin modificación",
+        "Pólya incluye la selección de estrategias en la comprensión; Guzmán la sitúa en una fase independiente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambas fases implican comprender el problema, pero Pólya especifica acciones concretas como leer despacio, anotar datos relevantes, identificar preguntas y relacionar con esquemas. Guzmán describe actuaciones encaminadas a comprender la naturaleza del problema de forma más holística."
+    },
+    {
+      "question": "¿Qué tipo de pensamiento desarrollan los problemas de razonamiento lógico según el Tema 21?",
+      "options": [
+        "Permiten interpretar y resolver problemas de manera más efectiva, desarrollando la competencia matemática con sistemas de representación físicos, verbales, visuales, geométricos y numéricos",
+        "Desarrollan exclusivamente el pensamiento abstracto y algebraico necesario para la ESO",
+        "Desarrollan el pensamiento mecánico y algorítmico necesario para automatizar el cálculo matemático",
+        "Desarrollan el pensamiento espacial y geométrico mediante la representación visual del entorno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los problemas de razonamiento lógico trabajan habilidades de clasificación, comparación, ordenación y razonamiento lógico, lo que permite interpretar y resolver problemas de manera más efectiva y desarrollar la competencia matemática manejando sistemas de representación físicos, verbales, visuales, geométricos y numéricos."
+    },
+    {
+      "question": "¿Cuál de las cuatro vertientes de la resolución de problemas se corresponde más directamente con el 'examinar la solución obtenida' de Pólya?",
+      "options": [
+        "La interpretación y valoración global de los resultados",
+        "La planificación como saber qué hacer antes de empezar a operar",
+        "La gestión de recursos a lo largo de todo el proceso de resolución",
+        "La representación como traducción de la información a un formato manejable"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La interpretación y valoración global de los resultados se corresponde directamente con la cuarta fase de Pólya 'examinar la solución obtenida', ya que ambas implican comprobar la bondad de la respuesta, analizar alternativas y reflexionar sobre el proceso seguido."
+    },
+    {
+      "question": "¿Cuál es la contribución específica de Mariño y Hernández (2021) al Tema 21 sobre resolución de problemas?",
+      "options": [
+        "Mencionan el método de Mason, Burton y Stacey (1998) que propone un enfoque que analiza la resolución al mismo tiempo que busca mejorar su enseñanza",
+        "Proponen una nueva clasificación de los problemas matemáticos adaptada al currículo actual",
+        "Desarrollan el concepto de 'monitor interno' como mecanismo autorregulador de la resolución",
+        "Aportan evidencias empíricas sobre la eficacia de los distintos métodos de resolución en EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mariño y Hernández (2021) son citados en el Tema 21 por mencionar el método de Mason, Burton y Stacey (1998), quienes proponen un enfoque que analiza la resolución de problemas al mismo tiempo que busca mejorar su enseñanza."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el 'OBJ2' y el objetivo de etapa 'g' del artículo 7 del Decreto 155/2022?",
+      "options": [
+        "El OBJ2 es el objetivo específico del área de matemáticas; el objetivo 'g' es un objetivo general de etapa de la EP que incluye las matemáticas",
+        "Son el mismo objetivo expresado de dos formas diferentes en distintos artículos del Decreto",
+        "El OBJ2 es obligatorio; el objetivo 'g' es orientativo y puede ser sustituido por el centro",
+        "El OBJ2 corresponde al tercer ciclo; el objetivo 'g' es válido para toda la etapa de EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ2 es el objetivo específico del área de matemáticas del Decreto 155/2022 (Resolver situaciones problematizadas...), mientras que el objetivo 'g' del artículo 7 es un objetivo general de etapa de la EP que todas las áreas contribuyen a desarrollar y que hace referencia específica a las matemáticas."
+    },
+    {
+      "question": "¿Cuál es la característica que según el Tema 21 diferencia los problemas didácticamente valiosos de los ejercicios de práctica mecánica?",
+      "options": [
+        "Los problemas valiosos actúan como motor del aprendizaje, despiertan la curiosidad y responden a objetivos educativos concretos",
+        "Los problemas valiosos son más largos y complejos que los ejercicios, con más datos y operaciones",
+        "Los problemas valiosos tienen siempre una única solución correcta verificable matemáticamente",
+        "Los problemas valiosos se proponen solo en el tercer ciclo cuando el alumnado tiene suficiente madurez"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Kilpatrick (1987) y Labarre (1991) señalan que un problema didácticamente valioso, entre otras características, actúa como motor del aprendizaje, despierta la curiosidad e interés del alumnado y responde a objetivos educativos concretos, lo que lo distingue de un mero ejercicio de práctica."
+    },
+    {
+      "question": "¿Cuál es la relación entre la 'autonomía en la resolución de problemas' y el papel del docente a lo largo de la EP según el Tema 21?",
+      "options": [
+        "El docente debe guiar inicialmente y reducir progresivamente su intervención, fomentando la autonomía que se consolida al final de la etapa",
+        "El docente debe mantener el mismo nivel de intervención en todos los cursos para garantizar la homogeneidad",
+        "El docente debe retirarse completamente desde el primer ciclo para que el alumnado desarrolle autonomía real",
+        "El docente debe incrementar su intervención en el tercer ciclo cuando los problemas son más complejos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La autonomía en la resolución de problemas es un proceso gradual que se consolida al final de la EP. Por ello, el docente debe guiar al alumnado desde los primeros cursos, reduciendo progresivamente la intervención para ir fomentando la autonomía conforme avanza la etapa."
+    },
+    {
+      "question": "¿Qué afirma el Tema 21 sobre la vinculación entre las tendencias curriculares actuales y la metacognición en la resolución de problemas?",
+      "options": [
+        "Las tendencias curriculares promueven el uso de estrategias metacognitivas como elemento central de la enseñanza matemática",
+        "Las tendencias curriculares prescinden de la metacognición al considerarla demasiado compleja para la EP",
+        "Las tendencias curriculares limitan la metacognición al tercer ciclo cuando el alumnado tiene suficiente madurez",
+        "Las tendencias curriculares reservan la metacognición para las áreas de lengua y no la integran en matemáticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tendencias curriculares actuales promueven el desarrollo del razonamiento lógico-matemático, el pensamiento crítico y el uso de estrategias metacognitivas como elementos centrales de la enseñanza matemática, siendo fundamentales para mejorar la competencia en resolución de problemas."
+    },
+    {
+      "question": "¿Cuál de los siguientes refleja correctamente la estructura del Decreto 155/2022 en relación con la resolución de problemas?",
+      "options": [
+        "El Decreto organiza las matemáticas en 6 bloques y 5 procesos, con la resolución de problemas como eje transversal evaluado en todos los bloques",
+        "El Decreto organiza la resolución de problemas como Bloque 7 independiente de los demás bloques de contenido",
+        "El Decreto separa la resolución de problemas de las destrezas emocionales en bloques independientes",
+        "El Decreto limita la resolución de problemas al bloque de sentido numérico por ser el más relevante para el cálculo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 organiza las matemáticas en 6 bloques de contenido y 5 procesos matemáticos. La resolución de problemas y las destrezas emocionales son los ejes fundamentales que se abordan y evalúan de forma transversal en cada uno de los 6 bloques."
+    },
+    {
+      "question": "¿Cuál es el rango de edades que comprende el segundo ciclo de la Educación Primaria según el Tema 21?",
+      "options": [
+        "De 8 a 10 años",
+        "De 6 a 8 años",
+        "De 10 a 12 años",
+        "De 8 a 12 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El segundo ciclo de la Educación Primaria comprende de 8 a 10 años. El primer ciclo va de 6 a 8 años y el tercer ciclo de 10 a 12 años."
+    },
+    {
+      "question": "¿Cuál es la obra de Pólya citada en la bibliografía del Tema 21 y cuándo fue publicada en español?",
+      "options": [
+        "'Cómo plantear y resolver problemas', México: Trillas, 1965",
+        "'Cómo plantear y resolver problemas', Barcelona: Gedisa, 1945",
+        "'Desarrollo de la resolución de problemas', Madrid: Narcea, 1965",
+        "'Pensamiento matemático y resolución de problemas', México: Trillas, 1985"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pólya, G. (1965) publicó 'Cómo plantear y resolver problemas', México: Trillas. Esta es la referencia bibliográfica de la traducción al español de su obra original de 1945 que es citada en la bibliografía del Tema 21."
+    },
+    {
+      "question": "¿Cuál es el rango de edades del primer ciclo de la Educación Primaria y del tercer ciclo según el Tema 21?",
+      "options": [
+        "Primer ciclo: 6 a 8 años; tercer ciclo: 10 a 12 años",
+        "Primer ciclo: 5 a 7 años; tercer ciclo: 9 a 12 años",
+        "Primer ciclo: 6 a 9 años; tercer ciclo: 10 a 13 años",
+        "Primer ciclo: 7 a 8 años; tercer ciclo: 11 a 12 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El primer ciclo comprende de 6 a 8 años y el tercer ciclo de 10 a 12 años. El segundo ciclo va de 8 a 10 años, correspondiendo cada ciclo aproximadamente a dos cursos de la Educación Primaria."
+    }
+  ]
+}
