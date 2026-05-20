@@ -1,0 +1,2208 @@
+{
+  "title": "El aprendizaje de los fenómenos físicos y los cambios químicos",
+  "description": "Planificación y realización de experiencias para el estudio de propiedades, características y comportamiento de la materia y la energía en Educación Primaria (Tema 10).",
+  "category": "temas",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Cómo define Wallon el proceso de socialización del alumnado en el contexto del aprendizaje de fenómenos físicos y químicos?",
+      "options": [
+        "Un proceso interactivo donde el niño satisface sus necesidades y asimila valores, normas y conocimientos de su grupo social",
+        "Un proceso cognitivo individual donde el niño construye su conocimiento de forma autónoma a través de la manipulación",
+        "Un proceso de transmisión cultural donde el adulto transfiere conocimientos al niño mediante la instrucción directa",
+        "Un proceso adaptativo donde el niño modifica su conducta en respuesta a estímulos del entorno físico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Wallon define la socialización como un proceso interactivo donde el niño satisface sus necesidades y asimila valores, normas y conocimientos de su grupo social. Este marco encuadra el aprendizaje de los fenómenos físicos y químicos dentro del desarrollo social del alumno."
+    },
+    {
+      "question": "¿Cuál es la diferencia fundamental entre un fenómeno físico y un fenómeno químico según la clarificación conceptual del tema?",
+      "options": [
+        "Los fenómenos físicos modifican alguna propiedad sin alterar la naturaleza de la sustancia, mientras los químicos transforman la sustancia originando una nueva",
+        "Los fenómenos físicos son reversibles mientras los químicos son siempre irreversibles, independientemente de los cambios en la composición",
+        "Los fenómenos físicos requieren energía externa para producirse, mientras los químicos ocurren de forma espontánea sin intervención externa",
+        "Los fenómenos físicos afectan solo al estado de agregación de la materia, mientras los químicos afectan a la masa y el volumen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los fenómenos físicos modifican parcialmente alguna propiedad sin alterar la naturaleza de la sustancia y no presentan carácter permanente. Los fenómenos químicos implican transformaciones más profundas donde desaparece la sustancia original y se forma una nueva, con carácter permanente."
+    },
+    {
+      "question": "¿Qué ODS de la Agenda 2030 se menciona específicamente como vinculado a la energía asequible y no contaminante?",
+      "options": [
+        "ODS 7",
+        "ODS 4",
+        "ODS 11",
+        "ODS 13"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ODS7 corresponde a 'Energía Asequible y no contaminante'. El ODS4 es 'Educación de calidad', el ODS11 'Ciudades y Comunidades Sostenibles' y el ODS13 'Acción por el Clima', todos vinculados al área científica."
+    },
+    {
+      "question": "Según el Decreto 155/2022, ¿en qué bloque del área de CCNN se recogen los contenidos relativos a materia, fuerzas y energía?",
+      "options": [
+        "Bloque 3 'Materia, Fuerzas y Energía'",
+        "Bloque 1 'Cultura Científica'",
+        "Bloque 2 'El Ser Humano y la Salud'",
+        "Bloque 4 'Tecnología y Sociedad'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los contenidos del tema se encuentran en el Bloque 3 'Materia, Fuerzas y Energía', enfocado en las propiedades de los distintos tipos de materia y la experimentación de fenómenos físicos y químicos. El Bloque 1 'Cultura Científica' tiene carácter transversal."
+    },
+    {
+      "question": "¿Cuál es el descriptor operativo STEM2 tal como aparece referenciado en el tema 10 del Decreto 155/2022?",
+      "options": [
+        "Utiliza el pensamiento científico para entender y explicar algunos fenómenos utilizando herramientas e instrumentos adecuados, haciéndose preguntas y realizando experimentos sencillos",
+        "Interpreta y transmite los elementos más relevantes de algunos métodos y resultados de forma clara y veraz utilizando terminología científica apropiada",
+        "Reflexiona y dialoga sobre valores y problemas éticos actuales comprendiendo la necesidad de cuidar el entorno",
+        "Comprende las relaciones sistémicas entre acciones humanas y entorno e inicia la adopción de estilos de vida sostenible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El STEM2 se refiere a utilizar el pensamiento científico para entender y explicar fenómenos usando herramientas adecuadas, hacerse preguntas y realizar experimentos sencillos. El STEM4 es el de interpretar y transmitir resultados con terminología científica."
+    },
+    {
+      "question": "¿Qué descriptor operativo de la Competencia Ciudadana (CC) se vincula con la reflexión sobre valores éticos y el cuidado del entorno?",
+      "options": [
+        "CC3",
+        "CC4",
+        "STEM2",
+        "STEM4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El CC3 corresponde a 'reflexiona y dialoga sobre valores y problemas éticos actuales comprendiendo la necesidad de cuidar el entorno'. El CC4 es el que habla de comprender las relaciones sistémicas entre acciones humanas y el entorno."
+    },
+    {
+      "question": "¿Qué autora destacó en 1986 la importancia de construir el concepto de materia a partir de la experiencia y manipulación del alumnado?",
+      "options": [
+        "Rosalind Driver",
+        "Neus Sanmartí",
+        "André Giordan",
+        "Concepción Caballero"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rosalind Driver (1986) destacó la importancia de construir el concepto de materia a partir de la experiencia y manipulación del alumnado, dado el carácter abstracto y elevada complejidad de dicho concepto."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre masa y peso según la clarificación conceptual del tema?",
+      "options": [
+        "La masa es la cantidad de materia de un cuerpo, mientras el peso es la fuerza con la que la gravedad atrae a ese cuerpo",
+        "La masa varía según la altitud mientras el peso permanece constante en cualquier lugar del universo",
+        "La masa se mide en newtons en el SI, mientras el peso se mide en kilogramos o gramos",
+        "La masa es una propiedad específica de la materia, mientras el peso es una propiedad general común a toda la materia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La masa es la cantidad de materia que posee un cuerpo (se mide en gramos, kilogramos o miligramos en el SI), mientras que el peso es la fuerza con la que la gravedad atrae a un cuerpo. El peso varía según la gravedad, la masa no."
+    },
+    {
+      "question": "¿En qué unidad se expresa la densidad en el Sistema Internacional?",
+      "options": [
+        "Kilogramos por metro cúbico (kg/m³)",
+        "Gramos por litro (g/L)",
+        "Kilogramos por litro (kg/L)",
+        "Gramos por centímetro cúbico (g/cm³)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La densidad, entendida como la relación entre masa y volumen, se expresa en el Sistema Internacional en kilogramos por metro cúbico (kg/m³). En contextos prácticos también se usa g/cm³, pero el SI establece kg/m³."
+    },
+    {
+      "question": "¿Qué instrumento de laboratorio permite medir volúmenes de líquidos directamente y también medir sólidos por el volumen de líquido desplazado?",
+      "options": [
+        "La probeta",
+        "La pipeta",
+        "La bureta",
+        "El matraz aforado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La probeta es un recipiente de vidrio graduado que permite medir volúmenes de líquidos directamente, o medir sólidos calculando el volumen de líquido desplazado por el sólido. Para mayor precisión se utilizan pipeta o bureta."
+    },
+    {
+      "question": "¿Cómo se clasifican las propiedades de la materia según el tema?",
+      "options": [
+        "En generales (comunes a toda la materia) y específicas (permiten distinguir entre tipos de materia)",
+        "En cuantitativas (medibles) y cualitativas (perceptibles sensorialmente)",
+        "En extensivas (dependen de la cantidad de materia) e intensivas (independientes de la cantidad)",
+        "En físicas (observables sin cambio de sustancia) y químicas (observables con cambio de sustancia)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las propiedades de la materia se clasifican en generales, comunes a toda la materia y que no permiten diferenciar sustancias (masa, peso, volumen), y específicas, que sí permiten distinguir entre tipos de materia (dureza, fragilidad, solubilidad, sabor)."
+    },
+    {
+      "question": "¿Cómo se clasifican las mezclas según la distribución de sus componentes?",
+      "options": [
+        "En homogéneas (distribución uniforme, no distinguibles a simple vista) y heterogéneas (distribución no uniforme, distinguibles)",
+        "En simples (dos componentes) y complejas (más de dos componentes), según el número de sustancias que las forman",
+        "En estables (no se separan espontáneamente) e inestables (se separan con el tiempo por acción de la gravedad)",
+        "En miscibles (se mezclan completamente) e inmiscibles (no se mezclan), según la compatibilidad entre sus componentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las mezclas se clasifican en homogéneas, cuando sus componentes están distribuidos de manera uniforme y no se distinguen a simple vista (como el agua con sal), y heterogéneas, cuando sus componentes no están distribuidos uniformemente y sí pueden distinguirse (como el agua con aceite)."
+    },
+    {
+      "question": "¿Qué característica distingue al estado gaseoso de los estados sólido y líquido respecto al volumen?",
+      "options": [
+        "Los gases no tienen volumen fijo y destacan por su gran capacidad de expansión y compresión según temperatura y presión",
+        "Los gases tienen volumen constante pero forma variable, adaptándose al recipiente que los contiene",
+        "Los gases tienen tanto forma como volumen fijos, pero a diferencia de los sólidos carecen de estructura cristalina",
+        "Los gases tienen volumen variable según la altitud pero forma constante determinada por las condiciones de presión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los gases no tienen forma ni volumen fijos y destacan por su gran capacidad de expansión y compresión en función de la temperatura y la presión. Los líquidos tienen volumen constante pero no forma fija; los sólidos tienen forma y volumen constante."
+    },
+    {
+      "question": "¿Cuál es la unidad de medida de la energía en el Sistema Internacional?",
+      "options": [
+        "El julio (J)",
+        "La caloría (cal)",
+        "El vatio (W)",
+        "El kilovatio-hora (kWh)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el Sistema Internacional, la unidad de medida de la energía es el julio (J). Aunque en contextos cotidianos se utiliza también la caloría (cal), el vatio (W) mide potencia y el kilovatio-hora (kWh) es una unidad práctica de energía eléctrica."
+    },
+    {
+      "question": "¿Cuántas propiedades fundamentales presenta la energía según el tema?",
+      "options": [
+        "Seis: se transfiere, se transforma, se transporta, se almacena, se conserva y se degrada",
+        "Cuatro: se transfiere, se transforma, se conserva y se degrada",
+        "Cinco: se transfiere, se transforma, se transporta, se conserva y se degrada",
+        "Siete: se transfiere, se transforma, se transporta, se almacena, se conserva, se degrada y se renueva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La energía presenta seis propiedades fundamentales: se transfiere (de unos cuerpos a otros), se transforma (de una forma a otra), se transporta (de un lugar a otro), se almacena (en pilas o baterías), se conserva (no se crea ni destruye) y se degrada (pierde capacidad para trabajo útil)."
+    },
+    {
+      "question": "¿Cuál es un ejemplo de transformación de energía eléctrica en energía química mencionado en el tema?",
+      "options": [
+        "Cargar un teléfono móvil",
+        "Mezclar agua fría y agua caliente hasta alcanzar equilibrio térmico",
+        "Encender una bombilla con corriente eléctrica",
+        "Utilizar una pila para hacer funcionar un motor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al cargar un teléfono móvil, la energía eléctrica se convierte en energía química almacenada en la batería. Mezclar agua fría y caliente ilustra la transferencia de energía térmica, no la transformación eléctrica-química."
+    },
+    {
+      "question": "¿Cómo se clasifican las fuentes de energía según su capacidad de renovación?",
+      "options": [
+        "En renovables (recursos naturales inagotables o regenerables) y no renovables (recursos finitos que no se regeneran a escala humana)",
+        "En primarias (obtenidas directamente de la naturaleza) y secundarias (resultantes de procesos de transformación)",
+        "En externas (provienen del exterior del planeta) e internas (proceden del interior terrestre)",
+        "En limpias (sin emisiones contaminantes) y sucias (generan residuos o emisiones durante su uso)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según su capacidad de renovación, las fuentes de energía se clasifican en renovables (solar, eólica, hidráulica) y no renovables (petróleo, carbón, gas natural). La clasificación según obtención es en primarias y secundarias; según origen, en externas e internas."
+    },
+    {
+      "question": "¿Cuáles son ejemplos de fuentes de energía externas según la clasificación por origen?",
+      "options": [
+        "La energía solar y la energía gravitatoria que origina las mareas",
+        "Los combustibles fósiles y las reacciones nucleares en el núcleo terrestre",
+        "La energía eólica y la energía hidráulica generada por ríos continentales",
+        "La energía geotérmica y los biocombustibles obtenidos de materia orgánica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las fuentes externas son aquellas cuya energía proviene del exterior del planeta, como la procedente del Sol o la energía gravitatoria que origina las mareas. Las fuentes internas incluyen reacciones nucleares, combustibles fósiles y el calor interno terrestre."
+    },
+    {
+      "question": "¿Cuáles son ejemplos de fuentes de energía secundarias según la clasificación por obtención?",
+      "options": [
+        "La electricidad y la gasolina",
+        "El carbón y la madera",
+        "El petróleo y el gas natural",
+        "La energía solar y la energía eólica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las fuentes secundarias resultan de procesos de transformación, como la electricidad (transformación de otras energías) o la gasolina (refinado del petróleo). Las fuentes primarias como el carbón y la madera se obtienen directamente de la naturaleza."
+    },
+    {
+      "question": "¿Cuál es el primer paso del método científico tal como se describe en el tema?",
+      "options": [
+        "La observación del entorno que despierta la curiosidad del alumnado para plantearse cuestiones",
+        "El planteamiento del problema, reuniendo toda la información disponible",
+        "La formulación de hipótesis previas sobre las que desarrollar el plan de trabajo",
+        "El registro de datos en tablas y gráficos para facilitar el estudio de las relaciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El primer paso del método científico es la observación del entorno, que despierta la curiosidad del alumnado. El segundo es plantear el problema, el tercero formular hipótesis, el cuarto la experimentación, el quinto el registro de datos, el sexto el análisis e interpretación, y finalmente la confirmación de hipótesis."
+    },
+    {
+      "question": "¿Qué autor de 1987 destacó la importancia del aprendizaje de las ciencias como proceso activo de construcción del conocimiento a través de la investigación?",
+      "options": [
+        "André Giordan",
+        "Rosalind Driver",
+        "Neus Sanmartí",
+        "Jean Piaget"
+      ],
+      "correctAnswer": 0,
+      "explanation": "André Giordan (1987) destacó la importancia del aprendizaje de las ciencias como un proceso activo de construcción del conocimiento a través de la investigación y la interacción con el entorno. Driver (1986) trabajó sobre el concepto de materia; Sanmartí (2002) sobre cultura científica."
+    },
+    {
+      "question": "¿Qué tres tipos de actividades distingue el Decreto 155/2022 para trabajar los fenómenos en el aula?",
+      "options": [
+        "Actividades de formulación del problema, actividades del proceso de investigación y actividades de elaboración de conclusiones",
+        "Actividades de observación, actividades de experimentación y actividades de evaluación de resultados",
+        "Actividades de iniciación, actividades de desarrollo y actividades de consolidación y transferencia",
+        "Actividades individuales, actividades cooperativas y actividades de investigación autónoma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 distingue entre actividades de formulación del problema, actividades del proceso de investigación y actividades de elaboración de conclusiones, dentro de un enfoque de actividades abiertas con enfoques globales, funcionales y significativos."
+    },
+    {
+      "question": "¿Qué experimento demuestra que el aire ocupa espacio mediante el uso de un globo desinflado dentro de una botella?",
+      "options": [
+        "Introducir un globo desinflado dentro de una botella e intentar inflarlo, observando la dificultad hasta hacer un agujero en la botella",
+        "Invertir un vaso sobre una vela encendida y observar cómo se apaga al consumirse el aire interior",
+        "Comparar el peso de dos globos idénticos, uno desinflado y otro inflado",
+        "Sumergir una botella sellada en agua y observar las burbujas que salen por las grietas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para demostrar que el aire ocupa espacio, se introduce un globo desinflado dentro de una botella e intenta inflarlo. La dificultad se debe a que el aire dentro de la botella ocupa ese espacio. Al hacer un agujero que permita la salida del aire interior, el globo puede inflarse."
+    },
+    {
+      "question": "¿Qué experimento demuestra que el agua es incompresible?",
+      "options": [
+        "Llenar completamente una jeringuilla con agua, obstruir el extremo y ejercer presión sobre el émbolo, que no avanzará",
+        "Llenar completamente una jeringuilla con aire, obstruir el extremo y ejercer presión sobre el émbolo, que tampoco avanzará",
+        "Comparar la densidad del agua en diferentes recipientes sometidos a distintas presiones atmosféricas",
+        "Sumergir una esfera hueca en agua a distintas profundidades y medir su deformación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para mostrar que el agua es incompresible, se llena completamente una jeringuilla con agua y, obstruyendo el extremo, se ejerce presión sobre el émbolo, que no avanzará. En contraste, la misma experiencia con aire sí permite comprimir el émbolo."
+    },
+    {
+      "question": "¿Qué métodos de separación de mezclas se pueden demostrar con una mezcla de arena, sal y aceite en agua?",
+      "options": [
+        "Filtrado (separa arena), evaporación (recupera sal) y separación por densidad (separa aceite que flota)",
+        "Destilación (separa sal), centrifugación (separa arena) y cromatografía (separa aceite)",
+        "Decantación (separa arena), cristalización (recupera sal) y extracción (separa aceite)",
+        "Sedimentación (separa aceite), liofilización (recupera sal) y tamizado (separa arena)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Con una mezcla de arena, sal y aceite en agua se pueden demostrar: filtrado para separar la arena (sedimentación), evaporación del agua para recuperar la sal, y observar que el aceite flota (separación por densidad). También se menciona la atracción magnética para arena y limaduras de hierro."
+    },
+    {
+      "question": "¿Qué experimento demuestra la relatividad de la percepción táctil de la temperatura?",
+      "options": [
+        "Introducir una mano en agua fría y la otra en agua caliente, y después sumergir ambas en agua tibia, percibiendo la mano fría la temperatura mayor",
+        "Sumergir ambas manos en agua a la misma temperatura durante tiempos diferentes y comparar la sensación posterior",
+        "Comparar la percepción de temperatura de objetos metálicos y plásticos a la misma temperatura ambiente",
+        "Aplicar agua fría en diferentes zonas del cuerpo y registrar el umbral de percepción térmica en cada zona"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para abordar la relatividad de la percepción táctil de la temperatura, se introduce una mano en agua fría y la otra en agua caliente, para después sumergir ambas en agua tibia. El alumnado percibirá más caliente la mano que estuvo en agua fría, demostrando la relatividad de la percepción."
+    },
+    {
+      "question": "¿Cómo se puede demostrar que distintos materiales conducen el calor de manera diferente?",
+      "options": [
+        "Colocar objetos alargados de distintos materiales en agua caliente y observar el orden en que se desprenden",
+        "Medir la temperatura de objetos de diferentes materiales después de dejarlos al sol el mismo tiempo",
+        "Comparar el tiempo que tarda en fundirse hielo puesto sobre superficies de diferentes materiales",
+        "Envolver recipientes con agua caliente en materiales distintos y medir la velocidad de enfriamiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para demostrar que distintos materiales conducen el calor de manera diferente, se colocan objetos alargados de diversos materiales (metal, plástico, madera, vidrio) en un recipiente con agua caliente. Al aplicar calor se observa el orden en que se desprenden, evidenciando las diferencias en conductividad."
+    },
+    {
+      "question": "¿Qué experimento demuestra que el aire se dilata con el calor usando una botella vacía?",
+      "options": [
+        "Introducir un globo desinflado en la boca de una botella vacía y sumergir la botella en agua caliente, observando cómo el aire se dilata e infla el globo",
+        "Introducir un globo desinflado en la boca de una botella y presionar la botella manualmente hasta inflar el globo",
+        "Calentar la boca de una botella vacía con una llama y aplicar un globo en la abertura observando su inflado",
+        "Colocar una botella sellada en el congelador y observar cómo el globo externo aplicado se desinfla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para observar que el aire se dilata con el calor, se introduce un globo desinflado en la boca de una botella vacía y se sumerge la botella en agua caliente. El aire interior se calienta y dilata, inflando el globo. También puede usarse una pelota abollada de ping-pong en agua caliente."
+    },
+    {
+      "question": "¿Cómo se estudia la electricidad estática en las actividades propuestas en el tema?",
+      "options": [
+        "Frotando un globo inflado en tejido de lana para atraer papelitos, o frotando dos globos con el mismo tejido para observar su repulsión",
+        "Conectando un globo inflado a una pila y acercándolo a objetos de diferente material para comparar la atracción",
+        "Sumergiendo globos en agua con sal y observando los fenómenos de atracción entre los globos cargados",
+        "Frotando globos con materiales distintos (lana, seda, plástico) para comparar la intensidad de la carga generada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La electricidad estática se estudia frotando un globo en tejido de lana para atraer papelitos o adherirlo a una pared, y frotando dos globos con el mismo tejido para observar cómo se repelen mutuamente al juntarlos."
+    },
+    {
+      "question": "¿Qué caracteriza las actividades del primer ciclo de EP para el trabajo de los fenómenos físicos?",
+      "options": [
+        "Actividades breves, de resolución rápida y manipulativas con materiales del entorno, basadas en la acción directa sobre el entorno próximo",
+        "Actividades de razonamiento científico con hipótesis y conclusiones, usando instrumentos de medida específicos",
+        "Actividades de expresión formal de razonamientos y aplicación de conocimientos en situaciones complejas",
+        "Actividades prácticas e investigativas que favorecen habilidades de análisis y elaboración de conclusiones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo, las actividades han de ser breves, de resolución rápida y manipulativas, empleando materiales del entorno. Se basan en la acción directa sobre el entorno próximo con experiencias sencillas y motivadoras. En el segundo ciclo se inicia el razonamiento científico; en el tercero la expresión formal."
+    },
+    {
+      "question": "¿Cuáles son ejemplos de actividades del primer ciclo de EP para el trabajo de los fenómenos físicos?",
+      "options": [
+        "Hacer burbujas de jabón, trabajar cambios de estado, comprobar qué materiales flotan o se hunden, observar la evaporación del agua",
+        "Realizar mezclas y disoluciones, analizar contaminación del agua, estudiar combustión de materiales",
+        "Realizar experiencias de separación de sustancias, comprobar microorganismos, diseñar máquinas simples",
+        "Estudiar cambios de estado con instrumentos, observar oxidación, comprobar elasticidad con instrumentos de medida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El primer ciclo incluye actividades básicas como hacer burbujas de jabón, trabajar cambios de estado calentando y enfriando sustancias, comprobar qué materiales flotan o se hunden, observar la evaporación del agua, reciclar papel, estudiar sombras y analizar cualidades sensoriales."
+    },
+    {
+      "question": "¿Qué actividades son propias del segundo ciclo de EP según el tema 10?",
+      "options": [
+        "Estudiar cambios de estado líquido-sólido-gaseoso, realizar mezclas y disoluciones, analizar procesos de contaminación del agua y observar la oxidación",
+        "Hacer burbujas de jabón, trabajar cambios de estado simples, comprobar flotabilidad de materiales cotidianos",
+        "Realizar mezclas complejas, experiencias de separación de sustancias, comprobar microorganismos y construir lentes",
+        "Diseñar máquinas simples como palancas y poleas, simular el efecto invernadero y analizar presencia de cloro en el agua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El segundo ciclo incluye estudiar los cambios de estado (líquido, sólido, gaseoso), realizar distintas mezclas y disoluciones, analizar procesos de contaminación del agua, estudiar la combustión de materiales, observar el proceso de oxidación, comprobar la elasticidad y reciclar materiales."
+    },
+    {
+      "question": "¿Qué actividades son propias del tercer ciclo de EP según el tema 10?",
+      "options": [
+        "Realizar mezclas y disoluciones, experiencias de separación de sustancias, comprobar microorganismos, simular el efecto invernadero y diseñar máquinas simples",
+        "Estudiar cambios de estado básicos, comprobar flotabilidad de materiales, observar la evaporación y reciclar papel",
+        "Realizar mezclas y disoluciones simples, analizar contaminación del agua, estudiar combustión y comprobar elasticidad",
+        "Hacer burbujas de jabón, trabajar con arena y agua, registrar el tiempo atmosférico y analizar cualidades sensoriales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tercer ciclo incluye actividades como realizar mezclas y disoluciones, experiencias de separación de sustancias, comprobar la existencia de microorganismos, analizar la presencia de cloro en el agua, simular el efecto invernadero, diseñar máquinas simples y construir pequeñas lentes."
+    },
+    {
+      "question": "¿Qué norma legislativa autonómica de 2022 establece la ordenación y el currículo de la educación primaria en Galicia?",
+      "options": [
+        "Decreto 155/2022, de 15 de septiembre",
+        "Orden de 26 de mayo de 2023",
+        "Decreto 229/2011, de 7 de diciembre",
+        "Decreto 79/2010, de 20 de mayo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022, de 15 de septiembre, establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia. La Orden de 26 de mayo de 2023 desarrolla este decreto y regula la evaluación."
+    },
+    {
+      "question": "¿Qué ley orgánica modifica la LOE y se menciona como marco legislativo nacional del tema?",
+      "options": [
+        "Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)",
+        "Ley Orgánica 2/2006, de 3 de mayo (LOE)",
+        "Ley Orgánica 8/2013, de 9 de diciembre (LOMCE)",
+        "Ley Orgánica 1/1990, de 3 de octubre (LOGSE)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE es la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Es el marco legislativo nacional que sustenta el tema."
+    },
+    {
+      "question": "¿Qué objetivo de etapa del Decreto 155/2022 se vincula directamente con el aprendizaje de los fenómenos físicos y cambios químicos?",
+      "options": [
+        "Objetivo 'h': conocer los aspectos fundamentales de las ciencias de la naturaleza, las ciencias sociales, la geografía, la historia y la cultura",
+        "Objetivo 'a': conocer y apreciar los valores y las normas de convivencia, aprendiendo a obrar en consecuencia",
+        "Objetivo 'e': conocer y usar de manera apropiada la lengua castellana y, si la hay, la lengua cooficial de la Comunidad Autónoma",
+        "Objetivo 'k': valorar la higiene y la salud, aceptar el propio cuerpo y el de los otros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo de etapa 'h' del artículo 7 del Decreto autonómico establece 'Conocer los aspectos fundamentales de las ciencias de la naturaleza, las ciencias sociales, la geografía, la historia y la cultura', vinculándose directamente con el aprendizaje de los fenómenos físicos y los cambios químicos."
+    },
+    {
+      "question": "¿Cuáles son los dos objetivos del área de CCNN más directamente relacionados con el tema según el Decreto 155/2022?",
+      "options": [
+        "OBJ1 (exponer y dar respuesta a cuestiones científicas utilizando técnicas del pensamiento científico) y OBJ3 (identificar y analizar elementos del medio natural para comprender su valor y conservarlos)",
+        "OBJ2 (utilizar herramientas matemáticas para el análisis de fenómenos naturales) y OBJ4 (desarrollar actitudes de respeto hacia el medio ambiente)",
+        "OBJ1 (aplicar el método científico en situaciones cotidianas) y OBJ5 (promover hábitos sostenibles en el entorno escolar y familiar)",
+        "OBJ3 (identificar elementos del entorno natural) y OBJ6 (valorar la biodiversidad y la protección de los ecosistemas)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los objetivos del área de CCNN más vinculados son el OBJ1 'Exponer y dar respuesta a cuestiones científicas sencillas utilizando técnicas e instrumentos del pensamiento científico' y el OBJ3 'Identificar y analizar los elementos del medio natural, su organización y propiedades, para comprender su valor y conservarlos'."
+    },
+    {
+      "question": "¿Qué enfoque de las áreas científicas en EP se basa en el concepto de 'medio' tal como lo describe el tema?",
+      "options": [
+        "El conjunto de elementos, sucesos, factores y/o procesos del entorno de las personas donde su vida y actuación adquieren sentido, con carácter dinámico sometido a continua transformación",
+        "El espacio físico delimitado donde transcurre la vida escolar del alumno, incluyendo el aula, el recreo y los espacios de uso común",
+        "El conjunto de recursos naturales disponibles para el aprendizaje experimental, incluyendo el laboratorio y el huerto escolar",
+        "El entorno social e institucional en el que el niño desarrolla sus relaciones interpersonales y adquiere su identidad cultural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El enfoque de las áreas científicas en EP se basa en el concepto de 'medio' entendido como el conjunto de elementos, sucesos, factores y/o procesos del entorno de las personas donde su vida y actuación adquieren sentido, con carácter dinámico sometido a continua transformación por la actividad humana."
+    },
+    {
+      "question": "Según Neus Sanmartí (2002), ¿qué orientación deben tener las ciencias en la Educación Primaria?",
+      "options": [
+        "Estimular la curiosidad desde los primeros momentos de la escolaridad con un enfoque competencial, manipulativo y vivencial usando experimentos sencillos",
+        "Transmitir los conceptos científicos fundamentales de forma sistemática mediante la instrucción directa y los libros de texto",
+        "Desarrollar el pensamiento abstracto y la capacidad de razonamiento hipotético-deductivo a través de la resolución de problemas formales",
+        "Promover la memorización de datos, fechas y clasificaciones científicas que sirvan de base para estudios posteriores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según las conclusiones de Neus Sanmartí (2002) en 'Las ciencias en la escuela: teorías y prácticas', las ciencias en la EP deben estimular la curiosidad desde los primeros momentos con un enfoque competencial, manipulativo y vivencial, usando experimentos sencillos y recursos como el laboratorio escolar."
+    },
+    {
+      "question": "¿Qué ejemplo cotidiano ilustra un fenómeno físico según el tema?",
+      "options": [
+        "Hervir agua o desplazar un objeto al empujar un carrito",
+        "La combustión de una vela o la fermentación de la masa al hornear un bizcocho",
+        "La oxidación del hierro o el cuajado de la leche para hacer queso",
+        "La digestión de los alimentos o la fotosíntesis de las plantas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hervir agua (cambio de estado, fenómeno físico sin cambio de naturaleza) y desplazar un objeto son ejemplos de fenómenos físicos. La combustión de una vela y la fermentación de la masa son ejemplos de fenómenos químicos donde la sustancia original desaparece y se origina una nueva."
+    },
+    {
+      "question": "¿Qué principio de conservación de la energía se establece en el tema?",
+      "options": [
+        "La energía ni se crea ni se destruye, sino que solo se transforma",
+        "La energía total de un sistema aislado permanece constante siempre que no haya intercambio de materia",
+        "La energía puede crearse desde la nada mediante reacciones nucleares de fisión y fusión",
+        "La energía se conserva únicamente en sistemas cerrados donde no existe intercambio de calor con el exterior"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La quinta propiedad de la energía establece que esta se conserva: la energía ni se crea ni se destruye, sino que solo se transforma. Este es el principio de conservación de la energía, una de las seis propiedades fundamentales descritas en el tema."
+    },
+    {
+      "question": "¿Qué se entiende por 'degradación' de la energía según el tema?",
+      "options": [
+        "Cuando la energía pierde capacidad para realizar trabajo útil",
+        "Cuando la energía se transforma de una forma de alta calidad a una forma de baja calidad irreversiblemente",
+        "Cuando la energía se dispersa en el medio ambiente como calor residual sin posibilidad de recuperación",
+        "Cuando la energía almacenada en un dispositivo se consume completamente hasta agotarse"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La degradación de la energía ocurre cuando esta pierde capacidad para realizar trabajo útil. Es la sexta propiedad fundamental de la energía mencionada en el tema, y se diferencia de la transformación en que implica pérdida de calidad energética."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre sustancias simples y sustancias compuestas dentro de las sustancias puras?",
+      "options": [
+        "Las sustancias simples están formadas por un solo tipo de átomo, mientras las compuestas resultan de la unión de dos o más elementos en proporciones fijas",
+        "Las sustancias simples tienen una composición variable, mientras las compuestas tienen proporciones fijas de sus componentes",
+        "Las sustancias simples pueden separarse por medios físicos, mientras las compuestas requieren reacciones químicas para descomponerse",
+        "Las sustancias simples son elementos de la tabla periódica, mientras las compuestas son moléculas formadas por átomos del mismo elemento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dentro de las sustancias puras, las sustancias simples o elementos están formadas por un solo tipo de átomo, mientras que las sustancias compuestas están constituidas por la unión de dos o más elementos diferentes en proporciones fijas."
+    },
+    {
+      "question": "¿Qué cambios físicos permiten al agua pasar de un estado a otro en la superficie terrestre?",
+      "options": [
+        "Fusión, vaporización, condensación y solidificación",
+        "Oxidación, reducción, hidrólisis y neutralización",
+        "Combustión, fermentación, putrefacción y descomposición",
+        "Sublimación, ebullición, precipitación y cristalización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El agua puede encontrarse en los tres estados pasando de uno a otro a través de cambios físicos: la fusión (sólido a líquido), la vaporización (líquido a gas), la condensación (gas a líquido) y la solidificación (líquido a sólido). Estos son fenómenos físicos pues no cambia la composición del agua."
+    },
+    {
+      "question": "¿Cómo define el tema el método científico en el contexto educativo?",
+      "options": [
+        "Un procedimiento ordenado y sistemático orientado a investigar fenómenos, establecer relaciones, formular hipótesis, contrastarlas mediante la experimentación y obtener conclusiones basadas en evidencias",
+        "Una secuencia de pasos fijos e inamovibles que el alumnado debe memorizar y aplicar mecánicamente en todas las experiencias de laboratorio",
+        "Un conjunto de técnicas instrumentales propias de los científicos profesionales adaptadas para su uso en el contexto escolar de forma simplificada",
+        "Un método de enseñanza inductivo que parte siempre de la observación de fenómenos específicos para llegar a principios generales abstractos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El método científico se define como un procedimiento ordenado y sistemático orientado a investigar fenómenos, establecer relaciones entre los hechos, formular hipótesis, contrastarlas mediante la experimentación y obtener conclusiones basadas en evidencias. Es el eje central del aprendizaje científico en EP."
+    },
+    {
+      "question": "¿Qué formas de manifestación de la energía se mencionan en el tema?",
+      "options": [
+        "Cinética, potencial, eléctrica, electromagnética, química, térmica y nuclear",
+        "Mecánica, hidráulica, eólica, solar, geotérmica, química y nuclear",
+        "Cinética, potencial, radiante, sonora, calorífica, química y nuclear",
+        "Mecánica, eléctrica, lumínica, térmica, química, nuclear y magnética"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las formas de manifestación de la energía mencionadas en el tema son: cinética, potencial, eléctrica, electromagnética, química, térmica y nuclear. El funcionamiento de la sociedad actual depende del consumo energético en sus distintas formas."
+    },
+    {
+      "question": "¿Qué establece el artículo 16 del Decreto 155/2022 en relación con la intervención educativa?",
+      "options": [
+        "Principios pedagógicos que remarcan la adquisición de competencias clave mediante actividades que permitan avanzar en más de una competencia simultáneamente",
+        "Los criterios de evaluación para el área de Ciencias de la Naturaleza en la Educación Primaria",
+        "Las medidas de atención a la diversidad aplicables en los centros educativos gallegos",
+        "El horario mínimo semanal para el área de Ciencias de la Naturaleza en cada ciclo de EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 del Decreto 155/2022 recoge los principios pedagógicos, remarcando una intervención educativa orientada a la adquisición de las CC mediante actividades que permitan avanzar en más de una competencia al mismo tiempo."
+    },
+    {
+      "question": "¿Qué es el perfil de salida del alumnado según el marco legislativo del tema?",
+      "options": [
+        "El elemento curricular que define el nivel de competencias clave que el alumnado debe alcanzar al finalizar la educación básica, concretado en descriptores operativos",
+        "El conjunto de objetivos de etapa que el alumnado debe haber superado al terminar la Educación Primaria",
+        "La evaluación final que determina si el alumnado puede promocionar al siguiente nivel educativo",
+        "El informe individualizado que describe el nivel de desarrollo competencial de cada alumno al terminar el curso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El perfil de salida es el elemento curricular que define el nivel de competencias clave que el alumnado debe alcanzar al finalizar la educación básica, concretándose el nivel de desempeño esperado en los descriptores operativos del Anexo I del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué función tiene el laboratorio escolar según el tema?",
+      "options": [
+        "Constituye una valiosa fuente de conocimiento que acerca al alumnado al material científico y permite observar resultados de experimentos a largo plazo",
+        "Proporciona un espacio seguro para que el alumnado realice experimentos peligrosos bajo la supervisión directa del maestro",
+        "Permite al alumnado replicar experimentos ya demostrados por los científicos, consolidando así el conocimiento teórico previo",
+        "Sirve exclusivamente para el tercer ciclo de EP, cuando el alumnado tiene la madurez suficiente para usar material científico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El laboratorio escolar constituye una valiosa fuente de conocimiento, pues acerca al alumnado al material científico y permite observar resultados de experimentos a largo plazo, siempre garantizando las medidas de seguridad oportunas. No se limita a un ciclo específico."
+    },
+    {
+      "question": "¿Qué libro de 2002 de Neus Sanmartí sirve de referencia en el tema?",
+      "options": [
+        "Las ciencias en la escuela: teorías y prácticas",
+        "Enseñar ciencias a los niños",
+        "Didáctica de las Ciencias Naturales en Educación Primaria",
+        "Taller de ciencias al aire libre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La referencia de Neus Sanmartí (2002) corresponde al libro 'Las ciencias en la escuela: teorías y prácticas'. Alfred (2002) escribió 'Enseñar ciencias a los niños'; González (2015) 'Didáctica de las Ciencias Naturales en EP'; Caironi (2009) 'Taller de ciencias al aire libre'."
+    },
+    {
+      "question": "¿Qué líneas de actuación establece el epígrafe 1.4. del Anexo II del Decreto 155/2022 para el área de CCNN?",
+      "options": [
+        "Metodología activa, comunicativa, inclusiva y participativa dirigida a la adquisición de las competencias clave y los objetivos",
+        "Metodología expositiva y sistemática orientada a la transmisión eficaz de los contenidos conceptuales del área",
+        "Evaluación continua y sumativa basada en la adquisición de los estándares de aprendizaje evaluables del área",
+        "Organización del aula por rincones y talleres temáticos con materiales autocorrectivos y manipulativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El epígrafe 1.4. del Anexo II del Decreto 155/2022 establece líneas de actuación para el área de CCNN basadas en los principios pedagógicos del artículo 16, con una metodología activa, comunicativa, inclusiva y participativa dirigida a la adquisición de las CC y los objetivos."
+    },
+    {
+      "question": "¿Qué experimento con una pelota de ping-pong demuestra la dilatación del aire con el calor?",
+      "options": [
+        "Sumergir una pelota abollada de ping-pong en un recipiente con agua caliente y observar cómo recupera su forma",
+        "Inflar una pelota de ping-pong en una habitación fría y observar cómo se desinfla al llevarla a un ambiente cálido",
+        "Comparar el rebote de una pelota de ping-pong a temperatura ambiente y después de enfriarla en el congelador",
+        "Perforar una pelota de ping-pong, sellarla y sumergirla en agua caliente para medir el aumento de volumen del aire"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al sumergir una pelota abollada de ping-pong en un recipiente con agua caliente, el aire interior se calienta y dilata, haciendo que la pelota recupere su forma original. Este experimento complementa el de la botella con globo para demostrar la dilatación del aire con el calor."
+    },
+    {
+      "question": "¿Cuál es la unidad de medida del volumen en el Sistema Internacional para sólidos?",
+      "options": [
+        "Metro cúbico (m³)",
+        "Litro (L)",
+        "Mililitro (mL)",
+        "Centímetro cúbico (cm³)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El volumen es la cantidad de espacio que ocupa la materia y se mide en metros cúbicos (m³) en el SI. Para líquidos y gases se utilizan unidades de capacidad como el litro o el mililitro, aunque estas no son las unidades del SI."
+    },
+    {
+      "question": "¿Qué uso del TIC establece el Decreto 155/2022 en las estrategias de intervención educativa para CCNN?",
+      "options": [
+        "Un uso seguro, crítico, responsable y sostenible de las TIC y los entornos virtuales",
+        "Un uso exclusivamente instrumental de las TIC como herramienta de búsqueda de información científica",
+        "Un uso recreativo y motivador de las TIC para complementar las actividades experimentales presenciales",
+        "Un uso restringido a la comunicación de resultados y elaboración de informes de laboratorio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece la integración del uso seguro, crítico, responsable y sostenible de las TIC y los entornos virtuales como parte de las estrategias de intervención educativa en el área de CCNN."
+    },
+    {
+      "question": "¿Qué afirma el epígrafe 1.1. del Anexo II del Decreto 155/2022 sobre el área de CCNN?",
+      "options": [
+        "Concibe el área como un ámbito orientado a formar personas activas, responsables y respetuosas con el entorno, capaces de contribuir a un mundo más solidario, justo, igualitario y sostenible",
+        "Define el área como el conjunto de disciplinas que estudian los fenómenos naturales mediante el método hipotético-deductivo",
+        "Establece que el área tiene como finalidad principal la preparación del alumnado para estudios científicos posteriores de carácter técnico",
+        "Determina que el área debe integrarse con las Ciencias Sociales en un área única de conocimiento del medio natural y social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El epígrafe 1.1. del Anexo II del Decreto 155/2022 concibe el área como un ámbito orientado a formar personas activas, responsables y respetuosas con el entorno, capaces de contribuir a un mundo más solidario, justo, igualitario y sostenible, promoviendo la ciencia como proceso de investigación."
+    },
+    {
+      "question": "¿Cómo define el tema la materia?",
+      "options": [
+        "Todo aquello que tiene masa y ocupa un lugar en el espacio",
+        "Todo aquello que puede percibirse a través de los sentidos o medirse con instrumentos",
+        "El conjunto de sustancias puras y mezclas que pueden existir en los tres estados de agregación",
+        "Cualquier sustancia capaz de experimentar transformaciones físicas o químicas en condiciones naturales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La materia se define como todo aquello que tiene masa y ocupa un lugar en el espacio. Esta definición clásica es la que se recoge en el tema, destacando que Rosalind Driver (1986) señaló la importancia de construir este concepto desde la experiencia y manipulación."
+    },
+    {
+      "question": "¿Cuáles son las tres necesidades básicas que satisface el consumo energético de la sociedad actual según el tema?",
+      "options": [
+        "La electricidad, el agua caliente y la calefacción",
+        "El transporte, la iluminación y la climatización",
+        "La producción industrial, el transporte y la comunicación",
+        "La electricidad, el transporte y el abastecimiento de agua potable"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el tema, el funcionamiento de la sociedad actual se basa en el consumo energético para satisfacer principalmente tres necesidades básicas: la electricidad, el agua caliente y la calefacción. Por ello, las fuentes de energía se orientan tanto a la producción eléctrica como térmica."
+    },
+    {
+      "question": "¿Qué instrumento permite medir mayor precisión de volúmenes en el laboratorio que la probeta?",
+      "options": [
+        "La pipeta o la bureta",
+        "El matraz Erlenmeyer",
+        "El vaso de precipitados",
+        "El cilindro graduado de vidrio borosilicado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cuando se requiere mayor precisión que la que ofrece la probeta para medir volúmenes, se utilizan instrumentos como la pipeta o la bureta. La probeta es adecuada para medidas directas menos precisas."
+    },
+    {
+      "question": "¿Cuáles son ejemplos de propiedades generales de la materia según el tema?",
+      "options": [
+        "La masa, el peso, el volumen y la carga eléctrica",
+        "La dureza, la fragilidad, la solubilidad y el sabor",
+        "La densidad, el punto de fusión, la conductividad y el color",
+        "La temperatura, la presión, la viscosidad y la tensión superficial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las propiedades generales son comunes a toda la materia y no permiten diferenciar unas sustancias de otras: masa, peso, volumen y carga eléctrica. Las propiedades específicas como dureza, fragilidad, solubilidad o sabor sí permiten distinguir entre diferentes tipos de materia."
+    },
+    {
+      "question": "¿Cuáles son ejemplos de propiedades específicas de la materia?",
+      "options": [
+        "La dureza, la fragilidad, la solubilidad y el sabor",
+        "La masa, el peso, el volumen y la carga eléctrica",
+        "La densidad, la masa y el volumen, que dependen de la cantidad de materia",
+        "La temperatura de ebullición, la presión de vapor y el calor específico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las propiedades específicas de la materia permiten distinguir entre diferentes tipos de materia: dureza, fragilidad, solubilidad, sabor. Las propiedades generales (masa, peso, volumen, carga eléctrica) son comunes a toda la materia y no permiten diferenciar sustancias."
+    },
+    {
+      "question": "¿Cuál es el cuarto paso del método científico según la descripción del tema?",
+      "options": [
+        "La experimentación, que consiste en recrear el fenómeno y repetirlo para captar sus características significativas",
+        "El registro de datos en tablas y gráficos para facilitar el estudio de las relaciones",
+        "El planteamiento del problema, reuniendo toda la información disponible",
+        "La formulación de hipótesis previas sobre las que desarrollar el plan de trabajo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cuarto paso del método científico es la experimentación, que consiste en recrear el fenómeno y repetirlo para captar sus características significativas. Los pasos previos son: observación (1), planteamiento del problema (2) y formulación de hipótesis (3). El quinto es el registro de datos."
+    },
+    {
+      "question": "¿Qué se entiende por 'fenómenos' en el lenguaje científico según la clarificación conceptual del tema?",
+      "options": [
+        "Las modificaciones de las propiedades de la materia",
+        "Cualquier evento natural que pueda observarse con los sentidos o medirse con instrumentos",
+        "Los cambios permanentes que experimenta la materia cuando reacciona con otras sustancias",
+        "Las propiedades de los cuerpos que pueden percibirse a través de los sentidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el lenguaje científico, los fenómenos son las modificaciones de las propiedades de la materia. Se clasifican en físicos (sin alteración de la naturaleza de la sustancia) y químicos (con transformación profunda y formación de nuevas sustancias)."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre fuentes de energía primarias y secundarias según la clasificación por obtención?",
+      "options": [
+        "Las primarias se obtienen directamente de la naturaleza (carbón, madera), mientras las secundarias resultan de procesos de transformación (electricidad, gasolina)",
+        "Las primarias son renovables (solar, eólica, hidráulica), mientras las secundarias son no renovables (petróleo, carbón, gas)",
+        "Las primarias provienen del exterior del planeta (Sol, mareas), mientras las secundarias proceden del interior terrestre (geotérmica, nuclear)",
+        "Las primarias se usan directamente sin transformación, mientras las secundarias requieren ser transformadas antes de su uso final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la clasificación por obtención, las fuentes primarias se obtienen directamente de la naturaleza (carbón, madera), mientras que las fuentes secundarias resultan de procesos de transformación (electricidad, gasolina). Esta clasificación es independiente de la clasificación por renovabilidad."
+    },
+    {
+      "question": "¿Cuál es el sexto paso del método científico según el tema?",
+      "options": [
+        "El análisis e interpretación de los datos",
+        "El registro de datos en tablas y gráficos",
+        "La confirmación de hipótesis",
+        "La experimentación y repetición del fenómeno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El sexto paso es el análisis e interpretación de los datos. La secuencia completa es: observación (1), planteamiento del problema (2), formulación de hipótesis (3), experimentación (4), registro de datos (5), análisis e interpretación (6) y confirmación de hipótesis (7)."
+    },
+    {
+      "question": "¿Qué característica diferencia el estado sólido del líquido y el gaseoso?",
+      "options": [
+        "El estado sólido tiene forma y volumen constante, con rigidez y regularidad en sus estructuras",
+        "El estado sólido tiene volumen constante pero no forma fija, adaptándose al recipiente",
+        "El estado sólido no tiene ni forma ni volumen fijos pero sí estructura interna ordenada",
+        "El estado sólido tiene forma constante pero volumen variable según la temperatura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El estado sólido se caracteriza por tener forma y volumen constante, así como rigidez y regularidad de sus estructuras. Los líquidos tienen volumen constante pero no forma fija; los gases no tienen ni forma ni volumen fijos."
+    },
+    {
+      "question": "¿Cuáles son los dos competencias más estrechamente vinculadas con los contenidos del tema 10 según el Decreto 155/2022?",
+      "options": [
+        "La Competencia Matemática y Competencia en Ciencia, Tecnología e Ingeniería (STEM) y la Competencia Ciudadana (CC)",
+        "La Competencia en Comunicación Lingüística (CCL) y la Competencia Digital (CD)",
+        "La Competencia Emprendedora (CE) y la Competencia en Conciencia y Expresión Culturales (CCEC)",
+        "La Competencia Personal, Social y de Aprender a Aprender (CPSAA) y la Competencia Ciudadana (CC)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los contenidos del tema se vinculan estrechamente con la Competencia Matemática y Competencia en Ciencia, Tecnología e Ingeniería (STEM) y la Competencia Ciudadana (CC). La STEM implica la comprensión del entorno natural usando la observación y experimentación."
+    },
+    {
+      "question": "¿Qué establece el descriptor operativo STEM4 según el tema?",
+      "options": [
+        "Interpreta y transmite los elementos más relevantes de algunos métodos y resultados de forma clara y veraz utilizando terminología científica apropiada y aprovechando la cultura digital",
+        "Utiliza el pensamiento científico para entender y explicar algunos fenómenos utilizando herramientas e instrumentos adecuados",
+        "Reflexiona y dialoga sobre valores y problemas éticos actuales comprendiendo la necesidad de cuidar el entorno",
+        "Comprende las relaciones sistémicas entre acciones humanas y entorno e inicia la adopción de estilos de vida sostenible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El STEM4 establece que el alumnado 'Interpreta y transmite los elementos más relevantes de algunos métodos y resultados de forma clara y veraz utilizando una terminología científica apropiada y aprovechando la cultura digital'. El STEM2 es el del pensamiento científico para entender fenómenos."
+    },
+    {
+      "question": "¿Cuál es el descriptor operativo CC4 según el tema?",
+      "options": [
+        "Comprende las relaciones sistémicas entre acciones humanas y entorno y se inicia en la adopción de estilos de vida sostenible",
+        "Reflexiona y dialoga sobre valores y problemas éticos actuales comprendiendo la necesidad de cuidar el entorno",
+        "Interpreta y transmite los elementos más relevantes de métodos y resultados científicos con terminología apropiada",
+        "Utiliza el pensamiento científico para entender y explicar fenómenos usando herramientas adecuadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El CC4 establece que el alumnado 'Comprende las relaciones sistémicas entre acciones humanas y entorno y se inicia en la adopción de estilos de vida sostenible'. El CC3 es el que reflexiona y dialoga sobre valores éticos y el cuidado del entorno."
+    },
+    {
+      "question": "¿Qué principio educativo de la LOMLOE vincula la educación con la transición ecológica?",
+      "options": [
+        "Una educación para la transición ecológica con criterios de justicia social como contribución a la sostenibilidad ambiental, social y económica",
+        "Una educación para el desarrollo sostenible basada en la reducción de emisiones de gases de efecto invernadero",
+        "Una educación ambiental integrada en todas las áreas del currículo como eje transversal obligatorio",
+        "Una educación científica orientada al conocimiento de los impactos del cambio climático en los ecosistemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los principios del sistema educativo, la LOMLOE establece 'una educación para la transición ecológica con criterios de justicia social como contribución a la sostenibilidad ambiental, social y económica', vinculando el área científica con los ODS de la Agenda 2030."
+    },
+    {
+      "question": "¿Cuántos pasos tiene el método científico según la descripción del tema?",
+      "options": [
+        "Siete: observación, planteamiento del problema, formulación de hipótesis, experimentación, registro de datos, análisis e interpretación y confirmación de hipótesis",
+        "Cinco: observación, hipótesis, experimentación, análisis y conclusión",
+        "Seis: observación, planteamiento del problema, hipótesis, experimentación, análisis y conclusión",
+        "Cuatro: observación, hipótesis, experimentación y conclusión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El método científico se describe en siete pasos: (1) observación, (2) planteamiento del problema, (3) formulación de hipótesis, (4) experimentación, (5) registro de datos, (6) análisis e interpretación de los datos y (7) confirmación de hipótesis."
+    },
+    {
+      "question": "¿Qué método de separación de mezclas permite separar arena de limaduras de hierro?",
+      "options": [
+        "La atracción magnética",
+        "El filtrado",
+        "La evaporación",
+        "La sedimentación o decantación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La atracción magnética permite separar arena de limaduras de hierro, ya que el hierro es atraído por el imán mientras la arena no lo es. El filtrado separa sólidos en suspensión; la evaporación separa solutos disueltos; la sedimentación separa partículas por densidad."
+    },
+    {
+      "question": "¿Qué tipo de metodología base establece el Decreto 155/2022 para la enseñanza de CCNN?",
+      "options": [
+        "Activa, comunicativa, inclusiva y participativa",
+        "Expositiva, sistemática, secuenciada y evaluable",
+        "Inductiva, deductiva, analítica y sintética",
+        "Constructivista, cooperativa, globalizadora e interdisciplinar únicamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La base metodológica que establece el Decreto 155/2022 para CCNN es una metodología activa, comunicativa, inclusiva y participativa dirigida a la adquisición de las CC y los objetivos, dentro de las líneas de actuación del epígrafe 1.4. del Anexo II."
+    },
+    {
+      "question": "¿Qué dice el Decreto 155/2022 sobre los proyectos en las estrategias de intervención de CCNN?",
+      "options": [
+        "Deben ser proyectos significativos y de actualidad que partan de los conocimientos previos de los discentes y de su entorno próximo",
+        "Deben ser proyectos cerrados con objetivos predefinidos y resultados esperados que el alumnado debe alcanzar",
+        "Deben ser proyectos interdisciplinares únicamente, que integren al menos tres áreas curriculares diferentes",
+        "Deben ser proyectos de investigación documental que desarrollen habilidades de búsqueda y tratamiento de la información"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece que la enseñanza debe englobar proyectos significativos y de actualidad que partan de los conocimientos previos de los discentes y de su entorno próximo, tal y como establecen Ausubel y Piaget en sus teorías de aprendizaje."
+    },
+    {
+      "question": "¿Qué debe conseguir el alumnado del tercer ciclo según el tema en cuanto a la metodología científica?",
+      "options": [
+        "Ser capaz de expresar razonamientos formales con rigor desde la metodología científica",
+        "Iniciarse en el razonamiento científico mediante actividades prácticas e investigativas",
+        "Explorar el entorno próximo con experiencias sencillas y motivadoras de resolución rápida",
+        "Manipular materiales del entorno para descubrir sus propiedades físicas básicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el tercer ciclo, debe procurarse que el alumnado sea capaz de expresar razonamientos formales con rigor desde la metodología científica, mediante tareas de expresión de hipótesis y resultados y la aplicación de conocimientos en situaciones complejas."
+    },
+    {
+      "question": "¿Cuál es la Agenda y organismo que en 2015 estableció los 17 ODS mencionados en el tema?",
+      "options": [
+        "La Agenda 2030 elaborada por la ONU en 2015",
+        "El Acuerdo de París elaborado por la UE en 2015",
+        "La Estrategia Europa 2020 elaborada por la Comisión Europea",
+        "Los Objetivos del Milenio elaborados por la UNESCO en 2015"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Agenda 2030 fue elaborada por la ONU en 2015 y contiene los 17 Objetivos de Desarrollo Sostenible que orientan la acción educativa. Varios de estos ODS se vinculan con el área científica de la EP."
+    },
+    {
+      "question": "¿Qué tipo de actividades propone el Decreto 155/2022 para trabajar los fenómenos naturales en CCNN?",
+      "options": [
+        "Actividades abiertas con enfoques globales, funcionales y significativos, basadas en la manipulación, observación, experimentación, reflexión y curiosidad",
+        "Actividades cerradas con soluciones únicas que permitan la evaluación objetiva del aprendizaje alcanzado",
+        "Actividades individuales de resolución de problemas aplicando fórmulas y procedimientos matemáticos al ámbito científico",
+        "Actividades de síntesis y memorización de los contenidos conceptuales del área para su posterior aplicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 plantea actividades abiertas con enfoques globales, funcionales y significativos, basadas en la manipulación, la observación, la experimentación, la reflexión y la curiosidad, distinguiendo entre actividades de formulación del problema, proceso de investigación y elaboración de conclusiones."
+    },
+    {
+      "question": "¿Qué habilidades del segundo ciclo de EP se desarrollan con las actividades prácticas e investigativas?",
+      "options": [
+        "Habilidades manuales y de análisis vinculadas a la manipulación de instrumentos, observación, interpretación de datos y elaboración de conclusiones",
+        "Habilidades de expresión formal de razonamientos y aplicación de conocimientos en situaciones complejas",
+        "Habilidades de manipulación básica de materiales cotidianos y de observación directa del entorno próximo",
+        "Habilidades de diseño experimental y comunicación científica con terminología técnica apropiada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo ciclo, las actividades prácticas e investigativas favorecen el desarrollo de habilidades manuales y de análisis vinculadas a la manipulación de instrumentos, la observación, la interpretación de datos y la elaboración de conclusiones, iniciando al alumnado en el razonamiento científico."
+    },
+    {
+      "question": "¿Cuáles son los objetivos generales de las experiencias para trabajar la materia y la energía según el tema?",
+      "options": [
+        "Conocer qué es la materia y la energía, distinguir sus propiedades, comprender las transformaciones energéticas, clasificar tipos y fuentes de energía, emplear notación científica y entender los cambios del entorno",
+        "Memorizar las definiciones de los conceptos científicos básicos, reproducir los experimentos demostrados por el profesor y registrar los resultados obtenidos",
+        "Desarrollar la capacidad de lectura de textos científicos, interpretar gráficas y tablas de datos, y redactar informes de laboratorio",
+        "Conocer los principales científicos de la historia, sus aportaciones al conocimiento y el contexto sociocultural en que desarrollaron su trabajo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los objetivos de las experiencias para trabajar la materia y la energía incluyen: conocer qué es la materia y la energía, distinguir sus propiedades, comprender las transformaciones de la energía, clasificar tipos y fuentes de energía, emplear la notación científica y entender los cambios del entorno."
+    },
+    {
+      "question": "¿Qué forma tiene el estado líquido de la materia?",
+      "options": [
+        "Los líquidos presentan volumen constante pero no forma fija, adaptándose al recipiente que los contiene",
+        "Los líquidos presentan tanto forma como volumen constante pero carecen de estructura cristalina interna",
+        "Los líquidos no tienen forma ni volumen fijos y se expanden para ocupar todo el espacio disponible",
+        "Los líquidos tienen forma constante determinada por su composición pero volumen variable según la temperatura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los líquidos presentan volumen constante pero no forma fija, adaptándose al recipiente que los contiene. El estado sólido tiene forma y volumen constante; el gaseoso no tiene ni forma ni volumen fijos y posee gran capacidad de expansión."
+    },
+    {
+      "question": "¿Qué establecen los 4 bloques del área de CCNN del Decreto 155/2022 en cuanto a su trabajo en el aula?",
+      "options": [
+        "Los 4 bloques deben trabajarse de forma integrada y aplicarse en contextos reales para favorecer el aprendizaje competencial",
+        "Los 4 bloques deben trabajarse de forma secuencial, comenzando por el Bloque 1 y terminando por el Bloque 4",
+        "Los 4 bloques son independientes y pueden trabajarse en cualquier orden según las necesidades del grupo",
+        "Los 4 bloques se distribuyen entre los ciclos: Bloques 1 y 2 en el primer ciclo, Bloques 3 y 4 en los restantes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dada la interrelación de los contenidos, los 4 bloques del área de CCNN deben trabajarse de forma integrada y aplicarse en contextos reales para favorecer el aprendizaje competencial. El Bloque 1 'Cultura Científica' tiene específicamente un carácter transversal."
+    },
+    {
+      "question": "¿Qué papel juega la biblioteca según las estrategias de intervención educativa del Decreto 155/2022?",
+      "options": [
+        "Se promueve como fuente de aprendizaje y recursos dentro de la metodología globalizadora e interdisciplinar",
+        "Se concibe únicamente como repositorio de libros de texto y materiales complementarios del área",
+        "Se utiliza exclusivamente para el fomento de la lectura científica en el horario de libre disposición",
+        "Se convierte en el espacio principal de aprendizaje sustituyendo al laboratorio para la búsqueda de información"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según las estrategias de intervención educativa del Decreto 155/2022, se promueve la biblioteca como fuente de aprendizaje y recursos dentro de una metodología globalizadora e interdisciplinar basada en el aprendizaje competencial."
+    },
+    {
+      "question": "¿Qué autores respaldan la necesidad de partir de los conocimientos previos en las estrategias de intervención?",
+      "options": [
+        "Ausubel y Piaget",
+        "Wallon y Vygotski",
+        "Driver y Giordan",
+        "Sanmartí y Caballero"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 respalda la necesidad de partir de los conocimientos previos de los discentes y de su entorno próximo, tal y como establecen Ausubel (aprendizaje significativo) y Piaget (estadios del desarrollo cognitivo), referentes teóricos clave en el tema."
+    },
+    {
+      "question": "¿Qué demuestran los cambios de estado del agua observados en un ciclo completo (congelando, fundiendo e hirviendo)?",
+      "options": [
+        "Que el agua se transforma físicamente sin que cambie su composición química",
+        "Que el agua experimenta cambios químicos que producen diferentes sustancias en cada estado",
+        "Que la temperatura determina la naturaleza química del agua en cada uno de sus estados de agregación",
+        "Que los cambios de estado son procesos irreversibles que alteran permanentemente las propiedades del agua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cambios de estado del agua (congelación, fusión, evaporación) demuestran que el agua se transforma físicamente sin que cambie su composición química (H₂O en todos los estados). Son fenómenos físicos, no químicos, pues no se origina ninguna nueva sustancia."
+    },
+    {
+      "question": "¿Cuándo el Decreto 155/2022 establece que deben fomentarse las habilidades de trabajo cooperativo y colaborativo?",
+      "options": [
+        "En el contexto de las estrategias de intervención educativa del área de CCNN para contribuir a la inclusión, la autoestima y la responsabilidad",
+        "Exclusivamente en el tercer ciclo, cuando el alumnado tiene la madurez necesaria para el trabajo en grupo",
+        "Solo en las actividades de laboratorio donde la seguridad requiere la colaboración entre los miembros del grupo",
+        "En la evaluación final de cada unidad didáctica como instrumento de coevaluación entre iguales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece la necesidad de fomentar habilidades de trabajo cooperativo y colaborativo que contribuyan a la inclusión, la autoestima, la responsabilidad y la competencia de aprender a aprender, dentro de las estrategias generales de intervención educativa."
+    },
+    {
+      "question": "¿Cuál es el año en que se publicó el Decreto 155/2022 que regula el currículo de EP en Galicia?",
+      "options": [
+        "2022, publicado el 15 de septiembre en el DOG el 26 de septiembre",
+        "2023, publicado el 26 de mayo en el DOG el 13 de junio",
+        "2021, publicado el 8 de septiembre en el DOG el 26 de octubre",
+        "2020, publicado el 29 de diciembre en el BOE el 30 de diciembre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 fue publicado el 15 de septiembre de 2022 y apareció en el Diario Oficial de Galicia (DOG) el 26 de septiembre de 2022. La Orden de 26 de mayo de 2023 lo desarrolla y regula la evaluación."
+    },
+    {
+      "question": "¿Qué ejemplo ilustra la transferencia de energía mencionada en las propiedades de la energía?",
+      "options": [
+        "Mezclar agua fría y agua caliente hasta alcanzar el equilibrio térmico",
+        "Cargar un teléfono móvil transformando energía eléctrica en química",
+        "Almacenar energía en pilas o baterías para su uso posterior",
+        "Encender una bombilla que convierte energía eléctrica en lumínica y térmica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ejemplo de transferencia de energía que se menciona en el tema es mezclar agua fría y agua caliente hasta alcanzar el equilibrio térmico, donde el calor se transfiere del agua caliente a la fría. Cargar un móvil ilustra la transformación; las pilas, el almacenamiento."
+    },
+    {
+      "question": "¿Qué capacidades y habilidades desarrolla el aprendizaje de los fenómenos físicos y cambios químicos según la introducción del tema?",
+      "options": [
+        "Capacidades y habilidades científicas, el pensamiento crítico y la comprensión del entorno y del mundo actual",
+        "La memorización de fórmulas y clasificaciones, la capacidad de cálculo numérico y la resolución de problemas abstractos",
+        "Las habilidades comunicativas, la expresión escrita científica y la capacidad de argumentación formal",
+        "La creatividad, la imaginación y el pensamiento divergente aplicados al ámbito de la investigación científica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La introducción del tema señala que el estudio de los fenómenos físicos y cambios químicos es fundamental para desarrollar en el alumnado capacidades y habilidades científicas, el pensamiento crítico y la comprensión del entorno y del mundo actual, desde un enfoque constructivista."
+    },
+    {
+      "question": "¿Qué enfoque didáctico se mencionan para el aprendizaje de las Ciencias de la Naturaleza en EP?",
+      "options": [
+        "Un enfoque constructivista que considera al niño como protagonista activo de su propio aprendizaje",
+        "Un enfoque transmisivo centrado en el maestro como transmisor del conocimiento científico establecido",
+        "Un enfoque conductista basado en el refuerzo positivo de las respuestas correctas del alumnado",
+        "Un enfoque madurativo que respeta los ritmos naturales de desarrollo de cada niño sin forzar aprendizajes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que el aprendizaje de los fenómenos físicos y cambios químicos debe realizarse desde un enfoque constructivista que considera al niño como protagonista activo de su propio aprendizaje, partiendo de sus experiencias previas y usando el método científico, la indagación y la experimentación."
+    },
+    {
+      "question": "¿Cuántos bloques tiene el área de CCNN en el Decreto 155/2022?",
+      "options": [
+        "4 bloques",
+        "3 bloques",
+        "5 bloques",
+        "6 bloques"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El área de CCNN en el Decreto 155/2022 tiene 4 bloques que deben trabajarse de forma integrada. El Bloque 1 es 'Cultura Científica', el Bloque 3 es 'Materia, Fuerzas y Energía'. Los 4 bloques deben aplicarse en contextos reales para favorecer el aprendizaje competencial."
+    },
+    {
+      "question": "¿Qué campo de la física se ocupa del estudio de propiedades del espacio, el tiempo, la materia y la energía?",
+      "options": [
+        "La física en su conjunto",
+        "La mecánica, como rama específica de la física clásica",
+        "La termodinámica, que estudia las relaciones entre calor y trabajo",
+        "La óptica, que estudia la naturaleza y comportamiento de la luz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La física se ocupa del estudio de las propiedades del espacio, el tiempo, la materia y la energía y sus interacciones. La química, por su parte, estudia la composición, estructura y propiedades de la materia y los cambios que experimenta a través de reacciones químicas."
+    },
+    {
+      "question": "¿Qué se estudia en la química como disciplina científica según la clarificación conceptual?",
+      "options": [
+        "La composición, la estructura y las propiedades de la materia y los cambios que experimenta a través de reacciones químicas",
+        "Las propiedades del espacio, el tiempo, la materia y la energía y sus interacciones entre sí",
+        "La distribución y evolución de la materia viva y no viva en los diferentes ecosistemas terrestres",
+        "Los fenómenos atmosféricos, climáticos y geológicos que modelan la superficie terrestre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La química se encarga del estudio de la composición, la estructura y las propiedades de la materia y de los cambios que experimenta a través de reacciones químicas. La física, en cambio, estudia las propiedades del espacio, el tiempo, la materia y la energía."
+    },
+    {
+      "question": "¿Cómo se vinculan los contenidos del Bloque 1 'Cultura Científica' con los demás bloques según el Decreto 155/2022?",
+      "options": [
+        "El Bloque 1 tiene carácter transversal, pretendiendo que el alumnado desarrolle destrezas y estrategias propias del pensamiento científico mediante la indagación y el descubrimiento",
+        "El Bloque 1 es independiente y se trabaja por separado como introducción metodológica al inicio del curso escolar",
+        "El Bloque 1 sirve como evaluación de los otros bloques, comprobando si el alumnado aplica el método científico correctamente",
+        "El Bloque 1 se trabaja únicamente en el tercer ciclo, cuando el alumnado puede comprender la naturaleza del conocimiento científico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 1 'Cultura Científica' presenta un carácter transversal, al pretender que el alumnado desarrolle destrezas y estrategias propias del pensamiento científico mediante la indagación y el descubrimiento, valorando el impacto de la ciencia en la sociedad."
+    },
+    {
+      "question": "¿Cuál es un ejemplo de fenómeno químico citado en el tema?",
+      "options": [
+        "La combustión de una vela o la fermentación de la masa al hornear un bizcocho",
+        "Hervir agua o desplazar un objeto al empujar un carrito",
+        "La fusión del hielo al subir la temperatura o la condensación del vapor",
+        "La dilatación del metal al calentarse o la compresión del aire al presionarlo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La combustión de una vela y la fermentación de la masa al hornear un bizcocho son ejemplos de fenómenos químicos, donde la naturaleza de la sustancia desaparece y se origina una nueva, con carácter permanente. Hervir agua es un fenómeno físico."
+    },
+    {
+      "question": "¿Qué características tienen los fenómenos químicos que los diferencian de los físicos?",
+      "options": [
+        "Implican transformaciones donde la naturaleza de la sustancia desaparece y se origina una nueva, con carácter permanente",
+        "Implican cambios de estado de la materia sin que se modifique la composición química de las sustancias implicadas",
+        "Implican modificaciones parciales de alguna propiedad sin alterar la naturaleza de la sustancia original",
+        "Implican cambios en el volumen o la forma de las sustancias sin que se produzca ninguna reacción química"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los fenómenos químicos implican transformaciones más profundas en las que la naturaleza de la sustancia desaparece y se origina una nueva, presentando carácter permanente. Los fenómenos físicos, en cambio, modifican parcialmente alguna propiedad sin alterar la naturaleza de la sustancia."
+    },
+    {
+      "question": "¿Qué función tiene el perfil de salida en el marco curricular de la LOMLOE y el Decreto 155/2022?",
+      "options": [
+        "Define el nivel de competencias clave que el alumnado debe alcanzar al finalizar la educación básica, concretado en descriptores operativos",
+        "Describe los objetivos mínimos que el alumnado debe alcanzar al finalizar cada ciclo de Educación Primaria",
+        "Establece los criterios de calificación para determinar si el alumnado promociona al siguiente nivel educativo",
+        "Define los contenidos mínimos del currículo básico que todas las comunidades autónomas deben incluir"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El perfil de salida es el elemento curricular que define el nivel de competencias clave (CC) que el alumnado debe alcanzar al finalizar la educación básica. El nivel de desempeño esperado se concreta en los descriptores operativos del Anexo I del Decreto 155/2022."
+    },
+    {
+      "question": "¿Qué atención a la diversidad establece el Decreto 155/2022 para las estrategias de intervención en CCNN?",
+      "options": [
+        "Atención individualizada mediante mecanismos de refuerzo y ampliación para la prevención de dificultades, considerando diferentes ritmos y estilos de aprendizaje",
+        "Agrupamientos homogéneos por niveles de rendimiento que permitan una instrucción diferenciada según las capacidades",
+        "Adaptaciones curriculares individualizadas para el alumnado con necesidades educativas especiales documentadas",
+        "Programas de enriquecimiento para el alumnado con altas capacidades que trabaja los contenidos a mayor profundidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece que la enseñanza debe promover la atención a la diversidad, la atención individualizada e implementar mecanismos de refuerzo y ampliación para la prevención de dificultades de aprendizaje, teniendo en cuenta los diferentes ritmos y estilos de aprendizaje."
+    },
+    {
+      "question": "¿Qué competencias fomenta el trabajo cooperativo y colaborativo según las estrategias del Decreto 155/2022?",
+      "options": [
+        "La inclusión, la autoestima, la responsabilidad y la competencia de aprender a aprender",
+        "La comunicación lingüística, la expresión oral y la capacidad de argumentación científica",
+        "El pensamiento crítico, la creatividad y la iniciativa emprendedora en proyectos científicos",
+        "La autonomía personal, la gestión del tiempo y la capacidad de trabajo individual eficaz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece que el trabajo cooperativo y colaborativo contribuye a la inclusión, la autoestima, la responsabilidad y la competencia de aprender a aprender, además de promover actitudes positivas para el bienestar personal, social y físico."
+    },
+    {
+      "question": "¿Cómo deben planificarse las actividades de ciencias para que las tareas propuestas lleven al alumnado a desarrollar competencias?",
+      "options": [
+        "Deben llevar al alumnado a planificar, diseñar, proponer y comunicar propuestas creativas",
+        "Deben centrarse en la memorización de datos y la reproducción fiel de los experimentos demostrados",
+        "Deben limitarse a actividades de observación y registro de fenómenos del entorno cotidiano",
+        "Deben priorizar la resolución de ejercicios de aplicación de fórmulas y procedimientos matemáticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tareas propuestas deben llevar al alumnado a planificar, diseñar, proponer y comunicar propuestas creativas. Esto se enmarca en una metodología activa que promueve la adquisición de las competencias clave mediante actividades que permitan avanzar en más de una competencia simultáneamente."
+    },
+    {
+      "question": "¿Qué indica el Decreto 155/2022 sobre la evaluación en las estrategias de intervención de CCNN?",
+      "options": [
+        "Deben aplicarse diferentes técnicas e instrumentos de evaluación para garantizar la objetividad",
+        "La evaluación debe ser exclusivamente cuantitativa para permitir la comparación objetiva entre alumnos",
+        "La evaluación ha de ser siempre formativa y continua, sin posibilidad de evaluaciones sumativas parciales",
+        "Los instrumentos de evaluación deben limitarse a pruebas escritas individuales para medir el aprendizaje conceptual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece la necesidad de aplicar diferentes técnicas e instrumentos de evaluación para garantizar la objetividad. Esto forma parte de las estrategias de intervención educativa del área de CCNN."
+    },
+    {
+      "question": "¿Por qué es importante estudiar los fenómenos físicos y químicos desde los primeros años de EP?",
+      "options": [
+        "Porque todo en nuestro entorno es materia y para comprender la naturaleza en su globalidad es importante identificar las características de los elementos y objetos",
+        "Porque los contenidos científicos son requisito previo imprescindible para comprender las matemáticas y la tecnología",
+        "Porque la LOMLOE establece que los contenidos de ciencias tienen prioridad sobre otras áreas del currículo",
+        "Porque los niños de Educación Primaria tienen mayor capacidad de abstracción que los de infantil para comprender estos fenómenos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es fundamental introducir el estudio de los fenómenos físicos y químicos desde la EP porque todo en nuestro entorno es materia (objetos, agua, aire, sustancias, animales). Para comprender la naturaleza en su globalidad es importante identificar las características de los elementos, entender cómo funcionan y qué cambios experimentan."
+    },
+    {
+      "question": "¿Qué establece el epígrafe 1.1. del Anexo II del Decreto 155/2022 sobre la ciencia como proceso?",
+      "options": [
+        "Debe promoverse la ciencia como un proceso de investigación a través de la observación sistemática, la medición, la experimentación y el planteamiento de hipótesis",
+        "Debe promoverse la ciencia como un proceso de transmisión cultural de los conocimientos acumulados por la humanidad",
+        "Debe promoverse la ciencia como un proceso de memorización y aplicación de las leyes y principios científicos establecidos",
+        "Debe promoverse la ciencia como un proceso de resolución de problemas reales mediante el uso de tecnología digital avanzada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El epígrafe 1.1. del Anexo II del Decreto 155/2022 establece que debe promoverse la ciencia como un proceso de investigación, a través de la observación sistemática, la medición, la experimentación y el planteamiento de hipótesis, ejes centrales del método científico."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre las fuentes de energía externas e internas según el tema?",
+      "options": [
+        "Las externas provienen del exterior del planeta (Sol, mareas), mientras las internas incluyen reacciones nucleares, combustibles fósiles y el calor interno terrestre",
+        "Las externas son las renovables (solar, eólica, hidráulica), mientras las internas son las no renovables (petróleo, carbón)",
+        "Las externas son las que se producen fuera del sistema energético nacional, mientras las internas son las de producción doméstica",
+        "Las externas son las que requieren infraestructura de importación, mientras las internas son autosuficientes para el país"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las fuentes externas son aquellas cuya energía proviene del exterior del planeta, como la energía solar o la gravitatoria que origina las mareas. Las fuentes internas incluyen las reacciones nucleares, los combustibles fósiles y el calor interno terrestre."
+    },
+    {
+      "question": "¿Qué ocurre después de la confirmación de hipótesis en el método científico según el tema?",
+      "options": [
+        "Se comprueba que los discentes puedan aplicar los nuevos conocimientos en otras situaciones, garantizando la comprensión y consolidación del aprendizaje",
+        "Se vuelve a la observación inicial para iniciar un nuevo ciclo del método científico con un fenómeno diferente",
+        "Se elabora un informe científico formal que se publica en la comunidad educativa para su revisión",
+        "Se evalúa el proceso seguido por el alumnado mediante una prueba escrita con preguntas sobre el experimento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tras el desarrollo del método científico y la confirmación de hipótesis, conviene comprobar que los discentes son capaces de aplicar los nuevos conocimientos en otras situaciones, garantizando así la comprensión, la significatividad y la consolidación del aprendizaje."
+    },
+    {
+      "question": "¿Qué papel otorga el tema al enfoque competencial, manipulativo y vivencial en el aprendizaje de las ciencias?",
+      "options": [
+        "Es el enfoque recomendado por Sanmartí (2002) para estimular la curiosidad desde los primeros momentos de la escolaridad con experimentos sencillos",
+        "Es un enfoque complementario al expositivo, que se aplica solo en las actividades de laboratorio del tercer ciclo",
+        "Es el enfoque adoptado exclusivamente para el alumnado con dificultades de aprendizaje que necesita mayor concreción",
+        "Es un enfoque teórico que sirve de marco para el diseño curricular pero raramente se aplica en la práctica cotidiana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Neus Sanmartí (2002), el enfoque competencial, manipulativo y vivencial es el recomendado para las ciencias en EP, estimulando la curiosidad desde los primeros momentos de la escolaridad, usando experimentos sencillos y recursos como el laboratorio escolar."
+    },
+    {
+      "question": "¿Cuáles son los ejemplos de energía renovable citados en el tema?",
+      "options": [
+        "La solar, la eólica y la hidráulica",
+        "El petróleo, el carbón y el gas natural",
+        "La nuclear, la geotérmica y la biomasa",
+        "La eléctrica, la cinética y la química"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los ejemplos de fuentes de energía renovables citados en el tema son la solar, la eólica y la hidráulica. Estas se obtienen de recursos naturales inagotables o que se regeneran continuamente, a diferencia de las no renovables como el petróleo, el carbón o el gas natural."
+    },
+    {
+      "question": "¿Cuáles son los ejemplos de energía no renovable citados en el tema?",
+      "options": [
+        "El petróleo, el carbón y el gas natural",
+        "La solar, la eólica y la hidráulica",
+        "La nuclear, la geotérmica y los biocombustibles",
+        "La electricidad, la gasolina y el gas ciudad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los ejemplos de fuentes de energía no renovables citados en el tema son el petróleo, el carbón y el gas natural. Estas proceden de recursos finitos que no se regeneran a escala humana, a diferencia de las renovables como la solar, eólica o hidráulica."
+    },
+    {
+      "question": "¿Qué actividades de observación propone el primer ciclo de EP para estudiar la materia?",
+      "options": [
+        "Registrar el tiempo atmosférico, estudiar las sombras y sus proyecciones, y analizar cualidades sensoriales de objetos como el calor, el olor o el sabor",
+        "Observar el proceso de oxidación, comprobar la elasticidad de objetos y estudiar la combustión de materiales",
+        "Comprobar la existencia de microorganismos, analizar la presencia de cloro en el agua y simular el efecto invernadero",
+        "Realizar experiencias de separación de sustancias, construir lentes simples y diseñar palancas o poleas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre las actividades del primer ciclo se incluyen: registrar el tiempo atmosférico, estudiar las sombras y sus proyecciones, y analizar cualidades sensoriales de los objetos y sustancias como el calor, el olor o el sabor. Son actividades breves, manipulativas y de resolución rápida."
+    },
+    {
+      "question": "¿Qué elemento curricular del Decreto 155/2022 concreta el nivel de desempeño competencial esperado?",
+      "options": [
+        "Los descriptores operativos del Anexo I del Decreto 155/2022",
+        "Los criterios de evaluación de cada área curricular",
+        "Los estándares de aprendizaje evaluables de cada unidad didáctica",
+        "Las rúbricas de evaluación de las competencias clave al final de etapa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El nivel de desempeño esperado se concreta en los descriptores operativos del Anexo I del Decreto 155/2022. Estos forman parte del perfil de salida y especifican qué debe ser capaz de hacer el alumnado al finalizar la educación básica en cada competencia clave."
+    },
+    {
+      "question": "¿Qué actividad del primer ciclo permite trabajar los cambios de estado de la materia?",
+      "options": [
+        "Calentar y enfriar sustancias para observar los cambios de estado",
+        "Realizar mezclas y disoluciones y comprobar sus diferencias",
+        "Diseñar máquinas simples como palancas o poleas",
+        "Comprobar la existencia de microorganismos en el agua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo, entre las actividades básicas se incluye trabajar los cambios de estado calentando y enfriando sustancias. Esta es una actividad sencilla y manipulativa adecuada para los primeros cursos, que introduce el concepto de cambios físicos de la materia."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre las actividades del segundo ciclo respecto a las del primero en EP?",
+      "options": [
+        "El segundo ciclo permite iniciar al alumnado en el razonamiento científico con actividades prácticas e investigativas, mayor autonomía y manipulación de instrumentos",
+        "El segundo ciclo introduce la memorización de fórmulas y conceptos abstractos que no son accesibles en el primer ciclo",
+        "El segundo ciclo elimina las actividades manipulativas para centrarse en el trabajo teórico y la expresión escrita",
+        "El segundo ciclo solo trabaja con materiales de laboratorio mientras el primero usa materiales del entorno cotidiano"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El segundo ciclo se diferencia del primero en que el alumnado posee mayor autonomía, permitiendo iniciarlo en el razonamiento científico mediante actividades prácticas e investigativas que favorecen habilidades manuales y de análisis: manipulación de instrumentos, observación, interpretación de datos y elaboración de conclusiones."
+    },
+    {
+      "question": "¿Qué experimento de separación de mezclas trabaja la separación por evaporación?",
+      "options": [
+        "Evaporar el agua de la mezcla arena-sal-aceite para recuperar la sal",
+        "Filtrar la mezcla de arena-sal-aceite para separar la arena del resto",
+        "Observar cómo el aceite flota en la solución acuosa para separarlo por densidad",
+        "Usar un imán para separar las limaduras de hierro de la mezcla con arena"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La separación por evaporación consiste en evaporar el agua de la mezcla para recuperar la sal disuelta. El filtrado separa la arena (sólido en suspensión); la flotación del aceite ilustra la separación por densidad; el imán permite la atracción magnética de limaduras de hierro."
+    },
+    {
+      "question": "¿Qué ejemplo de actividad del segundo ciclo trabaja la filtración del agua?",
+      "options": [
+        "Analizar procesos de contaminación del agua y su depuración a través del filtrado",
+        "Congelar, fundir e hervir agua en un mismo recipiente para observar los cambios de estado",
+        "Comprobar la existencia de microorganismos en el agua con microscopio",
+        "Analizar la presencia de cloro en el agua y su efecto sobre los microorganismos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo ciclo, analizar procesos de contaminación del agua y su depuración a través del filtrado es una actividad que trabaja la separación de mezclas y conecta con la sostenibilidad ambiental. Comprobar microorganismos y analizar el cloro son actividades del tercer ciclo."
+    },
+    {
+      "question": "¿Qué actividad del tercer ciclo trabaja la simulación de un fenómeno climático global?",
+      "options": [
+        "Simular el efecto invernadero",
+        "Construir pequeñas lentes ópticas",
+        "Analizar la presencia de cloro en el agua",
+        "Diseñar máquinas simples como palancas o poleas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Simular el efecto invernadero es una actividad del tercer ciclo que permite al alumnado comprender un fenómeno climático global de gran relevancia actual, conectando con los ODS y la sostenibilidad ambiental. Las otras opciones son también actividades del tercer ciclo pero con objetivos diferentes."
+    },
+    {
+      "question": "¿Qué indica el tema sobre la Competencia Matemática y Competencia STEM en relación con el área de CCNN?",
+      "options": [
+        "Supone la comprensión y explicación del entorno natural y social utilizando la observación y la experimentación",
+        "Se limita al uso de operaciones matemáticas y fórmulas para resolver problemas cuantitativos del área",
+        "Implica la programación y uso de herramientas digitales para modelizar fenómenos científicos en el aula",
+        "Consiste en la aplicación de los principios de la ingeniería para diseñar soluciones tecnológicas a problemas cotidianos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Competencia Matemática y STEM supone, entre otros aspectos, la comprensión y explicación del entorno natural y social utilizando la observación y la experimentación. Los descriptores operativos más relacionados con el tema son el STEM2 y el STEM4."
+    },
+    {
+      "question": "¿Cuál es el objetivo 'h' de etapa del artículo 7 del Decreto 155/2022?",
+      "options": [
+        "Conocer los aspectos fundamentales de las ciencias de la naturaleza, las ciencias sociales, la geografía, la historia y la cultura",
+        "Valorar la higiene y la salud, aceptar el propio cuerpo y el de los otros, respetar las diferencias",
+        "Conocer y usar de manera apropiada la lengua castellana y, si la hay, la lengua cooficial de la Comunidad",
+        "Iniciarse en la utilización, para el aprendizaje, de las tecnologías de la información y la comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo 'h' del artículo 7 del Decreto 155/2022 establece 'Conocer los aspectos fundamentales de las ciencias de la naturaleza, las ciencias sociales, la geografía, la historia y la cultura', vinculándose directamente con el contenido del Tema 10."
+    },
+    {
+      "question": "¿Qué papel tienen las 'experiencias previas' del alumnado en el enfoque constructivista del tema?",
+      "options": [
+        "Son el punto de partida del aprendizaje, desde el cual el alumnado construye activamente su conocimiento",
+        "Son obstáculos epistemológicos que el maestro debe eliminar mediante la instrucción directa y la corrección",
+        "Son irrelevantes para el aprendizaje científico, que debe comenzar siempre desde cero con conceptos rigurosos",
+        "Son útiles únicamente para el primer ciclo; a partir del segundo se trabaja con conceptos abstractos sin conexión personal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el enfoque constructivista del tema, las experiencias previas son el punto de partida del aprendizaje. El alumnado, considerado protagonista activo de su propio aprendizaje, construye el conocimiento partiendo de sus experiencias previas y usando el método científico, la indagación y la experimentación."
+    },
+    {
+      "question": "¿Cuáles son los cambios de estado del agua que se mencionan en el tema?",
+      "options": [
+        "Fusión, vaporización, condensación y solidificación",
+        "Combustión, oxidación, fermentación y descomposición",
+        "Disolución, filtración, evaporación y precipitación",
+        "Sublimación, deposición, ionización y polimerización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cambios físicos que permiten al agua pasar de un estado a otro son: la fusión (sólido a líquido), la vaporización (líquido a gas), la condensación (gas a líquido) y la solidificación (líquido a sólido). Estos son fenómenos físicos ya que no modifica la composición química del agua."
+    },
+    {
+      "question": "¿Cuál es la referencia de André Giordan utilizada en el tema y cuándo se publicó?",
+      "options": [
+        "Giordan (1987) destacó la importancia del aprendizaje de las ciencias como proceso activo de construcción del conocimiento",
+        "Giordan (1986) destacó la importancia de construir el concepto de materia desde la manipulación y la experiencia",
+        "Giordan (2002) señaló que las ciencias en EP deben estimular la curiosidad con un enfoque competencial y vivencial",
+        "Giordan (2009) propuso el taller de ciencias al aire libre como estrategia metodológica para EP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "André Giordan (1987) destacó la importancia del aprendizaje de las ciencias como un proceso activo de construcción del conocimiento a través de la investigación y la interacción con el entorno. Rosalind Driver es quien trabajó en 1986 sobre el concepto de materia."
+    },
+    {
+      "question": "¿Qué se demuestra al comparar el peso de dos globos idénticos, uno desinflado y otro inflado?",
+      "options": [
+        "Que el aire tiene masa",
+        "Que el aire ocupa espacio",
+        "Que el aire es compresible",
+        "Que el aire se dilata con el calor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Comparar el peso de dos globos idénticos (uno desinflado y otro inflado) demuestra directamente que el aire tiene masa, ya que el globo inflado pesará más. Este experimento complementa el de la botella con globo (que demuestra que el aire ocupa espacio) para evidenciar las propiedades del aire."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el experimento de la jeringuilla con agua y el de la jeringuilla con aire?",
+      "options": [
+        "Con agua el émbolo no avanza (el agua es incompresible), mientras con aire el émbolo sí avanza (el aire es compresible)",
+        "Con agua el émbolo avanza lentamente, mientras con aire el émbolo avanza rápidamente",
+        "Con agua el émbolo no avanza porque el agua es densa, mientras con aire tampoco avanza porque el aire también es incompresible",
+        "Con agua el émbolo no avanza por adhesión del agua al pistón, mientras con aire avanza libremente sin resistencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al llenar una jeringuilla con agua y presionar el émbolo (con el extremo obstruido), este no avanzará, demostrando que el agua es incompresible. Con la jeringuilla llena de aire, al presionar el émbolo sí avanzará, comprimiendo el aire y demostrando que el aire es compresible."
+    },
+    {
+      "question": "¿Cuáles son los materiales con los que se realiza el experimento de conductividad térmica según el tema?",
+      "options": [
+        "Metal, plástico, madera y vidrio",
+        "Madera, cartón, papel y tejido",
+        "Aluminio, cobre, hierro y acero",
+        "Plástico, goma, algodón y lana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para demostrar que distintos materiales conducen el calor de manera diferente, se colocan objetos alargados de diversos materiales: metal, plástico, madera y vidrio. Al sumergirlos en agua caliente, se observa el orden en que se desprenden, evidenciando las diferencias en conductividad térmica."
+    },
+    {
+      "question": "¿Qué aspecto del bienestar promueven las estrategias de intervención del Decreto 155/2022 para CCNN?",
+      "options": [
+        "El bienestar personal, social y físico, junto con el espíritu crítico en relación a la perspectiva de género",
+        "Exclusivamente el bienestar físico mediante hábitos de vida saludable y educación para la salud",
+        "El bienestar emocional y psicológico del alumnado a través del aprendizaje cooperativo y el apoyo mutuo",
+        "El bienestar académico del alumnado mediante el refuerzo positivo de los logros y el éxito escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las estrategias de intervención del Decreto 155/2022 para CCNN promueven actitudes positivas para el bienestar personal, social y físico y el espíritu crítico en relación a la perspectiva de género, además de fomentar el trabajo cooperativo y colaborativo."
+    },
+    {
+      "question": "¿Qué establece la LOMLOE sobre la educación para todo el alumnado?",
+      "options": [
+        "Brindar una educación para todo el alumnado, sin que exista discriminación alguna",
+        "Brindar una educación de calidad con especial atención al alumnado con necesidades educativas especiales",
+        "Brindar una educación diferenciada según las capacidades, ritmos de aprendizaje y necesidades del alumnado",
+        "Brindar una educación inclusiva que garantice el acceso de todos los alumnos a los mismos contenidos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los principios del sistema educativo, la LOMLOE establece 'brindar una educación para todo el alumnado, sin que existe discriminación alguna', junto con la educación para la transición ecológica. Ambos principios se vinculan con el contenido del Tema 10."
+    },
+    {
+      "question": "¿Cuándo fue elaborada la Agenda 2030 de la ONU según el tema?",
+      "options": [
+        "En 2015",
+        "En 2020",
+        "En 2010",
+        "En 2030"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Agenda 2030 fue elaborada por la ONU en 2015 y contiene los 17 Objetivos de Desarrollo Sostenible (ODS) que orientan la acción educativa. El nombre 'Agenda 2030' hace referencia al horizonte temporal para alcanzar los ODS, no al año de elaboración."
+    },
+    {
+      "question": "¿Cuál es el ODS relacionado con las 'Ciudades y Comunidades Sostenibles' mencionado en el tema?",
+      "options": [
+        "ODS 11",
+        "ODS 4",
+        "ODS 7",
+        "ODS 13"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ODS11 corresponde a 'Ciudades y Comunidades Sostenibles'. El ODS4 es 'Educación de calidad', el ODS7 es 'Energía Asequible y no contaminante' y el ODS13 es 'Acción por el Clima'. Todos se vinculan estrechamente con el área científica de EP."
+    },
+    {
+      "question": "¿Cuál es el ODS relacionado con la 'Acción por el Clima' mencionado en el tema?",
+      "options": [
+        "ODS 13",
+        "ODS 4",
+        "ODS 7",
+        "ODS 11"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ODS13 corresponde a 'Acción por el Clima'. El ODS4 es 'Educación de calidad', el ODS7 es 'Energía Asequible y no contaminante' y el ODS11 es 'Ciudades y Comunidades Sostenibles'. Todos se vinculan con el área científica en el contexto de la Agenda 2030."
+    },
+    {
+      "question": "¿Cuál es el ODS relacionado con la 'Educación de Calidad' mencionado en el tema?",
+      "options": [
+        "ODS 4",
+        "ODS 7",
+        "ODS 11",
+        "ODS 13"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ODS4 corresponde a 'Educación de calidad'. Es uno de los cuatro ODS que se vinculan estrechamente con el área científica de la EP, junto con el ODS7 (Energía asequible), ODS11 (Ciudades sostenibles) y ODS13 (Acción por el clima)."
+    },
+    {
+      "question": "¿Qué papel tienen las tareas de aprendizaje integradas según las estrategias del Decreto 155/2022?",
+      "options": [
+        "Facilitan la realización de proyectos e investigaciones en el medio dentro de una metodología globalizadora e interdisciplinar",
+        "Permiten la evaluación simultánea de varias competencias mediante una única prueba de rendimiento",
+        "Sustituyen a las actividades experimentales en los centros que no disponen de laboratorio escolar",
+        "Permiten al alumnado avanzar a su propio ritmo en contenidos de distintas áreas de forma autónoma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tareas de aprendizaje integradas facilitan la realización de proyectos e investigaciones en el medio, priorizando una metodología globalizadora e interdisciplinar basada en el aprendizaje competencial y la promoción de la biblioteca como fuente de aprendizaje y recursos."
+    },
+    {
+      "question": "¿Qué actividad del segundo ciclo trabaja las reacciones de oxidación de materiales?",
+      "options": [
+        "Observar el proceso de oxidación de materiales",
+        "Estudiar los cambios de estado (líquido, sólido y gaseoso)",
+        "Realizar distintas mezclas y disoluciones y comprobar sus diferencias",
+        "Comprobar la elasticidad de objetos aplicando fuerzas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo ciclo, observar el proceso de oxidación de materiales es una de las actividades propuestas. Esta actividad introduce al alumnado en los cambios químicos (fenómenos permanentes) en contraste con los físicos, trabajando la observación sistemática del entorno."
+    },
+    {
+      "question": "¿Cuándo fue publicada la Ley Orgánica 3/2020 (LOMLOE)?",
+      "options": [
+        "El 29 de diciembre de 2020",
+        "El 15 de septiembre de 2022",
+        "El 26 de mayo de 2023",
+        "El 3 de mayo de 2006"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Ley Orgánica 3/2020 (LOMLOE) fue publicada el 29 de diciembre de 2020. El Decreto 155/2022 es del 15 de septiembre de 2022; la Orden de 26 de mayo de 2023 lo desarrolla; y la LOE que modifica es del 3 de mayo de 2006."
+    },
+    {
+      "question": "¿Cuál es la definición de energía que ofrece el tema?",
+      "options": [
+        "La capacidad de los cuerpos para transferir calor o realizar un trabajo",
+        "La magnitud física que describe la capacidad de producir movimiento en los cuerpos",
+        "Todo aquello que tiene la potencialidad de transformar el estado de los cuerpos materiales",
+        "La cantidad de trabajo que puede realizar un sistema en condiciones ideales de temperatura y presión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema define la energía como la capacidad de los cuerpos para transferir calor o realizar un trabajo. Su unidad de medida en el SI es el julio (J), aunque en contextos cotidianos también se usa la caloría (cal)."
+    },
+    {
+      "question": "¿Qué experimento de electricidad estática demuestra la repulsión entre cargas del mismo signo?",
+      "options": [
+        "Frotar dos globos con el mismo tejido de lana y juntarlos para observar que se repelen",
+        "Frotar un globo en lana y acercar pequeños papelitos para observar la atracción",
+        "Adherir un globo frotado en lana a una pared para demostrar la atracción electrostática",
+        "Sumergir dos globos cargados en agua con sal para observar los cambios en la repulsión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Frotar dos globos con el mismo tejido de lana (ambos quedan con la misma carga) y juntarlos demuestra la repulsión entre cargas del mismo signo. En contraste, frotar un globo y acercar papelitos demuestra la atracción entre cargas diferentes (globo negativo y papelitos que inducen carga positiva)."
+    },
+    {
+      "question": "¿Cuál es el cuarto ODS mencionado en el tema vinculado con el área científica de EP?",
+      "options": [
+        "ODS 13: Acción por el Clima",
+        "ODS 4: Educación de calidad",
+        "ODS 7: Energía asequible y no contaminante",
+        "ODS 11: Ciudades y comunidades sostenibles"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cuatro ODS mencionados en el tema son ODS4 (Educación de calidad), ODS7 (Energía asequible), ODS11 (Ciudades sostenibles) y ODS13 (Acción por el clima). El ODS13 es el cuarto de la lista, vinculado con la acción climática y la comprensión de los fenómenos físicos y químicos."
+    },
+    {
+      "question": "¿Qué libro de referencia bibliográfica se menciona de González (2015)?",
+      "options": [
+        "Didáctica de las Ciencias Naturales en Educación Primaria",
+        "Enseñar ciencias a los niños",
+        "Las ciencias en la escuela: teorías y prácticas",
+        "Taller de ciencias al aire libre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "González, D. (2015) es autor de 'Didáctica de las Ciencias Naturales en Educación Primaria', publicado en Logroño por la Universidad de la Rioja. Alfred (2002) escribió 'Enseñar ciencias a los niños'; Sanmartí (2002) 'Las ciencias en la escuela'; Caironi (2009) 'Taller de ciencias al aire libre'."
+    },
+    {
+      "question": "¿Qué aspectos del entorno son materia según la justificación de importancia del área?",
+      "options": [
+        "Los objetos, el agua, el aire, las sustancias, los productos y los animales",
+        "Únicamente los objetos inanimados, ya que los seres vivos están formados por células, no por materia",
+        "Solo las sustancias sólidas y líquidas, ya que el aire y los gases no tienen masa apreciable",
+        "Los objetos manufacturados y los elementos naturales, pero no los seres vivos por su complejidad biológica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que todo en nuestro entorno es materia: objetos, agua, aire, sustancias, productos o animales. Esta afirmación justifica la importancia de estudiar los fenómenos físicos y químicos desde la EP para comprender la naturaleza en su globalidad."
+    },
+    {
+      "question": "¿Qué conclusión general sobre la formación científica establece la conclusión del tema?",
+      "options": [
+        "La formación científica en EP es una herramienta indispensable para construir una ciudadanía activa, responsable e informada, capaz de comprender el mundo natural",
+        "La formación científica en EP debe limitarse a los conceptos fundamentales para no sobrecargar al alumnado de menor edad",
+        "La formación científica en EP tiene menor importancia que la lingüística y matemática para el desarrollo integral del alumnado",
+        "La formación científica en EP debe ser eminentemente teórica para sentar las bases conceptuales de estudios posteriores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema establece que la formación científica en la Educación Primaria constituye una herramienta indispensable para construir una ciudadanía activa, responsable e informada, capaz de comprender el mundo natural y comprometerse con un desarrollo verdaderamente sostenible."
+    },
+    {
+      "question": "¿Qué función pedagógica tiene el maestro según la conclusión del tema?",
+      "options": [
+        "Despertar y cultivar la curiosidad innata del alumnado, transformándola en un aprendizaje sólido y significativo que perdure más allá de los muros de la escuela",
+        "Transmitir eficazmente los contenidos científicos establecidos en el currículo mediante explicaciones claras y estructuradas",
+        "Supervisar y controlar las actividades experimentales para garantizar la seguridad del alumnado en el laboratorio",
+        "Evaluar objetivamente el nivel de adquisición de los contenidos conceptuales mediante instrumentos estandarizados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la conclusión del tema, la labor del maestro o maestra consistirá en despertar y cultivar la curiosidad innata del alumnado, transformándola en un aprendizaje sólido y significativo que perdure más allá de los muros de la escuela."
+    },
+    {
+      "question": "¿Qué competencias científicas busca desarrollar el aprendizaje de los fenómenos físicos en EP?",
+      "options": [
+        "Actividades vivenciales de observación, percepción, manipulación y experimentación que desarrollan destrezas y habilidades científicas",
+        "La memorización de clasificaciones y datos científicos que sirvan de base para estudios superiores",
+        "La capacidad de redactar informes científicos con terminología técnica apropiada al nivel educativo",
+        "El uso autónomo de instrumentos de medida complejos como espectrómetros o microscopios electrónicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La comprensión de los fenómenos físicos y cambios químicos requiere de actividades vivenciales donde el alumnado pueda observar, percibir, manipular y experimentar, permitiendo desarrollar progresivamente las destrezas y habilidades necesarias para la competencia de aprender a aprender y la STEM."
+    },
+    {
+      "question": "¿Qué competencia de aprendizaje se desarrolla a través de la experimentación en el aula?",
+      "options": [
+        "La competencia de aprender a aprender y la STEM",
+        "Únicamente la Competencia en Comunicación Lingüística al redactar informes",
+        "Exclusivamente la Competencia Digital al usar herramientas de registro de datos",
+        "Solo la Competencia Ciudadana al trabajar temas ambientales en grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema señala que las experiencias vivenciales de observación, manipulación y experimentación propician la competencia de aprender a aprender y la STEM. Estas son las competencias más directamente relacionadas con el aprendizaje de los fenómenos físicos y químicos en EP."
+    },
+    {
+      "question": "¿Qué se entiende por 'medio' en el contexto de las áreas científicas de EP según el tema?",
+      "options": [
+        "No solo el espacio donde transcurre la vida humana, sino el conjunto de elementos, sucesos, factores y procesos del entorno con carácter dinámico",
+        "El espacio físico natural (bosques, ríos, montañas) opuesto al espacio urbano construido por la actividad humana",
+        "Exclusivamente el entorno inmediato del centro educativo que el alumnado puede explorar directamente",
+        "El conjunto de recursos naturales disponibles para el aprendizaje experimental tanto en el aula como fuera de ella"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El concepto de 'medio' en las áreas científicas de EP se entiende como no solo el espacio donde transcurre la vida humana, sino el conjunto de elementos, sucesos, factores y/o procesos del entorno donde la vida y actuación de las personas adquieren sentido, con carácter dinámico sometido a continua transformación."
+    },
+    {
+      "question": "¿Qué actividad del tercer ciclo introduce el alumnado en la óptica?",
+      "options": [
+        "Construir pequeñas lentes",
+        "Estudiar las sombras y sus proyecciones",
+        "Simular el efecto invernadero con recipientes de vidrio",
+        "Analizar la presencia de microorganismos mediante microscopio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el tercer ciclo, construir pequeñas lentes es una actividad que introduce al alumnado en los principios básicos de la óptica, trabajando la refracción de la luz. Las sombras son una actividad más básica del primer ciclo; el efecto invernadero trabaja el cambio climático."
+    },
+    {
+      "question": "¿En qué consiste el segundo paso del método científico según la descripción del tema?",
+      "options": [
+        "Plantear el problema, reuniendo toda la información disponible para identificar qué partes están ya resueltas y contrastadas por la ciencia",
+        "Formular hipótesis previas sobre las que desarrollar el plan de trabajo experimental",
+        "Realizar la observación del entorno que despierta la curiosidad del alumnado",
+        "Registrar los datos obtenidos en tablas y gráficos para facilitar el análisis posterior"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El segundo paso del método científico consiste en plantear el problema, reuniendo toda la información disponible para identificar qué partes del problema están ya resueltas y contrastadas por la ciencia. El primer paso es la observación; el tercero, la formulación de hipótesis."
+    },
+    {
+      "question": "¿Qué tercer paso del método científico describe el tema?",
+      "options": [
+        "Formular las hipótesis previas sobre las que desarrollar el plan de trabajo",
+        "Realizar la experimentación recreando y repitiendo el fenómeno",
+        "Registrar datos en tablas y gráficos para facilitar el estudio",
+        "Plantear el problema reuniendo toda la información disponible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tercer paso del método científico es formular las hipótesis previas sobre las que desarrollar el plan de trabajo. El primer paso es la observación, el segundo es plantear el problema, el cuarto es la experimentación, el quinto el registro de datos, el sexto el análisis y el séptimo la confirmación de hipótesis."
+    },
+    {
+      "question": "¿Cuál es el quinto paso del método científico según el tema?",
+      "options": [
+        "El registro de datos en tablas y gráficos para facilitar el estudio de las relaciones",
+        "La experimentación, que consiste en recrear el fenómeno y repetirlo",
+        "El análisis e interpretación de los datos obtenidos",
+        "La formulación de hipótesis previas sobre el fenómeno a estudiar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El quinto paso del método científico es el registro de datos en tablas y gráficos para facilitar el estudio de las relaciones. La secuencia es: observación (1), problema (2), hipótesis (3), experimentación (4), registro de datos (5), análisis (6), confirmación de hipótesis (7)."
+    },
+    {
+      "question": "¿Cuál es el séptimo y último paso del método científico según el tema?",
+      "options": [
+        "La confirmación de hipótesis",
+        "El análisis e interpretación de los datos",
+        "El registro de datos en tablas y gráficos",
+        "La comunicación de los resultados a la comunidad científica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El séptimo y último paso del método científico es la confirmación de hipótesis. Tras este paso, conviene comprobar que los discentes son capaces de aplicar los nuevos conocimientos en otras situaciones, garantizando la comprensión, significatividad y consolidación del aprendizaje."
+    },
+    {
+      "question": "¿Qué principio pedagógico del artículo 16 del Decreto 155/2022 se relaciona directamente con el área de CCNN?",
+      "options": [
+        "La intervención educativa orientada a la adquisición de las competencias clave mediante actividades que permitan avanzar en más de una competencia al mismo tiempo",
+        "La evaluación continua y formativa que recoge evidencias de aprendizaje a lo largo de todo el proceso educativo",
+        "El uso de agrupamientos flexibles y heterogéneos que favorezcan la atención a la diversidad del alumnado",
+        "La coordinación entre los maestros especialistas y el tutor para garantizar la coherencia del proceso de enseñanza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 16 de principios pedagógicos del Decreto 155/2022 remarca una intervención educativa orientada a la adquisición de las CC mediante actividades que permitan avanzar en más de una competencia al mismo tiempo, lo que conecta directamente con el enfoque interdisciplinar del área de CCNN."
+    },
+    {
+      "question": "¿Qué actividad del primer ciclo trabaja los cambios de estado de forma básica?",
+      "options": [
+        "Calentar y enfriar sustancias para observar los cambios de estado",
+        "Realizar mezclas y disoluciones complejas con distintos estados de agregación",
+        "Comprobar los cambios de estado utilizando instrumentos de medida de temperatura",
+        "Diseñar un experimento para medir la temperatura de fusión y ebullición del agua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo, trabajar los cambios de estado calentando y enfriando sustancias es una actividad básica, sencilla y motivadora. Se diferencia del segundo ciclo (estudiar los cambios de estado líquido, sólido y gaseoso con mayor profundidad) por su menor complejidad y uso de materiales simples."
+    },
+    {
+      "question": "¿Cuándo fue publicada la Orden de 26 de mayo de 2023 que desarrolla el Decreto 155/2022?",
+      "options": [
+        "En el DOG nº 111, de 13 de junio de 2023",
+        "En el BOE nº 340, de 30 de diciembre de 2020",
+        "En el DOG nº 183, de 26 de septiembre de 2022",
+        "En el DOG nº 206, de 26 de octubre de 2021"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Orden de 26 de mayo de 2023 fue publicada en el Diario Oficial de Galicia (DOG), número 111, de 13 de junio de 2023. Desarrolla el Decreto 155/2022 y regula la evaluación en la etapa de educación primaria."
+    },
+    {
+      "question": "¿Cuál es la diferencia conceptual entre fenómenos físicos y propiedades de la materia?",
+      "options": [
+        "Las propiedades son las características que puede percibirse o medirse, mientras los fenómenos son las modificaciones de esas propiedades",
+        "Las propiedades son los cambios permanentes de la materia, mientras los fenómenos son las características observables en un momento dado",
+        "Las propiedades son específicas de cada sustancia, mientras los fenómenos son comunes a toda la materia independientemente de su naturaleza",
+        "Las propiedades se estudian en la química, mientras los fenómenos corresponden al ámbito de la física"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las propiedades de la materia son aquellas características que pueden percibirse a través de los sentidos o medirse mediante instrumentos (masa, volumen, densidad). Los fenómenos son las modificaciones de esas propiedades que experimenta la materia en el lenguaje científico."
+    },
+    {
+      "question": "¿Qué tipo de razonamiento debe desarrollar el alumnado del tercer ciclo de EP?",
+      "options": [
+        "Razonamientos formales con rigor desde la metodología científica",
+        "Razonamientos básicos mediante manipulación directa del entorno próximo",
+        "Razonamientos intuitivos basados en la observación cotidiana del entorno",
+        "Razonamientos inductivos a partir de experimentos sencillos de resolución rápida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el tercer ciclo, debe procurarse que el alumnado sea capaz de expresar razonamientos formales con rigor desde la metodología científica. Esto contrasta con el primer ciclo (acción directa y experiencias sencillas) y el segundo ciclo (inicio en el razonamiento científico con actividades investigativas)."
+    },
+    {
+      "question": "¿Qué relación establece el tema entre Piaget y el aprendizaje de las ciencias?",
+      "options": [
+        "Es fundamental partir de los conocimientos previos del alumnado y considerar la etapa del desarrollo cognitivo según Piaget",
+        "Piaget demostró que los niños de EP no pueden comprender conceptos científicos abstractos antes de los 12 años",
+        "Piaget estableció que el aprendizaje de las ciencias debe comenzar por los conceptos más abstractos para desarrollar el pensamiento formal",
+        "Piaget propuso que el método científico es innato en el niño y solo necesita ser guiado por el maestro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que es fundamental partir de los conocimientos previos del alumnado y considerar la etapa del desarrollo cognitivo en la que se encuentra, conforme lo establecido por Piaget. Esto conecta con la visión constructivista del aprendizaje de las ciencias."
+    },
+    {
+      "question": "¿Cuál es el libro de referencia de Caballero (2011) citado en la bibliografía del tema?",
+      "options": [
+        "Enseñar Ciencias Naturales en Educación Primaria",
+        "Didáctica de las Ciencias Naturales en Educación Primaria",
+        "Las ciencias en la escuela: teorías y prácticas",
+        "Enseñar ciencias a los niños"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Caballero, M. (2011) es autor de 'Enseñar Ciencias Naturales en Educación Primaria', publicado en Madrid por CCS. González (2015) escribió 'Didáctica de las Ciencias Naturales'; Sanmartí (2002) 'Las ciencias en la escuela'; Alfred (2002) 'Enseñar ciencias a los niños'."
+    },
+    {
+      "question": "¿Cómo puede observarse el fenómeno de apagado de una vela usando un vaso invertido?",
+      "options": [
+        "Invertir un vaso sobre una vela encendida y observar cómo se apaga al consumirse el aire interior",
+        "Invertir un vaso sobre una vela y añadir agua para crear una presión que apague la llama",
+        "Invertir un vaso vacío y encender la vela en el interior para observar cuánto dura la llama",
+        "Colocar el vaso invertido a distancia de la vela y medir cuánto tiempo tarda en apagarse por falta de oxígeno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para demostrar que el aire ocupa espacio y que las llamas necesitan oxígeno, se invierte un vaso sobre una vela encendida. La vela se apaga al consumirse el oxígeno del aire interior del vaso, demostrando que el aire tiene una composición que sustenta la combustión."
+    },
+    {
+      "question": "¿Cuál es el libro de referencia de Alfred (2002) citado en la bibliografía?",
+      "options": [
+        "Enseñar ciencias a los niños",
+        "Enseñar Ciencias Naturales en Educación Primaria",
+        "Didáctica de las Ciencias Naturales en Educación Primaria",
+        "Las ciencias en la escuela: teorías y prácticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alfred, E. (2002) es autor de 'Enseñar ciencias a los niños', publicado en Barcelona por Editorial Gedisa. Caballero (2011) escribió 'Enseñar Ciencias Naturales en EP'; González (2015) 'Didáctica de las CCNN'; Sanmartí (2002) 'Las ciencias en la escuela'."
+    },
+    {
+      "question": "¿Qué aportan específicamente los 'descriptores operativos' en el marco curricular del Decreto 155/2022?",
+      "options": [
+        "Concretan el nivel de desempeño esperado de las competencias clave al finalizar la educación básica",
+        "Establecen los contenidos mínimos de cada área curricular para cada ciclo de Educación Primaria",
+        "Definen los criterios de evaluación específicos para cada criterio de evaluación del área",
+        "Determinan la carga horaria mínima de cada área curricular en cada nivel educativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los descriptores operativos concretan el nivel de desempeño esperado de las competencias clave al finalizar la educación básica. Forman parte del perfil de salida y se recogen en el Anexo I del Decreto 155/2022. Los más relevantes para el Tema 10 son STEM2, STEM4, CC3 y CC4."
+    },
+    {
+      "question": "¿En qué contexto describe el tema el uso de 'experiencias sencillas y recursos como el laboratorio escolar'?",
+      "options": [
+        "En el contexto del enfoque recomendado por Neus Sanmartí (2002) para la enseñanza de las ciencias en EP",
+        "En el contexto de las actividades específicas del tercer ciclo para el desarrollo del pensamiento formal",
+        "En el contexto de las medidas de atención a la diversidad del Decreto 155/2022 para el alumnado con dificultades",
+        "En el contexto de la evaluación de las competencias científicas mediante actividades prácticas de laboratorio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las experiencias sencillas y el uso del laboratorio escolar se mencionan en el contexto de las conclusiones de Neus Sanmartí (2002), quien señala que las ciencias en EP deben estimular la curiosidad desde los primeros momentos con un enfoque competencial, manipulativo y vivencial."
+    },
+    {
+      "question": "¿Qué relación guardan los conocimientos de Ausubel con las estrategias del Decreto 155/2022?",
+      "options": [
+        "Respaldan la necesidad de partir de los conocimientos previos de los discentes y de su entorno próximo para un aprendizaje significativo",
+        "Justifican el uso de mapas conceptuales como instrumento de evaluación de los aprendizajes científicos",
+        "Fundamentan la organización del currículo en espiral, retomando los mismos contenidos en cada ciclo con mayor complejidad",
+        "Defienden la instrucción programada y los objetivos conductuales como base del aprendizaje científico eficaz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 respalda el diseño de proyectos significativos que partan de los conocimientos previos de los discentes, conectando con la teoría del aprendizaje significativo de Ausubel, quien sostiene que el nuevo conocimiento debe relacionarse con lo que el alumno ya sabe."
+    },
+    {
+      "question": "¿Qué aspectos de seguridad se deben garantizar en el laboratorio escolar según el tema?",
+      "options": [
+        "Las medidas de seguridad oportunas deben garantizarse siempre que se utilice el laboratorio",
+        "Solo se requieren medidas de seguridad en el tercer ciclo, cuando se usan materiales más peligrosos",
+        "Las medidas de seguridad son responsabilidad exclusiva de las familias mediante la firma de autorizaciones",
+        "Las medidas de seguridad solo aplican para experimentos con fuego, electricidad o productos químicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que el laboratorio escolar permite observar resultados de experimentos a largo plazo, siempre garantizando las medidas de seguridad oportunas. No se limita a ningún ciclo específico ni a tipos de material, sino que es un principio general del uso del laboratorio."
+    },
+    {
+      "question": "¿Qué establece el tema sobre la cuantificación y notación científica en las experiencias?",
+      "options": [
+        "Se pretende que el alumnado emplee la notación científica como sistema abreviado de representación",
+        "Se desaconseja el uso de notación científica en EP por su elevado nivel de abstracción matemática",
+        "La notación científica es exclusiva del tercer ciclo y solo se introduce en los últimos cursos de EP",
+        "La notación científica se trabaja únicamente en el área de Matemáticas, no en el área de CCNN"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los objetivos de las experiencias para trabajar la materia y la energía se incluye emplear la notación científica como sistema abreviado de representación. Esto forma parte del desarrollo del lenguaje científico apropiado que el alumnado debe adquirir."
+    },
+    {
+      "question": "¿Cuál es el libro de referencia de Caironi (2009) citado en la bibliografía?",
+      "options": [
+        "Taller de ciencias al aire libre",
+        "Enseñar ciencias a los niños",
+        "Enseñar Ciencias Naturales en Educación Primaria",
+        "Las ciencias en la escuela: teorías y prácticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Caironi, G. (2009) es autor de 'Taller de ciencias al aire libre', publicado por Ediciones Novedades Educativas. Alfred (2002) escribió 'Enseñar ciencias a los niños'; Caballero (2011) 'Enseñar Ciencias Naturales en EP'; Sanmartí (2002) 'Las ciencias en la escuela'."
+    },
+    {
+      "question": "¿Cuántos objetivos de Desarrollo Sostenible contiene la Agenda 2030 según el tema?",
+      "options": [
+        "17 ODS",
+        "7 ODS",
+        "4 ODS",
+        "13 ODS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Agenda 2030 de la ONU contiene 17 Objetivos de Desarrollo Sostenible que orientan la acción educativa. El tema menciona específicamente cuatro de ellos (ODS4, ODS7, ODS11, ODS13) como vinculados estrechamente con el área científica de la EP."
+    },
+    {
+      "question": "¿Cuándo fue promulgado el Decreto 155/2022 que establece el currículo de EP en Galicia?",
+      "options": [
+        "El 15 de septiembre de 2022",
+        "El 29 de diciembre de 2020",
+        "El 26 de mayo de 2023",
+        "El 3 de mayo de 2006"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 fue promulgado el 15 de septiembre de 2022 y publicado en el DOG el 26 de septiembre de 2022. Este decreto establece la ordenación y el currículo de la educación primaria en la Comunidad Autónoma de Galicia."
+    },
+    {
+      "question": "¿Cuáles son los gases que se mencionan como ejemplos del estado gaseoso en el tema?",
+      "options": [
+        "El oxígeno y el nitrógeno",
+        "El dióxido de carbono y el monóxido de carbono",
+        "El vapor de agua y el hidrógeno",
+        "El helio y el argón"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona el oxígeno y el nitrógeno como ejemplos del estado gaseoso. Los gases no tienen forma ni volumen fijos y destacan por su gran capacidad de expansión y compresión en función de la temperatura y la presión."
+    },
+    {
+      "question": "¿Cuáles son los ejemplos de estado sólido mencionados en el tema?",
+      "options": [
+        "Los metales y los minerales",
+        "El oxígeno y el nitrógeno",
+        "El agua y el mercurio",
+        "El dióxido de carbono y el vapor de agua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona los metales y los minerales como ejemplos de estado sólido. Los sólidos se caracterizan por tener forma y volumen constante, así como rigidez y regularidad en sus estructuras."
+    },
+    {
+      "question": "¿Qué relación establece el tema entre la curiosidad de los niños y la enseñanza de las ciencias?",
+      "options": [
+        "Es importante aprovechar la curiosidad de los niños desde el primer curso para articular el proceso de enseñanza-aprendizaje desde el método científico",
+        "La curiosidad natural del niño es un obstáculo que debe canalizarse hacia los contenidos establecidos en el currículo oficial",
+        "La curiosidad solo es relevante en los primeros cursos; a partir del segundo ciclo debe sustituirse por motivación extrínseca",
+        "La curiosidad debe ser estimulada artificialmente por el maestro ya que los niños no son naturalmente curiosos sobre fenómenos científicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que es importante aprovechar desde el primer curso la curiosidad de los niños que les impulsa a explorar el entorno próximo, articulando el proceso de enseñanza-aprendizaje desde el método científico. La curiosidad es el motor natural del aprendizaje científico."
+    },
+    {
+      "question": "¿Qué demuestran los experimentos de flotabilidad propuestos en el primer ciclo?",
+      "options": [
+        "Comprobar qué materiales flotan o se hunden en agua",
+        "Demostrar que el agua es incompresible a diferentes profundidades",
+        "Mostrar la separación de mezclas por diferencia de densidad",
+        "Evidenciar que el aire tiene masa comparando objetos de diferente peso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el primer ciclo, una de las actividades básicas es comprobar qué materiales flotan o se hunden, lo que introduce intuitivamente el concepto de densidad de forma manipulativa y vivencial, sin requerir fórmulas matemáticas ni instrumentos complejos."
+    },
+    {
+      "question": "¿Cuál es la relación entre el reciclaje de papel y los contenidos del primer ciclo de EP?",
+      "options": [
+        "Es un ejemplo de actividad básica del primer ciclo que conecta los contenidos científicos con el desarrollo sostenible",
+        "Es una actividad del tercer ciclo que requiere el análisis de procesos físicos y químicos complejos",
+        "Es exclusivamente una actividad de Educación Ambiental que no está relacionada con los fenómenos físicos",
+        "Es una actividad opcional de refuerzo para el alumnado con mayor curiosidad científica en cualquier ciclo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reciclar papel es una de las actividades básicas del primer ciclo, que conecta el aprendizaje de los fenómenos físicos con el desarrollo sostenible y los ODS. También aparece en el segundo ciclo el reciclaje de materiales, con mayor complejidad en la comprensión del proceso."
+    },
+    {
+      "question": "¿Cómo describe el tema el carácter del 'medio' en el contexto educativo?",
+      "options": [
+        "El medio posee un carácter dinámico ya que está sometido a continua transformación como consecuencia de la actividad humana",
+        "El medio es un entorno estático y predecible que el maestro puede controlar para garantizar experiencias seguras",
+        "El medio es un espacio delimitado físicamente por las fronteras naturales del entorno inmediato al centro escolar",
+        "El medio tiene un carácter exclusivamente natural, opuesto al entorno artificial creado por la actividad humana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema describe el medio como un espacio con carácter dinámico, ya que está sometido a continua transformación como consecuencia de la actividad humana. Esta concepción dinámica del medio justifica la importancia del estudio de los fenómenos físicos y químicos desde la EP."
+    },
+    {
+      "question": "¿Qué recurso propone el tema como 'valiosa fuente de conocimiento' para acercar al alumnado al material científico?",
+      "options": [
+        "El laboratorio escolar",
+        "La biblioteca escolar",
+        "Las TIC y los entornos virtuales",
+        "El huerto escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El laboratorio escolar se describe como una valiosa fuente de conocimiento que acerca al alumnado al material científico y permite observar resultados de experimentos a largo plazo. La biblioteca se menciona como fuente de recursos; las TIC como herramienta pedagógica; el huerto no se menciona específicamente."
+    },
+    {
+      "question": "¿Cuál de las siguientes actividades pertenece tanto al primer como al segundo ciclo de EP?",
+      "options": [
+        "Trabajar con los cambios de estado de la materia, aunque con mayor profundidad en el segundo ciclo",
+        "Diseñar máquinas simples como palancas o poleas",
+        "Comprobar la existencia de microorganismos en el agua",
+        "Simular el efecto invernadero con recipientes transparentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cambios de estado de la materia se trabajan en ambos ciclos, aunque con diferente nivel: en el primer ciclo se trata de 'calentar y enfriar sustancias' de forma básica, mientras en el segundo se 'estudian los cambios de estado (líquido, sólido y gaseoso)' con mayor rigor. Diseñar palancas y estudiar microorganismos son exclusivos del tercer ciclo."
+    },
+    {
+      "question": "¿Qué proceso de depuración trabaja el segundo ciclo al analizar la contaminación del agua?",
+      "options": [
+        "El filtrado como técnica de depuración del agua contaminada",
+        "La osmosis inversa como técnica de desalinización del agua marina",
+        "La cloración como técnica de desinfección del agua potable",
+        "La destilación como técnica de purificación del agua con sustancias disueltas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el segundo ciclo, al analizar procesos de contaminación del agua, se trabaja su depuración a través del filtrado. Esta técnica también se introduce en las experiencias de separación de mezclas donde se filtra la mezcla de arena, sal y aceite."
+    },
+    {
+      "question": "¿Cuál es la editorial de la referencia bibliográfica de Alfred (2002)?",
+      "options": [
+        "Editorial Gedisa (Barcelona)",
+        "Editorial CCS (Madrid)",
+        "Ediciones Novedades Educativas",
+        "Universidad de la Rioja (Logroño)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alfred, E. (2002). 'Enseñar ciencias a los niños'. Barcelona: Editorial Gedisa. Caballero (2011) es de CCS Madrid; Caironi (2009) de Ediciones Novedades Educativas; González (2015) de la Universidad de la Rioja."
+    },
+    {
+      "question": "¿Qué comprensión de los cambios del entorno se pretende que desarrolle el alumnado a través de las experiencias?",
+      "options": [
+        "Entender los cambios que se producen en el entorno y cómo la actividad humana los genera",
+        "Memorizar los nombres de los procesos físicos y químicos que se producen en la naturaleza",
+        "Calcular matemáticamente la magnitud de los cambios usando fórmulas científicas establecidas",
+        "Reproducir en el laboratorio los procesos naturales que se producen en los ecosistemas del entorno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los objetivos de las experiencias figura entender los cambios que se producen en el entorno. Esto conecta con la visión dinámica del 'medio' y con los ODS, especialmente el ODS13 (Acción por el Clima), fomentando una ciudadanía activa y comprometida con el desarrollo sostenible."
+    },
+    {
+      "question": "¿Cuál es el objetivo OBJ1 del área de CCNN según el Decreto 155/2022?",
+      "options": [
+        "Exponer y dar respuesta a cuestiones científicas sencillas, utilizando técnicas e instrumentos del pensamiento científico explicando e interpretando hechos y fenómenos que ocurren en el medio natural",
+        "Identificar y analizar los elementos del medio natural, su organización y propiedades, para comprender su valor, conservarlos y promover un uso responsable",
+        "Conocer los aspectos fundamentales de las ciencias de la naturaleza utilizando el método científico y la experimentación",
+        "Desarrollar actitudes de respeto y cuidado hacia el medio ambiente natural y promover el uso responsable de los recursos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ1 del área de CCNN establece 'Exponer y dar respuesta a cuestiones científicas sencillas, utilizando técnicas e instrumentos del pensamiento científico explicando e interpretando hechos y fenómenos que ocurren en el medio natural'. El OBJ3 es el de identificar y analizar los elementos del medio natural."
+    },
+    {
+      "question": "¿Cuál es el objetivo OBJ3 del área de CCNN según el Decreto 155/2022?",
+      "options": [
+        "Identificar y analizar los elementos del medio natural, su organización y propiedades, para comprender su valor, conservarlos, mejorarlos y promover un uso responsable",
+        "Exponer y dar respuesta a cuestiones científicas sencillas utilizando técnicas e instrumentos del pensamiento científico",
+        "Usar el pensamiento científico para entender y explicar algunos fenómenos usando herramientas e instrumentos adecuados",
+        "Comprender las relaciones sistémicas entre las acciones humanas y el entorno adoptando estilos de vida sostenible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El OBJ3 del área de CCNN establece 'Identificar y analizar los elementos del medio natural, su organización y propiedades, para comprender su valor, conservarlos, mejorarlos y promover un uso responsable'. El OBJ1 es el de exponer y dar respuesta a cuestiones científicas sencillas."
+    },
+    {
+      "question": "¿Qué importancia tiene la indagación y el descubrimiento en el Bloque 1 'Cultura Científica'?",
+      "options": [
+        "Son los ejes a través de los cuales el alumnado desarrolla destrezas y estrategias propias del pensamiento científico, valorando el impacto de la ciencia en la sociedad",
+        "Son métodos exclusivos del tercer ciclo, donde el alumnado ya tiene madurez para la investigación autónoma",
+        "Son actividades complementarias opcionales que enriquecen el aprendizaje pero no forman parte del núcleo curricular",
+        "Son herramientas de evaluación formativa que permiten al maestro conocer el nivel de comprensión del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Bloque 1 'Cultura Científica' pretende que el alumnado desarrolle destrezas y estrategias propias del pensamiento científico mediante la indagación y el descubrimiento, valorando el impacto de la ciencia en la sociedad. Tiene carácter transversal y debe integrarse con los demás bloques."
+    },
+    {
+      "question": "¿Qué diferencia la observación en el método científico de la observación cotidiana según el tema?",
+      "options": [
+        "La observación científica despierta la curiosidad del alumnado para plantearse cuestiones de forma sistemática",
+        "La observación científica requiere siempre el uso de instrumentos de medida y registro formal de datos",
+        "La observación científica es exclusivamente visual, mientras la cotidiana incluye todos los sentidos",
+        "La observación científica ocurre solo en el laboratorio, mientras la cotidiana puede hacerse en cualquier lugar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El primer paso del método científico es la observación del entorno, que despierta la curiosidad del alumnado para plantearse cuestiones. Esta observación tiene un propósito científico: generar preguntas que lleven al planteamiento del problema y a la formulación de hipótesis."
+    },
+    {
+      "question": "¿Qué establece el tema sobre el aprendizaje de los fenómenos físicos y químicos respecto a la comprensión del mundo?",
+      "options": [
+        "No debe limitarse a la transmisión de conocimientos, sino constituir una vía para comprender el mundo en que se vive y fomentar el pensamiento científico, la curiosidad y el espíritu crítico",
+        "Debe orientarse principalmente a la memorización de clasificaciones y datos que permitan superar las pruebas de evaluación externa",
+        "Debe centrarse en la adquisición de habilidades instrumentales de laboratorio que preparen al alumnado para estudios superiores",
+        "Debe focalizarse en los contenidos conceptuales establecidos en el currículo oficial, evitando conexiones con la vida cotidiana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conclusión del tema establece que el aprendizaje de los fenómenos físicos y los cambios químicos en la EP no debe limitarse a la transmisión de conocimientos, sino constituir una vía para comprender el mundo en que se vive, fomentando el pensamiento científico, la curiosidad y el espíritu crítico."
+    },
+    {
+      "question": "¿Qué libro de referencia cita el tema de Sutton (1992)?",
+      "options": [
+        "Words, Science and Learning. Developing Science and Technology Education",
+        "Enseñar ciencias a los niños",
+        "Las ciencias en la escuela: teorías y prácticas",
+        "Taller de ciencias al aire libre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sutton, C. (1992) es autor de 'Words, Science and Learning. Developing Science and Technology Education', publicado en UK por Open University Press. Es la única referencia bibliográfica en inglés del tema, relacionada con el lenguaje en la enseñanza de las ciencias."
+    },
+    {
+      "question": "¿Cuáles son las Ciencias de la Naturaleza según la definición del tema?",
+      "options": [
+        "El conjunto de disciplinas que estudian los fenómenos naturales, entre los que se incluyen los físicos y los químicos",
+        "La disciplina única que integra física, química, biología y geología bajo un enfoque interdisciplinar",
+        "El área curricular que estudia el entorno natural y social del alumnado en la Educación Primaria",
+        "El campo del conocimiento que analiza exclusivamente los fenómenos observables en el entorno inmediato"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las Ciencias de la Naturaleza constituyen el conjunto de disciplinas que estudian los fenómenos naturales, entre los que se incluyen los físicos y los químicos. Pueden dividirse en campos como astronomía, biología y ciencias de la tierra; el tema se centra en lo relacionado con la física y la química."
+    },
+    {
+      "question": "¿Qué aspectos metodológicos del tema conectan directamente con la teoría constructivista?",
+      "options": [
+        "El enfoque que considera al niño como protagonista activo de su propio aprendizaje partiendo de sus experiencias previas",
+        "La transmisión sistemática de conocimientos científicos por parte del maestro como experto en la materia",
+        "La evaluación continua de los contenidos adquiridos para garantizar la correcta asimilación de los conceptos",
+        "El uso de libros de texto actualizados que presenten los contenidos de forma clara y secuenciada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El enfoque constructivista del tema considera al niño como protagonista activo de su propio aprendizaje, partiendo de sus experiencias previas y usando el método científico, la indagación y la experimentación. Este enfoque conecta con las teorías de Piaget, Ausubel, Driver y Giordan mencionadas en el tema."
+    },
+    {
+      "question": "¿Qué tipo de instrumentos de evaluación establece el Decreto 155/2022 para el área de CCNN?",
+      "options": [
+        "Diferentes técnicas e instrumentos de evaluación para garantizar la objetividad",
+        "Únicamente pruebas escritas individuales como instrumento principal de evaluación",
+        "Exclusivamente instrumentos de evaluación competencial basados en tareas auténticas",
+        "Solo rúbricas y portafolios como instrumentos de evaluación formativa continua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Decreto 155/2022 establece aplicar diferentes técnicas e instrumentos de evaluación para garantizar la objetividad. Esta diversidad de instrumentos responde a la necesidad de evaluar las distintas competencias y dimensiones del aprendizaje científico del alumnado."
+    },
+    {
+      "question": "¿Cuándo inicia el Decreto 155/2022 el estudio de los fenómenos físicos y químicos según el tema?",
+      "options": [
+        "Desde el primer curso de la EP",
+        "Desde el inicio del segundo ciclo (tercer curso)",
+        "A partir del tercer ciclo (quinto y sexto curso)",
+        "A partir del segundo ciclo, cuando el alumnado supera el pensamiento preoperacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según el tema, el aprendizaje de los fenómenos físicos y los cambios químicos debe abordarse desde el primer curso de la EP, tal y como se expone en los elementos curriculares de la LOMLOE y del Decreto 155/2022, aunque con diferente nivel de complejidad en cada ciclo."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de las actividades de aprendizaje integrado en CCNN?",
+      "options": [
+        "Facilitar proyectos e investigaciones en el medio mediante una metodología globalizadora e interdisciplinar basada en el aprendizaje competencial",
+        "Integrar los cuatro bloques del área de CCNN en una única actividad evaluable por trimestre",
+        "Sustituir las actividades experimentales individuales por proyectos grupales que desarrollen el trabajo cooperativo",
+        "Relacionar los contenidos del área de CCNN exclusivamente con el área de Matemáticas para desarrollar la competencia STEM"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las tareas de aprendizaje integradas facilitan la realización de proyectos e investigaciones en el medio, priorizando una metodología globalizadora e interdisciplinar basada en el aprendizaje competencial y la promoción de la biblioteca como fuente de aprendizaje y recursos."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre el aprendizaje de primer ciclo y el de tercer ciclo en el área de CCNN?",
+      "options": [
+        "El primer ciclo trabaja mediante acción directa con experiencias sencillas y manipulativas, mientras el tercer ciclo exige razonamientos formales con rigor metodológico",
+        "El primer ciclo usa el laboratorio escolar exclusivamente, mientras el tercer ciclo trabaja preferentemente en el aula ordinaria",
+        "El primer ciclo aborda los fenómenos físicos únicamente, mientras el tercer ciclo integra también los fenómenos químicos",
+        "El primer ciclo trabaja en grupos cooperativos, mientras el tercer ciclo fomenta el trabajo individual y autónomo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El primer ciclo se basa en la acción directa sobre el entorno próximo con experiencias sencillas, breves y manipulativas. El tercer ciclo exige que el alumnado sea capaz de expresar razonamientos formales con rigor desde la metodología científica, con tareas de hipótesis y aplicación en situaciones complejas."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre una sustancia pura y una mezcla?",
+      "options": [
+        "Las sustancias puras tienen composición fija y propiedades constantes, mientras las mezclas son combinaciones de dos o más sustancias puras",
+        "Las sustancias puras se obtienen siempre de la naturaleza, mientras las mezclas son de origen artificial o sintético",
+        "Las sustancias puras tienen un solo estado de agregación posible, mientras las mezclas pueden presentar varios estados simultáneamente",
+        "Las sustancias puras están formadas por un solo átomo, mientras las mezclas contienen dos o más tipos de átomos distintos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las sustancias puras tienen una composición fija y propiedades constantes (se subdividen en sustancias simples y compuestas). Las mezclas son combinaciones de dos o más sustancias puras que pueden separarse por métodos físicos (filtrado, evaporación, decantación, atracción magnética)."
+    },
+    {
+      "question": "¿Qué principio pedagógico de Piaget se tiene en cuenta al diseñar actividades de ciencias en EP?",
+      "options": [
+        "La etapa del desarrollo cognitivo en la que se encuentra el alumnado determina el tipo de actividad adecuada",
+        "El alumnado de EP se encuentra siempre en la etapa de operaciones formales y puede razonar en abstracto",
+        "El desarrollo cognitivo es uniforme para todo el alumnado de la misma edad y no requiere adaptación individual",
+        "Las etapas de desarrollo cognitivo de Piaget solo aplican al aprendizaje del lenguaje, no al científico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema señala que es fundamental considerar la etapa del desarrollo cognitivo en la que se encuentra el alumnado, conforme lo establecido por Piaget. Esto justifica las diferencias metodológicas entre ciclos: actividades concretas y manipulativas en los primeros ciclos, razonamiento formal en el tercero."
+    },
+    {
+      "question": "¿Qué papel juegan los 'contextos reales' en el aprendizaje de los 4 bloques de CCNN?",
+      "options": [
+        "Los 4 bloques deben aplicarse en contextos reales para favorecer el aprendizaje competencial",
+        "Los contextos reales son opcionales y solo se utilizan como motivación inicial antes de abordar el contenido teórico",
+        "Los contextos reales se reservan para las actividades de evaluación final de cada unidad didáctica",
+        "Los contextos reales se usan únicamente en el tercer ciclo, cuando el alumnado puede comprender situaciones complejas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los 4 bloques del área de CCNN deben trabajarse de forma integrada y aplicarse en contextos reales para favorecer el aprendizaje competencial. Esta aplicación en contextos reales es fundamental para que el conocimiento científico sea significativo y transferible."
+    },
+    {
+      "question": "¿Cuál es el nombre completo del área curricular donde se estudian los fenómenos físicos y químicos en EP?",
+      "options": [
+        "Ciencias de la Naturaleza (CCNN)",
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Ciencias Naturales y Experimentales",
+        "Educación para la Ciudadanía y la Sostenibilidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El área se denomina Ciencias de la Naturaleza (CCNN) en el marco de la LOMLOE y el Decreto 155/2022. Sus contenidos relativos a materia, fuerzas y energía se recogen en el Bloque 3, mientras que el Bloque 1 'Cultura Científica' tiene carácter transversal."
+    },
+    {
+      "question": "¿Cuáles son los tres estados de agregación de la materia mencionados en el tema?",
+      "options": [
+        "Sólido, líquido y gaseoso",
+        "Sólido, líquido y plasma",
+        "Cristalino, amorfo y fluido",
+        "Sólido, gaseoso y coloidal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La materia se presenta en tres estados o formas de agregación: sólido (forma y volumen constante, rigidez), líquido (volumen constante, forma variable adaptada al recipiente) y gaseoso (sin forma ni volumen fijos, gran capacidad de expansión y compresión)."
+    },
+    {
+      "question": "¿Qué establece el tema sobre la importancia de la experimentación desde los primeros años de EP?",
+      "options": [
+        "Desde los primeros años los niños están en contacto con fenómenos físicos y químicos al experimentar con propiedades como textura, temperatura o movimiento",
+        "La experimentación debe comenzar solo cuando el alumnado tiene suficiente madurez cognitiva, generalmente en el segundo ciclo",
+        "Los primeros años de EP deben dedicarse a los aspectos teóricos para preparar la base conceptual necesaria para experimentar",
+        "La experimentación en los primeros años es peligrosa y debe limitarse a demostraciones del maestro sin participación activa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La introducción del tema señala que desde los primeros años de vida los niños están en contacto con los fenómenos físicos y químicos al experimentar con propiedades como la textura, la temperatura o el movimiento de los objetos. Esto justifica iniciar el aprendizaje experimental desde el primer curso de EP."
+    },
+    {
+      "question": "¿Qué tipo de mezcla forma el agua con sal?",
+      "options": [
+        "Una mezcla homogénea, ya que sus componentes están distribuidos de manera uniforme y no se distinguen a simple vista",
+        "Una mezcla heterogénea, ya que la sal y el agua son sustancias de naturaleza química diferente",
+        "Una sustancia compuesta, ya que el agua y la sal se unen en proporciones fijas formando una nueva sustancia",
+        "Una sustancia simple, ya que el agua actúa como disolvente que asimila los iones de la sal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El agua con sal es un ejemplo de mezcla homogénea, ya que sus componentes están distribuidos de manera uniforme y no se distinguen a simple vista. Puede separarse por evaporación (método físico), lo que confirma que es una mezcla y no una sustancia compuesta."
+    },
+    {
+      "question": "¿Cuántos descriptores operativos relacionados con el Tema 10 se mencionan explícitamente?",
+      "options": [
+        "Cuatro: STEM2, STEM4, CC3 y CC4",
+        "Dos: STEM2 y CC3",
+        "Seis: STEM1, STEM2, STEM3, STEM4, CC3 y CC4",
+        "Tres: STEM2, STEM4 y CC4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema menciona explícitamente cuatro descriptores operativos: STEM2 (pensamiento científico para entender fenómenos) y STEM4 (interpretar y transmitir resultados con terminología científica) de la competencia STEM, y CC3 (reflexionar sobre valores éticos y cuidado del entorno) y CC4 (comprender relaciones acciones humanas-entorno) de la Competencia Ciudadana."
+    },
+    {
+      "question": "¿Por qué la física y la química son campos de especial relevancia dentro de las Ciencias de la Naturaleza para EP?",
+      "options": [
+        "Porque el tema se centra en los fenómenos físicos y los cambios químicos, contenidos del Bloque 3 de CCNN del Decreto 155/2022",
+        "Porque la física y la química son las únicas disciplinas científicas que pueden estudiarse mediante experimentación directa",
+        "Porque la LOMLOE establece la física y la química como áreas prioritarias del currículo de EP frente a la biología y geología",
+        "Porque los fenómenos físicos y químicos son los únicos que el alumnado de EP puede observar en su entorno cotidiano"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema se centra específicamente en la física y la química porque sus contenidos (fenómenos físicos y cambios químicos, materia y energía) están recogidos en el Bloque 3 'Materia, Fuerzas y Energía' del área de CCNN del Decreto 155/2022, aunque las Ciencias de la Naturaleza incluyen también otros campos como astronomía o biología."
+    },
+    {
+      "question": "¿Cómo se llama el fenómeno de paso de estado líquido a gaseoso?",
+      "options": [
+        "Vaporización",
+        "Condensación",
+        "Fusión",
+        "Solidificación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La vaporización es el cambio de estado de líquido a gaseoso. La condensación es el cambio inverso (gaseoso a líquido). La fusión es el paso de sólido a líquido, y la solidificación el paso de líquido a sólido. Todos son fenómenos físicos que puede experimentar el agua en la superficie terrestre."
+    },
+    {
+      "question": "¿Cómo se llama el fenómeno de paso del estado gaseoso al líquido?",
+      "options": [
+        "Condensación",
+        "Vaporización",
+        "Fusión",
+        "Sublimación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La condensación es el cambio de estado de gaseoso a líquido. La vaporización es el proceso inverso (líquido a gaseoso). La fusión es el paso de sólido a líquido. La sublimación (de sólido a gas directamente) no se menciona explícitamente en el tema."
+    },
+    {
+      "question": "¿Cuál es el papel de la curiosidad innata del alumnado en el proceso de aprendizaje científico?",
+      "options": [
+        "El maestro debe despertar y cultivar esa curiosidad innata transformándola en aprendizaje sólido y significativo que perdure más allá del aula",
+        "La curiosidad innata es un obstáculo que debe canalizarse hacia preguntas con respuestas únicas y verificables",
+        "La curiosidad innata se agota con la edad y debe sustituirse por motivación extrínseca en los ciclos superiores",
+        "La curiosidad innata es suficiente para generar aprendizaje autónomo sin necesidad de la intervención del maestro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la conclusión del tema, la labor del maestro o maestra consistirá en despertar y cultivar la curiosidad innata del alumnado, transformándola en un aprendizaje sólido y significativo que perdure más allá de los muros de la escuela. La curiosidad es el motor del aprendizaje científico."
+    },
+    {
+      "question": "¿Cuántos objetivos del área de CCNN del Decreto 155/2022 se mencionan como directamente vinculados al tema?",
+      "options": [
+        "Dos: OBJ1 y OBJ3",
+        "Tres: OBJ1, OBJ2 y OBJ3",
+        "Cuatro: OBJ1, OBJ2, OBJ3 y OBJ4",
+        "Uno: OBJ1 únicamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema vincula dos objetivos del área de CCNN: el OBJ1 (exponer y dar respuesta a cuestiones científicas sencillas utilizando técnicas del pensamiento científico) y el OBJ3 (identificar y analizar los elementos del medio natural para comprender su valor y conservarlos)."
+    },
+    {
+      "question": "¿Cuál es la unidad de medida de la masa en el Sistema Internacional?",
+      "options": [
+        "El kilogramo (kg)",
+        "El newton (N)",
+        "El gramo (g)",
+        "La libra (lb)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el Sistema Internacional (SI), la masa se mide en kilogramos (kg), aunque el tema menciona también gramos y miligramos como unidades derivadas. El newton es la unidad de fuerza (incluyendo el peso); la libra no forma parte del SI."
+    },
+    {
+      "question": "¿Qué establece la LOMLOE sobre el aprendizaje de las ciencias en relación con la discriminación?",
+      "options": [
+        "Establece el principio de brindar una educación para todo el alumnado, sin que exista discriminación alguna",
+        "Establece que los contenidos científicos deben adaptarse al nivel cultural y socioeconómico de cada alumno",
+        "Establece que la discriminación positiva está permitida para compensar las desigualdades de partida del alumnado",
+        "Establece que los contenidos de ciencias deben ser los mismos para todo el alumnado sin ningún tipo de adaptación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE establece entre sus principios del sistema educativo 'brindar una educación para todo el alumnado, sin que existe discriminación alguna', junto con la educación para la transición ecológica. Este principio es fundamental en el contexto del área de CCNN."
+    }
+  ]
+}
