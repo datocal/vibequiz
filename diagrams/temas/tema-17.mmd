@@ -1,0 +1,146 @@
+flowchart TD
+    TITULO["Tema 17: Adquisicion y Desarrollo\ndel Lenguaje en EP"]
+
+    subgraph LEGAL["Bases Legales - Art. 2 y 19 LOMLOE"]
+        LOMLOE["LOMLOE Art. 2\nFines: comunicacion en lengua oficial"]
+        LOMLOE_ART19["LOMLOE Art. 19\nExpresion oral transversal en todas las areas"]
+        D155["Decreto 155/2022\nArt. 4: finalidad EP"]
+        D155_ART7["Decreto 155/2022 Art. 7\nObj. etapa 'e': Lengua gallega y castellana"]
+        BLOQUE2["Bloque 2: Comunicacion Oral\nLCL y LGL"]
+        OBJ2["OBJ2: Comprender textos orales"]
+        OBJ3["OBJ3: Producir textos orales"]
+        CC_CCL["CCL: comunicacion oral, escrita, multimodal"]
+        CC_CP["CP: uso eficaz de distintas lenguas"]
+    end
+
+    subgraph LENGUAJE["Definicion y Componentes"]
+        DEF["Lenguaje: sistema de simbolos\nMonfort y Juarez 1991"]
+        FUNC_COM["Funciones: emotiva, conativa,\nfatica, poetica, informativa,\nmetalinguistica - Cassany 1994"]
+        COMP_FON["Fonetica / Fonologia"]
+        COMP_SEM["Semantica: significado y vocabulario"]
+        COMP_MORF["Morfosintaxis: estructura y combinacion"]
+        COMP_PRAG["Pragmatica: uso en contextos"]
+    end
+
+    subgraph ETAPAS["Desarrollo Evolutivo - Jimenez 2010"]
+        PRE["Etapa Prelingüistica\n0-12 meses: balbuceo, laleo, ecolalia"]
+        HOLO["Holofrásica 12-18m\nuna palabra = frase"]
+        TELE["Telegrafica 18-24m\nminifrases de dos palabras"]
+        FRASE["Frase simple 2-3 años\n2-4 palabras"]
+        EI["Ed. Infantil 3-6 años\nexpansion gramatical"]
+        CONSOL["Lenguaje Consolidado 6-12 años\nhabla socializada con intencion real"]
+        EP7["7-8 años: lectoescritura consolidada"]
+        EP9["9 años: descripcion, menos pronombres"]
+        EP12["12 años: hipotesis verbales"]
+    end
+
+    subgraph TEORIAS["Teorias de Adquisicion"]
+        COND["Conductista - Skinner\nestimulo-respuesta, refuerzo positivo"]
+        INNATA["Innatista - Chomsky\ncapacidad biologica innata, gramatica universal"]
+        COGN["Cognitiva - Piaget\nlenguaje producto de la inteligencia"]
+        INTER["Interaccionista - Vygotski\nlenguaje instrumento social"]
+        ACTUAL["Tendencias actuales\nfactores organicos, psicologicos y funcionales"]
+        VAR_ENDO["Variables endogenas:\nmaduración cerebral, salud, inteligencia"]
+        VAR_EXO["Variables exogenas:\nambiente familiar, estimulacion, bilingüismo"]
+    end
+
+    subgraph COMPRENSION["Comprension y Expresion Oral - Cassany 1994"]
+        MICRO_COMP["Microhabilidades comprension oral:\nreconocer, seleccionar, interpretar,\nanticipar, inferir, retener"]
+        MICRO_EXP["Microhabilidades expresion oral:\nplanificacion, vocabulario adecuado,\nentonacion, fluidez, turno de palabra"]
+        PARA["Paralingüístico:\nentonacion, volumen, ritmo, pausas"]
+        KINES["Kinestesia:\ngestos, postura, expresion facial"]
+        PROX["Proxemia:\ndistancia espacial entre interlocutores"]
+        CRON["Cronemica:\norganizacion del tiempo en comunicacion"]
+    end
+
+    subgraph ALTERACIONES["Alteraciones del Lenguaje - DSM-V + Orden 8/09/2021"]
+        DETEC["Deteccion: tutor + evaluacion inicial"]
+        DO["Derivacion al DO\nevaluacion psicopedagogica"]
+        INFORME["Informe psicopedagogico\nmedidas ordinarias y extraordinarias"]
+        ACNEAE["ACNEAE - LOMLOE Art. 71\ntrastornos del lenguaje y comunicacion"]
+        ALT_ART["Articulacion:\ndislalias, disglosias"]
+        ALT_FLU["Fluidez:\ndisfemia, taquifemia, bradilalia"]
+        ALT_VOZ["Voz:\ndisfonia, afonia, disartria"]
+        ALT_ADQ["Adquisicion:\ndisfasia, afasia, retraso lenguaje"]
+        ALT_ESC["Lenguaje escrito:\ndislexia, disgrafia, disortografia"]
+        SAAC["Medidas: PT, AL, SAAC"]
+    end
+
+    subgraph INTERVENCION["Estrategias de Intervencion - Decreto 155/2022 Art. 6 y 16"]
+        ORIENT["Metodologia comunicativa,\ninclusiva, participativa y activa"]
+        SIGNI["Situaciones de aprendizaje significativas\nvinculadas a vida real"]
+        EVAL["Evaluacion por proceso\nautocorreccion y metacognicion"]
+        ACT_COMP["Actividades comprension oral:\njuegos mnemotenicos, escucha dirigida,\ntransferencia de informacion"]
+        ACT_EXP_LIT["Actividades expresion - Literatura:\nlectura expresiva, teatro, cuentacuentos"]
+        ACT_EXP_DRAM["Actividades expresion - Dramaticas:\njuego de roles, improvisacion"]
+        ACT_EXP_FORM["Actividades expresion - Formales:\ndebate, coloquio, exposicion"]
+        CONV["Tecnica: Conversacion\nespontanea, formalizada, mixta"]
+        DEBATE["Tecnica: Debate / Coloquio"]
+        EXPOS["Tecnica: Exposicion oral"]
+        NARR["Tecnica: Narracion y Descripcion\nGianni Rodari: binomio fantastico"]
+        RECIT["Tecnica: Recitacion\npoemas, trabalenguas, mitos"]
+    end
+
+    TITULO --> LEGAL
+    TITULO --> LENGUAJE
+    TITULO --> ETAPAS
+    TITULO --> TEORIAS
+    TITULO --> COMPRENSION
+    TITULO --> ALTERACIONES
+    TITULO --> INTERVENCION
+
+    LOMLOE --> BLOQUE2
+    D155 --> BLOQUE2
+    BLOQUE2 --> OBJ2
+    BLOQUE2 --> OBJ3
+    OBJ2 --> CC_CCL
+    OBJ3 --> CC_CP
+
+    DEF --> FUNC_COM
+    DEF --> COMP_FON
+    DEF --> COMP_SEM
+    DEF --> COMP_MORF
+    DEF --> COMP_PRAG
+
+    PRE --> HOLO
+    HOLO --> TELE
+    TELE --> FRASE
+    FRASE --> EI
+    EI --> CONSOL
+    CONSOL --> EP7
+    EP7 --> EP9
+    EP9 --> EP12
+
+    COND --> ACTUAL
+    INNATA --> ACTUAL
+    COGN --> ACTUAL
+    INTER --> ACTUAL
+    ACTUAL --> VAR_ENDO
+    ACTUAL --> VAR_EXO
+
+    MICRO_COMP --> PARA
+    MICRO_COMP --> KINES
+    MICRO_EXP --> PROX
+    MICRO_EXP --> CRON
+
+    DETEC -->|"Orden 8/09/2021"| DO
+    DO --> INFORME
+    INFORME --> ACNEAE
+    INFORME --> SAAC
+    ACNEAE --> ALT_ART
+    ACNEAE --> ALT_FLU
+    ACNEAE --> ALT_VOZ
+    ACNEAE --> ALT_ADQ
+    ACNEAE --> ALT_ESC
+
+    ORIENT --> SIGNI
+    SIGNI --> EVAL
+    ORIENT --> ACT_COMP
+    ORIENT --> ACT_EXP_LIT
+    ORIENT --> ACT_EXP_DRAM
+    ORIENT --> ACT_EXP_FORM
+    ACT_EXP_FORM --> CONV
+    ACT_EXP_FORM --> DEBATE
+    ACT_EXP_FORM --> EXPOS
+    ACT_EXP_FORM --> NARR
+    ACT_EXP_FORM --> RECIT

@@ -1,0 +1,136 @@
+flowchart TD
+    subgraph MARCO["Marco Legal"]
+        LOMLOE["LOMLOE 3/2020"]
+        RD157["RD 157/2022\nEnsenanzas minimas EP"]
+        D155["Decreto 155/2022\nCurriculo EP Galicia"]
+        LOMLOE --> D155
+        RD157 --> D155
+        D155 -->|"Art. 7 Obj-g\ncompetencias matematicas"| OBJ_G["Objetivo Etapa g:\nResolv. problemas cotidianos"]
+        D155 -->|"Anexo II OBJ2"| OBJ2["OBJ2: Resolver situaciones\ncon distintas estrategias"]
+        D155 -->|"Anexo II - 6 bloques\ntransversal"| BLOQUES["6 Bloques de contenidos\nMatematicas EP"]
+    end
+
+    subgraph GENERALIDADES["Generalidades de la Resolucion de Problemas"]
+        DEF["Definicion Polya 1965:\nSituacion sin resolucion\ninmediata ni rutinaria"]
+        TIPOS_G["Dos grandes tipos:\nProblemas puros vs\nProblemas vida real"]
+        CARACT["Caracteristicas didacticas:\nDesafio, resoluble, lenguaje claro,\nnivel adecuado, vinculo real"]
+        MEDIDAS["Medidas del centro:\nMetodo comun, secuenciacion,\ncriterios evaluacion"]
+        DEF --> TIPOS_G --> CARACT --> MEDIDAS
+    end
+
+    subgraph DIFICULTADES["Principales Dificultades"]
+        DIF1["Falta de comprension\ndel enunciado"]
+        DIF2["No reconoce estrategia\nni orden de operaciones"]
+        DIF3["No comprueba coherencia\nde la solucion"]
+        SOL["Soluciones:\nProblemas reales, variedad,\nautoinstrucciones guiadas"]
+        DIF1 & DIF2 & DIF3 --> SOL
+    end
+
+    subgraph CLASIFICACION["Clasificacion de Problemas"]
+        HEURI["Estrategias heuristicas:\nDividir, trabajar hacia atras,\nensayo-error"]
+        SUGE["Sugerencias heuristicas:\nPistas que orientan\nla estrategia"]
+
+        ADIT["Problemas Aditivos y Sustractivos\nCarpenter y Monser 1983"]
+        A1["Cambio:\ncantidad inicial modificada"]
+        A2["Combinacion:\ndos subconjuntos en uno"]
+        A3["Comparacion:\ndos conjuntos distintos"]
+        A4["Igualacion:\ncomparacion + cambio"]
+        ADIT --> A1 & A2 & A3 & A4
+
+        MULT["Problemas Multiplicacion y Division\nPeled y Nesher 1996"]
+        M1["Razon:\nproporcion directa"]
+        M2["Comparacion:\nun multiplo del otro"]
+        M3["Productos cartesianos:\ncomposicion de colecciones"]
+        MULT --> M1 & M2 & M3
+
+        LOGICO["Problemas Razonamiento Logico:\nClasificacion, comparacion,\nordenacion - 3er ciclo"]
+    end
+
+    subgraph METODOS["Metodos de Resolucion"]
+        POLYA["Polya 1945 - 4 fases\nlineal"]
+        P1["1. Comprender el problema\nleer, anotar datos, esquema"]
+        P2["2. Concebir un plan\nseleccionar estrategias"]
+        P3["3. Ejecutar el plan\nseguir orden, verificar pasos"]
+        P4["4. Examinar la solucion\ncoherencia, alternativas"]
+        POLYA --> P1 --> P2 --> P3 --> P4
+
+        SCHOEN["Schoenfeld 1985\nNo lineal - zig-zag"]
+        S1["Analisis"]
+        S2["Exploracion"]
+        S3["Ejecucion"]
+        S4["Comprobacion"]
+        SCHOEN --> S1 --> S2 --> S3 --> S4
+
+        MASON["Mason, Burton y Stacey 1998\nMonitor interno"]
+        MB1["Abordaje del problema"]
+        MB2["Ataque: conjeturas\ny justificacion"]
+        MB3["Revision"]
+        MASON --> MB1 --> MB2 --> MB3
+
+        GUZMAN["Guzman 1991 - 4 fases\nMayor aceptacion educativa"]
+        G1["Familiarizacion\ncon el problema"]
+        G2["Busqueda de\nestrategias heuristicas"]
+        G3["Desarrollo de\nla estrategia"]
+        G4["Revision del proceso\ny reflexion"]
+        GUZMAN --> G1 --> G2 --> G3 --> G4
+    end
+
+    subgraph VERTIENTES["4 Vertientes del Proceso"]
+        PLAN["Planificacion:\nsaber que hacer antes\nde operar"]
+        PLAN_B["Analisis info, organizacion,\nexplotacion Schoenfeld,\nconcebir plan"]
+
+        GESTION["Gestion de Recursos:\nconocimientos previos\na lo largo del proceso"]
+        GEST_B["Recursos linguisticos,\nmatematicos y\nestrategicos/heuristicos"]
+
+        REPRES["Representacion:\ntraducir info a\nformato operable"]
+        REP_B["Comprension: esquemas,\nPlanificacion: diagramas,\nEjecucion: calculos ordenados,\nValoracion: revisar pasos"]
+
+        INTERP["Interpretacion y Valoracion\nde Resultados"]
+        INT_B["Comprobar bondad,\nalternativas posibles,\nanalisis de dificultades"]
+
+        PLAN --> PLAN_B
+        GESTION --> GEST_B
+        REPRES --> REP_B
+        INTERP --> INT_B
+    end
+
+    subgraph INTERVENCION["Estrategias de Intervencion Educativa"]
+        PED["Orientaciones Pedagogicas\nArt. 6 Decreto 155/2022"]
+        PED1["Enfoques funcionales y activos\ncontextos reales"]
+        PED2["Aprendizaje significativo\ny cooperativo"]
+        PED3["Vivencia - Manipulacion -\nRepresentacion - Abstraccion"]
+        PED4["Rol docente: mediador\nEvaluacion reguladora"]
+        PED --> PED1 & PED2 & PED3 & PED4
+
+        METOD_ESP["Orientaciones Metodologicas\nEspecificas"]
+        ME1["Actitud positiva +\nherramientas heuristicas"]
+        ME2["Problemas significativos\nfuncionales y motivadores"]
+        ME3["Creatividad, gestion\ndel miedo al error"]
+        METOD_ESP --> ME1 & ME2 & ME3
+    end
+
+    subgraph CICLOS["Resolucion por Ciclos - Art. 16 D155"]
+        C1["1er Ciclo 6-8 anos:\nExpresion verbal del razonamiento\nproblemas basicos"]
+        C2["2o Ciclo 8-10 anos:\nPlanificacion, representacion grafica\ndibujos, esquemas, tablas"]
+        C3["3er Ciclo 10-12 anos:\nAplicacion en distintos contextos\nrazonamiento critico propio"]
+        C1 --> C2 --> C3
+    end
+
+    subgraph ACTIVIDADES["Actividades que Facilitan la Resolucion"]
+        ACT1["Resumen:\neliminar datos inútiles"]
+        ACT2["Datos contradictorios:\nreformular enunciado"]
+        ACT3["Analisis del proceso:\ndescripcion oral y escrita"]
+        ACT4["Analisis de errores:\nsentido critico"]
+        ACT5["Cambio de textos:\ninventar e intercambiar"]
+        ACT6["Problemas imposibles:\nanalisis critico"]
+        ACT7["Juego matematico\nAlsina 2004:\nmotivador y sin miedo al error"]
+    end
+
+    MARCO --> GENERALIDADES
+    GENERALIDADES --> DIFICULTADES
+    GENERALIDADES --> CLASIFICACION
+    CLASIFICACION --> METODOS
+    METODOS --> VERTIENTES
+    VERTIENTES --> INTERVENCION
+    INTERVENCION --> CICLOS
+    CICLOS --> ACTIVIDADES

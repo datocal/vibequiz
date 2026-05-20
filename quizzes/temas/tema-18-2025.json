@@ -3,6 +3,7 @@
   "description": "Preguntas de nivel avanzado sobre el proceso lector en EP, estrategias de comprensión lectora y planes de fomento de la lectura en Galicia.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-18.svg",
   "questions": [
     {
       "question": "¿En qué artículo de la LOMLOE se establece que la comprensión lectora debe trabajarse de forma transversal en todas las áreas?",

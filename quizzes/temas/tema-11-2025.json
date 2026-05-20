@@ -3,6 +3,7 @@
   "description": "Quiz sobre el área de Educación en Valores Cívicos y Éticos: enfoque, características, marco legislativo, objetivos, contenidos, criterios de evaluación y relación con otras áreas del currículo en EP.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-11.svg",
   "questions": [
     {
       "question": "¿Qué ley incorpora el área de Educación en Valores Cívicos y Éticos (EVCE) al currículo de Educación Primaria?",

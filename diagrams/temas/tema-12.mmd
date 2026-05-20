@@ -1,0 +1,136 @@
+flowchart TD
+    subgraph MARCO["Marco Legal"]
+        LOMLOE["LOMLOE 3/2020"]
+        D155["Decreto 155/2022\nCurriculo EP Galicia"]
+        RD157["RD 157/2022\nEnsenanzas minimas EP"]
+        ORD23["Orden 26 mayo 2023\nEvaluacion EP Galicia"]
+        LOMLOE --> D155
+        RD157 --> D155
+        D155 --> ORD23
+    end
+
+    subgraph AREA["Ed. Artistica como Area Integrada"]
+        EPV["Ed. Plastica y Visual\nEPV - Maestro Generalista"]
+        MD["Musica y Danza\nMD - Docente Especialista"]
+        AMBITO["Agrupacion en Ambito\nArt. 12 D155 + Art. 4 Ord23"]
+        EPV --> AMBITO
+        MD --> AMBITO
+        D155 -->|"Art. 9 - 2 areas\nindependientes"| EPV
+        D155 -->|"Art. 9"| MD
+        D155 -->|"Art. 12 - autonomia\ncentros"| AMBITO
+    end
+
+    subgraph ENFOQUE["Enfoque del Area"]
+        PROP["Proposito: percepcion y\nexpresion estetica"]
+        COMP["Enfoque competencial:\ntransversal e integral"]
+        CREAT["Creatividad y\npensamiento divergente"]
+        NODIM["Sin imitacion mecanica\nni solfeo repetitivo"]
+        PROP --> COMP
+        COMP --> CREAT
+        CREAT --> NODIM
+        D155 -->|"Art. 4 - fin EP\ncreatividad"| CREAT
+        D155 -->|"Art. 16 - principio\npedagogico"| CREAT
+        D155 -->|"Art. 17 - elemento\ntransversal"| CREAT
+    end
+
+    subgraph CARACT["Caracteristicas del Area"]
+        SESION["1 sesion semanal\ncada area - Anexo III D155"]
+        PROGRES["Profundizacion progresiva\ncontenidos por ciclos"]
+        SOCIEDAD["Caracter socializador\nrespeto diversidad cultural"]
+        GENERO["Perspectiva de genero\nmujeres en las artes"]
+        SESION --> PROGRES
+        PROGRES --> SOCIEDAD
+        SOCIEDAD --> GENERO
+    end
+
+    subgraph CICLOS_EPV["EPV por Ciclos EP"]
+        EPV1["1er Ciclo: Esquematismo\nFormas basicas, psicomotricidad"]
+        EPV2["2o Ciclo: Percepcion entorno\nTexturas, maquetas, collage"]
+        EPV3["3er Ciclo: Lectura critica\nFotografia, efectos de luz"]
+        EPV1 --> EPV2 --> EPV3
+    end
+
+    subgraph CICLOS_MD["Musica y Danza por Ciclos EP"]
+        MD1["1er Ciclo: Cancion y percusion\nBaile y juego dramatico"]
+        MD2["2o Ciclo: Audiciones activas\nVoz, movimiento, codigos musicales"]
+        MD3["3er Ciclo: Estilos y culturas\nMusica en medios, coordinacion"]
+        MD1 --> MD2 --> MD3
+    end
+
+    subgraph METOD["Propuestas Metodologicas"]
+        GEN["Generales - Art. 16 D155"]
+        GLOB["Enfoque globalizador\ne interdisciplinar"]
+        SIGNI["Aprendizaje significativo\nAusubel - ZDP Vygotsky"]
+        TIC["Integracion TIC\nGimp, MovieMaker, GarageBand"]
+        DUA["DUA - Diseno Universal\npara el Aprendizaje"]
+        GEN --> GLOB
+        GEN --> SIGNI
+        GEN --> TIC
+        GEN --> DUA
+        ESPEC["Especificas"]
+        APREND_CR["Aprendizaje Creativo\npensamiento divergente"]
+        ABP["Aprendizaje Basado\nen Proyectos - ABP"]
+        TALLER["Trabajo de Taller\narcilla, collage, pintura"]
+        COOP["Aprendizaje Cooperativo\ngrupos heterogeneos"]
+        ESPEC --> APREND_CR
+        ESPEC --> ABP
+        ESPEC --> TALLER
+        ESPEC --> COOP
+    end
+
+    subgraph INNOV["Proyectos Innovacion Xunta"]
+        POLOS["Polos Creativos"]
+        LOVA["Programa LOVA\nobra operistica"]
+        PLANEA["Red Planea Arte y Escuela"]
+        PROXECTA["Plan Proxecta:\nCinema/Fotografia en Curso"]
+    end
+
+    subgraph CC["Competencias Clave - Art. 8 D155"]
+        CCEC["CCEC - Conciencia y\nExpr. Culturales - Principal"]
+        CE["CE - Competencia\nEmprendedora"]
+        CIUD["CC - Competencia\nCiudadana"]
+        CPSAA["CPSAA - Personal Social\ny Aprender a Aprender"]
+        STEM["STEM - Matematicas,\ngeometria, compases"]
+        CD["CD - Competencia Digital\nuso seguro y responsable"]
+        CCL["CCL - Comunicacion\nLinguistica"]
+        CP["CP - Competencia\nPlurilingue - D.79/2010"]
+        CCEC --- CE --- CIUD --- CPSAA
+        STEM --- CD --- CCL --- CP
+    end
+
+    subgraph CURRIC["Objetivos Contenidos y Evaluacion - Dec155 Anexo II"]
+        ODS["ODS Agenda 2030\nODS4 ODS5 ODS12"]
+        OBJ_ETAP["Objetivos Etapa\nArt. 7 - 15 objetivos\nEsp. b y j"]
+        OBJ_AREA["Objetivos de Area\n4 EPV + 5 MD"]
+        ODS --> OBJ_ETAP --> OBJ_AREA
+
+        BLOQ["4 Bloques de Contenido\nEPV y MD"]
+        B1["Bloque 1 y 2:\nEPV/Musical\nPercepcion y Creacion"]
+        B2["Bloque 3 y 4:\nAudiovisual/Escenicas\nPercepcion y Creacion"]
+        BLOQ --> B1
+        BLOQ --> B2
+
+        CRIT["Criterios de Evaluacion\nNiveles de desempeno"]
+        OBJ_AREA --> CRIT
+        B1 --> CRIT
+        B2 --> CRIT
+    end
+
+    subgraph RELAC["Relacion con Otras Areas - Art. 3 D155"]
+        LENGUAS["Lenguas: escritura,\ngestos, lenguaje no verbal"]
+        CCSS["CC.Sociales y Naturales:\nplanos, maquetas, culturas"]
+        MATE["Matematicas: geometria,\nformas, medidas, ritmo"]
+        EF["Ed. Fisica: danza,\ncorporalidad, ritmo"]
+        VALORES["Ed. Valores 6EP:\ndiversidad, respeto, equipo"]
+    end
+
+    MARCO --> AREA
+    AREA --> ENFOQUE
+    ENFOQUE --> CARACT
+    CARACT --> CICLOS_EPV
+    CARACT --> CICLOS_MD
+    METOD --> INNOV
+    AREA --> METOD
+    AREA --> CC
+    AREA --> CURRIC
+    CURRIC --> RELAC

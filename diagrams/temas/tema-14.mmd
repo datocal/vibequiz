@@ -1,0 +1,101 @@
+flowchart TD
+    TITLE["Tema 14: Lengua Castellana y Literatura\nen Educacion Primaria"]
+
+    subgraph MARCO["Marco Legislativo"]
+        LOMLOE["LOMLOE 3/2020"]
+        D155["Decreto 155/2022\nCurriculo EP Galicia"]
+        RD157["RD 157/2022\nEnsenanzas Minimas"]
+        D79["Decreto 79/2010\nPlurilinguismo Galicia"]
+        LOMLOE --> D155
+        D155 --> D79
+    end
+
+    subgraph ENFOQUE["Enfoque del Area"]
+        ENF_COMP["Enfoque Competencial\nTransversal e Integral"]
+        ENF_COM["Enfoque Comunicativo\ny Funcional"]
+        ENF_INT["Enfoque Integrado\nTratamiento Lenguas"]
+        ART6_D79["Art. 6 D79/2010\nDistribucion equitativa\ngallego y castellano"]
+        ENF_INT -->|"Art. 6 D79"| ART6_D79
+    end
+
+    subgraph CARACT["Caracteristicas LCL"]
+        FIN_COM["Finalidad Comunicativa\nPrincipal medio de relacion social"]
+        INSTR["Caracter Instrumental\nArea instrumento del aprendizaje"]
+        INTERDISC["Interdisciplinariedad\ny Presencia Transversal"]
+        FORMAT["Caracter Formativo\nDesarrollo intelectual"]
+        TIC["Uso seguro TIC\nArt. 17 D155/2022"]
+        FIN_COM --> INSTR
+        INSTR --> INTERDISC
+    end
+
+    subgraph METODOLOGIA["Propuestas Metodologicas"]
+        subgraph GENERALES["Generales - Art. 16 D155"]
+            GLOB["Enfoque Globalizador\ne Interdisciplinar"]
+            DUA["Diseno Universal\npara el Aprendizaje DUA"]
+            SIG["Aprendizaje Significativo\nPiaget, Ausubel, Vigotsky"]
+            LECT["Lectura diaria\ny Bibliotecas Escolares"]
+        end
+        subgraph ESPECIFICAS["Metodologias Activas Especificas"]
+            COOP["Aprendizaje Cooperativo\nJohnson y Johnson"]
+            ABP["Aprendizaje Basado\nen Proyectos - ABP"]
+            ASERV["Aprendizaje-Servicio\nUso pragmatico lenguaje"]
+            META["Metacognicion\nReflexion sobre el aprendizaje"]
+        end
+        subgraph PLANES["Planes Obligatorios Art. 33 D155"]
+            PLEA["Plan PLEA\nLectura, Escritura e Informacion\nResolucion 16/10/2025"]
+            BIBLIO["Plan de Biblioteca\nArt. 13 Orden 26 mayo"]
+            LIA["Plan LIA\nBibliotecas como recurso ALFIN/AMI"]
+            PLAMBE["PLAMBE\nMejora Bibliotecas Galicia"]
+            PLEA --> LIA
+            BIBLIO --> PLAMBE
+        end
+    end
+
+    subgraph COMPETENCIAS["Contribucion a Competencias Clave\nArt. 6 y 8 D155/2022"]
+        CCL["CCL - Comunicacion Linguistica\nComprender, interpretar, expresar"]
+        CP["CP - Competencia Plurilingue\nD79/2010 - castellano y gallego"]
+        STEM["STEM - Comprension enunciados\ny lenguaje cientifico"]
+        CD["CD - Busqueda critica\nen internet y herramientas digitales"]
+        CPSAA["CPSAA - Lenguaje como\nrepresentacion del mundo"]
+        CC2["CC - Ciudadania activa\nconvivencia y respeto"]
+        CCEC["CCEC - Literatura y\nmanifestaciones artisticas"]
+    end
+
+    subgraph CURRICULO["Objetivos, Contenidos y Evaluacion"]
+        subgraph OBJ["Tipos de Objetivos"]
+            ODS["ODS4 - Educacion de Calidad\nAgenda 2030 ONU"]
+            OETAPA["15 Obj. de Etapa\nArt. 7 D155 - destaca obj. e"]
+            OAREA["10 Obj. de Area\nAnexo II D155 = CC Especificas RD157"]
+        end
+        subgraph CONT["6 Bloques de Contenidos - Anexo II D155"]
+            B1["Bloque 1: La lengua\ny sus hablantes - diversidad"]
+            B2["Bloque 2: Comunicacion Oral"]
+            B3["Bloque 3: Comunicacion Escrita"]
+            B4["Bloque 4: Alfabetizacion\nMediatica e Informacional"]
+            B5["Bloque 5: Educacion Literaria"]
+            B6["Bloque 6: Reflexion sobre\nla lengua y sus usos"]
+        end
+        subgraph EVAL["Criterios de Evaluacion - Art. 6 D155"]
+            CE_DEF["Niveles de desempeno\nesperados en el alumnado"]
+            CE_ASP["Evaluar habilidades: hablar,\nescuchar, leer, escribir, comprender"]
+        end
+        ODS --> OETAPA --> OAREA
+        CE_DEF --> CE_ASP
+    end
+
+    subgraph OTRAS_AREAS["Relacion con otras Areas - Art. 3 D155"]
+        MAT["Matematicas\nLenguaje matematico y problemas"]
+        CCNN["CC Naturaleza y Sociales\nFuentes, mapas, exposiciones"]
+        ART["Educacion Artistica\nValoracion y destrezas linguisticas"]
+        EF["Educacion Fisica\nLenguaje no verbal y normas"]
+        VCE["Valores Civicos y Eticos\nDialogo y resolucion conflictos"]
+        TRANSV["Transversalidad Art. 17 D155\nComprension lectora, expresion,\ncomunicacion audiovisual"]
+    end
+
+    TITLE --> MARCO
+    D155 --> ENFOQUE
+    D155 --> CARACT
+    ENFOQUE --> METODOLOGIA
+    CARACT --> COMPETENCIAS
+    COMPETENCIAS --> CURRICULO
+    CURRICULO --> OTRAS_AREAS

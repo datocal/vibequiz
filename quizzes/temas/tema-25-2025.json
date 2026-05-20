@@ -3,6 +3,7 @@
   "description": "Estadística en Educación Primaria: tablas de datos, tipos de gráficos, aplicaciones interdisciplinares y uso de las TIC para el tratamiento de datos.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-25.svg",
   "questions": [
     {
       "question": "¿Qué autor señala que 'la estadística es una parte de la educación necesaria para adquirir la capacidad de leer e interpretar tablas y gráficos estadísticos que con frecuencia aparecen en los medios de comunicación'?",

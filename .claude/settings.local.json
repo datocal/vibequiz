@@ -9,8 +9,14 @@
       "Bash(ls:*)",
       "Bash(cd:*)",
       "Bash(npx:*)",
+      "Bash(markitdown:*)",
+      "PowerShell(mmdc*)",
+      "PowerShell(markitdown*)",
+      "PowerShell(New-Item*)",
+      "PowerShell(Remove-Item*)",
       "SlashCommand(/generate-quiz legislacion @contenidos/legislacion/orden26m2023decreto155.md)",
-      "SlashCommand(/generate-quiz:*)"
+      "SlashCommand(/generate-quiz:*)",
+      "SlashCommand(/generate-diagram:*)"
     ],
     "deny": [],
     "ask": []

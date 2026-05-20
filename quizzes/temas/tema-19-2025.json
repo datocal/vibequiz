@@ -3,6 +3,7 @@
   "description": "Preguntas de nivel avanzado sobre métodos, estrategias, composición de textos escritos, TIC y estrategias de intervención educativa en la expresión escrita en Educación Primaria.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-19.svg",
   "questions": [
     {
       "question": "Según el artículo 19 de la LOMLOE, ¿cómo debe trabajarse la expresión oral y escrita en la Educación Primaria?",

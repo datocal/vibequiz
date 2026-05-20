@@ -1,0 +1,126 @@
+flowchart TD
+    TEMA["Tema 9: El Entorno y su Conservacion"]
+
+    subgraph S1["1. Entorno y Conservacion"]
+        MEDIO["Medio: elementos y procesos\ndel entorno humano"]
+        ENTORNO["Entorno: natural, social, cultural"]
+        MEDIOAMB["Medio ambiente: sistema global\n(Von Bertalanffy - Teoria Sistemas)"]
+        CONSERVACION["Conservacion: uso racional\ny sostenible de recursos (VITALIS)"]
+        DS["Desarrollo Sostenible\nComision Brundtland ONU 1983"]
+        EDAMB["Educacion Ambiental:\nconciencia y cambio de actitud\n(Meira 2013, Nunez 2019)"]
+        PROBAMB["Problemas ambientales:\ncambio climatico, deforestacion,\ncontaminacion, perdida biodiversidad"]
+        ANTROPO["Vision antropocentrica\n(entorno como recurso)"]
+        BIOCENT["Vision biocentrica\n(entorno como red - Carlos Osorio)"]
+
+        MEDIO --> ENTORNO
+        ENTORNO --> MEDIOAMB
+        MEDIOAMB --> CONSERVACION
+        CONSERVACION --> DS
+        DS --> EDAMB
+        PROBAMB --> ANTROPO
+        ANTROPO -->|"superar hacia"| BIOCENT
+    end
+
+    subgraph S2["2. Ecosistemas: Relaciones, Deterioro y Regeneracion"]
+        ECO["Ecosistema: comunidad natural\n+ ambiente fisico (Tansley 1935)"]
+        BIOT["Factores bioticos\n(seres vivos)"]
+        ABIOT["Factores abioticos\n(aire, suelo, agua)"]
+        CLASECO["Clasificacion ecosistemas"]
+        NATURAL["Naturales: terrestres\n(bosques, sabanas, tundras)\ny acuaticos (mares, rios)"]
+        ARTIF["Artificiales: urbanos,\nagricolas, embalses"]
+        CADTROFICA["Cadenas troficas:\nproductores -> consumidores\n-> descomponedores"]
+        CICLOMAT["Ciclos de la materia\n(C, N, H, S)"]
+        FLUJOENER["Flujo de energía:\nunidireccional desde el sol"]
+        RELINTER["Relaciones intraespecificas:\ncooperacion / competencia"]
+        RELINTERE["Relaciones interespecificas:\nmutualismo, parasitismo,\ndepredacion"]
+        SUCE["Sucesion ecologica:\nprimaria / secundaria"]
+        DETERIORO["Factores de DETERIORO"]
+        EROSION["Erosion y desertizacion"]
+        DEFOREST["Deforestacion"]
+        CONTAG["Contaminacion agua y aire"]
+        BIODIV["Perdida biodiversidad"]
+        RESIDUOS["Gestion inadecuada residuos"]
+        REGENER["Medidas de REGENERACION"]
+        R3["Ley 3R: reducir, recuperar, reciclar"]
+        ENRENO["Energias renovables"]
+        DEPURA["Depuracion y gestion del agua"]
+
+        ECO --> BIOT & ABIOT
+        ECO --> CLASECO
+        CLASECO --> NATURAL & ARTIF
+        ECO --> CADTROFICA
+        ECO --> CICLOMAT
+        ECO --> FLUJOENER
+        ECO --> RELINTER & RELINTERE
+        ECO --> SUCE
+        DETERIORO --> EROSION & DEFOREST & CONTAG & BIODIV & RESIDUOS
+        REGENER --> R3 & ENRENO & DEPURA
+        DETERIORO -->|"requiere"| REGENER
+    end
+
+    subgraph S3["3. Capacidad Humana sobre la Naturaleza"]
+        EVOLUCION["Evolucion impacto humano:\nnomada > agricultura > Rev. Industrial > hoy"]
+        CONTAM["Contaminacion (De Vecchi 1988):\nalteracion equilibrio natural"]
+        CLASCONTAM["Por medio: atmosferica, acuatica,\nsuelo, seres vivos"]
+        CLASAGENTE["Por agente: radioactiva,\nquimica, organica"]
+        ACCIONES["Acciones degradadoras"]
+        AGR["Agricultura y ganaderia intensiva"]
+        ENER["Obtencion energia y materias primas"]
+        VERT["Vertido de residuos"]
+        DESTR["Destruccion ecosistemas naturales"]
+        INTRO["Introduccion organismos ajenos"]
+        POLAMB["Politicas ambientales"]
+        OFIC["Organismos oficiales:\ngobiernos y administraciones"]
+        NOOF["Organismos no oficiales:\nONG y entidades privadas"]
+        INDIV["Actuaciones individuales:\nconsumo responsable"]
+        INTER["Acuerdos internacionales:\nKioto (1997), Montreal (1987),\nDiversidad Biologica (1992)"]
+        EU["Pacto Verde Europeo 2019\n(Europa neutra 2050)"]
+        NAC["Libro Blanco Ed. Ambiental\nEspana 1999"]
+        ODS["ODS Agenda 2030 ONU 2015:\nODS4, ODS6, ODS7, ODS13, ODS14, ODS15"]
+
+        EVOLUCION --> CONTAM
+        CONTAM --> CLASCONTAM & CLASAGENTE
+        CONTAM --> ACCIONES
+        ACCIONES --> AGR & ENER & VERT & DESTR & INTRO
+        ACCIONES -->|"genera"| POLAMB
+        POLAMB --> OFIC & NOOF & INDIV
+        POLAMB --> INTER & EU & NAC & ODS
+    end
+
+    subgraph S4["4. Intervencion Educativa"]
+        MARCO["Marco curricular\nDec. 155/2022 Art.6"]
+        BLQ_CCNN["Bloque 2 CCNN:\nLa vida en nuestro planeta"]
+        BLQ_CCSS["Bloque 2 CCSS:\nEl mundo y el desarrollo sostenible"]
+        OBJ_ETAPA["Objetivos etapa Art.7:\nh) Ciencias naturaleza\nl) Animales y empatia"]
+        OBJ_AREA["OBJ3: valor del medio natural\nOBJ4: impacto humano y sostenibilidad"]
+        CICLOS["Criterios evaluacion por ciclos"]
+        C1["1 ciclo: reconocer elementos\ncon metodologia de indagacion"]
+        C2["2 ciclo: conocer y proteger\nacciones de conservacion"]
+        C3["3 ciclo: compromisos\ny conductas sostenibles"]
+        CC["Contribucion a 8 CC:\nCCL, CP, STEM, CD, CPSAA, CC, CE, CCEC"]
+        DUA["DUA: Rose y Meyer 2002\nmultiples formas representacion"]
+        LINEAS["Lineas de actuacion\nDec. 155/2022 Anexo II 1.4"]
+        MET["Metodologia activa, comunicativa,\ninclusiva y participativa"]
+        PROYECT["Proyectos significativos\n(Ausubel, Piaget)"]
+        COOP["Trabajo cooperativo\ny colaborativo"]
+        ACTIV["Actividades y recursos"]
+        SALIDASC["Salidas de campo:\nfabricas, parques, puntos limpios"]
+        EXPER["Experimentacion cientifica:\nmedir contaminacion"]
+        TIC["TIC: Quizizz, Kahoot, Genially, Gliffy"]
+        EFEM["Efemérides: Dia Tierra,\nMedioambiente, Arbol"]
+        PROXECTA["Plan Proxecta+: Naturezate,\nEscolas Verde polo Clima,\nProxectos Rios, Ecohortas..."]
+
+        MARCO --> BLQ_CCNN & BLQ_CCSS
+        MARCO --> OBJ_ETAPA --> OBJ_AREA
+        MARCO --> CICLOS
+        CICLOS --> C1 --> C2 --> C3
+        MARCO --> CC
+        LINEAS --> MET & PROYECT & COOP & DUA
+        ACTIV --> SALIDASC & EXPER & TIC & EFEM & PROXECTA
+        LINEAS --> ACTIV
+    end
+
+    TEMA --> S1
+    TEMA --> S2
+    TEMA --> S3
+    TEMA --> S4

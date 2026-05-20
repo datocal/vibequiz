@@ -1,0 +1,150 @@
+flowchart TD
+    TITULO["Tema 19: Expresion Escrita en EP"]
+
+    subgraph LEGAL["Marco Legal"]
+        LOMLOE["LOMLOE 3/2020"]
+        DEC155["Decreto 155/2022 Galicia"]
+        ART19["Art. 19 LOMLOE\nExpresion escrita transversal"]
+        ART16["Art. 16 LOMLOE\nPrincipios generales EP"]
+        ART4["Art. 4 Dec.155/2022\nFinalidad: escritura en EP"]
+        ART6["Art. 6 Dec.155/2022\nOrientaciones pedagogicas"]
+        BLOQUE3["Bloque 3: Comunicacion Escrita\nLCL y LGL"]
+        OBJ5["OBJ5: Producir textos escritos\ncon estrategias de composicion"]
+        CCL["CCL - Competencia\nComunicacion Linguistica"]
+        CP["CP - Competencia\nPlurilinguistica"]
+        LOMLOE --> ART19
+        LOMLOE --> ART16
+        DEC155 --> ART4
+        DEC155 --> ART6
+        DEC155 --> BLOQUE3
+        BLOQUE3 --> OBJ5
+        BLOQUE3 --> CCL
+        BLOQUE3 --> CP
+    end
+
+    subgraph CONCEPTO["Concepto y Fases de la Escritura"]
+        DEF["Escritura: representar informacion\nmediante signos graficos\nPrado 2004"]
+        FUNC1["Funcion 1: Codigo\ngrafo-fonetico"]
+        FUNC2["Funcion 2: Expresion de\nsentimientos y vivencias"]
+        COGNITIVO["Procesos cognitivos\nCuetos 2008 y Ramos 2003"]
+        PLANIF_C["Planificacion del mensaje"]
+        SINTAX["Construccion estructuras\nsintacticas"]
+        PALABRAS["Seleccion de palabras"]
+        MOTORES["Procesos motores"]
+        DEF --> FUNC1
+        DEF --> FUNC2
+        DEF --> COGNITIVO
+        COGNITIVO --> PLANIF_C
+        COGNITIVO --> SINTAX
+        COGNITIVO --> PALABRAS
+        COGNITIVO --> MOTORES
+    end
+
+    subgraph FASES["Fases Adquisicion Escritura\nFerreiro y Teberosky 1979"]
+        F1["Fase 1: Grafismos primitivos\ny pseudoletras\nSin relacion sonido-escritura"]
+        F2["Fase 2: Escritura silabica\nRelacion lengua oral y escrita"]
+        F3["Fase 3: Escritura alfabetica\nCorrespondencia letra-fonema\nInicio EP"]
+        F1 -->|"Evolucion"| F2
+        F2 -->|"Evolucion"| F3
+    end
+
+    subgraph DEA["DEA Composicion Escrita"]
+        TIPOS_DEA["Dislexia - Disgrafia\nDisortografia"]
+        FASE_DEA1["Fase 1: Dificultades en\nrecuperacion de la forma"]
+        FASE_DEA2["Fase 2: Dificultades en\ncomposicion escrita\nModelo Flower y Hayes 1981"]
+
+        subgraph PLANIF_DEA["Dificultades Planificacion"]
+            DP1["Planificacion frase a frase\nsin metas globales"]
+            DP2["Auto-dictado durante\nla escritura"]
+            DP3["Interferencias y perdida\nde recursos"]
+            DP4["Textos cortos y poco\nelaborados"]
+        end
+
+        subgraph TRASLAC["Dificultades Traslacion"]
+            DT1["Errores mecanicos\ndisgrafia, ortografia, puntuacion"]
+            DT2["Escritura asociativa\nsin coherencia logica"]
+            DT3["Errores morfosintacticos"]
+            DT4["Escritura manuscrita\nvs procesadores de texto"]
+        end
+
+        subgraph REVISION_DEA["Dificultades Revision"]
+            DR1["Eliminar o reducir\ntiempo de revision"]
+            DR2["Revisar solo aspectos\nformales"]
+            DR3["Dificultades de conciencia\nde eficacia"]
+            DR4["Control ejecutivo\nde procesos"]
+        end
+
+        TIPOS_DEA --> FASE_DEA1
+        TIPOS_DEA --> FASE_DEA2
+        FASE_DEA2 --> PLANIF_DEA
+        FASE_DEA2 --> TRASLAC
+        FASE_DEA2 --> REVISION_DEA
+    end
+
+    subgraph METODOS["Metodos y Estrategias"]
+        subgraph ENFOQUES["Tres Enfoques Metodologicos"]
+            MET_GRAM["Metodo basado en\nla gramatica"]
+            MET_FUNC["Metodo basado en\nfunciones comunicativas"]
+            MET_PROC["Metodo basado en\nel proceso de composicion"]
+        end
+
+        subgraph ESTRATEGIAS["Estrategias de Aprendizaje"]
+            EST_ELAB["Elaboracion:\nseleccionar y organizar info"]
+            EST_ORG["Organizacion:\nagrupar y estructurar info"]
+            EST_CONTROL["Control de comprension:\nmetacognicion"]
+            EST_PLANIF["Planificacion:\nantes de escribir"]
+            EST_REGUL["Regulacion y supervision:\ndurante la escritura"]
+            EST_EVAL["Evaluacion:\ndurante y al final"]
+            EST_APOYO["Apoyo y afectivas:\nmotivacion y atencion"]
+        end
+    end
+
+    subgraph TEXTOS["Tipos de Textos\nMaruny Curto 1997"]
+        TEX_ENUM["Enumerativos\nlistas, guias, horarios"]
+        TEX_INFO["Informativos\nnoticias, articulos, entrevistas"]
+        TEX_LIT["Literarios\ncuentos, poesias, teatro"]
+        TEX_EXP["Expositivos\nlibros, informes, biografias"]
+        TEX_PRESC["Prescriptivos\ninstrucciones, recetas, normas"]
+    end
+
+    subgraph TIC["TIC en Expresion Escrita"]
+        TIC_ABALAR["Espacio Abalar\naula virtual, correo electronico"]
+        TIC_BLOGS["Blogs y Wikis\nescrituray colaboracion online"]
+        TIC_PROC["Procesador de textos\nGoogle Docs"]
+        TIC_QR["Codigo QR\nitinerarios y narraciones"]
+        TIC_INFO["Infografia digital\ngliffy, easel"]
+        TIC_APPS["Apps: Genially, Storybird\nKahoot, Quizizz"]
+        TIC_INC["TIC e Inclusion\nescritura por voz, tobii"]
+    end
+
+    subgraph INTERVENCION["Estrategias de Intervencion Educativa"]
+        subgraph ORIENTACIONES["Orientaciones Metodologicas"]
+            ORI1["Docente como modelo\nde escritura experto"]
+            ORI2["Situaciones de\ncomunicacion real"]
+            ORI3["Proceso: planificar,\nredactar, revisar"]
+            ORI4["Intercambio y\ncolaboracion entre alumnos"]
+            ORI5["Secuencias didacticas\nactividades intensivas y extensivas"]
+            ORI6["Materiales de apoyo\ny DUA"]
+            ORI7["Evaluacion del proceso\nno solo el producto"]
+        end
+
+        subgraph PASOS["5 Pasos para Redactar un Texto"]
+            P1["1. Buscar ideas\nconversar, imaginar, notas"]
+            P2["2. Organizar ideas\nseleccionar y esquematizar"]
+            P3["3. Reflexionar sobre la lengua\ngramatica y vocabulario"]
+            P4["4. Elaborar borrador\nparrafos y tipologia textual"]
+            P5["5. Revisar y evaluar\ncorregir y asegurar coherencia"]
+            P1 --> P2 --> P3 --> P4 --> P5
+        end
+    end
+
+    TITULO --> LEGAL
+    TITULO --> CONCEPTO
+    CONCEPTO --> FASES
+    FASES --> DEA
+    TITULO --> METODOS
+    TITULO --> TEXTOS
+    TITULO --> TIC
+    TITULO --> INTERVENCION
+    ART6 -->|"Define orientaciones"| ORIENTACIONES
+    OBJ5 -->|"Orienta composicion"| PASOS

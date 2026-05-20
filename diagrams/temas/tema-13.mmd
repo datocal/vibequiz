@@ -1,0 +1,150 @@
+flowchart TD
+    %% ── TEMA 13: Lenguajes y Técnicas Artísticas ──
+
+    subgraph MARCO["Marco Legal"]
+        LOMLOE["LOMLOE\nLey Org. 3/2020"]
+        D155["Decreto 155/2022\nCurrículo EP Galicia"]
+        O2023["Orden 26/05/2023\nDesarrollo y evaluación"]
+        LOMLOE -->|"base"| D155
+        D155 -->|"Art. 4 - Orden"| O2023
+    end
+
+    subgraph EA["Educación Artística - Art. 9 D155/2022"]
+        EPV["Educación Plástica\ny Visual EPV"]
+        MD["Música y Danza MD"]
+        AMBITO["Ámbito: Educación Artística\n(optativo, Art. 4 Orden 2023)"]
+        EPV --- AMBITO
+        MD --- AMBITO
+    end
+
+    subgraph LP["1.1 Lenguaje Plástico"]
+        LP_DEF["Sistema de representación\ncon elementos visuales"]
+        LP_FASES["3 Fases del proceso creador"]
+        LP_PERCEP["1. Percepción\n(identificar, relacionar)"]
+        LP_REFLEX["2. Reflexión y transformación"]
+        LP_COM["3. Comunicación y expresión"]
+        LP_ELEM["Elementos básicos:\nlínea, punto, color, forma, plano"]
+        LP_DEF --> LP_FASES
+        LP_FASES --> LP_PERCEP --> LP_REFLEX --> LP_COM
+        LP_DEF --> LP_ELEM
+    end
+
+    subgraph LM["1.2 Lenguaje Musical"]
+        LM_DEF["Combinación temporal\nde sonidos - Aguilar 2013"]
+        LM_PERC["Percepción activa\ny escucha atenta"]
+        LM_EXPR["Expresión y producción musical"]
+        LM_VOZ["Voz"]
+        LM_CANTO["Canto"]
+        LM_INSTR["Instrumentos"]
+        LM_DANZA["Movimiento y Danza"]
+        LM_DEF --> LM_PERC
+        LM_DEF --> LM_EXPR
+        LM_EXPR --> LM_VOZ
+        LM_EXPR --> LM_CANTO
+        LM_EXPR --> LM_INSTR
+        LM_EXPR --> LM_DANZA
+    end
+
+    subgraph TLP["1.3 Técnicas Lenguaje Plástico"]
+        T_DIBUJO["Dibujo\n(libre, copiado, natural)"]
+        T_PINTURA["Pintura\n(impresión, esgrafiado, frotado...)"]
+        T_MODELADO["Modelado\n(síntético y analítico)"]
+        T_PAPEL["Papel\n(picado, plegado, rasgado...)"]
+        T_MIXTAS["Técnicas mixtas\n(collage, mural, mosaico...)"]
+        T_TIC["TIC / Educación audiovisual\n(Photoshop, Gimp, Krita)"]
+    end
+
+    subgraph TLM["1.4 Técnicas Lenguaje Musical"]
+        TM_CANTO["Canto\n(emisión, respiración, entonación)"]
+        TM_INTERP["Interpretación\n(manejo instrumental, coordinación)"]
+        TM_DANZA["Danza\n(relajación, expresión corporal)"]
+        TM_AUDICION["Audición y ritmo\n(canciones, cuentos musicales)"]
+    end
+
+    subgraph ETAPAS["2.1 Etapas del Dibujo - Lowenfeld"]
+        E1["Garabato\n(0-4 años)"]
+        E2["Preesquematica\n(4-7 años)"]
+        E3["Esquematica\n(7-9 años)"]
+        E4["Realismo\n(9-12 años)"]
+        E5["Pseudonaturalismo\n(12-13 años)"]
+        E6["Etapa Decision\n(13-14 años)"]
+        E1 --> E2 --> E3 --> E4 --> E5 --> E6
+    end
+
+    subgraph CURRIC["2.2 Marco Curricular EPV"]
+        OBJ_J["Objetivo Etapa 'j'\nArt. 7 D155/2022"]
+        BLOQUES["4 Bloques EPV"]
+        B1["Bloque 1: Plastica -\nPercepcion y analisis"]
+        B2["Bloque 2: Plastica -\nCreacion e interpretacion"]
+        B3["Bloque 3: Audiovisual -\nPercepcion y analisis"]
+        B4["Bloque 4: Audiovisual -\nCreacion e interpretacion"]
+        CCEC["Competencia CCEC\n(expresion cultural y creativa)"]
+        TRANS["Elementos transversales\nArt. 17 D155/2022"]
+        OBJ_J --> BLOQUES
+        BLOQUES --> B1
+        BLOQUES --> B2
+        BLOQUES --> B3
+        BLOQUES --> B4
+        OBJ_J --> CCEC
+        OBJ_J --> TRANS
+    end
+
+    subgraph INTER["2.3 Lineas de Intervencion"]
+        MET_ACTIVA["Metodologia activa,\ncomunicativa, inclusiva"]
+        ATENCION_DIV["Atencion a la diversidad\ny ritmos de aprendizaje"]
+        TALLER["Trabajo de taller\ny visitas culturales"]
+        PLANEA["Rede Planea Arte y Escuela\n(innovacion 2025/2026)"]
+        COMP_DOC["Competencias docentes:\nteor-pract, etica, pedagogica, emocional"]
+        MET_ACTIVA --> ATENCION_DIV
+        MET_ACTIVA --> TALLER
+        MET_ACTIVA --> PLANEA
+        MET_ACTIVA --> COMP_DOC
+    end
+
+    subgraph PLAN["3.1 Planificacion del Proceso - Alumnado"]
+        P1["1. Observacion\ny busqueda info"]
+        P2["2. Seleccion de\nmateriales y tecnicas"]
+        P3["3. Organizacion\ndel trabajo"]
+        P4["4. Construccion\ndel proyecto"]
+        P5["5. Puesta en\ncomun y reflexion"]
+        P1 --> P2 --> P3 --> P4 --> P5
+    end
+
+    subgraph DISENO["3.1 Diseno y Organizacion - Docente"]
+        D_TEMP["Organizacion temporal\n(secuencia y sesiones)"]
+        D_ESP["Organizacion espacial\n(accesibilidad, iluminacion)"]
+        D_MAT["Organizacion de materiales\n(disponibilidad, cuidado)"]
+        D_ACT["Organizacion de la actividad\n(agrupamientos, instrucciones)"]
+    end
+
+    subgraph CRIT_SEL["3.2 Criterios de Seleccion de Materiales"]
+        C1["Nivel de desarrollo y\netapa expresiva del alumno"]
+        C2["Ritmos y estilos\nde aprendizaje"]
+        C3["Objetivos especificos\ny coherencia curricular"]
+        C4["Variedad y alternancia\ncomo motivacion"]
+        C5["Contexto y adecuacion\nal soporte"]
+        EVAL_MAT["Evaluacion:\nobjetiva + contextual"]
+    end
+
+    subgraph CLASIF["3.3 Clasificacion de Materiales"]
+        MAT_DIBUJO["Materiales dibujo:\nceras, rotuladores, lapices"]
+        MAT_PINT["Materiales pintura:\nacuarelas, temperas"]
+        MAT_MOD["Materiales modelado:\narcilla, plastilina"]
+        REC_IMP["Recursos impresos:\nlaminas, cuadernos, fichas"]
+        REC_AV["Recursos audiovisuales:\nfotografia, video, proyector"]
+        REC_TIC["Recursos TIC:\nProcreate, Illustrator, Krita"]
+    end
+
+    %% ── Conexiones entre bloques principales ──
+    D155 -->|"Art. 9 - estructura"| EA
+    EA -->|"EPV"| LP
+    EA -->|"MD"| LM
+    LP -->|"tecnicas"| TLP
+    LM -->|"tecnicas"| TLM
+    EA -->|"intervencion educativa"| ETAPAS
+    EA -->|"Art. 6 - orient. pedagog."| CURRIC
+    CURRIC -->|"lineas de actuacion\nAnexo II"| INTER
+    INTER -->|"planificacion"| PLAN
+    INTER -->|"diseno docente"| DISENO
+    DISENO -->|"seleccion"| CRIT_SEL
+    CRIT_SEL -->|"clasificacion"| CLASIF

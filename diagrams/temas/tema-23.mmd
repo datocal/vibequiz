@@ -1,0 +1,153 @@
+flowchart TD
+
+    subgraph INTRO["1. Marco Legal y Contexto"]
+        LOMLOE["LOMLOE - LO 3/2020"]
+        RD157["RD 157/2022\nEnseñanzas mínimas EP"]
+        D155["Decreto 155/2022\nCurrículo Galicia"]
+        BLOQUE2["Bloque 2\nSentido de la Medida"]
+        OBJ_G["Objetivo etapa g:\ncompetencia matemática"]
+
+        LOMLOE --> RD157
+        D155 --> BLOQUE2
+        D155 -->|"Art. 7"| OBJ_G
+    end
+
+    subgraph MAGNITUDES["2. Magnitudes y su Medida"]
+        MAG["Magnitud\npropiedad cuantificable"]
+        MEDIR["Medir\nasignar valor numérico objetivo"]
+        MEDICION["Medición\nproceso con instrumentos"]
+        MEDIDA["Medida\nresultado concreto"]
+        UNIDAD["Unidad de medida\ninalterable, universal, reproducible"]
+
+        MAG --> MEDIR
+        MEDIR --> UNIDAD
+        MEDIR --> MEDICION
+        MEDICION --> MEDIDA
+
+        subgraph TIPOS_MAG["Clasificación de Magnitudes"]
+            FUNDAMENTALES["Fundamentales\nmasa, longitud, tiempo"]
+            DERIVADAS["Derivadas\nvelocidad, volumen"]
+            ESCALARES["Escalares\ntemperatura, tiempo"]
+            VECTORIALES["Vectoriales\nvelocidad con dirección"]
+            CON_SUSTRATO["Con sustrato físico\nlongitud, peso"]
+            SIN_SUSTRATO["Sin sustrato físico\ntiempo, temperatura"]
+        end
+
+        MAG --> FUNDAMENTALES
+        MAG --> ESCALARES
+        MAG --> CON_SUSTRATO
+    end
+
+    subgraph PROCESO["2.2. Proceso de Medida"]
+        P1["1. Seleccionar objeto"]
+        P2["2. Percibir lo que medir"]
+        P3["3. Elegir unidad de medida"]
+        P4["4. Seleccionar instrumento"]
+        P5["5. Comparar cantidad con unidad"]
+        P6["6. Representar resultado"]
+
+        P1 --> P2 --> P3 --> P4 --> P5 --> P6
+
+        SI["Sistema Internacional SI\n7 magnitudes básicas"]
+        DIRECTA["Medida directa\ncon instrumentos"]
+        INDIRECTA["Medida indirecta\ncálculo aritmético"]
+
+        P3 --> SI
+        P5 --> DIRECTA
+        P5 --> INDIRECTA
+    end
+
+    subgraph EVOLUCION["2.3. Desarrollo Evolutivo - Piaget"]
+        PIAGET["Piaget\nconservación de magnitudes"]
+        LONG7["7-8 años\nconservación de longitud"]
+        SUP8["8-10 años\nconservación de superficie"]
+        VOL11["11-12 años\nmedida de volumen 3D"]
+
+        PIAGET --> LONG7 --> SUP8 --> VOL11
+    end
+
+    subgraph UNIDADES["3. Unidades e Instrumentos"]
+        UNID_FUND["Unidades Fundamentales SI\nmetro, kg, segundo, litro, m²"]
+        CONDICIONES["4 condiciones:\ncomodidad, invariabilidad,\ninalterabilidad, reproducibilidad"]
+
+        UNID_FUND --> CONDICIONES
+
+        subgraph FASES_UNIDAD["5 Fases adquisición de unidad\nChamorro y Belmonte 1988"]
+            F1["1. Ausencia de unidad\ncomparación visual"]
+            F2["2. Unidad objetal\nligada al objeto"]
+            F3["3. Unidad situacional\ncambia según objeto"]
+            F4["4. Unidad figural\ntransferencia entre objetos"]
+            F5["5. Unidad propiamente dicha\nindependiente del objeto"]
+            F1 --> F2 --> F3 --> F4 --> F5
+        end
+
+        subgraph INSTRUMENTOS["Instrumentos por magnitud"]
+            INST_LONG["Longitud\nregla, cinta métrica, calibrador"]
+            INST_TIEMPO["Tiempo\nrelojes, cronómetro"]
+            INST_TEMP["Temperatura\ntermómetros"]
+            INST_MASA["Masa\nbalanza granatorio, digital"]
+            INST_VOL["Volumen\nprobetas, vasos precipitado"]
+        end
+    end
+
+    subgraph ESTIMACION["4. Estimación y Aproximación"]
+        EST_DEF["Estimación\nmedir sin instrumentos,\njuicio subjetivo"]
+        DESTREZAS["Destrezas clave"]
+        INTERIORIZACION["Interiorización\nrepresentación mental de unidades"]
+        REFERENTE["Referente\npartes del cuerpo como guía"]
+        TEC_INDIRECTAS["Técnicas indirectas\nfórmulas y teoremas"]
+
+        EST_DEF --> DESTREZAS
+        DESTREZAS --> INTERIORIZACION
+        DESTREZAS --> REFERENTE
+        DESTREZAS --> TEC_INDIRECTAS
+
+        subgraph ESTRATEGIAS["Estrategias - Segovia 2017"]
+            COMPARACION["Comparación\nrelacionar con referente conocido"]
+            DESCOMPOSICION["Descomposición y recomposición\ndividir en partes menores"]
+        end
+
+        DESTREZAS --> COMPARACION
+    end
+
+    subgraph INTERVENCION["5. Intervención Educativa"]
+        ART6["Art. 6 Decreto 155/2022\nOrientaciones pedagógicas"]
+        ENFOQUES["Enfoques funcionales y activos\ncontextos reales y cotidianos"]
+        APZ_SIG["Aprendizaje significativo\nsituaciones complejas"]
+        APZ_COOP["Aprendizaje cooperativo\ninclusion e igualdad"]
+        SECUENCIA["Secuencia: vivencia,\nmanipulación, representación,\nabstracción"]
+
+        ART6 --> ENFOQUES
+        ENFOQUES --> APZ_SIG
+        ENFOQUES --> APZ_COOP
+        ENFOQUES --> SECUENCIA
+
+        subgraph SEQ_MEDICION["Secuencia didáctica de medición"]
+            SM1["1. Percepción\ncrear necesidad de medir"]
+            SM2["2. Comparación\nnecesidad de patrón estándar"]
+            SM3["3. Asignación referencia\nunidades SI convencionales"]
+            SM1 --> SM2 --> SM3
+        end
+
+        subgraph RECURSOS["Recursos Didácticos - Alsina 2004"]
+            MANIPULATIVOS["Manipulativos"]
+            NO_ESTRUC["No estructurados\nobjetos cotidianos"]
+            ESTRUC["Estructurados\ngeoplanos, regletas, tangrams"]
+            INST_ESTANDAR["Instrumentos estándar\nregla, balanza, cronómetro"]
+            INST_NO_EST["Instrumentos no estándar\ncuerpo, palillos, cartón"]
+            ENTORNO["Entorno cotidiano\naltura, peso, tallas, recetas"]
+            TIC["TIC\ncomplemento, no sustituto"]
+
+            MANIPULATIVOS --> NO_ESTRUC
+            MANIPULATIVOS --> ESTRUC
+        end
+
+        SECUENCIA --> RECURSOS
+    end
+
+    INTRO --> MAGNITUDES
+    MAGNITUDES --> PROCESO
+    PROCESO --> EVOLUCION
+    EVOLUCION --> UNIDADES
+    UNIDADES --> ESTIMACION
+    ESTIMACION --> INTERVENCION

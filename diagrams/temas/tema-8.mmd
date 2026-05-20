@@ -1,0 +1,125 @@
+flowchart TD
+    subgraph T1["1. Construccion del Tiempo Historico en EP"]
+        T1A["Tiempo Historico\n(Trepat y Comes, 2002)"]
+        T1B["Caracteristicas:\nIrreversible, Inseparable,\nRelativo, Lenguaje temporal"]
+        T1C["Perspectivas: Sincronia,\nDiacronia, Ucronia"]
+        T1D["Braudel: Tiempo corto,\nMedio y Largo"]
+        T1A --> T1B
+        T1A --> T1C
+        T1A --> T1D
+
+        T1E["Decreto 155/2022\nBloque 4: Lecciones del Pasado"]
+        T1F["OBJ5: Comprender continuidades\ny cambios del medio"]
+        T1E --> T1F
+
+        T1G["Nociones basicas:\nEspacio y Temporalidad"]
+        T1H["Didactica del espacio:\nentornos proximos"]
+        T1I["Temporalidad:\nvivencias del nino"]
+        T1G --> T1H
+        T1G --> T1I
+
+        T1J["Etapas evolutivas (Piaget)"]
+        T1K["4-6 anos: Tiempo vivido"]
+        T1L["6-9 anos: Tiempo percibido"]
+        T1M["9-11 anos: Tiempo concebido"]
+        T1N["11-16 anos: Tiempo abstracto\ny nocion historica"]
+        T1J --> T1K --> T1L --> T1M --> T1N
+
+        T1O["Dificultades (Asensio, Pozo,\nCarretero 1989):\nAbstraccion, causalidad,\npresentismo"]
+    end
+
+    subgraph T2["2. Ambitos de Estudio Historico"]
+        T2A["Rasgos de la Historia:\nCientifico, Ciclico,\nPatrimonio, Interconexion"]
+        T2B["Ambito Social y Religioso"]
+        T2C["Ambito Politico"]
+        T2D["Ambito Economico,\nTecnologico y Cientifico"]
+        T2E["Ambito Cultural y Estetico"]
+        T2A --> T2B
+        T2A --> T2C
+        T2A --> T2D
+        T2A --> T2E
+
+        T2F["Dimensiones de Temporalidad:\nEmpatia historica,\nCausalidad, Patrimonio,\nVida cotidiana"]
+    end
+
+    subgraph T3["3. Grandes Etapas Historicas"]
+        T3A["Clasificacion por\nAmbito Geografico"]
+        T3B["Universal / Nacional /\nRegional / Local"]
+        T3A --> T3B
+
+        T3C["Clasificacion por\nEdades o Etapas"]
+        T3D["Prehistoria"]
+        T3E["Edad Antigua\nhasta 476 d.C."]
+        T3F["Edad Media\nhasta 1476"]
+        T3G["Edad Moderna\nhasta 1789"]
+        T3H["Edad Contemporanea\nhasta hoy"]
+        T3C --> T3D --> T3E --> T3F --> T3G --> T3H
+
+        T3I["Decreto 155/2022: partir\nde lo proximo a lo global"]
+        T3J["Lineas del Tiempo:\nrepresentacion cronologica\nvisual de eventos"]
+        T3I --> T3J
+    end
+
+    subgraph T4["4. Fuentes Historicas"]
+        T4A["Fuente Historica\n(Gasparri 1994 / Tunon 1985)"]
+        T4B["Documentos Orales:\ncuentos, refranes,\nleyendas"]
+        T4C["Documentos Escritos:\ncartas, libros, censos"]
+        T4D["Restos Materiales:\nobjetos arqueologicos"]
+        T4A --> T4B
+        T4A --> T4C
+        T4A --> T4D
+
+        T4E["Fuentes Primarias:\ncreadas en el momento"]
+        T4F["Fuentes Secundarias:\nelaboradas posteriormente"]
+        T4A --> T4E
+        T4A --> T4F
+
+        T4G["Funciones: Motivadora,\nInvestigadora, Contextualizadora,\nRelacional"]
+        T4H["Finalidades: Objeto de\naprendizaje / Instrumento /\nRecurso de acceso"]
+    end
+
+    subgraph T5["5. Intervencion Educativa"]
+        T5A["Decreto 155/2022 Anexo II\nLineas de actuacion CCSS"]
+        T5B["Proyectos significativos\ny metodologias activas"]
+        T5C["Aprendizaje-servicio\ny trabajo cooperativo"]
+        T5A --> T5B --> T5C
+
+        T5D["Inclusion y diversidad\nDecreto 229/2011\nOrden 8-sep-2021"]
+        T5E["DUA: multiples formas de\nrepresentacion y expresion"]
+        T5D --> T5E
+
+        T5F["Contenidos por Ciclos"]
+        T5G["1er Ciclo:\nTiempo, historia personal,\nlineas de vida"]
+        T5H["2do Ciclo:\nFuentes, Prehistoria,\nEdad Antigua, proyectos"]
+        T5I["3er Ciclo:\nEdad Media, Moderna,\nContemporanea, patrimonio"]
+        T5F --> T5G
+        T5F --> T5H
+        T5F --> T5I
+
+        T5J["Recursos Didacticos"]
+        T5K["Personales: docente,\nexpertos, familias"]
+        T5L["Materiales: libros,\nlineas del tiempo, fotos"]
+        T5M["Ambientales: museos,\nyacimientos, entorno"]
+        T5N["TIC: Canva, ChronoMe,\nKahoot, Google Arts"]
+        T5O["Juegos: trivial, escape\nroom, role-playing"]
+        T5J --> T5K
+        T5J --> T5L
+        T5J --> T5M
+        T5J --> T5N
+        T5J --> T5O
+
+        T5P["Actividad 1er Ciclo:\nLinea de mi vida"]
+        T5Q["Actividad 2do Ciclo:\nEntrevistamos a un mayor"]
+        T5R["Actividad 3er Ciclo:\nEpocas Teatrales"]
+
+        T5G --> T5P
+        T5H --> T5Q
+        T5I --> T5R
+
+        T5S["Plan Proxecta+:\nProyectos de patrimonio\ne identidad cultural"]
+    end
+
+    T1E -->|"Bloque 4"| T2F
+    T2F -->|"base para"| T3I
+    T3J -->|"usa"| T4A
+    T4G -->|"orienta"| T5A

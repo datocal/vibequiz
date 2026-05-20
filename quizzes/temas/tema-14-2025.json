@@ -3,6 +3,7 @@
   "description": "Preguntas sobre el área de LCL en EP: enfoque, características, propuestas metodológicas, planes obligatorios y proyectos de innovación.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-14.svg",
   "questions": [
     {
       "question": "¿Cuál es el objetivo principal del área de Lengua Castellana y Literatura (LCL) en la Educación Primaria?",

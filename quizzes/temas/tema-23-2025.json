@@ -3,6 +3,7 @@
   "description": "Preguntas de nivel difícil sobre magnitudes y su medida, unidades e instrumentos de medida, estimación y aproximación, y recursos didácticos para la intervención educativa en Educación Primaria.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-23.svg",
   "questions": [
     {
       "question": "¿En qué año fue creado el Sistema Internacional de Medidas (SI) y por qué organismo?",

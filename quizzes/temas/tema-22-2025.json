@@ -3,6 +3,7 @@
   "description": "Preguntas de nivel avanzado sobre números naturales, enteros, fraccionarios y decimales, sistemas de numeración, relaciones entre números, procedimientos de cálculo e intervención educativa en Educación Primaria.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-22.svg",
   "questions": [
     {
       "question": "Según Gómez (1993), ¿cuántos usos de los números se distinguen como mínimo?",

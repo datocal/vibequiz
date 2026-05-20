@@ -1,0 +1,97 @@
+flowchart TD
+    ROOT["EVCE - Educacion en Valores Civicos y Eticos\n6o curso Educacion Primaria\nDecreto 155/2022 - LOMLOE"]
+
+    subgraph MARCO["Marco Legal"]
+        LOMLOE["LOMLOE - LO 3/2020\nSustituye Educacion Ciudadania LOE"]
+        RD157["RD 157/2022\nEnsenanzas minimas EP"]
+        DEC155["Decreto 155/2022 Galicia\nCurriculo EP - 1 sesion semanal 6o"]
+        LOMLOE --> RD157 --> DEC155
+    end
+
+    subgraph ENFOQUE["1. Enfoque y Caracteristicas"]
+        ENF1["Formacion integral\nIntelectual + Moral + Emocional"]
+        ENF2["Ciudadania critica y responsable\nCompromisocon valores democraticos"]
+        ENF3["Educacion para desarrollo sostenible\nAgenda 2030 - UNESCO 2023"]
+        CAR1["Dimension transversal\nConectada con todas las areas\nArt. 17 Decreto 155"]
+        CAR2["4 objetivos fundamentales\nTeorico + Practico/Instrumental"]
+        CAR3["Vinculada a ODS\nBienestar social y medioambiental"]
+        CAR4["Favorece la convivencia\nEmpatia - Respeto - Cultura de paz"]
+        ENF1 --> CAR1
+        ENF2 --> CAR2
+        ENF3 --> CAR3
+        CAR2 --> CAR4
+    end
+
+    subgraph INTERVENCION["1.3 Propuestas de Intervencion"]
+        INT1["Contextos funcionales y reales\nVinculo teoria y practica"]
+        INT2["Atencion a la diversidad\nDUA - Rose y Meyer 2002"]
+        INT3["Enfoque globalizador e interdisciplinar\nElementos transversales Art. 17"]
+        INT4["Trabajo en equipo\nParticipacion activa y razonada"]
+        INT5["Aprendizaje-Servicio\nMediacion - Practicas restaurativas"]
+        INT1 --> INT2 --> INT3 --> INT4 --> INT5
+    end
+
+    subgraph SDA["1.4 Situaciones de Aprendizaje"]
+        SDA1["Voces del barrio\nEje: Sociedad, justicia y democracia\nProducto: Mapa Injusticias Invisibles"]
+        SDA2["Somos mediadores\nEje: Autoconocimiento y autonomia moral\nProducto: Equipo Mediacion del Centro"]
+        SDA1 ---|"DUA - multiples formatos"| SDA2
+    end
+
+    subgraph CC["2. Competencias Clave - Art. 6 Decreto 155"]
+        CCL["CCL - Comunicacion Linguistica\nDilemas eticos, debates,\nlenguaje no sexista"]
+        STEM["STEM\nInterpretar datos, graficas,\nrelaciones causa-efecto"]
+        CD["Competencia Digital\nUso critico tecnologia\nIA generativa y privacidad"]
+        CPSAA["CPSAA - Aprender a Aprender\nHabilidades sociales, autorregulacion,\nresolucion dialogada conflictos"]
+        CC_C["Competencia Ciudadana\nCiudadanos participativos\nODS - tolerancia - solidaridad"]
+        CE["Competencia Emprendedora\nProyectos reales, liderazgo\ntoma de decisiones"]
+    end
+
+    subgraph OBJETIVOS["3.1 Objetivos"]
+        ODS_B["ODS Agenda 2030\nJusticia social ODS 1-2-5-10\nBienestar ODS 3-4-6\nSostenibilidad ODS 12-15"]
+        OBJ_ETAPA["15 Objetivos de Etapa\nArt. 7 Decreto 155\nVinculados a adquisicion CC"]
+        OBJ_A["Obj. a: Valores y normas convivencia\nciudadania activa - DDHH"]
+        OBJ_C["Obj. c: Resolucion pacifica conflictos\nAutonomia personal"]
+        OBJ_M["Obj. m: Actitud contraria a violencia\nPrevenir estereotipos sexistas"]
+        OBJ_AREA["4 Objetivos de Area - Anexo II\nDec. 155/2022"]
+        OBJ1["OBJ1: Autoconocimiento\nAutonomia moral"]
+        OBJ2["OBJ2: Normas y valores civicos\nConvivencia democratica"]
+        OBJ3["OBJ3: Individuo-Sociedad-Naturaleza\nProblemas ecosociales"]
+        OBJ4["OBJ4: Autoestima y empatia\nGestion emocional"]
+        ODS_B --> OBJ_ETAPA --> OBJ_AREA
+        OBJ_ETAPA --> OBJ_A & OBJ_C & OBJ_M
+        OBJ_AREA --> OBJ1 & OBJ2 & OBJ3 & OBJ4
+    end
+
+    subgraph CONTENIDOS["3.2 Contenidos - 3 Bloques Annexo II Dec. 155"]
+        BLQ1["Bloque 1: Autoconocimiento y Autonomia Moral\nAutoestima, coeducacion,\nprevención acoso, redes sociales"]
+        BLQ2["Bloque 2: Sociedad, Justicia y Democracia\nDDHH, igualdad de genero,\nmigracion, crisis climatica"]
+        BLQ3["Bloque 3: Desarrollo Sostenible y Etica Ambiental\nRelacion estilos de vida entorno\nHabitos sostenibles"]
+    end
+
+    subgraph EVALUACION["3.3 Criterios de Evaluacion - Art. 6 Dec. 155"]
+        EV1["Bloque 1: Autoconcepto positivo\nGestion asertiva emociones\nUso critico medios digitales"]
+        EV2["Bloque 2: Convivencia democratica\nConductas civicas DDHH\nIgualdad efectiva hombre-mujer"]
+        EV3["Bloque 3: Conductas civicas y eticas\nAlternativas cambio climatico ODS\nConsumo responsable"]
+        BLQ1 -->|"evalua"| EV1
+        BLQ2 -->|"evalua"| EV2
+        BLQ3 -->|"evalua"| EV3
+    end
+
+    subgraph RELACION["4. Relacion con Otras Areas - Art. 3 Dec. 155"]
+        REL_LENGUA["Lengua Castellana y Gallega\nLengua como vehiculo comunicacion\nEscucha activa - debate"]
+        REL_MAT["Matematicas\nAnalisis datos y graficos\nJuicios eticos sobre desigualdades"]
+        REL_CN["Ciencias Naturales\nRespeto y cuidado del medio\nUso racional de recursos"]
+        REL_CS["Ciencias Sociales\nVida en sociedad, democracia\nDDHH y patrimonio"]
+        REL_EF["Educacion Fisica\nHabitos saludables\nRespeto e inclusion"]
+        REL_ART["Educacion Artistica\nExpresion de valores\nSensibilizacion social"]
+    end
+
+    ROOT --> MARCO
+    DEC155 -->|"Art. 1 - Implanta"| ENFOQUE
+    DEC155 -->|"Art. 16 principios"| INTERVENCION
+    INTERVENCION --> SDA
+    ENFOQUE --> CC
+    CC --> OBJETIVOS
+    OBJETIVOS --> CONTENIDOS
+    CONTENIDOS --> EVALUACION
+    EVALUACION --> RELACION

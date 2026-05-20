@@ -1,0 +1,123 @@
+flowchart TD
+    ROOT["Tema 24 - Percepcion Espacial y Geometria\nEducacion Primaria\nDecreto 155/2022 - LOMLOE"]
+
+    subgraph MARCO["Marco Legal"]
+        LOMLOE["LOMLOE - LO 3/2020\nBase normativa EP"]
+        RD157["RD 157/2022\nEnsenanzas minimas EP"]
+        DEC155["Decreto 155/2022 Galicia\nCurriculo EP - Art. 4, 7, 8"]
+        ART7["Art. 7 Obj. g - Competencias matematicas\nConocimientos geometricos"]
+        BLQ3["Bloque 3 Sentido Espacial\nAnexo II Decreto 155/2022"]
+        LOMLOE --> RD157 --> DEC155
+        DEC155 --> ART7
+        DEC155 --> BLQ3
+    end
+
+    subgraph PERCEPCION["1. Percepcion Espacial"]
+        DEF["Proceso cognitivo individuo-entorno\n4 componentes esenciales"]
+        C1["Nocion espacial\nTamano, forma, direccion, distancia"]
+        C2["Localizacion espacial\nArriba/abajo, derecha/izquierda"]
+        C3["Espacialidad general\nSentidos y movimiento corporal"]
+        C4["Ordenacion espacial\nOrganizar elementos en el espacio"]
+        DEF --> C1 & C2 & C3 & C4
+    end
+
+    subgraph PIAGET["2a. Modelo de Piaget - 3 Etapas"]
+        P1["Propiedades Topologicas\nCerca/lejos, junto/separado"]
+        P2["Propiedades Proyectivas\n4-8 anos - profundidad y perspectiva"]
+        P3["Propiedades Euclideas\nMedir longitudes, angulos, volumenes"]
+        P1 -->|"0-4 anos"| P2 -->|"7-8 anos"| P3
+    end
+
+    subgraph VANHIELE["2b. Modelo Van Hiele - 5 Niveles"]
+        VH0["Nivel 0 - Visualizacion\nFiguras por apariencia fisica"]
+        VH1["Nivel 1 - Analisis\nIdentifica partes y caracteristicas"]
+        VH2["Nivel 2 - Deduccion Informal\nRelaciona y clasifica propiedades"]
+        VH3["Nivel 3 - Deduccion Formal\nRazonamiento logico y demostraciones"]
+        VH4["Nivel 4 - Rigor\nGeometria abstracta"]
+        EP_NIVEL["Alumnado EP: Niveles 0-1\n5o-6o puede llegar nivel 2"]
+        VH0 --> VH1 --> VH2 --> VH3 --> VH4
+        VH1 --> EP_NIVEL
+    end
+
+    subgraph ELEMENTOS["3. Elementos Geometricos Basicos"]
+        PUNTO["Punto\nPosicion en el espacio"]
+        RECTA["Recta / Segmento\nConjunto infinito de puntos"]
+        PLANO["Plano - 2D\nFiguras planas"]
+        ESPACIO["Espacio - 3D\nLongitud, anchura, grosor"]
+        ANGULO["Angulo\nAgudo, recto, obtuso, llano, completo"]
+        PUNTO --> RECTA --> PLANO & ESPACIO
+        PLANO --> ANGULO
+    end
+
+    subgraph PLANAS["3a. Formas Planas"]
+        POL["Poligono\nLinea poligonal cerrada\nLados, vertices, angulos, perimetro, area"]
+        TRIANGULOS["Triangulos - 3 lados - 180 grados\nAngulos: acutangulo, rectangulo, obtusangulo\nLados: equilatero, isosceles, escaleno"]
+        LINEAS_T["Lineas notables triangulo\nBisectriz, mediatriz, mediana, altura"]
+        CUADRILATEROS["Cuadrilateros - 4 lados - 360 grados\nConvexos y concavos"]
+        PARALELOGR["Paralelogramos\nCuadrado, rectangulo, rombo"]
+        TRAPECIOS["Trapecios\n1 par lados paralelos"]
+        TRAPEZOIDES["Trapezoides\nSin lados paralelos"]
+        OTROS_POL["Otros poligonos\nPentagono, hexagono, heptagono, octagono"]
+        CIRCULO["Circunferencia y Circulo\nRadio, diametro, cuerda\nTangente y secante\nArea = pi x r2"]
+        POL --> TRIANGULOS & CUADRILATEROS & OTROS_POL & CIRCULO
+        TRIANGULOS --> LINEAS_T
+        CUADRILATEROS --> PARALELOGR & TRAPECIOS & TRAPEZOIDES
+    end
+
+    subgraph ESPACIALES["3b. Formas Espaciales - Cuerpos Geometricos"]
+        POLIEDROS["Poliedros\nCaras = figuras planas\nCaras, aristas, vertice"]
+        REGULARES["Poliedros Regulares Convexos\nSolidos de Platon\nTetraedro, cubo, octaedro,\ndodecaedro, icosaedro"]
+        IRREGULARES["Poliedros Irregulares\nPrisma, piramide,\ntronco de piramide, solidos de Arquimedes"]
+        REDONDOS["Cuerpos de Revolucion o Redondos\nSuperficies curvas"]
+        CILINDRO["Cilindro\nGirar rectangulo\n2 bases circulares + lateral curvo"]
+        CONO["Cono\nGirar triangulo rectangulo\nBase circular + vertice"]
+        ESFERA["Esfera\nGirar semicirculo\nSin bases ni aristas"]
+        POLIEDROS --> REGULARES & IRREGULARES
+        REDONDOS --> CILINDRO & CONO & ESFERA
+    end
+
+    subgraph REPRESENTACION["3c. Representacion - Sistemas de Proyeccion"]
+        PROYECCION["Proyeccion: trasladar espacio al plano\nParalela/cilindrica o central/conica"]
+        SISTEMAS["Sistemas representacion:\nDiedrico, acotados, axonometrico, conico"]
+        ADAPT_EP["Versiones adaptadas EP"]
+        PERSPECTIVA["Perspectiva intuitiva\nMas natural para el nino"]
+        PROYEC_PLANA["Proyeccion plana\nUna cara sin profundidad"]
+        VISTAS["Representacion vistas\nAlzado, planta, perfil"]
+        PROYECCION --> SISTEMAS --> ADAPT_EP
+        ADAPT_EP --> PERSPECTIVA & PROYEC_PLANA & VISTAS
+    end
+
+    subgraph INTERVENCION["4. Intervencion Educativa"]
+        BASE["Manipulacion, exploracion\nConexion con realidad cotidiana"]
+        CC_OBJ["Bloque 3 Sentido Espacial\nObjetivo g Art. 7 - Competencia STEM"]
+        ESTRAT["Estrategias competenciales\nAprendizaje funcional\nTareas resoluc. problemas geometricos"]
+    end
+
+    subgraph METODOLOGIA["4b. Metodologia - Art. 16 Decreto 155"]
+        FASE1["Fase 1: Manipulacion y experimentacion\nBloques geometricos, geoplano, tangram"]
+        FASE2["Fase 2: Representacion grafica y digital\nRegla, escuadra, compas\nGeogebra, Tinkercad, 3D"]
+        FASE3["Fase 3: Pensamiento logico-matematico\nArgumentacion y generalizacion"]
+        FASE4["Fase 4: Resolucion de problemas\nAplicacion a situaciones reales"]
+        FASE1 --> FASE2 --> FASE3 --> FASE4
+    end
+
+    subgraph RECURSOS["4c. Recursos Didacticos - Alsina 2004"]
+        NO_ESTR["No estructurados\nObjetos cotidianos - cajas, envases, plastilina"]
+        ESTR["Materiales estructurados\nBloques logicos, solidos geometricos\nGeoplano, tangram, mecanos"]
+        ACTIV["Actividades: exploracion, observacion entorno\nRepresentacion grafica, simetria, problemas"]
+        DIGITAL["Recursos digitales\nGeogebra, Mathigon Polypad\nBrainingCamp, Toy Theater"]
+        JUEGO["Aprendizaje basado en juego\nMotivador, integrador, respeta diversidad"]
+        NO_ESTR & ESTR --> ACTIV
+        ACTIV --> JUEGO
+        ESTR --> DIGITAL
+    end
+
+    ROOT --> MARCO
+    MARCO -->|"Fundamenta"| PERCEPCION
+    PERCEPCION --> PIAGET & VANHIELE
+    PIAGET & VANHIELE -->|"Orientan"| ELEMENTOS
+    ELEMENTOS --> PLANAS & ESPACIALES
+    PLANAS & ESPACIALES --> REPRESENTACION
+    REPRESENTACION --> INTERVENCION
+    INTERVENCION --> METODOLOGIA
+    METODOLOGIA --> RECURSOS

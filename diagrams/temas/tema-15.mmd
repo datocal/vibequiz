@@ -1,0 +1,163 @@
+flowchart TD
+
+    subgraph TEMA15["TEMA 15: Lenguaje, Texto y Lectoescritura en EP"]
+
+        subgraph MARCO["Marco Legislativo"]
+            LOMLOE["LOMLOE 3/2020"]
+            D155["Decreto 155/2022 Galicia"]
+            D79["Decreto 79/2010 Plurilingüismo"]
+            OBJ_E["Obj. etapa e - Art.7\nLengua castellana y gallega"]
+            LOMLOE --> D155
+            D155 -->|"Art. 4 Finalidad EP"| OBJ_E
+            D79 --> D155
+        end
+
+        subgraph LENGUAJE["2.1 Concepto de Lenguaje"]
+            LANG["Lenguaje: medio principal\nde comunicacion y representacion"]
+            F_BIO["Factor biologico\norganos del cuerpo"]
+            F_COG["Factor cognitivo\ncapacidades intelectuales"]
+            F_SOC["Factor social\nentorno socioeconomico"]
+            LANG --> F_BIO & F_COG & F_SOC
+
+            CHOMSKY["Chomsky: Teoria innatista\nfactores biologicos"]
+            PIAGET_L["Piaget: Teoria constructivista\npensamiento antes que lenguaje"]
+            VYGOTSKY["Vygotsky: Teoria comunicativa\npapel social del lenguaje"]
+
+            F_BIO --> CHOMSKY
+            F_COG --> PIAGET_L
+            F_SOC --> VYGOTSKY
+        end
+
+        subgraph DESARRO["Desarrollo del Lenguaje en EP"]
+            D6_8["6-8 anos: aprenden a leer\ny escribir, vocabulario"]
+            D8_12["8-12 anos: experiencias sociales,\nsintaxis y gramatica"]
+            D12["Hacia 12 anos: metalenguaje,\ncambio de registro, voz pasiva"]
+            D6_8 --> D8_12 --> D12
+        end
+
+        subgraph CONTEXTO["2.2 Contexto Comunicativo"]
+            CTX["Contexto comunicativo:\nmedios linguisticos y no linguisticos"]
+            CTX_TIPOS["Tipos: linguistico,\nsituacional, fisico, cultural"]
+            ELEMENTOS["Elementos: emisor, receptor,\nmensaje, canal, codigo,\nreferente, retroalimentacion"]
+            CTX --> CTX_TIPOS
+            CTX --> ELEMENTOS
+        end
+
+        subgraph TEXTO["2.3 El Texto"]
+            TEXTO_DEF["Texto: unidad de sentido\ny discurso - Cassany 1994"]
+            PROP["Propiedades del texto"]
+            PROP_AD["Adecuacion:\najuste a situacion comunicativa"]
+            PROP_COH["Coherencia:\nestructuracion logica"]
+            PROP_COX["Cohesion:\nconectores y gramatica"]
+            PROP_PRE["Presentacion:\ncaligrafia, voz, lenguaje corporal"]
+            PROP_EST["Estilismo:\ndominio del lexico y recursos"]
+            PROP --> PROP_AD & PROP_COH & PROP_COX & PROP_PRE & PROP_EST
+            TEXTO_DEF --> PROP
+        end
+
+        subgraph AMBITOS["2.3.2 Ambitos de Uso - Cassany 1994"]
+            AMB_PER["Personal: diarios"]
+            AMB_FAM["Familiar/Amistades: informal"]
+            AMB_ACA["Academico: examenes, redacciones"]
+            AMB_LAB["Laboral: curriculos, entrevistas"]
+            AMB_SOC["Social: articulos, debates"]
+            AMB_LIT["Literario: novelas, poesias"]
+        end
+
+        subgraph TEXTO_ACA["2.3.3-4 Texto Academico"]
+            TACA_DEF["Demuestra conocimientos\ndel alumnado"]
+            TACA_CARAC["Lenguaje preciso, objetivo,\nregistro formal, abstracto"]
+            TACA_CRIT["Textos: motivadores,\nvariados, completos y autenticos"]
+            TACA_ORDEN["Primero comprension,\ndespues produccion"]
+            TACA_DEF --> TACA_CARAC
+            TACA_CRIT --> TACA_ORDEN
+        end
+
+        subgraph LECTO["3.1 Lectoescritura: Definicion"]
+            LECTURA["Lectura: proceso activo\nreproducir mensaje escrito"]
+            ESCRITURA["Escritura: proceso mecanico\nrepresentar palabras con claridad"]
+            LECTOESC["Lectoescritura: aprendizaje\nparalelo y sistematico"]
+            MADUREZA["Madurez: 5-6 anos\npsicomotricidad, simbolizacion"]
+            LECTURA & ESCRITURA --> LECTOESC --> MADUREZA
+        end
+
+        subgraph MECANISMOS["3.2 Mecanismos de Adquisicion"]
+            NEURO["Neurolingüisticos:\nprocesos perceptivos y sensoriales"]
+            PSICO["Psicolingüisticos/cognitivos:\nPiaget y Ferreiro - construccion activa"]
+            SOCIO["Sociolingüisticos:\nTeberosky, Nemirovsky - contexto social"]
+        end
+
+        subgraph FASES_L["3.2.1 Fases Lectura - Frith 1985"]
+            F_LOGO["Logografica 2-5 anos:\nreconoce palabras globalmente"]
+            F_ALFA["Alfabetica 5-6 anos:\nruta fonologica y decodificacion"]
+            F_ORTO["Ortografica 7-8 anos:\nautomatizacion, lectura fluida"]
+            F_LOGO --> F_ALFA --> F_ORTO
+        end
+
+        subgraph FASES_E["3.2.1 Fases Escritura - Ferreiro y Teberosky 1979"]
+            FE_GRAFI["Grafismos primitivos:\nsin relacion sonido-escritura"]
+            FE_SILAB["Escritura silabica:\nsonidos asociados a grafias"]
+            FE_ALFAB["Escritura alfabetica:\ncorrespondencia letra-fonema"]
+            FE_GRAFI --> FE_SILAB --> FE_ALFAB
+        end
+
+        subgraph METODOS["3.3 Metodos de Lectoescritura - Cassany 1994"]
+            MET_SIN["Metodos sinteticos:\nunidades minimas a texto"]
+            MET_ANA["Metodos analiticos/globales:\ntexto completo a unidades"]
+            MET_MIX["Metodos mixtos:\ncombinacion de ambos"]
+            MET_SIN_SUB["Alfabetico / Fonico / Silabico"]
+            MET_ANA_SUB["Decroly: percepcion visual\nFreinet: textos colectivos"]
+            MET_SIN --> MET_SIN_SUB
+            MET_ANA --> MET_ANA_SUB
+            MET_SIN & MET_ANA --> MET_MIX
+        end
+
+        subgraph INTERV["3.4 Intervencion Educativa"]
+            BLOQUE3["Bloque 3 Comunicacion escrita\nAnexo II Decreto 155/2022"]
+            OBJ4["Obj. area 4: Comprender\ntextos escritos y multimodales"]
+            OBJ5["Obj. area 5: Producir textos\ngramatical y ortograficamente correctos"]
+
+            COMP_L["Competencia lectora por ciclos:\n1c: localizar e inferir\n2c: elementos textuales\n3c: lectura critica"]
+            COMP_E["Competencia escritora:\ncoherencia, cohesion,\nnormas ortograficas"]
+
+            ESTRATEG_L["Estrategias lectoras:\nAntes - Durante - Despues"]
+            PROC_E["Proceso escritor:\nPlanificacion - Redaccion - Revision"]
+
+            BLOQUE3 --> OBJ4 & OBJ5
+            OBJ4 --> COMP_L --> ESTRATEG_L
+            OBJ5 --> COMP_E --> PROC_E
+        end
+
+        subgraph ACTIVIDADES["3.4.2 Actividades"]
+            ACT_AMB["Buen ambiente lectoescritor:\njuegos de mesa, TIC"]
+            ACT_LECT["Actividades lectura:\nespacio lector, cuentos,\npoemas, personalidades lectoras"]
+            ACT_ESC["Actividades escritura:\nmensajes, infografias,\nrevista escolar, ensalada de cuentos"]
+            TIEMPO["Tiempo diario lectura:\n20-30 min - Art.16 D.155/2022\nResolucion 16 oct 2025"]
+            ACT_AMB --> ACT_LECT & ACT_ESC
+            ACT_LECT & ACT_ESC --> TIEMPO
+        end
+
+        subgraph PLANES["3.5 Planes del Centro - Art.33 D.155/2022"]
+            PLEA["PLEA: Plan Lectura,\nEscritura y Acceso Info\nResol. 16 oct 2025, Orden 26 mayo"]
+            BIBLIO["Plan de Biblioteca:\ncentro recursos lectura\ne informacion - Art.13 Orden"]
+            LIA["LIA: Lectura, Informacion\ny Aprendizaje - Xunta"]
+            PLAMBE["PLAMBE: Mejora\nBibliotecas Escolares de Galicia"]
+            OTROS["Otros: Innova-Lab Leo-lab,\nPROA+, Plan Proxecta+, BEGA LBE-2"]
+            PLEA & BIBLIO --> LIA --> PLAMBE --> OTROS
+        end
+
+        MARCO --> LENGUAJE
+        LENGUAJE --> DESARRO
+        DESARRO --> CONTEXTO
+        CONTEXTO --> TEXTO
+        TEXTO --> AMBITOS
+        AMBITOS --> TEXTO_ACA
+        TEXTO_ACA --> LECTO
+        LECTO --> MECANISMOS
+        MECANISMOS --> FASES_L & FASES_E
+        FASES_L & FASES_E --> METODOS
+        METODOS --> INTERV
+        INTERV --> ACTIVIDADES
+        ACTIVIDADES --> PLANES
+
+    end

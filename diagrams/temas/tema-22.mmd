@@ -1,0 +1,86 @@
+flowchart TD
+    ROOT["Tema 22 - Aprendizaje de los Numeros\ny el Calculo Numerico\nEP - Decreto 155/2022 - LOMLOE"]
+
+    subgraph MARCO["Marco Normativo"]
+        LOMLOE["LOMLOE LO 3/2020\nBase legislativa"]
+        RD157["RD 157/2022\nEnsenanzas minimas EP"]
+        DEC155["Decreto 155/2022 Galicia\nArt. 4 - Finalidad EP: calculo\ny habilidades logico-matematicas"]
+        BLQ1SN["Bloque 1: Sentido Numerico\nBloque principal del area"]
+        LOMLOE --> RD157 --> DEC155 --> BLQ1SN
+    end
+
+    subgraph CONCEPTO_NUM["2. Concepto de Numero y Calculo"]
+        NUM["Concepto de Numero\nAbstraccion compleja\nde cantidad - Godino 2004"]
+        CONTEO["Conteo\nProceso clave del\npensamiento numerico"]
+        GELMAN["5 Principios Gelman y Gallistel 1978\nCorrespondencia biunivoca - Orden estable\nCardinalidad - Abstraccion\nOrden indiferente"]
+        PIAGET["3 Nociones previas Piaget\nConservacion - Seriacion\nInclusion de clases"]
+        CALC["Concepto de Calculo\nAplicacion practica\nde operaciones - Castro 1985"]
+        FUNC_SIMB["Funcion simbolica\ny reversibilidad del pensamiento\nPeriodo operaciones concretas"]
+        NUM --> CONTEO --> GELMAN
+        NUM --> PIAGET
+        NUM --> CALC --> FUNC_SIMB
+    end
+
+    subgraph TIPOS_NUM["3. Tipos de Numeros"]
+        NAT["Numeros Naturales N\nContar, cardinalidad, orden\n4 operaciones basicas"]
+        ENT["Numeros Enteros Z\nValores negativos\nTemperaturas, plantas subterraneas"]
+        FRAC["Numeros Fraccionarios\na/b - dos tipos\nImpropias y propias"]
+        DEC["Numeros Decimales\nDivisiones no exactas\nDecimas, centesimas, milesimas"]
+        NAT --> ENT --> FRAC --> DEC
+    end
+
+    subgraph SIST_NUM["4. Sistemas de Numeracion"]
+        CUATRO_ASP["4 Aspectos del Numero\nFormal - Operacional\nSemantico - Sintactico"]
+        SN["Sistema de Numeracion\nConjunto de simbolos\ny reglas para expresar cantidades"]
+        BASE["Base decimal - 10 digitos\n0 al 9"]
+        POSICION["Principio de Posicion\nValor segun ubicacion"]
+        AGRUPAMIENTO["Principio de Agrupamiento\n1 unidad = 10 del orden inferior"]
+        CUATRO_ASP --> SN
+        SN --> BASE --> POSICION & AGRUPAMIENTO
+    end
+
+    subgraph RELACIONES["5. Relaciones entre Numeros - Operaciones"]
+        PERS_MAT["Perspectiva Matematica\nLey de composicion interna"]
+        PERS_SEM["Perspectiva Semiotica/Didactica\nSuma: reunir - Resta: quitar\nMultiplicacion: repetir\nDivision: repartir"]
+        PERS_ALG["Perspectiva Algoritmica\nProcedimientos sistematicos"]
+        PROP["Propiedades\nSuma: conmutativa, asociativa,\ndistributiva, elemento neutro\nMultiplicacion: idem + distributiva"]
+        PERS_MAT & PERS_SEM & PERS_ALG --> PROP
+    end
+
+    subgraph CALCULOS["6. Procedimientos de Calculo"]
+        C_ESC["Calculo Escrito\nAlgoritmos: claridad, eficacia\nUniversalidad - 3 propiedades\nMateriales: bloques multibase, abaco"]
+        C_MEN["Calculo Mental\nRapido, flexible, constructivo\nEstimulo-respuesta vs\nCalculo pensado - Gomez 1998"]
+        ESTIM["Estimacion\nResultado aproximado suficientemente fiable\nEn calculo y en medida"]
+        CALC_C["Uso de Calculadora\nComplementaria al calculo mental\ny escrito - Godino 2004\nSituaciones especificas en EP"]
+        C_ESC --- C_MEN --- ESTIM --- CALC_C
+    end
+
+    subgraph INTERVENCION["7. Intervencion Educativa - Art. 6 Dec. 155"]
+        OG["Orientaciones Pedagogicas Generales\nEnfoques funcionales y activos\nAprendizaje significativo y cooperativo\nVivencia -> Manipulacion -> Representacion -> Abstraccion"]
+        OE["Orientaciones Metodologicas Especificas"]
+        NUMER["Numeracion\nCampos conceptuales numericos\n+ representaciones numericas\nPrincipio agrupamiento y posicion"]
+        OPER["Operaciones Aritmeticas\nComprension y significado\nAlgoritmos + calculo integrado"]
+        REC_MAN["Recursos Manipulativos\nNo estructurados: monedas, objetos cotidianos\nEstructurados: regletas Cuisenaire,\nbloques multibase, abaco - Alsina 2004"]
+        REC_ENT["Entorno como recurso\nNumeros en autobuses, ascensores,\nmatrículas - contextos reales"]
+        REC_TIC["Recursos Digitales y TIC\nComplemento, no sustituto\nVentajas: autonomia, motivacion"]
+        OG --> OE
+        OE --> NUMER & OPER
+        OE --> REC_MAN --> REC_ENT --> REC_TIC
+    end
+
+    subgraph USOS["Usos de los Numeros - Gomez 1993"]
+        U1["Contar cantidades"]
+        U2["Numerar y ordenar"]
+        U3["Medir magnitudes"]
+        U4["Operar"]
+        U5["Ordenar en secuencias"]
+    end
+
+    ROOT --> MARCO
+    DEC155 -->|"Art. 7 Obj. g"| CONCEPTO_NUM
+    CONCEPTO_NUM --> USOS
+    CONCEPTO_NUM --> TIPOS_NUM
+    TIPOS_NUM --> SIST_NUM
+    SIST_NUM --> RELACIONES
+    RELACIONES --> CALCULOS
+    CALCULOS --> INTERVENCION

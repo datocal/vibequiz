@@ -3,6 +3,7 @@
   "description": "Preguntas de nivel avanzado sobre la intervención educativa en la reflexión sistemática sobre el lenguaje en Educación Primaria, el contexto comunicativo, los textos y la adquisición de la lectura y la escritura.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-15.svg",
   "questions": [
     {
       "question": "Según Monfort y Juárez (1991), ¿cuáles son los tres factores que intervienen en el uso del lenguaje?",

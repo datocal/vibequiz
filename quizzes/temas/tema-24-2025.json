@@ -3,6 +3,7 @@
   "description": "Preguntas de alto nivel sobre percepción espacial, geometría y su didáctica en Educación Primaria, basadas en el Tema 24 del programa de oposiciones 2025.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-24.svg",
   "questions": [
     {
       "question": "¿Cuáles son los cuatro componentes que Piaget y Alsina identifican como necesarios para la correcta adquisición de la percepción espacial?",

@@ -3,6 +3,7 @@
   "description": "Preguntas de nivel avanzado sobre educación literaria, literatura infantil y juvenil, géneros literarios, estrategias didácticas y bibliotecas escolares en Educación Primaria.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-16.svg",
   "questions": [
     {
       "question": "Según Cassany et al. (1994), ¿cómo se define la competencia literaria en el marco de la educación literaria?",

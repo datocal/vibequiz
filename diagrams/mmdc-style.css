@@ -1,0 +1,15 @@
+.node rect,
+.node polygon,
+.label-container {
+  rx: 10;
+  ry: 10;
+}
+.cluster rect {
+  rx: 14;
+  ry: 14;
+}
+.edgeLabel .label,
+.edgeLabel span,
+.edgeLabel p {
+  color: #1e1b4b !important;
+}

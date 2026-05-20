@@ -3,6 +3,7 @@
   "description": "Preguntas de nivel avanzado sobre el enfoque, características, propuestas de intervención, competencias clave, objetivos, contenidos, criterios de evaluación y relación con otras áreas del área de Matemáticas en Educación Primaria según el Decreto 155/2022.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-20.svg",
   "questions": [
     {
       "question": "Según el Decreto 155/2022, ¿cuál es la finalidad de la Educación Primaria que se recoge en el artículo 4 en relación con las matemáticas?",

@@ -3,6 +3,7 @@
   "description": "Preguntas de dificultad alta sobre la noción de tiempo histórico, ámbitos de estudio histórico, etapas históricas, fuentes históricas e intervención educativa en Educación Primaria.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-8.svg",
   "questions": [
     {
       "question": "Según Trepat y Comes (2002), ¿cómo se define el tiempo histórico?",

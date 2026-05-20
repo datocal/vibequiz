@@ -1,0 +1,146 @@
+flowchart TD
+    subgraph T1["1. Proceso Lector en EP - Marco Legal"]
+        T1A["LOMLOE Art. 19:\nLectura transversal en todas las areas"]
+        T1B["Decreto 155/2022 Art. 4:\nFinalidad: expresion, comprension,\nlectura y escritura"]
+        T1C["Decreto 155/2022 Art. 7\nObj. etapa 'e': habitos de lectura"]
+        T1D["RD 157/2022:\nProgresion lectora por ciclos"]
+        T1E["1er Ciclo: motivacion\ne informacion explicita"]
+        T1F["2do Ciclo: inferencias\ny elementos no textuales"]
+        T1G["3er Ciclo: autonomia,\ndoble sentido, ironia"]
+        T1A --> T1B --> T1C
+        T1D --> T1E --> T1F --> T1G
+        T1H["Decreto 155/2022 Art. 16:\nTiempo diario de lectura y oratoria"]
+        T1I["CCL Descriptor 2:\nComprende e interpreta textos\norales, escritos y multimodales"]
+        T1B --> T1H
+        T1A --> T1I
+    end
+
+    subgraph T2["2. Conceptos y Fases del Proceso Lector"]
+        T2A["Lectura = proceso activo\ny cognitivo (Prado 2004)"]
+        T2B["Habilidades de Traduccion:\nletras a palabras con significado"]
+        T2C["Habilidades de Comprension:\nasimilar vinculando con\nconocimientos previos"]
+        T2A --> T2B
+        T2A --> T2C
+
+        T2D["Fases Frith 1985"]
+        T2E["Logografica (2-5 anos):\nreconoce palabras familiares\nglobalmente"]
+        T2F["Alfabetica (5-6 anos):\nruta fonologica, decodificacion,\nriesgo de lectura lenta"]
+        T2G["Ortografica (7-8 anos):\nautomatizacion, lectura\nfluida, lexico interno"]
+        T2D --> T2E --> T2F --> T2G
+    end
+
+    subgraph T3["3. Procesos Psicologicos - Cuetos 2008"]
+        T3A["Procesos Perceptivos:\nrecogida sensorial,\nmemoria iconica y de trabajo"]
+        T3B["Procesamiento Lexico:\nidentificar y combinar letras"]
+        T3C["Ruta Visual/Lexica:\nreconocimiento directo\nde palabras conocidas"]
+        T3D["Ruta Fonologica:\nconversion grafema-fonema\npara palabras desconocidas"]
+        T3B --> T3C
+        T3B --> T3D
+
+        T3E["Procesamiento Sintactico:\nrelaciones entre palabras,\npuntuacion, palabras funcionales"]
+        T3F["Procesamiento Semantico:\nextraer mensaje global\ne integrar con conocimientos previos"]
+        T3A --> T3B --> T3E --> T3F
+    end
+
+    subgraph T4["4. Dificultades Especificas - DEA Lectura"]
+        T4A["LOMLOE Art. 71:\nAlumnado NEAE con\ntrastornos de aprendizaje"]
+        T4B["Tipos de DEA Lectora"]
+        T4C["De superficie/Dislexia:\nerrores viso-espaciales"]
+        T4D["Fonologica:\nerrores linguisticos"]
+        T4E["Mixta:\ncombina errores"]
+        T4F["De comprension lectora"]
+        T4B --> T4C
+        T4B --> T4D
+        T4B --> T4E
+        T4B --> T4F
+
+        T4G["Intervencion:\nindividualizar ensenanza,\nrecursos variados, PT y AL"]
+        T4H["Orden 8-sep-2021:\nDeteccion temprana, tutor,\nDO, informe psicopedagogico"]
+        T4A --> T4B
+        T4A --> T4H
+        T4B --> T4G
+    end
+
+    subgraph T5["5. Estrategias de Comprension Lectora - Sole 1992"]
+        T5A["Antes de la lectura:\nactivar conocimientos previos"]
+        T5B["Motivacion y objetivos\nde la lectura"]
+        T5C["Activar conocimientos previos,\npredicciones y preguntas"]
+        T5A --> T5B
+        T5A --> T5C
+
+        T5D["Durante la lectura:\nestablacer inferencias\ny revisar comprension"]
+        T5E["Lectura compartida:\npredicciones, preguntas,\naclaraciones, resumen"]
+        T5F["Lectura independiente:\nmateriales preparados\npor el docente"]
+        T5G["Corregir lagunas:\nactivar conocimientos,\ninferencias, conjeturas"]
+        T5D --> T5E
+        T5D --> T5F
+        T5D --> T5G
+
+        T5H["Despues de la lectura:\nrecapitular y resumir contenido"]
+        T5I["Identificar idea principal"]
+        T5J["Elaborar resumenes:\nideas principales,\ndesechar lo trivial"]
+        T5K["Formular y responder preguntas:\nliteral, busqueda, elaboracion personal"]
+        T5H --> T5I
+        T5H --> T5J
+        T5H --> T5K
+    end
+
+    subgraph T6["6. Planes de Fomento - Marco Legal"]
+        T6A["LOMLOE Art. 2.2:\nLectura y bibliotecas como\nfactores de calidad educativa"]
+        T6B["LOMLOE Art. 113:\nBiblioteca escolar obligatoria\nen centros publicos"]
+        T6A --> T6B
+
+        T6C["Decreto 155/2022 Art. 33:\nPlan de Biblioteca + PLEA\nobligatorios en PE y PGA"]
+        T6D["PLEA\nPlan Lectura, Escritura\ny Acceso a la Informacion"]
+        T6E["8 Objetivos:\ncompetencia lectora, practica\ndiaria, textos escritos,\nalfabetizaciones multiples"]
+        T6C --> T6D --> T6E
+
+        T6F["Plan de Biblioteca:\n20-30 min diarios de lectura\na primera hora o post-recreo"]
+        T6C --> T6F
+    end
+
+    subgraph T7["7. Plan LIA y PLAMBE - Conselleria"]
+        T7A["Plan LIA 2010:\nbibliotecas escolares,\ncompetencias ALFIN y AMI"]
+        T7B["Plan LIA 3a Fase 2021-2025:\n7 puntos estelares"]
+        T7C["BEGA: Red Bibliotecas\nEscolares Galicia"]
+        T7D["Bibliotecas Creativas\ny Sociales"]
+        T7E["ALFIN/AMI:\nalfabetizacion informacional\ny mediatica"]
+        T7A --> T7B --> T7C
+        T7B --> T7D
+        T7B --> T7E
+
+        T7F["PLAMBE: actualizacion\nde recursos y espacios\nde bibliotecas"]
+        T7G["Programas: Clubs de Lectura,\nRadio na Biblio, Lectura e Familia,\nBibliotecas Solidarias"]
+        T7H["Plataformas: BEGA E-LBE.2\ny KOHA-Bescolares"]
+        T7F --> T7G
+        T7F --> T7H
+        T7A --> T7F
+    end
+
+    subgraph T8["8. Orientaciones Pedagogicas"]
+        T8A["Decreto 155/2022 Art. 6:\nOrientaciones para el\ndocente en planificacion"]
+        T8B["Centrar en comprension:\ndecodificacion + significado\ne intereses del alumnado"]
+        T8C["Disenar situaciones reales:\nleer para informarse,\npara aprender, por placer"]
+        T8D["Variedad de textos\ny tipologias y formatos"]
+        T8A --> T8B --> T8C --> T8D
+
+        T8E["Antes: presentar objetivo\ny activar conocimientos previos"]
+        T8F["Durante: estrategias\nde comprension"]
+        T8G["Despues: analisis del texto"]
+        T8B --> T8E --> T8F --> T8G
+
+        T8H["Papel del docente:\nadaptar, motivar, seleccionar,\norientar y colaborar con familias"]
+        T8I["Papel del alumno:\nactivo, critico y creativo"]
+        T8J["Lectura individual,\nen grupo y colectiva"]
+        T8H --> T8I --> T8J
+        T8K["Biblioteca de centro y aula:\nlectura como fuente de placer"]
+        T8J --> T8K
+    end
+
+    T1D -->|"base para"| T2D
+    T2G -->|"implica"| T3A
+    T3F -->|"dificultades en"| T4B
+    T4G -->|"apoya"| T5A
+    T5H -->|"enmarcado en"| T6D
+    T6C -->|"desarrollado por"| T7A
+    T6D -->|"orientado por"| T8A

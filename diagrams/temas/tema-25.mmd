@@ -1,0 +1,96 @@
+flowchart TD
+    TEMA["Tema 25: Recogida, Organizacion\ny Representacion de la Informacion"]
+
+    subgraph ESTADISTICA["2. Conceptos Basicos de Estadistica"]
+        E1["Estadistica: ciencia que estudia\ny analiza datos"]
+        E2["Poblacion / Universo"]
+        E3["Muestra representativa"]
+        E4["Censo: toda la poblacion"]
+        E5["Variable Cualitativa\nnominal u ordinal"]
+        E6["Variable Cuantitativa\ndiscreta o continua"]
+        E7["Frecuencia Absoluta"]
+        E8["Frecuencia Relativa\n= FA / total datos"]
+        E2 --> E3
+        E2 --> E4
+        E1 --> E2
+        E1 --> E5
+        E1 --> E6
+        E1 --> E7
+        E7 --> E8
+    end
+
+    subgraph METODO["2.2. Fases del Metodo Estadistico"]
+        M1["1. Definir variable de estudio"]
+        M2["2. Delimitar el colectivo"]
+        M3["3. Elegir muestra y evaluar fiabilidad"]
+        M4["4. Recoger datos\nobservacion, encuestas, sociometria"]
+        M5["5. Tabular datos\nordenar en tablas"]
+        M6["6. Analizar datos\nconclusiones"]
+        M7["7. Representar graficamente"]
+        M8["8. Contrastar hipotesis\ngeneralizacion"]
+        M1 --> M2 --> M3 --> M4 --> M5 --> M6 --> M7 --> M8
+    end
+
+    subgraph TABLAS["3. Tablas de Datos"]
+        T1["Caracteristicas: claras,\nconcisas, precisas, autoexplicativas"]
+        T2["Partes: titulo, encabezado\nfilas y columnas, notas al pie"]
+        T3["Pautas: orden logico,\ndividir si muy extensa"]
+        T1 --> T2 --> T3
+    end
+
+    subgraph GRAFICOS["4. Tipos de Graficos"]
+        G1["Grafico de Lineas\nevolucion temporal"]
+        G2["Diagrama de Barras\ncomparacion de categorias"]
+        G3["Histograma\ndatos agrupados en rangos"]
+        G4["Poligono de Frecuencias\ncomparacion de distribuciones"]
+        G5["Diagrama de Sectores\nporcentajes del total"]
+        G6["Pictograma\nimagenes, primeros cursos"]
+        G7["Otros: climograma,\ncartograma, piramide poblacion"]
+    end
+
+    subgraph CARACT["4.2. Caracteristicas del Buen Grafico"]
+        C1["Reproduccion facil\ny visualmente atractivo"]
+        C2["Informacion clara y concisa\ntitulo y leyenda"]
+        C3["Simplicidad y comodidad\nde lectura"]
+        C4["Vocabulario comprensible\npara el alumnado"]
+        C5["Colorido y proporciones\nadecuados"]
+        C6["Actitud critica: detectar\nmanipulacion de datos"]
+        C1 --> C2 --> C3 --> C4 --> C5 --> C6
+    end
+
+    subgraph CICLOS["5.1. Distribucion por Ciclos de EP"]
+        CIC1["1er Ciclo 1-2\npictogramas y barras\ndatos cualitativos"]
+        CIC2["2o Ciclo 3-4\nhistogramas, tablas doble entrada\nfrecuencia absoluta, moda"]
+        CIC3["3er Ciclo 5-6\ndiagramas de sectores, graficos poligonales\nfrecuencia relativa, promedio"]
+        CIC1 -->|"progresion creciente"| CIC2 -->|"mayor complejidad"| CIC3
+    end
+
+    subgraph AREAS["5.2. Aplicacion en las Distintas Areas"]
+        A1["Matematicas\nBloque 5 Sentido Estocastico\nDec.155/2022, RD 157/2022"]
+        A2["Areas Linguisticas\nvocabulario e interpretacion"]
+        A3["CC Naturaleza y Sociales\nclimoramas, piramides, encuestas"]
+        A4["Educacion Artistica\ndiseno grafico, notacion musical"]
+        A5["Educacion Fisica\nregistro de marcas y datos"]
+        A6["Proyecto Competencial\ntareas contextualizadas"]
+        A7["Valores Civicos y Eticos\nlectura critica de resultados"]
+    end
+
+    subgraph TIC["6. TIC para el Tratamiento de Datos"]
+        TIC1["Marco normativo\nDec.155/2022 Art.7i\nCompetencia Digital Art.8"]
+        TIC2["Orientaciones: nivel psicoevolutivo\nPiaget, Ausubel, Vygotsky\nconocimientos previos"]
+        TIC3["Metodologias activas\naprendizaje por juego Alsina\naprendizaje cooperativo"]
+        TIC4["Software: LibreOffice Calc\nExcel, GeoGebra, Canva\nMentimeter, Kahoot, Plickers"]
+        TIC5["Hardware: ordenadores, tablets\nPDI, scanners"]
+        TIC1 --> TIC2 --> TIC3
+        TIC3 --> TIC4
+        TIC3 --> TIC5
+    end
+
+    TEMA --> ESTADISTICA
+    TEMA --> METODO
+    TEMA -->|"Art.6 LOMLOE\ncurriculo"| TABLAS
+    TEMA --> GRAFICOS
+    GRAFICOS --> CARACT
+    TEMA --> CICLOS
+    CICLOS --> AREAS
+    TEMA --> TIC

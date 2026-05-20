@@ -102,11 +102,21 @@ export class QuizRenderer {
             ? `${quiz.categoryId}/${quiz.filename}`
             : quiz.filename;
 
-        // Check if quiz has more than 30 questions to offer Quick Quiz option
         const hasQuickQuiz = quiz.questions.length > 30;
+        const hasDiagram = !!quiz.diagramUri;
 
-        // For quizzes with Quick Quiz option, use a different structure
-        if (hasQuickQuiz) {
+        if (hasQuickQuiz || hasDiagram) {
+            const diagramBtn = hasDiagram ? `
+                        <a href="${this.escapeHtml(quiz.diagramUri)}" target="_blank" rel="noopener noreferrer" class="diagram-btn">
+                            <span class="diagram-btn__icon">🗺️</span>
+                            <span class="diagram-btn__text">Ver Diagrama</span>
+                        </a>` : '';
+            const quickQuizBtn = hasQuickQuiz ? `
+                        <a href="quiz.html?quiz=${encodeURIComponent(quizPath)}&sample=true" class="quick-quiz-btn">
+                            <span class="quick-quiz-btn__icon">⚡</span>
+                            <span class="quick-quiz-btn__text">Quick Quiz</span>
+                            <span class="quick-quiz-btn__detail">10 preguntas aleatorias</span>
+                        </a>` : '';
             return `
                 <div class="quiz-card quiz-card--with-actions">
                     <a href="quiz.html?quiz=${encodeURIComponent(quizPath)}" class="quiz-card__main">
@@ -120,18 +130,13 @@ export class QuizRenderer {
                             <span>${quiz.questions.length} Questions</span>
                         </div>
                     </a>
-                    <div class="quiz-card__actions">
-                        <a href="quiz.html?quiz=${encodeURIComponent(quizPath)}&sample=true" class="quick-quiz-btn">
-                            <span class="quick-quiz-btn__icon">⚡</span>
-                            <span class="quick-quiz-btn__text">Quick Quiz</span>
-                            <span class="quick-quiz-btn__detail">10 preguntas aleatorias</span>
-                        </a>
+                    <div class="quiz-card__actions">${diagramBtn}${quickQuizBtn}
                     </div>
                 </div>
             `;
         }
 
-        // Regular quiz card without Quick Quiz option
+        // Regular quiz card without actions
         return `
             <a href="quiz.html?quiz=${encodeURIComponent(quizPath)}" class="quiz-card">
                 <div class="quiz-card__icon">${this.getIconForQuiz(quiz)}</div>

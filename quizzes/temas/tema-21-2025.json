@@ -3,6 +3,7 @@
   "description": "Resolución de problemas en Educación Primaria: clases, métodos, planificación, gestión de recursos, representación e intervención educativa según el marco normativo vigente.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-21.svg",
   "questions": [
     {
       "question": "Según Godino et al. (2004), ¿cuál es el papel de la resolución de problemas dentro del área de matemáticas en Educación Primaria?",

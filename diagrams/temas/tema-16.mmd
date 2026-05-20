@@ -1,0 +1,98 @@
+flowchart TD
+    subgraph INTRO["1. Marco Normativo"]
+        LOMLOE["LOMLOE (LO 3/2020)"]
+        D155["Decreto 155/2022\nOrdenacion EP Galicia"]
+        ResLIA["Resolucion 1-sep-2025\nBibliotecas escolares"]
+        ResPLEA["Resolucion 16-sep-2025\nPlan PLEA 2026/2027"]
+        LOMLOE --> D155
+        D155 --> ResLIA
+        D155 --> ResPLEA
+    end
+
+    subgraph EDLIT["2. Educacion Literaria"]
+        DefCC["CCL: apreciar\ndimension estetica"]
+        DefEL["Educacion Literaria\nRoig 2012: metodologia\ncultural y literaria"]
+        CompLit["Competencia Literaria\nCassany 1994: interpretar\ny disfrutar textos"]
+        FinEL["Finalidades:\nvocabulario, critica,\nimagination, habito lector"]
+        DefCC --> DefEL --> CompLit --> FinEL
+    end
+
+    subgraph INTERV["2.2 Intervencion Educativa"]
+        Enfoque["Enfoque globalizador\ne interdisciplinar"]
+        HabitoLector["Adquisicion habito\nlector autonomo"]
+        TextosAdec["Textos adecuados\na intereses del alumno"]
+        LectGuiada["Lectura guiada,\ndramatizada, recitados"]
+        TiempoDiario["Tiempo diario de lectura\nArt. 16 D155/2022"]
+        Enfoque --> HabitoLector --> TextosAdec --> LectGuiada --> TiempoDiario
+    end
+
+    subgraph CURRICULO["2.3-2.4 Curriculo EP"]
+        Art6CC["Art. 6 D155/2022\nCompetencias Clave"]
+        PerfilSalida["Perfil de salida\nDescriptores operativos"]
+        CCRelacion["CCL, CP, CCEC,\nCC, CPSAA"]
+        ODS4["ODS4 Educacion\nde Calidad - Agenda 2030"]
+        ObjEtapa["Art. 7 Obj. e:\nhabito lectura bilingue"]
+        Bloque5["Bloque 5 LCL:\nEducacion Literaria"]
+        CritEval["Criterios evaluacion\nBloque 5"]
+        Art6CC -->|"define"| PerfilSalida
+        PerfilSalida --> CCRelacion
+        ODS4 --> ObjEtapa --> Bloque5 --> CritEval
+    end
+
+    subgraph LIJ["3. Literatura Infantil y Juvenil"]
+        DefLIJ["LIJ: obras para\ninfancia y adolescencia\nCassany 1994"]
+        GenLit["Generos Literarios\nCerillo y Garcia 1992"]
+        Lirica["Lirica/Poesia:\nfiguras retorics,\nritmo, metafora"]
+        SubLirica["Tradicion oral\n(nanas, adivinanzas)\nvs Poemas de autor"]
+        Narrativa["Narrativa:\ntextos en prosa\nCassany 1994"]
+        SubNarrativa["Epico-narrativos:\ncuento, novela\nTransmision oral: mitos"]
+        Cuento["Cuento: fomenta\ncognicion y valores\nClasif. Pelegrin por edad"]
+        Dramatizacion["Dramatizacion/Teatro:\ndialogo + expresion corporal\nescenario y publico"]
+        Comic["Comic: dibujo\n+ texto en vinetas\nCassany 1994"]
+        DefLIJ --> GenLit
+        GenLit --> Lirica --> SubLirica
+        GenLit --> Narrativa --> SubNarrativa --> Cuento
+        GenLit --> Dramatizacion
+        GenLit --> Comic
+    end
+
+    subgraph ESTRATEGIAS["4. Tecnicas y Estrategias"]
+        DobleFuncion["Doble funcion:\nliteraria + linguistica"]
+        PreLectura["Pre-lectura:\nactivar conocimientos\nfijar objetivos"]
+        DuranteLect["Durante lectura:\nrevisar comprension\nautointerrogacion"]
+        PostLectura["Post-lectura:\nresumir, sintetizar,\nidea principal"]
+        Tecnicas["Tecnicas creativas:\nbinomio fantastico,\nensalada de cuentos"]
+        TecnicasExtra["Cuentos al reves,\nencadenados,\nfinales alternativos"]
+        ActGeneros["Actividades por genero:\nnarrativa, teatro,\npoesia (regueifa)"]
+        DobleFuncion --> PreLectura --> DuranteLect --> PostLectura
+        DobleFuncion --> Tecnicas --> TecnicasExtra --> ActGeneros
+    end
+
+    subgraph BIBL["5. Bibliotecas como Recurso"]
+        PLEA["PLEA: Plan Lectura\nEscritura e Informacion\nArt. 33 D155/2022"]
+        BibEsc["Biblioteca Escolar\nArt. 113 LOMLOE"]
+        PlanBibl["Plan de Biblioteca\nen Proyecto Educativo"]
+        KOHA["Gestion: KOHA\nPrestamo digital: E-LBE.2"]
+        FuncionesBibl["Funciones: recopilar,\norganizar, difundir,\nfomentar lectura"]
+        BibAula["Biblioteca de Aula:\nrecursos segun nivel\ny desarrollo psicoevolutivo"]
+        VentajasAula["Ventajas: habito lector,\nacceso rapido,\nresponsabilidad"]
+        PlanLIA["Plan LIA: Lectura\nInformacion y Aprendizaje\nConselleria Galicia"]
+        PLAMBE["PLAMBE: Plan Mejora\nBibliotecas Galicia"]
+        Programas["Clubs Lectura, Radio\nna Biblio, Bib. Creativa,\nLectura e Familia"]
+        PLEA --> BibEsc -->|"Art. 113 LOMLOE"| PlanBibl
+        BibEsc --> KOHA
+        BibEsc --> FuncionesBibl
+        PlanLIA --> PLAMBE --> Programas
+        BibAula --> VentajasAula
+    end
+
+    %% Inter-section connections
+    D155 -->|"Art. 4 finalidad EP"| DefEL
+    D155 -->|"Anexo II 6.1"| Enfoque
+    DefEL --> GenLit
+    CompLit --> DobleFuncion
+    Bloque5 -->|"contenidos"| GenLit
+    CritEval -->|"evalua"| ActGeneros
+    TiempoDiario --> PLEA
+    FuncionesBibl --> ActGeneros
+    PlanLIA -->|"objetivos CC"| Art6CC

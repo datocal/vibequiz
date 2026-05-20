@@ -3,6 +3,7 @@
   "description": "Preguntas de nivel avanzado sobre el proceso de adquisición y desarrollo del lenguaje en la EP, comprensión y expresión oral, elementos no lingüísticos y estrategias de intervención educativa.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-17.svg",
   "questions": [
     {
       "question": "Según el artículo 2 de la LOMLOE, ¿cuál de los siguientes enunciados refleja con mayor precisión el fin del sistema educativo relacionado con las lenguas?",

@@ -1,0 +1,149 @@
+flowchart TD
+    TITLE["Tema 20: Matematicas en Educacion Primaria"]
+
+    subgraph MARCO["Marco Legislativo"]
+        LOMLOE["LOMLOE 3/2020"]
+        D155["Decreto 155/2022 Galicia"]
+        RD157["RD 157/2022 Ensenanzas Minimas"]
+        D155_ART4["Art. 4: Finalidad EP\n(calculo y habilidades logicas)"]
+        D155_ART7["Art. 7 Obj-g: Competencias\nmatematicas basicas"]
+        LOMLOE --> D155
+        D155 --> D155_ART4
+        D155 --> D155_ART7
+        RD157 --> D155
+    end
+
+    subgraph ENFOQUE["2. Enfoque y Caracteristicas"]
+        ENF_COMP["Enfoque Competencial\n(transversal, dinamico, integral)"]
+        ENF_EXP["Enfoque Experimental\n(vivencia, manipulacion)"]
+        ENF_GRAD["Aprendizaje Gradual\n(concreto a abstracto)"]
+        CARACT["Caracteristicas del Area"]
+        C1["Constructivo y gradual"]
+        C2["Instrumental\n(junto con LCL)"]
+        C3["Interdisciplinar y transversal"]
+        C4["Formativo, informativo\ny vivencial"]
+        ENF_COMP --> CARACT
+        ENF_EXP --> CARACT
+        ENF_GRAD --> CARACT
+        CARACT --> C1
+        CARACT --> C2
+        CARACT --> C3
+        CARACT --> C4
+    end
+
+    subgraph INTERVENCION["2.3. Propuestas de Intervencion"]
+        CURRICULO["Curriculo\nArt. 6 D155/2022"]
+        SESIONES["5 sesiones/semana 1er ciclo\n4 sesiones 2do y 3er ciclo\nAnexo III"]
+        MET_GEN["Metodologia General"]
+        MG1["Contextos funcionales\ny cotidianos"]
+        MG2["Enfoque globalizador\ne interdisciplinar"]
+        MG3["Vivencia, manipulacion\ny abstraccion"]
+        MG4["DUA: atencion a la diversidad"]
+        MG5["Aprendizaje significativo\nPiaget, Ausubel, Vigotsky"]
+        MG6["TIC y EVA"]
+        MET_ESP["Metodologias Especificas"]
+        ME1["Aprendizaje Cooperativo"]
+        ME2["Unidades Integradas"]
+        ME3["ABP: Aprendizaje\nBasado en Proyectos"]
+        ME4["Aprendizaje Basado\nen Problemas"]
+        ME5["Aprendizaje-Servicio"]
+        ME6["Metacognicion"]
+        INNOVACION["Proyectos Innovacion Xunta\nPolos Creativos, Innova-Lab\nPROA+, Plan Proxecta"]
+        CURRICULO --> SESIONES
+        SESIONES --> MET_GEN
+        MET_GEN --> MG1
+        MET_GEN --> MG2
+        MET_GEN --> MG3
+        MET_GEN --> MG4
+        MET_GEN --> MG5
+        MET_GEN --> MG6
+        MET_GEN --> MET_ESP
+        MET_ESP --> ME1
+        MET_ESP --> ME2
+        MET_ESP --> ME3
+        MET_ESP --> ME4
+        MET_ESP --> ME5
+        MET_ESP --> ME6
+        MET_ESP --> INNOVACION
+    end
+
+    subgraph COMPETENCIAS["3. Contribucion a Competencias Clave"]
+        CC_DEF["CC: Art. 6 D155/2022\nPerfil de Salida + Descriptores"]
+        STEM["STEM: Comp. Matematica\ny Ciencia-Tecnologia-Ingenieria"]
+        CCL["CCL: Comunicacion Linguistica\n(lenguaje matematico)"]
+        CD["CD: Competencia Digital\n(Geogebra, Scratch, Excel)"]
+        CPSAA["CPSAA: Aprender a Aprender\n(metacognicion, autonomia)"]
+        CE["CE: Competencia Emprendedora\n(resolucion problemas)"]
+        CCCIUD["CC Ciudadana\n(trabajo en equipo)"]
+        CCEC["CCEC: Conciencia Cultural\n(geometria en arte)"]
+        CC_DEF --> STEM
+        CC_DEF --> CCL
+        CC_DEF --> CD
+        CC_DEF --> CPSAA
+        CC_DEF --> CE
+        CC_DEF --> CCCIUD
+        CC_DEF --> CCEC
+    end
+
+    subgraph CURRICULUM["4. Objetivos, Contenidos y Evaluacion"]
+        OBJ["Tipos de Objetivos"]
+        ODS["ODS 2030\nODS4, ODS8, ODS9"]
+        OBJ_ETAPA["Objetivos de Etapa\nArt. 7 D155/2022 - 15 objetivos\nObj-g clave para Matematicas"]
+        OBJ_AREA["8 Objetivos de Area\nAnexo II ep. 9.2 D155/2022"]
+        OA1["OBJ1: Representacion matematica\nsituaciones cotidianas"]
+        OA2["OBJ2: Resolver situaciones\ncon tecnicas y razonamiento"]
+        OA3["OBJ3: Formular y comprobar\nconjeturas"]
+        OA4["OBJ4: Pensamiento computacional\npatrones y algoritmos"]
+        OA7["OBJ7: Destrezas socioemocionales\nante retos matematicos"]
+        OBJ --> ODS
+        OBJ --> OBJ_ETAPA
+        OBJ --> OBJ_AREA
+        OBJ_AREA --> OA1
+        OBJ_AREA --> OA2
+        OBJ_AREA --> OA3
+        OBJ_AREA --> OA4
+        OBJ_AREA --> OA7
+        CONTENIDOS["6 Bloques de Contenidos\nAnexo II D155/2022"]
+        B1["Bloque 1: Sentido Numerico\n(numeros y operaciones)"]
+        B2["Bloque 2: Sentido de la Medida\n(atributos y unidades)"]
+        B3["Bloque 3: Sentido Espacial\n(geometria)"]
+        B4["Bloque 4: Sentido Algebraico\ny Pensamiento Computacional"]
+        B5["Bloque 5: Sentido Estocastico\n(estadistica y probabilidad)"]
+        B6["Bloque 6: Sentido Socioemocional\n(emociones y valores)"]
+        CONTENIDOS --> B1
+        CONTENIDOS --> B2
+        CONTENIDOS --> B3
+        CONTENIDOS --> B4
+        CONTENIDOS --> B5
+        CONTENIDOS --> B6
+        CRITERIOS["Criterios de Evaluacion\nArt. 6 D155/2022\n(niveles de desempeno)"]
+        CR1["Aprendizajes contextualizados\nEn situaciones cotidianas"]
+        CR2["Estrategias de resolucion\nde problemas"]
+        CR3["Uso de medios tecnologicos"]
+        CRITERIOS --> CR1
+        CRITERIOS --> CR2
+        CRITERIOS --> CR3
+    end
+
+    subgraph RELACION["5. Relacion con Otras Areas"]
+        ART3["Art. 3 D155/2022:\nEP caracter global e integrador"]
+        LENGUAS["LCL, LGL, LE:\nlenguaje oral-escrito + matematico"]
+        CIENCIAS["CC Naturaleza y Sociales:\nexplorar y representar realidad"]
+        ARTES["Ed. Plastica, Musica y Danza:\nespacio geometrico, ritmo y tiempo"]
+        EF["Educacion Fisica:\norientacion espacial"]
+        PC["Proyecto Competencial:\ninvestigacion y datos"]
+        VCE["Valores Civicos y Eticos\n(desde 6to curso)"]
+        ART3 --> LENGUAS
+        ART3 --> CIENCIAS
+        ART3 --> ARTES
+        ART3 --> EF
+        ART3 --> PC
+        ART3 --> VCE
+    end
+
+    TITLE -->|"Art. 4 y 7"| MARCO
+    MARCO -->|"Fundamenta"| ENFOQUE
+    ENFOQUE -->|"Orienta"| INTERVENCION
+    INTERVENCION -->|"Desarrolla"| COMPETENCIAS
+    COMPETENCIAS -->|"Articula"| CURRICULUM
+    CURRICULUM -->|"Conecta con"| RELACION

@@ -3,6 +3,7 @@
   "description": "Área de Educación Artística en EP: enfoque, características, competencias clave, objetivos, contenidos, criterios de evaluación y relación con otras áreas. Decreto 155/2022 y marco LOMLOE.",
   "category": "temas",
   "difficulty": "hard",
+  "diagramUri": "/diagrams/temas/tema-12.svg",
   "questions": [
     {
       "question": "¿En qué artículo del Decreto 155/2022 se recogen la EPV y la MD como dos disciplinas académicas independientes con sus propios objetivos y criterios de evaluación?",
