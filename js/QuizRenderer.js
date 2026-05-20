@@ -106,8 +106,10 @@ export class QuizRenderer {
         const hasDiagram = !!quiz.diagramUri;
 
         if (hasQuickQuiz || hasDiagram) {
+            const basePath = window.location.pathname.startsWith('/vibequiz') ? '/vibequiz' : '';
+            const diagramUrl = hasDiagram ? basePath + quiz.diagramUri : '';
             const diagramBtn = hasDiagram ? `
-                        <a href="${this.escapeHtml(quiz.diagramUri)}" target="_blank" rel="noopener noreferrer" class="diagram-btn">
+                        <a href="${this.escapeHtml(diagramUrl)}" target="_blank" rel="noopener noreferrer" class="diagram-btn">
                             <span class="diagram-btn__icon">🗺️</span>
                             <span class="diagram-btn__text">Ver Diagrama</span>
                         </a>` : '';
